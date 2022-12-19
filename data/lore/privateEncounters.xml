@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8"?><privateEncounters>
+<privateEncounter id="1879049230" name="Instance: Unravelling the Thread" contentLayerId="268435521" questId="1879049231" description="&lt;u&gt;Unravelling the Thread&lt;/u&gt;&#10;\qStrider and the Rangers pursue their fallen brother Amdir to the Blackwolds' camp, but not all is as it seems....\q">
+<instanceMap>
+<map mapId="268437653" region="1" minLon="-49.20000076293945" minLat="-34.79999923706055" maxLon="-47.599998474121094" maxLat="-33.20000076293945"/>
+<zone zoneId="1879063997"/>
+</instanceMap>
+</privateEncounter>
+<privateEncounter id="1879049246" name="Instance: Blackwold's Broken" contentLayerId="268435528" questId="1879049247" description="&lt;u&gt;Blackwolds Broken&lt;/u&gt;&#10;\qAmdir's defeat shattered the back of the Blackwolds, but pieces of the mystery remain unsolved....\q">
+<instanceMap>
+<map mapId="1879048548"/>
+<zone zoneId="1879048548"/>
+</instanceMap>
+</privateEncounter>
+<privateEncounter id="1879049555" name="Instance: Assault on Archet" contentLayerId="268435469" questId="1879048399" description="&lt;u&gt;Assault on Archet&lt;/u&gt;&#10;\qÉogan and the Blackwolds renew their efforts to secure Mundo Sackville-Baggins for the ominous Black Riders....\q">
+<instanceMap>
+<map mapId="1879048237"/>
+<zone zoneId="1879048237"/>
+</instanceMap>
+<instanceMap>
+<map mapId="268437719" region="1" minLon="-49.20000076293945" minLat="-26.0" maxLon="-48.39999771118164" maxLat="-24.399999618530273"/>
+<zone zoneId="1879064014"/>
+</instanceMap>
+</privateEncounter>
+<privateEncounter id="1879049884" name="Instance: Red-pass" contentLayerId="268435488" questId="1879049885" description="&lt;u&gt;Red-pass&lt;/u&gt;&#10;\qThe Gaunt-lord Ivar spreads corruption through Agamaur, the Red Swamp, raising a host of evil to do the bidding of Angmar....\q">
+<instanceMap>
+<map mapId="268437603" region="1" minLon="-27.599998474121094" minLat="-30.0" maxLon="-26.0" maxLat="-28.399999618530273"/>
+<zone zoneId="1879063952"/>
+</instanceMap>
+</privateEncounter>
+<privateEncounter id="1879049994" name="Instance: Retake Weathertop" contentLayerId="268435494" questId="1879049995" description="&lt;u&gt;Retake Weathertop&lt;/u&gt;&#10;\qWeathertop... once a watchtower of the Dúnedain, now a refuge for Orcs. Candaith the Ranger strives to break their foothold in the Weather Hills....\q">
+<instanceMap>
+<map mapId="268437603" region="1" minLon="-38.0" minLat="-32.39999771118164" maxLon="-35.599998474121094" maxLat="-30.0"/>
+<zone zoneId="1879063948"/>
+</instanceMap>
+</privateEncounter>
+<privateEncounter id="1879051657" name="Instance: Beneath the Greenfields" contentLayerId="268435478" questId="1879051649" description="&lt;u&gt;Beneath the Greenfields&lt;/u&gt;&#10;\qThe goblins of Mount Gram have never forgotten their defeat at the hands of the Shire-folk, and revenge has brought them hither once more....\q">
+<instanceMap>
+<map mapId="1879048577"/>
+<zone zoneId="1879048577"/>
+</instanceMap>
+</privateEncounter>
+<privateEncounter id="1879051764" name="Instance: A Gift for the North" contentLayerId="268435529" questId="1879051765" description="&lt;u&gt;A Gift for the North&lt;/u&gt;&#10;\qThe Stone-troll of Rushock Bog... a terrible legend stalks the fens, enraged by the dwarves who seek to capture it....\q">
+<instanceMap>
+<map mapId="268437678" region="1" minLon="-74.0" minLat="-28.399999618530273" maxLon="-73.19999694824219" maxLat="-26.799999237060547"/>
+<zone zoneId="1879064021"/>
+</instanceMap>
+</privateEncounter>
+<privateEncounter id="1879051812" name="Instance: Skorgrím's Tomb" contentLayerId="268435480" questId="1879048403" description="&lt;u&gt;Skorgrím's Tomb&lt;/u&gt;&#10;\qLord Dwalin's investigation has uncovered the treachery of the Dourhands. While Durin's Folk prepare to drive the Dourhands from Thorin's Hall, Dwalin gathers his forces to stop a darker threat....\q">
+<instanceMap>
+<map mapId="1879048412"/>
+<zone zoneId="1879048412"/>
+</instanceMap>
+</privateEncounter>
+<privateEncounter id="1879052043" name="Instance: A Burglar's Errand" contentLayerId="268435543" questId="1879052044" maxPlayers="1" description="&lt;u&gt;A Burglar's Errand&lt;/u&gt;&#10;\qMedhrod, a legendary sword once wielded by a great hero who helped keep the Great East Road clear of threats, has been stolen by the half-orcs of Naerost, leading Palma Brownlock, a hobbit-burglar of no small reputation, to gather allies to recover it....\q">
+<instanceMap>
+<map mapId="268437603" region="1" minLon="-34.79999923706055" minLat="-31.599998474121094" maxLon="-33.20000076293945" maxLat="-30.0"/>
+<zone zoneId="1879063949"/>
+</instanceMap>
+</privateEncounter>
+<privateEncounter id="1879052053" name="Instance: A Thief in the Night" contentLayerId="268435539" questId="1879052054" maxPlayers="1" description="&lt;u&gt;A Thief in the Night&lt;/u&gt;&#10;\qThe hobbit-burglar Atherol Took has learned that some of the Big Folk who have been causing trouble in the Southfarthing of the Shire are planning to sneak onto Farmer Maggot's land and steal his mushrooms. Atherol has no intention of allowing hobbit-mushrooms to be stolen by Men....\q">
+<instanceMap>
+<map mapId="268437678" region="1" minLon="-65.19999694824219" minLat="-34.79999923706055" maxLon="-63.599998474121094" maxLat="-34.0"/>
+<zone zoneId="1879064025"/>
+</instanceMap>
+</privateEncounter>
+<privateEncounter id="1879052341" name="Instance: A Lore-master's Will" contentLayerId="268435545" questId="1879048478" maxPlayers="1" description="&lt;u&gt;A Lore-master's Will&lt;/u&gt;&#10;\qThe Elf-loremaster Isferon received a gift from his friend Berenon before he passed over the Sea, but the gift is wrapped in a riddle. Before the gift can be revealed Berenon's puzzle must be solved....\q">
+<instanceMap>
+<map mapId="1879048476"/>
+<zone zoneId="1879048476"/>
+</instanceMap>
+</privateEncounter>
+<privateEncounter id="1879052356" name="Instance: A Well-Ordered Mind" contentLayerId="268435542" questId="1879048686" maxPlayers="1" description="&lt;u&gt;A Well-Ordered Mind&lt;/u&gt;&#10;\qDorset Oakes, the son of a lore-master now dead, seeks the knowledge contained in his father's old library and is prepared to hunt for the pages to the catalogue his father had written; however, goblins have been diggin in the caves near the library and may soon break through....\q">
+<instanceMap>
+<map mapId="1879048684"/>
+<zone zoneId="1879048684"/>
+</instanceMap>
+</privateEncounter>
+<privateEncounter id="1879052447" name="Instance: A Hunter's Charge" contentLayerId="268435547" questId="1879052448" maxPlayers="1" description="&lt;u&gt;A Hunter's Charge&lt;/u&gt;&#10;\qAfter receiving word of a pack of Wargs making their way into the Shire, land of the hobbits, the huntress Gytha Lainey has recruited the best hunters to track and slay the evil Wargs before they can harm any of the Shire-folk....\q">
+<instanceMap>
+<map mapId="268437678" region="1" minLon="-70.79999542236328" minLat="-28.399999618530273" maxLon="-70.0" maxLat="-26.799999237060547"/>
+<zone zoneId="1879064022"/>
+</instanceMap>
+</privateEncounter>
+<privateEncounter id="1879052457" name="Instance: The Hunter's Path" contentLayerId="268435541" questId="1879052458" maxPlayers="1" description="&lt;u&gt;The Hunter's Path&lt;/u&gt;&#10;\qAn terrible and vicious wolf called Yellowfang stalks through the Old Forest, often ambushing travellers upon the Great East Road. The accomplished huntress Gytha Lainey is resolved to ridding the Forest of this savage threat....\q">
+<instanceMap>
+<map mapId="268437653" region="1" minLon="-58.0" minLat="-32.39999771118164" maxLon="-56.39999771118164" maxLat="-30.799999237060547"/>
+<zone zoneId="1879063996"/>
+</instanceMap>
+</privateEncounter>
+<privateEncounter id="1879052537" name="Instance: The Unmarked Trail" contentLayerId="268435536" questId="1879052538" description="&lt;u&gt;The Unmarked Trail&lt;/u&gt;&#10;\qAn ancient evil, a corruption of the very nature of Middle-earth, threatens to spread its vile poison throughout the Trollshaws. This evil must be thwarted before it can be brought to bear against the hidden vale of Rivendell.\q">
+<instanceMap>
+<map mapId="268437592" region="1" minLon="-17.19999885559082" minLat="-26.799999237060547" maxLon="-14.799999237060547" maxLat="-24.399999618530273"/>
+<zone zoneId="1879063934"/>
+</instanceMap>
+</privateEncounter>
+<privateEncounter id="1879052622" name="Instance: The Last Refuge" contentLayerId="268435535" questId="1879052623" description="&lt;u&gt;The Last Refuge&lt;/u&gt;&#10;\qSkorgrím's Dourhands have taken refuge from the wrath of Durin's Folk within an ancient dwarf-hold high in the passes of the Misty Mountains. There, they plot their return, unless an end can be put to their scheming once and for all....\q">
+<instanceMap>
+<map mapId="268437691" region="1" minLon="-0.3999999761581421" minLat="-28.399999618530273" maxLon="1.1999999284744263" maxLat="-26.799999237060547"/>
+<zone zoneId="1879063944"/>
+</instanceMap>
+</privateEncounter>
+<privateEncounter id="1879052713" name="Instance: The Gates of Carn Dûm" contentLayerId="268435552" questId="1879052714" description="&lt;u&gt;The Gates of Carn Dûm&lt;/u&gt;&#10;\qUsing the scroll of the Hillmen, a key to the gates of Carn Dûm has been forged. Now the Heroes of Eriador and Lorniel, daughter of Golodir, must pass the gates of the iron fortress and free the Ranger from the clutches of Mordirith, the Steward of Angmar....\q">
+<instanceMap>
+<map mapId="268437615" region="1" minLon="-30.0" minLat="10.800000190734863" maxLon="-28.399999618530273" maxLat="12.399999618530273"/>
+<zone zoneId="1879063971"/>
+</instanceMap>
+</privateEncounter>
+<privateEncounter id="1879052956" name="Instance: A Minstrel's Hope" contentLayerId="268435546" questId="1879048481" maxPlayers="1" description="&lt;u&gt;A Minstrel's Hope&lt;/u&gt;&#10;\qSeveral citizens of the besieged town of Trestlebridge have taken refuge in nearby caves, hoping to wait out the siege, but the Orcs have become aware of the townsfolk's hiding place. It is up to the minstrel Leigh Putnam and her friends to warn them....\q">
+<instanceMap>
+<map mapId="1879048479"/>
+<zone zoneId="1879048479"/>
+</instanceMap>
+</privateEncounter>
+<privateEncounter id="1879052962" name="Instance: A Song for the Company" contentLayerId="268435540" questId="1879052963" maxPlayers="1" description="&lt;u&gt;A Song for the Company&lt;/u&gt;&#10;\qHoping for some new material with which to compose a song, the minstrel Piper Prescott has recruited young blood to aid the hobbit Leland Underhill retrieve some goods stolen from him by the brigands encamped throughout Bree-land....\q">
+<instanceMap>
+<map mapId="1879048486"/>
+<zone zoneId="1879048486"/>
+</instanceMap>
+</privateEncounter>
+<privateEncounter id="1879053111" name="Instance: A Captain's Standard" contentLayerId="268435544" questId="1879053112" maxPlayers="1" description="&lt;u&gt;A Captain's Standard&lt;/u&gt;&#10;\qDwarves of the Dourhand house have taken refuge in the ruins of Ost Galumar, not far from the mines of Othrikar, stirring the Longbeards of Othrikar to action. Jarl Copperbrace recruits the bravest of the brave to deal with the threat of the Dourhands....\q">
+<instanceMap>
+<map mapId="268437634" region="1" minLon="-47.599998474121094" minLat="-8.399999618530273" maxLon="-46.0" maxLat="-6.799999713897705"/>
+<zone zoneId="1879063978"/>
+<zone zoneId="1879063977"/>
+</instanceMap>
+</privateEncounter>
+<privateEncounter id="1879054343" name="Instance: The Defence of Trestlebridge" contentLayerId="268435468" questId="1879054344" description="&lt;u&gt;The Defence of Trestlebridge&lt;/u&gt;&#10;\qThe little town of Trestlebridge is all that stands between the Orcs of Angmar and Bree-land to the south. Halbarad, Ranger of the North, gathers heroes to help defend Trestlebridge from the approaching onslaught....\q">
+<instanceMap>
+<map mapId="268437634" region="1" minLon="-54.0" minLat="-18.0" maxLon="-53.19999694824219" maxLat="-16.399999618530273"/>
+<zone zoneId="1879063972"/>
+</instanceMap>
+</privateEncounter>
+<privateEncounter id="1879059930" name="Instance: A Champion's Courage" contentLayerId="268435549" questId="1879059931" maxPlayers="1" description="&lt;u&gt;A Champion's Courage&lt;/u&gt;&#10;\qMosal-ruk, leader of the Orcs of Ost Cyrn, gathers his strength to crush the Eglain of the Lone-lands and press eastward to Bree-land. Slade Ransford, a champion of the common good, stands ready with his allies to turn back the Orkish war-band....\q">
+<instanceMap>
+<map mapId="268437603" region="1" minLon="-30.799999237060547" minLat="-34.0" maxLon="-30.0" maxLat="-32.39999771118164"/>
+<zone zoneId="1879063949"/>
+</instanceMap>
+</privateEncounter>
+<privateEncounter id="1879060101" name="Instance: A Guardian's Duty" contentLayerId="268435548" questId="1879060102" maxPlayers="1" description="&lt;u&gt;A Guardian's Duty&lt;/u&gt;&#10;\qThe town of Trestlebridge is under siege by by Orcs out of Angmar. One of the guardians of Trestlebridge, Severin Wheeler, has assembled the townsfolk and their southern allies to defend the town against the marauding hordes....\q">
+<instanceMap>
+<map mapId="268437634" region="1" minLon="-54.0" minLat="-16.399999618530273" maxLon="-52.39999771118164" maxLat="-14.799999237060547"/>
+<zone zoneId="1879063973"/>
+</instanceMap>
+</privateEncounter>
+<privateEncounter id="1879061103" name="Instance: Assault on Rath Teraig" contentLayerId="268435533" questId="1879061104" description="&lt;u&gt;Assault on Rath Teraig&lt;/u&gt;&#10;\qThe combined forces of Lord Dwalin of Thorin's Hall and Dorongúr Whitethorn of Duillond prepare to march upon the goblin-army at Rath Teraig....\q">
+<instanceMap>
+<map mapId="268437576" region="1" minLon="-98.79999542236328" minLat="-25.19999885559082" maxLon="-97.19999694824219" maxLat="-23.600000381469727"/>
+<zone zoneId="1879063926"/>
+</instanceMap>
+</privateEncounter>
+<privateEncounter id="1879061120" name="Instance: Rescue by Moonlight" contentLayerId="268435532" questId="1879061121" description="&lt;u&gt;Rescue by Moonlight&lt;/u&gt;&#10;\qAvorthal had been moved from the Dourhand encampment to a ship preparing to depart for an unknown port in the North. His rescue is paramount to maintaining peace in Ered Luin....\q">
+<instanceMap>
+<map mapId="268437576" region="1" minLon="-92.4000015258789" minLat="-22.0" maxLon="-90.79999542236328" maxLat="-20.399999618530273"/>
+<zone zoneId="1879063931"/>
+</instanceMap>
+</privateEncounter>
+<privateEncounter id="1879061123" name="Instance: To Avert a War" contentLayerId="268435502" questId="1879061124" description="&lt;u&gt;To Avert a War&lt;/u&gt;&#10;\qThe Ranger Langlas prepares to mount an effort to rescue the Elf-prince Avorthal from the clutches of the treacherous Dourhands....\q">
+<instanceMap>
+<map mapId="268437576" region="1" minLon="-95.5999984741211" minLat="-18.799999237060547" maxLon="-94.0" maxLat="-17.19999885559082"/>
+<zone zoneId="1879063923"/>
+</instanceMap>
+</privateEncounter>
+<privateEncounter id="1879061565" name="Instance: Othrongroth" contentLayerId="268435527" questId="1879048516" description="&lt;u&gt;Othrongroth&lt;/u&gt;&#10;\qAn unholy alliance is forged within the depths of Othrongroth, the Great Barrow, a sinister pact which could spell doom for Eriador....\q">
+<instanceMap>
+<map mapId="1879048512"/>
+<zone zoneId="1879048512"/>
+</instanceMap>
+<instanceMap>
+<map mapId="268437653" region="1" minLon="-56.39999771118164" minLat="-34.0" maxLon="-54.79999923706055" maxLat="-33.20000076293945"/>
+<zone zoneId="1879063999"/>
+</instanceMap>
+</privateEncounter>
+<privateEncounter id="1879062509" name="Instance: Frodo's Burden" contentLayerId="268435537" questId="1879062510" maxPlayers="1" description="&lt;u&gt;Frodo's Burden&lt;/u&gt;&#10;\qI am concerned for Frodo, for he bears a great burden. It is my hope that those whom I have sent to watch over the hobbit will determine if his mind remains strong enough for the task for which he has been chosen....\q">
+<instanceMap>
+<map mapId="268437713" region="1" minLon="-3.5999999046325684" minLat="-30.0" maxLon="-2.799999952316284" maxLat="-29.19999885559082"/>
+<zone zoneId="1879063939"/>
+</instanceMap>
+</privateEncounter>
+<privateEncounter id="1879063051" name="Instance: To a Ranger's Aid" contentLayerId="268435519" questId="1879049837" description="&lt;u&gt;To a Ranger's Aid&lt;/u&gt;&#10;\qAmdir, quickly falling into the shadows of the wraith-world, has slain two of his brethren already and seeks the blood of a third....\q">
+<instanceMap>
+<map mapId="1879048457"/>
+<zone zoneId="1879048457"/>
+</instanceMap>
+</privateEncounter>
+<privateEncounter id="1879064582" name="Instance: Carn Dûm" contentLayerId="268435538" description="&lt;u&gt;Carn Dûm&lt;/u&gt;&#10;\qCarn Dûm, the capital of Angmar and the former stronghold of the Witch-king. Angmar's shadow has returned to this city in the form of the False King, Mordirith, Steward of Angmar.\q">
+<instanceMap>
+<map mapId="1879048289"/>
+<zone zoneId="1879048289"/>
+</instanceMap>
+<instanceMap>
+<map mapId="1879051227"/>
+<zone zoneId="1879051227"/>
+</instanceMap>
+<instanceMap>
+<map mapId="1879076058"/>
+<zone zoneId="1879076058"/>
+</instanceMap>
+<instanceMap>
+<map mapId="268437615" region="1" minLon="-34.79999923706055" minLat="11.59999942779541" maxLon="-32.39999771118164" maxLat="14.0"/>
+<zone zoneId="1879063961"/>
+</instanceMap>
+</privateEncounter>
+<privateEncounter id="1879073446" name="Instance: A Road Through the Dark" contentLayerId="268435510" questId="1879048500" maxPlayers="1" description="&lt;u&gt;A Road Through the Dark&lt;/u&gt;&#10;\qA distressing letter speaks of troubles beyond the Shire, leading a hobbit to take the long road to Archet, fraught with danger....\q">
+<instanceMap>
+<map mapId="1879048497"/>
+<zone zoneId="1879048497"/>
+</instanceMap>
+<instanceMap>
+<map mapId="268437678" region="1" minLon="-69.19999694824219" minLat="-34.0" maxLon="-67.5999984741211" maxLat="-33.20000076293945"/>
+<zone zoneId="1879064020"/>
+</instanceMap>
+</privateEncounter>
+<privateEncounter id="1879073497" name="Instance: Jailbreak" contentLayerId="268435500" questId="1879048392" maxPlayers="1" description="&lt;u&gt;Jailbreak&lt;/u&gt;&#10;\qA chance encounter with brigands upon the road leads to captivity, but rescue may not be far away....\q"/>
+<privateEncounter id="1879073540" name="Instance: The Refuge of Edhelion" contentLayerId="268435485" questId="1879052383" maxPlayers="1" description="&lt;u&gt;The Refuge of Edhelion&lt;/u&gt;&#10;\qThe refuge of Edhelion has come under attack by dwarves and goblins led by the cruel Skorgrím Dourhand....\q">
+<instanceMap>
+<map mapId="268437576" region="1" minLon="-101.19999694824219" minLat="-14.799999237060547" maxLon="-99.5999984741211" maxLat="-13.199999809265137"/>
+<zone zoneId="1879063927"/>
+</instanceMap>
+</privateEncounter>
+<privateEncounter id="1879073579" name="Instance: Into the Silver Deep" contentLayerId="268435486" questId="1879048406" maxPlayers="1" description="&lt;u&gt;Into the Silver Deep&lt;/u&gt;&#10;\qThorin Oakenshield prepares to depart for the Lonely Mountain, and an assembly is called to bid his Company good fortune....\q">
+<instanceMap>
+<map mapId="1879048404"/>
+<zone zoneId="1879048404"/>
+</instanceMap>
+<instanceMap>
+<map mapId="268437722" region="1" minLon="-102.0" minLat="-14.799999237060547" maxLon="-101.19999694824219" maxLat="-14.0"/>
+<zone zoneId="1879063932"/>
+</instanceMap>
+</privateEncounter>
+<privateEncounter id="1879076000" name="Public Instance: Newbie Archet" contentLayerId="268435461" description="Public Instance: Newbie Archet"/>
+<privateEncounter id="1879076001" name="Public Instance: Newbie Thorin's Halls" contentLayerId="268435481" description="Public Instance: Newbie Thorin's Halls"/>
+<privateEncounter id="1879076779" name="Thorin's Halls" contentLayerId="268435480" questId="1879076782" description="Thorin's Halls">
+<instanceMap>
+<map mapId="1879048412"/>
+<zone zoneId="1879048412"/>
+</instanceMap>
+</privateEncounter>
+<privateEncounter id="1879076780" name="Instance: The Hideout" contentLayerId="268435515" questId="1879048555" description="&lt;u&gt;A Burglar's Errand&lt;/u&gt;&#10;\qMedhrod, a legendary sword once wielded by a great hero who helped keep the Great East Road clear of threats, has been stolen by the half-orcs of Naerost, leading Palma Brownlock, a hobbit-burglar of no small reputation, to gather allies to recover it....\q">
+<instanceMap>
+<map mapId="1879048548"/>
+<zone zoneId="1879048548"/>
+</instanceMap>
+</privateEncounter>
+<privateEncounter id="1879077397" name="Private Instance: Slay the Steward" contentLayerId="268435525" description="Monster-play Instance: Slay the Steward"/>
+<privateEncounter id="1879078558" name="Instance: The Great Barrow" contentLayerId="268435534" description="&lt;u&gt;Othrongroth&lt;/u&gt;&#10;\qOthrongroth, the Great Barrow, the oldest and largest of the Edain mounds within the Barrow-downs... And home to some of the most terrifying servants of the Witch-king.\q">
+<instanceMap>
+<map mapId="1879048512"/>
+<zone zoneId="1879048512"/>
+</instanceMap>
+</privateEncounter>
+<privateEncounter id="1879078810" name="Instance: Broken Alliance" contentLayerId="268435526" questId="1879050079" description="&lt;u&gt;Broken Alliance&lt;/u&gt;&#10;\qAfter learning of a plot by Sharkey's Men to forge an alliance with the Orcs encroaching into the northern Bree-fields, the Ranger Saeradan sets into motion a plan to break the alliance before it can be established....\q">
+<instanceMap>
+<map mapId="1879048229"/>
+<zone zoneId="1879048229"/>
+</instanceMap>
+</privateEncounter>
+<privateEncounter id="1879080018" name="Instance: Garth Agarwen" contentLayerId="268435491" description="&lt;u&gt;Garth Agarwen&lt;/u&gt;&#10;\qGarth Agarwen . . . The ruins of an ancient fortress of Rhudaur, now overrun by corrupted nature and a vile necromantic power out of Angmar. The most terrible power still remains to be confronted.\q">
+<instanceMap>
+<map mapId="268437603" region="1" minLon="-24.399999618530273" minLat="-30.0" maxLon="-22.799999237060547" maxLat="-28.399999618530273"/>
+<zone zoneId="1879063955"/>
+</instanceMap>
+</privateEncounter>
+<privateEncounter id="1879080858" name="Instance: Thrór's Hammer" contentLayerId="268435553" questId="1879085859" description="&lt;u&gt;Thrór's Hammer&lt;/u&gt;&#10;\qDwalin, lord of Thorin's Hall has tasked the Heroes of Eriador with recovering Thrór's hammer from the tomb of Skorgrím, where the Dourhands have enshrined it as a memorial of victory over Durin's Folk....\q">
+<instanceMap>
+<map mapId="1879048412"/>
+<zone zoneId="1879048412"/>
+</instanceMap>
+</privateEncounter>
+<privateEncounter id="1879081168" name="Instance: Fornost" contentLayerId="268435513" description="&lt;u&gt;Helegrod&lt;/u&gt;&#10;\qHelegrod... Once a dwarf-hold in the Misty Mountains, until the coming of a great dragon. Though the dragon has long since perished, and the ice of many long winters has engulfed the ruins, rumours out of the North speak of a terrible shadow returning to the frozen halls....\q">
+<instanceMap>
+<map mapId="268437634" region="1" minLon="-54.0" minLat="-6.0" maxLon="-53.19999694824219" maxLat="-5.199999809265137"/>
+<zone zoneId="1879063986"/>
+</instanceMap>
+</privateEncounter>
+<privateEncounter id="1879082285" name="Instance: Urugarth" contentLayerId="268435517" description="&lt;u&gt;Helegrod&lt;/u&gt;&#10;\qHelegrod... Once a dwarf-hold in the Misty Mountains, until the coming of a great dragon. Though the dragon has long since perished, and the ice of many long winters has engulfed the ruins, rumours out of the North speak of a terrible shadow returning to the frozen halls....\q">
+<instanceMap>
+<map mapId="268437615" region="1" minLon="-32.39999771118164" minLat="8.399999618530273" maxLon="-30.0" maxLat="10.800000190734863"/>
+<zone zoneId="1879063968"/>
+</instanceMap>
+</privateEncounter>
+<privateEncounter id="1879083265" name="Instance: Fire and Ice" contentLayerId="268435554" questId="1879052244" description="&lt;u&gt;Fire and Ice&lt;/u&gt;&#10;\qElrond Halfelven fears that the remaining Nazgûl has enlisted the aid of the Gaunt-lord Drugoth to instill a fell spirit into the frozen corpse of the ancient Dragon Thorog and raise the beast once more as a wight. Little time remains to stop their evil plans.\q">
+<contentLayer contentLayerId="0"/>
+<instanceMap>
+<map mapId="1879051241"/>
+<zone zoneId="1879051241"/>
+</instanceMap>
+</privateEncounter>
+<privateEncounter id="1879083267" name="Instance: Helegrod" contentLayerId="268435531" maxPlayers="24" description="&lt;u&gt;Helegrod&lt;/u&gt;&#10;\qHelegrod... Once a dwarf-hold in the Misty Mountains, until the coming of a great dragon. Though the dragon has long since perished, and the ice of many long winters has engulfed the ruins, rumours out of the North speak of a terrible shadow returning to the frozen halls....\q">
+<instanceMap>
+<map mapId="1879084152"/>
+<zone zoneId="1879084152"/>
+</instanceMap>
+<instanceMap>
+<map mapId="268437691" region="1" minLon="-2.0" minLat="-18.799999237060547" maxLon="1.1999999284744263" maxLat="-17.19999885559082"/>
+<zone zoneId="1879063946"/>
+</instanceMap>
+</privateEncounter>
+<privateEncounter id="1879086708" name="Instance: The Blade That Was Broken" contentLayerId="268435568" questId="1879086706" maxPlayers="6" description="&lt;u&gt;The Blade That Was Broken&lt;/u&gt;&#10;\qThe time of Isildur's Heir is at hand. With the recovery of the last Silithar, Elrond has commanded that the light of Narsil, which cut the One Ring from the hand of Sauron, be renewed and rekindled as Anduril, the Flame of the West....\q">
+<instanceMap>
+<map mapId="268437713" region="1" minLon="-6.799999713897705" minLat="-29.19999885559082" maxLon="-6.0" maxLat="-28.399999618530273"/>
+<zone zoneId="1879063939"/>
+</instanceMap>
+</privateEncounter>
+<privateEncounter id="1879087208" name="Instance: The Tomb of Elendil" contentLayerId="268435569" questId="1879087078" maxPlayers="6" description="&lt;u&gt;The Tomb of Elendil&lt;/u&gt;&#10;\qRespect, the one thing Gwindeth desired most, has earned passage into the tomb of Elendil, the resting place of the last Silithar. But with the lowering of the floods, robbers and thieves have taken the opportunity to plunder the tomb....\q">
+<instanceMap>
+<map mapId="1879088988"/>
+<zone zoneId="1879088988"/>
+</instanceMap>
+</privateEncounter>
+<privateEncounter id="1879087637" name="Instance: Barad Gúlaran" contentLayerId="268435570" description="&lt;u&gt;Barad Gúlaran&lt;/u&gt;&#10;\qHaving obtained all the tools they need to contain a terrible spell, the sorcerers of Angmar retreat to Barad Gúlaran to fulfil the commands of their mistress Amarthiel, while the Rangers of the North seek to hinder them....\q">
+<instanceMap>
+<map mapId="1879087106"/>
+<zone zoneId="1879087106"/>
+</instanceMap>
+</privateEncounter>
+<privateEncounter id="1879088600" name="Private Instance: The Twisted Heart" contentLayerId="268435572" questId="1879088601" maxPlayers="6" description="&lt;u&gt;The Twisted Heart&lt;/u&gt;&#10;\qLongbough the Ent has been roused to anger. The Wood-trolls of the Eavespire are acting in league with a Black Huorn which was once under the Ent's guidance, and Longbough is determined to put an end to their mischief....\q">
+<instanceMap>
+<map mapId="268439511" region="1" minLon="-75.5999984741211" minLat="-11.59999942779541" maxLon="-74.0" maxLat="-10.0"/>
+<zone zoneId="1879086551"/>
+</instanceMap>
+</privateEncounter>
+<privateEncounter id="1879088646" name="Instance: Thieftaker's Bane" contentLayerId="268435571" questId="1879088655" maxPlayers="6" description="&lt;u&gt;Thief-taker's Bane&lt;/u&gt;&#10;\qA simple quest to recover ancient Dúnedain relics from the hands of the grave-robbers who stole them has gone terribly awry. The thieves will not allow the Rangers and their allies to take their treasures from them so easily....\q">
+<instanceMap>
+<map mapId="268439511" region="1" minLon="-70.0" minLat="-7.599999904632568" maxLon="-69.19999694824219" maxLat="-6.799999713897705"/>
+<zone zoneId="1879086552"/>
+</instanceMap>
+</privateEncounter>
+<privateEncounter id="1879088729" name="Private Instance: Formal Complaint" contentLayerId="268435573" questId="1879088815" maxPlayers="6" description="&lt;u&gt;A Formal Complaint&lt;/u&gt;&#10;\qAn attempt to lodge a formal complaint on behalf of the glassblower, Hob Hillbrow, led to a violent encounter with the Chief's Men. The time has come to put the ruffians in their place....\q">
+<instanceMap>
+<map mapId="1879089909"/>
+<zone zoneId="1879089909"/>
+</instanceMap>
+</privateEncounter>
+<privateEncounter id="1879088741" name="Instance: Oakheart's Might" contentLayerId="268435457" questId="1879088742" maxPlayers="1" description="&lt;u&gt;Oakheart's Might&lt;/u&gt;&#10;\qA mysterious note from the strange Sara Oakheart bade the heroes who saved her meet her at the gates of Barad Gúlaran, the ancient retreat of the Witch-king of Angmar. Seeking an answer to the mystery of the old woman, Golodir assents....\q">
+<instanceMap>
+<map mapId="1879087106"/>
+<zone zoneId="1879087106"/>
+</instanceMap>
+</privateEncounter>
+<privateEncounter id="1879088953" name="Instance: Amarthiel's Friends" contentLayerId="268435458" questId="1879088955" maxPlayers="1" description="&lt;u&gt;Amarthiel's Hope&lt;/u&gt;&#10;\qSuspecting that Amarthiel, the champion of Angmar, has come to Annúminas -- a suspicion supported by the warning of the Elf Laerdan -- the Rangers of the North prepare to infiltrate the ruined city and put an end to her evil plans....\q">
+<instanceMap>
+<map mapId="268439511" region="1" minLon="-69.19999694824219" minLat="-18.0" maxLon="-66.79999542236328" maxLat="-17.19999885559082"/>
+<zone zoneId="1879086546"/>
+<zone zoneId="1879086547"/>
+</instanceMap>
+</privateEncounter>
+<privateEncounter id="1879092076" name="Instance: Annuminas Gardens" contentLayerId="268435462" description="&lt;u&gt;Glinghant&lt;/u&gt;&#10;\qGlinghant, the gardens of Annúminas -- once a place of great beauty, now overgrown and fallen into ruin. The stagnant of waters of the gardens have become corrupted by the fell spirits of Angmar, and evil Men do their bidding. . . .\q">
+<instanceMap>
+<map mapId="1879089832"/>
+<zone zoneId="1879089832"/>
+</instanceMap>
+</privateEncounter>
+<privateEncounter id="1879092077" name="Instance: Annuminas Palace" contentLayerId="268435459" description="&lt;u&gt;Ost Elendil&lt;/u&gt;&#10;\qThe Black Númenóreans in league with Amarthiel have come to Ost Elendil, seeking to establish a foothold in Annúminas, while the Rangers of the North assail the city of their fathers in a desperate attempt to drive them forth.\q">
+<instanceMap>
+<map mapId="1879092136"/>
+<zone zoneId="1879092136"/>
+</instanceMap>
+</privateEncounter>
+<privateEncounter id="1879092078" name="Instance: Annuminas Tomb" contentLayerId="268435466" description="&lt;u&gt;Haudh Valandil&lt;/u&gt;&#10;\qThe Lords of Umbar, sorcerers trained by Sauron, the great Necromancer, seek to bring terror to Annúminas by raising the long-dead remains of Valandil, third King of Arnor, as a terrible wight. Only the most courageous of the Free Peoples will be able to put an end to their evil deeds. . . .\q">
+<instanceMap>
+<map mapId="1879089971"/>
+<zone zoneId="1879089971"/>
+</instanceMap>
+</privateEncounter>
+<privateEncounter id="1879092661" name="Instance: The Eye of Angmar" contentLayerId="268435575" questId="1879091370" description="&lt;u&gt;Barad Tironn&lt;/u&gt;&#10;\qLaerdan, succumbing to the whisperings of Mordrambor, foolishly seeks to confront Amarthiel at Barad Tironn, where she seeks to use the palantír to find Narchuil. The only hope for the Free Peoples is for the palantír to be recovered from her grasp. . . .\q">
+<instanceMap>
+<map mapId="1879090785"/>
+<zone zoneId="1879090785"/>
+</instanceMap>
+</privateEncounter>
+<privateEncounter id="1879092662" name="Instance: Springing the Trap" contentLayerId="268435574" questId="1879091328" description="&lt;u&gt;Springing the Trap&lt;/u&gt;&#10;\qThe Rangers of the North have learned that Mordrambor, a Black Númenórean deep in the counsels of Amarthiel, is travelling to Haudh Elendil with a small retinue. Hoping to sieze Mordrambor, the Rangers stage an ambush. . . .\q">
+<instanceMap>
+<map mapId="268439511" region="1" minLon="-67.5999984741211" minLat="-17.19999885559082" maxLon="-66.0" maxLat="-16.399999618530273"/>
+<zone zoneId="1879086547"/>
+</instanceMap>
+</privateEncounter>
+<privateEncounter id="1879093354" name="Instance: Mordirith's Fall" contentLayerId="268435470" questId="1879093326" description="&lt;u&gt;Mordirith's Fall&lt;/u&gt;&#10;\qHeartened by the gift of Dúnachar from Elrond of Rivendell, Golodir prepares to assail Carn Dûm and drive the sword into the unseen heart of Mordirith, the murderous Steward of Angmar. Courage may bring hope, but a thirst for vengeance could spell doom. . . .\q">
+<instanceMap>
+<map mapId="1879093930"/>
+<zone zoneId="1879093930"/>
+</instanceMap>
+</privateEncounter>
+<privateEncounter id="1879093836" name="Instance: The Bounty Hunter" contentLayerId="268435576" questId="1879093837" maxPlayers="1" description="&lt;u&gt;The Bounty Hunter&lt;/u&gt;&#10;\qBasil Gummidge hired adventurers from throughout Eriador to bring the ruffians and tomb-robbers of Evendim to justice, but now a notorious tomb-robber, Cuthbert Sprunt, has placed a bounty upon the arbiter's own hunters....\q">
+<instanceMap>
+<map mapId="268439511" region="1" minLon="-64.4000015258789" minLat="-7.599999904632568" maxLon="-63.599998474121094" maxLat="-6.799999713897705"/>
+<zone zoneId="1879086552"/>
+</instanceMap>
+</privateEncounter>
+<privateEncounter id="1879094769" name="Instance: The Rift of Nûrz Ghâshu" contentLayerId="268435471" maxPlayers="12" description="&lt;u&gt;Helegrod&lt;/u&gt;&#10;\qHelegrod... Once a dwarf-hold in the Misty Mountains, until the coming of a great dragon. Though the dragon has long since perished, and the ice of many long winters has engulfed the ruins, rumours out of the North speak of a terrible shadow returning to the frozen halls....\q">
+<contentLayer contentLayerId="0"/>
+<instanceMap>
+<map mapId="1879101482"/>
+<zone zoneId="1879101482"/>
+</instanceMap>
+<instanceMap>
+<map mapId="1879101483"/>
+<zone zoneId="1879101483"/>
+</instanceMap>
+<instanceMap>
+<map mapId="1879101485"/>
+<zone zoneId="1879101485"/>
+</instanceMap>
+<instanceMap>
+<map mapId="1879101486"/>
+<zone zoneId="1879101486"/>
+</instanceMap>
+<instanceMap>
+<map mapId="1879101489"/>
+<zone zoneId="1879101489"/>
+</instanceMap>
+<instanceMap>
+<map mapId="1879101491"/>
+<zone zoneId="1879101491"/>
+</instanceMap>
+<instanceMap>
+<map mapId="1879102227"/>
+<zone zoneId="1879102227"/>
+</instanceMap>
+</privateEncounter>
+<privateEncounter id="1879095630" name="Instance: The Rift" contentLayerId="268435471" maxPlayers="12" description="&lt;u&gt;Helegrod&lt;/u&gt;&#10;\qHelegrod... Once a dwarf-hold in the Misty Mountains, until the coming of a great dragon. Though the dragon has long since perished, and the ice of many long winters has engulfed the ruins, rumours out of the North speak of a terrible shadow returning to the frozen halls....\q">
+<instanceMap>
+<map mapId="1879101489"/>
+<zone zoneId="1879101489"/>
+</instanceMap>
+</privateEncounter>
+<privateEncounter id="1879095631" name="Instance: The Rift" contentLayerId="268435471" maxPlayers="12" description="&lt;u&gt;Helegrod&lt;/u&gt;&#10;\qHelegrod... Once a dwarf-hold in the Misty Mountains, until the coming of a great dragon. Though the dragon has long since perished, and the ice of many long winters has engulfed the ruins, rumours out of the North speak of a terrible shadow returning to the frozen halls....\q">
+<instanceMap>
+<map mapId="1879101489"/>
+<zone zoneId="1879101489"/>
+</instanceMap>
+<instanceMap>
+<map mapId="1879102227"/>
+<zone zoneId="1879102227"/>
+</instanceMap>
+</privateEncounter>
+<privateEncounter id="1879095632" name="Instance: The Rift" contentLayerId="268435471" maxPlayers="12" description="&lt;u&gt;Helegrod&lt;/u&gt;&#10;\qHelegrod... Once a dwarf-hold in the Misty Mountains, until the coming of a great dragon. Though the dragon has long since perished, and the ice of many long winters has engulfed the ruins, rumours out of the North speak of a terrible shadow returning to the frozen halls....\q">
+<instanceMap>
+<map mapId="1879101489"/>
+<zone zoneId="1879101489"/>
+</instanceMap>
+</privateEncounter>
+<privateEncounter id="1879095795" name="Instance: A Trap for the Creature Gollum" contentLayerId="268435586" questId="1879095646" maxPlayers="1" description="&lt;u&gt;A Trap for the Creature&lt;/u&gt;&#10;\qWistan, a hunter in Tâl Bruinen, believes a trap can be set for the skulking creature which has terrorized the scattered inhabitants remaining in the region. Nevertheless, the creature has been a wary and cunning opponent. . . .\q">
+<instanceMap>
+<map mapId="268437592" region="1" minLon="-14.799999237060547" minLat="-38.79999923706055" maxLon="-14.0" maxLat="-37.20000076293945"/>
+<zone zoneId="1879094891"/>
+</instanceMap>
+</privateEncounter>
+<privateEncounter id="1879095796" name="Instance: Prisoner of the Free Peoples" contentLayerId="268435585" questId="1879095522" maxPlayers="1" description="&lt;u&gt;Prisoner of the Free Peoples&lt;/u&gt;&#10;\qThe pages of Sara Oakheart's journal uncovered the way into the ruins of Delossad, once called Sithad in brighter days. The search for Narchuil has led here, but to what end? What have these ragged stones seen. . . ?\q">
+<instanceMap>
+<map mapId="1879095490"/>
+<zone zoneId="1879095490"/>
+</instanceMap>
+<instanceMap>
+<map mapId="268437592" region="1" minLon="-13.199999809265137" minLat="-38.79999923706055" maxLon="-12.399999618530273" maxLat="-38.0"/>
+<zone zoneId="1879094891"/>
+</instanceMap>
+</privateEncounter>
+<privateEncounter id="1879095797" name="Instance: Mordrambor" contentLayerId="268435577" questId="1879095466" maxPlayers="1" description="&lt;u&gt;Mordrambor&lt;/u&gt;&#10;\qThe time has come. Angered by Mordrambor's treacherous betrayal of Laerdan, the Ranger Calenglad is determined to confront the Black Númenórean and learn where Narchuil, the ring of Amarthiel, resides. . . .\q">
+<instanceMap>
+<map mapId="1879090259"/>
+<zone zoneId="1879090259"/>
+</instanceMap>
+</privateEncounter>
+<privateEncounter id="1879095798" name="Instance: Remembrance" contentLayerId="268435584" questId="1879095467" maxPlayers="1" description="&lt;u&gt;Remembrance&lt;/u&gt;&#10;\qToo many of the Dúnedain have fallen to the ravages of one who is their distant kinsman. There is a time for mourning, but is this that time, when the Champion of Angmar might secure her ring, Narchuil. . . ?\q">
+<instanceMap>
+<map mapId="268439511" region="1" minLon="-66.79999542236328" minLat="-7.599999904632568" maxLon="-66.0" maxLat="-6.799999713897705"/>
+<zone zoneId="1879086552"/>
+</instanceMap>
+</privateEncounter>
+<privateEncounter id="1879101527" name="Instance: Goblin-town Throne Room" contentLayerId="268435474" description="&lt;u&gt;Goblin-town Throne Room&lt;/u&gt;&#10;\qIn the darkest depths of Goblin-town, at the heart of the goblin kingdom, teeming with the vile breed, lay the throne room of the Great Goblin. Long have the inhabitants of Goblin-town been leaderless, but as the Shadow in the East grows, calling its minions to arms, a new leader has taken the mantle of the Great Goblin....\q">
+<instanceMap>
+<map mapId="1879101643"/>
+<zone zoneId="1879101643"/>
+</instanceMap>
+</privateEncounter>
+</privateEncounters>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><races>
+<race key="man" tall="true" description="Not as long-lived as Elves, sturdy as Dwarves, or resilient as Hobbits, Men are renowned for their courage and resourcefulness. Playable classes: &lt;li&gt;&lt;rgb=#D5D505&gt;Minstrel&lt;/rgb&gt;&lt;/li&gt;&lt;li&gt;&lt;rgb=#D5D505&gt;Captain&lt;/rgb&gt;&lt;/li&gt;  &lt;li&gt;&lt;rgb=#D5D505&gt;Guardian&lt;/rgb&gt;&lt;/li&gt;&lt;li&gt;&lt;rgb=#D5D505&gt;Hunter&lt;/rgb&gt;&lt;/li&gt;&lt;li&gt;&lt;rgb=#D5D505&gt;Lore-master&lt;/rgb&gt;&lt;/li&gt;&lt;li&gt;&lt;rgb=#D5D505&gt;Burglar&lt;/rgb&gt;&lt;/li&gt; &lt;li&gt;&lt;rgb=#D5D505&gt;Champion&lt;/rgb&gt;&lt;/li&gt;">
+<gender name="Race of Man (Male)" largeIconId="1090553984" iconId="1090553984" smallIconId="0" avatarId="1879073498"/>
+<gender name="Race of Man (Female)" largeIconId="1090553985" iconId="1090553985" smallIconId="0" avatarId="1879073500"/>
+<nationality id="17" name="Bree-land"/>
+<nationality id="16" name="Dale-lands"/>
+<nationality id="6" name="Gondor"/>
+<nationality id="5" name="Rohan"/>
+<allowedClass id="Burglar"/>
+<allowedClass id="Captain"/>
+<allowedClass id="Champion"/>
+<allowedClass id="Guardian"/>
+<allowedClass id="Hunter"/>
+<allowedClass id="Lore-master"/>
+<allowedClass id="Minstrel"/>
+<raceTrait minLevel="1" traitId="1879073502"/>
+<raceTrait minLevel="1" traitId="1879073503"/>
+<raceTrait minLevel="1" traitId="1879073504"/>
+<raceTrait minLevel="1" traitId="1879073505"/>
+</race>
+<race key="elf" tall="true" description="Long ago, the Elves welcomed the younger races of Middle-earth and allied with them when the need was great, but centuries of war, betrayal, and hardship have made them fiercely protective of their seclusion. Playable classes: &lt;li&gt;&lt;rgb=#D5D505&gt;Minstrel&lt;/rgb&gt;&lt;/li&gt;&lt;li&gt;&lt;rgb=#D5D505&gt;Guardian&lt;/rgb&gt;&lt;/li&gt; &lt;li&gt;&lt;rgb=#D5D505&gt;Hunter&lt;/rgb&gt;&lt;/li&gt;&lt;li&gt;&lt;rgb=#D5D505&gt;Lore-master&lt;/rgb&gt;&lt;/li&gt;&lt;li&gt;&lt;rgb=#D5D505&gt;Champion&lt;/rgb&gt;&lt;/li&gt;">
+<gender name="Elf (Male)" largeIconId="1090554005" iconId="1090554005" smallIconId="0" avatarId="1879073541"/>
+<gender name="Elf (Female)" largeIconId="1090554006" iconId="1090554006" smallIconId="0" avatarId="1879073543"/>
+<nationality id="15" name="Lindon"/>
+<nationality id="8" name="Lórien"/>
+<nationality id="11" name="Mirkwood"/>
+<nationality id="7" name="Rivendell"/>
+<nationality id="2" name="Edhellond"/>
+<allowedClass id="Champion"/>
+<allowedClass id="Guardian"/>
+<allowedClass id="Hunter"/>
+<allowedClass id="Lore-master"/>
+<allowedClass id="Minstrel"/>
+<raceTrait minLevel="1" traitId="1879073545"/>
+<raceTrait minLevel="1" traitId="1879073546"/>
+<raceTrait minLevel="1" traitId="1879073547"/>
+<raceTrait minLevel="1" traitId="1879073548"/>
+</race>
+<race key="dwarf" tall="true" description="Dwellers of stone and miners of metal, the Dwarves are a doughty folk, resistant to the corruption of the Enemy -- but not to greed. Playable classes: &lt;li&gt;&lt;rgb=#D5D505&gt;Minstrel&lt;/rgb&gt;&lt;/li&gt;&lt;li&gt;&lt;rgb=#D5D505&gt;Guardian&lt;/rgb&gt;&lt;/li&gt;&lt;li&gt;&lt;rgb=#D5D505&gt;Hunter&lt;/rgb&gt;&lt;/li&gt;&lt;li&gt;&lt;rgb=#D5D505&gt;Champion&lt;/rgb&gt;&lt;/li&gt;">
+<gender name="Dwarf" largeIconId="1090554021" iconId="1090554021" smallIconId="0" avatarId="1879073580"/>
+<nationality id="4" name="Blue Mountains"/>
+<nationality id="3" name="Iron Hills"/>
+<nationality id="12" name="The Lonely Mountain"/>
+<nationality id="10" name="Grey Mountains"/>
+<nationality id="9" name="White Mountains"/>
+<allowedClass id="Champion"/>
+<allowedClass id="Guardian"/>
+<allowedClass id="Hunter"/>
+<allowedClass id="Minstrel"/>
+<raceTrait minLevel="1" traitId="1879073582"/>
+<raceTrait minLevel="1" traitId="1879073583"/>
+<raceTrait minLevel="1" traitId="1879073584"/>
+<raceTrait minLevel="1" traitId="1879073585"/>
+<raceTrait minLevel="1" traitId="1879064086"/>
+</race>
+<race key="hobbit" tall="true" description="Happiest when enjoying a simple life with six square meals a day, Hobbits are solid and dependable when called to action. Playable classes: &lt;li&gt;&lt;rgb=#D5D505&gt;Minstrel&lt;/rgb&gt;&lt;/li&gt; &lt;li&gt;&lt;rgb=#D5D505&gt;Guardian&lt;/rgb&gt;&lt;/li&gt;&lt;li&gt;&lt;rgb=#D5D505&gt;Hunter&lt;/rgb&gt;&lt;/li&gt;&lt;li&gt;&lt;rgb=#D5D505&gt;Burglar&lt;/rgb&gt;&lt;/li&gt;">
+<gender name="Hobbit (Male)" largeIconId="1090553961" iconId="1090553961" smallIconId="0" avatarId="1879073447"/>
+<gender name="Hobbit (Female)" largeIconId="1090553962" iconId="1090553962" smallIconId="0" avatarId="1879073449"/>
+<nationality id="18" name="Fallohide"/>
+<nationality id="14" name="Harfoot"/>
+<nationality id="13" name="Stoor"/>
+<allowedClass id="Burglar"/>
+<allowedClass id="Guardian"/>
+<allowedClass id="Hunter"/>
+<allowedClass id="Minstrel"/>
+<raceTrait minLevel="1" traitId="1879073451"/>
+<raceTrait minLevel="1" traitId="1879073452"/>
+<raceTrait minLevel="1" traitId="1879073453"/>
+<raceTrait minLevel="1" traitId="1879073454"/>
+<raceTrait minLevel="1" traitId="1879073455"/>
+</race>
+</races>

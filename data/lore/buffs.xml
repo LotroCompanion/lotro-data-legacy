@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><buffs>
+<buff key="IN_DEFENCE_OF_MIDDLE_EARTH">
+<effect id="1879053032" name="In Defence of Middle-Earth" iconId="1090533157" duration="300.0">
+<stat name="MIGHT" scaling="1879053033"/>
+<stat name="VITALITY" scaling="1879053034"/>
+<stat name="WILL" scaling="1879053035"/>
+<stat name="FATE" scaling="1879053036"/>
+<stat name="AGILITY" scaling="1879053037"/>
+</effect>
+</buff>
+<buff>
+<effect id="1879060866" name="Ballad of War" iconId="1090541230" duration="15.0">
+<stat name="MELEE_DAMAGE_PERCENTAGE" constant="10.0"/>
+</effect>
+</buff>
+<buff key="MOTIVATED">
+<effect id="1879073072" name="Motivated" iconId="1090553780" duration="1800.0">
+<stat name="MORALE" operator="MULTIPLY" descriptionOverride="+5% Maximum Morale" constant="1.05"/>
+</effect>
+</buff>
+<buff>
+<effect id="1879073120" name="Ballad of Swiftness" iconId="1090553797" duration="10.0">
+<stat name="ATTACK_DURATION_PERCENTAGE" operator="SUBSTRACT" scaling="1879073121"/>
+</effect>
+</buff>
+<buff>
+<effect id="1879073122" name="Ballad of Unshakeable Will" iconId="1090553798" duration="20.0">
+<stat name="Resist_Additional_Resistance_Fear" scaling="1879073123"/>
+</effect>
+</buff>
+<buff>
+<effect id="1879073616" name="Dwarf Endurance" iconId="1090554033" duration="600.0">
+<stat name="VITALITY" scaling="1879053034"/>
+</effect>
+</buff>
+<buff>
+<effect id="1879077245" name="Veteran Fortitude" iconId="1090563514" duration="2700.0">
+<stat name="Combat_Agent_Armor_Value" constant="113.0"/>
+</effect>
+</buff>
+<buff>
+<effect id="1879084065" name="Duty Bound" iconId="1090553996" duration="600.0">
+<stat name="MORALE" operator="MULTIPLY" descriptionOverride="Increases your total morale by ${PERCENTVALUE}." constant="1.02"/>
+</effect>
+</buff>
+<buff>
+<effect id="1879095617" name="War-speech" iconId="1091400695">
+<stat name="Skill_HealingMultiplier_Item" constant="-50.0"/>
+<stat name="Skill_RecoveryTime_SmoothVoiceDurationRecharge" descriptionOverride="-10s Piercing Cry recovery time" constant="-10.0"/>
+<stat name="Skill_ChanceCriticalHit_Minstrel_Warspeech" descriptionOverride="+25% Piercing Cry critical chance" constant="25.0"/>
+<stat name="ForwardSource_Combat_TraitCombo6" operator="SET" constant="45.0"/>
+</effect>
+</buff>
+</buffs>

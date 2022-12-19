@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><enum id="587202568" name="TravelLink">
+<entry code="1" name="PrivateEncounter"/>
+<entry code="2" name="InstanceMilestone"/>
+<entry code="3" name="Home"/>
+<entry code="4" name="PrivateEncounterDefeatMilestone"/>
+<entry code="11" name="ImprisonedFrom"/>
+<entry code="12" name="HunterCamp"/>
+<entry code="13" name="NeighborhoodEntrance"/>
+<entry code="14" name="PrivateEncounter_ExternalInstanceMilestone"/>
+</enum>

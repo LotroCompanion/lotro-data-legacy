@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?><dungeons>
+<dungeon id="1879048193" name="The Bird and Baby Inn" basemapId="1090542537"/>
+<dungeon id="1879048196" name="The Ivy Bush" basemapId="1090542545"/>
+<dungeon id="1879048205" name="The Green Dragon" basemapId="1090542580"/>
+<dungeon id="1879048212" name="The Floating Log Inn" basemapId="1090542622"/>
+<dungeon id="1879048217" name="The Plough and Stars" basemapId="1090542635"/>
+<dungeon id="1879048222" name="The Golden Perch" basemapId="1090542638"/>
+<dungeon id="1879048229" name="Brigand Cave" basemapId="1090542639"/>
+<dungeon id="1879048233" name="Archet Jail" basemapId="1090542640"/>
+<dungeon id="1879048237" name="Hunting Lodge" basemapId="1090542788"/>
+<dungeon id="1879048247" name="The Forsaken Inn" basemapId="1090542790"/>
+<dungeon id="1879048289" name="Castle of the Witch-king" basemapId="1090542890"/>
+<dungeon id="1879048291" name="Torogrod" basemapId="1090542891"/>
+<dungeon id="1879048293" name="Thingroth" basemapId="1090542892"/>
+<dungeon id="1879048294" name="Nurath" basemapId="1090542893"/>
+<dungeon id="1879048295" name="Thorin's Hall" basemapId="1090542895"/>
+<dungeon id="1879048390" name="Blackwold Camp" basemapId="1090542547"/>
+<dungeon id="1879048400" name="Mirkstone Tunnels" basemapId="1090542605"/>
+<dungeon id="1879048404" name="Silver Deep" basemapId="1090542623"/>
+<dungeon id="1879048410" name="The Arming-Cave" basemapId="1090542636"/>
+<dungeon id="1879048412" name="Skorgrím's Tomb" basemapId="1090542637"/>
+<dungeon id="1879048435" name="Tham Giliath" basemapId="1090542789"/>
+<dungeon id="1879048440" name="Halbarad's Study" basemapId="1090542791"/>
+<dungeon id="1879048455" name="Nellie Boskins' House" basemapId="1090542801"/>
+<dungeon id="1879048457" name="Reniolind's Hideout" basemapId="1090542803"/>
+<dungeon id="1879048459" name="Training Hall" basemapId="1090542804"/>
+<dungeon id="1879048467" name="Three-farrow Crafting Hall" basemapId="1090542867"/>
+<dungeon id="1879048476" name="Isferon's Study" basemapId="1090542888"/>
+<dungeon id="1879048479" name="Lorn Pass" basemapId="1090542889"/>
+<dungeon id="1879048486" name="Holt Adderson's Grotto" basemapId="1090542894"/>
+<dungeon id="1879048488" name="Silver Deep Guard House" basemapId="1090542896"/>
+<dungeon id="1879048493" name="Halmur Stoneshaper's Tomb" basemapId="1090542968"/>
+<dungeon id="1879048497" name="Tookland Post Office" basemapId="1090542973"/>
+<dungeon id="1879048501" name="The House of Tom Bombadil" basemapId="1090542974"/>
+<dungeon id="1879048508" name="Scary Quarry" basemapId="1090543037"/>
+<dungeon id="1879048509" name="Esilia's House" basemapId="1090543038"/>
+<dungeon id="1879048512" name="The Great Barrow" basemapId="1090543039"/>
+<dungeon id="1879048517" name="Gerebert's House" basemapId="1090543111"/>
+<dungeon id="1879048518" name="Brockenborings Watch Office" basemapId="1090543112"/>
+<dungeon id="1879048525" name="Great Smials" basemapId="1090543113"/>
+<dungeon id="1879048538" name="The Mad Badger Inn" basemapId="1090543133"/>
+<dungeon id="1879048542" name="Ellie Cutleaf's House" basemapId="1090543134"/>
+<dungeon id="1879048548" name="Brigand Cave" basemapId="1090543135"/>
+<dungeon id="1879048557" name="The Prancing Pony" basemapId="1090543136"/>
+<dungeon id="1879048577" name="Greenfields Warren" basemapId="1090542538"/>
+<dungeon id="1879048580" name="Scholar's Enclave" basemapId="1090542546"/>
+<dungeon id="1879048586" name="Gath Forthnír" basemapId="1090542579"/>
+<dungeon id="1879048632" name="Ologfil" basemapId="1090542794"/>
+<dungeon id="1879048636" name="Bûrzum Pushdug" basemapId="1090542797"/>
+<dungeon id="1879048638" name="Morfil" basemapId="1090542798"/>
+<dungeon id="1879048640" name="The Last Homely House" basemapId="1090542799"/>
+<dungeon id="1879048645" name="Mustering Cave" basemapId="1090542800"/>
+<dungeon id="1879048648" name="The Comb and Wattle Inn" basemapId="1090542802"/>
+<dungeon id="1879048653" name="Elrond's Library" basemapId="1090542839"/>
+<dungeon id="1879048684" name="Benton Oakes's Library" basemapId="1090542967"/>
+<dungeon id="1879048687" name="The Hall of Fire" basemapId="1090542972"/>
+<dungeon id="1879048707" name="The Comb and Wattle Basement" basemapId="1090543110"/>
+<dungeon id="1879051227" name="Carn Dûm Sewers" basemapId="1090551229"/>
+<dungeon id="1879051228" name="Archet Jail" basemapId="1090542640"/>
+<dungeon id="1879051229" name="Sprigley's Cellar" basemapId="1090551230"/>
+<dungeon id="1879051230" name="Bree-town Auction Hall" basemapId="1090551231"/>
+<dungeon id="1879051231" name="Saeradan's Cabin" basemapId="1090578352"/>
+<dungeon id="1879051232" name="Skunkwood's House" basemapId="1090581591"/>
+<dungeon id="1879051233" name="Dogwort's Shed" basemapId="1090619561"/>
+<dungeon id="1879051234" name="Dogwort's Farmhouse" basemapId="1090619560"/>
+<dungeon id="1879051235" name="Staddle Arms" basemapId="1090551232"/>
+<dungeon id="1879051237" name="Rockbelly Pit" basemapId="1090551237"/>
+<dungeon id="1879051238" name="Etten Caves" basemapId="1090551216"/>
+<dungeon id="1879051239" name="Rimpúrod" basemapId="1090551217"/>
+<dungeon id="1879051240" name="Bag End" basemapId="1090551218"/>
+<dungeon id="1879051241" name="Helegrod Treasury" basemapId="1090619403"/>
+<dungeon id="1879051242" name="Gabilazan Vault" basemapId="1090551219"/>
+<dungeon id="1879051243" name="Barad Eithel" basemapId="1090551220"/>
+<dungeon id="1879051244" name="Barad Harn" basemapId="1090551221"/>
+<dungeon id="1879051245" name="Barad Narthan" basemapId="1090551222"/>
+<dungeon id="1879051246" name="Minas Erain" basemapId="1090551223"/>
+<dungeon id="1879051247" name="The Shire Auction Hall" basemapId="1090551224"/>
+<dungeon id="1879051248" name="The Cat Lady's House" basemapId="1090551225"/>
+<dungeon id="1879051249" name="Weapons and Armour Shop" basemapId="1090551226"/>
+<dungeon id="1879051250" name="Weapons and Armour Shop" basemapId="1090551227"/>
+<dungeon id="1879051251" name="Vault of Arwen's Legacy" basemapId="1090551228"/>
+<dungeon id="1879063876" name="Vault of the Seven Sentinels" basemapId="1090619404"/>
+<dungeon id="1879076044" name="Esteldin Library" basemapId="1090561605"/>
+<dungeon id="1879076045" name="Cartwell's House" basemapId="1090561606"/>
+<dungeon id="1879076058" name="Carn Dûm Sewers" basemapId="1090561668"/>
+<dungeon id="1879083689" name="Sprigley's House" basemapId="1090551230"/>
+<dungeon id="1879084147" name="Bávor Wyrm-brand's Tomb" basemapId="1090640288"/>
+<dungeon id="1879084148" name="Brigand Cavern" basemapId="1090643781"/>
+<dungeon id="1879084149" name="The Lore-tower" basemapId="1090640289"/>
+<dungeon id="1879084150" name="Asht-Shâpol" basemapId="1090640290"/>
+<dungeon id="1879084151" name="Barad Dhorn" basemapId="1090640291"/>
+<dungeon id="1879084152" name="Torech Mordeloth" basemapId="1090640292"/>
+<dungeon id="1879085666" name="Bree-town Vault" basemapId="1090641815"/>
+<dungeon id="1879085779" name="Holding Cell" basemapId="1090642075"/>
+<dungeon id="1879085780" name="Warehouse" basemapId="1090642073"/>
+<dungeon id="1879085781" name="Steward's Tavern" basemapId="1090642074"/>
+<dungeon id="1879085887" name="The Lowbanks' Estate" basemapId="1090642205"/>
+<dungeon id="1879085888" name="Scholar's Stair Archives" basemapId="1090642206"/>
+<dungeon id="1879085889" name="Bree-town Jail" basemapId="1090642207"/>
+<dungeon id="1879085890" name="Bree-town Hall" basemapId="1090642599"/>
+<dungeon id="1879085957" name="The Michel Delving Vendor Hall" basemapId="1090642343"/>
+<dungeon id="1879085958" name="The Michel Delving Training Hall" basemapId="1090642323"/>
+<dungeon id="1879087106" name="Barad Gúlaran" basemapId="1090645943"/>
+<dungeon id="1879087594" name="The Eyes and Guard Tavern" basemapId="1090647775"/>
+<dungeon id="1879088988" name="Elendil's Tomb" basemapId="1090649298"/>
+<dungeon id="1879089190" name="Gwindethrond" basemapId="1090649423"/>
+<dungeon id="1879089298" name="Combe Crafting Hall" basemapId="1090649609"/>
+<dungeon id="1879089832" name="Glinghant" basemapId="1090650314"/>
+<dungeon id="1879089909" name="Forsaken Smial" basemapId="1090650370"/>
+<dungeon id="1879089971" name="Valandil's Tomb" basemapId="1090650541"/>
+<dungeon id="1879090259" name="Tinnudir Keep" basemapId="1090651182"/>
+<dungeon id="1879090785" name="Barad Tironn" basemapId="1090651267"/>
+<dungeon id="1879092130" name="The Delving of Frór" basemapId="1091404227"/>
+<dungeon id="1879092131" name="Haudh Iarchith" basemapId="1091387179"/>
+<dungeon id="1879092132" name="The Mathom House" basemapId="1091387358"/>
+<dungeon id="1879092133" name="Sarnúr Great Hall" basemapId="1091115877"/>
+<dungeon id="1879092134" name="Blue Stone Garrison" basemapId="1091387357"/>
+<dungeon id="1879092135" name="Sarnúr Keep" basemapId="1091115876"/>
+<dungeon id="1879092136" name="Ost Elendil" basemapId="1091388264"/>
+<dungeon id="1879092137" name="Bree-town Hunting Lodge" basemapId="1091387359"/>
+<dungeon id="1879092138" name="Sarnúr Caverns" basemapId="1091115875"/>
+<dungeon id="1879093805" name="Thorin's Hall" basemapId="1091387747"/>
+<dungeon id="1879093930" name="Castle of the Witch-king" basemapId="1091388347"/>
+<dungeon id="1879095490" name="Delossad" basemapId="1091400691"/>
+<dungeon id="1879095491" name="Draugroth" basemapId="1091400894"/>
+<dungeon id="1879095492" name="Bar-e-Therchir" basemapId="1091400886"/>
+<dungeon id="1879099102" name="Homestead Provisions" basemapId="1091402950"/>
+<dungeon id="1879099105" name="Homestead Provisions" basemapId="1091402969"/>
+<dungeon id="1879101482" name="Bornabar" basemapId="1091404129"/>
+<dungeon id="1879101483" name="Upper Noruidor" basemapId="1091404131"/>
+<dungeon id="1879101485" name="Norbar" basemapId="1091404124"/>
+<dungeon id="1879101486" name="Norbar Approach" basemapId="1091404125"/>
+<dungeon id="1879101489" name="Gorthban" basemapId="1091404126"/>
+<dungeon id="1879101490" name="Gorthban Approach" basemapId="1091404127"/>
+<dungeon id="1879101491" name="Lower Noruidor" basemapId="1091404128"/>
+<dungeon id="1879101640" name="Goblin-town" basemapId="1091409939"/>
+<dungeon id="1879101641" name="Gollum's Cave" basemapId="1091409940"/>
+<dungeon id="1879101642" name="Den of the Northern Army" basemapId="1091409933"/>
+<dungeon id="1879101643" name="The Great Goblin's Den" basemapId="1091409934"/>
+<dungeon id="1879101644" name="Goblin-town Depths" basemapId="1091409935"/>
+<dungeon id="1879101645" name="Goblin-town Tunnels" basemapId="1091409936"/>
+<dungeon id="1879101848" name="Goblin-town Tunnels" basemapId="1091409937"/>
+<dungeon id="1879101849" name="Goblin-town Tunnels" basemapId="1091409938"/>
+<dungeon id="1879102227" name="Norbar" basemapId="1091413221"/>
+<dungeon id="1879102303" name="Kinship Hall" basemapId="1091410094"/>
+<dungeon id="1879102304" name="Small House" basemapId="1091410097"/>
+<dungeon id="1879102305" name="Small House" basemapId="1091410099"/>
+<dungeon id="1879102306" name="Kinship Hall" basemapId="1091410100"/>
+<dungeon id="1879102307" name="Large House" basemapId="1091410102"/>
+<dungeon id="1879102308" name="Small House" basemapId="1091410104"/>
+<dungeon id="1879102309" name="Kinship Hall" basemapId="1091410105"/>
+<dungeon id="1879102310" name="Large House" basemapId="1091410106"/>
+<dungeon id="1879102311" name="Small House" basemapId="1091410107"/>
+<dungeon id="1879102312" name="Kinship Hall" basemapId="1091410108"/>
+<dungeon id="1879102313" name="Small House" basemapId="1091410109"/>
+<dungeon id="1879102314" name="Small House" basemapId="1091410110"/>
+<dungeon id="1879102315" name="Kinship Hall" basemapId="1091410111"/>
+<dungeon id="1879102316" name="Small House" basemapId="1091410112"/>
+<dungeon id="1879102317" name="Small House" basemapId="1091410113"/>
+<dungeon id="1879102318" name="Kinship Hall" basemapId="1091410114"/>
+<dungeon id="1879102319" name="Large House" basemapId="1091410115"/>
+<dungeon id="1879102320" name="Small House" basemapId="1091410116"/>
+<dungeon id="1879102321" name="Kinship Hall" basemapId="1091410117"/>
+<dungeon id="1879102322" name="Large House" basemapId="1091410118"/>
+<dungeon id="1879102323" name="Small House" basemapId="1091410119"/>
+<dungeon id="1879102324" name="Kinship Hall" basemapId="1091410120"/>
+<dungeon id="1879102325" name="Small House" basemapId="1091410121"/>
+<dungeon id="1879102326" name="Small House" basemapId="1091410122"/>
+<dungeon id="1879102327" name="Kinship Hall" basemapId="1091410123"/>
+<dungeon id="1879102328" name="Small House" basemapId="1091410124"/>
+<dungeon id="1879102329" name="Small House" basemapId="1091410125"/>
+<dungeon id="1879102330" name="Kinship Hall" basemapId="1091410126"/>
+<dungeon id="1879102331" name="Large House" basemapId="1091410127"/>
+<dungeon id="1879102332" name="Small House" basemapId="1091410128"/>
+<dungeon id="1879102333" name="Kinship Hall" basemapId="1091410129"/>
+<dungeon id="1879102334" name="Large House" basemapId="1091410130"/>
+<dungeon id="1879102335" name="Small House" basemapId="1091410131"/>
+<dungeon id="1879102336" name="Kinship Hall" basemapId="1091410132"/>
+<dungeon id="1879102337" name="Small House" basemapId="1091410133"/>
+<dungeon id="1879102338" name="Small House" basemapId="1091410134"/>
+<dungeon id="1879102339" name="Kinship Hall" basemapId="1091410135"/>
+<dungeon id="1879102340" name="Small House" basemapId="1091410096"/>
+<dungeon id="1879102341" name="Small House" basemapId="1091410136"/>
+<dungeon id="1879102342" name="Kinship Hall" basemapId="1091410137"/>
+<dungeon id="1879102343" name="Large House" basemapId="1091410138"/>
+<dungeon id="1879102344" name="Small House" basemapId="1091410139"/>
+<dungeon id="1879102345" name="Kinship Hall" basemapId="1091410140"/>
+<dungeon id="1879102346" name="Large House" basemapId="1091410141"/>
+<dungeon id="1879102347" name="Small House" basemapId="1091410091"/>
+<dungeon id="1879102348" name="Kinship Hall" basemapId="1091410092"/>
+<dungeon id="1879102349" name="Small House" basemapId="1091410093"/>
+<dungeon id="1879102350" name="Small House" basemapId="1091410095"/>
+<dungeon id="1879102351" name="Small House" basemapId="1091410096"/>
+<dungeon id="1879102352" name="Large House" basemapId="1091410098"/>
+<dungeon id="1879102353" name="Large House" basemapId="1091410101"/>
+<dungeon id="1879102354" name="Small House" basemapId="1091410103"/>
+<dungeon id="1879102356" name="Thorgest’s Haven" basemapId="1091410517"/>
+</dungeons>

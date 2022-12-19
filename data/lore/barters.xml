@@ -1,0 +1,721 @@
+<?xml version="1.0" encoding="UTF-8"?><barterers>
+<barterer id="1879078614" name="Cam Applewood" title="Stablehand">
+<barterProfile profileId="1879093906"/>
+</barterer>
+<barterer id="1879093457" name="Dinhiril" title="Light Armour Trader">
+<barterProfile profileId="1879093520"/>
+</barterer>
+<barterer id="1879093458" name="Ariel" title="Heavy Armour Trader">
+<barterProfile profileId="1879093522"/>
+</barterer>
+<barterer id="1879093459" name="Ningwen" title="Medium Armour Trader">
+<barterProfile profileId="1879093521"/>
+</barterer>
+<barterer id="1879093905" name="Mindambeth" title="Quartermaster" requiredQuest="1879093911;COMPLETED">
+<barterProfile profileId="1879093907"/>
+</barterer>
+<barterer id="1879097773" name="Forgamdir" title="Burglar Trader">
+<barterProfile profileId="1879098166"/>
+</barterer>
+<barterer id="1879097774" name="Coruchador" title="Captain Trader">
+<barterProfile profileId="1879098167"/>
+</barterer>
+<barterer id="1879097775" name="Istuigon" title="Champion Trader">
+<barterProfile profileId="1879098168"/>
+</barterer>
+<barterer id="1879097776" name="Ruinestel" title="Consumable Trader">
+<barterProfile profileId="1879101494"/>
+</barterer>
+<barterer id="1879097777" name="Himhúl" title="Guardian Trader">
+<barterProfile profileId="1879098169"/>
+</barterer>
+<barterer id="1879097778" name="Rudhrod" title="Hunter Trader">
+<barterProfile profileId="1879098170"/>
+</barterer>
+<barterer id="1879097779" name="Amban" title="Odds and Ends Trader">
+<barterProfile profileId="1879101493"/>
+</barterer>
+<barterer id="1879097780" name="Arodinnas" title="Loremaster Trader">
+<barterProfile profileId="1879098171"/>
+</barterer>
+<barterer id="1879097781" name="Faradwon" title="Minstrel Trader">
+<barterProfile profileId="1879098164"/>
+</barterer>
+<barterer id="1879098289" name="Gunnlaug" title="Consumable Trader" requiredFaction="1879097420;4">
+<barterProfile profileId="1879101494"/>
+</barterer>
+<barterer id="1879098290" name="Utrygg" title="Conversion Trader">
+<barterProfile profileId="1879101484"/>
+</barterer>
+<barterer id="1879098294" name="Dýri" title="Games-master">
+<barterProfile profileId="1879101984"/>
+</barterer>
+<barterer id="1879098295" name="Kylfa" title="Fall Festival Trader">
+<barterProfile profileId="1879101988"/>
+</barterer>
+<barterer id="1879098296" name="Malenfas" title="Games-master">
+<barterProfile profileId="1879101985"/>
+</barterer>
+<barterer id="1879098297" name="Torelleth" title="Fall Festival Trader">
+<barterProfile profileId="1879101988"/>
+</barterer>
+<barterer id="1879098298" name="Sawlo Puddifoot" title="Games-master">
+<barterProfile profileId="1879101986"/>
+</barterer>
+<barterer id="1879098299" name="Rosa Hornblower" title="Fall Festival Trader">
+<barterProfile profileId="1879101988"/>
+</barterer>
+<barterer id="1879098301" name="Will Peartree" title="Fall Festival Horse Trader">
+<barterProfile profileId="1879101861"/>
+</barterer>
+<barterer id="1879098302" name="Bess Forester" title="Games-master">
+<barterProfile profileId="1879101987"/>
+</barterer>
+<barterer id="1879098303" name="Alf Mossman" title="Fall Festival Trader">
+<barterProfile profileId="1879101988"/>
+</barterer>
+<barterer id="1879098859" name="Clar Whitethorn" title="Taxidermist">
+<barterProfile profileId="1879098870"/>
+</barterer>
+<barterer id="1879101859" name="Gaelm, son of Éogar" title="Stablehand">
+<barterProfile profileId="1879101860"/>
+</barterer>
+<barterer id="1879101883" name="Gaelm, son of Éogar" title="Stablehand">
+<barterProfile profileId="1879101860"/>
+</barterer>
+<barterProfile profileId="1879093520" name="">
+<barterEntry>
+<give id="1879092852" name="Arnorian Armour Fragments" quantity="50"/>
+<receive id="1879092853" name="Battered Arnorian Armour"/>
+</barterEntry>
+<barterEntry>
+<give id="1879092853" name="Battered Arnorian Armour" quantity="25"/>
+<receive id="1879091481" name="Gloves of the Seven Stars"/>
+</barterEntry>
+<barterEntry>
+<give id="1879092853" name="Battered Arnorian Armour" quantity="25"/>
+<receive id="1879091482" name="Shoes of the Seven Stars"/>
+</barterEntry>
+<barterEntry>
+<give id="1879092853" name="Battered Arnorian Armour" quantity="25"/>
+<receive id="1879091487" name="Cloak of the Seven Stars"/>
+</barterEntry>
+<barterEntry>
+<give id="1879092849" name="Broken Arnorian Pauldrons"/>
+<give id="1879092853" name="Battered Arnorian Armour" quantity="10"/>
+<receive id="1879091485" name="Shoulders of the Seven Stars"/>
+</barterEntry>
+<barterEntry>
+<give id="1879092851" name="Broken Arnorian Leggings"/>
+<give id="1879092853" name="Battered Arnorian Armour" quantity="10"/>
+<receive id="1879091483" name="Leggings of the Seven Stars"/>
+</barterEntry>
+<barterEntry>
+<give id="1879092850" name="Broken Arnorian Shirt"/>
+<give id="1879092853" name="Battered Arnorian Armour" quantity="10"/>
+<receive id="1879091484" name="Robe of the Seven Stars"/>
+</barterEntry>
+</barterProfile>
+<barterProfile profileId="1879093521" name="">
+<barterEntry>
+<give id="1879092852" name="Arnorian Armour Fragments" quantity="50"/>
+<receive id="1879092853" name="Battered Arnorian Armour"/>
+</barterEntry>
+<barterEntry>
+<give id="1879092853" name="Battered Arnorian Armour" quantity="25"/>
+<receive id="1879091488" name="Nenuial’s Gauntlets"/>
+</barterEntry>
+<barterEntry>
+<give id="1879092853" name="Battered Arnorian Armour" quantity="25"/>
+<receive id="1879091489" name="Nenuial’s Boots"/>
+</barterEntry>
+<barterEntry>
+<give id="1879092853" name="Battered Arnorian Armour" quantity="25"/>
+<receive id="1879091493" name="Nenuial’s Cloak"/>
+</barterEntry>
+<barterEntry>
+<give id="1879092849" name="Broken Arnorian Pauldrons"/>
+<give id="1879092853" name="Battered Arnorian Armour" quantity="10"/>
+<receive id="1879091492" name="Nenuial’s Shoulders"/>
+</barterEntry>
+<barterEntry>
+<give id="1879092851" name="Broken Arnorian Leggings"/>
+<give id="1879092853" name="Battered Arnorian Armour" quantity="10"/>
+<receive id="1879091490" name="Nenuial’s Leggings"/>
+</barterEntry>
+<barterEntry>
+<give id="1879092850" name="Broken Arnorian Shirt"/>
+<give id="1879092853" name="Battered Arnorian Armour" quantity="10"/>
+<receive id="1879091491" name="Nenuial’s Jacket"/>
+</barterEntry>
+</barterProfile>
+<barterProfile profileId="1879093522" name="">
+<barterEntry>
+<give id="1879092852" name="Arnorian Armour Fragments" quantity="50"/>
+<receive id="1879092853" name="Battered Arnorian Armour"/>
+</barterEntry>
+<barterEntry>
+<give id="1879092853" name="Battered Arnorian Armour" quantity="25"/>
+<receive id="1879091494" name="Gauntlets of the West-tower"/>
+</barterEntry>
+<barterEntry>
+<give id="1879092853" name="Battered Arnorian Armour" quantity="25"/>
+<receive id="1879091495" name="Boots of the West-tower"/>
+</barterEntry>
+<barterEntry>
+<give id="1879092853" name="Battered Arnorian Armour" quantity="25"/>
+<receive id="1879093524" name="Cloak of the West-tower"/>
+</barterEntry>
+<barterEntry>
+<give id="1879092849" name="Broken Arnorian Pauldrons"/>
+<give id="1879092853" name="Battered Arnorian Armour" quantity="10"/>
+<receive id="1879091498" name="Shoulders of the West-tower"/>
+</barterEntry>
+<barterEntry>
+<give id="1879092851" name="Broken Arnorian Leggings"/>
+<give id="1879092853" name="Battered Arnorian Armour" quantity="10"/>
+<receive id="1879091496" name="Leggings of the West-tower"/>
+</barterEntry>
+<barterEntry>
+<give id="1879092850" name="Broken Arnorian Shirt"/>
+<give id="1879092853" name="Battered Arnorian Armour" quantity="10"/>
+<receive id="1879091497" name="Breastplate of the West-tower"/>
+</barterEntry>
+<barterEntry>
+<give id="1879092851" name="Broken Arnorian Leggings"/>
+<give id="1879092853" name="Battered Arnorian Armour" quantity="10"/>
+<receive id="1879091500" name="Shield of the West-tower"/>
+</barterEntry>
+</barterProfile>
+<barterProfile profileId="1879093906" name="">
+<barterEntry>
+<give id="1879093766" name="Receipt of Purchase"/>
+<receive id="1879060390" name="Blonde Sorrel Horse"/>
+</barterEntry>
+<barterEntry>
+<give id="1879093766" name="Receipt of Purchase"/>
+<receive id="1879078831" name="Chestnut Horse"/>
+</barterEntry>
+<barterEntry>
+<give id="1879093766" name="Receipt of Purchase"/>
+<receive id="1879078832" name="Bay Horse"/>
+</barterEntry>
+<barterEntry>
+<give id="1879093766" name="Receipt of Purchase"/>
+<receive id="1879078833" name="Bloodbay Horse"/>
+</barterEntry>
+<barterEntry>
+<give id="1879093766" name="Receipt of Purchase"/>
+<receive id="1879060391" name="Blonde Sorrel Pony"/>
+</barterEntry>
+<barterEntry>
+<give id="1879093766" name="Receipt of Purchase"/>
+<receive id="1879078834" name="Chestnut Pony"/>
+</barterEntry>
+<barterEntry>
+<give id="1879093766" name="Receipt of Purchase"/>
+<receive id="1879078835" name="Bay Pony"/>
+</barterEntry>
+<barterEntry>
+<give id="1879093766" name="Receipt of Purchase"/>
+<receive id="1879078836" name="Bloodbay Pony"/>
+</barterEntry>
+</barterProfile>
+<barterProfile profileId="1879093907" name="">
+<barterEntry>
+<give id="1879093652" name="Bottle of Ale" quantity="25"/>
+<give id="1879093653" name="Keg of Cram" quantity="10"/>
+<receive id="1879093704" name="Mariner's Hat and Eyepatch"/>
+</barterEntry>
+<barterEntry>
+<give id="1879093652" name="Bottle of Ale" quantity="25"/>
+<give id="1879093653" name="Keg of Cram" quantity="10"/>
+<receive id="1879093708" name="Mariner's Hat"/>
+</barterEntry>
+<barterEntry>
+<give id="1879093652" name="Bottle of Ale" quantity="25"/>
+<give id="1879093653" name="Keg of Cram" quantity="10"/>
+<receive id="1879093712" name="Mariner's Eyepatch"/>
+</barterEntry>
+</barterProfile>
+<barterProfile profileId="1879098164" name="">
+<barterEntry>
+<give id="1879098158" name="Sparkling Diamond"/>
+<receive id="1879094672" name="Wandering Bard's Gloves"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098161" name="Near Perfect Sapphire"/>
+<receive id="1879094673" name="Wandering Bard's Boots"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098162" name="Glinting Amethyst"/>
+<receive id="1879094674" name="Wandering Bard's Leggings"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098163" name="Glowing Red Ruby"/>
+<receive id="1879094675" name="Wandering Bard's Robe"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098160" name="Dazzling Emerald"/>
+<receive id="1879094676" name="Wandering Bard's Shoulders"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098157" name="Pristine Opal"/>
+<receive id="1879094677" name="Wandering Bard's Helm"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098159" name="Firey Quartz"/>
+<receive id="1879097065" name="Goldram"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098159" name="Firey Quartz"/>
+<receive id="1879097340" name="Filigothan"/>
+</barterEntry>
+</barterProfile>
+<barterProfile profileId="1879098166" name="">
+<barterEntry>
+<give id="1879098158" name="Sparkling Diamond"/>
+<receive id="1879094684" name="Thrill-seeker's Gloves"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098161" name="Near Perfect Sapphire"/>
+<receive id="1879094685" name="Thrill-seeker's Boots"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098162" name="Glinting Amethyst"/>
+<receive id="1879094686" name="Thrill-seeker's Leggings"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098163" name="Glowing Red Ruby"/>
+<receive id="1879094687" name="Thrill-seeker's Jacket"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098160" name="Dazzling Emerald"/>
+<receive id="1879094688" name="Thrill-seeker's Shoulders"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098157" name="Pristine Opal"/>
+<receive id="1879094689" name="Thrill-seeker's Helm"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098159" name="Firey Quartz"/>
+<receive id="1879097062" name="Aeglang"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098159" name="Firey Quartz"/>
+<receive id="1879097322" name="Maethmegil"/>
+</barterEntry>
+</barterProfile>
+<barterProfile profileId="1879098167" name="">
+<barterEntry>
+<give id="1879098158" name="Sparkling Diamond"/>
+<receive id="1879094690" name="Gloves of the North Star"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098161" name="Near Perfect Sapphire"/>
+<receive id="1879094691" name="Boots of the North Star"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098162" name="Glinting Amethyst"/>
+<receive id="1879094692" name="Leggings of the North Star"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098163" name="Glowing Red Ruby"/>
+<receive id="1879094693" name="Breastplate of the North Star"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098160" name="Dazzling Emerald"/>
+<receive id="1879094694" name="Shoulders of the North Star"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098157" name="Pristine Opal"/>
+<receive id="1879094695" name="Helm of the North Star"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098159" name="Firey Quartz"/>
+<receive id="1879097063" name="Torchathol"/>
+</barterEntry>
+</barterProfile>
+<barterProfile profileId="1879098168" name="">
+<barterEntry>
+<give id="1879098158" name="Sparkling Diamond"/>
+<receive id="1879094702" name="Gloves of the Gloom-bane"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098161" name="Near Perfect Sapphire"/>
+<receive id="1879094703" name="Boots of the Gloom-bane"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098162" name="Glinting Amethyst"/>
+<receive id="1879094704" name="Leggings of the Gloom-bane"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098163" name="Glowing Red Ruby"/>
+<receive id="1879094705" name="Breastplate of the Gloom-bane"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098160" name="Dazzling Emerald"/>
+<receive id="1879094706" name="Shoulders of the Gloom-bane"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098157" name="Pristine Opal"/>
+<receive id="1879094707" name="Helm of the Gloom-bane"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098159" name="Firey Quartz"/>
+<receive id="1879097064" name="Othdring"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098159" name="Firey Quartz"/>
+<receive id="1879097067" name="Saellang"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098159" name="Firey Quartz"/>
+<receive id="1879101833" name="Avorchrist"/>
+</barterEntry>
+</barterProfile>
+<barterProfile profileId="1879098169" name="">
+<barterEntry>
+<give id="1879098158" name="Sparkling Diamond"/>
+<receive id="1879094696" name="Rift-defender's Gloves"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098161" name="Near Perfect Sapphire"/>
+<receive id="1879094697" name="Rift-defender's Boots"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098162" name="Glinting Amethyst"/>
+<receive id="1879094698" name="Rift-defender's Leggings"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098163" name="Glowing Red Ruby"/>
+<receive id="1879094699" name="Rift-defender's Breastplate"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098160" name="Dazzling Emerald"/>
+<receive id="1879094700" name="Rift-defender's Shoulders"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098157" name="Pristine Opal"/>
+<receive id="1879094701" name="Rift-defender's Helm"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098159" name="Firey Quartz"/>
+<receive id="1879097323" name="Congrist"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098159" name="Firey Quartz"/>
+<receive id="1879097339" name="Vorthrand"/>
+</barterEntry>
+</barterProfile>
+<barterProfile profileId="1879098170" name="">
+<barterEntry>
+<give id="1879098158" name="Sparkling Diamond"/>
+<receive id="1879094678" name="Doom-hunter's Gloves"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098161" name="Near Perfect Sapphire"/>
+<receive id="1879094679" name="Doom-hunter's Boots"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098162" name="Glinting Amethyst"/>
+<receive id="1879094680" name="Doom-hunter's Leggings"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098163" name="Glowing Red Ruby"/>
+<receive id="1879094681" name="Doom-hunter's Breastplate"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098160" name="Dazzling Emerald"/>
+<receive id="1879094682" name="Doom-hunter's Shoulders"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098157" name="Pristine Opal"/>
+<receive id="1879094683" name="Doom-hunter's Helm"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098159" name="Firey Quartz"/>
+<receive id="1879097061" name="Cumaen"/>
+</barterEntry>
+</barterProfile>
+<barterProfile profileId="1879098171" name="">
+<barterEntry>
+<give id="1879098158" name="Sparkling Diamond"/>
+<receive id="1879094666" name="Gloves of the Elder Days"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098161" name="Near Perfect Sapphire"/>
+<receive id="1879094667" name="Boots of the Elder Days"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098162" name="Glinting Amethyst"/>
+<receive id="1879094668" name="Leggings of the Elder Days"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098163" name="Glowing Red Ruby"/>
+<receive id="1879094669" name="Robe of the Elder Days"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098160" name="Dazzling Emerald"/>
+<receive id="1879094670" name="Shoulders of the Elder Days"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098157" name="Pristine Opal"/>
+<receive id="1879094671" name="Hat of the Elder Days"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098159" name="Firey Quartz"/>
+<receive id="1879097066" name="Noris"/>
+</barterEntry>
+</barterProfile>
+<barterProfile profileId="1879098870" name="">
+<barterEntry>
+<give id="1879098864" name="Undamaged Barghest Corpse"/>
+<receive id="1879098741" name="Barghest Trophy"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098865" name="Undamaged Black-bear Corpse"/>
+<receive id="1879098742" name="Black Bear Trophy"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098866" name="Undamaged Brown-bear Corpse"/>
+<receive id="1879098743" name="Brown Bear Trophy"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098867" name="Undamaged Cave-troll Head"/>
+<receive id="1879098744" name="Cave Troll Trophy"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098868" name="Undamaged Warg Corpse"/>
+<receive id="1879098745" name="Warg Trophy"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098869" name="Undamaged White-wolf Corpse"/>
+<receive id="1879098746" name="White Wolf Trophy"/>
+</barterEntry>
+</barterProfile>
+<barterProfile profileId="1879101484" name="">
+<barterEntry>
+<give id="1879099340" name="Scrap of Rift-Iron Ore" quantity="5"/>
+<receive id="1879098172" name="Rift-Iron Coin"/>
+</barterEntry>
+<barterEntry>
+<give id="1879099326" name="Obsidian Rock Shard" quantity="3"/>
+<receive id="1879098172" name="Rift-Iron Coin"/>
+</barterEntry>
+</barterProfile>
+<barterProfile profileId="1879101493" name="">
+<barterEntry>
+<give id="1879098172" name="Rift-Iron Coin" quantity="2"/>
+<receive id="1879099145" name="Ranger-make Ring"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098172" name="Rift-Iron Coin" quantity="2"/>
+<receive id="1879099143" name="Ranger-make Earring"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098172" name="Rift-Iron Coin" quantity="2"/>
+<receive id="1879099142" name="Ranger-make Bracelet"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098172" name="Rift-Iron Coin" quantity="2"/>
+<receive id="1879099144" name="Ranger-make Charm"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098172" name="Rift-Iron Coin" quantity="2"/>
+<receive id="1879099139" name="Arodinnas' Gloves"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098172" name="Rift-Iron Coin" quantity="2"/>
+<receive id="1879099138" name="Faradwon's Robe"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098172" name="Rift-Iron Coin" quantity="2"/>
+<receive id="1879099141" name="Forgamdir's Leggings"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098172" name="Rift-Iron Coin" quantity="2"/>
+<receive id="1879099140" name="Rudhrod's Boots"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098172" name="Rift-Iron Coin" quantity="2"/>
+<receive id="1879099136" name="Istuigon's Helm"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098172" name="Rift-Iron Coin" quantity="2"/>
+<receive id="1879099137" name="Himhúl's Shoulder"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098172" name="Rift-Iron Coin" quantity="2"/>
+<receive id="1879099134" name="Coruchador's Cloak"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098172" name="Rift-Iron Coin" quantity="2"/>
+<receive id="1879099135" name="Amban's Cloak"/>
+</barterEntry>
+</barterProfile>
+<barterProfile profileId="1879101494" name="">
+<barterEntry>
+<give id="1879098172" name="Rift-Iron Coin" quantity="2"/>
+<receive id="1879087899" name="Flask of Imladris Miruvor"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098172" name="Rift-Iron Coin" quantity="2"/>
+<receive id="1879087900" name="Flagon of Imladris Miruvor"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098172" name="Rift-Iron Coin" quantity="2"/>
+<receive id="1879087901" name="Flask of Ringnen Salve"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098172" name="Rift-Iron Coin" quantity="2"/>
+<receive id="1879087902" name="Pot of Ringnen Salve"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098172" name="Rift-Iron Coin"/>
+<receive id="1879098940" name="Pure Milkthistle Draught" quantity="8"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098172" name="Rift-Iron Coin"/>
+<receive id="1879098932" name="Pure Flask of Lhinestad" quantity="8"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098172" name="Rift-Iron Coin"/>
+<receive id="1879098944" name="Pure Healing Draught" quantity="8"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098172" name="Rift-Iron Coin"/>
+<receive id="1879098936" name="Pure Flask of Conhuith" quantity="8"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098172" name="Rift-Iron Coin"/>
+<receive id="1879052081" name="Pure Essence of Athelas" quantity="4"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098172" name="Rift-Iron Coin"/>
+<receive id="1879052096" name="Pure Celebrant Salve" quantity="4"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098172" name="Rift-Iron Coin" quantity="2"/>
+<receive id="1879055300" name="Brilliant Edhelharn Token"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098172" name="Rift-Iron Coin" quantity="4"/>
+<receive id="1879099146" name="Soot-covered Ring"/>
+</barterEntry>
+</barterProfile>
+<barterProfile profileId="1879101860" name="">
+<barterEntry>
+<give id="1879101822" name="Bree-steed Receipt"/>
+<receive id="1879098258" name="Bree-Horse"/>
+</barterEntry>
+<barterEntry>
+<give id="1879101822" name="Bree-steed Receipt"/>
+<receive id="1879098257" name="Bree-Pony"/>
+</barterEntry>
+</barterProfile>
+<barterProfile profileId="1879101861" name="">
+<barterEntry>
+<give id="1879101765" name="Festival Run Token"/>
+<give id="1879093766" name="Receipt of Purchase"/>
+<give id="1879098272" name="Fall Festival Token" quantity="6"/>
+<receive id="1879099081" name="Harvestmath Horse"/>
+</barterEntry>
+<barterEntry>
+<give id="1879101765" name="Festival Run Token"/>
+<give id="1879093766" name="Receipt of Purchase"/>
+<give id="1879098272" name="Fall Festival Token" quantity="6"/>
+<receive id="1879099082" name="Harvestmath Pony"/>
+</barterEntry>
+</barterProfile>
+<barterProfile profileId="1879101984" name="">
+<barterEntry>
+<give id="1879098262" name="Cracked Geode"/>
+<receive id="1879098272" name="Fall Festival Token"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098261" name="Pristine Geode"/>
+<receive id="1879098272" name="Fall Festival Token" quantity="2"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098260" name="Faultless Geode"/>
+<receive id="1879098272" name="Fall Festival Token" quantity="3"/>
+</barterEntry>
+</barterProfile>
+<barterProfile profileId="1879101985" name="">
+<barterEntry>
+<give id="1879098265" name="Unimpressive Scroll"/>
+<receive id="1879098272" name="Fall Festival Token"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098264" name="Well-written Scroll"/>
+<receive id="1879098272" name="Fall Festival Token" quantity="2"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098263" name="Elegant Scroll"/>
+<receive id="1879098272" name="Fall Festival Token" quantity="3"/>
+</barterEntry>
+</barterProfile>
+<barterProfile profileId="1879101986" name="">
+<barterEntry>
+<give id="1879098268" name="Small Apple"/>
+<receive id="1879098272" name="Fall Festival Token"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098267" name="Medium Apple"/>
+<receive id="1879098272" name="Fall Festival Token" quantity="2"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098266" name="Large Apple"/>
+<receive id="1879098272" name="Fall Festival Token" quantity="3"/>
+</barterEntry>
+</barterProfile>
+<barterProfile profileId="1879101987" name="">
+<barterEntry>
+<give id="1879098271" name="Small Pumpkin"/>
+<receive id="1879098272" name="Fall Festival Token"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098270" name="Medium Pumpkin"/>
+<receive id="1879098272" name="Fall Festival Token" quantity="2"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098269" name="Large Pumpkin"/>
+<receive id="1879098272" name="Fall Festival Token" quantity="3"/>
+</barterEntry>
+</barterProfile>
+<barterProfile profileId="1879101988" name="">
+<barterEntry>
+<give id="1879098272" name="Fall Festival Token"/>
+<receive id="1879097472" name="Guide to the Cowbell"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098272" name="Fall Festival Token" quantity="3"/>
+<receive id="1879101977" name="Wooden Beaver Statue"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098272" name="Fall Festival Token" quantity="3"/>
+<receive id="1879101957" name="Giant Pumpkin"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098272" name="Fall Festival Token" quantity="5"/>
+<receive id="1879101942" name="Harvest Statue"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098272" name="Fall Festival Token" quantity="5"/>
+<receive id="1879101944" name="Goblin Statue"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098272" name="Fall Festival Token" quantity="2"/>
+<receive id="1879101953" name="Free Peoples' Flag"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098272" name="Fall Festival Token" quantity="4"/>
+<receive id="1879101927" name="Scarecrow"/>
+</barterEntry>
+<barterEntry>
+<give id="1879098272" name="Fall Festival Token" quantity="6"/>
+<receive id="1879101963" name="Sundial"/>
+</barterEntry>
+</barterProfile>
+</barterers>

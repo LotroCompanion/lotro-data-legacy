@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?><genericMobLoot>
+<species code="1" name="Wraith">
+<subSpecies>
+<mobType/>
+</subSpecies>
+</species>
+<species code="3" name="Decayed">
+<subSpecies>
+<mobType/>
+</subSpecies>
+</species>
+<species code="5" name="Aurochs">
+<subSpecies>
+<mobType/>
+<mobType code="7" name="Elite"/>
+</subSpecies>
+</species>
+<species code="6" name="Uruk">
+<subSpecies>
+<mobType/>
+</subSpecies>
+</species>
+<species code="7" name="Orc">
+<subSpecies>
+<mobType/>
+</subSpecies>
+</species>
+<species code="8" name="Half-orc">
+<subSpecies>
+<mobType/>
+</subSpecies>
+</species>
+<species code="9" name="Dread Turtle">
+<subSpecies>
+<mobType/>
+<mobType code="7" name="Elite"/>
+</subSpecies>
+</species>
+<species code="10" name="Bear">
+<subSpecies>
+<mobType/>
+<mobType code="7" name="Elite"/>
+</subSpecies>
+</species>
+<species code="12" name="Spider">
+<subSpecies>
+<mobType/>
+<mobType code="7" name="Elite"/>
+</subSpecies>
+</species>
+<species code="13" name="Cave-claw">
+<subSpecies>
+<mobType/>
+<mobType code="7" name="Elite"/>
+</subSpecies>
+</species>
+<species code="15" name="Darkwater">
+<subSpecies>
+<mobType/>
+</subSpecies>
+</species>
+<species code="16" name="Brigand">
+<subSpecies>
+<mobType/>
+</subSpecies>
+</species>
+<species code="17" name="Wood Troll">
+<subSpecies>
+<mobType/>
+</subSpecies>
+</species>
+<species code="18" name="Bat">
+<subSpecies>
+<mobType/>
+</subSpecies>
+</species>
+<species code="20" name="Shrew">
+<subSpecies>
+<mobType/>
+</subSpecies>
+</species>
+<species code="21" name="Nameless">
+<subSpecies>
+<mobType/>
+</subSpecies>
+</species>
+<species code="22" name="Gorthorog">
+<subSpecies>
+<mobType/>
+</subSpecies>
+</species>
+<species code="24" name="Wolf">
+<subSpecies>
+<mobType/>
+</subSpecies>
+</species>
+<species code="25" name="Toad">
+<subSpecies>
+<mobType/>
+</subSpecies>
+</species>
+<species code="26" name="Rat">
+<subSpecies>
+<mobType/>
+</subSpecies>
+</species>
+<species code="32" name="Huorn">
+<subSpecies>
+<mobType/>
+</subSpecies>
+</species>
+<species code="33" name="Dwarf Brigand">
+<subSpecies>
+<mobType/>
+</subSpecies>
+</species>
+<species code="34" name="Boar">
+<subSpecies>
+<mobType/>
+</subSpecies>
+</species>
+<species code="35" name="Snowbeast">
+<subSpecies>
+<mobType/>
+<mobType code="7" name="Elite"/>
+</subSpecies>
+<subSpecies code="261" name="Hill-beast">
+<mobType/>
+</subSpecies>
+</species>
+<species code="37" name="Morroval">
+<subSpecies>
+<mobType/>
+</subSpecies>
+</species>
+<species code="38" name="Crawler">
+<subSpecies>
+<mobType/>
+</subSpecies>
+</species>
+<species code="39" name="Angmarim">
+<subSpecies>
+<mobType/>
+</subSpecies>
+</species>
+<species code="41" name="Wight">
+<subSpecies>
+<mobType/>
+</subSpecies>
+</species>
+<species code="43" name="Hendroval">
+<subSpecies>
+<mobType/>
+</subSpecies>
+</species>
+<species code="44" name="Drake">
+<subSpecies>
+<mobType/>
+<mobType code="7" name="Elite"/>
+</subSpecies>
+</species>
+<species code="47" name="Troll">
+<subSpecies>
+<mobType/>
+</subSpecies>
+</species>
+<species code="48" name="Sickle-fly">
+<subSpecies>
+<mobType/>
+</subSpecies>
+</species>
+<species code="49" name="Neekerbreeker">
+<subSpecies>
+<mobType/>
+</subSpecies>
+<subSpecies code="169" name="Norbog">
+<mobType/>
+</subSpecies>
+</species>
+<species code="51" name="BogLurker">
+<subSpecies>
+<mobType/>
+<mobType code="7" name="Elite"/>
+</subSpecies>
+</species>
+<species code="53" name="Shade">
+<subSpecies>
+<mobType/>
+</subSpecies>
+</species>
+<species code="54" name="Giant">
+<subSpecies>
+<mobType/>
+</subSpecies>
+</species>
+<species code="55" name="Gaunt Man">
+<subSpecies>
+<mobType/>
+</subSpecies>
+</species>
+<species code="56" name="Corpse-candle">
+<subSpecies>
+<mobType/>
+</subSpecies>
+</species>
+<species code="57" name="Barghest">
+<subSpecies>
+<mobType/>
+<mobType code="7" name="Elite"/>
+</subSpecies>
+</species>
+<species code="60" name="Mammoth">
+<subSpecies>
+<mobType/>
+<mobType code="7" name="Elite"/>
+</subSpecies>
+</species>
+<species code="61" name="Hill-man">
+<subSpecies>
+<mobType/>
+</subSpecies>
+</species>
+<species code="63" name="Goblin">
+<subSpecies>
+<mobType/>
+</subSpecies>
+</species>
+<species code="66" name="Warg">
+<subSpecies>
+<mobType/>
+</subSpecies>
+</species>
+<species code="67" name="Ogre">
+<subSpecies>
+<mobType/>
+</subSpecies>
+</species>
+<species code="69" name="Etten">
+<subSpecies>
+<mobType/>
+</subSpecies>
+</species>
+<species code="70" name="Worm">
+<subSpecies>
+<mobType/>
+<mobType code="7" name="Elite"/>
+</subSpecies>
+</species>
+<species code="71" name="Insect Clouds">
+<subSpecies>
+<mobType/>
+</subSpecies>
+</species>
+<species code="75" name="Lynx">
+<subSpecies>
+<mobType/>
+</subSpecies>
+</species>
+<species code="78" name="Craban">
+<subSpecies>
+<mobType/>
+</subSpecies>
+</species>
+<species code="80" name="Slug">
+<subSpecies>
+<mobType/>
+<mobType code="7" name="Elite"/>
+</subSpecies>
+<subSpecies code="72" name="Sulfur-leech">
+<mobType/>
+</subSpecies>
+</species>
+<species code="87" name="Gauradan">
+<subSpecies>
+<mobType/>
+</subSpecies>
+</species>
+<species code="88" name="Kergrim">
+<subSpecies>
+<mobType/>
+</subSpecies>
+</species>
+<species code="89" name="Salamander">
+<subSpecies>
+<mobType/>
+</subSpecies>
+</species>
+<species code="90" name="Elk">
+<subSpecies>
+<mobType/>
+</subSpecies>
+</species>
+</genericMobLoot>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><worldEvents>
+<booleanWorldEvent id="1879087152" propertyId="268435733" propertyName="World_MPControl_Ettenmoors_CenterKeep" default="false"/>
+<booleanWorldEvent id="1879087153" propertyId="268439492" propertyName="World_MPControl_Ettenmoors_EastTower" default="false"/>
+<booleanWorldEvent id="1879087154" propertyId="268436448" propertyName="World_MPControl_Ettenmoors_Lumberyard" default="false"/>
+<booleanWorldEvent id="1879087155" propertyId="268438305" propertyName="World_MPControl_Ettenmoors_Mine" default="true"/>
+<booleanWorldEvent id="1879087156" propertyId="268437616" propertyName="World_MPControl_Ettenmoors_WestTower" default="true"/>
+<booleanWorldEvent id="1879088051" propertyId="268441253" propertyName="WE_SpringFestival_FestivalActive" default="false"/>
+<booleanWorldEvent id="1879088814" propertyId="496" propertyName="World_IsNight" default="false"/>
+<conditionWorldEvent id="1879089302" propertyId="268441358" propertyName="WE_SpringFestival_DanceDuillondActive">
+<compoundWorldEventCondition operator="AND">
+<worldEventCondition worldEventID="1879098803" worldEventName="WE_GenericFestival_FestivalActive" operator="EQUAL" value="1"/>
+<worldEventCondition worldEventID="1879089303" worldEventName="WE_SpringFestival_DanceDuillondEnabled" operator="EQUAL" value="1"/>
+</compoundWorldEventCondition>
+</conditionWorldEvent>
+<booleanWorldEvent id="1879089303" propertyId="268441355" propertyName="WE_SpringFestival_DanceDuillondEnabled" default="true"/>
+<conditionWorldEvent id="1879089321" propertyId="268441357" propertyName="WE_SpringFestival_DanceBreelandActive">
+<compoundWorldEventCondition operator="AND">
+<worldEventCondition worldEventID="1879098803" worldEventName="WE_GenericFestival_FestivalActive" operator="EQUAL" value="1"/>
+<worldEventCondition worldEventID="1879089322" worldEventName="WE_SpringFestival_DanceBreelandEnabled" operator="EQUAL" value="1"/>
+</compoundWorldEventCondition>
+</conditionWorldEvent>
+<booleanWorldEvent id="1879089322" propertyId="268441356" propertyName="WE_SpringFestival_DanceBreelandEnabled" default="true"/>
+<conditionWorldEvent id="1879089323" propertyId="268441360" propertyName="WE_SpringFestival_DanceThorinsHallActive">
+<compoundWorldEventCondition operator="AND">
+<worldEventCondition worldEventID="1879098803" worldEventName="WE_GenericFestival_FestivalActive" operator="EQUAL" value="1"/>
+<worldEventCondition worldEventID="1879089324" worldEventName="WE_SpringFestival_DanceThorinsHallEnabled" operator="EQUAL" value="1"/>
+</compoundWorldEventCondition>
+</conditionWorldEvent>
+<booleanWorldEvent id="1879089324" propertyId="268441359" propertyName="WE_SpringFestival_DanceThorinsHallEnabled" default="true"/>
+<conditionWorldEvent id="1879089325" propertyId="268441362" propertyName="WE_SpringFestival_DanceShireActive">
+<compoundWorldEventCondition operator="AND">
+<worldEventCondition worldEventID="1879098803" worldEventName="WE_GenericFestival_FestivalActive" operator="EQUAL" value="1"/>
+<worldEventCondition worldEventID="1879089326" worldEventName="WE_SpringFestival_DanceShireEnabled" operator="EQUAL" value="1"/>
+</compoundWorldEventCondition>
+</conditionWorldEvent>
+<booleanWorldEvent id="1879089326" propertyId="268441361" propertyName="WE_SpringFestival_DanceShireEnabled" default="true"/>
+<booleanWorldEvent id="1879089395" propertyId="268441369" propertyName="WE_SpringFestival_HobnanigansEnabled" default="true"/>
+<conditionWorldEvent id="1879089396" propertyId="268441370" propertyName="WE_SpringFestival_HobnanigansTeamA_AcceptingPlayers">
+<compoundWorldEventCondition operator="AND">
+<worldEventCondition worldEventID="1879088051" worldEventName="WE_SpringFestival_FestivalActive" operator="EQUAL" value="1"/>
+<worldEventCondition worldEventID="1879089395" worldEventName="WE_SpringFestival_HobnanigansEnabled" operator="EQUAL" value="1"/>
+<worldEventCondition worldEventID="1879089397" worldEventName="WE_SpringFestival_HobnanigansTeamA_Enabled" operator="EQUAL" value="1"/>
+</compoundWorldEventCondition>
+</conditionWorldEvent>
+<booleanWorldEvent id="1879089397" propertyId="268441375" propertyName="WE_SpringFestival_HobnanigansTeamA_Enabled" default="true"/>
+<conditionWorldEvent id="1879089398" propertyId="268441371" propertyName="WE_SpringFestival_HobnanigansTeamB_AcceptingPlayers">
+<compoundWorldEventCondition operator="AND">
+<worldEventCondition worldEventID="1879088051" worldEventName="WE_SpringFestival_FestivalActive" operator="EQUAL" value="1"/>
+<worldEventCondition worldEventID="1879089395" worldEventName="WE_SpringFestival_HobnanigansEnabled" operator="EQUAL" value="1"/>
+<worldEventCondition worldEventID="1879089399" worldEventName="WE_SpringFestival_HobnanigansTeamB_Enabled" operator="EQUAL" value="1"/>
+</compoundWorldEventCondition>
+</conditionWorldEvent>
+<booleanWorldEvent id="1879089399" propertyId="268441374" propertyName="WE_SpringFestival_HobnanigansTeamB_Enabled" default="true"/>
+<integerWorldEvent id="1879093127" propertyId="268441730" propertyName="WE_Ettenmoors_TA_Monster_Oil" description="Oil for the Cauldron of Tol Ascarnen" progress="Progress ${VALUE}/${null} of Oil Collected" default="0" min="0" max="10"/>
+<integerWorldEvent id="1879093128" propertyId="268441729" propertyName="WE_Ettenmoors_TA_Monster_Cauldron" description="Iron for the Cauldron of Tol Ascarnen" progress="Progress ${VALUE}/${null} of Iron Collected" default="0" min="0" max="10"/>
+<integerWorldEvent id="1879093130" propertyId="268441747" propertyName="WE_Ettenmoors_TA_Monster_Arrow" description="Blades for Goblin Arrows" progress="Progress ${VALUE}/${null} of Shattered Blades Collected" default="0" min="0" max="10"/>
+<integerWorldEvent id="1879093131" propertyId="268441698" propertyName="WE_Ettenmoors_TA_Monster_Shaft" description="Shafts for Goblin Arrows" progress="Progress ${VALUE}/${null} of Arrow Shafts Collected" default="0" min="0" max="10"/>
+<booleanWorldEvent id="1879093133" propertyId="268441690" propertyName="WE_Ettenmoors_TA_Monster_Rockwithers" default="false"/>
+<booleanWorldEvent id="1879093134" propertyId="268441686" propertyName="WE_Ettenmoors_TA_Monster_Sinew" default="false"/>
+<booleanWorldEvent id="1879093135" propertyId="268441685" propertyName="WE_Ettenmoors_TA_Monster_Stand" default="false"/>
+<conditionWorldEvent id="1879093143" propertyId="268441744" propertyName="WE_Ettenmoors_TA_Monster_Burn_South">
+<worldEventCondition worldEventID="1879093183" worldEventName="WE_Ettenmoors_TA_Player_Reinforce_South" operator="EQUAL" value="1"/>
+</conditionWorldEvent>
+<conditionWorldEvent id="1879093144" propertyId="268441689" propertyName="WE_Ettenmoors_TA_Monster_Burn_West">
+<worldEventCondition worldEventID="1879093202" worldEventName="WE_Ettenmoors_TA_Player_Reinforce_West" operator="EQUAL" value="1"/>
+</conditionWorldEvent>
+<integerWorldEvent id="1879093146" propertyId="268441746" propertyName="WE_Ettenmoors_TR_Monster_Oil" description="Oil for the Cauldron of Tirith Rhaw" progress="Progress ${VALUE}/${null} of Oil Collected" default="0" min="0" max="10"/>
+<integerWorldEvent id="1879093147" propertyId="268441700" propertyName="WE_Ettenmoors_TR_Monster_Cauldron" description="Iron for the Cauldron of Tirith Rhaw" progress="Progress ${VALUE}/${null} of Iron Collected" default="0" min="0" max="10"/>
+<booleanWorldEvent id="1879093149" propertyId="268441707" propertyName="WE_Ettenmoors_TR_Monster_Support" default="false"/>
+<integerWorldEvent id="1879093154" propertyId="268441675" propertyName="WE_Ettenmoors_Lug_Monster_Oil" description="Oil for the Cauldron of Lugazag" progress="Progress ${VALUE}/${null} of Oil Collected" default="0" min="0" max="10"/>
+<integerWorldEvent id="1879093155" propertyId="268441709" propertyName="WE_Ettenmoors_Lug_Monster_Cauldron" description="Iron for the Cauldron of Lugazag" progress="Progress ${VALUE}/${null} of Iron Collected" default="0" min="0" max="10"/>
+<booleanWorldEvent id="1879093156" propertyId="268441720" propertyName="WE_Ettenmoors_Lug_Monster_Support" default="false"/>
+<booleanWorldEvent id="1879093163" propertyId="268441687" propertyName="WE_Ettenmoors_Grim_Monster_Harvesters" default="false"/>
+<booleanWorldEvent id="1879093164" propertyId="268441706" propertyName="WE_Ettenmoors_Grim_Monster_Support" default="false"/>
+<booleanWorldEvent id="1879093165" propertyId="268441692" propertyName="WE_Ettenmoors_Grim_Monster_Trees" default="false"/>
+<booleanWorldEvent id="1879093170" propertyId="268441691" propertyName="WE_Ettenmoors_IM_Monster_Support" default="false"/>
+<booleanWorldEvent id="1879093171" propertyId="268441705" propertyName="WE_Ettenmoors_IM_Monster_Miners" default="false"/>
+<booleanWorldEvent id="1879093172" propertyId="268441716" propertyName="WE_Ettenmoors_IM_Monster_Beasts" default="false"/>
+<integerWorldEvent id="1879093173" propertyId="268441697" propertyName="WE_Ettenmoors_TA_Player_Oil" description="Oil for the Cauldron of Tol Ascarnen" progress="Progress ${VALUE}/${null} of Oil Collected" default="0" min="0" max="10"/>
+<integerWorldEvent id="1879093174" propertyId="268441702" propertyName="WE_Ettenmoors_TA_Player_Cauldron" description="Iron for the Cauldron of Tol Ascarnen" progress="Progress ${VALUE}/${null} of Iron Collected" default="0" min="0" max="10"/>
+<integerWorldEvent id="1879093176" propertyId="268441701" propertyName="WE_Ettenmoors_TA_Player_Arrow" description="Blades for Elf Arrows" progress="Progress ${VALUE}/${null} of Shattered Blades Collected" default="0" min="0" max="10"/>
+<integerWorldEvent id="1879093177" propertyId="268441722" propertyName="WE_Ettenmoors_TA_Player_Shaft" description="Shafts for Elf Arrows" progress="Progress ${VALUE}/${null} of Arrow Shafts Collected" default="0" min="0" max="10"/>
+<booleanWorldEvent id="1879093179" propertyId="268441736" propertyName="WE_Ettenmoors_TA_Player_Sinew" default="false"/>
+<booleanWorldEvent id="1879093180" propertyId="268441742" propertyName="WE_Ettenmoors_TA_Player_Stand" default="false"/>
+<booleanWorldEvent id="1879093183" propertyId="268441694" propertyName="WE_Ettenmoors_TA_Player_Reinforce_South" default="false"/>
+<integerWorldEvent id="1879093187" propertyId="268441728" propertyName="WE_Ettenmoors_TR_Player_Oil" description="Oil for the Cauldron of Tirith Rhaw" progress="Progress ${VALUE}/${null} of Oil Collected" default="0" min="0" max="10"/>
+<integerWorldEvent id="1879093188" propertyId="268441745" propertyName="WE_Ettenmoors_TR_Player_Cauldron" description="Iron for the Cauldron of Tirith Rhaw" progress="Progress ${VALUE}/${null} of Iron Collected" default="0" min="0" max="10"/>
+<conditionWorldEvent id="1879093189" propertyId="268441683" propertyName="WE_Ettenmoors_TR_Player_Boiling">
+<compoundWorldEventCondition operator="AND">
+<worldEventCondition worldEventID="1879093187" worldEventName="WE_Ettenmoors_TR_Player_Oil" operator="EQUAL" value="10"/>
+<worldEventCondition worldEventID="1879093188" worldEventName="WE_Ettenmoors_TR_Player_Cauldron" operator="EQUAL" value="10"/>
+</compoundWorldEventCondition>
+</conditionWorldEvent>
+<booleanWorldEvent id="1879093190" propertyId="268441678" propertyName="WE_Ettenmoors_TR_Player_Support" default="false"/>
+<integerWorldEvent id="1879093191" propertyId="268441708" propertyName="WE_Ettenmoors_Lug_Player_Oil" description="Oil for the Cauldron of Lugazag" progress="Progress ${VALUE}/${null} of Oil Collected" default="0" min="0" max="10"/>
+<integerWorldEvent id="1879093192" propertyId="268441677" propertyName="WE_Ettenmoors_Lug_Player_Cauldron" description="Iron for the Cauldron of Lugazag" progress="Progress ${VALUE}/${null} of Iron Collected" default="0" min="0" max="10"/>
+<booleanWorldEvent id="1879093193" propertyId="268441735" propertyName="WE_Ettenmoors_Lug_Player_Support" default="false"/>
+<booleanWorldEvent id="1879093194" propertyId="268441715" propertyName="WE_Ettenmoors_Grim_Player_Harvesters" default="false"/>
+<booleanWorldEvent id="1879093195" propertyId="268441676" propertyName="WE_Ettenmoors_Grim_Player_Support" default="false"/>
+<booleanWorldEvent id="1879093196" propertyId="268441740" propertyName="WE_Ettenmoors_Grim_Player_Wolves" default="false"/>
+<booleanWorldEvent id="1879093197" propertyId="268441714" propertyName="WE_Ettenmoors_IM_Player_Support" default="false"/>
+<booleanWorldEvent id="1879093198" propertyId="268441731" propertyName="WE_Ettenmoors_IM_Player_Beasts" default="false"/>
+<booleanWorldEvent id="1879093199" propertyId="268441723" propertyName="WE_Ettenmoors_IM_Player_Miners" default="false"/>
+<booleanWorldEvent id="1879093202" propertyId="268441693" propertyName="WE_Ettenmoors_TA_Player_Reinforce_West" default="false"/>
+<booleanWorldEvent id="1879093210" propertyId="268441704" propertyName="WE_Ettenmoors_TA_Player_Rockwithers" default="false"/>
+<booleanWorldEvent id="1879093463" propertyId="268441833" propertyName="WE_TalkLikeACorsairDay_Active" default="false"/>
+<booleanWorldEvent id="1879093544" propertyId="268441848" propertyName="WE_Annuminas_Camp1_Control" default="false"/>
+<booleanWorldEvent id="1879093545" propertyId="268441847" propertyName="WE_Annuminas_Camp2_Control" default="false"/>
+<booleanWorldEvent id="1879093546" propertyId="268441845" propertyName="WE_Annuminas_Camp3_Control" default="false"/>
+<booleanWorldEvent id="1879094943" propertyId="268442030" propertyName="WE_Trollshaws_FrodoBilboBirthday_active" default="false"/>
+<conditionWorldEvent id="1879098803" propertyId="268442349" propertyName="WE_GenericFestival_FestivalActive">
+<compoundWorldEventCondition operator="OR">
+<worldEventCondition worldEventID="1879088051" worldEventName="WE_SpringFestival_FestivalActive" operator="EQUAL" value="1"/>
+<worldEventCondition worldEventID="1879098804" worldEventName="WE_FallFestival_FestivalActive" operator="EQUAL" value="1"/>
+<worldEventCondition worldEventID="1879098805" worldEventName="WE_WinterFestival_FestivalActive" operator="EQUAL" value="1"/>
+</compoundWorldEventCondition>
+</conditionWorldEvent>
+<booleanWorldEvent id="1879098804" propertyId="268442350" propertyName="WE_FallFestival_FestivalActive" default="false"/>
+<booleanWorldEvent id="1879098805" propertyId="268442351" propertyName="WE_WinterFestival_FestivalActive" default="false"/>
+<booleanWorldEvent id="1879098855" propertyId="268442366" propertyName="WE_FallFestival_HorseRaceActive" default="false"/>
+<booleanWorldEvent id="1879101897" propertyId="268442513" propertyName="WE_Horse_Lvl25_Active" default="false"/>
+</worldEvents>

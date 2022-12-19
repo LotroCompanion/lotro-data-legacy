@@ -1,0 +1,739 @@
+<?xml version="1.0" encoding="UTF-8"?><consumables>
+<consumable identifier="1879049653" name="Roast Pork" iconId="1090640826-1090522692-1090640827" class="55">
+<stat name="OCMR" constant="292.0"/>
+<stat name="OCPR" constant="330.0"/>
+</consumable>
+<consumable identifier="1879049715" name="Mushroom Pie" iconId="1090541626-1090522692-1090541627" class="55">
+<stat name="OCMR" constant="292.0"/>
+<stat name="OCPR" constant="330.0"/>
+</consumable>
+<consumable identifier="1879049716" name="Cooked Carrots" iconId="1090531103-1090522692-1090531104" class="55">
+<stat name="VITALITY" constant="2.0"/>
+</consumable>
+<consumable identifier="1879049717" name="Eggs and Onions" iconId="1090541650-1090522692-1090541651" class="55">
+<stat name="MIGHT" constant="2.0"/>
+</consumable>
+<consumable identifier="1879049718" name="Fried Mushrooms" iconId="1090522812-1090522692-1090522812" class="55">
+<stat name="AGILITY" constant="2.0"/>
+</consumable>
+<consumable identifier="1879049818" name="Barliman's Best" iconId="1090523137-1090522692-1090523138" class="55">
+<stat name="Combat_BaseMissRate" descriptionOverride="-" constant="15.000001"/>
+</consumable>
+<consumable identifier="1879049819" name="Blind Troll Stout" iconId="1090523137-1090522692-1090523138" class="55">
+<stat name="Combat_BaseMissRate" descriptionOverride="-" constant="10.0"/>
+</consumable>
+<consumable identifier="1879049820" name="Moor-boar Beer" iconId="1090523137-1090522692-1090523138" class="55">
+<stat name="Combat_BaseMissRate" descriptionOverride="-" constant="10.0"/>
+</consumable>
+<consumable identifier="1879049821" name="Stars of Old Cider" iconId="1090523137-1090522692-1090523138" class="55">
+<stat name="Combat_BaseMissRate" descriptionOverride="-" constant="15.000001"/>
+</consumable>
+<consumable identifier="1879049822" name="Isenwine" iconId="1090523139-1090522692-1090523140" class="55">
+<stat name="Combat_BaseMissRate" descriptionOverride="-" constant="10.0"/>
+</consumable>
+<consumable identifier="1879049823" name="Frothy Pint of Ale" iconId="1090640836-1090522692-1090640837" class="55">
+<stat name="Combat_BaseMissRate" descriptionOverride="-" constant="5.0"/>
+</consumable>
+<consumable identifier="1879049824" name="Small Beer" iconId="1090640842-1090522692-1090640843" class="55">
+<stat name="Combat_BaseMissRate" descriptionOverride="-" constant="5.0"/>
+</consumable>
+<consumable identifier="1879049825" name="Mead" iconId="1090640840-1090522692-1090640841" class="55">
+<stat name="Combat_BaseMissRate" descriptionOverride="-" constant="5.0"/>
+</consumable>
+<consumable identifier="1879049826" name="Hard Cider" iconId="1090523137-1090522692-1090523138" class="55">
+<stat name="Combat_BaseMissRate" descriptionOverride="-" constant="5.0"/>
+</consumable>
+<consumable identifier="1879049827" name="Flagon of Red Wine" iconId="1090523139-1090522692-1090523140" class="55">
+<stat name="Combat_BaseMissRate" descriptionOverride="-" constant="5.0"/>
+</consumable>
+<consumable identifier="1879049828" name="Flagon of White Wine" iconId="1090523139-1090522692-1090523140" class="55">
+<stat name="Combat_BaseMissRate" descriptionOverride="-" constant="5.0"/>
+</consumable>
+<consumable identifier="1879050187" name="Forsaken Ale" iconId="1090524177-1090522692-1090524178" class="55">
+<stat name="Combat_BaseMissRate" descriptionOverride="-" constant="10.0"/>
+</consumable>
+<consumable identifier="1879050188" name="Swill" iconId="1090524179-1090522692-1090524180" class="55">
+<stat name="Combat_BaseMissRate" descriptionOverride="-" constant="10.0"/>
+</consumable>
+<consumable identifier="1879050189" name="Forsaken Cider" iconId="1090524177-1090522692-1090524178" class="55">
+<stat name="Combat_BaseMissRate" descriptionOverride="-" constant="15.000001"/>
+</consumable>
+<consumable identifier="1879051637" name="Blagrove's Brown" iconId="1090523137-1090522692-1090523138" class="55">
+<stat name="Combat_BaseMissRate" descriptionOverride="-" constant="10.0"/>
+</consumable>
+<consumable identifier="1879051642" name="Wooly-foot Stout" iconId="1090523137-1090522692-1090523138" class="55">
+<stat name="Combat_BaseMissRate" descriptionOverride="-" constant="10.0"/>
+</consumable>
+<consumable identifier="1879052056" name="Farmer Maggot Mushroom" iconId="1090522812-1090522692-1090522813" class="55">
+<stat name="AGILITY" constant="14.0"/>
+</consumable>
+<consumable identifier="1879052430" name="Fire-oil" iconId="1090532008-1090519041-1090532009" class="17">
+<stat name="ForwardSource_ComboMode_Hunter_DamageType" operator="SET" constant="39.0"/>
+</consumable>
+<consumable identifier="1879054301" name="Simple Rations" iconId="1090640830-1090522692-1090640831" class="55">
+<stat name="OCMR" constant="108.0"/>
+<stat name="OCPR" constant="175.0"/>
+</consumable>
+<consumable identifier="1879054302" name="Dry Rations" iconId="1090640834-1090522692-1090640835" class="55">
+<stat name="OCMR" constant="486.00003"/>
+<stat name="OCPR" constant="595.0"/>
+</consumable>
+<consumable identifier="1879054303" name="Hard Rations" iconId="1090640828-1090522692-1090640829" class="55">
+<stat name="OCMR" constant="696.0"/>
+<stat name="OCPR" constant="845.0"/>
+</consumable>
+<consumable identifier="1879054304" name="Rich Rations" iconId="1090640838-1090522692-1090640839" class="55">
+<stat name="OCMR" constant="906.0"/>
+<stat name="OCPR" constant="1095.0"/>
+</consumable>
+<consumable identifier="1879054305" name="Tasty Rations" iconId="1090640832-1090522692-1090640833" class="55">
+<stat name="OCMR" constant="1116.0"/>
+<stat name="OCPR" constant="1345.0"/>
+</consumable>
+<consumable identifier="1879054998" name="Scroll of Minor Metalworking Lore" iconId="1090530434-1090519041-1090530435" class="57">
+<stat name="METALSMITH_CRIT_CHANCE_PERCENTAGE" constant="1.0"/>
+</consumable>
+<consumable identifier="1879055006" name="Scroll of Minor Tailoring Lore" iconId="1090523516-1090519041-1090523517" class="57">
+<stat name="TAILOR_CRIT_CHANCE_PERCENTAGE" constant="1.0"/>
+</consumable>
+<consumable identifier="1879055009" name="Scroll of Minor Weaponsmithing Lore" iconId="1090531739-1090519041-1090531740" class="57">
+<stat name="WEAPONSMITH_CRIT_CHANCE_PERCENTAGE" constant="1.0"/>
+</consumable>
+<consumable identifier="1879055012" name="Scroll of Minor Woodworking Lore" iconId="1090531737-1090519041-1090531738" class="57">
+<stat name="WOODWORKER_CRIT_CHANCE_PERCENTAGE" constant="1.0"/>
+</consumable>
+<consumable identifier="1879055015" name="Scroll of Minor Battle Lore" iconId="1090531744-1090519041-1090531745" class="57">
+<stat name="MELEE_DAMAGE_PERCENTAGE" constant="2.0"/>
+<stat name="RANGED_DAMAGE_PERCENTAGE" constant="2.0"/>
+<stat name="TACTICAL_DAMAGE_PERCENTAGE" constant="2.0"/>
+</consumable>
+<consumable identifier="1879055020" name="Scroll of Minor Warding Lore" iconId="1090531423-1090519041-1090531424" class="57">
+<stat name="MELEE_DEFENCE_PERCENTAGE" constant="-2.0"/>
+<stat name="RANGED_DEFENCE_PERCENTAGE" constant="-2.0"/>
+<stat name="TACTICAL_DEFENCE_PERCENTAGE" constant="-2.0"/>
+</consumable>
+<consumable identifier="1879055023" name="Scroll of Lesser Metalworking Lore" iconId="1090530434-1090519041-1090530435" class="57">
+<stat name="METALSMITH_CRIT_CHANCE_PERCENTAGE" constant="2.5"/>
+</consumable>
+<consumable identifier="1879055028" name="Scroll of Lesser Tailoring Lore" iconId="1090523516-1090519041-1090523517" class="57">
+<stat name="TAILOR_CRIT_CHANCE_PERCENTAGE" constant="2.5"/>
+</consumable>
+<consumable identifier="1879055030" name="Scroll of Lesser Weaponsmithing Lore" iconId="1090531739-1090519041-1090531740" class="57">
+<stat name="WEAPONSMITH_CRIT_CHANCE_PERCENTAGE" constant="2.5"/>
+</consumable>
+<consumable identifier="1879055032" name="Scroll of Lesser Woodworking Lore" iconId="1090531737-1090519041-1090531738" class="57">
+<stat name="WOODWORKER_CRIT_CHANCE_PERCENTAGE" constant="2.5"/>
+</consumable>
+<consumable identifier="1879055034" name="Scroll of Metalworking Lore" iconId="1090530434-1090519041-1090530435" class="57">
+<stat name="METALSMITH_CRIT_CHANCE_PERCENTAGE" constant="3.5"/>
+</consumable>
+<consumable identifier="1879055039" name="Scroll of Tailoring Lore" iconId="1090523516-1090519041-1090523517" class="57">
+<stat name="TAILOR_CRIT_CHANCE_PERCENTAGE" constant="3.5"/>
+</consumable>
+<consumable identifier="1879055041" name="Scroll of Weaponsmithing Lore" iconId="1090531739-1090519041-1090531740" class="57">
+<stat name="WEAPONSMITH_CRIT_CHANCE_PERCENTAGE" constant="3.5"/>
+</consumable>
+<consumable identifier="1879055043" name="Scroll of Woodworking Lore" iconId="1090531737-1090519041-1090531738" class="57">
+<stat name="WOODWORKER_CRIT_CHANCE_PERCENTAGE" constant="3.5"/>
+</consumable>
+<consumable identifier="1879055045" name="Scroll of Battle Lore" iconId="1090531744-1090519041-1090531745" class="57">
+<stat name="MELEE_DAMAGE_PERCENTAGE" constant="5.0"/>
+<stat name="RANGED_DAMAGE_PERCENTAGE" constant="5.0"/>
+<stat name="TACTICAL_DAMAGE_PERCENTAGE" constant="5.0"/>
+</consumable>
+<consumable identifier="1879055050" name="Scroll of Warding Lore" iconId="1090531423-1090519041-1090531424" class="57">
+<stat name="MELEE_DEFENCE_PERCENTAGE" constant="-5.0"/>
+<stat name="RANGED_DEFENCE_PERCENTAGE" constant="-5.0"/>
+<stat name="TACTICAL_DEFENCE_PERCENTAGE" constant="-5.0"/>
+</consumable>
+<consumable identifier="1879055053" name="Scroll of Elder Metalworking Lore" iconId="1090530434-1090519041-1090530435" class="57">
+<stat name="METALSMITH_CRIT_CHANCE_PERCENTAGE" constant="7.5000005"/>
+</consumable>
+<consumable identifier="1879055058" name="Scroll of Elder Tailoring Lore" iconId="1090523516-1090519041-1090523517" class="57">
+<stat name="TAILOR_CRIT_CHANCE_PERCENTAGE" constant="7.5000005"/>
+</consumable>
+<consumable identifier="1879055060" name="Scroll of Elder Weaponsmithing Lore" iconId="1090531739-1090519041-1090531740" class="57">
+<stat name="WEAPONSMITH_CRIT_CHANCE_PERCENTAGE" constant="7.5000005"/>
+</consumable>
+<consumable identifier="1879055062" name="Scroll of Elder Woodworking Lore" iconId="1090531737-1090519041-1090531738" class="57">
+<stat name="WOODWORKER_CRIT_CHANCE_PERCENTAGE" constant="7.5000005"/>
+</consumable>
+<consumable identifier="1879055065" name="Scroll of Ancient Metalworking Lore" iconId="1090530434-1090519041-1090530435" class="57">
+<stat name="METALSMITH_CRIT_CHANCE_PERCENTAGE" constant="10.0"/>
+</consumable>
+<consumable identifier="1879055067" name="Scroll of Ancient Tailoring Lore" iconId="1090523516-1090519041-1090523517" class="57">
+<stat name="TAILOR_CRIT_CHANCE_PERCENTAGE" constant="10.0"/>
+</consumable>
+<consumable identifier="1879055069" name="Scroll of Ancient Weaponsmithing Lore" iconId="1090531739-1090519041-1090531740" class="57">
+<stat name="WEAPONSMITH_CRIT_CHANCE_PERCENTAGE" constant="10.0"/>
+</consumable>
+<consumable identifier="1879055071" name="Scroll of Ancient Woodworking Lore" iconId="1090531737-1090519041-1090531738" class="57">
+<stat name="WOODWORKER_CRIT_CHANCE_PERCENTAGE" constant="10.0"/>
+</consumable>
+<consumable identifier="1879056125" name="Refined Fire-oil" iconId="1090532008-1090519041-1090532009" class="17">
+<stat name="ForwardSource_ComboMode_Hunter_DamageType" operator="SET" constant="39.0"/>
+</consumable>
+<consumable identifier="1879056126" name="Pure Fire-oil" iconId="1090532008-1090519041-1090532009" class="17">
+<stat name="ForwardSource_ComboMode_Hunter_DamageType" operator="SET" constant="39.0"/>
+</consumable>
+<consumable identifier="1879056130" name="Refined Light-oil" iconId="1090537233-1090519041-1090537234" class="17">
+<stat name="ForwardSource_ComboMode_Hunter_DamageType" operator="SET" constant="1.0"/>
+</consumable>
+<consumable identifier="1879056131" name="Pure Light-oil" iconId="1090537233-1090519041-1090537234" class="17">
+<stat name="ForwardSource_ComboMode_Hunter_DamageType" operator="SET" constant="1.0"/>
+</consumable>
+<consumable identifier="1879060114" name="Small Shield-spike Kit" iconId="1090540516-1090519041-1090540517" class="26">
+<stat name="Item_Guardian_ShieldSpikes_Damage" constant="2.0"/>
+</consumable>
+<consumable identifier="1879060115" name="Westernesse Shield-spike Kit" iconId="1090540519-1090519041-1090540520" class="26">
+<specialEffect label="Set damage type of all skills to Westernesse"/>
+</consumable>
+<consumable identifier="1879061229" name="Hard Biscuits" iconId="1090541628-1090522692-1090541629" class="55">
+<stat name="OCMR" constant="192.0"/>
+<stat name="OCPR" constant="260.0"/>
+</consumable>
+<consumable identifier="1879061320" name="Superior Hard Biscuits" iconId="1090541628-1090522692-1090541629" class="55">
+<stat name="OCMR" constant="385.0"/>
+<stat name="OCPR" constant="451.0"/>
+</consumable>
+<consumable identifier="1879061321" name="Superior Mushroom Pie" iconId="1090541626-1090522692-1090541627" class="55">
+<stat name="OCMR" constant="501.59998"/>
+<stat name="OCPR" constant="561.0"/>
+</consumable>
+<consumable identifier="1879061323" name="Superior Roast Pork" iconId="1090640826-1090522692-1090640827" class="55">
+<stat name="OCMR" constant="501.59998"/>
+<stat name="OCPR" constant="561.0"/>
+</consumable>
+<consumable identifier="1879061325" name="Superior Fried Mushrooms" iconId="1090522812-1090522692-1090522812" class="55">
+<stat name="AGILITY" constant="6.0"/>
+</consumable>
+<consumable identifier="1879061328" name="Superior Eggs and Onions" iconId="1090541650-1090522692-1090541651" class="55">
+<stat name="MIGHT" constant="6.0"/>
+</consumable>
+<consumable identifier="1879061333" name="Superior Cooked Carrots" iconId="1090531103-1090522692-1090531104" class="55">
+<stat name="VITALITY" constant="6.0"/>
+</consumable>
+<consumable identifier="1879061336" name="Coney Pie" iconId="1090541626-1090522692-1090541627" class="55">
+<stat name="OCMR" constant="486.00003"/>
+<stat name="OCPR" constant="595.0"/>
+</consumable>
+<consumable identifier="1879061337" name="Superior Coney Pie" iconId="1090541626-1090522692-1090541627" class="55">
+<stat name="OCMR" constant="1078.0"/>
+<stat name="OCPR" constant="929.5"/>
+</consumable>
+<consumable identifier="1879061340" name="Blueberry Muffins" iconId="1090541654-1090522692-1090541655" class="55">
+<stat name="OCMR" constant="684.0"/>
+<stat name="OCPR" constant="735.0"/>
+</consumable>
+<consumable identifier="1879061341" name="Superior Blueberry Muffins" iconId="1090541654-1090522692-1090541655" class="55">
+<stat name="OCMR" constant="1333.2"/>
+<stat name="OCPR" constant="1138.5"/>
+</consumable>
+<consumable identifier="1879061343" name="Stuffed Cabbage" iconId="1090541656-1090522692-1090541657" class="55">
+<stat name="OCMR" constant="810.0"/>
+<stat name="OCPR" constant="945.0"/>
+</consumable>
+<consumable identifier="1879061344" name="Superior Stuffed Cabbage" iconId="1090541656-1090522692-1090541657" class="55">
+<stat name="OCMR" constant="1716.0"/>
+<stat name="OCPR" constant="1452.0"/>
+</consumable>
+<consumable identifier="1879061346" name="Pork Sausage" iconId="1090541658-1090522692-1090541659" class="55">
+<stat name="AGILITY" constant="6.0"/>
+</consumable>
+<consumable identifier="1879061347" name="Superior Pork Sausage" iconId="1090541658-1090522692-1090541659" class="55">
+<stat name="AGILITY" constant="14.0"/>
+</consumable>
+<consumable identifier="1879061350" name="Coney Stew" iconId="1090541648-1090522692-1090541649" class="55">
+<stat name="MIGHT" constant="6.0"/>
+</consumable>
+<consumable identifier="1879061351" name="Superior Coney Stew" iconId="1090541648-1090522692-1090541649" class="55">
+<stat name="MIGHT" constant="14.0"/>
+</consumable>
+<consumable identifier="1879061352" name="Complete Hobbit Breakfast" iconId="1090541660-1090522692-1090541661" class="55">
+<stat name="VITALITY" constant="6.0"/>
+</consumable>
+<consumable identifier="1879061353" name="Superior Complete Hobbit Breakfast" iconId="1090541660-1090522692-1090541661" class="55">
+<stat name="VITALITY" constant="14.0"/>
+</consumable>
+<consumable identifier="1879061357" name="Steak and Kidney Pie" iconId="1090541626-1090522692-1090541627" class="55">
+<stat name="OCMR" constant="906.0"/>
+<stat name="OCPR" constant="1095.0"/>
+</consumable>
+<consumable identifier="1879061358" name="Superior Steak and Kidney Pie" iconId="1090541626-1090522692-1090541627" class="55">
+<stat name="OCMR" constant="1782.0"/>
+<stat name="OCPR" constant="1479.5"/>
+</consumable>
+<consumable identifier="1879061360" name="Hard Tack Ration" iconId="1090535655-1090522692-1090535656" class="55">
+<stat name="OCMR" constant="1244.0"/>
+<stat name="OCPR" constant="1335.0"/>
+</consumable>
+<consumable identifier="1879061361" name="Superior Hard Tack Ration" iconId="1090535655-1090522692-1090535656" class="55">
+<stat name="OCMR" constant="2191.2"/>
+<stat name="OCPR" constant="1798.5"/>
+</consumable>
+<consumable identifier="1879061363" name="Beef Stew" iconId="1090541648-1090522692-1090541649" class="55">
+<stat name="OCMR" constant="1244.0"/>
+<stat name="OCPR" constant="1335.0"/>
+</consumable>
+<consumable identifier="1879061364" name="Superior Beef Stew" iconId="1090541648-1090522692-1090541649" class="55">
+<stat name="OCMR" constant="2191.2"/>
+<stat name="OCPR" constant="1798.5"/>
+</consumable>
+<consumable identifier="1879061365" name="Delicious Crispy Bacon" iconId="1090531217-1090522692-1090541664" class="55">
+<stat name="AGILITY" constant="12.0"/>
+</consumable>
+<consumable identifier="1879061366" name="Superior Delicious Crispy Bacon" iconId="1090531217-1090522692-1090541664" class="55">
+<stat name="AGILITY" constant="23.0"/>
+</consumable>
+<consumable identifier="1879061367" name="Pork Chops" iconId="1090522690-1090522692-1090522691" class="55">
+<stat name="MIGHT" constant="12.0"/>
+</consumable>
+<consumable identifier="1879061368" name="Superior Pork Chops" iconId="1090522690-1090522692-1090522691" class="55">
+<stat name="MIGHT" constant="23.0"/>
+</consumable>
+<consumable identifier="1879061370" name="Vegetable Medley" iconId="1090541626-1090522692-1090541627" class="55">
+<stat name="VITALITY" constant="12.0"/>
+</consumable>
+<consumable identifier="1879061371" name="Superior Vegetable Medley" iconId="1090541648-1090522692-1090541649" class="55">
+<stat name="VITALITY" constant="23.0"/>
+</consumable>
+<consumable identifier="1879061375" name="Shire Rations" iconId="1090535655-1090522692-1090535656" class="55">
+<stat name="OCMR" constant="1326.0"/>
+<stat name="OCPR" constant="1580.0"/>
+</consumable>
+<consumable identifier="1879061376" name="Superior Shire Rations" iconId="1090535655-1090522692-1090535656" class="55">
+<stat name="OCMR" constant="2552.0"/>
+<stat name="OCPR" constant="2013.0"/>
+</consumable>
+<consumable identifier="1879061377" name="Roasted Chicken" iconId="1090541665-1090522692-1090541666" class="55">
+<stat name="VITALITY" constant="18.0"/>
+</consumable>
+<consumable identifier="1879061379" name="Spiced Apple Pie" iconId="1090541626-1090522692-1090541627" class="55">
+<stat name="OCMR" constant="1804.0"/>
+<stat name="OCPR" constant="1920.0"/>
+</consumable>
+<consumable identifier="1879061380" name="Superior Spiced Apple Pie" iconId="1090541626-1090522692-1090541627" class="55">
+<stat name="OCMR" constant="3115.2"/>
+<stat name="OCPR" constant="2442.0"/>
+</consumable>
+<consumable identifier="1879061383" name="Stew of Kings" iconId="1090541648-1090522692-1090541649" class="55">
+<stat name="OCMR" constant="1804.0"/>
+<stat name="OCPR" constant="1920.0"/>
+</consumable>
+<consumable identifier="1879061384" name="Superior Stew of Kings" iconId="1090541648-1090522692-1090541649" class="55">
+<stat name="OCMR" constant="3115.2"/>
+<stat name="OCPR" constant="2442.0"/>
+</consumable>
+<consumable identifier="1879061386" name="Salted Beef Delights" iconId="1090530348-1090522692-1090530349" class="55">
+<stat name="AGILITY" constant="18.0"/>
+</consumable>
+<consumable identifier="1879061387" name="Superior Salted Beef Delights" iconId="1090530348-1090522692-1090530349" class="55">
+<stat name="AGILITY" constant="32.0"/>
+</consumable>
+<consumable identifier="1879061389" name="Hobbiton Omelet" iconId="1090541650-1090522692-1090541651" class="55">
+<stat name="MIGHT" constant="18.0"/>
+</consumable>
+<consumable identifier="1879061390" name="Superior Hobbiton Omelet" iconId="1090541650-1090522692-1090541651" class="55">
+<stat name="MIGHT" constant="32.0"/>
+</consumable>
+<consumable identifier="1879061391" name="Superior Roasted Chicken" iconId="1090541665-1090522692-1090541666" class="55">
+<stat name="VITALITY" constant="32.0"/>
+</consumable>
+<consumable identifier="1879061396" name="Lembas" iconId="1090535655-1090522692-1090535656" class="55">
+<stat name="OCMR" constant="1746.0"/>
+<stat name="OCPR" constant="2080.0"/>
+</consumable>
+<consumable identifier="1879061397" name="Superior Lembas" iconId="1090535655-1090522692-1090535656" class="55">
+<stat name="OCMR" constant="3322.0"/>
+<stat name="OCPR" constant="2563.0"/>
+</consumable>
+<consumable identifier="1879061400" name="Perfect Pie" iconId="1090541626-1090522692-1090541627" class="55">
+<stat name="OCMR" constant="2364.0"/>
+<stat name="OCPR" constant="2520.0"/>
+</consumable>
+<consumable identifier="1879061401" name="Superior Perfect Pie" iconId="1090541626-1090522692-1090541627" class="55">
+<stat name="OCMR" constant="4039.2"/>
+<stat name="OCPR" constant="3102.0"/>
+</consumable>
+<consumable identifier="1879061403" name="Ultimate Carrot Cake" iconId="1090541669-1090522692-1090541670" class="55">
+<stat name="OCMR" constant="2364.0"/>
+<stat name="OCPR" constant="2520.0"/>
+</consumable>
+<consumable identifier="1879061404" name="Superior Ultimate Carrot Cake" iconId="1090541669-1090522692-1090541670" class="55">
+<stat name="OCMR" constant="4039.2"/>
+<stat name="OCPR" constant="3102.0"/>
+</consumable>
+<consumable identifier="1879061407" name="Delicious Steak" iconId="1090530348-1090522692-1090530349" class="55">
+<stat name="AGILITY" constant="24.0"/>
+</consumable>
+<consumable identifier="1879061408" name="Superior Delicious Steak" iconId="1090530348-1090522692-1090530349" class="55">
+<stat name="AGILITY" constant="41.0"/>
+</consumable>
+<consumable identifier="1879061410" name="Feast of Rohan" iconId="1090522690-1090522692-1090522691" class="55">
+<stat name="MIGHT" constant="24.0"/>
+</consumable>
+<consumable identifier="1879061411" name="Superior Feast of Rohan" iconId="1090530348-1090522692-1090530349" class="55">
+<stat name="MIGHT" constant="41.0"/>
+</consumable>
+<consumable identifier="1879061412" name="Masterful Mash" iconId="1090541650-1090522692-1090541651" class="55">
+<stat name="VITALITY" constant="24.0"/>
+</consumable>
+<consumable identifier="1879061413" name="Superior Masterful Mash" iconId="1090541650-1090522692-1090541651" class="55">
+<stat name="VITALITY" constant="41.0"/>
+</consumable>
+<consumable identifier="1879061918" name="Beakbreaker Ale" iconId="1090523137-1090522692-1090523138" class="55">
+<stat name="Combat_BaseMissRate" descriptionOverride="-" constant="10.0"/>
+</consumable>
+<consumable identifier="1879062159" name="Old Withywindle" iconId="1090523137-1090522692-1090523138" class="55">
+<stat name="Combat_BaseMissRate" descriptionOverride="-" constant="15.000001"/>
+</consumable>
+<consumable identifier="1879062161" name="Old Winyards" iconId="1090523139-1090522692-1090523140" class="55">
+<stat name="Combat_BaseMissRate" descriptionOverride="-" constant="15.000001"/>
+</consumable>
+<consumable identifier="1879062265" name="Serene Stew" iconId="1090541648-1090522692-1090541649" class="55">
+<stat name="OCMR" constant="486.00003"/>
+<stat name="OCPR" constant="595.0"/>
+</consumable>
+<consumable identifier="1879062270" name="Green Dragon's Breath Ale" iconId="1090523137-1090522692-1090523138" class="55">
+<stat name="Combat_BaseMissRate" descriptionOverride="-" constant="10.0"/>
+</consumable>
+<consumable identifier="1879062271" name="1404 Vintage Reserve" iconId="1090523139-1090522692-1090523140" class="55">
+<stat name="Combat_BaseMissRate" descriptionOverride="-" constant="15.000001"/>
+</consumable>
+<consumable identifier="1879062275" name="Toad's Tongue Ale" iconId="1090523137-1090522692-1090523138" class="55">
+<stat name="Combat_BaseMissRate" descriptionOverride="-" constant="10.0"/>
+</consumable>
+<consumable identifier="1879062279" name="Brandy Wine" iconId="1090523139-1090522692-1090523140" class="55">
+<stat name="Combat_BaseMissRate" descriptionOverride="-" constant="10.0"/>
+</consumable>
+<consumable identifier="1879064047" name="Waybread of Imladris" iconId="1090553748-1090522692-1090553750" class="55">
+<stat name="OCMR" constant="486.00003"/>
+<stat name="OCPR" constant="595.0"/>
+</consumable>
+<consumable identifier="1879064049" name="Glass of Aglaral" iconId="1090553772-1090519041-1090553774" class="28">
+<stat name="HOPE" constant="1.0"/>
+</consumable>
+<consumable identifier="1879064055" name="Lembas of Duillond" iconId="1090553748-1090522692-1090553750" class="55">
+<stat name="OCMR" constant="486.00003"/>
+<stat name="OCPR" constant="595.0"/>
+</consumable>
+<consumable identifier="1879068266" name="Greater Fire-oil" iconId="1090532008-1090519041-1090532009" class="17">
+<stat name="ForwardSource_ComboMode_Hunter_DamageType" operator="SET" constant="39.0"/>
+</consumable>
+<consumable identifier="1879070102" name="Light-oil" iconId="1090537233-1090519041-1090537234" class="17">
+<stat name="ForwardSource_ComboMode_Hunter_DamageType" operator="SET" constant="1.0"/>
+</consumable>
+<consumable identifier="1879070103" name="Greater Light-oil" iconId="1090537233-1090519041-1090537234" class="17">
+<stat name="ForwardSource_ComboMode_Hunter_DamageType" operator="SET" constant="1.0"/>
+</consumable>
+<consumable identifier="1879070110" name="Shield-spike Kit" iconId="1090552930-1090519041-1090552931" class="26">
+<stat name="Item_Guardian_ShieldSpikes_Damage" constant="3.0"/>
+</consumable>
+<consumable identifier="1879070113" name="Ancient Dwarf Shield-spike Kit" iconId="1090552932-1090519041-1090552933" class="26">
+<specialEffect label="Set damage type of all skills to Ancient Dwarf-make"/>
+</consumable>
+<consumable identifier="1879070435" name="Large Shield-spike Kit" iconId="1090552946-1090519041-1090552947" class="26">
+<stat name="Item_Guardian_ShieldSpikes_Damage" constant="4.0"/>
+</consumable>
+<consumable identifier="1879070438" name="Beleriand Shield-spike Kit" iconId="1090540524-1090519041-1090540525" class="26">
+<specialEffect label="Set damage type of all skills to Beleriand"/>
+</consumable>
+<consumable identifier="1879071944" name="Roast of Heroes" iconId="1090530348-1090522692-1090530349" class="55">
+<stat name="OCMR" constant="3382.5"/>
+<stat name="OCPR" constant="2673.0"/>
+</consumable>
+<consumable identifier="1879077913" name="Thistlebelly Brew" iconId="1090523137-1090522692-1090523138" class="55">
+<stat name="Combat_BaseMissRate" descriptionOverride="-" constant="10.0"/>
+</consumable>
+<consumable identifier="1879077914" name="Whitebranch" iconId="1090523139-1090522692-1090523140" class="55">
+<stat name="Combat_BaseMissRate" descriptionOverride="-" constant="10.0"/>
+</consumable>
+<consumable identifier="1879083435" name="Bombur's Beard Lager" iconId="1090523137-1090522692-1090523138" class="55">
+<stat name="Combat_BaseMissRate" descriptionOverride="-" constant="15.000001"/>
+</consumable>
+<consumable identifier="1879083986" name="Superior Hornblower's Pie" iconId="1090541626-1090522692-1090541627" class="55">
+<stat name="OCMR" constant="1333.2"/>
+<stat name="OCPR" constant="1138.5"/>
+</consumable>
+<consumable identifier="1879083987" name="Hornblower's Pie" iconId="1090541626-1090522692-1090541627" class="55">
+<stat name="OCMR" constant="684.0"/>
+<stat name="OCPR" constant="735.0"/>
+</consumable>
+<consumable identifier="1879083992" name="Limael's Vintage" iconId="1090523139-1090522692-1090523140" class="55">
+<stat name="Combat_BaseMissRate" descriptionOverride="-" constant="10.0"/>
+</consumable>
+<consumable identifier="1879083993" name="Dorwinion White" iconId="1090523139-1090522692-1090523140" class="55">
+<stat name="Combat_BaseMissRate" descriptionOverride="-" constant="10.0"/>
+</consumable>
+<consumable identifier="1879083995" name="Dorwinion Red" iconId="1090523139-1090522692-1090523140" class="55">
+<stat name="Combat_BaseMissRate" descriptionOverride="-" constant="10.0"/>
+</consumable>
+<consumable identifier="1879084264" name="Resilient Shield-spike Kit" iconId="1090552930-1090519041-1090552931" class="26">
+<stat name="Item_Guardian_ShieldSpikes_Damage" constant="4.0"/>
+</consumable>
+<consumable identifier="1879084266" name="Resilient Westernesse Shield-spike Kit" iconId="1090540519-1090519041-1090540520" class="26">
+<specialEffect label="Set damage type of all skills to Westernesse"/>
+</consumable>
+<consumable identifier="1879084268" name="Large Resilient Shield-spike Kit" iconId="1090552946-1090519041-1090552947" class="26">
+<stat name="Item_Guardian_ShieldSpikes_Damage" constant="5.0"/>
+</consumable>
+<consumable identifier="1879084277" name="Resilient Ancient Dwarf Shield-spike Kit" iconId="1090552932-1090519041-1090552933" class="26">
+<specialEffect label="Set damage type of all skills to Ancient Dwarf-make"/>
+</consumable>
+<consumable identifier="1879084287" name="Resilient Beleriand Shield-spike Kit" iconId="1090540524-1090519041-1090540525" class="26">
+<specialEffect label="Set damage type of all skills to Beleriand"/>
+</consumable>
+<consumable identifier="1879084289" name="Small Resilient Shield-spike Kit" iconId="1090540516-1090519041-1090540517" class="26">
+<stat name="Item_Guardian_ShieldSpikes_Damage" constant="3.0"/>
+</consumable>
+<consumable identifier="1879084484" name="Maggoty Meat" iconId="1090522690-1090519041-1090522691" class="55">
+<stat name="OCMR" constant="450.0"/>
+<stat name="OCPR" constant="90.0"/>
+</consumable>
+<consumable identifier="1879084485" name="Slug Mash" iconId="1090541650-1090519042-1090541651" class="55">
+<stat name="OCMR" constant="1080.0"/>
+<stat name="OCPR" constant="225.0"/>
+</consumable>
+<consumable identifier="1879084486" name="Rat-folk Stew" iconId="1090541673-1090519042-1090541674" class="55">
+<stat name="OCMR" constant="1500.0"/>
+<stat name="OCPR" constant="360.0"/>
+</consumable>
+<consumable identifier="1879085602" name="Boar Jerky" iconId="1090531217-1090522692-1090541664" class="55">
+<stat name="OCMR" constant="486.00003"/>
+<stat name="OCPR" constant="595.0"/>
+</consumable>
+<consumable identifier="1879085603" name="Aurochs Jerky" iconId="1090531217-1090522692-1090541664" class="55">
+<stat name="OCMR" constant="486.00003"/>
+<stat name="OCPR" constant="595.0"/>
+</consumable>
+<consumable identifier="1879085771" name="Snapper Soup" iconId="1090541648-1090522692-1090541649" class="55">
+<stat name="VITALITY" constant="12.0"/>
+</consumable>
+<consumable identifier="1879087161" name="Scroll of the Ages" iconId="1090530434-1090519044-1090530435" class="57">
+<stat name="METALSMITH_CRIT_CHANCE_PERCENTAGE" descriptionOverride="Adds 9% to critical chance bonus of all crafting skills on top of any other scholar scrolls." constant="9.0"/>
+<stat name="WOODWORKER_CRIT_CHANCE_PERCENTAGE" descriptionOverride="-" constant="9.0"/>
+<stat name="COOK_CRIT_CHANCE_PERCENTAGE" descriptionOverride="-" constant="9.0"/>
+<stat name="SCHOLAR_CRIT_CHANCE_PERCENTAGE" descriptionOverride="-" constant="9.0"/>
+<stat name="JEWELLER_CRIT_CHANCE_PERCENTAGE" descriptionOverride="-" constant="9.0"/>
+<stat name="TAILOR_CRIT_CHANCE_PERCENTAGE" descriptionOverride="-" constant="9.0"/>
+<stat name="Craft_Forester_CriticalChanceAddModifier" descriptionOverride="-" constant="9.0"/>
+</consumable>
+<consumable identifier="1879087821" name="Summer Ale" iconId="1090640836-1090522692-1090640837" class="55">
+<stat name="Combat_BaseMissRate" descriptionOverride="-" constant="5.0"/>
+</consumable>
+<consumable identifier="1879087822" name="Fern Beer" iconId="1090640842-1090522692-1090640843" class="55">
+<stat name="Combat_BaseMissRate" descriptionOverride="-" constant="10.0"/>
+</consumable>
+<consumable identifier="1879087823" name="Perry's Porter" iconId="1090640840-1090522692-1090640841" class="55">
+<stat name="Combat_BaseMissRate" descriptionOverride="-" constant="15.000001"/>
+</consumable>
+<consumable identifier="1879087824" name="Mid-Day's Cider" iconId="1090523137-1090522692-1090523138" class="55">
+<stat name="Combat_BaseMissRate" descriptionOverride="-" constant="5.0"/>
+</consumable>
+<consumable identifier="1879087825" name="Cherry-blossom Wine" iconId="1090523139-1090522692-1090523140" class="55">
+<stat name="Combat_BaseMissRate" descriptionOverride="-" constant="10.0"/>
+</consumable>
+<consumable identifier="1879087826" name="Willow Wine" iconId="1090523139-1090522692-1090523140" class="55">
+<stat name="Combat_BaseMissRate" descriptionOverride="-" constant="15.000001"/>
+</consumable>
+<consumable identifier="1879087827" name="Summer Squash" iconId="1090640834-1090522692-1090640835" class="55">
+<stat name="OCMR" constant="570.0"/>
+<stat name="OCPR" constant="695.0"/>
+</consumable>
+<consumable identifier="1879087828" name="Summer Sausage" iconId="1090640828-1090522692-1090640829" class="55">
+<stat name="OCMR" constant="780.0"/>
+<stat name="OCPR" constant="945.0"/>
+</consumable>
+<consumable identifier="1879087829" name="Summer Pudding" iconId="1090640838-1090522692-1090640839" class="55">
+<stat name="OCMR" constant="990.0"/>
+<stat name="OCPR" constant="1195.0"/>
+</consumable>
+<consumable identifier="1879087830" name="Summer Greens" iconId="1090640830-1090522692-1090640831" class="55">
+<stat name="OCMR" constant="192.0"/>
+<stat name="OCPR" constant="260.0"/>
+</consumable>
+<consumable identifier="1879087831" name="Summer Grouse" iconId="1090640832-1090522692-1090640833" class="55">
+<stat name="OCMR" constant="1200.0"/>
+<stat name="OCPR" constant="1430.0"/>
+</consumable>
+<consumable identifier="1879087879" name="Waybread of Imladris" iconId="1090648271-1090522692-1090648273" class="55">
+<stat name="OCMR" constant="5692.5"/>
+<stat name="OCPR" constant="4323.0"/>
+</consumable>
+<consumable identifier="1879087898" name="Cram Biscuit" iconId="1090648268-1090522692-1090648270" class="55">
+<stat name="OCMR" constant="5692.5"/>
+<stat name="OCPR" constant="4323.0"/>
+</consumable>
+<consumable identifier="1879087899" name="Flask of Imladris Miruvor" iconId="1090648262-1090519043-1090648264" class="28">
+<stat name="SHADOW_MITIGATION_PERCENTAGE" constant="10.0"/>
+</consumable>
+<consumable identifier="1879087900" name="Flagon of Imladris Miruvor" iconId="1090648265-1090519043-1090648267" class="28">
+<stat name="SHADOW_MITIGATION_PERCENTAGE" constant="3.0"/>
+</consumable>
+<consumable identifier="1879087901" name="Flask of Ringnen Salve" iconId="1090648283-1090519043-1090648285" class="28">
+<stat name="FIRE_MITIGATION_PERCENTAGE" constant="10.0"/>
+</consumable>
+<consumable identifier="1879087902" name="Pot of Ringnen Salve" iconId="1090648286-1090519043-1090648288" class="28">
+<stat name="FIRE_MITIGATION_PERCENTAGE" constant="3.0"/>
+</consumable>
+<consumable identifier="1879088006" name="Scroll of Jeweller Lore" iconId="1090523516-1090519041-1090523517" class="57">
+<stat name="JEWELLER_CRIT_CHANCE_PERCENTAGE" constant="3.5"/>
+</consumable>
+<consumable identifier="1879088007" name="Scroll of Minor Jeweller Lore" iconId="1090523516-1090519041-1090523517" class="57">
+<stat name="JEWELLER_CRIT_CHANCE_PERCENTAGE" constant="1.0"/>
+</consumable>
+<consumable identifier="1879088011" name="Scroll of Cooking Lore" iconId="1090530434-1090519041-1090530435" class="57">
+<stat name="COOK_CRIT_CHANCE_PERCENTAGE" constant="3.5"/>
+</consumable>
+<consumable identifier="1879088013" name="Scroll of Ancient Jeweller Lore" iconId="1090523516-1090519041-1090523517" class="57">
+<stat name="JEWELLER_CRIT_CHANCE_PERCENTAGE" constant="10.0"/>
+</consumable>
+<consumable identifier="1879088015" name="Scroll of Minor Scholar Lore" iconId="1090531739-1090519041-1090531740" class="57">
+<stat name="SCHOLAR_CRIT_CHANCE_PERCENTAGE" constant="1.0"/>
+</consumable>
+<consumable identifier="1879088016" name="Scroll of Elder Scholar Lore" iconId="1090531739-1090519041-1090531740" class="57">
+<stat name="SCHOLAR_CRIT_CHANCE_PERCENTAGE" constant="7.5000005"/>
+</consumable>
+<consumable identifier="1879088018" name="Scroll of Ancient Cooking Lore" iconId="1090530434-1090519041-1090530435" class="57">
+<stat name="COOK_CRIT_CHANCE_PERCENTAGE" constant="10.0"/>
+</consumable>
+<consumable identifier="1879088019" name="Scroll of Elder Cooking Lore" iconId="1090530434-1090519041-1090530435" class="57">
+<stat name="COOK_CRIT_CHANCE_PERCENTAGE" constant="7.5000005"/>
+</consumable>
+<consumable identifier="1879088020" name="Scroll of Ancient Scholar Lore" iconId="1090531739-1090519041-1090531740" class="57">
+<stat name="SCHOLAR_CRIT_CHANCE_PERCENTAGE" constant="10.0"/>
+</consumable>
+<consumable identifier="1879088023" name="Scroll of Lesser Scholar Lore" iconId="1090531739-1090519041-1090531740" class="57">
+<stat name="SCHOLAR_CRIT_CHANCE_PERCENTAGE" constant="2.5"/>
+</consumable>
+<consumable identifier="1879088024" name="Scroll of Elder Jeweller Lore" iconId="1090523516-1090519041-1090523517" class="57">
+<stat name="JEWELLER_CRIT_CHANCE_PERCENTAGE" constant="7.5000005"/>
+</consumable>
+<consumable identifier="1879088027" name="Scroll of Minor Cooking Lore" iconId="1090530434-1090519041-1090530435" class="57">
+<stat name="COOK_CRIT_CHANCE_PERCENTAGE" constant="1.0"/>
+</consumable>
+<consumable identifier="1879088028" name="Scroll of Lesser Jeweller Lore" iconId="1090523516-1090519041-1090523517" class="57">
+<stat name="JEWELLER_CRIT_CHANCE_PERCENTAGE" constant="2.5"/>
+</consumable>
+<consumable identifier="1879088029" name="Scroll of Lesser Cooking Lore" iconId="1090530434-1090519041-1090530435" class="57">
+<stat name="COOK_CRIT_CHANCE_PERCENTAGE" constant="2.5"/>
+</consumable>
+<consumable identifier="1879088031" name="Scroll of Scholar Lore" iconId="1090531739-1090519041-1090531740" class="57">
+<stat name="SCHOLAR_CRIT_CHANCE_PERCENTAGE" constant="3.5"/>
+</consumable>
+<consumable identifier="1879088139" name="Lute Strings of Minor Subtlety" iconId="1090648436-1090519042-1090648437" class="4">
+<stat name="ThreatInputModifier_Healing" constant="-5.0"/>
+</consumable>
+<consumable identifier="1879088140" name="Lute Strings of Subtlety" iconId="1090648436-1090519042-1090648437" class="4">
+<stat name="ThreatInputModifier_Healing" constant="-7.0"/>
+</consumable>
+<consumable identifier="1879088141" name="Lute Strings of Greater Subtlety" iconId="1090648436-1090519042-1090648437" class="4">
+<stat name="ThreatInputModifier_Healing" constant="-10.0"/>
+</consumable>
+<consumable identifier="1879088142" name="Improved Lute Strings of Minor Subtlety" iconId="1090648436-1090519043-1090648437" class="4">
+<stat name="ThreatInputModifier_Healing" constant="-7.0"/>
+</consumable>
+<consumable identifier="1879088143" name="Improved Lute Strings of Subtlety" iconId="1090648436-1090519043-1090648437" class="4">
+<stat name="ThreatInputModifier_Healing" constant="-10.0"/>
+</consumable>
+<consumable identifier="1879088144" name="Improved Lute Strings of Greater Subtlety" iconId="1090648436-1090519043-1090648437" class="4">
+<stat name="ThreatInputModifier_Healing" constant="-12.0"/>
+</consumable>
+<consumable identifier="1879088146" name="Sandson's Famous Hardboiled Eggs" iconId="1090553072-1090522692-1090553073" class="55">
+<stat name="OCMR" constant="292.0"/>
+<stat name="OCPR" constant="330.0"/>
+</consumable>
+<consumable identifier="1879088147" name="Superior Sandson's Famous Hardboiled Eggs" iconId="1090553072-1090522692-1090553073" class="55">
+<stat name="OCMR" constant="501.59998"/>
+<stat name="OCPR" constant="561.0"/>
+</consumable>
+<consumable identifier="1879089569" name="Blue Bock" iconId="1090523137-1090522692-1090523138" class="55">
+<stat name="Combat_BaseMissRate" descriptionOverride="-" constant="5.0"/>
+</consumable>
+<consumable identifier="1879089572" name="Shire Spice Ale" iconId="1090524177-1090522692-1090524178" class="55">
+<stat name="Combat_BaseMissRate" descriptionOverride="-" constant="10.0"/>
+</consumable>
+<consumable identifier="1879089574" name="Honeybrew" iconId="1090640840-1090522692-1090640841" class="55">
+<stat name="Combat_BaseMissRate" descriptionOverride="-" constant="10.0"/>
+</consumable>
+<consumable identifier="1879089578" name="Blueberry Ale" iconId="1090523139-1090522692-1090523140" class="55">
+<stat name="Combat_BaseMissRate" descriptionOverride="-" constant="5.0"/>
+</consumable>
+<consumable identifier="1879089588" name="Strawberry Stout" iconId="1090640842-1090522692-1090640843" class="55">
+<stat name="Combat_BaseMissRate" descriptionOverride="-" constant="10.0"/>
+</consumable>
+<consumable identifier="1879089596" name="Apprentice's Ale" iconId="1090524177-1090522692-1090524178" class="55">
+<stat name="Combat_BaseMissRate" descriptionOverride="-" constant="5.0"/>
+</consumable>
+<consumable identifier="1879089597" name="Bold Stout" iconId="1090640842-1090522692-1090640843" class="55">
+<stat name="Combat_BaseMissRate" descriptionOverride="-" constant="5.0"/>
+</consumable>
+<consumable identifier="1879089601" name="Winterberry Ale" iconId="1090523137-1090522692-1090523138" class="55">
+<stat name="Combat_BaseMissRate" descriptionOverride="-" constant="10.0"/>
+</consumable>
+<consumable identifier="1879089604" name="Ultimate Honeybrew" iconId="1090640836-1090522692-1090640837" class="55">
+<stat name="Combat_BaseMissRate" descriptionOverride="-" constant="15.000001"/>
+</consumable>
+<consumable identifier="1879089610" name="Blackberry Ale" iconId="1090523139-1090522692-1090523140" class="55">
+<stat name="Combat_BaseMissRate" descriptionOverride="-" constant="15.000001"/>
+</consumable>
+<consumable identifier="1879090928" name="Simple Fire-oil" iconId="1090532008-1090519041-1090532009" class="17">
+<stat name="ForwardSource_ComboMode_Hunter_DamageType" operator="SET" constant="39.0"/>
+</consumable>
+<consumable identifier="1879090929" name="Simple Light-oil" iconId="1090537233-1090519041-1090537234" class="17">
+<stat name="ForwardSource_ComboMode_Hunter_DamageType" operator="SET" constant="1.0"/>
+</consumable>
+<consumable identifier="1879090967" name="Bow Chant: Breach-finder" iconId="1091388834-1090519041-1091388835" class="17">
+<stat name="Skill_DamageMitigation_RangedMod" operator="SUBSTRACT" constant="5.0"/>
+</consumable>
+<consumable identifier="1879090968" name="Bow Chant: Foe-finder" iconId="1091388848-1090519041-1091388849" class="17">
+<stat name="Skill_ChanceEvade_RangedMod" operator="SUBSTRACT" constant="5.0"/>
+</consumable>
+<consumable identifier="1879090969" name="Bow Chant: Shield-bane" iconId="1091388850-1090519041-1091388851" class="17">
+<stat name="Skill_ChanceBlock_RangedMod" operator="SUBSTRACT" constant="5.0"/>
+</consumable>
+<consumable identifier="1879090970" name="Bow Chant: Wind-rider" iconId="1091388836-1090519041-1091388837" class="17">
+<stat name="Skill_VitalCost_RangedMod" operator="SUBSTRACT" descriptionOverride="Your bow skills cost ${PERCENTVALUE} less Power." constant="10.0"/>
+</consumable>
+<consumable identifier="1879091313" name="Bow Chant: Whisper-draw" iconId="1091388838-1090519041-1091388839" class="17">
+<stat name="Skill_AdditionalThreat_Hunter_AllRangeSkillsMod" descriptionOverride="Your bow skills generate less threat." constant="-1.275"/>
+</consumable>
+<consumable identifier="1879098878" name="Pumpkin Ale" iconId="1090640836-1090522692-1090640837" class="55">
+<stat name="Combat_BaseMissRate" descriptionOverride="-" constant="5.0"/>
+</consumable>
+<consumable identifier="1879098879" name="Fern Beer" iconId="1090640842-1090522692-1090640843" class="55">
+<stat name="Combat_BaseMissRate" descriptionOverride="-" constant="10.0"/>
+</consumable>
+<consumable identifier="1879098880" name="Perry's Porter" iconId="1090640840-1090522692-1090640841" class="55">
+<stat name="Combat_BaseMissRate" descriptionOverride="-" constant="15.000001"/>
+</consumable>
+<consumable identifier="1879098881" name="Rootknot's Cider" iconId="1090523137-1090522692-1090523138" class="55">
+<stat name="Combat_BaseMissRate" descriptionOverride="-" constant="5.0"/>
+</consumable>
+<consumable identifier="1879098882" name="Pear-blossom Wine" iconId="1090523139-1090522692-1090523140" class="55">
+<stat name="Combat_BaseMissRate" descriptionOverride="-" constant="10.0"/>
+</consumable>
+<consumable identifier="1879098883" name="Willow Wine" iconId="1090523139-1090522692-1090523140" class="55">
+<stat name="Combat_BaseMissRate" descriptionOverride="-" constant="15.000001"/>
+</consumable>
+<consumable identifier="1879098884" name="Fall Squash" iconId="1090640834-1090522692-1090640835" class="55">
+<stat name="OCMR" constant="570.0"/>
+<stat name="OCPR" constant="695.0"/>
+</consumable>
+<consumable identifier="1879098885" name="Fall Sausage" iconId="1090640828-1090522692-1090640829" class="55">
+<stat name="OCMR" constant="780.0"/>
+<stat name="OCPR" constant="945.0"/>
+</consumable>
+<consumable identifier="1879098886" name="Cranberry Pudding" iconId="1090640838-1090522692-1090640839" class="55">
+<stat name="OCMR" constant="990.0"/>
+<stat name="OCPR" constant="1195.0"/>
+</consumable>
+<consumable identifier="1879098887" name="Fall Greens" iconId="1090640830-1090522692-1090640831" class="55">
+<stat name="OCMR" constant="192.0"/>
+<stat name="OCPR" constant="260.0"/>
+</consumable>
+<consumable identifier="1879098888" name="Fall Grouse" iconId="1090640832-1090522692-1090640833" class="55">
+<stat name="OCMR" constant="1200.0"/>
+<stat name="OCPR" constant="1430.0"/>
+</consumable>
+</consumables>

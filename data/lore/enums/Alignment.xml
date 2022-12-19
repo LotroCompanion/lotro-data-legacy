@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><enum id="587202573" name="AlignmentType">
+<entry code="1" name="Good"/>
+<entry code="2" name="Neutral"/>
+<entry code="3" name="Evil"/>
+</enum>

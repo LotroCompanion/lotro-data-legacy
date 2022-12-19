@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><markers>
+<marker id="525996032" label="Gwindeth" category="70" did="1879086853" parentZoneId="1879089190" longitude="53.934002" latitude="-59.08228"/>
+<marker id="526008320" label="Ardo Aleford&#10;Minstrel Trainer" category="42" did="1879052940" parentZoneId="1879085958" longitude="53.235546" latitude="-57.1082"/>
+<marker id="526008328" label="Shepherd Snowden&#10;Lore-master Trainer" category="42" did="1879052321" parentZoneId="1879085958" longitude="53.23699" latitude="-57.143215"/>
+<marker id="526008329" label="Bolo Boffin&#10;Hunter Trainer" category="42" did="1879052444" parentZoneId="1879085958" longitude="53.175682" latitude="-57.1536"/>
+<marker id="526008330" label="Rollo Hemming&#10;Guardian Trainer" category="42" did="1879060098" parentZoneId="1879085958" longitude="53.200466" latitude="-57.10024"/>
+<marker id="526008331" label="Geirr&#10;Champion Trainer" category="42" did="1879059911" parentZoneId="1879085958" longitude="53.177517" latitude="-57.11623"/>
+<marker id="526008332" label="Hayley Carver&#10;Captain Trainer" category="42" did="1879053084" parentZoneId="1879085958" longitude="53.189724" latitude="-57.115135"/>
+<marker id="526008333" label="Lilabet Roper&#10;Burglar Trainer" category="42" did="1879052041" parentZoneId="1879085958" longitude="53.176327" latitude="-57.170483"/>
+<marker id="526012416" label="Weapon Trader" category="38" did="1879063211" parentZoneId="1879085957" longitude="53.142284" latitude="-56.55935"/>
+<marker id="526012417" label="Two-handed Weapon Trader" category="38" did="1879063210" parentZoneId="1879085957" longitude="53.120293" latitude="-56.5597"/>
+<marker id="526012418" label="One-handed Weapon Trader" category="38" did="1879063208" parentZoneId="1879085957" longitude="53.102264" latitude="-56.557484"/>
+<marker id="526012419" label="Medium Armour Trader" category="38" did="1879063206" parentZoneId="1879085957" longitude="53.1675" latitude="-56.484325"/>
+<marker id="526012420" label="Light Armour Trader" category="38" did="1879063204" parentZoneId="1879085957" longitude="53.161972" latitude="-56.472378"/>
+<marker id="526012421" label="Bowyer" category="38" did="1879063203" parentZoneId="1879085957" longitude="53.05705" latitude="-56.48107"/>
+<marker id="526020608" label="Vault-keeper" category="40" did="1879063544" parentZoneId="1879085666" longitude="53.209843" latitude="-54.79929"/>
+<marker id="526020609" label="Vault-keeper" category="40" did="1879084238" parentZoneId="1879085666" longitude="53.21002" latitude="-54.760868"/>
+<marker id="526024704" label="Leecher Cartwell&#10;Healer" category="38" did="1879049272" parentZoneId="1879076045" longitude="53.182655" latitude="-53.99872"/>
+<marker id="526028800" label="Wink" category="70" did="1879092876" parentZoneId="1879051248" longitude="53.183125" latitude="-53.19064"/>
+<marker id="526032896" label="Jennet Brockhouse&#10;Burglar Trainer" category="42" did="1879048460" parentZoneId="1879048459" longitude="53.195602" latitude="-52.48368"/>
+<marker id="526032904" label="Nelson Blake&#10;Captain Trainer" category="42" did="1879048461" parentZoneId="1879048459" longitude="53.248104" latitude="-52.38176"/>
+<marker id="526032905" label="Sheldon Roper&#10;Champion Trainer" category="42" did="1879048462" parentZoneId="1879048459" longitude="53.17734" latitude="-52.386677"/>
+<marker id="526032906" label="Garrett Beardsley&#10;Guardian Trainer" category="42" did="1879048463" parentZoneId="1879048459" longitude="53.176697" latitude="-52.376186"/>
+<marker id="526032907" label="Juniper Smith&#10;Hunter Trainer" category="42" did="1879048464" parentZoneId="1879048459" longitude="53.248085" latitude="-52.372883"/>
+<marker id="526032908" label="Barton Tanner&#10;Lore-master Trainer" category="42" did="1879048465" parentZoneId="1879048459" longitude="53.16213" latitude="-52.47432"/>
+<marker id="526032909" label="Marjorie Wainwright&#10;Minstrel Trainer" category="42" did="1879048466" parentZoneId="1879048459" longitude="53.161114" latitude="-52.464886"/>
+<marker id="526036992" label="Master of Apprentices" category="42" did="1879048468" parentZoneId="1879048467" longitude="53.26082" latitude="-51.352665"/>
+<marker id="526036993" label="Provisioner" category="38" did="1879063663" parentZoneId="1879048467" longitude="53.288788" latitude="-51.213886"/>
+<marker id="526037001" label="Supplier" category="38" did="1879085863" parentZoneId="1879048467" longitude="53.17617" latitude="-51.22808"/>
+<marker id="526037002" label="Forge" category="45" did="1879063354" parentZoneId="1879048467" longitude="53.184002" latitude="-51.271973"/>
+<marker id="526037003" label="Forge" category="45" did="1879063354" parentZoneId="1879048467" longitude="53.18455" latitude="-51.321434"/>
+<marker id="526037004" label="Oven" category="45" did="1879063367" parentZoneId="1879048467" longitude="53.325077" latitude="-51.210644"/>
+<marker id="526037005" label="Workbench" category="45" did="1879063081" parentZoneId="1879048467" longitude="53.31367" latitude="-51.278446"/>
+<marker id="526037006" label="Workbench" category="45" did="1879063081" parentZoneId="1879048467" longitude="53.313747" latitude="-51.321873"/>
+<marker id="526037007" label="Novice Woodworker" category="38" did="1879048469" parentZoneId="1879048467" longitude="53.29906" latitude="-51.256897"/>
+<marker id="526037008" label="Novice Jeweller" category="38" did="1879048470" parentZoneId="1879048467" longitude="53.318886" latitude="-51.309746"/>
+<marker id="526037009" label="Novice Tailor" category="38" did="1879048471" parentZoneId="1879048467" longitude="53.305977" latitude="-51.33577"/>
+<marker id="526037010" label="Novice Scholar" category="38" did="1879048472" parentZoneId="1879048467" longitude="53.204216" latitude="-51.20413"/>
+<marker id="526037011" label="Novice Weaponcrafter" category="38" did="1879048473" parentZoneId="1879048467" longitude="53.190212" latitude="-51.315964"/>
+<marker id="526037012" label="Novice Metalsmith" category="38" did="1879048474" parentZoneId="1879048467" longitude="53.188164" latitude="-51.27922"/>
+<marker id="526037013" label="Novice Cook" category="38" did="1879048475" parentZoneId="1879048467" longitude="53.269802" latitude="-51.188534"/>
+<marker id="526037014" label="Osur Stouthammer" category="70" did="1879078873" parentZoneId="1879048467" longitude="53.204372" latitude="-51.33455"/>
+<marker id="526037015" label="Jon Whetstone" category="70" did="1879062048" parentZoneId="1879048467" longitude="53.219864" latitude="-51.302235"/>
+<marker id="526037016" label="Verity Tyne" category="70" did="1879078865" parentZoneId="1879048467" longitude="53.312695" latitude="-51.287334"/>
+<marker id="526041088" label="Heavy Armoursmith" category="38" did="1879063243" parentZoneId="1879051250" longitude="53.19211" latitude="-50.77002"/>
+<marker id="526041089" label="Medium Armoursmith" category="38" did="1879063113" parentZoneId="1879051250" longitude="53.21037" latitude="-50.766315"/>
+<marker id="526041090" label="Light Armoursmith" category="38" did="1879063110" parentZoneId="1879051250" longitude="53.229256" latitude="-50.769035"/>
+<marker id="526041091" label="Two-handed Weaponsmith" category="38" did="1879063123" parentZoneId="1879051250" longitude="53.211914" latitude="-50.83929"/>
+<marker id="526041092" label="One-handed Weaponsmith" category="38" did="1879063118" parentZoneId="1879051250" longitude="53.198925" latitude="-50.82652"/>
+<marker id="526041093" label="Bowyer" category="38" did="1879063242" parentZoneId="1879051250" longitude="53.195232" latitude="-50.813484"/>
+<marker id="526045184" label="Bowyer" category="38" did="1879063105" parentZoneId="1879051249" longitude="53.203632" latitude="-49.99822"/>
+<marker id="526045185" label="One-handed Weaponsmith" category="38" did="1879063117" parentZoneId="1879051249" longitude="53.190193" latitude="-50.00008"/>
+<marker id="526045186" label="Two-handed Weaponsmith" category="38" did="1879063122" parentZoneId="1879051249" longitude="53.184258" latitude="-50.00161"/>
+<marker id="526045187" label="Light Armoursmith" category="38" did="1879063109" parentZoneId="1879051249" longitude="53.24865" latitude="-50.032772"/>
+<marker id="526045188" label="Medium Armoursmith" category="38" did="1879063112" parentZoneId="1879051249" longitude="53.252422" latitude="-50.01683"/>
+<marker id="526045189" label="Heavy Armoursmith" category="38" did="1879063107" parentZoneId="1879051249" longitude="53.248825" latitude="-49.996296"/>
+<marker id="526045190" label="Ollie Redbrush" category="70" did="1879062485" parentZoneId="1879051249" longitude="53.228184" latitude="-49.928417"/>
+<marker id="526049280" label="Auctioneer" category="53" did="1879063850" parentZoneId="1879051247" longitude="53.159958" latitude="-49.110256"/>
+<marker id="526049281" label="Auctioneer" category="53" did="1879063850" parentZoneId="1879051247" longitude="53.238514" latitude="-49.110683"/>
+<marker id="526049282" label="Auctioneer" category="53" did="1879063851" parentZoneId="1879051247" longitude="53.199802" latitude="-49.10948"/>
+<marker id="526049283" label="Mailbox" category="34" did="1879063412" parentZoneId="1879051247" longitude="53.187225" latitude="-49.14522"/>
+<marker id="526049284" label="Mailbox" category="34" did="1879063412" parentZoneId="1879051247" longitude="53.210136" latitude="-49.144756"/>
+<marker id="526053376" label="Auctioneer" category="53" did="1879063852" parentZoneId="1879051230" longitude="52.99148" latitude="-48.487103"/>
+<marker id="526053377" label="Auctioneer" category="53" did="1879063853" parentZoneId="1879051230" longitude="53.048008" latitude="-48.40997"/>
+<marker id="526053378" label="Auctioneer" category="53" did="1879063853" parentZoneId="1879051230" longitude="53.10078" latitude="-48.48809"/>
+<marker id="526053379" label="Auctioneer" category="53" did="1879063853" parentZoneId="1879051230" longitude="53.020798" latitude="-48.410053"/>
+<marker id="526053380" label="Auctioneer" category="53" did="1879063852" parentZoneId="1879051230" longitude="53.07502" latitude="-48.410004"/>
+<marker id="526053381" label="Mailbox" category="34" did="1879063475" parentZoneId="1879051230" longitude="53.02369" latitude="-48.51252"/>
+<marker id="526053382" label="Mailbox" category="34" did="1879063475" parentZoneId="1879051230" longitude="53.072166" latitude="-48.512684"/>
+<marker id="526102528" label="Oven" category="45" did="1879063367" parentZoneId="1879089298" longitude="54.002987" latitude="-51.594807"/>
+<marker id="526102529" label="Forge" category="45" did="1879063354" parentZoneId="1879089298" longitude="53.947536" latitude="-51.719604"/>
+<marker id="526102530" label="Workbench" category="45" did="1879063081" parentZoneId="1879089298" longitude="54.037304" latitude="-51.73455"/>
+<marker id="526102533" label="Provisioner" category="38" did="1879063600" parentZoneId="1879089298" longitude="54.044666" latitude="-51.619846"/>
+<marker id="526102534" label="Mistress of Apprentices" category="42" did="1879062808" parentZoneId="1879089298" longitude="53.99615" latitude="-51.646244"/>
+<marker id="526102537" label="Supplier" category="38" did="1879085868" parentZoneId="1879089298" longitude="53.989822" latitude="-51.680527"/>
+<marker id="526102541" label="Novice Tailor" category="38" did="1879062686" parentZoneId="1879089298" longitude="54.021835" latitude="-51.75855"/>
+<marker id="526102542" label="Novice Cook" category="38" did="1879062254" parentZoneId="1879089298" longitude="54.021034" latitude="-51.598396"/>
+<marker id="526102543" label="Novice Metalsmith" category="38" did="1879048474" parentZoneId="1879089298" longitude="53.959023" latitude="-51.715965"/>
+<marker id="526102544" label="Novice Weaponcrafter" category="38" did="1879048473" parentZoneId="1879089298" longitude="53.949764" latitude="-51.747925"/>
+<marker id="526102545" label="Novice Scholar" category="38" did="1879048472" parentZoneId="1879089298" longitude="53.941326" latitude="-51.64806"/>
+<marker id="526102546" label="Novice Woodworker" category="38" did="1879062620" parentZoneId="1879089298" longitude="54.021523" latitude="-51.717144"/>
+<marker id="526102547" label="Novice Jeweller" category="38" did="1879062416" parentZoneId="1879089298" longitude="54.037735" latitude="-51.742928"/>
+<marker id="526106625" label="Dalton Willow&#10;Lore-master Trainer" category="42" did="1879052314" parentZoneId="1879085888" longitude="54.01033" latitude="-50.90439"/>
+<marker id="526106626" label="Newbold Leafcutter" category="70" did="1879061496" parentZoneId="1879085888" longitude="54.002304" latitude="-50.852036"/>
+<marker id="526110721" label="Oggur&#10;Champion Trainer" category="42" did="1879059906" parentZoneId="1879085889" longitude="53.86004" latitude="-50.142998"/>
+<marker id="526110722" label="Tralli&#10;Guardian Trainer" category="42" did="1879060093" parentZoneId="1879085889" longitude="53.832832" latitude="-50.072918"/>
+<marker id="526110723" label="Dawn Appledore&#10;Captain Trainer" category="42" did="1879053080" parentZoneId="1879085889" longitude="53.80629" latitude="-50.08865"/>
+<marker id="526114817" label="Albra Lowbanks&#10;Burglar Trainer" category="42" did="1879052037" parentZoneId="1879085887" longitude="54.00154" latitude="-49.269417"/>
+<marker id="526118912" label="Grocer" category="38" did="1879063572" parentZoneId="1879085890" longitude="53.8091" latitude="-48.518482"/>
+<marker id="526118913" label="Notary" category="38" did="1879078808" parentZoneId="1879085890" longitude="53.86004" latitude="-48.51958"/>
+<marker id="526118914" label="Clerk of Kinships" category="38" did="1879063574" parentZoneId="1879085890" longitude="53.864685" latitude="-48.535454"/>
+<marker id="526118915" label="Chief Watcher Grimbriar" category="70" did="1879050093" parentZoneId="1879085890" longitude="53.8691" latitude="-48.543457"/>
+<marker id="526118916" label="Mayor Graeme Tenderlarch" category="70" did="1879051499" parentZoneId="1879085890" longitude="53.88787" latitude="-48.530323"/>
+<marker id="526245888" label="Dorset Oakes" category="70" did="1879048685" parentZoneId="1879048684" longitude="55.577618" latitude="-49.180622"/>
+</markers>

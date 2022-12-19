@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><combat>
+<curve curveId="CRITICAL_HIT"/>
+<curve curveId="DEVASTATE_HIT"/>
+<curve curveId="CRIT_DEVASTATE_MAGNITUDE"/>
+<curve curveId="FINESSE"/>
+<curve curveId="DAMAGE"/>
+<curve curveId="HEALING"/>
+<curve curveId="RESISTANCE"/>
+<curve curveId="CRITICAL_DEFENCE"/>
+<curve curveId="INCOMING_HEALING"/>
+<curve curveId="AVOIDANCE"/>
+<curve curveId="PARTIAL_AVOIDANCE"/>
+<curve curveId="PARTIAL_MITIGATION"/>
+<curve curveId="LIGHT_MITIGATION"/>
+<curve curveId="MEDIUM_MITIGATION"/>
+<curve curveId="HEAVY_MITIGATION"/>
+</combat>

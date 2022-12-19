@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><enum id="587202756" name="BillingGroup">
+<entry code="1" name="TurbineEmployee"/>
+<entry code="2" name="TurbineVIP"/>
+<entry code="3" name="TurbineExec"/>
+<entry code="4" name="Press"/>
+<entry code="5" name="AngmarGuest"/>
+<entry code="6" name="AngmarBeta"/>
+<entry code="7" name="AngmarBeta2"/>
+<entry code="8" name="AngmarSE"/>
+<entry code="9" name="AngmarOB"/>
+<entry code="10" name="AngmarStd"/>
+<entry code="11" name="AngmarLtd"/>
+<entry code="12" name="AngmarPre"/>
+<entry code="13" name="AngmarEBPre"/>
+<entry code="14" name="AngmarBBPre"/>
+<entry code="15" name="AngmarCUPre"/>
+<entry code="16" name="AngmarPre2"/>
+<entry code="17" name="AngmarRetail"/>
+<entry code="18" name="AngmarPromo1"/>
+<entry code="19" name="AngmarPromo2"/>
+<entry code="20" name="AngmarPromo3"/>
+<entry code="21" name="AngmarPromo4"/>
+<entry code="22" name="AngmarPromo5"/>
+<entry code="23" name="AngmarPromo6"/>
+<entry code="24" name="AngmarPromo7"/>
+<entry code="25" name="AngmarTrial"/>
+<entry code="26" name="AngmarReferred"/>
+<entry code="27" name="AngPr8"/>
+<entry code="28" name="AngPr9"/>
+<entry code="29" name="AngPr10"/>
+<entry code="30" name="AngPr11"/>
+<entry code="31" name="AngPr12"/>
+</enum>

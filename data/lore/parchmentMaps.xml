@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?><parchmentMaps>
+<parchmentMap id="268437554" name="Middle Earth" region="0"/>
+<parchmentMap id="268437557" name="Eriador" region="1" parentMapId="268437554"/>
+<parchmentMap id="268437576" name="Ered Luin" region="1" parentMapId="268437557">
+<area id="1879063921" name="Vale of Thrain"/>
+<area id="1879063922" name="Low Lands"/>
+<area id="1879063923" name="Haudh Lin"/>
+<area id="1879063924" name="Falathlorn"/>
+<area id="1879063925" name="Sarnúr"/>
+<area id="1879063926" name="Rath Teraig"/>
+<area id="1879063927" name="Refuge of Edhelion"/>
+<area id="1879063928" name="Falathlorn"/>
+<area id="1879063929" name="Celondim"/>
+<area id="1879063930" name="Limael's Vineyard"/>
+<area id="1879063931" name="Kheledûl"/>
+</parchmentMap>
+<parchmentMap id="268440613" name="Thorin's Hall Homestead" region="1" parentMapId="268437576">
+<area id="1879098354" name="Thorin's Hall Homesteads"/>
+</parchmentMap>
+<parchmentMap id="268437722" name="Thorin's Gate" region="1" parentMapId="268437576">
+<area id="1879063932" name="Thorin's Gate"/>
+</parchmentMap>
+<parchmentMap id="268440591" name="Falathlorn" region="1" parentMapId="268437576">
+<area id="1879098736" name="Falathlorn Homesteads"/>
+</parchmentMap>
+<parchmentMap id="268437592" name="Trollshaws" region="1" parentMapId="268437557">
+<area id="1879063933" name="South Trollshaws"/>
+<area id="1879063934" name="North Trollshaws"/>
+<area id="1879063935" name="Bruinen Gorges"/>
+<area id="1879063936" name="High Moor"/>
+<area id="1879063937" name="Nan Tornaeth"/>
+<area id="1879063938" name="Giant Valley"/>
+<area id="1879094891" name="Tâl Bruinen"/>
+</parchmentMap>
+<parchmentMap id="268437713" name="Rivendell" region="1" parentMapId="268437592">
+<area id="1879063939" name="Rivendell Valley"/>
+</parchmentMap>
+<parchmentMap id="268437691" name="Misty Mountains" region="1" parentMapId="268437557">
+<area id="1879063940" name="Misty Mountains"/>
+<area id="1879063941" name="Bruinen Source West"/>
+<area id="1879063942" name="Bruinen Source North"/>
+<area id="1879063943" name="Bruinen Source East"/>
+<area id="1879063944" name="High Crag"/>
+<area id="1879063945" name="Giant Halls"/>
+<area id="1879063946" name="Helegrod"/>
+<area id="1879094892" name="Northern High Pass"/>
+<area id="1879094893" name="Southern High Pass"/>
+<area id="1879094894" name="Goblin-town"/>
+</parchmentMap>
+<parchmentMap id="268437603" name="Lone-Lands" region="1" parentMapId="268437557">
+<area id="1879063947" name="Annunlos"/>
+<area id="1879063948" name="The Weather Hills"/>
+<area id="1879063949" name="Nain Enidh"/>
+<area id="1879063950" name="Talath Gaun"/>
+<area id="1879063951" name="Harloeg"/>
+<area id="1879063952" name="Agamaur"/>
+<area id="1879063953" name="Haragmar"/>
+<area id="1879063954" name="Talath Gaun"/>
+<area id="1879063955" name="Garth Agarwen"/>
+<area id="1879063956" name="Minas Eriol"/>
+</parchmentMap>
+<parchmentMap id="268437615" name="Angmar" region="1" parentMapId="268437557">
+<area id="1879063957" name="Ram Dúath"/>
+<area id="1879063958" name="Western Foothills"/>
+<area id="1879063959" name="Western Malenhad"/>
+<area id="1879063960" name="Snowcapped Hills"/>
+<area id="1879063961" name="Carn Dûm"/>
+<area id="1879063962" name="Fasach-falroid"/>
+<area id="1879063963" name="Fasach-larran"/>
+<area id="1879063964" name="Eastern Malenhad"/>
+<area id="1879063965" name="Imlad Balchorth"/>
+<area id="1879063966" name="Himbar"/>
+<area id="1879063967" name="Nan Gurth"/>
+<area id="1879051236" name="Gorothlad"/>
+<area id="1879063968" name="Urugarth"/>
+<area id="1879063969" name="Duvuinen"/>
+<area id="1879063970" name="Maethad"/>
+<area id="1879063971" name="Rhunendin"/>
+<area id="1879093998" name="The Rift of Nûrz Ghâshu"/>
+</parchmentMap>
+<parchmentMap id="268437634" name="North Downs" region="1" parentMapId="268437557">
+<area id="1879063972" name="Trestlebridge"/>
+<area id="1879063973" name="Greenway"/>
+<area id="1879063974" name="Fields of Fornost"/>
+<area id="1879063975" name="Nan Wathren"/>
+<area id="1879063976" name="Deadmen's Dike"/>
+<area id="1879063977" name="Nan Amlug West"/>
+<area id="1879063978" name="Kingsfell"/>
+<area id="1879063979" name="Meluinen"/>
+<area id="1879063980" name="Nan Amlug East"/>
+<area id="1879063981" name="Rhunenlad"/>
+<area id="1879063982" name="Dol Dinen"/>
+<area id="1879063983" name="Annúndir"/>
+<area id="1879063984" name="Gosgenethad"/>
+<area id="1879063985" name="Barad Gost"/>
+<area id="1879063986" name="Fornost"/>
+<area id="1879063987" name="Esteldin"/>
+<area id="1879063988" name="Taur Gonwaith"/>
+</parchmentMap>
+<parchmentMap id="268437700" name="Ettenmoors" region="1" parentMapId="268437557">
+<area id="1879063989" name="Hoardale"/>
+<area id="1879063990" name="Arador's End"/>
+<area id="1879063991" name="Steps of Gram"/>
+<area id="1879063992" name="Coldfells"/>
+<area id="1879063993" name="Hithlad"/>
+</parchmentMap>
+<parchmentMap id="268439511" name="Evendim" region="1" parentMapId="268437557">
+<area id="1879086555" name="Bullroarer's Sward"/>
+<area id="1879086544" name="Barandalf"/>
+<area id="1879086553" name="Parth Aduial"/>
+<area id="1879086552" name="Tyrn Fornech"/>
+<area id="1879086551" name="Southern Emyn Uial"/>
+<area id="1879086554" name="Northern Emyn Uial"/>
+<area id="1879086547" name="Men Erain"/>
+<area id="1879086546" name="Annúminas"/>
+<area id="1879086548" name="Tyl Annûn"/>
+<area id="1879086550" name="Tyl Ruinen"/>
+<area id="1879086556" name="Tyl Aegonn"/>
+<area id="1879086549" name="Lake Evendim"/>
+</parchmentMap>
+<parchmentMap id="268437653" name="Bree-land" region="1" parentMapId="268437557">
+<area id="1879063994" name="Buckland"/>
+<area id="1879063995" name="Northern Bree-fields"/>
+<area id="1879078401" name="Southern Bree-fields"/>
+<area id="1879063996" name="Old Forest"/>
+<area id="1879063997" name="Chetwood"/>
+<area id="1879063998" name="Northern Barrow-downs"/>
+<area id="1879063999" name="Southern Barrow-downs"/>
+<area id="1879064000" name="The Midgewater Marshes"/>
+<area id="1879064001" name="Andrath"/>
+<area id="1879064002" name="Brandy Hills"/>
+<area id="1879064003" name="The Brandywood"/>
+<area id="1879064004" name="Starmere Lake"/>
+<area id="1879064005" name="The Bleakbluffs"/>
+<area id="1879064006" name="Eastern Bree-fields"/>
+<area id="1879064007" name="Far Chetwood"/>
+<area id="1879064008" name="Hengstacer Farm"/>
+<area id="1879064009" name="The Horsefields"/>
+<area id="1879064010" name="Nen Harn"/>
+<area id="1879064011" name="Weather Hills"/>
+<area id="1879064012" name="Combe"/>
+<area id="1879064013" name="Staddle"/>
+</parchmentMap>
+<parchmentMap id="268437716" name="Bree" region="1" parentMapId="268437653">
+<area id="1879064015" name="Bree"/>
+</parchmentMap>
+<parchmentMap id="268437719" name="Archet" region="1" parentMapId="268437653">
+<area id="1879064014" name="Archet"/>
+</parchmentMap>
+<parchmentMap id="268440603" name="Bree-land Homesteads" region="1" parentMapId="268437653">
+<area id="1879098738" name="Bree-land Homesteads"/>
+</parchmentMap>
+<parchmentMap id="268437678" name="The Shire" region="1" parentMapId="268437557">
+<area id="1879064016" name="The Delving Fields"/>
+<area id="1879064017" name="Hobbiton-Bywater"/>
+<area id="1879064018" name="Tookland"/>
+<area id="1879064019" name="The Marish"/>
+<area id="1879064020" name="Green Hill Country"/>
+<area id="1879064021" name="Rushock Bog"/>
+<area id="1879064022" name="Bindbole Wood"/>
+<area id="1879064023" name="Greenfields"/>
+<area id="1879064024" name="Bridgefields"/>
+<area id="1879064025" name="The Marish"/>
+<area id="1879064026" name="The Hill"/>
+<area id="1879064027" name="North Bridgefields"/>
+</parchmentMap>
+<parchmentMap id="268440610" name="Shire Homesteads" region="1" parentMapId="268437678">
+<area id="1879098737" name="Shire Homesteads"/>
+</parchmentMap>
+</parchmentMaps>
