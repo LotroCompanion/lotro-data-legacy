@@ -1,16 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><resourcesMaps>
 <resourcesMap profession="FORESTER" tier="1">
-<item id="1879077508" name="Ash Branches"/>
 <item id="1879077553" name="Rowan Branches"/>
-<item id="1879087935" name="Heavy Ash Branches"/>
 <item id="1879087940" name="Heavy Rowan Branches"/>
+<map id="268437576"/>
+<map id="268437653"/>
+<map id="268437678"/>
+</resourcesMap>
+<resourcesMap profession="FORESTER" tier="2">
+<item id="1879077508" name="Ash Branches"/>
+<item id="1879087935" name="Heavy Ash Branches"/>
 <map id="268437576"/>
 <map id="268437603"/>
 <map id="268437634"/>
 <map id="268437653"/>
 <map id="268437678"/>
 </resourcesMap>
-<resourcesMap profession="FORESTER" tier="2">
+<resourcesMap profession="FORESTER" tier="3">
 <item id="1879079511" name="Yew Branches"/>
 <item id="1879087931" name="Heavy Yew Branches"/>
 <map id="268437603"/>
@@ -19,14 +24,14 @@
 <map id="268437678"/>
 <map id="268439511"/>
 </resourcesMap>
-<resourcesMap profession="FORESTER" tier="3">
+<resourcesMap profession="FORESTER" tier="4">
 <item id="1879080155" name="Lebethron Branches"/>
 <item id="1879087929" name="Heavy Lebethron Branches"/>
 <map id="268437592"/>
 <map id="268437615"/>
 <map id="268439511"/>
 </resourcesMap>
-<resourcesMap profession="FORESTER" tier="4">
+<resourcesMap profession="FORESTER" tier="5">
 <item id="1879080458" name="Black Ash Branches"/>
 <item id="1879087926" name="Heavy Black Ash Branches"/>
 <map id="268437615"/>
@@ -36,11 +41,16 @@
 <resourcesMap profession="PROSPECTOR" tier="1">
 <item id="1879077401" name="Tin Deposit"/>
 <item id="1879077402" name="Copper Deposit"/>
+<item id="1879087928" name="Rich Tin Deposit"/>
+<item id="1879087934" name="Rich Copper Deposit"/>
+<map id="268437576"/>
+<map id="268437653"/>
+<map id="268437678"/>
+</resourcesMap>
+<resourcesMap profession="PROSPECTOR" tier="2">
 <item id="1879077513" name="Barrow-Iron Deposit"/>
 <item id="1879077514" name="Silver Deposit"/>
-<item id="1879087928" name="Rich Tin Deposit"/>
 <item id="1879087932" name="Rich Barrow-Iron Deposit"/>
-<item id="1879087934" name="Rich Copper Deposit"/>
 <item id="1879087938" name="Rich Silver Deposit"/>
 <map id="268437576"/>
 <map id="268437603"/>
@@ -48,7 +58,7 @@
 <map id="268437653"/>
 <map id="268437678"/>
 </resourcesMap>
-<resourcesMap profession="PROSPECTOR" tier="2">
+<resourcesMap profession="PROSPECTOR" tier="3">
 <item id="1879079516" name="Rich Iron Deposit"/>
 <item id="1879079517" name="Gold Deposit"/>
 <item id="1879087927" name="Rich Gold Deposit"/>
@@ -60,7 +70,7 @@
 <map id="268437678"/>
 <map id="268439511"/>
 </resourcesMap>
-<resourcesMap profession="PROSPECTOR" tier="3">
+<resourcesMap profession="PROSPECTOR" tier="4">
 <item id="1879080160" name="Dwarf-Iron Deposit"/>
 <item id="1879080463" name="Platinum Deposit"/>
 <item id="1879087936" name="Rich Platinum Deposit"/>
@@ -73,7 +83,7 @@
 <map id="1879092135"/>
 <map id="1879092138"/>
 </resourcesMap>
-<resourcesMap profession="PROSPECTOR" tier="4">
+<resourcesMap profession="PROSPECTOR" tier="5">
 <item id="1879080464" name="Ancient Iron Deposit"/>
 <item id="1879080465" name="Misty Mountain Silver Deposit"/>
 <item id="1879087930" name="Rich Ancient Iron Deposit"/>
@@ -86,27 +96,31 @@
 <map id="1879092138"/>
 </resourcesMap>
 <resourcesMap profession="SCHOLAR" tier="1">
-<item id="1879077512" name="Broken Urn"/>
 <item id="1879077557" name="Shattered Pitcher"/>
 <map id="268437576"/>
-<map id="268437603"/>
-<map id="268437634"/>
 <map id="268437653"/>
 <map id="268437678"/>
 </resourcesMap>
 <resourcesMap profession="SCHOLAR" tier="2">
+<item id="1879077512" name="Broken Urn"/>
+<map id="268437576"/>
+<map id="268437603"/>
+<map id="268437634"/>
+<map id="268437653"/>
+</resourcesMap>
+<resourcesMap profession="SCHOLAR" tier="3">
 <item id="1879079515" name="Antique Vase"/>
 <map id="268437603"/>
 <map id="268437634"/>
 <map id="268439511"/>
 </resourcesMap>
-<resourcesMap profession="SCHOLAR" tier="3">
+<resourcesMap profession="SCHOLAR" tier="4">
 <item id="1879080159" name="Forgotten Text"/>
 <map id="268437592"/>
 <map id="268437615"/>
 <map id="268439511"/>
 </resourcesMap>
-<resourcesMap profession="SCHOLAR" tier="4">
+<resourcesMap profession="SCHOLAR" tier="5">
 <item id="1879080462" name="Ancient Vase"/>
 <map id="268437615"/>
 <map id="268437691"/>
