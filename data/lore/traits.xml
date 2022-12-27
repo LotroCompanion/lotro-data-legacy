@@ -69,7 +69,7 @@
 </trait>
 <trait identifier="1879052959" name="Glorious Anthem" iconId="1090532812" nature="3" tooltip="Increases the duration of your Anthems that use duration effects" description="The duration of your Anthems is increased by 15 seconds.">
 <stat name="Skill_Duration_EmpoweredAnthemDurationIncrease" descriptionOverride="-" constant="15.0"/>
-<stat name="ICMR" descriptionOverride="Line Bonus: ${PROPERTY} ${VALUE}" constant="15.0"/>
+<stat name="ICMR" descriptionOverride="Line Bonus: ${PROPERTY} ${VALUE}" constant="0.25"/>
 </trait>
 <trait identifier="1879052966" name="Medium Armour-use" iconId="1090532813" nature="3" tooltip="You can use Medium Armour." description="You are able to wear medium armour.">
 <stat name="Inventory_AllowedEquipmentCategories" constant="256.0"/>
@@ -500,7 +500,7 @@
 <trait identifier="1879060686" name="Strong Draw" iconId="1090541189" nature="3" tooltip="Penetrating Shot costs one less Focus (Aim) Pip" description="The Focus cost for your Penetrating Shot is reduced by 1.">
 <stat name="Skill_Pips_CostMod_Trait_LongPull" constant="1.0"/>
 <stat name="Skill_Pips_PipMinMod_Trait_LongPull" operator="SUBSTRACT" constant="1.0"/>
-<stat name="ICPR" descriptionOverride="Line Bonus: ${PROPERTY} increased by ${VALUE}" constant="15.0"/>
+<stat name="ICPR" descriptionOverride="Line Bonus: ${PROPERTY} increased by ${VALUE}" constant="0.25"/>
 </trait>
 <trait identifier="1879060688" name="Heightened Senses" iconId="1090541190" nature="3" tooltip="Increased Tracking range, Track stealthed monsters, Increased overall stealth detection" description="Your exceptional senses allow you to track creatures over a greater distance, even if they are using Stealth, and to more easily detect creatures using Stealth.">
 <stat name="CRITICAL_RANGED_PERCENTAGE" descriptionOverride="Line Bonus: ${PERCENTVALUE} ${PROPERTY}" constant="1.0"/>
@@ -513,10 +513,10 @@
 <trait identifier="1879060700" name="Arrow Storm" iconId="1090541193" nature="3" tooltip="Rain of Arrows costs one less Focus (Aim) Pip" description="The Focus cost for your Rain of Arrows is reduced by 1.">
 <stat name="Skill_Pips_CostMod_Trait_ArrowStorm" constant="1.0"/>
 <stat name="Skill_Pips_PipMinMod_Trait_ArrowStorm" operator="SUBSTRACT" constant="1.0"/>
-<stat name="ICPR" descriptionOverride="Line Bonus: ${PROPERTY} increased by ${VALUE}" constant="15.0"/>
+<stat name="ICPR" descriptionOverride="Line Bonus: ${PROPERTY} increased by ${VALUE}" constant="0.25"/>
 </trait>
 <trait identifier="1879060703" name="Deep Concentration" iconId="1090541194" nature="3" tooltip="Intent Concentration also restores some Power" description="Your Intent Concentration also restores some Power, in addition to its normal effects.">
-<stat name="ICPR" descriptionOverride="Line Bonus: ${PROPERTY} increased by ${VALUE}" constant="15.0"/>
+<stat name="ICPR" descriptionOverride="Line Bonus: ${PROPERTY} increased by ${VALUE}" constant="0.25"/>
 </trait>
 <trait identifier="1879060708" name="Deadly Precision" iconId="1090541196" nature="3" tooltip="Ranged Critical Hits increase your Focus (Aim) by one Pip" description="When you land a Critical Hit with a ranged attack, your Focus increases by 1.">
 <stat name="Skill_InductionDuration_Trait_Fastpull" operator="SUBSTRACT" descriptionOverride="Line Bonus: ${PROPERTY} reduced ${VALUE}s" constant="0.05"/>
@@ -527,7 +527,7 @@
 <stat name="RANGED_DAMAGE_PERCENTAGE" descriptionOverride="Line Bonus: ${PROPERTY} increased ${PERCENTVALUE}" constant="2.0"/>
 </trait>
 <trait identifier="1879060714" name="Graceful Draw" iconId="1090541198" nature="3" tooltip="Endurance Stance further reduces Power Cost of: Barbed Arrow, Penetrating Shot, Merciful Shot, Swift Bow, Rain of Arrows and Quick Shot." description="Your Endurance Stance further reduces the Power cost and threat generation of your ranged skills.">
-<stat name="ICPR" descriptionOverride="Line Bonus: ${PROPERTY} increased by ${VALUE}" constant="15.0"/>
+<stat name="ICPR" descriptionOverride="Line Bonus: ${PROPERTY} increased by ${VALUE}" constant="0.25"/>
 <specialEffect label=""/>
 </trait>
 <trait identifier="1879060717" name="Stealthy Shot" iconId="1090541199" nature="3" tooltip="Beneath Notice further lowers threat" description="Beneath Notice lasts 10 seconds longer and draws even less attention from your enemies.">
@@ -552,7 +552,7 @@
 <stat name="Skill_VitalCost_Morale_GiveHopeMod" descriptionOverride="-40.0% Morale Cost" constant="-40.0"/>
 <stat name="Skill_RecoveryTime_Loremaster_LightofHope" operator="SUBSTRACT" constant="10.0"/>
 <stat name="Skill_InductionDuration_Loremaster_Trait_LightofHope" operator="SUBSTRACT" descriptionOverride="Reduces Induction Time by ${VALUE} second." constant="1.0"/>
-<stat name="ICMR" descriptionOverride="Line Bonus: ${PROPERTY} increased ${VALUE}" constant="15.0"/>
+<stat name="ICMR" descriptionOverride="Line Bonus: ${PROPERTY} increased ${VALUE}" constant="0.25"/>
 </trait>
 <trait identifier="1879060780" name="Master of Beasts" iconId="1090541209" nature="3" tooltip="Your knowledge of the Signs of Animals gives you greater control over them, lessening the skill cost and enhancing their duration." description="Your knowledge of the Signs of the Wild gives you greater control over them, lessening their cost and enhancing their duration.">
 <stat name="SIGN_OF_THE_WILD_POWER_COST_PERCENTAGE" descriptionOverride="-10.0% to Power Costs" constant="-10.0"/>
@@ -561,7 +561,7 @@
 </trait>
 <trait identifier="1879060784" name="Deep Lore" iconId="1090541211" nature="3" tooltip="Your number of targets for Fire-lore, Wind-lore, and Herb-lore are increased." description="Your knowledge of herbs, fire, and wind are unmatched, increasing your ability to use them.">
 <stat name="Skill_Targets_Trait_AdvancedLore" descriptionOverride="${PROPERTY} increased to ${VALUE}" constant="5.0"/>
-<stat name="ICMR" descriptionOverride="Line Bonus: ${PROPERTY} increased ${VALUE}" constant="15.0"/>
+<stat name="ICMR" descriptionOverride="Line Bonus: ${PROPERTY} increased ${VALUE}" constant="0.25"/>
 </trait>
 <trait identifier="1879060787" name="Healer" iconId="1090541212" nature="3" tooltip="The costs of your remedy skills and the time it takes to execute them are reduced. This includes Beacon of Hope, Tend the Sick, Leechcraft, Share the Power, and Inner Flame" description="You gain a number of bonuses to your healing and restorative skills.">
 <stat name="Skill_VitalCost_Trait_HealerPowerCostReduction" constant="-15.000001"/>
@@ -597,15 +597,15 @@
 <stat name="Resist_Additional_Resistance_Wound" descriptionOverride="Line Bonus: ${PROPERTY} increased ${PERCENTVALUE}" constant="1.0"/>
 </trait>
 <trait identifier="1879060832" name="Knowledge of the Past" iconId="1090541225" nature="3" tooltip="Your skills have a chance to restore a small amount of Power." description="All of your skills have a chance to restore a small amount of Power.">
-<stat name="ICMR" descriptionOverride="Line Bonus: ${PROPERTY} increased ${VALUE}" constant="15.0"/>
+<stat name="ICMR" descriptionOverride="Line Bonus: ${PROPERTY} increased ${VALUE}" constant="0.25"/>
 </trait>
 <trait identifier="1879060844" name="Magic Adept" iconId="1090541227" nature="3" tooltip="Your magical abilities cost less Power. This includes Signs, Cracked Earth, Gust of Wind, Power of Knowledge, Share the Power, Light of the Rising Dawn, and Ents Go to War." description="All of your magical skills have a lower cost to your Power.">
 <stat name="Skill_VitalCost_MagicMod" constant="-3.0"/>
-<stat name="ICMR" descriptionOverride="Line Bonus: ${PROPERTY} increased ${VALUE}" constant="15.0"/>
+<stat name="ICMR" descriptionOverride="Line Bonus: ${PROPERTY} increased ${VALUE}" constant="0.25"/>
 </trait>
 <trait identifier="1879060864" name="Strength of Voice" iconId="1090541229" nature="3" tooltip="Increased Duration of Tier 3 Ballads" description="The duration of your Ballads is increased by 10 seconds.">
 <stat name="Skill_Duration_IncreaseVocalStrengthDurationIncrease" descriptionOverride="-" constant="10.0"/>
-<stat name="ICMR" descriptionOverride="Line Bonus: ${PROPERTY} ${VALUE}" constant="15.0"/>
+<stat name="ICMR" descriptionOverride="Line Bonus: ${PROPERTY} ${VALUE}" constant="0.25"/>
 </trait>
 <trait identifier="1879060869" name="Battle-hymn" iconId="1090541231" nature="3" tooltip="Increased In-Combat Regen Effect when casting Anthem of Valar" description="When using Anthem of the Valar, your regeneration in combat is increased.">
 <stat name="ForwardSource_Combat_TraitCombo2" operator="SET" constant="24.0"/>
@@ -617,7 +617,7 @@
 </trait>
 <trait identifier="1879060889" name="Harmonious Melody" iconId="1090541237" nature="3" tooltip="Increases the duration you have to play the next tier of your ballads." description="Gain a 5 second longer window of opportunity in which to perform tiered Ballads.">
 <stat name="Skill_Duration_HarmonicResonanceDurationIncrease" descriptionOverride="-" constant="5.0"/>
-<stat name="ICMR" descriptionOverride="Line Bonus: ${PROPERTY} ${VALUE}" constant="15.0"/>
+<stat name="ICMR" descriptionOverride="Line Bonus: ${PROPERTY} ${VALUE}" constant="0.25"/>
 </trait>
 <trait identifier="1879060891" name="Herald's Hammer" iconId="1090541238" nature="3" tooltip="Your Heralds Strike is more likely to crit." description="Your Herald's Strike deals double damage.">
 <stat name="Skill_DamageMultiplier_HeraldsHammer" descriptionOverride="-" constant="100.0"/>
@@ -633,7 +633,7 @@
 </trait>
 <trait identifier="1879060897" name="Life-singer" iconId="1090541241" nature="3" tooltip="Decreases the powercost for all morale increasing abilities." description="The Power costs for your morale-renewing skills are reduced.">
 <stat name="Skill_VitalCost_LifeSingerMod" constant="-10.0"/>
-<stat name="ICMR" descriptionOverride="Line Bonus: ${PROPERTY} ${VALUE}" constant="15.0"/>
+<stat name="ICMR" descriptionOverride="Line Bonus: ${PROPERTY} ${VALUE}" constant="0.25"/>
 </trait>
 <trait identifier="1879060899" name="Unrelenting" iconId="1090541242" nature="3" tooltip="When you land a Critical Hit with your Piercing Cry, your enemy is stunned.  This trait also causes your Piercing Cry to recover faster." description="When you land a Critical Hit with your Piercing Cry, your enemy is stunned.  Piercing Cry gains 25% to it's critical chance and it's cooldown is reduced by 3 seconds.">
 <stat name="ForwardSource_Combat_TraitCombo3" operator="SET" constant="17.0"/>
@@ -1311,7 +1311,7 @@
 <stat name="Combat_Agent_Armor_Value" constant="210.0"/>
 </trait>
 <trait identifier="1879072443" name="Regeneration" iconId="1090553276" category="43" nature="3">
-<stat name="ICMR" constant="120.0"/>
+<stat name="ICMR" constant="2.0"/>
 </trait>
 <trait identifier="1879072444" name="Swift Weave" iconId="1090553277" category="43" nature="3" tooltip="Shortens the induction time of your web attacks by .25 seconds." description="Shortens the induction time of your web attacks by .25 seconds.">
 <stat name="Skill_InductionDuration_Trait_MP_FastBow" operator="SUBSTRACT" constant="0.25"/>
@@ -1402,7 +1402,7 @@
 <stat name="BLOCK_PERCENTAGE" constant="2.0"/>
 </trait>
 <trait identifier="1879072475" name="Empowering" iconId="1090553308" category="43" nature="3">
-<stat name="ICPR" constant="60.0"/>
+<stat name="ICPR" constant="1.0"/>
 </trait>
 <trait identifier="1879072476" name="Shield Mastery" iconId="1090553309" category="43" nature="3">
 <stat name="BLOCK_PERCENTAGE" constant="5.0"/>
@@ -1669,7 +1669,7 @@
 <stat name="VITALITY" constant="15.0"/>
 </trait>
 <trait identifier="1879073453" name="Rapid Recovery" iconId="1090553980" category="45" nature="1" tooltip="Improved out of combat Morale Regeneration - Hobbits recover from trying times faster than other races." description="Improved Morale Regeneration out of combat - Hobbits recover from trying times faster than other races.">
-<stat name="OCMR" constant="60.0"/>
+<stat name="OCMR" constant="1.0"/>
 </trait>
 <trait identifier="1879073454" name="Hobbit-courage" iconId="1090553981" category="45" nature="1" tooltip="Improved Fear Resistance - The slow-kindled courage of the Hobbit Race." description="Improved Fear Resistance - The slow-kindled courage of the Hobbit Race.">
 <stat name="Resist_Additional_Resistance_Fear" constant="1.0"/>
@@ -1748,7 +1748,7 @@
 </trait>
 <trait identifier="1879073545" name="Sorrow of the Firstborn" iconId="1090554017" category="45" nature="1" tooltip="Reduced Morale and Out of Combat Morale Regeneration - Elves feel things more deeply than the other races, and are more subject to sorrow." description="Reduced Morale and Morale Regeneration out of combat - Elves feel things more deeply than the other races and are more subject to sorrow.">
 <stat name="MORALE" constant="-20.0"/>
-<stat name="OCMR" constant="-60.0"/>
+<stat name="OCMR" constant="-1.0"/>
 </trait>
 <trait identifier="1879073546" name="Agility of the Woods" iconId="1090554018" category="45" nature="1" tooltip="Improved Agility - The Grace of the Eldar is remembered in legend." description="Improved Agility - The Grace of the Eldar is remembered in legend.">
 <stat name="AGILITY" constant="15.0"/>
@@ -1794,10 +1794,10 @@
 <stat name="FATE" constant="-8.0"/>
 </trait>
 <trait identifier="1879073585" name="Unwearying in Battle" iconId="1090554037" category="45" nature="1" tooltip="Bonus to In-Combat morale and power regeneration, penalty to out of combat morale and power regen." description="Bonus to Morale and Power regeneration in combat, penalty to Morale and Power regeneration out of combat.">
-<stat name="ICMR" constant="30.0"/>
-<stat name="ICPR" constant="30.0"/>
-<stat name="OCMR" constant="-60.0"/>
-<stat name="OCPR" constant="-30.0"/>
+<stat name="ICMR" constant="0.5"/>
+<stat name="ICPR" constant="0.5"/>
+<stat name="OCMR" constant="-1.0"/>
+<stat name="OCPR" constant="-0.5"/>
 </trait>
 <trait identifier="1879073595" name="Head-butt" iconId="1090554023" category="8" nature="4" tooltip="You gain a short-distance melee attack." description="You gain a short-distance melee attack.">
 <skill id="1879073596" name="Head-butt"/>
