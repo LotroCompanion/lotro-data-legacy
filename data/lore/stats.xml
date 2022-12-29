@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><stats>
-<stat id="268437691" index="0" name="Morale" key="Health_MaxLevel" legacyKey="MORALE"/>
-<stat id="268436768" index="1" name="Power" key="Power_MaxLevel" legacyKey="POWER"/>
+<stat id="268437691" index="0" name="к запасу боевого духа" key="Health_MaxLevel" legacyKey="MORALE" legacyName="Morale"/>
+<stat id="268436768" index="1" name="к запасу энергии" key="Power_MaxLevel" legacyKey="POWER" legacyName="Power"/>
 <stat id="-1008" index="2" name="Armour" key="ARMOUR" legacyKey="ARMOUR" type="INTEGER"/>
-<stat id="268436928" index="3" name="Might" key="Stat_Might" legacyKey="MIGHT" type="INTEGER"/>
-<stat id="268438502" index="4" name="Agility" key="Stat_Agility" legacyKey="AGILITY" type="INTEGER"/>
-<stat id="268439946" index="5" name="Vitality" key="Stat_Vitality" legacyKey="VITALITY" type="INTEGER"/>
-<stat id="268435981" index="6" name="Will" key="Stat_Will" legacyKey="WILL" type="INTEGER"/>
-<stat id="268437619" index="7" name="Fate" key="Stat_Fate" legacyKey="FATE" type="INTEGER"/>
-<stat id="268438189" index="9" name="Melee Critical Chance" key="Combat_CriticalHitChanceAddMod" legacyKey="CRITICAL_MELEE_PERCENTAGE" isPercentage="true"/>
-<stat id="268441230" index="10" name="Ranged Critical Chance" key="Combat_RangedCriticalHitChanceAddMod" legacyKey="CRITICAL_RANGED_PERCENTAGE" isPercentage="true"/>
-<stat id="268441222" index="11" name="Tactical Critical Chance" key="Combat_MagicCriticalHitChanceAddMod" legacyKey="CRITICAL_TACTICAL_PERCENTAGE" isPercentage="true"/>
+<stat id="268436928" index="3" name="к силе" key="Stat_Might" legacyKey="MIGHT" legacyName="Might" type="INTEGER"/>
+<stat id="268438502" index="4" name="к ловкости" key="Stat_Agility" legacyKey="AGILITY" legacyName="Agility" type="INTEGER"/>
+<stat id="268439946" index="5" name="к стойкости" key="Stat_Vitality" legacyKey="VITALITY" legacyName="Vitality" type="INTEGER"/>
+<stat id="268435981" index="6" name="к воле" key="Stat_Will" legacyKey="WILL" legacyName="Will" type="INTEGER"/>
+<stat id="268437619" index="7" name="к вере" key="Stat_Fate" legacyKey="FATE" legacyName="Fate" type="INTEGER"/>
+<stat id="268438189" index="9" name="к шансу критического урона в ближнем бою" key="Combat_CriticalHitChanceAddMod" legacyKey="CRITICAL_MELEE_PERCENTAGE" isPercentage="true"/>
+<stat id="268441230" index="10" name="к шансу нанесения критического удара в дальнем бою" key="Combat_RangedCriticalHitChanceAddMod" legacyKey="CRITICAL_RANGED_PERCENTAGE" isPercentage="true"/>
+<stat id="268441222" index="11" name="к шансу нанесения тактического критического удара" key="Combat_MagicCriticalHitChanceAddMod" legacyKey="CRITICAL_TACTICAL_PERCENTAGE" isPercentage="true"/>
 <stat id="-1000" index="12" name="Devastate chance (melee)" key="DEVASTATE_MELEE_PERCENTAGE" legacyKey="DEVASTATE_MELEE_PERCENTAGE" isPercentage="true"/>
 <stat id="-1001" index="13" name="Devastate chance (ranged)" key="DEVASTATE_RANGED_PERCENTAGE" legacyKey="DEVASTATE_RANGED_PERCENTAGE" isPercentage="true"/>
 <stat id="-1002" index="14" name="Devastate chance (tactical)" key="DEVASTATE_TACTICAL_PERCENTAGE" legacyKey="DEVASTATE_TACTICAL_PERCENTAGE" isPercentage="true"/>
@@ -17,472 +17,472 @@
 <stat id="-1004" index="16" name="Critical/Devastate Magnitude (ranged)" key="CRIT_DEVASTATE_MAGNITUDE_RANGED_PERCENTAGE" legacyKey="CRIT_DEVASTATE_MAGNITUDE_RANGED_PERCENTAGE" isPercentage="true"/>
 <stat id="-1005" index="17" name="Critical/Devastate Magnitude (tactical)" key="CRIT_DEVASTATE_MAGNITUDE_TACTICAL_PERCENTAGE" legacyKey="CRIT_DEVASTATE_MAGNITUDE_TACTICAL_PERCENTAGE" isPercentage="true"/>
 <stat id="-1006" index="19" name="Finesse (%)" key="FINESSE_PERCENTAGE" legacyKey="FINESSE_PERCENTAGE" isPercentage="true"/>
-<stat id="268438407" index="21" name="Melee Damage" key="Combat_DamageQualifier_Melee_Offense" legacyKey="MELEE_DAMAGE_PERCENTAGE" isPercentage="true"/>
-<stat id="268438635" index="22" name="Ranged Damage" key="Combat_DamageQualifier_Ranged_Offense" legacyKey="RANGED_DAMAGE_PERCENTAGE" isPercentage="true"/>
-<stat id="268439611" index="24" name="Tactical Damage" key="Combat_DamageQualifier_Magic_Offense" legacyKey="TACTICAL_DAMAGE_PERCENTAGE" isPercentage="true"/>
+<stat id="268438407" index="21" name="к урону в ближнем бою" key="Combat_DamageQualifier_Melee_Offense" legacyKey="MELEE_DAMAGE_PERCENTAGE" legacyName="Melee Damage" isPercentage="true"/>
+<stat id="268438635" index="22" name="к урону в дальнем бою" key="Combat_DamageQualifier_Ranged_Offense" legacyKey="RANGED_DAMAGE_PERCENTAGE" legacyName="Ranged Damage" isPercentage="true"/>
+<stat id="268439611" index="24" name="к тактическому урону" key="Combat_DamageQualifier_Magic_Offense" legacyKey="TACTICAL_DAMAGE_PERCENTAGE" legacyName="Tactical Damage" isPercentage="true"/>
 <stat id="-1007" index="28" name="Resistance (%)" key="RESISTANCE_PERCENTAGE" legacyKey="RESISTANCE_PERCENTAGE" isPercentage="true"/>
-<stat id="268436092" index="40" name="Block Chance" key="Combat_BlockChanceModifier" legacyKey="BLOCK_PERCENTAGE" isPercentage="true"/>
-<stat id="268436351" index="44" name="Parry Chance" key="Combat_ParryChanceModifier" legacyKey="PARRY_PERCENTAGE" isPercentage="true"/>
-<stat id="268440595" index="48" name="Evade Chance" key="Combat_EvadeChanceModifier" legacyKey="EVADE_PERCENTAGE" isPercentage="true"/>
-<stat id="268439859" index="52" name="Common Mitigation" key="Combat_MitigationPercentage_Common" legacyKey="PHYSICAL_MITIGATION_PERCENTAGE" legacyName="Physical Mitigation (%)" isPercentage="true"/>
-<stat id="268439395" index="58" name="Fire Mitigation" key="Combat_MitigationPercentage_Fire" legacyKey="FIRE_MITIGATION_PERCENTAGE" legacyName="Fire Mitigation (%)" isPercentage="true"/>
-<stat id="268436582" index="65" name="Shadow Mitigation" key="Combat_MitigationPercentage_Shadow" legacyKey="SHADOW_MITIGATION_PERCENTAGE" legacyName="Shadow Mitigation (%)" isPercentage="true"/>
-<stat id="268437934" index="66" name="non-Combat Morale Regen" key="Vital_HealthPeaceRegenAddMod" legacyKey="OCMR"/>
-<stat id="268438584" index="67" name="in-Combat Morale Regen" key="Vital_HealthCombatRegenAddMod" legacyKey="ICMR"/>
-<stat id="268435577" index="68" name="non-Combat Power Regen" key="Vital_PowerPeaceRegenAddMod" legacyKey="OCPR"/>
-<stat id="268435801" index="69" name="in-Combat Power Regen" key="Vital_PowerCombatRegenAddMod" legacyKey="ICPR"/>
-<stat id="268439562" index="72" name="Hope" key="Mood_Hope_Level" legacyKey="HOPE" type="INTEGER"/>
-<stat id="268438757" index="74" name="Stealth Level" key="Stealth_StealthLevelModifier" legacyKey="STEALTH_LEVEL" type="INTEGER"/>
-<stat id="268436095" index="75" name="Melee Vulnerability" key="Combat_DamageQualifier_Melee_Defense" legacyKey="MELEE_DEFENCE_PERCENTAGE" isPercentage="true"/>
-<stat id="268439610" index="76" name="Tactical Vulnerability" key="Combat_DamageQualifier_Magic_Defense" legacyKey="TACTICAL_DEFENCE_PERCENTAGE" isPercentage="true"/>
-<stat id="268437292" index="77" name="Ranged Vulnerability" key="Combat_DamageQualifier_Ranged_Defense" legacyKey="RANGED_DEFENCE_PERCENTAGE" isPercentage="true"/>
-<stat id="268438034" index="78" name="Auto-attack Critical Hit Chance" key="Skill_AutoAttackCriticalHitChance" legacyKey="RANGED_AUTO_ATTACKS_CRIT_CHANCE_PERCENTAGE" isPercentage="true"/>
-<stat id="268439616" index="80" name="Tactical Critical Multiplier" key="Combat_EffectCriticalMultiplierMod" legacyKey="TACTICAL_CRITICAL_MULTIPLIER" isPercentage="true"/>
-<stat id="268440862" index="81" name="Blade Line Area of Effect Power Cost" key="Skill_VitalCost_Champion_AOEMod" legacyKey="BLADE_LINE_AOE_POWER_COST_PERCENTAGE" legacyName="Blade Line AoE Power Cost" isPercentage="true"/>
-<stat id="268440875" index="82" name="Strikes Line Power Cost" key="Skill_VitalCost_Champion_StrikeMod" legacyKey="STRIKE_SKILLS_POWER_COST_PERCENTAGE" legacyName="Strike Skill Power Cost" isPercentage="true"/>
-<stat id="268438245" index="84" name="Tricks Power Cost" key="Burglar_TricksPowerReduce" legacyKey="TRICKS_POWER_COST_PERCENTAGE" isPercentage="true"/>
-<stat id="268435468" index="85" name="Loremaster Sign of the Wild Power Cost" key="Skill_VitalCost_Book_SigilAnimalMod" legacyKey="SIGN_OF_THE_WILD_POWER_COST_PERCENTAGE" legacyName="Sign of the Wild Skills Power Cost" isPercentage="true"/>
-<stat id="268438246" index="86" name="Ballad Damage" key="Skill_DamageMultiplier_LightintheDark" legacyKey="BALLAD_AND_CODA_DAMAGE_PERCENTAGE" legacyName="Ballad and Coda Damage" isPercentage="true"/>
-<stat id="268436097" index="87" name="Attack Duration" key="Combat_ActionDurationMultiplierMod" legacyKey="ATTACK_DURATION_PERCENTAGE" isPercentage="true"/>
-<stat id="268437186" index="88" name="Critical Chance" key="Craft_Jeweller_CriticalChanceAddModifier" legacyKey="JEWELLER_CRIT_CHANCE_PERCENTAGE" legacyName="Jeweller Critical Chance" isPercentage="true"/>
-<stat id="268435993" index="89" name="Critical Chance" key="Craft_Cook_CriticalChanceAddModifier" legacyKey="COOK_CRIT_CHANCE_PERCENTAGE" legacyName="Cook Critical Chance" isPercentage="true"/>
-<stat id="268438763" index="90" name="Critical Chance" key="Craft_Scholar_CriticalChanceAddModifier" legacyKey="SCHOLAR_CRIT_CHANCE_PERCENTAGE" legacyName="Scholar Critical Chance" isPercentage="true"/>
-<stat id="268439267" index="91" name="Critical Chance" key="Craft_Tailor_CriticalChanceAddModifier" legacyKey="TAILOR_CRIT_CHANCE_PERCENTAGE" legacyName="Tailor Critical Chance" isPercentage="true"/>
-<stat id="268437631" index="92" name="Critical Chance" key="Craft_Metalsmith_CriticalChanceAddModifier" legacyKey="METALSMITH_CRIT_CHANCE_PERCENTAGE" legacyName="Metalsmith Critical Chance" isPercentage="true"/>
-<stat id="268436462" index="93" name="Critical Chance" key="Craft_Weaponsmith_CriticalChanceAddModifier" legacyKey="WEAPONSMITH_CRIT_CHANCE_PERCENTAGE" legacyName="Weaponsmith Critical Chance" isPercentage="true"/>
-<stat id="268436709" index="94" name="Critical Chance" key="Craft_Woodworker_CriticalChanceAddModifier" legacyKey="WOODWORKER_CRIT_CHANCE_PERCENTAGE" legacyName="Woodworker Critical Chance" isPercentage="true"/>
-<stat id="268437571" index="95" name="Mining Time" key="Skill_InductionDuration_MiningMod" legacyKey="PROSPECTOR_MINING_DURATION" legacyName="Prospector Mining Duration (s)"/>
-<stat id="268437808" index="96" name="Farming Time" key="Skill_InductionDuration_FarmHarvestMod" legacyKey="FARMER_MINING_DURATION" legacyName="Farmer Harvesting Duration (s)"/>
-<stat id="268436396" index="97" name="Wood Harvesting Time" key="Skill_InductionDuration_WoodHarvestMod" legacyKey="FORESTER_CHOPPING_DURATION" legacyName="Forester Chopping Duration (s)"/>
-<stat id="268438741" index="99" name="Perceived Threat" key="TotalThreatModifier_Player" legacyKey="PERCEIVED_THREAT" isPercentage="true"/>
-<stat id="268440644" index="100" name="Induction Duration" key="Skill_InductionDuration_AllSkillsMod" legacyKey="ALL_SKILL_INDUCTION" legacyName="All Skill Inductions" isPercentage="true"/>
+<stat id="268436092" index="40" name="к блокированию" key="Combat_BlockChanceModifier" legacyKey="BLOCK_PERCENTAGE" isPercentage="true"/>
+<stat id="268436351" index="44" name="к парированию" key="Combat_ParryChanceModifier" legacyKey="PARRY_PERCENTAGE" isPercentage="true"/>
+<stat id="268440595" index="48" name="к уклонению" key="Combat_EvadeChanceModifier" legacyKey="EVADE_PERCENTAGE" isPercentage="true"/>
+<stat id="268439859" index="52" name="к смягчению урона обычного типа" key="Combat_MitigationPercentage_Common" legacyKey="PHYSICAL_MITIGATION_PERCENTAGE" legacyName="Physical Mitigation (%)" isPercentage="true"/>
+<stat id="268439395" index="58" name="к смягчению урона огнем" key="Combat_MitigationPercentage_Fire" legacyKey="FIRE_MITIGATION_PERCENTAGE" legacyName="Fire Mitigation (%)" isPercentage="true"/>
+<stat id="268436582" index="65" name="к смягчению урона Тьмой" key="Combat_MitigationPercentage_Shadow" legacyKey="SHADOW_MITIGATION_PERCENTAGE" legacyName="Shadow Mitigation (%)" isPercentage="true"/>
+<stat id="268437934" index="66" name="к восстановлению боевого духа вне боя" key="Vital_HealthPeaceRegenAddMod" legacyKey="OCMR"/>
+<stat id="268438584" index="67" name="к восстановлению боевого духа в бою" key="Vital_HealthCombatRegenAddMod" legacyKey="ICMR"/>
+<stat id="268435577" index="68" name="к восстановлению энергии вне боя" key="Vital_PowerPeaceRegenAddMod" legacyKey="OCPR"/>
+<stat id="268435801" index="69" name="к восстановлению энергии в бою" key="Vital_PowerCombatRegenAddMod" legacyKey="ICPR"/>
+<stat id="268439562" index="72" name="Надежда" key="Mood_Hope_Level" legacyKey="HOPE" legacyName="Hope" type="INTEGER"/>
+<stat id="268438757" index="74" name="к уровню скрытности" key="Stealth_StealthLevelModifier" legacyKey="STEALTH_LEVEL" legacyName="Stealth Level" type="INTEGER"/>
+<stat id="268436095" index="75" name="к получаемому урону в ближнем бою" key="Combat_DamageQualifier_Melee_Defense" legacyKey="MELEE_DEFENCE_PERCENTAGE" isPercentage="true"/>
+<stat id="268439610" index="76" name="к получаемому тактическому урону" key="Combat_DamageQualifier_Magic_Defense" legacyKey="TACTICAL_DEFENCE_PERCENTAGE" isPercentage="true"/>
+<stat id="268437292" index="77" name="к получаемому урону в дальнем бою" key="Combat_DamageQualifier_Ranged_Defense" legacyKey="RANGED_DEFENCE_PERCENTAGE" isPercentage="true"/>
+<stat id="268438034" index="78" name="к шансу критического удара при автоатаке" key="Skill_AutoAttackCriticalHitChance" legacyKey="RANGED_AUTO_ATTACKS_CRIT_CHANCE_PERCENTAGE" isPercentage="true"/>
+<stat id="268439616" index="80" name="к тактическому критическому урону" key="Combat_EffectCriticalMultiplierMod" legacyKey="TACTICAL_CRITICAL_MULTIPLIER" legacyName="Tactical Critical Multiplier" isPercentage="true"/>
+<stat id="268440862" index="81" name="к расходу энергии на \qАтаки\q по области" key="Skill_VitalCost_Champion_AOEMod" legacyKey="BLADE_LINE_AOE_POWER_COST_PERCENTAGE" legacyName="Blade Line AoE Power Cost" isPercentage="true"/>
+<stat id="268440875" index="82" name="к расходу энергии на \qУдары\q" key="Skill_VitalCost_Champion_StrikeMod" legacyKey="STRIKE_SKILLS_POWER_COST_PERCENTAGE" legacyName="Strike Skill Power Cost" isPercentage="true"/>
+<stat id="268438245" index="84" name="к расходу энергии на уловки" key="Burglar_TricksPowerReduce" legacyKey="TRICKS_POWER_COST_PERCENTAGE" legacyName="Tricks Power Cost" isPercentage="true"/>
+<stat id="268435468" index="85" name="к затратам энергии на Знаки природы" key="Skill_VitalCost_Book_SigilAnimalMod" legacyKey="SIGN_OF_THE_WILD_POWER_COST_PERCENTAGE" legacyName="Sign of the Wild Skills Power Cost" isPercentage="true"/>
+<stat id="268438246" index="86" name="к урону от баллад" key="Skill_DamageMultiplier_LightintheDark" legacyKey="BALLAD_AND_CODA_DAMAGE_PERCENTAGE" legacyName="Ballad and Coda Damage" isPercentage="true"/>
+<stat id="268436097" index="87" name="к длительности атак" key="Combat_ActionDurationMultiplierMod" legacyKey="ATTACK_DURATION_PERCENTAGE" legacyName="Attack Duration" isPercentage="true"/>
+<stat id="268437186" index="88" name="к шансу критического успеха" key="Craft_Jeweller_CriticalChanceAddModifier" legacyKey="JEWELLER_CRIT_CHANCE_PERCENTAGE" legacyName="Jeweller Critical Chance" isPercentage="true"/>
+<stat id="268435993" index="89" name="к шансу критического успеха" key="Craft_Cook_CriticalChanceAddModifier" legacyKey="COOK_CRIT_CHANCE_PERCENTAGE" legacyName="Cook Critical Chance" isPercentage="true"/>
+<stat id="268438763" index="90" name="к шансу критического успеха" key="Craft_Scholar_CriticalChanceAddModifier" legacyKey="SCHOLAR_CRIT_CHANCE_PERCENTAGE" legacyName="Scholar Critical Chance" isPercentage="true"/>
+<stat id="268439267" index="91" name="к шансу критического успеха" key="Craft_Tailor_CriticalChanceAddModifier" legacyKey="TAILOR_CRIT_CHANCE_PERCENTAGE" legacyName="Tailor Critical Chance" isPercentage="true"/>
+<stat id="268437631" index="92" name="к шансу критического успеха" key="Craft_Metalsmith_CriticalChanceAddModifier" legacyKey="METALSMITH_CRIT_CHANCE_PERCENTAGE" legacyName="Metalsmith Critical Chance" isPercentage="true"/>
+<stat id="268436462" index="93" name="к шансу критического успеха" key="Craft_Weaponsmith_CriticalChanceAddModifier" legacyKey="WEAPONSMITH_CRIT_CHANCE_PERCENTAGE" legacyName="Weaponsmith Critical Chance" isPercentage="true"/>
+<stat id="268436709" index="94" name="к шансу критического успеха" key="Craft_Woodworker_CriticalChanceAddModifier" legacyKey="WOODWORKER_CRIT_CHANCE_PERCENTAGE" legacyName="Woodworker Critical Chance" isPercentage="true"/>
+<stat id="268437571" index="95" name="к времени добычи руды" key="Skill_InductionDuration_MiningMod" legacyKey="PROSPECTOR_MINING_DURATION" legacyName="Prospector Mining Duration (s)"/>
+<stat id="268437808" index="96" name="к времени выращивания урожая" key="Skill_InductionDuration_FarmHarvestMod" legacyKey="FARMER_MINING_DURATION" legacyName="Farmer Harvesting Duration (s)"/>
+<stat id="268436396" index="97" name="к времени добычи древесины" key="Skill_InductionDuration_WoodHarvestMod" legacyKey="FORESTER_CHOPPING_DURATION" legacyName="Forester Chopping Duration (s)"/>
+<stat id="268438741" index="99" name="к угрозе" key="TotalThreatModifier_Player" legacyKey="PERCEIVED_THREAT" legacyName="Perceived Threat" isPercentage="true"/>
+<stat id="268440644" index="100" name="ко времени применения умений" key="Skill_InductionDuration_AllSkillsMod" legacyKey="ALL_SKILL_INDUCTION" legacyName="All Skill Inductions" isPercentage="true"/>
 <stat id="-1010" name="Shield Use Rank" key="Combat_TacticalDPS_Modifier#1" legacyKey="Combat_TacticalDPS_Modifier#1"/>
 <stat id="-1009" name="DPS" key="DPS" legacyKey="DPS"/>
-<stat id="268435463" name="Pip" key="Skill_Pips_Mod_Trait_EnduringPrecision" type="INTEGER"/>
-<stat id="268435464" name="Minimum Pips" key="Skill_Pips_PipMinMod_Trait_ArrowStorm" type="INTEGER"/>
-<stat id="268435465" name="Healing Skills Induction Time" key="Skill_InductionDuration_Loremaster_Trait_Healer" isPercentage="true"/>
-<stat id="268435466" name="Retaliate Response Time" key="ForwardSource_Skill_Duration_Trait_Guardian_ImprovedRetaliateResponse"/>
-<stat id="268435469" name="Subtle Stab Damage" key="Skill_DamageMultiplier_Trait_FastKnife" isPercentage="true"/>
-<stat id="268435470" name="Fervour Damage Bonus" key="Skill_DamageMultiplier_Champion_Trait_LineBonus_FervourDamageBonusMod" isPercentage="true"/>
-<stat id="268435471" name="Deep Strikes" key="Trait_Champion_DeepStrikes" type="ARRAY"/>
-<stat id="268435472" name="Loremaster Knowledge of The Past Trait" key="Trait_Loremaster_KnowledgeOfThePast" type="ARRAY"/>
-<stat id="268435487" name="Cry Resistance" key="Resist_Additional_Resistance_Cry" isPercentage="true"/>
-<stat id="268435504" name="Threat Input Modifier for Taunt" key="ThreatInputModifier_Taunt" isPercentage="true"/>
-<stat id="268435510" name="Conjunction Initiation Chance" key="Conjunction_CheckPercentChance" isPercentage="true"/>
-<stat id="268435516" name="Mount Speed" key="ForwardSource_Movement_MountSpeedMultiplier" isPercentage="true"/>
-<stat id="268435608" name="Light Immunity" key="Combat_DamageType_Immunity_Light" type="BOOLEAN"/>
-<stat id="268435629" name="Two-handed Axe Damage" key="Combat_WeaponDamageMultiplier_2HAxe" isPercentage="true"/>
-<stat id="268435636" name="Can Block" key="Combat_CanBlock" type="BOOLEAN"/>
-<stat id="268435640" name="North Downs Discount" key="Discount_Northdowns" isPercentage="true"/>
-<stat id="268435666" name="Movement Frozen" key="Movement_ActiveMovementFrozen_ByEffect" type="BOOLEAN"/>
-<stat id="268435680" name="Skill Reset Time" key="Skill_RecoveryTime_Trait_Guardian_ImprovedParry"/>
-<stat id="268435681" name="Block Response Duration Modifier" key="ForwardSource_Skill_Duration_Trait_Guardian_ImprovedBlockResponse"/>
-<stat id="268435682" name="Damage Increase" key="Skill_DamageMultiplier_Trait_FellowshipsFriend_Damage" isPercentage="true"/>
-<stat id="268435683" name="Threat" key="Skill_AdditionalThreat_subtlewizard"/>
-<stat id="268435684" name="Burglar Disabled Attack Trait" key="Trait_Burglar_DisabledAttacks" type="ARRAY"/>
-<stat id="268435710" name="Combat Event Reactions" key="ForwardSource_GameEvent_CombatEventTable" type="DID"/>
-<stat id="268435712" name="Increases the Idealism virtue's rank." key="Trait_Virtue_Rank_Idealism" type="INTEGER"/>
-<stat id="268435732" name="Run Speed" key="ForwardSource_Movement_SpeedMultiplier" isPercentage="true"/>
-<stat id="268435744" name="Focus" key="Pip_Aim" type="INTEGER"/>
-<stat id="268435749" name="Completed Mastery" key="Craft_Farmer_CompletedMasteryLevel" type="INTEGER"/>
-<stat id="268435752" name="Completed Mastery" key="Craft_Scholar_CompletedMasteryLevel" type="INTEGER"/>
-<stat id="268435844" name="Can Respond" key="AI_CallForHelp_CanRespond" type="BOOLEAN"/>
-<stat id="268435871" name="Angmar Discount" key="Discount_Angmar" isPercentage="true"/>
-<stat id="268435914" name="Auto-attack Block Chance" key="Skill_AutoAttack_BlockChance" isPercentage="true"/>
-<stat id="268435915" name="Induction Duration" key="Skill_InductionDuration_AllSkillsMod_Add"/>
-<stat id="268435917" name="Signs of the Wild Durations" key="Skill_Duration_Trait_KnowledgeoftheAnimals"/>
-<stat id="268435918" name="Song Power Cost" key="Skill_VitalCost_SerenadeUtilityMod" isPercentage="true"/>
-<stat id="268435920" name="Improved Blade Wall" key="Trait_Champion_ImprovedBladeWall" type="ARRAY"/>
-<stat id="268435921" name="Eye For Vulnerability" key="Trait_Burglar_EyeForVulnerability" type="ARRAY"/>
-<stat id="268435922" name="Improved Words of Courage" key="Trait_Captain_ImprovedWordsofCourage" type="ARRAY"/>
-<stat id="268435923" name="Captain Empowering Triumph Trait" key="Trait_Captain_EmpoweringTriumph" type="ARRAY"/>
-<stat id="268435994" name="Completed Proficiency" key="Craft_Cook_CompletedProficiencyLevel" type="INTEGER"/>
-<stat id="268435995" name="Completed Proficiency" key="Craft_Prospector_CompletedProficiencyLevel" type="INTEGER"/>
-<stat id="268435996" name="Completed Mastery" key="Craft_Woodworker_CompletedMasteryLevel" type="INTEGER"/>
-<stat id="268436040" name="Amount of healing your skills provide" key="EffectMod_HealingMultiplier_Trait_MP_HarshLanguage" isPercentage="true"/>
-<stat id="268436041" name="Allows immunity to knockaway effects." key="EffectMod_Knockaway_Immunity" type="BOOLEAN"/>
+<stat id="268435463" name="ед." key="Skill_Pips_Mod_Trait_EnduringPrecision" type="INTEGER"/>
+<stat id="268435464" name="Минимальное количество" key="Skill_Pips_PipMinMod_Trait_ArrowStorm" type="INTEGER"/>
+<stat id="268435465" name="ко времени применения лечащих умений" key="Skill_InductionDuration_Loremaster_Trait_Healer" isPercentage="true"/>
+<stat id="268435466" name="к длительности \qЭха возмездия\q" key="ForwardSource_Skill_Duration_Trait_Guardian_ImprovedRetaliateResponse"/>
+<stat id="268435469" name="к урону от \qЛовкого укола\q" key="Skill_DamageMultiplier_Trait_FastKnife" isPercentage="true"/>
+<stat id="268435470" name="к урону за счет боевого пыла" key="Skill_DamageMultiplier_Champion_Trait_LineBonus_FervourDamageBonusMod" isPercentage="true"/>
+<stat id="268435471" name="Глубокие раны" key="Trait_Champion_DeepStrikes" type="ARRAY"/>
+<stat id="268435472" name="Талант хранителя мудрости - Знание прошлого" key="Trait_Loremaster_KnowledgeOfThePast" type="ARRAY"/>
+<stat id="268435487" name="к сопротивлению кличам" key="Resist_Additional_Resistance_Cry" isPercentage="true"/>
+<stat id="268435504" name="к скорости роста угрозы при использовании насмешки" key="ThreatInputModifier_Taunt" isPercentage="true"/>
+<stat id="268435510" name="к шансу начала комбо-приема" key="Conjunction_CheckPercentChance" isPercentage="true"/>
+<stat id="268435516" name="к скорости верховой езды" key="ForwardSource_Movement_MountSpeedMultiplier" isPercentage="true"/>
+<stat id="268435608" name="Неуязвимость к Свету" key="Combat_DamageType_Immunity_Light" type="BOOLEAN"/>
+<stat id="268435629" name="к урону от двуручного топора" key="Combat_WeaponDamageMultiplier_2HAxe" isPercentage="true"/>
+<stat id="268435636" name="Может блокировать удар" key="Combat_CanBlock" type="BOOLEAN"/>
+<stat id="268435640" name="Скидка у большинства торговцев Северного нагорья" key="Discount_Northdowns" isPercentage="true"/>
+<stat id="268435666" name="Движение остановлено" key="Movement_ActiveMovementFrozen_ByEffect" type="BOOLEAN"/>
+<stat id="268435680" name="к перезарядке умения" key="Skill_RecoveryTime_Trait_Guardian_ImprovedParry"/>
+<stat id="268435681" name="к длительности \qЭха блокирования\q" key="ForwardSource_Skill_Duration_Trait_Guardian_ImprovedBlockResponse"/>
+<stat id="268435682" name="к урону" key="Skill_DamageMultiplier_Trait_FellowshipsFriend_Damage" isPercentage="true"/>
+<stat id="268435683" name="к угрозе" key="Skill_AdditionalThreat_subtlewizard"/>
+<stat id="268435684" name="Талант взломщика \qОбессиливающая атака\q" key="Trait_Burglar_DisabledAttacks" type="ARRAY"/>
+<stat id="268435710" name="Реакция на боевые события" key="ForwardSource_GameEvent_CombatEventTable" type="DID"/>
+<stat id="268435712" name="Увеличивает уровень Идеализма." key="Trait_Virtue_Rank_Idealism" type="INTEGER"/>
+<stat id="268435732" name="к скорости бега" key="ForwardSource_Movement_SpeedMultiplier" isPercentage="true"/>
+<stat id="268435744" name="сосредоточенности" key="Pip_Aim" type="INTEGER"/>
+<stat id="268435749" name="Уровень мастерства в ремесле" key="Craft_Farmer_CompletedMasteryLevel" type="INTEGER"/>
+<stat id="268435752" name="Уровень мастерства в ремесле" key="Craft_Scholar_CompletedMasteryLevel" type="INTEGER"/>
+<stat id="268435844" name="Может ответить" key="AI_CallForHelp_CanRespond" type="BOOLEAN"/>
+<stat id="268435871" name="Скидка у большинства торговцев Ангмара" key="Discount_Angmar" isPercentage="true"/>
+<stat id="268435914" name="к шансу блокирования при автоатаке" key="Skill_AutoAttack_BlockChance" isPercentage="true"/>
+<stat id="268435915" name="ко времени применения умений" key="Skill_InductionDuration_AllSkillsMod_Add"/>
+<stat id="268435917" name="ко времени действия \qЗнаков природы\q" key="Skill_Duration_Trait_KnowledgeoftheAnimals"/>
+<stat id="268435918" name="к расходу энергии на песни" key="Skill_VitalCost_SerenadeUtilityMod" isPercentage="true"/>
+<stat id="268435920" name="Улучшенная стена клинков" key="Trait_Champion_ImprovedBladeWall" type="ARRAY"/>
+<stat id="268435921" name="Поиск уязвимости" key="Trait_Burglar_EyeForVulnerability" type="ARRAY"/>
+<stat id="268435922" name="Сильные cлова поддержки" key="Trait_Captain_ImprovedWordsofCourage" type="ARRAY"/>
+<stat id="268435923" name="Талант рыцаря - Вдохновляющий триумф" key="Trait_Captain_EmpoweringTriumph" type="ARRAY"/>
+<stat id="268435994" name="Уровень умения в ремесле" key="Craft_Cook_CompletedProficiencyLevel" type="INTEGER"/>
+<stat id="268435995" name="Уровень умения в ремесле" key="Craft_Prospector_CompletedProficiencyLevel" type="INTEGER"/>
+<stat id="268435996" name="Уровень мастерства в ремесле" key="Craft_Woodworker_CompletedMasteryLevel" type="INTEGER"/>
+<stat id="268436040" name="к исходящему лечению" key="EffectMod_HealingMultiplier_Trait_MP_HarshLanguage" isPercentage="true"/>
+<stat id="268436041" name="Допускает неуязвимость к сбиванию с ног" key="EffectMod_Knockaway_Immunity" type="BOOLEAN"/>
 <stat id="268436045" name="Mood_Intended_Dread_Level" key="Mood_Intended_Dread_Level" type="INTEGER"/>
-<stat id="268436087" name="One-handed Club Damage" key="Combat_WeaponDamageMultiplier_1HClub" isPercentage="true"/>
-<stat id="268436090" name="Current Trait Combo" key="ForwardSource_Combat_TraitCombo2" type="ENUM"/>
-<stat id="268436124" name="Allowed Equipment Categories" key="Inventory_AllowedEquipmentCategories" type="BITFIELD"/>
-<stat id="268436147" name="Recovery Time for Sprint" key="Skill_RecoveryTime_Trait_MP_Sprint"/>
-<stat id="268436148" name="Seconds" key="Skill_RecoveryTime_Trait_HastyRecovery"/>
-<stat id="268436149" name="Skill Reset Timer" key="Skill_Duration_Trait_Captain_BuffLineBonus"/>
-<stat id="268436150" name="Effect Duration" key="Skill_Duration_IncreaseVocalStrengthDurationIncrease"/>
-<stat id="268436151" name="Power Cost" key="Skill_VitalCost_Graceful" isPercentage="true"/>
-<stat id="268436152" name="Improved Tracking of Foes" key="Trait_Hunter_HeightenedSenses_Foes" type="ARRAY"/>
-<stat id="268436153" name="Improved Swift Strike" key="Trait_Champion_ImprovedSwiftStrike" type="ARRAY"/>
-<stat id="268436154" name="Improved Flurry" key="Trait_Champion_ImprovedFlurry" type="ARRAY"/>
-<stat id="268436155" name="Champion Instant Risposte Trait" key="Trait_Champion_InstantRisposte" type="BOOLEAN"/>
-<stat id="268436167" name="Resist Immunity" key="Resist_Immunity" type="BITFIELD"/>
-<stat id="268436185" name="Increases the Valor virtue's rank." key="Trait_Virtue_Rank_Valor" type="INTEGER"/>
-<stat id="268436215" name="Stealth Break Resist" key="Stealth_ResistBreakModifier" type="BOOLEAN"/>
-<stat id="268436331" name="Can Attack" key="AI_CanAttack" type="BOOLEAN"/>
-<stat id="268436350" name="Current Trait Combo" key="ForwardSource_Combat_TraitCombo3" type="ENUM"/>
-<stat id="268436352" name="Ranged Evade Chance" key="Combat_BaseEvadeRate_Ranged" isPercentage="true"/>
-<stat id="268436354" name="Tactical Critical Chance" key="Combat_EffectCriticalChanceMod" isPercentage="true"/>
-<stat id="268436393" name="Fervour" key="Skill_Pips_CostMod_Trait_Champion_TimeofNeed" type="INTEGER"/>
-<stat id="268436395" name="Skill Reset" key="Skill_RecoveryTime_SmoothVoiceDurationRecharge"/>
-<stat id="268436397" name="Quick Shot Critical Chance" key="Skill_ChanceCriticalHit_Hunter_Stance_Precision" isPercentage="true"/>
-<stat id="268436435" name="Threat Input Modifier for Damage" key="ThreatInputModifier_Damage" isPercentage="true"/>
-<stat id="268436447" name="Movement Freeze" key="ForwardSource_ScriptSystem_ActiveMovementBlocked" type="BOOLEAN"/>
-<stat id="268436524" name="Incoming Healing" key="Mood_Healing_Modifier" isPercentage="true"/>
-<stat id="268436578" name="Current Trait Combo" key="ForwardSource_Combat_TraitCombo4" type="ENUM"/>
-<stat id="268436581" name="Light Mitigation" key="Combat_MitigationPercentage_Light" isPercentage="true"/>
-<stat id="268436583" name="Can Parry" key="Combat_CanParry" type="BOOLEAN"/>
-<stat id="268436633" name="Improved Enlivening Grace" key="Skill_RecoveryTime_GracefulPowercostReductionandDuration" isPercentage="true"/>
-<stat id="268436634" name="Swift Bow induction time" key="Skill_InductionDuration_Trait_Fastpull_2"/>
-<stat id="268436635" name="Critical Chance for Rain of Arrows" key="Skill_ChanceCriticalHit_Trait_Hunter_HailofArrows" isPercentage="true"/>
-<stat id="268436636" name="Ranged Critical Chance" key="Skill_ChanceCriticalHit_RangedMod" isPercentage="true"/>
-<stat id="268436637" name="Herald's Strike" key="Skill_DamageMultiplier_HeraldsHammer" isPercentage="true"/>
-<stat id="268436638" name="Improved Routing Cry" key="Trait_Captain_ImprovedRoutingCry" type="ARRAY"/>
-<stat id="268436639" name="Captain Herald Appearance" key="Trait_Captain_ImprovedBannerofHope_AppearanceA" type="ARRAY"/>
-<stat id="268436640" name="Improved Banner of Hope" key="Trait_Captain_ImprovedBannerofHope" type="ARRAY"/>
-<stat id="268436662" name="Tactical Resistance" key="Resist_Additional_Resistance_Magic" isPercentage="true"/>
-<stat id="268436663" name="Fear Resistance" key="Resist_Additional_Resistance_Fear" isPercentage="true"/>
-<stat id="268436686" name="Increases the Tolerant virtue's rank." key="Trait_Virtue_Rank_Tolerant" type="INTEGER"/>
-<stat id="268436706" name="Completed Mastery" key="Craft_Cook_CompletedMasteryLevel" type="INTEGER"/>
-<stat id="268436764" name="Increase Healing Per Interval Change" key="EffectMod_VOT_PerIntervalChangeMult_AddMod1_Trait_Tricks" isPercentage="true"/>
-<stat id="268436789" name="Override Desire" key="AI_Threat_DesireOverride"/>
-<stat id="268436813" name="Guardian Damage Combo Mode" key="ForwardSource_ComboMode_Guardian_DamageType" type="ENUM"/>
-<stat id="268436815" name="Current Trait Combo" key="ForwardSource_Combat_TraitCombo5" type="ENUM"/>
-<stat id="268436816" name="Miss Chance" key="Combat_MissChanceModifier" isPercentage="true"/>
-<stat id="268436817" name="Miss Chance" key="Combat_BaseMissRate" isPercentage="true"/>
-<stat id="268436861" name="damage type of all skills" key="Skill_DamageTypeOverride_AllSkillsOverride" type="ENUM"/>
-<stat id="268436862" name="Fervour" key="Skill_Pips_CostMod_Trait_Champion_SwifttoAnger" type="INTEGER"/>
-<stat id="268436863" name="Fervour" key="Skill_Pips_CostMod_Trait_Champion_CheaperBladeStormPips" type="INTEGER"/>
-<stat id="268436864" name="Minimum Pips" key="Skill_Pips_PipMinMod_Trait_LongPull" type="INTEGER"/>
-<stat id="268436865" name="Skill Reset Time" key="Skill_RecoveryTime_Trait_Guardian_improvedthrill"/>
-<stat id="268436866" name="Critical Chance" key="Skill_ChanceCriticalHit_Trait_ImprovedAttacks" isPercentage="true"/>
-<stat id="268436867" name="Magic Cost" key="Skill_VitalCost_MagicMod" isPercentage="true"/>
-<stat id="268436868" name="Morale Cost" key="Skill_VitalCost_Trait_VulgarMagicMoraleCostReduction" isPercentage="true"/>
-<stat id="268436869" name="Loremaster Lore Power Cost" key="Skill_VitalCost_Book_CallNatureMod" isPercentage="true"/>
-<stat id="268436870" name="Champion Call of the Wild Trait" key="Skill_AdditionalThreat_ChampionWildAttackMod"/>
-<stat id="268436871" name="Pet Trait Mod" key="Trait_Loremaster_PetModStat_Slot1" type="DID"/>
-<stat id="268436872" name="Improved Banner of Defence" key="Trait_Captain_ImprovedBannerofDefense" type="ARRAY"/>
-<stat id="268436873" name="Captain Herald Appearance" key="Trait_Captain_ImprovedBannerofHope_AppearanceB" type="ARRAY"/>
-<stat id="268436893" name="Wound Resistance" key="Resist_Additional_Resistance_Wound" isPercentage="true"/>
-<stat id="268436911" name="Conjunction Event Reactions" key="ForwardSource_GameEvent_ConjunctionEventTable" type="DID"/>
-<stat id="268436925" name="Movement Acceleration Multiplier" key="ForwardSource_Movement_AccelerationMultiplier"/>
-<stat id="268436938" name="Completed Proficiency" key="Craft_Forester_CompletedProficiencyLevel" type="INTEGER"/>
-<stat id="268436939" name="Completed Mastery" key="Craft_Weaponsmith_CompletedMasteryLevel" type="INTEGER"/>
-<stat id="268436996" name="Damage Vulnerability when enraged." key="EffectMod_PropertyMod_Trait_MP_GloryInVictory" isPercentage="true"/>
-<stat id="268437033" name="Ancient Dwarf Immunity" key="Combat_DamageType_Immunity_AncientDwarf" type="BOOLEAN"/>
-<stat id="268437059" name="One-handed Axe Damage" key="Combat_WeaponDamageMultiplier_1HAxe" isPercentage="true"/>
-<stat id="268437064" name="Ered Luin Discount" key="Discount_Eredluin" isPercentage="true"/>
-<stat id="268437083" name="Usage Action" key="Usage_Action_Shadow" type="DID"/>
-<stat id="268437109" name="Fervour" key="Skill_Pips_CostMod_Trait_Champion_ImprovedBattleFrenzy" type="INTEGER"/>
-<stat id="268437110" name="Dire Need Skill Reset Time" key="Skill_RecoveryTime_ChampionImprovedDireNeed"/>
-<stat id="268437111" name="Beacon of Hope Morale Cost" key="Skill_VitalCost_Morale_GiveHopeMod" isPercentage="true"/>
-<stat id="268437112" name="Power Cost of Sign Skills" key="Skill_VitalCost_Trait_SignPowerCostReduction" isPercentage="true"/>
-<stat id="268437113" name="Swift Bow Damage" key="Skill_DamageMultiplier_Trait_SwiftandTrue" isPercentage="true"/>
-<stat id="268437114" name="Damage of Fire Based Skills" key="Skill_DamageMultiplier_FireFriendMod" isPercentage="true"/>
-<stat id="268437115" name="Stealthy Shot" key="Trait_Hunter_StealthyShot" type="ARRAY"/>
-<stat id="268437116" name="CenterCentreing Self" key="Trait_Hunter_CenteringSelf" type="ARRAY"/>
-<stat id="268437117" name="Pet Trait Mod2" key="Trait_Loremaster_PetModStat_Slot2" type="DID"/>
-<stat id="268437118" name="Complex Riddle Trait" key="Trait_Burglar_ComplexRiddle" isPercentage="true" type="ARRAY"/>
-<stat id="268437119" name="Improved Rallying Cry" key="Trait_Captain_ImprovedRallyingCry" type="ARRAY"/>
-<stat id="268437120" name="Captain Herald Appearance" key="Trait_Captain_ImprovedBannerofHope_AppearanceC" type="ARRAY"/>
+<stat id="268436087" name="к урону от одноручной палицы" key="Combat_WeaponDamageMultiplier_1HClub" isPercentage="true"/>
+<stat id="268436090" name="Текущий комбо-прием" key="ForwardSource_Combat_TraitCombo2" type="ENUM"/>
+<stat id="268436124" name="Разрешенные категории оружия" key="Inventory_AllowedEquipmentCategories" type="BITFIELD"/>
+<stat id="268436147" name="к перезарядке \qРывка\q" key="Skill_RecoveryTime_Trait_MP_Sprint"/>
+<stat id="268436148" name="сек." key="Skill_RecoveryTime_Trait_HastyRecovery"/>
+<stat id="268436149" name="к перезарядке умения" key="Skill_Duration_Trait_Captain_BuffLineBonus"/>
+<stat id="268436150" name="к длительности эффекта" key="Skill_Duration_IncreaseVocalStrengthDurationIncrease"/>
+<stat id="268436151" name="к расходу энергии" key="Skill_VitalCost_Graceful" isPercentage="true"/>
+<stat id="268436152" name="Улучшенное выслеживание врагов" key="Trait_Hunter_HeightenedSenses_Foes" type="ARRAY"/>
+<stat id="268436153" name="Улучшенный быстрый удар" key="Trait_Champion_ImprovedSwiftStrike" type="ARRAY"/>
+<stat id="268436154" name="Сильный шквал ударов" key="Trait_Champion_ImprovedFlurry" type="ARRAY"/>
+<stat id="268436155" name="Талант воителя - Мгновенный отпор" key="Trait_Champion_InstantRisposte" type="BOOLEAN"/>
+<stat id="268436167" name="к сопротивлению неуязвимости" key="Resist_Immunity" type="BITFIELD"/>
+<stat id="268436185" name="Увеличивает уровень Храбрости." key="Trait_Virtue_Rank_Valor" type="INTEGER"/>
+<stat id="268436215" name="к сопротивлению потере скрытности" key="Stealth_ResistBreakModifier" type="BOOLEAN"/>
+<stat id="268436331" name="Может атаковать" key="AI_CanAttack" type="BOOLEAN"/>
+<stat id="268436350" name="Текущий комбо-прием" key="ForwardSource_Combat_TraitCombo3" type="ENUM"/>
+<stat id="268436352" name="к вероятности уклонения в дальнем бою" key="Combat_BaseEvadeRate_Ranged" isPercentage="true"/>
+<stat id="268436354" name="Вероятность тактического критического удара" key="Combat_EffectCriticalChanceMod" isPercentage="true"/>
+<stat id="268436393" name="к боевому пылу" key="Skill_Pips_CostMod_Trait_Champion_TimeofNeed" type="INTEGER"/>
+<stat id="268436395" name="к перезарядке умений" key="Skill_RecoveryTime_SmoothVoiceDurationRecharge"/>
+<stat id="268436397" name="к вероятности критического урона \qБыстрого выстрела\q" key="Skill_ChanceCriticalHit_Hunter_Stance_Precision" isPercentage="true"/>
+<stat id="268436435" name="к уровню угрозы при нанесении урона" key="ThreatInputModifier_Damage" isPercentage="true"/>
+<stat id="268436447" name="Прекращение движения" key="ForwardSource_ScriptSystem_ActiveMovementBlocked" type="BOOLEAN"/>
+<stat id="268436524" name="к поступающему лечению" key="Mood_Healing_Modifier" isPercentage="true"/>
+<stat id="268436578" name="Текущий комбо-прием" key="ForwardSource_Combat_TraitCombo4" type="ENUM"/>
+<stat id="268436581" name="к смягчению урона Светом" key="Combat_MitigationPercentage_Light" isPercentage="true"/>
+<stat id="268436583" name="Может парировать удар" key="Combat_CanParry" type="BOOLEAN"/>
+<stat id="268436633" name="Улучшенный живительный напев" key="Skill_RecoveryTime_GracefulPowercostReductionandDuration" isPercentage="true"/>
+<stat id="268436634" name="ко времени применения \qБыстрого лука\q" key="Skill_InductionDuration_Trait_Fastpull_2"/>
+<stat id="268436635" name="к шансу критического урона \qЛивня стрел\q" key="Skill_ChanceCriticalHit_Trait_Hunter_HailofArrows" isPercentage="true"/>
+<stat id="268436636" name="к вероятности критического урона дальнего боя" key="Skill_ChanceCriticalHit_RangedMod" isPercentage="true"/>
+<stat id="268436637" name="Удар предвестника" key="Skill_DamageMultiplier_HeraldsHammer" isPercentage="true"/>
+<stat id="268436638" name="Улучшенный грозный клич" key="Trait_Captain_ImprovedRoutingCry" type="ARRAY"/>
+<stat id="268436639" name="Внешность герольда" key="Trait_Captain_ImprovedBannerofHope_AppearanceA" type="ARRAY"/>
+<stat id="268436640" name="Улучшенный штандарт надежды" key="Trait_Captain_ImprovedBannerofHope" type="ARRAY"/>
+<stat id="268436662" name="к сопротивлению тактическому урону" key="Resist_Additional_Resistance_Magic" isPercentage="true"/>
+<stat id="268436663" name="к сопротивлению страху" key="Resist_Additional_Resistance_Fear" isPercentage="true"/>
+<stat id="268436686" name="Увеличивает уровень Терпимости." key="Trait_Virtue_Rank_Tolerant" type="INTEGER"/>
+<stat id="268436706" name="Уровень мастерства в ремесле" key="Craft_Cook_CompletedMasteryLevel" type="INTEGER"/>
+<stat id="268436764" name="к исцелению умений с постепенным эффектом" key="EffectMod_VOT_PerIntervalChangeMult_AddMod1_Trait_Tricks" isPercentage="true"/>
+<stat id="268436789" name="Новые желания" key="AI_Threat_DesireOverride"/>
+<stat id="268436813" name="Комбо урона стража" key="ForwardSource_ComboMode_Guardian_DamageType" type="ENUM"/>
+<stat id="268436815" name="Текущий комбо-прием" key="ForwardSource_Combat_TraitCombo5" type="ENUM"/>
+<stat id="268436816" name="к вероятности промаха" key="Combat_MissChanceModifier" isPercentage="true"/>
+<stat id="268436817" name="к вероятности промаха" key="Combat_BaseMissRate" isPercentage="true"/>
+<stat id="268436861" name="к урону от всех умений" key="Skill_DamageTypeOverride_AllSkillsOverride" type="ENUM"/>
+<stat id="268436862" name="к боевому пылу" key="Skill_Pips_CostMod_Trait_Champion_SwifttoAnger" type="INTEGER"/>
+<stat id="268436863" name="к боевому пылу" key="Skill_Pips_CostMod_Trait_Champion_CheaperBladeStormPips" type="INTEGER"/>
+<stat id="268436864" name="Минимальное количество" key="Skill_Pips_PipMinMod_Trait_LongPull" type="INTEGER"/>
+<stat id="268436865" name="к перезарядке умения" key="Skill_RecoveryTime_Trait_Guardian_improvedthrill"/>
+<stat id="268436866" name="к шансу критического урона" key="Skill_ChanceCriticalHit_Trait_ImprovedAttacks" isPercentage="true"/>
+<stat id="268436867" name="к затратам энергии на тактические умения" key="Skill_VitalCost_MagicMod" isPercentage="true"/>
+<stat id="268436868" name="к расходу боевого духа" key="Skill_VitalCost_Trait_VulgarMagicMoraleCostReduction" isPercentage="true"/>
+<stat id="268436869" name="к затратам энергии на умения Власти" key="Skill_VitalCost_Book_CallNatureMod" isPercentage="true"/>
+<stat id="268436870" name="Талант воителя \qНеистовый воин\q" key="Skill_AdditionalThreat_ChampionWildAttackMod"/>
+<stat id="268436871" name="Модификатор талантов спутника" key="Trait_Loremaster_PetModStat_Slot1" type="DID"/>
+<stat id="268436872" name="Улучшенный штандарт защиты" key="Trait_Captain_ImprovedBannerofDefense" type="ARRAY"/>
+<stat id="268436873" name="Внешность герольда" key="Trait_Captain_ImprovedBannerofHope_AppearanceB" type="ARRAY"/>
+<stat id="268436893" name="к сопротивлению ранам" key="Resist_Additional_Resistance_Wound" isPercentage="true"/>
+<stat id="268436911" name="Реакция на комбо" key="ForwardSource_GameEvent_ConjunctionEventTable" type="DID"/>
+<stat id="268436925" name="к ускорению движения" key="ForwardSource_Movement_AccelerationMultiplier"/>
+<stat id="268436938" name="Уровень умения в ремесле" key="Craft_Forester_CompletedProficiencyLevel" type="INTEGER"/>
+<stat id="268436939" name="Уровень мастерства в ремесле" key="Craft_Weaponsmith_CompletedMasteryLevel" type="INTEGER"/>
+<stat id="268436996" name="к уязвимости в состоянии ярости" key="EffectMod_PropertyMod_Trait_MP_GloryInVictory" isPercentage="true"/>
+<stat id="268437033" name="Неуязвимость к древнему гномьему урону" key="Combat_DamageType_Immunity_AncientDwarf" type="BOOLEAN"/>
+<stat id="268437059" name="к урону от одноручного топора" key="Combat_WeaponDamageMultiplier_1HAxe" isPercentage="true"/>
+<stat id="268437064" name="Скидка у большинства торговцев Эред Луина" key="Discount_Eredluin" isPercentage="true"/>
+<stat id="268437083" name="Использование" key="Usage_Action_Shadow" type="DID"/>
+<stat id="268437109" name="к боевому пылу" key="Skill_Pips_CostMod_Trait_Champion_ImprovedBattleFrenzy" type="INTEGER"/>
+<stat id="268437110" name="к перезарядке \qОтчаянной нужды\q" key="Skill_RecoveryTime_ChampionImprovedDireNeed"/>
+<stat id="268437111" name="к расходу боевого духа на \qМаяк надежды\q" key="Skill_VitalCost_Morale_GiveHopeMod" isPercentage="true"/>
+<stat id="268437112" name="к затратам энергии на \qЗнаки\q" key="Skill_VitalCost_Trait_SignPowerCostReduction" isPercentage="true"/>
+<stat id="268437113" name="к урону от \qБыстрого лука\q" key="Skill_DamageMultiplier_Trait_SwiftandTrue" isPercentage="true"/>
+<stat id="268437114" name="к урону огнем" key="Skill_DamageMultiplier_FireFriendMod" isPercentage="true"/>
+<stat id="268437115" name="Незаметный выстрел" key="Trait_Hunter_StealthyShot" type="ARRAY"/>
+<stat id="268437116" name="Центрирование" key="Trait_Hunter_CenteringSelf" type="ARRAY"/>
+<stat id="268437117" name="Модификатор талантов спутника-2" key="Trait_Loremaster_PetModStat_Slot2" type="DID"/>
+<stat id="268437118" name="Талант \qСложная загадка\q" key="Trait_Burglar_ComplexRiddle" isPercentage="true" type="ARRAY"/>
+<stat id="268437119" name="Улучшенный вдохновляющий клич" key="Trait_Captain_ImprovedRallyingCry" type="ARRAY"/>
+<stat id="268437120" name="Внешность герольда" key="Trait_Captain_ImprovedBannerofHope_AppearanceC" type="ARRAY"/>
 <stat id="268437121" name="Thrill Reaction User Overide" key="Trait_Guardian_ImprovedThrill_ReactionaryOpener" type="ARRAY"/>
-<stat id="268437160" name="Increases the Determination virtue's rank." key="Trait_Virtue_Rank_Determination" type="INTEGER"/>
-<stat id="268437161" name="Increases the Honesty virtue's rank." key="Trait_Virtue_Rank_Honesty" type="INTEGER"/>
-<stat id="268437185" name="Completed Proficiency" key="Craft_Metalsmith_CompletedProficiencyLevel" type="INTEGER"/>
-<stat id="268437238" name="Revive Power Total" key="EffectMod_ModType_RevivePowerMultModifier" isPercentage="true"/>
-<stat id="268437290" name="Bow Damage" key="Combat_WeaponDamageMultiplier_Bow" isPercentage="true"/>
-<stat id="268437328" name="Pip" key="Skill_Pips_CostMod_Trait_ArrowStorm" type="INTEGER"/>
-<stat id="268437329" name="Miss Chance Improvement" key="Skill_ChanceMiss_Trait_LineuptheSights" isPercentage="true"/>
-<stat id="268437330" name="Guardian's Challenge Skill Reset" key="Skill_RecoveryTime_GuardianChallengeMod"/>
-<stat id="268437331" name="Skill Reset Time" key="Skill_RecoveryTime_Trait_Warshot"/>
-<stat id="268437332" name="Critical Chance Modifier for All Strike Skills" key="Skill_ChanceCriticalHit_ChampionStrikesMod" isPercentage="true"/>
-<stat id="268437333" name="Improved Banner of War" key="Trait_Captain_ImprovedBannerofWar" type="ARRAY"/>
-<stat id="268437334" name="Captain Improved Courage Trait" key="Trait_Captain_ImprovedCourage" type="ARRAY"/>
+<stat id="268437160" name="Увеличивает уровень Решимости." key="Trait_Virtue_Rank_Determination" type="INTEGER"/>
+<stat id="268437161" name="Увеличивает уровень Искренности." key="Trait_Virtue_Rank_Honesty" type="INTEGER"/>
+<stat id="268437185" name="Уровень умения в ремесле" key="Craft_Metalsmith_CompletedProficiencyLevel" type="INTEGER"/>
+<stat id="268437238" name="к запасу энергии от максимума" key="EffectMod_ModType_RevivePowerMultModifier" isPercentage="true"/>
+<stat id="268437290" name="к урону от лука" key="Combat_WeaponDamageMultiplier_Bow" isPercentage="true"/>
+<stat id="268437328" name="ед." key="Skill_Pips_CostMod_Trait_ArrowStorm" type="INTEGER"/>
+<stat id="268437329" name="к вероятности промаха" key="Skill_ChanceMiss_Trait_LineuptheSights" isPercentage="true"/>
+<stat id="268437330" name="к перезарядке \qВызова\q" key="Skill_RecoveryTime_GuardianChallengeMod"/>
+<stat id="268437331" name="к перезарядке умений" key="Skill_RecoveryTime_Trait_Warshot"/>
+<stat id="268437332" name="к шансу критического урона умений типа \qУдар\q" key="Skill_ChanceCriticalHit_ChampionStrikesMod" isPercentage="true"/>
+<stat id="268437333" name="Улучшенный штандарт войны" key="Trait_Captain_ImprovedBannerofWar" type="ARRAY"/>
+<stat id="268437334" name="Талант рыцаря - Повышенная доблесть" key="Trait_Captain_ImprovedCourage" type="ARRAY"/>
 <stat id="268437335" name="Heart Reaction User Overide" key="Trait_Guardian_ImprovedHeart_ReactionaryOpener" type="ARRAY"/>
-<stat id="268437369" name="Increases the Merciful virtue's rank." key="Trait_Virtue_Rank_Merciful" type="INTEGER"/>
-<stat id="268437402" name="Completed Mastery" key="Craft_Prospector_CompletedMasteryLevel" type="INTEGER"/>
-<stat id="268437492" name="Shadow Immunity" key="Combat_DamageType_Immunity_Shadow" type="BOOLEAN"/>
-<stat id="268437494" name="Common Immunity" key="Combat_DamageType_Immunity_Common" type="BOOLEAN"/>
-<stat id="268437496" name="Ignore Threat" key="AI_Threat_Suppress" type="BOOLEAN"/>
-<stat id="268437569" name="Skill Reset Time" key="Skill_RecoveryTime_Loremaster_LightofHope"/>
-<stat id="268437570" name="All Enemy Defence Chances" key="Skill_ChanceDefense_AllDefenseMod_Trait_LineuptheSights" isPercentage="true"/>
-<stat id="268437572" name="Induction time of your bow attacks" key="Skill_InductionDuration_Trait_MP_FastBow"/>
-<stat id="268437601" name="Increases the Patience virtue's rank." key="Trait_Virtue_Rank_Patience" type="INTEGER"/>
-<stat id="268437606" name="Combat Immunities" key="CombatState_CurrentStateImmunities" type="BITFIELD"/>
-<stat id="268437610" name="Post-Conjunction Immunity" key="Conjunction_ChainProtectionInterval"/>
-<stat id="268437633" name="Completed Mastery" key="Craft_Jeweller_CompletedMasteryLevel" type="INTEGER"/>
-<stat id="268437647" name="Feigned Death Resist Chance Modifier" key="FeignedDeath_ResistChanceModifier"/>
-<stat id="268437687" name="Stealth Level" key="EffectMod_StealthLevel_Trait_MP_ImprovedStealth" type="INTEGER"/>
-<stat id="268437722" name="Perception Radius" key="AI_PerceptionRadius" isPercentage="true"/>
-<stat id="268437747" name="Current Combo" key="ForwardSource_Combat_CurrentCombo" type="ENUM"/>
-<stat id="268437752" name="Ancient Dwarf Mitigation" key="Combat_MitigationPercentage_AncientDwarf" isPercentage="true"/>
-<stat id="268437755" name="Bree-land Discount" key="Discount_Breeland" isPercentage="true"/>
-<stat id="268437804" name="Quick Shot target effect override" key="Skill_EffectOverride_Hunter_Stance_QuickShot_TargetEffect" type="ARRAY"/>
-<stat id="268437805" name="Max distance of ranged auto-attack" key="Skill_RangedDefaultAttack_MaxRangeMod"/>
-<stat id="268437806" name="Ranged Skill Damage Mitigation Modifier" key="Skill_DamageMitigation_RangedMod" isPercentage="true"/>
-<stat id="268437807" name="Recovery Time for On Your Feet!" key="Skill_RecoveryTime_Trait_MP_OnYourFeet"/>
-<stat id="268437809" name="All Overt Magic Induction Time" key="Skill_InductionDuration_Loremaster_Trait_HarmonyofNature" isPercentage="true"/>
-<stat id="268437810" name="Pulse Modifier" key="Skill_AdditivePulseCountModifierModifier_BurglarGleeMod" type="INTEGER"/>
-<stat id="268437812" name="Threat Modifier" key="Skill_AdditionalThreat_Champion_Trait_Patience"/>
-<stat id="268437813" name="Improved Branching Attack" key="Trait_Champion_ImprovedBranchingAttack" type="ARRAY"/>
-<stat id="268437849" name="Increases the Zeal virtue's rank." key="Trait_Virtue_Rank_Zeal" type="INTEGER"/>
-<stat id="268437884" name="Feigned Death" key="FeignedDeath" type="BOOLEAN"/>
-<stat id="268437931" name="Duration of Field Promotion buff" key="EffectMod_Duration_Trait_MP_FieldPromotion"/>
-<stat id="268438033" name="Pip" key="Skill_Pips_CostMod_Trait_LongPull" type="INTEGER"/>
-<stat id="268438035" name="Critical Buff" key="Skill_ChanceCriticalHit_Trait_EyeforVulnerability" isPercentage="true"/>
-<stat id="268438036" name="Effect Duration" key="Skill_Duration_HarmonicResonanceDurationIncrease"/>
-<stat id="268438037" name="Adds Power Heal to Tricks" key="Trait_Burglar_Trait_TricksHealing" type="ARRAY"/>
-<stat id="268438038" name="Bleeding Vitals" key="Trait_Burglar_BleedingVitals" type="ARRAY"/>
-<stat id="268438039" name="Improved Warcy" key="Trait_Captain_ImprovedWarcry" type="ARRAY"/>
-<stat id="268438040" name="Captain Herald Appearance" key="Trait_Captain_ImprovedBannerofWar_AppearanceA" type="ARRAY"/>
-<stat id="268438077" name="Increases the Innocence virtue's rank." key="Trait_Virtue_Rank_Innocence" type="INTEGER"/>
-<stat id="268438078" name="Increases the Loyalty virtue's rank." key="Trait_Virtue_Rank_Loyalty" type="INTEGER"/>
-<stat id="268438099" name="Completed Proficiency" key="Craft_Woodworker_CompletedProficiencyLevel" type="INTEGER"/>
-<stat id="268438188" name="Beleriand Mitigation" key="Combat_MitigationPercentage_Beleriand" isPercentage="true"/>
-<stat id="268438236" name="Seconds" key="Skill_Pips_Mod_Trait_EnduringPrecision_Seconds"/>
-<stat id="268438237" name="Skill Reset Time" key="Skill_RecoveryTime_BurglarSweepTheKnee"/>
-<stat id="268438238" name="Sting Skill Reset" key="Skill_RecoveryTime_GuardianStingMod"/>
-<stat id="268438239" name="Barbed Arrow induction time" key="Skill_InductionDuration_Trait_Fastpull"/>
-<stat id="268438240" name="Monster Induction Duration Modifier" key="Skill_InductionDuration_MonsterSkillsMod"/>
-<stat id="268438241" name="Parry Response Duration Modifier" key="ForwardSource_Skill_Duration_Trait_Guardian_ImprovedParryResponse"/>
-<stat id="268438242" name="Power Cost" key="Skill_VitalCost_Power_Trait_VoiceofDetermination" isPercentage="true"/>
-<stat id="268438243" name="Anthem Power Cost" key="Skill_VitalCost_SerenadeDefenseMod" isPercentage="true"/>
-<stat id="268438244" name="Power Cost" key="Skill_VitalCost_LifeSingerMod" isPercentage="true"/>
-<stat id="268438247" name="Acts on a Fellowship Maneuver Event" key="Trait_Burglar_FellowshipsFriend_On" type="BOOLEAN"/>
-<stat id="268438248" name="Captain Herald Appearance" key="Trait_Captain_ImprovedBannerofWar_AppearanceB" type="ARRAY"/>
-<stat id="268438316" name="Completed Proficiency" key="Craft_Jeweller_CompletedProficiencyLevel" type="INTEGER"/>
-<stat id="268438365" name="Increase Healing Initial Change" key="EffectMod_VOT_InitialChangeMult_AddMod1_Trait_FellowshipsFriend" isPercentage="true"/>
-<stat id="268438406" name="Melee Immunity" key="Combat_DamageQualifier_Melee_Immunity" type="BOOLEAN"/>
-<stat id="268438422" name="Minimum Usage Distance" key="Usage_MinUsageDist_Shadow"/>
-<stat id="268438448" name="Increased Pulse Duration" key="Skill_AdditivePulseCountModifierModifier_CuttingArrow" isPercentage="true" type="INTEGER"/>
-<stat id="268438449" name="Fellowship Maneuver Morale Healing Multiplier from Conviction" key="Skill_HealingMultiplier_Trait_Race_Conjuction_Conviction" isPercentage="true"/>
-<stat id="268438450" name="Fellowship Maneuver Damage from Might" key="Skill_DamageMultiplier_Trait_Race_Conjuction_Might" isPercentage="true"/>
-<stat id="268438451" name="Deadly Precision" key="Trait_Hunter_DeadlyPrecision" type="ARRAY"/>
-<stat id="268438452" name="Champion Endless Sprint Trait" key="Trait_Champion_EndlessSprint" type="ARRAY"/>
-<stat id="268438453" name="Bleeding Vitals from Stealth" key="Trait_Burglar_BleedingVitals_Stealthed" type="ARRAY"/>
-<stat id="268438454" name="Defiant" key="Trait_Captain_Defiant" type="ARRAY"/>
-<stat id="268438455" name="Captain Herald Appearance" key="Trait_Captain_ImprovedBannerofWar_AppearanceC" type="ARRAY"/>
-<stat id="268438623" name="Test Enchantable Property" key="Skill_AttackHook_TargetEffectList" type="ARRAY"/>
-<stat id="268438634" name="Magic Immunity" key="Combat_DamageQualifier_Magic_Immunity" type="BOOLEAN"/>
-<stat id="268438683" name="Number of Targets" key="Skill_Targets_Trait_Champion_ImprovedBladeStormTargets" type="INTEGER"/>
-<stat id="268438684" name="Fervour Mitigation" key="Skill_Mitigation_Champion_Trait_LineBonus_FervourPenaltyReduction" isPercentage="true"/>
-<stat id="268438685" name="Bleed Pulse Count Increase" key="Skill_Duration_Trait_FellowshipsFriend_CunningAttack" isPercentage="true"/>
-<stat id="268438686" name="Ranged Vital Cost Modifier" key="Skill_VitalCost_RangedMod" isPercentage="true"/>
-<stat id="268438687" name="Melee Vital Cost Modifier" key="Skill_VitalCost_MeleeMod" isPercentage="true"/>
-<stat id="268438688" name="Improved Tracking of Shadow" key="Trait_Hunter_HeightenedSenses_Shadow" type="ARRAY"/>
-<stat id="268438689" name="Shield Attack Critical Chance" key="Item_Guardian_ShieldSpikes_Damage" isPercentage="true"/>
-<stat id="268438735" name="Increases the Compassionate virtue's rank." key="Trait_Virtue_Rank_Compassionate" type="INTEGER"/>
-<stat id="268438736" name="Increases the Fortitude virtue's rank." key="Trait_Virtue_Rank_Fortitude" type="INTEGER"/>
-<stat id="268438830" name="Safe Mode State" key="SafeModeState" type="ENUM"/>
-<stat id="268438881" name="Guardian Shield Damage Increase" key="Guardian_ShieldDamageIncrease" type="ENUM"/>
-<stat id="268438882" name="One-handed Sword Damage" key="Combat_WeaponDamageMultiplier_1HSword" isPercentage="true"/>
-<stat id="268438887" name="Ranged Immunity" key="Combat_DamageQualifier_Ranged_Immunity" type="BOOLEAN"/>
-<stat id="268438940" name="Target's mitigation to this attack" key="Skill_DamageMitigation_Trait_TrueShot" isPercentage="true"/>
-<stat id="268438941" name="Faster Aim Recovery" key="Skill_RecoveryTime_Trait_QuickDraw"/>
-<stat id="268438942" name="Increased Crit Chance" key="Skill_ChanceCriticalHit_Trait_Tricks_StartlingTwist" isPercentage="true"/>
-<stat id="268438944" name="Fellowship Maneuver Damage from Guile" key="Skill_DamageMultiplier_Trait_Race_Conjuction_Guile" isPercentage="true"/>
-<stat id="268438945" name="Bow Shots Gain Power" key="Trait_Hunter_bowoftherighteous" type="ARRAY"/>
-<stat id="268438946" name="Improved Catch Breath" key="Trait_Guardian_ImprovedCatchBreath" type="ARRAY"/>
-<stat id="268438947" name="Reactive Blocks" key="ForwardSource_Trait_Guardian_ReactiveBlocks" type="BOOLEAN"/>
-<stat id="268438948" name="Engergizing Parry" key="ForwardSource_Trait_Guardian_EnergizingParry" type="BOOLEAN"/>
-<stat id="268438982" name="Threat from Healing" key="ThreatInputModifier_Healing" isPercentage="true"/>
-<stat id="268438992" name="Turn Speed Modifier" key="ForwardSource_Movement_TurnSpeedMultiplier"/>
-<stat id="268439066" name="Revive Morale Total" key="EffectMod_ModType_ReviveHealthMultModifier" isPercentage="true"/>
-<stat id="268439103" name="Is AI Active" key="AI_Hints" type="BITFIELD"/>
-<stat id="268439129" name="Lone-lands Discount" key="Discount_Lonelands" isPercentage="true"/>
-<stat id="268439183" name="Skill Reset" key="Skill_RecoveryTime_Trait_WarCaller"/>
-<stat id="268439184" name="Beacon of Hope Induction Time" key="Skill_InductionDuration_Loremaster_Trait_LightofHope"/>
-<stat id="268439185" name="Critical Damage Multiplier for Rain of Arrows" key="Skill_CriticalDamageMultiplier_Trait_Hunter_HailofArrows" isPercentage="true"/>
-<stat id="268439186" name="Critical Chance with Burglar Skills" key="Skill_ChanceCriticalHit_AimMod" isPercentage="true"/>
-<stat id="268439188" name="Area of Effect Skill Damage" key="Skill_DamageMultiplier_ChampionAoeMod" isPercentage="true"/>
-<stat id="268439189" name="Hindering Shot can Root" key="Skill_EffectOverride_Trait_MP_HinderingShotRoot" type="ARRAY"/>
-<stat id="268439216" name="Physical Resistance" key="Resist_Additional_Resistance_Physical" isPercentage="true"/>
-<stat id="268439237" name="Increases the Charity virtue's rank." key="Trait_Virtue_Rank_Charity" type="INTEGER"/>
-<stat id="268439269" name="Completed Proficiency" key="Craft_Scholar_CompletedProficiencyLevel" type="INTEGER"/>
-<stat id="268439270" name="Critical Chance" key="Craft_Forester_CriticalChanceAddModifier" isPercentage="true"/>
-<stat id="268439350" name="Tracking Resource" key="Discovery_Tracking_Resource" type="ENUM"/>
-<stat id="268439365" name="Beleriand Immunity" key="Combat_DamageType_Immunity_Beleriand" type="BOOLEAN"/>
-<stat id="268439366" name="Westernesse Immunity" key="Combat_DamageType_Immunity_Westernesse" type="BOOLEAN"/>
-<stat id="268439396" name="Melee Critical Vulnerability" key="Combat_AttackerCriticalHitChanceAddMod" isPercentage="true"/>
-<stat id="268439397" name="Trollshaws Discount" key="Discount_Trollshaws" isPercentage="true"/>
-<stat id="268439425" name="Allow Secondary Weapon" key="Inventory_AllowSecondaryWeapon" type="BOOLEAN"/>
-<stat id="268439443" name="Fervour" key="Skill_Pips_CostMod_Trait_Champion_ImprovedBladeWall" type="INTEGER"/>
-<stat id="268439444" name="Skill Reset Time" key="Skill_RecoveryTime_Trait_Guardian_ImprovedBlock"/>
-<stat id="268439445" name="Shield Swipe Response Time" key="ForwardSource_Skill_Duration_Trait_Guardian_ImprovedShieldSwipeResponse"/>
-<stat id="268439446" name="Duration Modifier" key="Skill_Duration_Trait_Captain_Defiant"/>
-<stat id="268439447" name="Cries Cost" key="Skill_VitalCost_CriesMod" isPercentage="true"/>
-<stat id="268439448" name="Fellowship Maneuver Power Healing Multiplier from Tactics" key="Skill_PowerMoraleMultiplier_Trait_Race_Conjuction_Tactics" isPercentage="true"/>
-<stat id="268439449" name="Ranged Threat" key="Skill_AdditionalThreat_Hunter_AllRangeSkillsMod"/>
-<stat id="268439450" name="Bow Bane" key="Trait_Burglar_BowBane" type="ARRAY"/>
-<stat id="268439482" name="Increases the Fidelity virtue's rank." key="Trait_Virtue_Rank_Fidelity" type="INTEGER"/>
-<stat id="268439483" name="Increases the Wisdom virtue's rank." key="Trait_Virtue_Rank_Wisdom" type="INTEGER"/>
-<stat id="268439496" name="Stealth Detection" key="Stealth_StealthDetectionLevelModifier" type="INTEGER"/>
-<stat id="268439501" name="Critical Chance" key="Craft_Prospector_CriticalChanceAddModifier" isPercentage="true"/>
-<stat id="268439502" name="Completed Proficiency" key="Craft_Weaponsmith_CompletedProficiencyLevel" type="INTEGER"/>
-<stat id="268439563" name="Experience Modifier" key="XP_AwardMultiplier" isPercentage="true"/>
-<stat id="268439608" name="Hunter Ranged Combo Mode" key="ForwardSource_ComboMode_Hunter_DamageType" type="ENUM"/>
-<stat id="268439614" name="Can Evade" key="Combat_CanEvade" type="BOOLEAN"/>
-<stat id="268439659" name="Number of Targets for AOE Lore Skills" key="Skill_Targets_Trait_AdvancedLore" type="INTEGER"/>
-<stat id="268439660" name="Off-Hand Damage Multiplier" key="Skill_DamageMultiplier_Offhand_Trait_Ambidextrous" isPercentage="true"/>
-<stat id="268439680" name="Disease Resistance" key="Resist_Additional_Resistance_Disease" isPercentage="true"/>
-<stat id="268439728" name="Critical Chance Add Modifier" key="Craft_Farmer_CriticalChanceAddModifier"/>
-<stat id="268439729" name="Completed Proficiency" key="Craft_Farmer_CompletedProficiencyLevel" type="INTEGER"/>
-<stat id="268439731" name="Completed Mastery" key="Craft_Metalsmith_CompletedMasteryLevel" type="INTEGER"/>
-<stat id="268439900" name="Ranged Skill Parry Chance Modifier" key="Skill_ChanceParry_RangedMod" isPercentage="true"/>
-<stat id="268439901" name="Ranged Skill Evade Chance Modifier" key="Skill_ChanceEvade_RangedMod" isPercentage="true"/>
-<stat id="268439902" name="Positional Damage Multiplier" key="Skill_DamageMultiplier_Trait_Stealth_LineBonus" isPercentage="true"/>
-<stat id="268439904" name="Captain Herald Appearance" key="Trait_Captain_ImprovedBannerofDefense_AppearanceA" type="ARRAY"/>
-<stat id="268439955" name="Completed Mastery" key="Craft_Tailor_CompletedMasteryLevel" type="INTEGER"/>
-<stat id="268440059" name="Two-handed Sword Damage" key="Combat_WeaponDamageMultiplier_2HSword" isPercentage="true"/>
-<stat id="268440061" name="Current Trait Combo" key="ForwardSource_Combat_TraitCombo" type="ENUM"/>
-<stat id="268440063" name="Westernesse Mitigation" key="Combat_MitigationPercentage_Westernesse" isPercentage="true"/>
-<stat id="268440065" name="Shire Discount" key="Discount_Shire" isPercentage="true"/>
-<stat id="268440116" name="Burglar Aim Miss Chance Modifier" key="Skill_ChanceMiss_AimMod" isPercentage="true"/>
-<stat id="268440117" name="Target's chance to block your bow attacks" key="Skill_TargetChanceBlock_Trait_MP_PenetratingArrow" isPercentage="true"/>
-<stat id="268440118" name="Pulse Modifier" key="Skill_AdditivePulseCountModifierModifier_Trait_Fellowshipfriend_CunningAttack" type="INTEGER"/>
-<stat id="268440119" name="Quick Shot Detaunt" key="Skill_AdditionalThreat_Hunter_QuickShot"/>
-<stat id="268440120" name="Sturdy Trap: Improved Trap" key="Trait_Hunter_SturdyTrap" type="ARRAY"/>
-<stat id="268440121" name="Improved Wild Attack" key="Trait_Champion_ImprovedWildAttack" type="ARRAY"/>
-<stat id="268440123" name="Captain Herald Appearance" key="Trait_Captain_ImprovedBannerofDefense_AppearanceB" type="ARRAY"/>
-<stat id="268440124" name="Hunter Improved Dual Wield Trait" key="ForwardSource_Trait_Hunter_ImprovedDualWield" type="BOOLEAN"/>
-<stat id="268440125" name="Engergizing Block" key="ForwardSource_Trait_Guardian_EnergizingBlocks" type="BOOLEAN"/>
-<stat id="268440138" name="Appearance" key="ForwardSource_MP_Texture_Body" type="INTEGER"/>
-<stat id="268440166" name="Increases the Just virtue's rank." key="Trait_Virtue_Rank_Just" type="INTEGER"/>
-<stat id="268440167" name="Increases the Empathy virtue's rank." key="Trait_Virtue_Rank_Empathy" type="INTEGER"/>
-<stat id="268440211" name="Completed Mastery" key="Craft_Forester_CompletedMasteryLevel" type="INTEGER"/>
-<stat id="268440220" name="Defeat Immunity" key="Death_ImmuneToDefeat" type="BOOLEAN"/>
-<stat id="268440270" name="Duration of Web debuffs" key="EffectMod_Duration_Trait_MP_SnaringWeb"/>
-<stat id="268440378" name="Fervour Cost Minimum" key="Skill_Pips_CostMod_Trait_Champion_CheaperBladeStormPipsMin" type="INTEGER"/>
-<stat id="268440379" name="Deep Breath Skill Reset" key="Skill_RecoveryTime_GuardianDeepBreathMod"/>
-<stat id="268440380" name="Skill Reset Time" key="Skill_RecoveryTime_Trait_Guardian_ImprovedHeart"/>
-<stat id="268440381" name="Ranged Skill Block Chance Modifier" key="Skill_ChanceBlock_RangedMod" isPercentage="true"/>
-<stat id="268440382" name="Critical Damage Modifier for All Strike Skills" key="Skill_CriticalDamageMultiplier_ChampionStrikesMod" isPercentage="true"/>
-<stat id="268440383" name="Critical Chance" key="Skill_ChanceCriticalHit_Trait_EarlyEnd" isPercentage="true"/>
-<stat id="268440384" name="Raises Duration of Loremaster Cure Effects" key="Skill_Duration_Trait_ProofAgainstIlls" isPercentage="true"/>
-<stat id="268440385" name="Power Cost" key="Skill_VitalCost_Power_Trait_FellowshipsFriend" isPercentage="true"/>
-<stat id="268440386" name="Power Cost" key="Skill_VitalCost_Trait_HealerPowerCostReduction" isPercentage="true"/>
-<stat id="268440387" name="Loremaster Sign of Power Cost" key="Skill_VitalCost_Book_SigilDunedainMod" isPercentage="true"/>
-<stat id="268440388" name="Ballad Power Cost" key="Skill_VitalCost_SerenadeOffenseMod" isPercentage="true"/>
-<stat id="268440389" name="Damage Increase" key="Skill_DamageMultiplier_Trait_ImprovedRoutingCry" isPercentage="true"/>
-<stat id="268440390" name="Damage Multiplier to Sting Damage" key="Skill_DamageMultiplier_GuardianStingMod" isPercentage="true"/>
-<stat id="268440391" name="Jagged Cut will sometimes cause damage over time" key="Skill_EffectOverride_Trait_MP_JaggedCutDOT" type="ARRAY"/>
-<stat id="268440392" name="Patience" key="Trait_Champion_Patience" type="ARRAY"/>
-<stat id="268440393" name="Captain Herald Appearance" key="Trait_Captain_ImprovedBannerofDefense_AppearanceC" type="ARRAY"/>
-<stat id="268440419" name="Poison Resistance" key="Resist_Additional_Resistance_Poison" isPercentage="true"/>
-<stat id="268440448" name="Increases the Discipline virtue's rank." key="Trait_Virtue_Rank_Discipline" type="INTEGER"/>
-<stat id="268440449" name="Increases the Honour virtue's rank." key="Trait_Virtue_Rank_Honour" type="INTEGER"/>
-<stat id="268440525" name="Damage dealt by Tainted Bite's poison" key="EffectMod_DamageMultiplier_Trait_MP_StrongPoison" isPercentage="true"/>
-<stat id="268440569" name="Fire Immunity" key="Combat_DamageType_Immunity_Fire" type="BOOLEAN"/>
-<stat id="268440594" name="Two-handed Club Damage" key="Combat_WeaponDamageMultiplier_2HClub" isPercentage="true"/>
-<stat id="268440642" name="Recovery Time for Devastating Strike" key="Skill_RecoveryTime_Trait_MP_DevastatingStrike"/>
-<stat id="268440643" name="Song Skill Recharge" key="Skill_RecoveryTime_HarmonizerDurationRecharge"/>
-<stat id="268440645" name="Chance to Critical when attacking from Stealth" key="Skill_ChanceCriticalHit_Trait_MP_FromStealth" isPercentage="true"/>
-<stat id="268440646" name="Effect Duration" key="Skill_Duration_EmpoweredAnthemDurationIncrease"/>
-<stat id="268440647" name="Power Cost" key="Skill_VitalCost_Trait_VulgarMagicPowerCostReduction" isPercentage="true"/>
-<stat id="268440648" name="Damage dealt by Piercing Attack" key="Skill_DamageMultiplier_Trait_MP_PiercingAttack" isPercentage="true"/>
-<stat id="268440649" name="Threat Modifier" key="Skill_AdditionalThreat_subtlecommand"/>
-<stat id="268440650" name="Threat" key="Skill_AdditionalThreat_AllSkillsMod"/>
-<stat id="268440651" name="Improved Tracking of Nature" key="Trait_Hunter_HeightenedSenses_Nature" type="ARRAY"/>
-<stat id="268440652" name="Applies Tricks Improvements" key="Trait_Burglar_FellowshipsFriend" type="ARRAY"/>
-<stat id="268440653" name="Improved Guardian's Ward" key="Trait_Guardian_ImprovedWard" type="ARRAY"/>
-<stat id="268440667" name="Song Resistance" key="Resist_Additional_Resistance_Song" isPercentage="true"/>
-<stat id="268440685" name="Increases the Confidence virtue's rank." key="Trait_Virtue_Rank_Confidence" type="INTEGER"/>
-<stat id="268440702" name="Completed Proficiency" key="Craft_Tailor_CompletedProficiencyLevel" type="INTEGER"/>
-<stat id="268440768" name="Movement Speed while stealthed" key="EffectMod_MovementSpeed_Trait_MP_ImprovedStealth" isPercentage="true"/>
-<stat id="268440777" name="Not Attackable" key="Combat_NotAttackable" isPercentage="true" type="BOOLEAN"/>
-<stat id="268440802" name="Is AI Active" key="AI_Active" type="BOOLEAN"/>
-<stat id="268440804" name="Threat Mod Table Override" key="AI_ThreatModTable" type="DID"/>
-<stat id="268440829" name="Captain Herald Appearance Combo Mode" key="ForwardSource_ComboMode_Captain_HeraldAppearance" type="ENUM"/>
-<stat id="268440831" name="Armour Value" key="Combat_Agent_Armor_Value" type="INTEGER"/>
-<stat id="268440885" name="Bringing back fellows from defeat induction" key="Skill_InductionDuration_Minstrel_Trait_RezInduction"/>
-<stat id="268440889" name="Is Combat Movement Interruptable" key="AI_CombatMovementInterruptable" type="BOOLEAN"/>
-<stat id="268441081" name="Auto-attack Critical Hit Chance" key="Skill_DaggerAutoAttackCriticalHitChance" isPercentage="true"/>
-<stat id="268441090" name="Damage dealt" key="EffectMod_DamageMultiplier_Characteristic_MP_Damage" isPercentage="true"/>
-<stat id="268441154" name="Melee Skill Power Cost" key="Skill_VitalCost_Power_Overdrive" isPercentage="true"/>
-<stat id="268441155" name="Damage Multiplier" key="Skill_DamageMultiplier_Overdrive" isPercentage="true"/>
-<stat id="268441211" name="Combat-only Effect Removal Delay" key="Effect_CombatOnlyRemovalDelay_AddMod"/>
-<stat id="268441224" name="Tactical Critical Vulnerability" key="Combat_AttackerMagicCriticalHitChanceAddMod" isPercentage="true"/>
-<stat id="268441226" name="Ranged Critical Vulnerability" key="Combat_AttackerRangedCriticalHitChanceAddMod" isPercentage="true"/>
-<stat id="268441250" name="Healing Output Increase" key="Skill_HealingMultiplier_Item" isPercentage="true"/>
-<stat id="268441251" name="Threat Reduction for Healing" key="Skill_AdditionalThreat_Minstrel_Item_LuteStrings" isPercentage="true"/>
-<stat id="268441332" name="All Captain's Cry Skill Reset" key="Skill_RecoveryTime_CrySkills"/>
-<stat id="268441333" name="Swiftbow Cooldown" key="Skill_RecoveryTime_Item_Swiftbow"/>
-<stat id="268441334" name="Penetrating Shot Cooldown" key="Skill_RecoveryTime_Item_PenetratingShot"/>
-<stat id="268441335" name="Guardian's Challenge the Darkness Skill Reset" key="Skill_RecoveryTime_GuardianChallengeTheDarknessMod"/>
-<stat id="268441336" name="Captain's Escape from Darkness Cooldown" key="Skill_RecoveryTime_EscapefromDarkness"/>
-<stat id="268441337" name="Blinding Flash Resistance" key="Skill_ResistanceChance_Loremaster_BlindingFlash"/>
-<stat id="268441483" name="Max distance of ranged skills" key="Skill_RangedAttack_MaxRangeMod"/>
-<stat id="268441489" name="Share Tracked Target" key="Fellowship_SharedTracking_Trait" type="BOOLEAN"/>
-<stat id="268441535" name="Allow Heralds" key="AI_Pet_Enable_HeraldsPetChannel" type="BOOLEAN"/>
-<stat id="268441536" name="Allow Banner Standards" key="AI_Pet_Enable_BannerStandardsPetChannel" type="BOOLEAN"/>
-<stat id="268441644" name="Override for herald pet effects" key="AI_PetEffect_HeraldBaseWC_Override" type="DID"/>
-<stat id="268441646" name="Fellowship Maneuver Damage from Guile" key="ForwardSource_ComboMode_Captain_Herald_Improved" type="ENUM"/>
-<stat id="268441647" name="Out of Combat Run Speed" key="Movement_OutOfCombat_Speed_AddMod" isPercentage="true"/>
-<stat id="268441648" name="in-Combat Run Speed" key="Movement_InCombat_Speed_AddMod" isPercentage="true"/>
-<stat id="268441669" name="Melee Weapon Proc Effect" key="Combat_MeleeDmgQualifier_WeaponProcEffect" type="DID"/>
-<stat id="268441670" name="Ranged Weapon Proc Effect" key="Combat_RangedDmgQualifier_WeaponProcEffect" type="DID"/>
-<stat id="268441671" name="Tactical Weapon Proc Effect" key="Combat_TacticalDmgQualifier_WeaponProcEffect" type="DID"/>
-<stat id="268441673" name="Override for victory herald pet effects" key="AI_PetEffect_HeraldVictoryWC_Override" type="DID"/>
-<stat id="268441674" name="Override for hope herald pet effects" key="AI_PetEffect_HeraldHopeWC_Override" type="DID"/>
-<stat id="268441829" name="Improved Standard of War" key="Trait_Captain_ImprovedStandardofWar" type="ARRAY"/>
-<stat id="268441830" name="Improved Standard of Defence" key="Trait_Captain_ImprovedStandardofDefense" type="ARRAY"/>
-<stat id="268441831" name="Improved Standard of Hope" key="Trait_Captain_ImprovedStandardofHope" type="ARRAY"/>
-<stat id="268441927" name="Captain's Escape Skills Induction Time" key="Skill_InductionDuration_Captain_CombatRezz"/>
-<stat id="268441958" name="Cry of Vengeance Max Targets" key="Skill_Targets_Trait_Captain_CryOfVengeanceTargets" type="INTEGER"/>
-<stat id="268441968" name="Position Surprise Strike from Stealth" key="Skill_DamageMultiplier_EpicSet_Stealth_Suprisestrike" isPercentage="true"/>
-<stat id="268441969" name="Challenge Resistance" key="EpicSet_ResistanceChance_Guardian_Challenge"/>
-<stat id="268441970" name="Skill Reset Time" key="Skill_RecoveryTime_Loremaster_TestofWill"/>
-<stat id="268441971" name="Bracing Attack Avoided Chance Modifier" key="EpicSet_ChanceAvoid_BracingAttack" isPercentage="true"/>
-<stat id="268442009" name="Rift Armour Fire Absorption" key="Skill_RiftSet_Absorb_Fire" isPercentage="true"/>
-<stat id="268442021" name="Captain's Escape Skills Induction Time" key="Skill_RiftSet_InductionDuration_Captain_CombatRezz"/>
-<stat id="268442022" name="Power Cost of Catch A Breath" key="Skill_CatchBreath_Guardian_PowerCost" isPercentage="true"/>
-<stat id="268442023" name="Glory Damage" key="Skill_Glory_Champion_Damage" isPercentage="true"/>
-<stat id="268442024" name="Critical Damage with Cunning Strike" key="Skill_CunningStrike_Burglar_CriticalDamage" isPercentage="true"/>
-<stat id="268442025" name="Glory Threat" key="Skill_Glory_Champion_Threat" isPercentage="true"/>
-<stat id="268442040" name="Heart Seeker Power Cost" key="Skill_HeartSeeker_Hunter_PowerCost" isPercentage="true"/>
-<stat id="268442041" name="Penetrating Shot Power Cost" key="Skill_PenetratingShot_Hunter_PowerCost" isPercentage="true"/>
-<stat id="268442042" name="Triumphant Spirit Threat" key="Skill_TriumphantSpirit_Minstrel_Threat" isPercentage="true"/>
-<stat id="268442046" name="Gift of the Hammerhand Fire Protection" key="Skill_GiftHammerhand_Minstrel_FireProtect" type="ARRAY"/>
-<stat id="268442048" name="Search Speed" key="Item_InductionDuration_Burglar_Looting" isPercentage="true"/>
-<stat id="268442065" name="Words of Power Damage Increase" key="Skill_Minstrel_Warspeech_Damage" isPercentage="true"/>
-<stat id="268442066" name="Words of Power Usage Cost Increase" key="Skill_Minstrel_Warspeech_Power" isPercentage="true"/>
-<stat id="268442067" name="Chant of the Oathbreaker damage type" key="Item_Minstrel_Oathbreaker_Damagetype" type="ENUM"/>
-<stat id="268442120" name="Current Trait Combo" key="ForwardSource_Combat_TraitCombo6" type="ENUM"/>
-<stat id="268442247" name="Override for Bear Loremaster APR pet effects" key="AI_PetEffect_LoremasterBearWC_Override" type="DID"/>
-<stat id="268442248" name="Override for Loremaster Raven APR pet effects" key="AI_PetEffect_LoremasterRavenWC_Override" type="DID"/>
-<stat id="268442249" name="Override for Eagle Loremaster APR pet effects" key="AI_PetEffect_LoremasterEagleWC_Override" type="DID"/>
-<stat id="268442250" name="Override for Lynx Loremaster APR pet effects" key="AI_PetEffect_LoremasterLynxWC_Override" type="DID"/>
-<stat id="268442264" name="Critical chance of piercing cry" key="Skill_ChanceCriticalHit_Minstrel_Warspeech" isPercentage="true"/>
-<stat id="268442283" name="Rift Armour Shadow Absorption" key="Skill_RiftSet_Absorb_Shadow" isPercentage="true"/>
-<stat id="268442296" name="Hovering" key="ForwardSource_ScriptSystem_IsHovering" type="BOOLEAN"/>
-<stat id="268442338" name="Test Pet Effect Aura Override" key="AI_PetEffect_AuraOverrideTest" type="ARRAY"/>
-<stat id="268442363" name="Gift of the Hammerhand Shadow Protection" key="Skill_GiftHammerhand_Minstrel_ShadowProtect" type="ARRAY"/>
-<stat id="268442368" name="Storm-lore Cooldown" key="Skill_RecoveryTime_Stormlore"/>
-<stat id="268442369" name="Lightning Storm Power Cost" key="Skill_LightningBurst_LoreMaster_PowerCost" isPercentage="true"/>
-<stat id="268442381" name="Camera X Offset" key="ForwardSource_Entity_Camera_LookAt_OffsetX"/>
-<stat id="268442382" name="Camera Y Offset" key="ForwardSource_Entity_Camera_LookAt_OffsetY"/>
-<stat id="268442383" name="Camera Z Offset" key="ForwardSource_Entity_Camera_LookAt_OffsetZ"/>
-<stat id="268442391" name="Current Trait Combo" key="ForwardSource_Combat_TraitCombo7" type="ENUM"/>
-<stat id="268442396" name="Rift Armour Pet Upgrade" key="AI_PetEffect_AuraOverride_Rift_Banner_Defense" type="ARRAY"/>
-<stat id="268442397" name="Rift Armour Pet Upgrade" key="AI_PetEffect_AuraOverride_Rift_Herald_Defense_Improved" type="ARRAY"/>
-<stat id="268442398" name="Rift Armour Pet Upgrade" key="AI_PetEffect_AuraOverride_Rift_Banner_Defense_Improved" type="ARRAY"/>
-<stat id="268442399" name="Rift Armour Pet Upgrade" key="AI_PetEffect_AuraOverride_Rift_Banner_War" type="ARRAY"/>
-<stat id="268442400" name="Rift Armour Pet Upgrade" key="AI_PetEffect_AuraOverride_Rift_Banner_War_Improved" type="ARRAY"/>
-<stat id="268442401" name="Rift Armour Pet Upgrade" key="AI_PetEffect_AuraOverride_Rift_Banner_Hope" type="ARRAY"/>
-<stat id="268442402" name="Rift Armour Pet Upgrade" key="AI_PetEffect_AuraOverride_Rift_Herald_Defense" type="ARRAY"/>
-<stat id="268442403" name="Rift Armour Pet Upgrade" key="AI_PetEffect_AuraOverride_Rift_Herald_War_Improved" type="ARRAY"/>
-<stat id="268442404" name="Rift Armour Pet Upgrade" key="AI_PetEffect_AuraOverride_Rift_Herald_Hope" type="ARRAY"/>
-<stat id="268442405" name="Rift Armour Pet Upgrade" key="AI_PetEffect_AuraOverride_Rift_Herald_Hope_Improved" type="ARRAY"/>
-<stat id="268442406" name="Rift Armour Pet Upgrade" key="AI_PetEffect_AuraOverride_Rift_Banner_Hope_Improved" type="ARRAY"/>
-<stat id="268442407" name="Rift Armour Pet Upgrade" key="AI_PetEffect_AuraOverride_Rift_Herald_War" type="ARRAY"/>
-<stat id="268442419" name="Storm-lore power cost" key="Skill_PowerCost_Stormlore" isPercentage="true"/>
-<stat id="268442420" name="Lightning Storm Recovery Time" key="Skill_LightningBurst_LoreMaster_RecoveryTime"/>
-<stat id="268442467" name="Ered Luin Homestead Discount" key="Discount_Housing_Eredluin" isPercentage="true"/>
-<stat id="268442468" name="Bree-land Homestead Discount" key="Discount_Housing_Breeland" isPercentage="true"/>
-<stat id="268442469" name="Rivendell Homestead Discount" key="Discount_Housing_Rivendell" isPercentage="true"/>
-<stat id="268442470" name="Shire Homestead Discount" key="Discount_Housing_Shire" isPercentage="true"/>
-<stat id="268442486" name="Song Skill Recharge" key="Skill_RecoveryTime_SilverTongue_SongofSoothing"/>
-<stat id="268442487" name="Song Skill Recharge" key="Skill_RecoveryTime_SilverTongue_SongofDistraction"/>
-<stat id="268442488" name="Song Skill Recharge" key="Skill_RecoveryTime_SilverTongue_SongofRestoration"/>
-<stat id="268442489" name="Rally Skill Recharger" key="Skill_RecoveryTime_Graceful_Rally"/>
-<stat id="268442490" name="Song Skill Recharge" key="Skill_RecoveryTime_SilverTongue_SongofAid"/>
-<stat id="268442491" name="Song Skill Recharge" key="Skill_RecoveryTime_SilverTongue_SongoftheDead"/>
+<stat id="268437369" name="Увеличивает уровень Милости." key="Trait_Virtue_Rank_Merciful" type="INTEGER"/>
+<stat id="268437402" name="Уровень мастерства в ремесле" key="Craft_Prospector_CompletedMasteryLevel" type="INTEGER"/>
+<stat id="268437492" name="Неуязвимость к Тьме" key="Combat_DamageType_Immunity_Shadow" type="BOOLEAN"/>
+<stat id="268437494" name="Неуязвимость к обычному урону" key="Combat_DamageType_Immunity_Common" type="BOOLEAN"/>
+<stat id="268437496" name="Игнорировать угрозу" key="AI_Threat_Suppress" type="BOOLEAN"/>
+<stat id="268437569" name="к перезарядке умения" key="Skill_RecoveryTime_Loremaster_LightofHope"/>
+<stat id="268437570" name="к вероятности защиты для всех противников" key="Skill_ChanceDefense_AllDefenseMod_Trait_LineuptheSights" isPercentage="true"/>
+<stat id="268437572" name="к скорости применения стрелковых умений" key="Skill_InductionDuration_Trait_MP_FastBow"/>
+<stat id="268437601" name="Увеличивает уровень Терпения." key="Trait_Virtue_Rank_Patience" type="INTEGER"/>
+<stat id="268437606" name="Боевая неуязвимость" key="CombatState_CurrentStateImmunities" type="BITFIELD"/>
+<stat id="268437610" name="Неуязвимость после комбо" key="Conjunction_ChainProtectionInterval"/>
+<stat id="268437633" name="Уровень мастерства в ремесле" key="Craft_Jeweller_CompletedMasteryLevel" type="INTEGER"/>
+<stat id="268437647" name="к сопротивлению Притворной смерти" key="FeignedDeath_ResistChanceModifier"/>
+<stat id="268437687" name="к уровню скрытности" key="EffectMod_StealthLevel_Trait_MP_ImprovedStealth" type="INTEGER"/>
+<stat id="268437722" name="к радиусу восприятия" key="AI_PerceptionRadius" isPercentage="true"/>
+<stat id="268437747" name="Текущий комбо-прием" key="ForwardSource_Combat_CurrentCombo" type="ENUM"/>
+<stat id="268437752" name="к смягчению урона древнего гномьего типа" key="Combat_MitigationPercentage_AncientDwarf" isPercentage="true"/>
+<stat id="268437755" name="Скидка у большинства торговцев земель Бри" key="Discount_Breeland" isPercentage="true"/>
+<stat id="268437804" name="Снятие эффекта с цели \qБыстрым выстрелом\q" key="Skill_EffectOverride_Hunter_Stance_QuickShot_TargetEffect" type="ARRAY"/>
+<stat id="268437805" name="к максимальному расстоянию для автоатак дальнего боя" key="Skill_RangedDefaultAttack_MaxRangeMod"/>
+<stat id="268437806" name="к смягчению урона дальнего боя" key="Skill_DamageMitigation_RangedMod" isPercentage="true"/>
+<stat id="268437807" name="к перезарядке умения \qПодъем!\q" key="Skill_RecoveryTime_Trait_MP_OnYourFeet"/>
+<stat id="268437809" name="ко времени применения тактических умений" key="Skill_InductionDuration_Loremaster_Trait_HarmonyofNature" isPercentage="true"/>
+<stat id="268437810" name="к числу срабатываний" key="Skill_AdditivePulseCountModifierModifier_BurglarGleeMod" type="INTEGER"/>
+<stat id="268437812" name="к угрозе" key="Skill_AdditionalThreat_Champion_Trait_Patience"/>
+<stat id="268437813" name="Улучшенный стойкий удар" key="Trait_Champion_ImprovedBranchingAttack" type="ARRAY"/>
+<stat id="268437849" name="Увеличивает уровень Рвения." key="Trait_Virtue_Rank_Zeal" type="INTEGER"/>
+<stat id="268437884" name="Притворная смерть" key="FeignedDeath" type="BOOLEAN"/>
+<stat id="268437931" name="к длительности эффекта \qПомощь в бою\q" key="EffectMod_Duration_Trait_MP_FieldPromotion"/>
+<stat id="268438033" name="ед." key="Skill_Pips_CostMod_Trait_LongPull" type="INTEGER"/>
+<stat id="268438035" name="к шансу критического эффекта" key="Skill_ChanceCriticalHit_Trait_EyeforVulnerability" isPercentage="true"/>
+<stat id="268438036" name="к длительности эффекта" key="Skill_Duration_HarmonicResonanceDurationIncrease"/>
+<stat id="268438037" name="Уловки восстанавливают энергию" key="Trait_Burglar_Trait_TricksHealing" type="ARRAY"/>
+<stat id="268438038" name="Кровоточащие раны" key="Trait_Burglar_BleedingVitals" type="ARRAY"/>
+<stat id="268438039" name="Улучшенный воинственный клич" key="Trait_Captain_ImprovedWarcry" type="ARRAY"/>
+<stat id="268438040" name="Внешность герольда" key="Trait_Captain_ImprovedBannerofWar_AppearanceA" type="ARRAY"/>
+<stat id="268438077" name="Увеличивает уровень Чистоты." key="Trait_Virtue_Rank_Innocence" type="INTEGER"/>
+<stat id="268438078" name="Увеличивает уровень Верности." key="Trait_Virtue_Rank_Loyalty" type="INTEGER"/>
+<stat id="268438099" name="Уровень умения в ремесле" key="Craft_Woodworker_CompletedProficiencyLevel" type="INTEGER"/>
+<stat id="268438188" name="к смягчению белериандского урона" key="Combat_MitigationPercentage_Beleriand" isPercentage="true"/>
+<stat id="268438236" name="сек." key="Skill_Pips_Mod_Trait_EnduringPrecision_Seconds"/>
+<stat id="268438237" name="к перезарядке умения" key="Skill_RecoveryTime_BurglarSweepTheKnee"/>
+<stat id="268438238" name="к перезарядке \qУкола\q" key="Skill_RecoveryTime_GuardianStingMod"/>
+<stat id="268438239" name="ко времени применения \qЗазубренной стрелы\q" key="Skill_InductionDuration_Trait_Fastpull"/>
+<stat id="268438240" name="ко времени применения умений целью" key="Skill_InductionDuration_MonsterSkillsMod"/>
+<stat id="268438241" name="к длительности \qЭха парирования\q" key="ForwardSource_Skill_Duration_Trait_Guardian_ImprovedParryResponse"/>
+<stat id="268438242" name="к расходу энергии" key="Skill_VitalCost_Power_Trait_VoiceofDetermination" isPercentage="true"/>
+<stat id="268438243" name="к расходу энергии на гимны" key="Skill_VitalCost_SerenadeDefenseMod" isPercentage="true"/>
+<stat id="268438244" name="к расходу энергии" key="Skill_VitalCost_LifeSingerMod" isPercentage="true"/>
+<stat id="268438247" name="Делает доступным \qПолное превосходство\q" key="Trait_Burglar_FellowshipsFriend_On" type="BOOLEAN"/>
+<stat id="268438248" name="Внешность герольда" key="Trait_Captain_ImprovedBannerofWar_AppearanceB" type="ARRAY"/>
+<stat id="268438316" name="Уровень умения в ремесле" key="Craft_Jeweller_CompletedProficiencyLevel" type="INTEGER"/>
+<stat id="268438365" name="к мгновенному эффекту лечения" key="EffectMod_VOT_InitialChangeMult_AddMod1_Trait_FellowshipsFriend" isPercentage="true"/>
+<stat id="268438406" name="Неуязвимость к атакам ближнего боя" key="Combat_DamageQualifier_Melee_Immunity" type="BOOLEAN"/>
+<stat id="268438422" name="к минимальному расстоянию применения" key="Usage_MinUsageDist_Shadow"/>
+<stat id="268438448" name="к увеличению длительности" key="Skill_AdditivePulseCountModifierModifier_CuttingArrow" isPercentage="true" type="INTEGER"/>
+<stat id="268438449" name="к восстановлению боевого духа от комбо-приемов убеждения" key="Skill_HealingMultiplier_Trait_Race_Conjuction_Conviction" isPercentage="true"/>
+<stat id="268438450" name="к урону от комбо-приема \qСила\q" key="Skill_DamageMultiplier_Trait_Race_Conjuction_Might" isPercentage="true"/>
+<stat id="268438451" name="Смертоносная меткость" key="Trait_Hunter_DeadlyPrecision" type="ARRAY"/>
+<stat id="268438452" name="Талант воителя - Бесконечный бег" key="Trait_Champion_EndlessSprint" type="ARRAY"/>
+<stat id="268438453" name="к нанесению кровоточащих ран из режима скрытности" key="Trait_Burglar_BleedingVitals_Stealthed" type="ARRAY"/>
+<stat id="268438454" name="Вызов судьбе" key="Trait_Captain_Defiant" type="ARRAY"/>
+<stat id="268438455" name="Внешность герольда" key="Trait_Captain_ImprovedBannerofWar_AppearanceC" type="ARRAY"/>
+<stat id="268438623" name="Проверить магическое свойство" key="Skill_AttackHook_TargetEffectList" type="ARRAY"/>
+<stat id="268438634" name="Неуязвимость к тактическим умениям" key="Combat_DamageQualifier_Magic_Immunity" type="BOOLEAN"/>
+<stat id="268438683" name="к количеству целей" key="Skill_Targets_Trait_Champion_ImprovedBladeStormTargets" type="INTEGER"/>
+<stat id="268438684" name="к смягчению за счет боевого пыла" key="Skill_Mitigation_Champion_Trait_LineBonus_FervourPenaltyReduction" isPercentage="true"/>
+<stat id="268438685" name="к длительности кровотечения" key="Skill_Duration_Trait_FellowshipsFriend_CunningAttack" isPercentage="true"/>
+<stat id="268438686" name="к затратам на умения дальнего боя" key="Skill_VitalCost_RangedMod" isPercentage="true"/>
+<stat id="268438687" name="к затратам энергии на умения ближнего боя" key="Skill_VitalCost_MeleeMod" isPercentage="true"/>
+<stat id="268438688" name="Улучшенное выслеживание слуг тьмы" key="Trait_Hunter_HeightenedSenses_Shadow" type="ARRAY"/>
+<stat id="268438689" name="к шансу критического эффекта атаки со щитом" key="Item_Guardian_ShieldSpikes_Damage" isPercentage="true"/>
+<stat id="268438735" name="Увеличивает уровень Сострадания." key="Trait_Virtue_Rank_Compassionate" type="INTEGER"/>
+<stat id="268438736" name="Увеличивает уровень Крепости." key="Trait_Virtue_Rank_Fortitude" type="INTEGER"/>
+<stat id="268438830" name="Безопасный режим" key="SafeModeState" type="ENUM"/>
+<stat id="268438881" name="Повышение урона от ударов щитом" key="Guardian_ShieldDamageIncrease" type="ENUM"/>
+<stat id="268438882" name="к урону от одноручного меча" key="Combat_WeaponDamageMultiplier_1HSword" isPercentage="true"/>
+<stat id="268438887" name="Неуязвимость к атакам дальнего боя" key="Combat_DamageQualifier_Ranged_Immunity" type="BOOLEAN"/>
+<stat id="268438940" name="к показателю смягчения урона от этой атаки" key="Skill_DamageMitigation_Trait_TrueShot" isPercentage="true"/>
+<stat id="268438941" name="к перезарядке \qПрицеливания\q" key="Skill_RecoveryTime_Trait_QuickDraw"/>
+<stat id="268438942" name="к шансу критического урона" key="Skill_ChanceCriticalHit_Trait_Tricks_StartlingTwist" isPercentage="true"/>
+<stat id="268438944" name="к урону от комбо-приема \qКоварство\q" key="Skill_DamageMultiplier_Trait_Race_Conjuction_Guile" isPercentage="true"/>
+<stat id="268438945" name="к восстановлению энергии выстрелами" key="Trait_Hunter_bowoftherighteous" type="ARRAY"/>
+<stat id="268438946" name="Улучшенная передышка" key="Trait_Guardian_ImprovedCatchBreath" type="ARRAY"/>
+<stat id="268438947" name="Агрессивное блокирование" key="ForwardSource_Trait_Guardian_ReactiveBlocks" type="BOOLEAN"/>
+<stat id="268438948" name="Бодрящее парирование" key="ForwardSource_Trait_Guardian_EnergizingParry" type="BOOLEAN"/>
+<stat id="268438982" name="к угрозе при лечении" key="ThreatInputModifier_Healing" isPercentage="true"/>
+<stat id="268438992" name="к скорости поворота" key="ForwardSource_Movement_TurnSpeedMultiplier"/>
+<stat id="268439066" name="к запасу боевого духа от максимума" key="EffectMod_ModType_ReviveHealthMultModifier" isPercentage="true"/>
+<stat id="268439103" name="Включен ли ИИ" key="AI_Hints" type="BITFIELD"/>
+<stat id="268439129" name="Скидка у большинства торговцев Пустошей" key="Discount_Lonelands" isPercentage="true"/>
+<stat id="268439183" name="к перезарядке" key="Skill_RecoveryTime_Trait_WarCaller"/>
+<stat id="268439184" name="ко времени применения \qМаяка надежды\q" key="Skill_InductionDuration_Loremaster_Trait_LightofHope"/>
+<stat id="268439185" name="к критическому урону \qЛивня стрел\q" key="Skill_CriticalDamageMultiplier_Trait_Hunter_HailofArrows" isPercentage="true"/>
+<stat id="268439186" name="к вероятности критического эффекта умений взломщика" key="Skill_ChanceCriticalHit_AimMod" isPercentage="true"/>
+<stat id="268439188" name="к урону умений с действием на область" key="Skill_DamageMultiplier_ChampionAoeMod" isPercentage="true"/>
+<stat id="268439189" name="Замедляющий выстрел может пригвоздить цель к земле" key="Skill_EffectOverride_Trait_MP_HinderingShotRoot" type="ARRAY"/>
+<stat id="268439216" name="к сопротивлению физическому урону" key="Resist_Additional_Resistance_Physical" isPercentage="true"/>
+<stat id="268439237" name="Увеличивает уровень Милосердия." key="Trait_Virtue_Rank_Charity" type="INTEGER"/>
+<stat id="268439269" name="Уровень умения в ремесле" key="Craft_Scholar_CompletedProficiencyLevel" type="INTEGER"/>
+<stat id="268439270" name="к шансу критического успеха" key="Craft_Forester_CriticalChanceAddModifier" isPercentage="true"/>
+<stat id="268439350" name="Поиск ресурсов" key="Discovery_Tracking_Resource" type="ENUM"/>
+<stat id="268439365" name="Неуязвимость к белериандскому урону" key="Combat_DamageType_Immunity_Beleriand" type="BOOLEAN"/>
+<stat id="268439366" name="Неуязвимость к нуменорскому урону" key="Combat_DamageType_Immunity_Westernesse" type="BOOLEAN"/>
+<stat id="268439396" name="к шансу получения крит. урона в ближнем бою" key="Combat_AttackerCriticalHitChanceAddMod" isPercentage="true"/>
+<stat id="268439397" name="Скидка у большинства торговцев Троллистой пущи" key="Discount_Trollshaws" isPercentage="true"/>
+<stat id="268439425" name="Разрешить дополнительное оружие" key="Inventory_AllowSecondaryWeapon" type="BOOLEAN"/>
+<stat id="268439443" name="к боевому пылу" key="Skill_Pips_CostMod_Trait_Champion_ImprovedBladeWall" type="INTEGER"/>
+<stat id="268439444" name="к перезарядке умения" key="Skill_RecoveryTime_Trait_Guardian_ImprovedBlock"/>
+<stat id="268439445" name="к длительности \qЭха щита и меча\q" key="ForwardSource_Skill_Duration_Trait_Guardian_ImprovedShieldSwipeResponse"/>
+<stat id="268439446" name="к длительности" key="Skill_Duration_Trait_Captain_Defiant"/>
+<stat id="268439447" name="к затратам энергии на кличи" key="Skill_VitalCost_CriesMod" isPercentage="true"/>
+<stat id="268439448" name="к восстановлению энергии от тактических комбо-приемов" key="Skill_PowerMoraleMultiplier_Trait_Race_Conjuction_Tactics" isPercentage="true"/>
+<stat id="268439449" name="к угрозе в дальнем бою" key="Skill_AdditionalThreat_Hunter_AllRangeSkillsMod"/>
+<stat id="268439450" name="Гроза луков" key="Trait_Burglar_BowBane" type="ARRAY"/>
+<stat id="268439482" name="Увеличивает уровень Преданности." key="Trait_Virtue_Rank_Fidelity" type="INTEGER"/>
+<stat id="268439483" name="Увеличивает уровень Мудрости." key="Trait_Virtue_Rank_Wisdom" type="INTEGER"/>
+<stat id="268439496" name="к обнаружению скрытных врагов" key="Stealth_StealthDetectionLevelModifier" type="INTEGER"/>
+<stat id="268439501" name="к шансу критического успеха" key="Craft_Prospector_CriticalChanceAddModifier" isPercentage="true"/>
+<stat id="268439502" name="Уровень умения в ремесле" key="Craft_Weaponsmith_CompletedProficiencyLevel" type="INTEGER"/>
+<stat id="268439563" name="к получаемому опыту" key="XP_AwardMultiplier" isPercentage="true"/>
+<stat id="268439608" name="Комбо дальнего боя" key="ForwardSource_ComboMode_Hunter_DamageType" type="ENUM"/>
+<stat id="268439614" name="Может уклоняться от удара" key="Combat_CanEvade" type="BOOLEAN"/>
+<stat id="268439659" name="к числу целей для умений категории \qЗнания\q" key="Skill_Targets_Trait_AdvancedLore" type="INTEGER"/>
+<stat id="268439660" name="к урону доп. оружием" key="Skill_DamageMultiplier_Offhand_Trait_Ambidextrous" isPercentage="true"/>
+<stat id="268439680" name="к сопротивлению болезням" key="Resist_Additional_Resistance_Disease" isPercentage="true"/>
+<stat id="268439728" name="к шансу критического успеха" key="Craft_Farmer_CriticalChanceAddModifier"/>
+<stat id="268439729" name="Уровень умения в ремесле" key="Craft_Farmer_CompletedProficiencyLevel" type="INTEGER"/>
+<stat id="268439731" name="Уровень мастерства в ремесле" key="Craft_Metalsmith_CompletedMasteryLevel" type="INTEGER"/>
+<stat id="268439900" name="к парированию в дальнем бою" key="Skill_ChanceParry_RangedMod" isPercentage="true"/>
+<stat id="268439901" name="к шансу уклонения в дальнем бою" key="Skill_ChanceEvade_RangedMod" isPercentage="true"/>
+<stat id="268439902" name="к урону из выгодной позиции" key="Skill_DamageMultiplier_Trait_Stealth_LineBonus" isPercentage="true"/>
+<stat id="268439904" name="Внешность герольда" key="Trait_Captain_ImprovedBannerofDefense_AppearanceA" type="ARRAY"/>
+<stat id="268439955" name="Уровень мастерства в ремесле" key="Craft_Tailor_CompletedMasteryLevel" type="INTEGER"/>
+<stat id="268440059" name="к урону от двуручного меча" key="Combat_WeaponDamageMultiplier_2HSword" isPercentage="true"/>
+<stat id="268440061" name="Текущий комбо-прием" key="ForwardSource_Combat_TraitCombo" type="ENUM"/>
+<stat id="268440063" name="к смягчению нуменорского урона" key="Combat_MitigationPercentage_Westernesse" isPercentage="true"/>
+<stat id="268440065" name="Скидка у большинства торговцев Шира" key="Discount_Shire" isPercentage="true"/>
+<stat id="268440116" name="к вероятности промаха при \qПрицеливании\q" key="Skill_ChanceMiss_AimMod" isPercentage="true"/>
+<stat id="268440117" name="к шансу блокирования ваших атак дальнего боя" key="Skill_TargetChanceBlock_Trait_MP_PenetratingArrow" isPercentage="true"/>
+<stat id="268440118" name="к длительности умений" key="Skill_AdditivePulseCountModifierModifier_Trait_Fellowshipfriend_CunningAttack" type="INTEGER"/>
+<stat id="268440119" name="к снижению угрозы от \qБыстрого выстрела\q" key="Skill_AdditionalThreat_Hunter_QuickShot"/>
+<stat id="268440120" name="Крепкая ловушка: Улучшенная ловушка" key="Trait_Hunter_SturdyTrap" type="ARRAY"/>
+<stat id="268440121" name="Улучшенная неистовая атака" key="Trait_Champion_ImprovedWildAttack" type="ARRAY"/>
+<stat id="268440123" name="Внешность герольда" key="Trait_Captain_ImprovedBannerofDefense_AppearanceB" type="ARRAY"/>
+<stat id="268440124" name="Талант охотника - Бонус двух клинков" key="ForwardSource_Trait_Hunter_ImprovedDualWield" type="BOOLEAN"/>
+<stat id="268440125" name="Бодрящее блокирование" key="ForwardSource_Trait_Guardian_EnergizingBlocks" type="BOOLEAN"/>
+<stat id="268440138" name="Внешность" key="ForwardSource_MP_Texture_Body" type="INTEGER"/>
+<stat id="268440166" name="Увеличивает уровень Справедливости." key="Trait_Virtue_Rank_Just" type="INTEGER"/>
+<stat id="268440167" name="Увеличивает уровень Сочувствия." key="Trait_Virtue_Rank_Empathy" type="INTEGER"/>
+<stat id="268440211" name="Уровень мастерства в ремесле" key="Craft_Forester_CompletedMasteryLevel" type="INTEGER"/>
+<stat id="268440220" name="Неуязвимость к поражению" key="Death_ImmuneToDefeat" type="BOOLEAN"/>
+<stat id="268440270" name="к длительности \qПаутины\q" key="EffectMod_Duration_Trait_MP_SnaringWeb"/>
+<stat id="268440378" name="Минимальные затраты Боевого пыла" key="Skill_Pips_CostMod_Trait_Champion_CheaperBladeStormPipsMin" type="INTEGER"/>
+<stat id="268440379" name="к перезарядке \qГлубокого вдоха\q" key="Skill_RecoveryTime_GuardianDeepBreathMod"/>
+<stat id="268440380" name="к перезарядке умения" key="Skill_RecoveryTime_Trait_Guardian_ImprovedHeart"/>
+<stat id="268440381" name="к шансу блокирования в дальнем бою" key="Skill_ChanceBlock_RangedMod" isPercentage="true"/>
+<stat id="268440382" name="к критическому урону для всех ударов" key="Skill_CriticalDamageMultiplier_ChampionStrikesMod" isPercentage="true"/>
+<stat id="268440383" name="к вероятности критического урона" key="Skill_ChanceCriticalHit_Trait_EarlyEnd" isPercentage="true"/>
+<stat id="268440384" name="к длительности лечебных эффектов Хранителя мудрости" key="Skill_Duration_Trait_ProofAgainstIlls" isPercentage="true"/>
+<stat id="268440385" name="к расходу энергии" key="Skill_VitalCost_Power_Trait_FellowshipsFriend" isPercentage="true"/>
+<stat id="268440386" name="к затратам энергии" key="Skill_VitalCost_Trait_HealerPowerCostReduction" isPercentage="true"/>
+<stat id="268440387" name="к затратам энергии на Знаки силы" key="Skill_VitalCost_Book_SigilDunedainMod" isPercentage="true"/>
+<stat id="268440388" name="к расходу энергии на баллады" key="Skill_VitalCost_SerenadeOffenseMod" isPercentage="true"/>
+<stat id="268440389" name="к увеличению урона" key="Skill_DamageMultiplier_Trait_ImprovedRoutingCry" isPercentage="true"/>
+<stat id="268440390" name="к урону от \qУкола\q" key="Skill_DamageMultiplier_GuardianStingMod" isPercentage="true"/>
+<stat id="268440391" name="Рваная рана будет иногда наносить постепенный урон" key="Skill_EffectOverride_Trait_MP_JaggedCutDOT" type="ARRAY"/>
+<stat id="268440392" name="Терпение" key="Trait_Champion_Patience" type="ARRAY"/>
+<stat id="268440393" name="Внешность герольда" key="Trait_Captain_ImprovedBannerofDefense_AppearanceC" type="ARRAY"/>
+<stat id="268440419" name="к сопротивлению ядам" key="Resist_Additional_Resistance_Poison" isPercentage="true"/>
+<stat id="268440448" name="Увеличивает уровень Дисциплины." key="Trait_Virtue_Rank_Discipline" type="INTEGER"/>
+<stat id="268440449" name="Увеличивает уровень Чести." key="Trait_Virtue_Rank_Honour" type="INTEGER"/>
+<stat id="268440525" name="к урону ядом \qГнилостного поцелуя\q" key="EffectMod_DamageMultiplier_Trait_MP_StrongPoison" isPercentage="true"/>
+<stat id="268440569" name="Неуязвимость к огню" key="Combat_DamageType_Immunity_Fire" type="BOOLEAN"/>
+<stat id="268440594" name="к урону от двуручной палицы" key="Combat_WeaponDamageMultiplier_2HClub" isPercentage="true"/>
+<stat id="268440642" name="к перезарядке \qРазрушительного удара\q" key="Skill_RecoveryTime_Trait_MP_DevastatingStrike"/>
+<stat id="268440643" name="к перезарядке песен" key="Skill_RecoveryTime_HarmonizerDurationRecharge"/>
+<stat id="268440645" name="к шансу критического урона при атаке в режиме скрытности" key="Skill_ChanceCriticalHit_Trait_MP_FromStealth" isPercentage="true"/>
+<stat id="268440646" name="к длительности эффекта" key="Skill_Duration_EmpoweredAnthemDurationIncrease"/>
+<stat id="268440647" name="к расходу энергии" key="Skill_VitalCost_Trait_VulgarMagicPowerCostReduction" isPercentage="true"/>
+<stat id="268440648" name="к урону от \qКолющего удара\q" key="Skill_DamageMultiplier_Trait_MP_PiercingAttack" isPercentage="true"/>
+<stat id="268440649" name="к угрозе" key="Skill_AdditionalThreat_subtlecommand"/>
+<stat id="268440650" name="к набору угрозы" key="Skill_AdditionalThreat_AllSkillsMod"/>
+<stat id="268440651" name="Улучшенное выслеживание зверей" key="Trait_Hunter_HeightenedSenses_Nature" type="ARRAY"/>
+<stat id="268440652" name="Усложненные загадки" key="Trait_Burglar_FellowshipsFriend" type="ARRAY"/>
+<stat id="268440653" name="Улучшенный оберег стража" key="Trait_Guardian_ImprovedWard" type="ARRAY"/>
+<stat id="268440667" name="к сопротивлению песням" key="Resist_Additional_Resistance_Song" isPercentage="true"/>
+<stat id="268440685" name="Увеличивает уровень Уверенности." key="Trait_Virtue_Rank_Confidence" type="INTEGER"/>
+<stat id="268440702" name="Уровень умения в ремесле" key="Craft_Tailor_CompletedProficiencyLevel" type="INTEGER"/>
+<stat id="268440768" name="к скорости скрытного перемещения" key="EffectMod_MovementSpeed_Trait_MP_ImprovedStealth" isPercentage="true"/>
+<stat id="268440777" name="Нельзя атаковать" key="Combat_NotAttackable" isPercentage="true" type="BOOLEAN"/>
+<stat id="268440802" name="Включен ли ИИ" key="AI_Active" type="BOOLEAN"/>
+<stat id="268440804" name="Новая таблица угрозы" key="AI_ThreatModTable" type="DID"/>
+<stat id="268440829" name="Комбо внешности герольда" key="ForwardSource_ComboMode_Captain_HeraldAppearance" type="ENUM"/>
+<stat id="268440831" name="к броне" key="Combat_Agent_Armor_Value" type="INTEGER"/>
+<stat id="268440885" name="ко времени применения умений, возвращающих павшего духом в строй" key="Skill_InductionDuration_Minstrel_Trait_RezInduction"/>
+<stat id="268440889" name="Можно ли прервать боевой прием" key="AI_CombatMovementInterruptable" type="BOOLEAN"/>
+<stat id="268441081" name="Вероятность критического удара при автоатаке" key="Skill_DaggerAutoAttackCriticalHitChance" isPercentage="true"/>
+<stat id="268441090" name="к наносимому урону" key="EffectMod_DamageMultiplier_Characteristic_MP_Damage" isPercentage="true"/>
+<stat id="268441154" name="к расходу энергии на умения ближнего боя" key="Skill_VitalCost_Power_Overdrive" isPercentage="true"/>
+<stat id="268441155" name="Показатель урона" key="Skill_DamageMultiplier_Overdrive" isPercentage="true"/>
+<stat id="268441211" name="Задержка снятия эффектов в бою" key="Effect_CombatOnlyRemovalDelay_AddMod"/>
+<stat id="268441224" name="к шансу получения крит. тактического урона" key="Combat_AttackerMagicCriticalHitChanceAddMod" isPercentage="true"/>
+<stat id="268441226" name="к шансу получения крит. урона в дальнем бою" key="Combat_AttackerRangedCriticalHitChanceAddMod" isPercentage="true"/>
+<stat id="268441250" name="к эффективности исцеления" key="Skill_HealingMultiplier_Item" isPercentage="true"/>
+<stat id="268441251" name="к угрозе при лечении" key="Skill_AdditionalThreat_Minstrel_Item_LuteStrings" isPercentage="true"/>
+<stat id="268441332" name="к перезарядке всех кличей рыцаря" key="Skill_RecoveryTime_CrySkills"/>
+<stat id="268441333" name="к перезарядке \qБыстрого лука\q" key="Skill_RecoveryTime_Item_Swiftbow"/>
+<stat id="268441334" name="к перезарядке \qПроникающего выстрела\q" key="Skill_RecoveryTime_Item_PenetratingShot"/>
+<stat id="268441335" name="к перезарядке умения стража \qВызов Тьме\q" key="Skill_RecoveryTime_GuardianChallengeTheDarknessMod"/>
+<stat id="268441336" name="к перезарядке \qПобега от Тьмы\q" key="Skill_RecoveryTime_EscapefromDarkness"/>
+<stat id="268441337" name="к сопротивлению \qОслепительной вспышке\q" key="Skill_ResistanceChance_Loremaster_BlindingFlash"/>
+<stat id="268441483" name="Максимальное расстояние для умений дальнего боя" key="Skill_RangedAttack_MaxRangeMod"/>
+<stat id="268441489" name="Поделиться следом" key="Fellowship_SharedTracking_Trait" type="BOOLEAN"/>
+<stat id="268441535" name="Разрешить герольдов" key="AI_Pet_Enable_HeraldsPetChannel" type="BOOLEAN"/>
+<stat id="268441536" name="Разрешить штандарты" key="AI_Pet_Enable_BannerStandardsPetChannel" type="BOOLEAN"/>
+<stat id="268441644" name="Новый эффект герольда" key="AI_PetEffect_HeraldBaseWC_Override" type="DID"/>
+<stat id="268441646" name="к урону от комбо-приема \qКоварство\q" key="ForwardSource_ComboMode_Captain_Herald_Improved" type="ENUM"/>
+<stat id="268441647" name="к скорости бега вне боя" key="Movement_OutOfCombat_Speed_AddMod" isPercentage="true"/>
+<stat id="268441648" name="к скорости бега в бою" key="Movement_InCombat_Speed_AddMod" isPercentage="true"/>
+<stat id="268441669" name="Вероятность срабатывания эффекта оружия ближнего боя" key="Combat_MeleeDmgQualifier_WeaponProcEffect" type="DID"/>
+<stat id="268441670" name="Вероятность срабатывания эффекта оружия дальнего боя" key="Combat_RangedDmgQualifier_WeaponProcEffect" type="DID"/>
+<stat id="268441671" name="Вероятность срабатывания эффекта тактического умения" key="Combat_TacticalDmgQualifier_WeaponProcEffect" type="DID"/>
+<stat id="268441673" name="Новый эффект герольда победы" key="AI_PetEffect_HeraldVictoryWC_Override" type="DID"/>
+<stat id="268441674" name="Новый эффект герольда надежды" key="AI_PetEffect_HeraldHopeWC_Override" type="DID"/>
+<stat id="268441829" name="Улучшенный штандарт войны" key="Trait_Captain_ImprovedStandardofWar" type="ARRAY"/>
+<stat id="268441830" name="Улучшенный штандарт защиты" key="Trait_Captain_ImprovedStandardofDefense" type="ARRAY"/>
+<stat id="268441831" name="Улучшенный штандарт надежды" key="Trait_Captain_ImprovedStandardofHope" type="ARRAY"/>
+<stat id="268441927" name="ко времени применения рыцарского возвращения в строй" key="Skill_InductionDuration_Captain_CombatRezz"/>
+<stat id="268441958" name="к количеству целей \qКлича отмщения\q" key="Skill_Targets_Trait_Captain_CryOfVengeanceTargets" type="INTEGER"/>
+<stat id="268441968" name="к урону \qНападения врасплох\q из режима скрытности" key="Skill_DamageMultiplier_EpicSet_Stealth_Suprisestrike" isPercentage="true"/>
+<stat id="268441969" name="к сопротивлению вызовам" key="EpicSet_ResistanceChance_Guardian_Challenge"/>
+<stat id="268441970" name="к перезарядке умения" key="Skill_RecoveryTime_Loremaster_TestofWill"/>
+<stat id="268441971" name="к уклонению от \qСтойкого удара\q" key="EpicSet_ChanceAvoid_BracingAttack" isPercentage="true"/>
+<stat id="268442009" name="Поглощение огня - доспехи из Разлома" key="Skill_RiftSet_Absorb_Fire" isPercentage="true"/>
+<stat id="268442021" name="Время применения рыцарского воскрешения" key="Skill_RiftSet_InductionDuration_Captain_CombatRezz"/>
+<stat id="268442022" name="к затратам энергии на умение \qПередышка\q" key="Skill_CatchBreath_Guardian_PowerCost" isPercentage="true"/>
+<stat id="268442023" name="к урону с \qОреолом славы\q" key="Skill_Glory_Champion_Damage" isPercentage="true"/>
+<stat id="268442024" name="к критическому урону \qКоварного удара\q" key="Skill_CunningStrike_Burglar_CriticalDamage" isPercentage="true"/>
+<stat id="268442025" name="к угрозе с \qОреолом славы\q" key="Skill_Glory_Champion_Threat" isPercentage="true"/>
+<stat id="268442040" name="к расходу энергии на \qВыстрел в сердце\q" key="Skill_HeartSeeker_Hunter_PowerCost" isPercentage="true"/>
+<stat id="268442041" name="к затратам энергии на \qПроникающий выстрел\q" key="Skill_PenetratingShot_Hunter_PowerCost" isPercentage="true"/>
+<stat id="268442042" name="к угрозе от \qТоржества духа\q" key="Skill_TriumphantSpirit_Minstrel_Threat" isPercentage="true"/>
+<stat id="268442046" name="к защите от огня \qДаром Молоторукого\q" key="Skill_GiftHammerhand_Minstrel_FireProtect" type="ARRAY"/>
+<stat id="268442048" name="к скорости поиска" key="Item_InductionDuration_Burglar_Looting" isPercentage="true"/>
+<stat id="268442065" name="к урону от \qСлов силы\q" key="Skill_Minstrel_Warspeech_Damage" isPercentage="true"/>
+<stat id="268442066" name="к расходу энергии на \qСлова силы\q" key="Skill_Minstrel_Warspeech_Power" isPercentage="true"/>
+<stat id="268442067" name="- тип урона от \qПесни клятвопреступника\q" key="Item_Minstrel_Oathbreaker_Damagetype" type="ENUM"/>
+<stat id="268442120" name="Текущий комбо-талант" key="ForwardSource_Combat_TraitCombo6" type="ENUM"/>
+<stat id="268442247" name="Новый эффект медведя" key="AI_PetEffect_LoremasterBearWC_Override" type="DID"/>
+<stat id="268442248" name="Новый эффект ворона" key="AI_PetEffect_LoremasterRavenWC_Override" type="DID"/>
+<stat id="268442249" name="Новый эффект орла" key="AI_PetEffect_LoremasterEagleWC_Override" type="DID"/>
+<stat id="268442250" name="Новый эффект рыси" key="AI_PetEffect_LoremasterLynxWC_Override" type="DID"/>
+<stat id="268442264" name="к шансу критического эффекта \qПронзительного клича\q" key="Skill_ChanceCriticalHit_Minstrel_Warspeech" isPercentage="true"/>
+<stat id="268442283" name="Поглощение Тьмы - доспехи из Разлома" key="Skill_RiftSet_Absorb_Shadow" isPercentage="true"/>
+<stat id="268442296" name="Парение" key="ForwardSource_ScriptSystem_IsHovering" type="BOOLEAN"/>
+<stat id="268442338" name="Новый эффект ауры спутников" key="AI_PetEffect_AuraOverrideTest" type="ARRAY"/>
+<stat id="268442363" name="к защите от тени \qДаром Молоторукого\q" key="Skill_GiftHammerhand_Minstrel_ShadowProtect" type="ARRAY"/>
+<stat id="268442368" name="к перезарядке \qВласти над громом\q" key="Skill_RecoveryTime_Stormlore"/>
+<stat id="268442369" name="к расходу энергии на \qГрозовую бурю\q" key="Skill_LightningBurst_LoreMaster_PowerCost" isPercentage="true"/>
+<stat id="268442381" name="Смещение камеры по оси X" key="ForwardSource_Entity_Camera_LookAt_OffsetX"/>
+<stat id="268442382" name="Смещение камеры по оси Y" key="ForwardSource_Entity_Camera_LookAt_OffsetY"/>
+<stat id="268442383" name="Смещение камеры по оси Z" key="ForwardSource_Entity_Camera_LookAt_OffsetZ"/>
+<stat id="268442391" name="Текущий комбо-талант" key="ForwardSource_Combat_TraitCombo7" type="ENUM"/>
+<stat id="268442396" name="Улучшение спутника - доспехи из Разлома" key="AI_PetEffect_AuraOverride_Rift_Banner_Defense" type="ARRAY"/>
+<stat id="268442397" name="Улучшение спутника - доспехи из Разлома" key="AI_PetEffect_AuraOverride_Rift_Herald_Defense_Improved" type="ARRAY"/>
+<stat id="268442398" name="Улучшение спутника - доспехи из Разлома" key="AI_PetEffect_AuraOverride_Rift_Banner_Defense_Improved" type="ARRAY"/>
+<stat id="268442399" name="Улучшение спутника - доспехи из Разлома" key="AI_PetEffect_AuraOverride_Rift_Banner_War" type="ARRAY"/>
+<stat id="268442400" name="Улучшение спутника - доспехи из Разлома" key="AI_PetEffect_AuraOverride_Rift_Banner_War_Improved" type="ARRAY"/>
+<stat id="268442401" name="Улучшение спутника - доспехи из Разлома" key="AI_PetEffect_AuraOverride_Rift_Banner_Hope" type="ARRAY"/>
+<stat id="268442402" name="Улучшение спутника - доспехи из Разлома" key="AI_PetEffect_AuraOverride_Rift_Herald_Defense" type="ARRAY"/>
+<stat id="268442403" name="Улучшение спутника - доспехи из Разлома" key="AI_PetEffect_AuraOverride_Rift_Herald_War_Improved" type="ARRAY"/>
+<stat id="268442404" name="Улучшение спутника - доспехи из Разлома" key="AI_PetEffect_AuraOverride_Rift_Herald_Hope" type="ARRAY"/>
+<stat id="268442405" name="Улучшение спутника - доспехи из Разлома" key="AI_PetEffect_AuraOverride_Rift_Herald_Hope_Improved" type="ARRAY"/>
+<stat id="268442406" name="Улучшение спутника - доспехи из Разлома" key="AI_PetEffect_AuraOverride_Rift_Banner_Hope_Improved" type="ARRAY"/>
+<stat id="268442407" name="Улучшение спутника - доспехи из Разлома" key="AI_PetEffect_AuraOverride_Rift_Herald_War" type="ARRAY"/>
+<stat id="268442419" name="к расходу энергии на \qВласть над громом\q" key="Skill_PowerCost_Stormlore" isPercentage="true"/>
+<stat id="268442420" name="к перезарядке \qГрозовой бури\q" key="Skill_LightningBurst_LoreMaster_RecoveryTime"/>
+<stat id="268442467" name="Скидка в поселении Эред Луина" key="Discount_Housing_Eredluin" isPercentage="true"/>
+<stat id="268442468" name="Скидка в поселении Бри" key="Discount_Housing_Breeland" isPercentage="true"/>
+<stat id="268442469" name="Скидка в поселениях Ривенделла" key="Discount_Housing_Rivendell" isPercentage="true"/>
+<stat id="268442470" name="Скидка в поселении Шира" key="Discount_Housing_Shire" isPercentage="true"/>
+<stat id="268442486" name="к перезарядке песен" key="Skill_RecoveryTime_SilverTongue_SongofSoothing"/>
+<stat id="268442487" name="к перезарядке песен" key="Skill_RecoveryTime_SilverTongue_SongofDistraction"/>
+<stat id="268442488" name="к перезарядке песен" key="Skill_RecoveryTime_SilverTongue_SongofRestoration"/>
+<stat id="268442489" name="к перезарядке умений, возвращающих павшего духом в строй" key="Skill_RecoveryTime_Graceful_Rally"/>
+<stat id="268442490" name="к перезарядке песен" key="Skill_RecoveryTime_SilverTongue_SongofAid"/>
+<stat id="268442491" name="к перезарядке песен" key="Skill_RecoveryTime_SilverTongue_SongoftheDead"/>
 </stats>

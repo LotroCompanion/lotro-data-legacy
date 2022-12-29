@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><enum id="587202672" name="ExaminationModStatType">
-<entry code="1" name="Swarm"/>
-<entry code="2" name="EliteMaster"/>
-<entry code="3" name="Nemesis"/>
-<entry code="4" name="Signature"/>
-<entry code="5" name="Normal"/>
-<entry code="6" name="ArchNemesis"/>
-<entry code="7" name="Elite"/>
-<entry code="8" name="GoodElite"/>
-<entry code="9" name="GoodEliteMaster"/>
-<entry code="10" name="GoodArchNemesis"/>
-<entry code="11" name="GoodNemesis"/>
-<entry code="12" name="GoodSignature"/>
+<entry code="1" name="Слабое существо"/>
+<entry code="2" name="Сильная элита"/>
+<entry code="3" name="Могущественный враг"/>
+<entry code="4" name="Сильный враг"/>
+<entry code="5" name="Обычное"/>
+<entry code="6" name="Судьбоносный враг"/>
+<entry code="7" name="Элита"/>
+<entry code="8" name="Элита"/>
+<entry code="9" name="Сильный элитный союзник"/>
+<entry code="10" name="Судьбоносный друг"/>
+<entry code="11" name="Могущественный друг"/>
+<entry code="12" name="Сильный друг"/>
 </enum>

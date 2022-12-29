@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?><markers>
-<marker id="520773632" label="Notary" category="38" did="1879077741" parentZoneId="1879087594" longitude="53.262226" latitude="-119.17154"/>
-<marker id="520773633" label="Vault-keeper" category="40" did="1879084238" parentZoneId="1879087594" longitude="53.30793" latitude="-119.235855"/>
-<marker id="520773634" label="Bard" category="54" did="1879063238" parentZoneId="1879087594" longitude="53.29461" latitude="-119.14078"/>
-<marker id="520773636" label="Mailbox" category="34" did="1879085949" parentZoneId="1879087594" longitude="53.29883" latitude="-119.281845"/>
+<marker id="520773632" label="Нотариус" category="38" did="1879077741" parentZoneId="1879087594" longitude="53.262226" latitude="-119.17154"/>
+<marker id="520773633" label="Банкир" category="40" did="1879084238" parentZoneId="1879087594" longitude="53.30793" latitude="-119.235855"/>
+<marker id="520773634" label="Бард" category="54" did="1879063238" parentZoneId="1879087594" longitude="53.29461" latitude="-119.14078"/>
+<marker id="520773636" label="Почтовый ящик" category="34" did="1879085949" parentZoneId="1879087594" longitude="53.29883" latitude="-119.281845"/>
 <marker id="520773637" label="Tavern Keep" category="38" did="1879087592" parentZoneId="1879087594" longitude="53.28418" latitude="-119.17263"/>
-<marker id="520773638" label="Clerk of Kinships" category="38" did="1879063384" parentZoneId="1879087594" longitude="53.255234" latitude="-119.17845"/>
-<marker id="520773639" label="Auctioneer" category="53" did="1879063851" parentZoneId="1879087594" longitude="53.280586" latitude="-119.17882"/>
-<marker id="520773640" label="Reflecting Pool" category="52" did="1879097543" parentZoneId="1879087594" longitude="53.213047" latitude="-119.05227"/>
-<marker id="520773641" label="Maid of Lions" category="70" did="1879087499" parentZoneId="1879087594" longitude="53.338787" latitude="-119.24606"/>
-<marker id="520773642" label="Constant Gardener" category="70" did="1879087500" parentZoneId="1879087594" longitude="53.31193" latitude="-119.17944"/>
-<marker id="520773643" label="Amlug" category="70" did="1879087501" parentZoneId="1879087594" longitude="53.258007" latitude="-119.237144"/>
-<marker id="520773644" label="Keth" category="70" did="1879087502" parentZoneId="1879087594" longitude="53.25715" latitude="-119.13829"/>
-<marker id="520773645" label="Rhidden&#10;Master of Apprentices" category="42" did="1879087550" parentZoneId="1879087594" longitude="53.288357" latitude="-119.179214"/>
-<marker id="520773646" label="Tens" category="70" did="1879094090" parentZoneId="1879087594" longitude="53.297012" latitude="-119.17543"/>
-<marker id="520773647" label="Fantus" category="70" did="1879097488" parentZoneId="1879087594" longitude="53.2575" latitude="-119.041405"/>
-<marker id="520773648" label="Iceman" category="70" did="1879097174" parentZoneId="1879087594" longitude="53.318398" latitude="-119.04354"/>
-<marker id="520773649" label="Berenfan" category="70" did="1879097169" parentZoneId="1879087594" longitude="53.274002" latitude="-119.03486"/>
-<marker id="520773650" label="Kehleyr" category="70" did="1879097170" parentZoneId="1879087594" longitude="53.292656" latitude="-119.01023"/>
-<marker id="520773651" label="Wrinklor" category="70" did="1879097171" parentZoneId="1879087594" longitude="53.295036" latitude="-119.05162"/>
-<marker id="520773652" label="Denour" category="70" did="1879097172" parentZoneId="1879087594" longitude="53.271736" latitude="-119.02655"/>
-<marker id="520773653" label="Temerity" category="70" did="1879097173" parentZoneId="1879087594" longitude="53.301113" latitude="-119.05148"/>
-<marker id="520773654" label="Slayde" category="70" did="1879097175" parentZoneId="1879087594" longitude="53.31861" latitude="-119.02855"/>
-<marker id="520773655" label="Avon" category="70" did="1879097166" parentZoneId="1879087594" longitude="53.228767" latitude="-119.05212"/>
-<marker id="520773656" label="Danger Dan" category="70" did="1879097168" parentZoneId="1879087594" longitude="53.226875" latitude="-119.07031"/>
+<marker id="520773638" label="Нотариус содружества" category="38" did="1879063384" parentZoneId="1879087594" longitude="53.255234" latitude="-119.17845"/>
+<marker id="520773639" label="Аукционист" category="53" did="1879063851" parentZoneId="1879087594" longitude="53.280586" latitude="-119.17882"/>
+<marker id="520773640" label="Фонтан отражений" category="52" did="1879097543" parentZoneId="1879087594" longitude="53.213047" latitude="-119.05227"/>
+<marker id="520773641" label="Дама Львов" category="70" did="1879087499" parentZoneId="1879087594" longitude="53.338787" latitude="-119.24606"/>
+<marker id="520773642" label="Вечный садовник" category="70" did="1879087500" parentZoneId="1879087594" longitude="53.31193" latitude="-119.17944"/>
+<marker id="520773643" label="Амлуг" category="70" did="1879087501" parentZoneId="1879087594" longitude="53.258007" latitude="-119.237144"/>
+<marker id="520773644" label="Кет" category="70" did="1879087502" parentZoneId="1879087594" longitude="53.25715" latitude="-119.13829"/>
+<marker id="520773645" label="Риддден&#10;Мастер ремесел" category="42" did="1879087550" parentZoneId="1879087594" longitude="53.288357" latitude="-119.179214"/>
+<marker id="520773646" label="Тэнс" category="70" did="1879094090" parentZoneId="1879087594" longitude="53.297012" latitude="-119.17543"/>
+<marker id="520773647" label="Фантус" category="70" did="1879097488" parentZoneId="1879087594" longitude="53.2575" latitude="-119.041405"/>
+<marker id="520773648" label="Айсмэн" category="70" did="1879097174" parentZoneId="1879087594" longitude="53.318398" latitude="-119.04354"/>
+<marker id="520773649" label="Беренфан" category="70" did="1879097169" parentZoneId="1879087594" longitude="53.274002" latitude="-119.03486"/>
+<marker id="520773650" label="Кейлейр" category="70" did="1879097170" parentZoneId="1879087594" longitude="53.292656" latitude="-119.01023"/>
+<marker id="520773651" label="Вринклор" category="70" did="1879097171" parentZoneId="1879087594" longitude="53.295036" latitude="-119.05162"/>
+<marker id="520773652" label="Денур" category="70" did="1879097172" parentZoneId="1879087594" longitude="53.271736" latitude="-119.02655"/>
+<marker id="520773653" label="Темерити" category="70" did="1879097173" parentZoneId="1879087594" longitude="53.301113" latitude="-119.05148"/>
+<marker id="520773654" label="Слейд" category="70" did="1879097175" parentZoneId="1879087594" longitude="53.31861" latitude="-119.02855"/>
+<marker id="520773655" label="Эвон" category="70" did="1879097166" parentZoneId="1879087594" longitude="53.228767" latitude="-119.05212"/>
+<marker id="520773656" label="Опасный Дэн" category="70" did="1879097168" parentZoneId="1879087594" longitude="53.226875" latitude="-119.07031"/>
 </markers>

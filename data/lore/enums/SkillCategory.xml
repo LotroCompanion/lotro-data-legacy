@@ -1,62 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?><enum id="587202586" name="SkillCharacteristicCategory">
-<entry code="1" name="Friend of the Animals:"/>
-<entry code="2" name="Cures of the House of Healing:"/>
-<entry code="3" name="A Strong Offence:"/>
-<entry code="4" name="Never Falter:"/>
-<entry code="5" name="The Resourceful Burglar:"/>
-<entry code="6" name="Signs of Ancient Magics:"/>
-<entry code="7" name="Buff Skills:"/>
-<entry code="8" name="Melee Skills:"/>
-<entry code="9" name="Weapon Proficiencies:"/>
-<entry code="10" name="Bag of Tricks:"/>
-<entry code="11" name="Ability Skills:"/>
-<entry code="12" name="Armour Proficiencies:"/>
-<entry code="13" name="Ready for Anything:"/>
-<entry code="14" name="Prepare for Battle:"/>
-<entry code="15" name="Ranged Skills:"/>
-<entry code="16" name="Accessory Proficiencies:"/>
-<entry code="17" name="Parry and Retaliate:"/>
-<entry code="18" name="Lessons of Nature:"/>
-<entry code="19" name="Lost Knowledge:"/>
-<entry code="20" name="Corruption Traits:"/>
-<entry code="21" name="Combat Characteristics:"/>
-<entry code="22" name="Drawing the Ire:"/>
-<entry code="23" name="Healing and Motivation:"/>
-<entry code="24" name="Building the Fervour:"/>
-<entry code="25" name="Bolster the Weakened:"/>
-<entry code="26" name="Theatre and Inspiration:"/>
-<entry code="27" name="Tactical Traits:"/>
-<entry code="28" name="Hunter's Focus:"/>
-<entry code="29" name="Misc. Passive Skills:"/>
-<entry code="30" name="Close Combat:"/>
-<entry code="31" name="Crafting Passive Skills:"/>
-<entry code="32" name="Instrument Proficiencies:"/>
-<entry code="33" name="Engage the Tide:"/>
-<entry code="34" name="The Archer's Art:"/>
-<entry code="35" name="Lore of the Second Age:"/>
-<entry code="36" name="Champion's Artistry:"/>
-<entry code="37" name="Elements of Surprise:"/>
-<entry code="38" name="Toe to Toe:"/>
-<entry code="39" name="Words of Power:"/>
-<entry code="40" name="Songs of the Valar:"/>
-<entry code="41" name="Fury of Nature:"/>
-<entry code="42" name="Debuff Skills:"/>
-<entry code="43" name="Class Traits:"/>
-<entry code="44" name="Core Passive Skills:"/>
-<entry code="45" name="Base Passive Skills:"/>
-<entry code="46" name="Block and Counter:"/>
-<entry code="47" name="Lead by Example:"/>
-<entry code="48" name="Wayfaring:"/>
-<entry code="49" name="Razor-sharp Wit:"/>
-<entry code="50" name="Magic Skills:"/>
-<entry code="51" name="Direct your Allies:"/>
-<entry code="52" name="Anthems:"/>
-<entry code="53" name="Ballads and Lays:"/>
-<entry code="54" name="Appearance Traits:"/>
-<entry code="55" name="Thrill of Victory:"/>
-<entry code="56" name="Racial Skills"/>
-<entry code="57" name="Common Skills"/>
-<entry code="58" name="Musical Mentoring:"/>
-<entry code="59" name="Call to War:"/>
-<entry code="60" name="Housing:"/>
+<entry code="1" name="Друг животных:"/>
+<entry code="2" name="Целительство:"/>
+<entry code="3" name="Усиленные атаки:"/>
+<entry code="4" name="Ни шагу назад:"/>
+<entry code="5" name="Изобретательные приемы:"/>
+<entry code="6" name="Знаки древней магии:"/>
+<entry code="7" name="Усиливающие эффекты:"/>
+<entry code="8" name="Умения ближнего боя:"/>
+<entry code="9" name="Владение оружием:"/>
+<entry code="10" name="Уловки:"/>
+<entry code="11" name="Способности:"/>
+<entry code="12" name="Владение доспехами:"/>
+<entry code="13" name="Полная боеготовность:"/>
+<entry code="14" name="Подготовка к бою:"/>
+<entry code="15" name="Умения дальнего боя:"/>
+<entry code="16" name="Владение дополнительными предметами:"/>
+<entry code="17" name="Парирование и ответные удары:"/>
+<entry code="18" name="Уроки природы:"/>
+<entry code="19" name="Утраченное знание:"/>
+<entry code="20" name="Пороки:"/>
+<entry code="21" name="Боевые характеристики:"/>
+<entry code="22" name="Нагнетание угрозы:"/>
+<entry code="23" name="Исцеление и воодушевление:"/>
+<entry code="24" name="Боевой пыл:"/>
+<entry code="25" name="Помощь ослабевшим:"/>
+<entry code="26" name="Убеждение и вдохновение:"/>
+<entry code="27" name="Тактические таланты:"/>
+<entry code="28" name="Сосредоточенность:"/>
+<entry code="29" name="Различные пассивные умения:"/>
+<entry code="30" name="Ближний бой:"/>
+<entry code="31" name="Пассивные умения ремесленника:"/>
+<entry code="32" name="Владение инструментами:"/>
+<entry code="33" name="Яростные атаки:"/>
+<entry code="34" name="Искусство стрельбы:"/>
+<entry code="35" name="Знания Второй эпохи:"/>
+<entry code="36" name="Искусство воителя:"/>
+<entry code="37" name="Эффекты неожиданности:"/>
+<entry code="38" name="Лицом к лицу:"/>
+<entry code="39" name="Слова силы:"/>
+<entry code="40" name="Мелодии валар:"/>
+<entry code="41" name="Гнев природы:"/>
+<entry code="42" name="Ослабляющие эффекты:"/>
+<entry code="43" name="Классовые таланты:"/>
+<entry code="44" name="Основные пассивные умения:"/>
+<entry code="45" name="Базовые пассивные умения:"/>
+<entry code="46" name="Блокировка и ответные удары:"/>
+<entry code="47" name="Вдохновение личным примером:"/>
+<entry code="48" name="Поиск пути:"/>
+<entry code="49" name="Острословие:"/>
+<entry code="50" name="Тактические умения:"/>
+<entry code="51" name="Руководство союзниками:"/>
+<entry code="52" name="Гимны:"/>
+<entry code="53" name="Баллады и лэ:"/>
+<entry code="54" name="Внешние черты:"/>
+<entry code="55" name="Наслаждение победой:"/>
+<entry code="56" name="Расовые умения: "/>
+<entry code="57" name="Общие умения: "/>
+<entry code="58" name="Наставничество:"/>
+<entry code="59" name="Боевые мотивы:"/>
+<entry code="60" name="Дом:"/>
 </enum>

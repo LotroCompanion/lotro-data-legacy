@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><resourcesMaps>
 <resourcesMap profession="FORESTER" tier="1">
-<item id="1879077553" name="Rowan Branches"/>
-<item id="1879087940" name="Heavy Rowan Branches"/>
+<item id="1879077553" name="Ветви рябины"/>
+<item id="1879087940" name="Тяжелые ветви рябины"/>
 <map id="268437576"/>
 <map id="268437653"/>
 <map id="268437678"/>
 </resourcesMap>
 <resourcesMap profession="FORESTER" tier="2">
-<item id="1879077508" name="Ash Branches"/>
-<item id="1879087935" name="Heavy Ash Branches"/>
+<item id="1879077508" name="Ветви ясеня"/>
+<item id="1879087935" name="Тяжелые ветви ясеня"/>
 <map id="268437576"/>
 <map id="268437603"/>
 <map id="268437634"/>
@@ -16,8 +16,8 @@
 <map id="268437678"/>
 </resourcesMap>
 <resourcesMap profession="FORESTER" tier="3">
-<item id="1879079511" name="Yew Branches"/>
-<item id="1879087931" name="Heavy Yew Branches"/>
+<item id="1879079511" name="Ветви тиса"/>
+<item id="1879087931" name="Тяжелые ветви тиса"/>
 <map id="268437603"/>
 <map id="268437634"/>
 <map id="268437653"/>
@@ -25,33 +25,33 @@
 <map id="268439511"/>
 </resourcesMap>
 <resourcesMap profession="FORESTER" tier="4">
-<item id="1879080155" name="Lebethron Branches"/>
-<item id="1879087929" name="Heavy Lebethron Branches"/>
+<item id="1879080155" name="Ветви лебетрона"/>
+<item id="1879087929" name="Тяжелые ветви лебетрона"/>
 <map id="268437592"/>
 <map id="268437615"/>
 <map id="268439511"/>
 </resourcesMap>
 <resourcesMap profession="FORESTER" tier="5">
-<item id="1879080458" name="Black Ash Branches"/>
-<item id="1879087926" name="Heavy Black Ash Branches"/>
+<item id="1879080458" name="Ветви черного ясеня"/>
+<item id="1879087926" name="Тяжелые ветви черного ясеня"/>
 <map id="268437615"/>
 <map id="268437691"/>
 <map id="268437700"/>
 </resourcesMap>
 <resourcesMap profession="PROSPECTOR" tier="1">
-<item id="1879077401" name="Tin Deposit"/>
-<item id="1879077402" name="Copper Deposit"/>
-<item id="1879087928" name="Rich Tin Deposit"/>
-<item id="1879087934" name="Rich Copper Deposit"/>
+<item id="1879077401" name="Залежи олова"/>
+<item id="1879077402" name="Залежи меди"/>
+<item id="1879087928" name="Богатые залежи олова"/>
+<item id="1879087934" name="Богатые залежи меди"/>
 <map id="268437576"/>
 <map id="268437653"/>
 <map id="268437678"/>
 </resourcesMap>
 <resourcesMap profession="PROSPECTOR" tier="2">
-<item id="1879077513" name="Barrow-Iron Deposit"/>
-<item id="1879077514" name="Silver Deposit"/>
-<item id="1879087932" name="Rich Barrow-Iron Deposit"/>
-<item id="1879087938" name="Rich Silver Deposit"/>
+<item id="1879077513" name="Залежи могильного железа"/>
+<item id="1879077514" name="Серебряная жила"/>
+<item id="1879087932" name="Богатые залежи могильного железа"/>
+<item id="1879087938" name="Богатые залежи серебра"/>
 <map id="268437576"/>
 <map id="268437603"/>
 <map id="268437634"/>
@@ -59,10 +59,10 @@
 <map id="268437678"/>
 </resourcesMap>
 <resourcesMap profession="PROSPECTOR" tier="3">
-<item id="1879079516" name="Rich Iron Deposit"/>
-<item id="1879079517" name="Gold Deposit"/>
-<item id="1879087927" name="Rich Gold Deposit"/>
-<item id="1879087933" name="Bountiful Iron Deposit"/>
+<item id="1879079516" name="Залежи обогащенного железа"/>
+<item id="1879079517" name="Золотая жила"/>
+<item id="1879087927" name="Богатая золотая жила"/>
+<item id="1879087933" name="Обширные залежи обогащенного железа"/>
 <map id="268437592"/>
 <map id="268437603"/>
 <map id="268437634"/>
@@ -71,10 +71,10 @@
 <map id="268439511"/>
 </resourcesMap>
 <resourcesMap profession="PROSPECTOR" tier="4">
-<item id="1879080160" name="Dwarf-Iron Deposit"/>
-<item id="1879080463" name="Platinum Deposit"/>
-<item id="1879087936" name="Rich Platinum Deposit"/>
-<item id="1879087939" name="Rich Dwarf-Iron Deposit"/>
+<item id="1879080160" name="Залежи гномьего железа"/>
+<item id="1879080463" name="Платиновая жила"/>
+<item id="1879087936" name="Богатая платиновая жила"/>
+<item id="1879087939" name="Богатые залежи гномьего железа"/>
 <map id="268437592"/>
 <map id="268437615"/>
 <map id="268437691"/>
@@ -84,10 +84,10 @@
 <map id="1879092138"/>
 </resourcesMap>
 <resourcesMap profession="PROSPECTOR" tier="5">
-<item id="1879080464" name="Ancient Iron Deposit"/>
-<item id="1879080465" name="Misty Mountain Silver Deposit"/>
-<item id="1879087930" name="Rich Ancient Iron Deposit"/>
-<item id="1879087937" name="Rich Misty Mountain Silver Deposit"/>
+<item id="1879080464" name="Залежи древнего железа"/>
+<item id="1879080465" name="Жила серебра Мглистых гор"/>
+<item id="1879087930" name="Богатые залежи древнего железа"/>
+<item id="1879087937" name="Богатая жила серебра Мглистых гор"/>
 <map id="268437615"/>
 <map id="268437691"/>
 <map id="268437700"/>
@@ -96,32 +96,32 @@
 <map id="1879092138"/>
 </resourcesMap>
 <resourcesMap profession="SCHOLAR" tier="1">
-<item id="1879077557" name="Shattered Pitcher"/>
+<item id="1879077557" name="Разбитый кувшин"/>
 <map id="268437576"/>
 <map id="268437653"/>
 <map id="268437678"/>
 </resourcesMap>
 <resourcesMap profession="SCHOLAR" tier="2">
-<item id="1879077512" name="Broken Urn"/>
+<item id="1879077512" name="Расколотый сосуд"/>
 <map id="268437576"/>
 <map id="268437603"/>
 <map id="268437634"/>
 <map id="268437653"/>
 </resourcesMap>
 <resourcesMap profession="SCHOLAR" tier="3">
-<item id="1879079515" name="Antique Vase"/>
+<item id="1879079515" name="Старинная ваза"/>
 <map id="268437603"/>
 <map id="268437634"/>
 <map id="268439511"/>
 </resourcesMap>
 <resourcesMap profession="SCHOLAR" tier="4">
-<item id="1879080159" name="Forgotten Text"/>
+<item id="1879080159" name="Забытый манускрипт"/>
 <map id="268437592"/>
 <map id="268437615"/>
 <map id="268439511"/>
 </resourcesMap>
 <resourcesMap profession="SCHOLAR" tier="5">
-<item id="1879080462" name="Ancient Vase"/>
+<item id="1879080462" name="Древняя ваза"/>
 <map id="268437615"/>
 <map id="268437691"/>
 <map id="1879092131"/>

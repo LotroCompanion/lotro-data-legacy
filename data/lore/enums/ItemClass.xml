@@ -1,79 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?><enum id="587202614" name="ItemClass">
 <entry code="0" name="Undef"/>
-<entry code="1" name="Bows"/>
-<entry code="2" name="Treasure"/>
-<entry code="3" name="Chest"/>
-<entry code="4" name="Minstrel Class Items"/>
-<entry code="5" name="Hands"/>
-<entry code="6" name="Shoulders"/>
-<entry code="7" name="Head"/>
-<entry code="8" name="Mounts"/>
-<entry code="9" name="Pennant"/>
-<entry code="10" name="Daggers"/>
-<entry code="11" name="Instrument"/>
-<entry code="12" name="Axes"/>
-<entry code="13" name="Captain Class Items"/>
-<entry code="14" name="Oil"/>
-<entry code="15" name="Legs"/>
-<entry code="16" name="Effect"/>
-<entry code="17" name="Hunter Class Items"/>
-<entry code="18" name="Armour"/>
-<entry code="19" name="Loremaster Class Items"/>
-<entry code="20" name="Trap"/>
-<entry code="21" name="Decoration"/>
-<entry code="22" name="Champion Class Items"/>
-<entry code="23" name="Feet"/>
-<entry code="24" name="Hammers"/>
-<entry code="25" name="Healing"/>
-<entry code="26" name="Guardian Class Items"/>
-<entry code="27" name="QuestItem"/>
-<entry code="28" name="Potion"/>
-<entry code="29" name="Crossbows"/>
-<entry code="30" name="Maces"/>
-<entry code="31" name="Key"/>
-<entry code="32" name="Tool"/>
-<entry code="33" name="Shield"/>
-<entry code="34" name="Staves"/>
-<entry code="35" name="Crafting"/>
-<entry code="36" name="Halberds"/>
-<entry code="37" name="Component"/>
-<entry code="38" name="Ingredient"/>
-<entry code="39" name="Clothing"/>
-<entry code="40" name="Clubs"/>
-<entry code="41" name="Dye"/>
-<entry code="42" name="Weapon"/>
-<entry code="43" name="KinshipCharter"/>
-<entry code="44" name="Swords"/>
-<entry code="45" name="Back"/>
-<entry code="46" name="Spears"/>
-<entry code="47" name="Trophy"/>
-<entry code="48" name="Burglar Class Items"/>
-<entry code="49" name="Jewellry"/>
-<entry code="50" name="Device"/>
-<entry code="51" name="Relic"/>
-<entry code="52" name="Book"/>
-<entry code="53" name="NonInventory"/>
-<entry code="54" name="Thrown"/>
-<entry code="55" name="Food"/>
-<entry code="56" name="Resource"/>
-<entry code="57" name="Scroll"/>
-<entry code="58" name="Recipe: Tailor"/>
-<entry code="59" name="Recipe: Jeweller"/>
-<entry code="60" name="Recipe: Prospecting"/>
-<entry code="61" name="Recipe: Farming"/>
-<entry code="62" name="Recipe: Scholar"/>
-<entry code="63" name="Recipe: Forestry"/>
-<entry code="64" name="Recipe: Metalworking"/>
-<entry code="65" name="Recipe: Cooking"/>
-<entry code="66" name="Recipe: Weaponsmith"/>
-<entry code="67" name="Recipe: Woodworking"/>
-<entry code="82" name="Music"/>
-<entry code="83" name="Paints &amp; Surfaces"/>
-<entry code="84" name="Trophy"/>
-<entry code="85" name="Furniture"/>
-<entry code="86" name="Floor"/>
-<entry code="87" name="Yard"/>
-<entry code="88" name="Wall"/>
+<entry code="1" name="Луки"/>
+<entry code="2" name="Сокровища"/>
+<entry code="3" name="Доспехи: торс"/>
+<entry code="4" name="Предметы менестреля"/>
+<entry code="5" name="Доспехи: руки"/>
+<entry code="6" name="Доспехи: наплечники "/>
+<entry code="7" name="Доспехи: голова"/>
+<entry code="8" name="Скакуны"/>
+<entry code="9" name="Знамена"/>
+<entry code="10" name="Кинжалы"/>
+<entry code="11" name="Инструменты"/>
+<entry code="12" name="Топоры"/>
+<entry code="13" name="Предметы рыцаря"/>
+<entry code="14" name="Масла"/>
+<entry code="15" name="Доспехи: ноги"/>
+<entry code="16" name="Эффекты"/>
+<entry code="17" name="Предметы охотника"/>
+<entry code="18" name="Доспехи"/>
+<entry code="19" name="Предметы хранителя мудрости"/>
+<entry code="20" name="Ловушки"/>
+<entry code="21" name="Утварь"/>
+<entry code="22" name="Предметы воителя"/>
+<entry code="23" name="Доспехи: ступни"/>
+<entry code="24" name="Молоты"/>
+<entry code="25" name="Целительство"/>
+<entry code="26" name="Предметы стража"/>
+<entry code="27" name="Ключевой предмет"/>
+<entry code="28" name="Эликсиры"/>
+<entry code="29" name="Арбалеты"/>
+<entry code="30" name="Палицы"/>
+<entry code="31" name="Ключ"/>
+<entry code="32" name="Инструменты"/>
+<entry code="33" name="Доспехи: щиты "/>
+<entry code="34" name="Посохи"/>
+<entry code="35" name="Товары для ремесел"/>
+<entry code="36" name="Алебарды"/>
+<entry code="37" name="Ремесло: материалы"/>
+<entry code="38" name="Ремесло: ингредиенты "/>
+<entry code="39" name="Одежда"/>
+<entry code="40" name="Дубины"/>
+<entry code="41" name="Красители"/>
+<entry code="42" name="Оружие"/>
+<entry code="43" name="Хартия содружества"/>
+<entry code="44" name="Мечи"/>
+<entry code="45" name="Доспехи: спина"/>
+<entry code="46" name="Копья"/>
+<entry code="47" name="Трофеи"/>
+<entry code="48" name="Предметы взломщика"/>
+<entry code="49" name="Украшения"/>
+<entry code="50" name="Приспособления"/>
+<entry code="51" name="Реликвии"/>
+<entry code="52" name="Книги"/>
+<entry code="53" name="Особое"/>
+<entry code="54" name="Метательное оружие"/>
+<entry code="55" name="Еда"/>
+<entry code="56" name="Ремесло: ресурсы"/>
+<entry code="57" name="Свитки"/>
+<entry code="58" name="Рецепты для портного"/>
+<entry code="59" name="Рецепты для ювелира"/>
+<entry code="60" name="Рецепты для рудокопа"/>
+<entry code="61" name="Рецепты для фермера"/>
+<entry code="62" name="Рецепты для ученого"/>
+<entry code="63" name="Рецепты для лесоруба"/>
+<entry code="64" name="Рецепты для кузнеца"/>
+<entry code="65" name="Рецепты для повара"/>
+<entry code="66" name="Рецепты для оружейника"/>
+<entry code="67" name="Рецепты для деревообработчика"/>
+<entry code="82" name="Дом: музыка "/>
+<entry code="83" name="Дом: покрытия"/>
+<entry code="84" name="Дом: трофеи "/>
+<entry code="85" name="Дом: мебель "/>
+<entry code="86" name="Дом: полы "/>
+<entry code="87" name="Дом: двор "/>
+<entry code="88" name="Дом: стены "/>
 <entry code="2350700" name="Box of Essences"/>
 <entry code="2350001" name="Essence:Tier1"/>
 <entry code="2350101" name="Enhancement Rune:Tier1"/>

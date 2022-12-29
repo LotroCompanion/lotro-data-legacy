@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><races>
-<race key="man" tall="true" description="Not as long-lived as Elves, sturdy as Dwarves, or resilient as Hobbits, Men are renowned for their courage and resourcefulness. Playable classes: &lt;li&gt;&lt;rgb=#D5D505&gt;Minstrel&lt;/rgb&gt;&lt;/li&gt;&lt;li&gt;&lt;rgb=#D5D505&gt;Captain&lt;/rgb&gt;&lt;/li&gt;  &lt;li&gt;&lt;rgb=#D5D505&gt;Guardian&lt;/rgb&gt;&lt;/li&gt;&lt;li&gt;&lt;rgb=#D5D505&gt;Hunter&lt;/rgb&gt;&lt;/li&gt;&lt;li&gt;&lt;rgb=#D5D505&gt;Lore-master&lt;/rgb&gt;&lt;/li&gt;&lt;li&gt;&lt;rgb=#D5D505&gt;Burglar&lt;/rgb&gt;&lt;/li&gt; &lt;li&gt;&lt;rgb=#D5D505&gt;Champion&lt;/rgb&gt;&lt;/li&gt;">
-<gender name="Race of Man (Male)" largeIconId="1090553984" iconId="1090553984" smallIconId="0" avatarId="1879073498"/>
-<gender name="Race of Man (Female)" largeIconId="1090553985" iconId="1090553985" smallIconId="0" avatarId="1879073500"/>
-<nationality id="17" name="Bree-land"/>
-<nationality id="16" name="Dale-lands"/>
-<nationality id="6" name="Gondor"/>
-<nationality id="5" name="Rohan"/>
+<race key="man" tall="true" description="Не отличаясь долгим веком эльфов, крепостью гномов и жизнерадостностью хоббитов, люди славятся своей смелостью и изобретательностью. Доступные классы: &lt;li&gt;&lt;rgb=#D5D505&gt;Менестрель&lt;/rgb&gt;&lt;/li&gt;&lt;li&gt;&lt;rgb=#D5D505&gt;Рыцарь&lt;/rgb&gt;&lt;/li&gt;  &lt;li&gt;&lt;rgb=#D5D505&gt;Страж&lt;/rgb&gt;&lt;/li&gt;&lt;li&gt;&lt;rgb=#D5D505&gt;Охотник&lt;/rgb&gt;&lt;/li&gt;&lt;li&gt;&lt;rgb=#D5D505&gt;Хранитель мудрости&lt;/rgb&gt;&lt;/li&gt;&lt;li&gt;&lt;rgb=#D5D505&gt;Взломщик&lt;/rgb&gt;&lt;/li&gt; &lt;li&gt;&lt;rgb=#D5D505&gt;Воитель&lt;/rgb&gt;&lt;/li&gt;">
+<gender name="Люди (муж)" largeIconId="1090553984" iconId="1090553984" smallIconId="0" avatarId="1879073498"/>
+<gender name="Люди (жен)" largeIconId="1090553985" iconId="1090553985" smallIconId="0" avatarId="1879073500"/>
+<nationality id="17" name="Земли Бри"/>
+<nationality id="16" name="Дейл"/>
+<nationality id="6" name="Гондор"/>
+<nationality id="5" name="Рохан"/>
 <allowedClass id="Burglar"/>
 <allowedClass id="Captain"/>
 <allowedClass id="Champion"/>
@@ -18,14 +18,14 @@
 <raceTrait minLevel="1" traitId="1879073504"/>
 <raceTrait minLevel="1" traitId="1879073505"/>
 </race>
-<race key="elf" tall="true" description="Long ago, the Elves welcomed the younger races of Middle-earth and allied with them when the need was great, but centuries of war, betrayal, and hardship have made them fiercely protective of their seclusion. Playable classes: &lt;li&gt;&lt;rgb=#D5D505&gt;Minstrel&lt;/rgb&gt;&lt;/li&gt;&lt;li&gt;&lt;rgb=#D5D505&gt;Guardian&lt;/rgb&gt;&lt;/li&gt; &lt;li&gt;&lt;rgb=#D5D505&gt;Hunter&lt;/rgb&gt;&lt;/li&gt;&lt;li&gt;&lt;rgb=#D5D505&gt;Lore-master&lt;/rgb&gt;&lt;/li&gt;&lt;li&gt;&lt;rgb=#D5D505&gt;Champion&lt;/rgb&gt;&lt;/li&gt;">
-<gender name="Elf (Male)" largeIconId="1090554005" iconId="1090554005" smallIconId="0" avatarId="1879073541"/>
-<gender name="Elf (Female)" largeIconId="1090554006" iconId="1090554006" smallIconId="0" avatarId="1879073543"/>
-<nationality id="15" name="Lindon"/>
-<nationality id="8" name="Lórien"/>
-<nationality id="11" name="Mirkwood"/>
-<nationality id="7" name="Rivendell"/>
-<nationality id="2" name="Edhellond"/>
+<race key="elf" tall="true" description="Давным-давно эльфы радушно приняли юные народы Средиземья и старались помогать им в час нужды, но столетия войн, предательств и бедствий заставили их отвернуться от мира. Доступные классы: &lt;li&gt;&lt;rgb=#D5D505&gt;Менестрель&lt;/rgb&gt;&lt;/li&gt;&lt;li&gt;&lt;rgb=#D5D505&gt;Страж&lt;/rgb&gt;&lt;/li&gt; &lt;li&gt;&lt;rgb=#D5D505&gt;Охотник&lt;/rgb&gt;&lt;/li&gt;&lt;li&gt;&lt;rgb=#D5D505&gt;Хранитель мудрости&lt;/rgb&gt;&lt;/li&gt;&lt;li&gt;&lt;rgb=#D5D505&gt;Воитель&lt;/rgb&gt;&lt;/li&gt;">
+<gender name="Эльф (муж)" largeIconId="1090554005" iconId="1090554005" smallIconId="0" avatarId="1879073541"/>
+<gender name="Эльф (жен)" largeIconId="1090554006" iconId="1090554006" smallIconId="0" avatarId="1879073543"/>
+<nationality id="15" name="Линдон"/>
+<nationality id="8" name="Лориэн"/>
+<nationality id="11" name="Лихолесье"/>
+<nationality id="7" name="Ривенделл"/>
+<nationality id="2" name="Эделлонд"/>
 <allowedClass id="Champion"/>
 <allowedClass id="Guardian"/>
 <allowedClass id="Hunter"/>
@@ -36,13 +36,13 @@
 <raceTrait minLevel="1" traitId="1879073547"/>
 <raceTrait minLevel="1" traitId="1879073548"/>
 </race>
-<race key="dwarf" tall="true" description="Dwellers of stone and miners of metal, the Dwarves are a doughty folk, resistant to the corruption of the Enemy -- but not to greed. Playable classes: &lt;li&gt;&lt;rgb=#D5D505&gt;Minstrel&lt;/rgb&gt;&lt;/li&gt;&lt;li&gt;&lt;rgb=#D5D505&gt;Guardian&lt;/rgb&gt;&lt;/li&gt;&lt;li&gt;&lt;rgb=#D5D505&gt;Hunter&lt;/rgb&gt;&lt;/li&gt;&lt;li&gt;&lt;rgb=#D5D505&gt;Champion&lt;/rgb&gt;&lt;/li&gt;">
-<gender name="Dwarf" largeIconId="1090554021" iconId="1090554021" smallIconId="0" avatarId="1879073580"/>
-<nationality id="4" name="Blue Mountains"/>
-<nationality id="3" name="Iron Hills"/>
-<nationality id="12" name="The Lonely Mountain"/>
-<nationality id="10" name="Grey Mountains"/>
-<nationality id="9" name="White Mountains"/>
+<race key="dwarf" tall="true" description="Обитатели подземных чертогов, гномы - искусные рудокопы и бесстрашные бойцы. Их сердца не смутит Враг… но может смутить блеск драгоценных камней Доступные классы: &lt;li&gt;&lt;rgb=#D5D505&gt;Менестрель&lt;/rgb&gt;&lt;/li&gt;&lt;li&gt;&lt;rgb=#D5D505&gt;Страж&lt;/rgb&gt;&lt;/li&gt;&lt;li&gt;&lt;rgb=#D5D505&gt;Охотник&lt;/rgb&gt;&lt;/li&gt;&lt;li&gt;&lt;rgb=#D5D505&gt;Воитель&lt;/rgb&gt;&lt;/li&gt;">
+<gender name="Гном" largeIconId="1090554021" iconId="1090554021" smallIconId="0" avatarId="1879073580"/>
+<nationality id="4" name="Синие горы"/>
+<nationality id="3" name="Железные Холмы"/>
+<nationality id="12" name="Одинокая гора"/>
+<nationality id="10" name="Серые Горы"/>
+<nationality id="9" name="Белые Горы"/>
 <allowedClass id="Champion"/>
 <allowedClass id="Guardian"/>
 <allowedClass id="Hunter"/>
@@ -53,12 +53,12 @@
 <raceTrait minLevel="1" traitId="1879073585"/>
 <raceTrait minLevel="1" traitId="1879064086"/>
 </race>
-<race key="hobbit" tall="true" description="Happiest when enjoying a simple life with six square meals a day, Hobbits are solid and dependable when called to action. Playable classes: &lt;li&gt;&lt;rgb=#D5D505&gt;Minstrel&lt;/rgb&gt;&lt;/li&gt; &lt;li&gt;&lt;rgb=#D5D505&gt;Guardian&lt;/rgb&gt;&lt;/li&gt;&lt;li&gt;&lt;rgb=#D5D505&gt;Hunter&lt;/rgb&gt;&lt;/li&gt;&lt;li&gt;&lt;rgb=#D5D505&gt;Burglar&lt;/rgb&gt;&lt;/li&gt;">
-<gender name="Hobbit (Male)" largeIconId="1090553961" iconId="1090553961" smallIconId="0" avatarId="1879073447"/>
-<gender name="Hobbit (Female)" largeIconId="1090553962" iconId="1090553962" smallIconId="0" avatarId="1879073449"/>
-<nationality id="18" name="Fallohide"/>
-<nationality id="14" name="Harfoot"/>
-<nationality id="13" name="Stoor"/>
+<race key="hobbit" tall="true" description="Хоббиты - кроткий народ, предпочитающий мирную жизнь и сытную еду, но в час нужды, хоббичьей стойкости можно только позавидовать. Доступные классы: &lt;li&gt;&lt;rgb=#D5D505&gt;Менестрель&lt;/rgb&gt;&lt;/li&gt; &lt;li&gt;&lt;rgb=#D5D505&gt;Страж&lt;/rgb&gt;&lt;/li&gt;&lt;li&gt;&lt;rgb=#D5D505&gt;Охотник&lt;/rgb&gt;&lt;/li&gt;&lt;li&gt;&lt;rgb=#D5D505&gt;Взломщик&lt;/rgb&gt;&lt;/li&gt;">
+<gender name="Хоббит (муж)" largeIconId="1090553961" iconId="1090553961" smallIconId="0" avatarId="1879073447"/>
+<gender name="Хоббит (жен)" largeIconId="1090553962" iconId="1090553962" smallIconId="0" avatarId="1879073449"/>
+<nationality id="18" name="Беляки"/>
+<nationality id="14" name="Лапитупы"/>
+<nationality id="13" name="Струсы"/>
 <allowedClass id="Burglar"/>
 <allowedClass id="Guardian"/>
 <allowedClass id="Hunter"/>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><crafting>
-<profession identifier="1879054946" key="SCHOLAR" name="Scholar" description="Able to decipher long lost lore" enabledProperty="Craft_Scholar_Enabled" masteryLevelProperty="Craft_Scholar_MasteryLevel" masteryXpProperty="Craft_Scholar_MasteryXP" proficiencyLevelProperty="Craft_Scholar_ProficiencyLevel" proficiencyXpProperty="Craft_Scholar_ProficiencyXP" extraRecipesProperty="Craft_Scholar_ExtraRecipeArray">
+<profession identifier="1879054946" key="SCHOLAR" name="Ученый" description="Ученый изучает древние рукописи." enabledProperty="Craft_Scholar_Enabled" masteryLevelProperty="Craft_Scholar_MasteryLevel" masteryXpProperty="Craft_Scholar_MasteryXP" proficiencyLevelProperty="Craft_Scholar_ProficiencyLevel" proficiencyXpProperty="Craft_Scholar_ProficiencyXP" extraRecipesProperty="Craft_Scholar_ExtraRecipeArray">
 <professionTier identifier="0" name="Beginner" icon="">
 <proficiency xp="0"/>
 <mastery xp="0"/>
 </professionTier>
-<professionTier identifier="1" name="Apprentice" icon="1091476013-1090522692">
+<professionTier identifier="1" name="Начинающий" icon="1091476020-1090522692">
 <recipe id="1879054958"/>
 <recipe id="1879054959"/>
 <recipe id="1879054960"/>
@@ -17,7 +17,7 @@
 <proficiency titleId="1879054954" xp="200"/>
 <mastery titleId="1879054955" xp="400"/>
 </professionTier>
-<professionTier identifier="2" name="Journeyman" icon="1091476018-1090522692">
+<professionTier identifier="2" name="Умелый" icon="1091476009-1090522692">
 <recipe id="1879054968"/>
 <recipe id="1879054969"/>
 <recipe id="1879054970"/>
@@ -28,7 +28,7 @@
 <proficiency titleId="1879054964" xp="280"/>
 <mastery titleId="1879054965" xp="560"/>
 </professionTier>
-<professionTier identifier="3" name="Expert" icon="1091476011-1090522692">
+<professionTier identifier="3" name="Сведущий" icon="1091476007-1090522692">
 <recipe id="1879054976"/>
 <recipe id="1879054977"/>
 <recipe id="1879054978"/>
@@ -41,7 +41,7 @@
 <proficiency titleId="1879054972" xp="360"/>
 <mastery titleId="1879054973" xp="720"/>
 </professionTier>
-<professionTier identifier="4" name="Artisan" icon="1091476014-1090522692">
+<professionTier identifier="4" name="Знающий" icon="1091475978-1090522692">
 <recipe id="1879054986"/>
 <recipe id="1879054987"/>
 <recipe id="1879054988"/>
@@ -52,7 +52,7 @@
 <proficiency titleId="1879054982" xp="440"/>
 <mastery titleId="1879054983" xp="880"/>
 </professionTier>
-<professionTier identifier="5" name="Master" icon="1091476016-1090522692">
+<professionTier identifier="5" name="Искусный" icon="1091475982-1090522692">
 <recipe id="1879054994"/>
 <recipe id="1879054995"/>
 <recipe id="1879054996"/>
@@ -64,12 +64,12 @@
 <mastery titleId="1879054991" xp="1040"/>
 </professionTier>
 </profession>
-<profession identifier="1879055079" key="METALSMITH" name="Metalsmith" description="Crafter of metal armours and shields." enabledProperty="Craft_Metalsmith_Enabled" masteryLevelProperty="Craft_Metalsmith_MasteryLevel" masteryXpProperty="Craft_Metalsmith_MasteryXP" proficiencyLevelProperty="Craft_Metalsmith_ProficiencyLevel" proficiencyXpProperty="Craft_Metalsmith_ProficiencyXP" extraRecipesProperty="Craft_Metalsmith_ExtraRecipeArray">
+<profession identifier="1879055079" key="METALSMITH" name="Кузнец" description="Кузнец делает металлические доспехи и щиты." enabledProperty="Craft_Metalsmith_Enabled" masteryLevelProperty="Craft_Metalsmith_MasteryLevel" masteryXpProperty="Craft_Metalsmith_MasteryXP" proficiencyLevelProperty="Craft_Metalsmith_ProficiencyLevel" proficiencyXpProperty="Craft_Metalsmith_ProficiencyXP" extraRecipesProperty="Craft_Metalsmith_ExtraRecipeArray">
 <professionTier identifier="0" name="Beginner" icon="">
 <proficiency xp="0"/>
 <mastery xp="0"/>
 </professionTier>
-<professionTier identifier="1" name="Apprentice" icon="1091476051-1090522692">
+<professionTier identifier="1" name="Начинающий" icon="1091475986-1090522692">
 <recipe id="1879055091"/>
 <recipe id="1879055092"/>
 <recipe id="1879055093"/>
@@ -82,7 +82,7 @@
 <proficiency titleId="1879055087" xp="200"/>
 <mastery titleId="1879055088" xp="400"/>
 </professionTier>
-<professionTier identifier="2" name="Journeyman" icon="1091476044-1090522692">
+<professionTier identifier="2" name="Умелый" icon="1091475993-1090522692">
 <recipe id="1879055104"/>
 <recipe id="1879055105"/>
 <recipe id="1879055106"/>
@@ -96,7 +96,7 @@
 <proficiency titleId="1879055100" xp="280"/>
 <mastery titleId="1879055101" xp="560"/>
 </professionTier>
-<professionTier identifier="3" name="Expert" icon="1091476032-1090522692">
+<professionTier identifier="3" name="Сведущий" icon="1091475995-1090522692">
 <recipe id="1879055118"/>
 <recipe id="1879055119"/>
 <recipe id="1879055120"/>
@@ -111,7 +111,7 @@
 <proficiency titleId="1879055114" xp="360"/>
 <mastery titleId="1879055115" xp="720"/>
 </professionTier>
-<professionTier identifier="4" name="Artisan" icon="1091476003-1090522692">
+<professionTier identifier="4" name="Знающий" icon="1091475997-1090522692">
 <recipe id="1879055133"/>
 <recipe id="1879055134"/>
 <recipe id="1879055135"/>
@@ -126,7 +126,7 @@
 <proficiency titleId="1879055129" xp="440"/>
 <mastery titleId="1879055130" xp="880"/>
 </professionTier>
-<professionTier identifier="5" name="Master" icon="1091476005-1090522692">
+<professionTier identifier="5" name="Искусный" icon="1091475999-1090522692">
 <recipe id="1879055148"/>
 <recipe id="1879055149"/>
 <recipe id="1879055150"/>
@@ -142,12 +142,12 @@
 <mastery titleId="1879055145" xp="1040"/>
 </professionTier>
 </profession>
-<profession identifier="1879055299" key="JEWELLER" name="Jeweller" description="Creates rings and necklaces" enabledProperty="Craft_Jeweller_Enabled" masteryLevelProperty="Craft_Jeweller_MasteryLevel" masteryXpProperty="Craft_Jeweller_MasteryXP" proficiencyLevelProperty="Craft_Jeweller_ProficiencyLevel" proficiencyXpProperty="Craft_Jeweller_ProficiencyXP" extraRecipesProperty="Craft_Jeweller_ExtraRecipeArray">
+<profession identifier="1879055299" key="JEWELLER" name="Ювелир" description="Ювелир мастерит кольца и ожерелья." enabledProperty="Craft_Jeweller_Enabled" masteryLevelProperty="Craft_Jeweller_MasteryLevel" masteryXpProperty="Craft_Jeweller_MasteryXP" proficiencyLevelProperty="Craft_Jeweller_ProficiencyLevel" proficiencyXpProperty="Craft_Jeweller_ProficiencyXP" extraRecipesProperty="Craft_Jeweller_ExtraRecipeArray">
 <professionTier identifier="0" name="Beginner" icon="">
 <proficiency xp="0"/>
 <mastery xp="0"/>
 </professionTier>
-<professionTier identifier="1" name="Apprentice" icon="1091476050-1090522692">
+<professionTier identifier="1" name="Начинающий" icon="1091476054-1090522692">
 <recipe id="1879055313"/>
 <recipe id="1879055314"/>
 <recipe id="1879055315"/>
@@ -159,7 +159,7 @@
 <proficiency titleId="1879055309" xp="200"/>
 <mastery titleId="1879055310" xp="400"/>
 </professionTier>
-<professionTier identifier="2" name="Journeyman" icon="1091476038-1090522692">
+<professionTier identifier="2" name="Умелый" icon="1091476022-1090522692">
 <recipe id="1879055323"/>
 <recipe id="1879055324"/>
 <recipe id="1879055325"/>
@@ -171,7 +171,7 @@
 <proficiency titleId="1879055319" xp="280"/>
 <mastery titleId="1879055320" xp="560"/>
 </professionTier>
-<professionTier identifier="3" name="Expert" icon="1091476040-1090522692">
+<professionTier identifier="3" name="Сведущий" icon="1091476024-1090522692">
 <recipe id="1879055333"/>
 <recipe id="1879055334"/>
 <recipe id="1879055335"/>
@@ -183,7 +183,7 @@
 <proficiency titleId="1879055329" xp="360"/>
 <mastery titleId="1879055330" xp="720"/>
 </professionTier>
-<professionTier identifier="4" name="Artisan" icon="1091476048-1090522692">
+<professionTier identifier="4" name="Знающий" icon="1091475980-1090522692">
 <recipe id="1879055343"/>
 <recipe id="1879055344"/>
 <recipe id="1879055345"/>
@@ -194,7 +194,7 @@
 <proficiency titleId="1879055339" xp="440"/>
 <mastery titleId="1879055340" xp="880"/>
 </professionTier>
-<professionTier identifier="5" name="Master" icon="1091476046-1090522692">
+<professionTier identifier="5" name="Искусный" icon="1091475984-1090522692">
 <recipe id="1879055352"/>
 <recipe id="1879055353"/>
 <recipe id="1879055354"/>
@@ -207,12 +207,12 @@
 <mastery titleId="1879055349" xp="1040"/>
 </professionTier>
 </profession>
-<profession identifier="1879055477" key="TAILOR" name="Tailor" description="Crafter of leather and other light armour" enabledProperty="Craft_Tailor_Enabled" masteryLevelProperty="Craft_Tailor_MasteryLevel" masteryXpProperty="Craft_Tailor_MasteryXP" proficiencyLevelProperty="Craft_Tailor_ProficiencyLevel" proficiencyXpProperty="Craft_Tailor_ProficiencyXP" extraRecipesProperty="Craft_Tailor_ExtraRecipeArray">
+<profession identifier="1879055477" key="TAILOR" name="Портной" description="Портной делает легкие и средние доспехи - кожаные и суконные." enabledProperty="Craft_Tailor_Enabled" masteryLevelProperty="Craft_Tailor_MasteryLevel" masteryXpProperty="Craft_Tailor_MasteryXP" proficiencyLevelProperty="Craft_Tailor_ProficiencyLevel" proficiencyXpProperty="Craft_Tailor_ProficiencyXP" extraRecipesProperty="Craft_Tailor_ExtraRecipeArray">
 <professionTier identifier="0" name="Beginner" icon="">
 <proficiency xp="0"/>
 <mastery xp="0"/>
 </professionTier>
-<professionTier identifier="1" name="Apprentice" icon="1091476020-1090522692">
+<professionTier identifier="1" name="Начинающий" icon="1091585917-1090522692">
 <recipe id="1879055490"/>
 <recipe id="1879055491"/>
 <recipe id="1879055492"/>
@@ -232,7 +232,7 @@
 <proficiency titleId="1879055486" xp="200"/>
 <mastery titleId="1879055487" xp="400"/>
 </professionTier>
-<professionTier identifier="2" name="Journeyman" icon="1091476009-1090522692">
+<professionTier identifier="2" name="Умелый" icon="1091585930-1090522692">
 <recipe id="1879055508"/>
 <recipe id="1879055509"/>
 <recipe id="1879055510"/>
@@ -253,7 +253,7 @@
 <proficiency titleId="1879055504" xp="280"/>
 <mastery titleId="1879055505" xp="560"/>
 </professionTier>
-<professionTier identifier="3" name="Expert" icon="1091476007-1090522692">
+<professionTier identifier="3" name="Сведущий" icon="1091585920-1090522692">
 <recipe id="1879055527"/>
 <recipe id="1879055528"/>
 <recipe id="1879055529"/>
@@ -275,7 +275,7 @@
 <proficiency titleId="1879055523" xp="360"/>
 <mastery titleId="1879055524" xp="720"/>
 </professionTier>
-<professionTier identifier="4" name="Artisan" icon="1091475978-1090522692">
+<professionTier identifier="4" name="Знающий" icon="1091585918-1090522692">
 <recipe id="1879055547"/>
 <recipe id="1879055548"/>
 <recipe id="1879055549"/>
@@ -297,7 +297,7 @@
 <proficiency titleId="1879055543" xp="440"/>
 <mastery titleId="1879055544" xp="880"/>
 </professionTier>
-<professionTier identifier="5" name="Master" icon="1091475982-1090522692">
+<professionTier identifier="5" name="Искусный" icon="1091585922-1090522692">
 <recipe id="1879055567"/>
 <recipe id="1879055568"/>
 <recipe id="1879055569"/>
@@ -320,12 +320,12 @@
 <mastery titleId="1879055564" xp="1040"/>
 </professionTier>
 </profession>
-<profession identifier="1879055778" key="WEAPONSMITH" name="Weaponsmith" description="Crafter of fine metal weapons" enabledProperty="Craft_Weaponsmith_Enabled" masteryLevelProperty="Craft_Weaponsmith_MasteryLevel" masteryXpProperty="Craft_Weaponsmith_MasteryXP" proficiencyLevelProperty="Craft_Weaponsmith_ProficiencyLevel" proficiencyXpProperty="Craft_Weaponsmith_ProficiencyXP" extraRecipesProperty="Craft_Weaponsmith_ExtraRecipeArray">
+<profession identifier="1879055778" key="WEAPONSMITH" name="Оружейник" description="Оружейник изготавливает металлическое оружие." enabledProperty="Craft_Weaponsmith_Enabled" masteryLevelProperty="Craft_Weaponsmith_MasteryLevel" masteryXpProperty="Craft_Weaponsmith_MasteryXP" proficiencyLevelProperty="Craft_Weaponsmith_ProficiencyLevel" proficiencyXpProperty="Craft_Weaponsmith_ProficiencyXP" extraRecipesProperty="Craft_Weaponsmith_ExtraRecipeArray">
 <professionTier identifier="0" name="Beginner" icon="">
 <proficiency xp="0"/>
 <mastery xp="0"/>
 </professionTier>
-<professionTier identifier="1" name="Apprentice" icon="1091476071-1090522692">
+<professionTier identifier="1" name="Начинающий" icon="1091476050-1090522692">
 <recipe id="1879055789"/>
 <recipe id="1879055790"/>
 <recipe id="1879055791"/>
@@ -336,7 +336,7 @@
 <proficiency titleId="1879055785" xp="200"/>
 <mastery titleId="1879055786" xp="400"/>
 </professionTier>
-<professionTier identifier="2" name="Journeyman" icon="1091476036-1090522692">
+<professionTier identifier="2" name="Умелый" icon="1091476038-1090522692">
 <recipe id="1879055800"/>
 <recipe id="1879055801"/>
 <recipe id="1879055802"/>
@@ -348,7 +348,7 @@
 <proficiency titleId="1879055796" xp="280"/>
 <mastery titleId="1879055797" xp="560"/>
 </professionTier>
-<professionTier identifier="3" name="Expert" icon="1091476042-1090522692">
+<professionTier identifier="3" name="Сведущий" icon="1091476040-1090522692">
 <recipe id="1879055812"/>
 <recipe id="1879055813"/>
 <recipe id="1879055814"/>
@@ -361,7 +361,7 @@
 <proficiency titleId="1879055808" xp="360"/>
 <mastery titleId="1879055809" xp="720"/>
 </professionTier>
-<professionTier identifier="4" name="Artisan" icon="1091476030-1090522692">
+<professionTier identifier="4" name="Знающий" icon="1091476048-1090522692">
 <recipe id="1879055825"/>
 <recipe id="1879055826"/>
 <recipe id="1879055827"/>
@@ -374,7 +374,7 @@
 <proficiency titleId="1879055821" xp="440"/>
 <mastery titleId="1879055822" xp="880"/>
 </professionTier>
-<professionTier identifier="5" name="Master" icon="1091476034-1090522692">
+<professionTier identifier="5" name="Искусный" icon="1091476046-1090522692">
 <recipe id="1879055838"/>
 <recipe id="1879055839"/>
 <recipe id="1879055840"/>
@@ -388,12 +388,12 @@
 <mastery titleId="1879055835" xp="1040"/>
 </professionTier>
 </profession>
-<profession identifier="1879055941" key="WOODWORKER" name="Woodworker" description="Crafter of fine hafted weapons and bows" enabledProperty="Craft_Woodworker_Enabled" masteryLevelProperty="Craft_Woodworker_MasteryLevel" masteryXpProperty="Craft_Woodworker_MasteryXP" proficiencyLevelProperty="Craft_Woodworker_ProficiencyLevel" proficiencyXpProperty="Craft_Woodworker_ProficiencyXP" extraRecipesProperty="Craft_Woodworker_ExtraRecipeArray">
+<profession identifier="1879055941" key="WOODWORKER" name="Деревообработчик" description="Деревообработчик делает древковое оружие и луки." enabledProperty="Craft_Woodworker_Enabled" masteryLevelProperty="Craft_Woodworker_MasteryLevel" masteryXpProperty="Craft_Woodworker_MasteryXP" proficiencyLevelProperty="Craft_Woodworker_ProficiencyLevel" proficiencyXpProperty="Craft_Woodworker_ProficiencyXP" extraRecipesProperty="Craft_Woodworker_ExtraRecipeArray">
 <professionTier identifier="0" name="Beginner" icon="">
 <proficiency xp="0"/>
 <mastery xp="0"/>
 </professionTier>
-<professionTier identifier="1" name="Apprentice" icon="1091476054-1090522692">
+<professionTier identifier="1" name="Начинающий" icon="1091476021-1090522692">
 <recipe id="1879055953"/>
 <recipe id="1879055954"/>
 <recipe id="1879055955"/>
@@ -404,7 +404,7 @@
 <proficiency titleId="1879055949" xp="200"/>
 <mastery titleId="1879055950" xp="400"/>
 </professionTier>
-<professionTier identifier="2" name="Journeyman" icon="1091476022-1090522692">
+<professionTier identifier="2" name="Умелый" icon="1091476001-1090522692">
 <recipe id="1879055964"/>
 <recipe id="1879055965"/>
 <recipe id="1879055966"/>
@@ -416,7 +416,7 @@
 <proficiency titleId="1879055960" xp="280"/>
 <mastery titleId="1879055961" xp="560"/>
 </professionTier>
-<professionTier identifier="3" name="Expert" icon="1091476024-1090522692">
+<professionTier identifier="3" name="Сведущий" icon="1091476026-1090522692">
 <recipe id="1879055976"/>
 <recipe id="1879055977"/>
 <recipe id="1879055978"/>
@@ -429,7 +429,7 @@
 <proficiency titleId="1879055972" xp="360"/>
 <mastery titleId="1879055973" xp="720"/>
 </professionTier>
-<professionTier identifier="4" name="Artisan" icon="1091475980-1090522692">
+<professionTier identifier="4" name="Знающий" icon="1091475976-1090522692">
 <recipe id="1879055989"/>
 <recipe id="1879055990"/>
 <recipe id="1879055991"/>
@@ -442,7 +442,7 @@
 <proficiency titleId="1879055985" xp="440"/>
 <mastery titleId="1879055986" xp="880"/>
 </professionTier>
-<professionTier identifier="5" name="Master" icon="1091475984-1090522692">
+<professionTier identifier="5" name="Искусный" icon="1091476028-1090522692">
 <recipe id="1879056002"/>
 <recipe id="1879056003"/>
 <recipe id="1879056004"/>
@@ -456,12 +456,12 @@
 <mastery titleId="1879055999" xp="1040"/>
 </professionTier>
 </profession>
-<profession identifier="1879061252" key="COOK" name="Cook" description="Cooks food and prepares beverages" enabledProperty="Craft_Cook_Enabled" masteryLevelProperty="Craft_Cook_MasteryLevel" masteryXpProperty="Craft_Cook_MasteryXP" proficiencyLevelProperty="Craft_Cook_ProficiencyLevel" proficiencyXpProperty="Craft_Cook_ProficiencyXP" extraRecipesProperty="Craft_Cook_ExtraRecipeArray">
+<profession identifier="1879061252" key="COOK" name="Повар" description="Повар готовит еду и напитки." enabledProperty="Craft_Cook_Enabled" masteryLevelProperty="Craft_Cook_MasteryLevel" masteryXpProperty="Craft_Cook_MasteryXP" proficiencyLevelProperty="Craft_Cook_ProficiencyLevel" proficiencyXpProperty="Craft_Cook_ProficiencyXP" extraRecipesProperty="Craft_Cook_ExtraRecipeArray">
 <professionTier identifier="0" name="Beginner" icon="">
 <proficiency xp="0"/>
 <mastery xp="0"/>
 </professionTier>
-<professionTier identifier="1" name="Apprentice" icon="1091476021-1090522692">
+<professionTier identifier="1" name="Начинающий" icon="1091476051-1090522692">
 <recipe id="1879061265"/>
 <recipe id="1879061266"/>
 <recipe id="1879061267"/>
@@ -472,7 +472,7 @@
 <proficiency titleId="1879061261" xp="200"/>
 <mastery titleId="1879061262" xp="400"/>
 </professionTier>
-<professionTier identifier="2" name="Journeyman" icon="1091476001-1090522692">
+<professionTier identifier="2" name="Умелый" icon="1091476044-1090522692">
 <recipe id="1879061276"/>
 <recipe id="1879061277"/>
 <recipe id="1879061278"/>
@@ -484,7 +484,7 @@
 <proficiency titleId="1879061272" xp="280"/>
 <mastery titleId="1879061273" xp="560"/>
 </professionTier>
-<professionTier identifier="3" name="Expert" icon="1091476026-1090522692">
+<professionTier identifier="3" name="Сведущий" icon="1091476032-1090522692">
 <recipe id="1879061288"/>
 <recipe id="1879061289"/>
 <recipe id="1879061290"/>
@@ -496,7 +496,7 @@
 <proficiency titleId="1879061284" xp="360"/>
 <mastery titleId="1879061285" xp="720"/>
 </professionTier>
-<professionTier identifier="4" name="Artisan" icon="1091475976-1090522692">
+<professionTier identifier="4" name="Знающий" icon="1091476003-1090522692">
 <recipe id="1879061300"/>
 <recipe id="1879061301"/>
 <recipe id="1879061302"/>
@@ -508,7 +508,7 @@
 <proficiency titleId="1879061296" xp="440"/>
 <mastery titleId="1879061297" xp="880"/>
 </professionTier>
-<professionTier identifier="5" name="Master" icon="1091476028-1090522692">
+<professionTier identifier="5" name="Искусный" icon="1091476005-1090522692">
 <recipe id="1879061312"/>
 <recipe id="1879061313"/>
 <recipe id="1879061314"/>
@@ -521,12 +521,12 @@
 <mastery titleId="1879061309" xp="1040"/>
 </professionTier>
 </profession>
-<profession identifier="1879062816" key="FARMER" name="Farmer" description="Farms fruits, vegetables and pipeweed." enabledProperty="Craft_Farmer_Enabled" masteryLevelProperty="Craft_Farmer_MasteryLevel" masteryXpProperty="Craft_Farmer_MasteryXP" proficiencyLevelProperty="Craft_Farmer_ProficiencyLevel" proficiencyXpProperty="Craft_Farmer_ProficiencyXP" extraRecipesProperty="Craft_Farmer_ExtraRecipeArray">
+<profession identifier="1879062816" key="FARMER" name="Фермер" description="Фермер выращивает фрукты, овощи и табачок." enabledProperty="Craft_Farmer_Enabled" masteryLevelProperty="Craft_Farmer_MasteryLevel" masteryXpProperty="Craft_Farmer_MasteryXP" proficiencyLevelProperty="Craft_Farmer_ProficiencyLevel" proficiencyXpProperty="Craft_Farmer_ProficiencyXP" extraRecipesProperty="Craft_Farmer_ExtraRecipeArray">
 <professionTier identifier="0" name="Beginner" icon="">
 <proficiency xp="0"/>
 <mastery xp="0"/>
 </professionTier>
-<professionTier identifier="1" name="Apprentice" icon="1091475986-1090522692">
+<professionTier identifier="1" name="Начинающий" icon="1091476071-1090522692">
 <recipe id="1879062914"/>
 <recipe id="1879062915"/>
 <recipe id="1879062916"/>
@@ -539,7 +539,7 @@
 <proficiency titleId="1879062910" xp="200"/>
 <mastery titleId="1879062911" xp="400"/>
 </professionTier>
-<professionTier identifier="2" name="Journeyman" icon="1091475993-1090522692">
+<professionTier identifier="2" name="Умелый" icon="1091476036-1090522692">
 <recipe id="1879062927"/>
 <recipe id="1879062928"/>
 <recipe id="1879062929"/>
@@ -549,7 +549,7 @@
 <proficiency titleId="1879062923" xp="280"/>
 <mastery titleId="1879062924" xp="560"/>
 </professionTier>
-<professionTier identifier="3" name="Expert" icon="1091475995-1090522692">
+<professionTier identifier="3" name="Сведущий" icon="1091476042-1090522692">
 <recipe id="1879062937"/>
 <recipe id="1879062938"/>
 <recipe id="1879062939"/>
@@ -559,14 +559,14 @@
 <proficiency titleId="1879062933" xp="360"/>
 <mastery titleId="1879062934" xp="720"/>
 </professionTier>
-<professionTier identifier="4" name="Artisan" icon="1091475997-1090522692">
+<professionTier identifier="4" name="Знающий" icon="1091476030-1090522692">
 <recipe id="1879062947"/>
 <recipe id="1879062948"/>
 <recipe id="1879062949"/>
 <proficiency titleId="1879062943" xp="440"/>
 <mastery titleId="1879062944" xp="880"/>
 </professionTier>
-<professionTier identifier="5" name="Master" icon="1091475999-1090522692">
+<professionTier identifier="5" name="Искусный" icon="1091476034-1090522692">
 <recipe id="1879062954"/>
 <recipe id="1879062955"/>
 <recipe id="1879062956"/>
@@ -574,36 +574,36 @@
 <mastery titleId="1879062951" xp="1040"/>
 </professionTier>
 </profession>
-<profession identifier="1879062817" key="FORESTER" name="Forester" description="Gatherer of workable wood and treater of raw hides" enabledProperty="Craft_Forester_Enabled" masteryLevelProperty="Craft_Forester_MasteryLevel" masteryXpProperty="Craft_Forester_MasteryXP" proficiencyLevelProperty="Craft_Forester_ProficiencyLevel" proficiencyXpProperty="Craft_Forester_ProficiencyXP" extraRecipesProperty="Craft_Forester_ExtraRecipeArray">
+<profession identifier="1879062817" key="FORESTER" name="Лесоруб" description="Лесоруб собирает пригодную к обработке древесину и выделывает шкуры." enabledProperty="Craft_Forester_Enabled" masteryLevelProperty="Craft_Forester_MasteryLevel" masteryXpProperty="Craft_Forester_MasteryXP" proficiencyLevelProperty="Craft_Forester_ProficiencyLevel" proficiencyXpProperty="Craft_Forester_ProficiencyXP" extraRecipesProperty="Craft_Forester_ExtraRecipeArray">
 <professionTier identifier="0" name="Beginner" icon="">
 <proficiency xp="0"/>
 <mastery xp="0"/>
 </professionTier>
-<professionTier identifier="1" name="Apprentice" icon="1091585932-1090522692">
+<professionTier identifier="1" name="Начинающий" icon="1091585932-1090522692">
 <recipe id="1879062875"/>
 <recipe id="1879062876"/>
 <proficiency titleId="1879062871" xp="200"/>
 <mastery titleId="1879062872" xp="400"/>
 </professionTier>
-<professionTier identifier="2" name="Journeyman" icon="1091476052-1090522692">
+<professionTier identifier="2" name="Умелый" icon="1091476052-1090522692">
 <recipe id="1879062881"/>
 <recipe id="1879062882"/>
 <proficiency titleId="1879062877" xp="280"/>
 <mastery titleId="1879062878" xp="560"/>
 </professionTier>
-<professionTier identifier="3" name="Expert" icon="1091585928-1090522692">
+<professionTier identifier="3" name="Сведущий" icon="1091585928-1090522692">
 <recipe id="1879062887"/>
 <recipe id="1879062888"/>
 <proficiency titleId="1879062883" xp="360"/>
 <mastery titleId="1879062884" xp="720"/>
 </professionTier>
-<professionTier identifier="4" name="Artisan" icon="1091585924-1090522692">
+<professionTier identifier="4" name="Знающий" icon="1091585924-1090522692">
 <recipe id="1879062893"/>
 <recipe id="1879062894"/>
 <proficiency titleId="1879062889" xp="440"/>
 <mastery titleId="1879062890" xp="880"/>
 </professionTier>
-<professionTier identifier="5" name="Master" icon="1091585933-1090522692">
+<professionTier identifier="5" name="Искусный" icon="1091585933-1090522692">
 <recipe id="1879062899"/>
 <recipe id="1879062900"/>
 <recipe id="1879092713"/>
@@ -612,25 +612,25 @@
 <mastery titleId="1879062896" xp="1040"/>
 </professionTier>
 </profession>
-<profession identifier="1879062818" key="PROSPECTOR" name="Prospector" description="Miner and smelter of raw metals" enabledProperty="Craft_Prospector_Enabled" masteryLevelProperty="Craft_Prospector_MasteryLevel" masteryXpProperty="Craft_Prospector_MasteryXP" proficiencyLevelProperty="Craft_Prospector_ProficiencyLevel" proficiencyXpProperty="Craft_Prospector_ProficiencyXP" extraRecipesProperty="Craft_Prospector_ExtraRecipeArray">
+<profession identifier="1879062818" key="PROSPECTOR" name="Рудокоп" description="Рудокоп добывает руду и выплавляет металлы." enabledProperty="Craft_Prospector_Enabled" masteryLevelProperty="Craft_Prospector_MasteryLevel" masteryXpProperty="Craft_Prospector_MasteryXP" proficiencyLevelProperty="Craft_Prospector_ProficiencyLevel" proficiencyXpProperty="Craft_Prospector_ProficiencyXP" extraRecipesProperty="Craft_Prospector_ExtraRecipeArray">
 <professionTier identifier="0" name="Beginner" icon="">
 <proficiency xp="0"/>
 <mastery xp="0"/>
 </professionTier>
-<professionTier identifier="1" name="Apprentice" icon="1091585917-1090522692">
+<professionTier identifier="1" name="Начинающий" icon="1091476013-1090522692">
 <recipe id="1879062824"/>
 <recipe id="1879062825"/>
 <proficiency titleId="1879062820" xp="200"/>
 <mastery titleId="1879062821" xp="400"/>
 </professionTier>
-<professionTier identifier="2" name="Journeyman" icon="1091585930-1090522692">
+<professionTier identifier="2" name="Умелый" icon="1091476018-1090522692">
 <recipe id="1879062830"/>
 <recipe id="1879062831"/>
 <recipe id="1879062832"/>
 <proficiency titleId="1879062826" xp="280"/>
 <mastery titleId="1879062827" xp="560"/>
 </professionTier>
-<professionTier identifier="3" name="Expert" icon="1091585920-1090522692">
+<professionTier identifier="3" name="Сведущий" icon="1091476011-1090522692">
 <recipe id="1879062837"/>
 <recipe id="1879062838"/>
 <recipe id="1879062839"/>
@@ -638,7 +638,7 @@
 <proficiency titleId="1879062833" xp="360"/>
 <mastery titleId="1879062834" xp="720"/>
 </professionTier>
-<professionTier identifier="4" name="Artisan" icon="1091585918-1090522692">
+<professionTier identifier="4" name="Знающий" icon="1091476014-1090522692">
 <recipe id="1879062845"/>
 <recipe id="1879062846"/>
 <recipe id="1879062847"/>
@@ -646,7 +646,7 @@
 <proficiency titleId="1879062841" xp="440"/>
 <mastery titleId="1879062842" xp="880"/>
 </professionTier>
-<professionTier identifier="5" name="Master" icon="1091585922-1090522692">
+<professionTier identifier="5" name="Искусный" icon="1091476016-1090522692">
 <recipe id="1879062853"/>
 <recipe id="1879062854"/>
 <recipe id="1879062855"/>
@@ -656,37 +656,37 @@
 <mastery titleId="1879062850" xp="1040"/>
 </professionTier>
 </profession>
-<vocation identifier="1879062809" key="ARMOURER" name="Armourer" description="An Armourer knows that all that stands between a good soul and the grave is often a thin sheet of metal.">
+<vocation identifier="1879062809" key="ARMOURER" name="Бронник" description="Всякий бронник знает, что часто грань между жизнью и смертью храброго воина отмечает лишь тонкий лист металла.">
 <profession identifier="1879062818"/>
 <profession identifier="1879055079"/>
 <profession identifier="1879055477"/>
 </vocation>
-<vocation identifier="1879062810" key="EXPLORER" name="Explorer" description="These canny travellers know much of the lands of Middle-Earth and its resources.">
+<vocation identifier="1879062810" key="EXPLORER" name="Исследователь" description="Исследователи немало повидали и знают все о том, какими ресурсами богаты края Средиземья.">
 <profession identifier="1879055477"/>
 <profession identifier="1879062817"/>
 <profession identifier="1879062818"/>
 </vocation>
-<vocation identifier="1879062811" key="ARMSMAN" name="Armsman" description="An Armsman knows the many secrets of weaponry, and can craft almost any weapon imaginable.">
+<vocation identifier="1879062811" key="ARMSMAN" name="Мастер-оружейник" description="Мастера-оружейники - умелые ремесленники. Они могут изготовить практически любое оружие, которое только можно вообразить.">
 <profession identifier="1879055778"/>
 <profession identifier="1879055941"/>
 <profession identifier="1879062818"/>
 </vocation>
-<vocation identifier="1879062812" key="TINKER" name="Tinker" description="Fascinated by things intricate and beautiful, the Tinker seeks to create great things.">
+<vocation identifier="1879062812" key="TINKER" name="Медник" description="Медника влечет все тонкое и изящное. Он создает удивительные и великолепные изделия.">
 <profession identifier="1879055299"/>
 <profession identifier="1879062818"/>
 <profession identifier="1879061252"/>
 </vocation>
-<vocation identifier="1879062813" key="YEOMAN" name="Yeoman" description="Hard-working and knowledgeable about the land, a Yeoman is well versed in farming, cooking, and forestry.">
+<vocation identifier="1879062813" key="YEOMAN" name="Йомен" description="Йомены трудолюбивы и прекрасно понимают землю; они сведущи в фермерстве, приготовлении пищи и рубке леса.">
 <profession identifier="1879061252"/>
 <profession identifier="1879062816"/>
 <profession identifier="1879055477"/>
 </vocation>
-<vocation identifier="1879062814" key="WOODSMAN" name="Woodsman" description="A Woodsman is trained to survive off the land, and make weapons from natural materials.">
+<vocation identifier="1879062814" key="WOODSMAN" name="Лесник" description="Лесник умеет выживать в диких землях и изготавливать оружие из природных материалов.">
 <profession identifier="1879055941"/>
 <profession identifier="1879062817"/>
 <profession identifier="1879062816"/>
 </vocation>
-<vocation identifier="1879062815" key="HISTORIAN" name="Historian" description="Historians are the caretakers of lore and legend that the forces of light dare not forget.">
+<vocation identifier="1879062815" key="HISTORIAN" name="Историк" description="Историки хранят древние предания и легенды, в которых содержатся уроки, важные и по сию пору.">
 <profession identifier="1879054946"/>
 <profession identifier="1879062816"/>
 <profession identifier="1879055778"/>

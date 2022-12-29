@@ -1,291 +1,291 @@
 <?xml version="1.0" encoding="UTF-8"?><genericMobLoot>
-<species code="1" name="Wraith">
+<species code="1" name="Привидение">
 <subSpecies>
 <mobType/>
 </subSpecies>
 </species>
-<species code="3" name="Decayed">
+<species code="3" name="Разлагающийся труп">
 <subSpecies>
 <mobType/>
 </subSpecies>
 </species>
-<species code="5" name="Aurochs">
+<species code="5" name="Тур">
 <subSpecies>
 <mobType/>
-<mobType code="7" name="Elite"/>
+<mobType code="7" name="Элита"/>
 </subSpecies>
 </species>
-<species code="6" name="Uruk">
-<subSpecies>
-<mobType/>
-</subSpecies>
-</species>
-<species code="7" name="Orc">
+<species code="6" name="Урук">
 <subSpecies>
 <mobType/>
 </subSpecies>
 </species>
-<species code="8" name="Half-orc">
+<species code="7" name="Орк">
 <subSpecies>
 <mobType/>
 </subSpecies>
 </species>
-<species code="9" name="Dread Turtle">
-<subSpecies>
-<mobType/>
-<mobType code="7" name="Elite"/>
-</subSpecies>
-</species>
-<species code="10" name="Bear">
-<subSpecies>
-<mobType/>
-<mobType code="7" name="Elite"/>
-</subSpecies>
-</species>
-<species code="12" name="Spider">
-<subSpecies>
-<mobType/>
-<mobType code="7" name="Elite"/>
-</subSpecies>
-</species>
-<species code="13" name="Cave-claw">
-<subSpecies>
-<mobType/>
-<mobType code="7" name="Elite"/>
-</subSpecies>
-</species>
-<species code="15" name="Darkwater">
+<species code="8" name="Полуорк">
 <subSpecies>
 <mobType/>
 </subSpecies>
 </species>
-<species code="16" name="Brigand">
+<species code="9" name="Ужасная черепаха">
+<subSpecies>
+<mobType/>
+<mobType code="7" name="Элита"/>
+</subSpecies>
+</species>
+<species code="10" name="Медведь">
+<subSpecies>
+<mobType/>
+<mobType code="7" name="Элита"/>
+</subSpecies>
+</species>
+<species code="12" name="Паук">
+<subSpecies>
+<mobType/>
+<mobType code="7" name="Элита"/>
+</subSpecies>
+</species>
+<species code="13" name="Когтерой">
+<subSpecies>
+<mobType/>
+<mobType code="7" name="Элита"/>
+</subSpecies>
+</species>
+<species code="15" name="Темное изводье">
 <subSpecies>
 <mobType/>
 </subSpecies>
 </species>
-<species code="17" name="Wood Troll">
+<species code="16" name="Разбойник">
 <subSpecies>
 <mobType/>
 </subSpecies>
 </species>
-<species code="18" name="Bat">
+<species code="17" name="Лесной тролль">
 <subSpecies>
 <mobType/>
 </subSpecies>
 </species>
-<species code="20" name="Shrew">
+<species code="18" name="Летучая мышь">
 <subSpecies>
 <mobType/>
 </subSpecies>
 </species>
-<species code="21" name="Nameless">
+<species code="20" name="Землеройка">
 <subSpecies>
 <mobType/>
 </subSpecies>
 </species>
-<species code="22" name="Gorthorog">
+<species code="21" name="Безымянный">
 <subSpecies>
 <mobType/>
 </subSpecies>
 </species>
-<species code="24" name="Wolf">
+<species code="22" name="Горторог">
 <subSpecies>
 <mobType/>
 </subSpecies>
 </species>
-<species code="25" name="Toad">
+<species code="24" name="Волк">
 <subSpecies>
 <mobType/>
 </subSpecies>
 </species>
-<species code="26" name="Rat">
+<species code="25" name="Жаба">
 <subSpecies>
 <mobType/>
 </subSpecies>
 </species>
-<species code="32" name="Huorn">
+<species code="26" name="Крыса">
 <subSpecies>
 <mobType/>
 </subSpecies>
 </species>
-<species code="33" name="Dwarf Brigand">
+<species code="32" name="Гворн">
 <subSpecies>
 <mobType/>
 </subSpecies>
 </species>
-<species code="34" name="Boar">
+<species code="33" name="Гном-разбойник">
 <subSpecies>
 <mobType/>
 </subSpecies>
 </species>
-<species code="35" name="Snowbeast">
-<subSpecies>
-<mobType/>
-<mobType code="7" name="Elite"/>
-</subSpecies>
-<subSpecies code="261" name="Hill-beast">
-<mobType/>
-</subSpecies>
-</species>
-<species code="37" name="Morroval">
+<species code="34" name="Вепрь">
 <subSpecies>
 <mobType/>
 </subSpecies>
 </species>
-<species code="38" name="Crawler">
+<species code="35" name="Снежный хищник">
+<subSpecies>
+<mobType/>
+<mobType code="7" name="Элита"/>
+</subSpecies>
+<subSpecies code="261" name="Горный хищник">
+<mobType/>
+</subSpecies>
+</species>
+<species code="37" name="Морроваль">
 <subSpecies>
 <mobType/>
 </subSpecies>
 </species>
-<species code="39" name="Angmarim">
+<species code="38" name="Сколопендра">
 <subSpecies>
 <mobType/>
 </subSpecies>
 </species>
-<species code="41" name="Wight">
+<species code="39" name="Ангмарец">
 <subSpecies>
 <mobType/>
 </subSpecies>
 </species>
-<species code="43" name="Hendroval">
+<species code="41" name="Умертвие">
 <subSpecies>
 <mobType/>
 </subSpecies>
 </species>
-<species code="44" name="Drake">
-<subSpecies>
-<mobType/>
-<mobType code="7" name="Elite"/>
-</subSpecies>
-</species>
-<species code="47" name="Troll">
+<species code="43" name="Эндровал">
 <subSpecies>
 <mobType/>
 </subSpecies>
 </species>
-<species code="48" name="Sickle-fly">
+<species code="44" name="Драконид">
+<subSpecies>
+<mobType/>
+<mobType code="7" name="Элита"/>
+</subSpecies>
+</species>
+<species code="47" name="Тролль">
 <subSpecies>
 <mobType/>
 </subSpecies>
 </species>
-<species code="49" name="Neekerbreeker">
+<species code="48" name="Муха-серпица">
 <subSpecies>
 <mobType/>
 </subSpecies>
-<subSpecies code="169" name="Norbog">
+</species>
+<species code="49" name="Кровопросец">
+<subSpecies>
+<mobType/>
+</subSpecies>
+<subSpecies code="169" name="Норбог">
 <mobType/>
 </subSpecies>
 </species>
 <species code="51" name="BogLurker">
 <subSpecies>
 <mobType/>
-<mobType code="7" name="Elite"/>
+<mobType code="7" name="Элита"/>
 </subSpecies>
 </species>
-<species code="53" name="Shade">
+<species code="53" name="Тень">
 <subSpecies>
 <mobType/>
 </subSpecies>
 </species>
-<species code="54" name="Giant">
+<species code="54" name="Великан">
 <subSpecies>
 <mobType/>
 </subSpecies>
 </species>
-<species code="55" name="Gaunt Man">
+<species code="55" name="Умрун">
 <subSpecies>
 <mobType/>
 </subSpecies>
 </species>
-<species code="56" name="Corpse-candle">
+<species code="56" name="Блуждающий огонь">
 <subSpecies>
 <mobType/>
 </subSpecies>
 </species>
-<species code="57" name="Barghest">
+<species code="57" name="Баргест">
 <subSpecies>
 <mobType/>
-<mobType code="7" name="Elite"/>
+<mobType code="7" name="Элита"/>
 </subSpecies>
 </species>
-<species code="60" name="Mammoth">
+<species code="60" name="Мамонт">
 <subSpecies>
 <mobType/>
-<mobType code="7" name="Elite"/>
+<mobType code="7" name="Элита"/>
 </subSpecies>
 </species>
-<species code="61" name="Hill-man">
-<subSpecies>
-<mobType/>
-</subSpecies>
-</species>
-<species code="63" name="Goblin">
+<species code="61" name="Горец">
 <subSpecies>
 <mobType/>
 </subSpecies>
 </species>
-<species code="66" name="Warg">
+<species code="63" name="Гоблин">
 <subSpecies>
 <mobType/>
 </subSpecies>
 </species>
-<species code="67" name="Ogre">
+<species code="66" name="Варг">
 <subSpecies>
 <mobType/>
 </subSpecies>
 </species>
-<species code="69" name="Etten">
+<species code="67" name="Людоед">
 <subSpecies>
 <mobType/>
 </subSpecies>
 </species>
-<species code="70" name="Worm">
-<subSpecies>
-<mobType/>
-<mobType code="7" name="Elite"/>
-</subSpecies>
-</species>
-<species code="71" name="Insect Clouds">
+<species code="69" name="Эттен">
 <subSpecies>
 <mobType/>
 </subSpecies>
 </species>
-<species code="75" name="Lynx">
+<species code="70" name="Ящер">
+<subSpecies>
+<mobType/>
+<mobType code="7" name="Элита"/>
+</subSpecies>
+</species>
+<species code="71" name="Рой насекомых">
 <subSpecies>
 <mobType/>
 </subSpecies>
 </species>
-<species code="78" name="Craban">
+<species code="75" name="Рысь">
 <subSpecies>
 <mobType/>
 </subSpecies>
 </species>
-<species code="80" name="Slug">
-<subSpecies>
-<mobType/>
-<mobType code="7" name="Elite"/>
-</subSpecies>
-<subSpecies code="72" name="Sulfur-leech">
-<mobType/>
-</subSpecies>
-</species>
-<species code="87" name="Gauradan">
+<species code="78" name="Кребан">
 <subSpecies>
 <mobType/>
 </subSpecies>
 </species>
-<species code="88" name="Kergrim">
+<species code="80" name="Слизень">
+<subSpecies>
+<mobType/>
+<mobType code="7" name="Элита"/>
+</subSpecies>
+<subSpecies code="72" name="Серная пиявка">
+<mobType/>
+</subSpecies>
+</species>
+<species code="87" name="Гаурадан">
 <subSpecies>
 <mobType/>
 </subSpecies>
 </species>
-<species code="89" name="Salamander">
+<species code="88" name="Кергрим">
 <subSpecies>
 <mobType/>
 </subSpecies>
 </species>
-<species code="90" name="Elk">
+<species code="89" name="Саламандра">
+<subSpecies>
+<mobType/>
+</subSpecies>
+</species>
+<species code="90" name="Марал">
 <subSpecies>
 <mobType/>
 </subSpecies>

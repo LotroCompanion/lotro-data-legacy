@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><markers>
-<marker id="534499329" label="Council of the North" category="38" did="1879092740" parentZoneId="1879048586" longitude="54.440506" latitude="52.381973"/>
-<marker id="534499330" label="Milestone" category="55" did="1879063371" parentZoneId="1879048586" longitude="54.474567" latitude="52.386776"/>
-<marker id="534499331" label="Laerdan" category="70" did="1879048587" parentZoneId="1879048586" longitude="54.45824" latitude="52.084335"/>
-<marker id="534499332" label="Fimreg" category="70" did="1879048593" parentZoneId="1879048586" longitude="54.476562" latitude="52.271797"/>
-<marker id="534499333" label="Lunathron" category="70" did="1879048598" parentZoneId="1879048586" longitude="54.304256" latitude="52.40041"/>
-<marker id="534499334" label="Lorniel" category="70" did="1879048601" parentZoneId="1879048586" longitude="54.86627" latitude="52.41506"/>
-<marker id="534499335" label="Golodir" category="70" did="1879048605" parentZoneId="1879048586" longitude="54.552734" latitude="52.837322"/>
-<marker id="534499336" label="Húriel" category="70" did="1879048608" parentZoneId="1879048586" longitude="54.30822" latitude="52.4284"/>
-<marker id="534499337" label="Thoriel" category="70" did="1879048610" parentZoneId="1879048586" longitude="54.69418" latitude="52.40836"/>
-<marker id="534499338" label="Donaith" category="70" did="1879048613" parentZoneId="1879048586" longitude="54.557224" latitude="52.671562"/>
-<marker id="534499339" label="Osbail" category="70" did="1879048617" parentZoneId="1879048586" longitude="54.55656" latitude="52.631638"/>
-<marker id="534499340" label="Táni" category="70" did="1879048622" parentZoneId="1879048586" longitude="54.438477" latitude="52.262363"/>
-<marker id="534499341" label="Throst" category="70" did="1879048626" parentZoneId="1879048586" longitude="54.453438" latitude="52.223946"/>
-<marker id="534499342" label="Thorth&#10;Provisioner" category="38" did="1879048628" parentZoneId="1879048586" longitude="54.462166" latitude="52.237675"/>
-<marker id="534499343" label="Gormal" category="70" did="1879048630" parentZoneId="1879048586" longitude="54.518223" latitude="52.6666"/>
-<marker id="534499344" label="Uidon" category="70" did="1879089512" parentZoneId="1879048586" longitude="54.50949" latitude="52.42279"/>
-<marker id="534499345" label="Brúnfair" category="70" did="1879089513" parentZoneId="1879048586" longitude="54.6882" latitude="52.439743"/>
-<marker id="534499346" label="Maerchiniath" category="70" did="1879091528" parentZoneId="1879048586" longitude="54.463905" latitude="52.431522"/>
-<marker id="534499347" label="Annábla" category="70" did="1879091661" parentZoneId="1879048586" longitude="54.525173" latitude="52.551678"/>
-<marker id="534499348" label="Hróar" category="70" did="1879091662" parentZoneId="1879048586" longitude="54.436523" latitude="52.272205"/>
+<marker id="534499329" label="Совет Севера" category="38" did="1879092740" parentZoneId="1879048586" longitude="54.440506" latitude="52.381973"/>
+<marker id="534499330" label="Путевой камень" category="55" did="1879063371" parentZoneId="1879048586" longitude="54.474567" latitude="52.386776"/>
+<marker id="534499331" label="Лаэрдан" category="70" did="1879048587" parentZoneId="1879048586" longitude="54.45824" latitude="52.084335"/>
+<marker id="534499332" label="Фимрег" category="70" did="1879048593" parentZoneId="1879048586" longitude="54.476562" latitude="52.271797"/>
+<marker id="534499333" label="Лунатрон" category="70" did="1879048598" parentZoneId="1879048586" longitude="54.304256" latitude="52.40041"/>
+<marker id="534499334" label="Лорниэль" category="70" did="1879048601" parentZoneId="1879048586" longitude="54.86627" latitude="52.41506"/>
+<marker id="534499335" label="Голодир" category="70" did="1879048605" parentZoneId="1879048586" longitude="54.552734" latitude="52.837322"/>
+<marker id="534499336" label="Гуриэль" category="70" did="1879048608" parentZoneId="1879048586" longitude="54.30822" latitude="52.4284"/>
+<marker id="534499337" label="Ториэль" category="70" did="1879048610" parentZoneId="1879048586" longitude="54.69418" latitude="52.40836"/>
+<marker id="534499338" label="Донайт" category="70" did="1879048613" parentZoneId="1879048586" longitude="54.557224" latitude="52.671562"/>
+<marker id="534499339" label="Осбэйл" category="70" did="1879048617" parentZoneId="1879048586" longitude="54.55656" latitude="52.631638"/>
+<marker id="534499340" label="Тани" category="70" did="1879048622" parentZoneId="1879048586" longitude="54.438477" latitude="52.262363"/>
+<marker id="534499341" label="Трост" category="70" did="1879048626" parentZoneId="1879048586" longitude="54.453438" latitude="52.223946"/>
+<marker id="534499342" label="Тхорт&#10;Торговец провизией" category="38" did="1879048628" parentZoneId="1879048586" longitude="54.462166" latitude="52.237675"/>
+<marker id="534499343" label="Гормал" category="70" did="1879048630" parentZoneId="1879048586" longitude="54.518223" latitude="52.6666"/>
+<marker id="534499344" label="Уидон" category="70" did="1879089512" parentZoneId="1879048586" longitude="54.50949" latitude="52.42279"/>
+<marker id="534499345" label="Брюнфар" category="70" did="1879089513" parentZoneId="1879048586" longitude="54.6882" latitude="52.439743"/>
+<marker id="534499346" label="Маэрхиниат" category="70" did="1879091528" parentZoneId="1879048586" longitude="54.463905" latitude="52.431522"/>
+<marker id="534499347" label="Аннабла" category="70" did="1879091661" parentZoneId="1879048586" longitude="54.525173" latitude="52.551678"/>
+<marker id="534499348" label="Хроар" category="70" did="1879091662" parentZoneId="1879048586" longitude="54.436523" latitude="52.272205"/>
 </markers>

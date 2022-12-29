@@ -1,1510 +1,1510 @@
 <?xml version="1.0" encoding="UTF-8"?><maps>
-<map id="268437554" name="Middle Earth" imageId="1090552121">
+<map id="268437554" name="Средиземье" imageId="1090552121">
 <geo factor="3.46368">
 <point longitude="-137.2" latitude="-76.4"/>
 </geo>
 <min longitude="-137.2" latitude="-298.1295"/>
 <max longitude="158.43932" latitude="-76.4"/>
 </map>
-<map id="268437557" name="Eriador" imageId="1090552120">
+<map id="268437557" name="Эриадор" imageId="1090552120">
 <geo factor="6.492">
 <point longitude="-146.8" latitude="28.75662"/>
 </geo>
 <min longitude="-146.8" latitude="-89.542816"/>
 <max longitude="10.932587" latitude="28.75662"/>
 </map>
-<map id="268437576" name="Ered Luin" imageId="1090552108">
+<map id="268437576" name="Эред Луин" imageId="1090552108">
 <geo factor="38.75">
 <point longitude="-112.96774" latitude="-12.580645"/>
 </geo>
 <min longitude="-112.96774" latitude="-32.4"/>
 <max longitude="-86.54194" latitude="-12.580645"/>
 </map>
-<map id="268437592" name="Trollshaws" imageId="1090552110">
+<map id="268437592" name="Троллистая пуща" imageId="1090552110">
 <geo factor="37.5">
 <point longitude="-26.34667" latitude="-20.8"/>
 </geo>
 <min longitude="-26.34667" latitude="-41.28"/>
 <max longitude="0.9599972" latitude="-20.8"/>
 </map>
-<map id="268437603" name="Lone-Lands" imageId="1090552112">
+<map id="268437603" name="Пустоши" imageId="1090552112">
 <geo factor="43.75">
 <point longitude="-44.331425" latitude="-26.182861"/>
 </geo>
 <min longitude="-44.331425" latitude="-43.737144"/>
 <max longitude="-20.92571" latitude="-26.182861"/>
 </map>
-<map id="268437615" name="Angmar" imageId="1090552113">
+<map id="268437615" name="Ангмар" imageId="1090552113">
 <geo factor="35.0">
 <point longitude="-42.8" latitude="14.657148"/>
 </geo>
 <min longitude="-42.8" latitude="-7.2857094"/>
 <max longitude="-13.542856" latitude="14.657148"/>
 </map>
-<map id="268437634" name="North Downs" imageId="1090552114">
+<map id="268437634" name="Северное нагорье" imageId="1090552114">
 <geo factor="36.25">
 <point longitude="-60.399998" latitude="-1.3103417"/>
 </geo>
 <min longitude="-60.399998" latitude="-22.496548"/>
 <max longitude="-32.151722" latitude="-1.3103417"/>
 </map>
-<map id="268437653" name="Bree-land" imageId="1090552118">
+<map id="268437653" name="Земли Бри" imageId="1090552118">
 <geo factor="36.25">
 <point longitude="-65.586205" latitude="-17.72414"/>
 </geo>
 <min longitude="-65.586205" latitude="-38.910347"/>
 <max longitude="-37.33793" latitude="-17.72414"/>
 </map>
-<map id="268437678" name="The Shire" imageId="1090552119">
+<map id="268437678" name="Шир" imageId="1090552119">
 <geo factor="53.750004">
 <point longitude="-78.781395" latitude="-23.71163"/>
 </geo>
 <min longitude="-78.781395" latitude="-38.0"/>
 <max longitude="-59.730232" latitude="-23.71163"/>
 </map>
-<map id="268437691" name="Misty Mountains" imageId="1090552111">
+<map id="268437691" name="Мглистые горы" imageId="1090552111">
 <geo factor="41.25">
 <point longitude="-11.890908" latitude="-14.581816"/>
 </geo>
 <min longitude="-11.890908" latitude="-33.199997"/>
 <max longitude="12.933333" latitude="-14.581816"/>
 </map>
-<map id="268437700" name="Ettenmoors" imageId="1090552115">
+<map id="268437700" name="Эттенские высоты" imageId="1090552115">
 <geo factor="63.75">
 <point longitude="-24.290195" latitude="-9.952939"/>
 </geo>
 <min longitude="-24.290195" latitude="-22.0"/>
 <max longitude="-8.227449" latitude="-9.952939"/>
 </map>
-<map id="268437713" name="Rivendell" imageId="1090552109">
+<map id="268437713" name="Ривенделл" imageId="1090552109">
 <geo factor="106.25">
 <point longitude="-9.350586" latitude="-26.263525"/>
 </geo>
 <min longitude="-9.350586" latitude="-33.49176"/>
 <max longitude="0.28706074" latitude="-26.263525"/>
 </map>
-<map id="268437716" name="Bree" imageId="1090552116">
+<map id="268437716" name="Бри" imageId="1090552116">
 <geo factor="150.0">
 <point longitude="-54.633327" latitude="-28.08"/>
 </geo>
 <min longitude="-54.633327" latitude="-33.2"/>
 <max longitude="-47.80666" latitude="-28.08"/>
 </map>
-<map id="268437719" name="Archet" imageId="1090552117">
+<map id="268437719" name="Арчет" imageId="1090552117">
 <geo factor="182.5">
 <point longitude="-50.8" latitude="-24.191776"/>
 </geo>
 <min longitude="-50.8" latitude="-28.399996"/>
 <max longitude="-45.18904" latitude="-24.191776"/>
 </map>
-<map id="268437722" name="Thorin's Gate" imageId="1090552107">
+<map id="268437722" name="Врата Торина" imageId="1090552107">
 <geo factor="128.75">
 <point longitude="-106.776695" latitude="-11.234951"/>
 </geo>
 <min longitude="-106.776695" latitude="-17.2"/>
 <max longitude="-98.823296" latitude="-11.234951"/>
 </map>
-<map id="268439511" name="Evendim" imageId="1090646148">
+<map id="268439511" name="Эвендим" imageId="1090646148">
 <geo factor="33.75">
 <point longitude="-82.562965" latitude="-1.6444433"/>
 </geo>
 <min longitude="-82.562965" latitude="-24.399998"/>
 <max longitude="-52.222225" latitude="-1.6444433"/>
 </map>
-<map id="268440591" name="Falathlorn" imageId="1091410228">
+<map id="268440591" name="Фалатлорн" imageId="1091410228">
 <geo factor="185.0">
 <point longitude="-93.562164" latitude="-24.345947"/>
 </geo>
 <min longitude="-93.562164" latitude="-28.4973"/>
 <max longitude="-88.02703" latitude="-24.345947"/>
 </map>
-<map id="268440603" name="Bree-land Homesteads" imageId="1091410516">
+<map id="268440603" name="Поселения Бри" imageId="1091410516">
 <geo factor="189.6774">
 <point longitude="-50.017178" latitude="-33.951015"/>
 </geo>
 <min longitude="-50.017178" latitude="-37.999996"/>
 <max longitude="-44.618538" latitude="-33.951015"/>
 </map>
-<map id="268440610" name="Shire Homesteads" imageId="1091410519">
+<map id="268440610" name="Поселения Шира" imageId="1091410519">
 <geo factor="181.0">
 <point longitude="-77.43315" latitude="-34.63426"/>
 </geo>
 <min longitude="-77.43315" latitude="-38.877354"/>
 <max longitude="-71.775696" latitude="-34.63426"/>
 </map>
-<map id="268440613" name="Thorin's Hall Homestead" imageId="1091410518">
+<map id="268440613" name="Поселения Чертогов" imageId="1091410518">
 <geo factor="192.0">
 <point longitude="-109.92917" latitude="-13.24167"/>
 </geo>
 <min longitude="-109.92917" latitude="-17.241669"/>
 <max longitude="-104.59583" latitude="-13.24167"/>
 </map>
-<map id="1879048193" name="The Bird and Baby Inn" imageId="1090542537">
+<map id="1879048193" name="Таверна \qПтица и дитя\q" imageId="1090542537">
 <geo factor="600.0">
 <point longitude="-75.835" latitude="-33.758327"/>
 </geo>
 <min longitude="-75.835" latitude="-34.758327"/>
 <max longitude="-74.50166" latitude="-33.758327"/>
 </map>
-<map id="1879048196" name="The Ivy Bush" imageId="1090542545">
+<map id="1879048196" name="Лавровый куст" imageId="1090542545">
 <geo factor="600.0">
 <point longitude="-71.48167" latitude="-31.01833"/>
 </geo>
 <min longitude="-71.48167" latitude="-32.01833"/>
 <max longitude="-70.14833" latitude="-31.01833"/>
 </map>
-<map id="1879048205" name="The Green Dragon" imageId="1090542580">
+<map id="1879048205" name="\qЗеленый дракон\q" imageId="1090542580">
 <geo factor="600.0">
 <point longitude="-70.25666" latitude="-32.469997"/>
 </geo>
 <min longitude="-70.25666" latitude="-33.469997"/>
 <max longitude="-68.923325" latitude="-32.469997"/>
 </map>
-<map id="1879048212" name="The Floating Log Inn" imageId="1090542622">
+<map id="1879048212" name="Таверна Плавучее бревно" imageId="1090542622">
 <geo factor="600.00006">
 <point longitude="-68.385" latitude="-32.315"/>
 </geo>
 <min longitude="-68.385" latitude="-33.315"/>
 <max longitude="-67.05167" latitude="-32.315"/>
 </map>
-<map id="1879048217" name="The Plough and Stars" imageId="1090542635">
+<map id="1879048217" name="\qПлуг и звезды\q" imageId="1090542635">
 <geo factor="600.0">
 <point longitude="-68.14" latitude="-27.82"/>
 </geo>
 <min longitude="-68.14" latitude="-28.82"/>
 <max longitude="-66.80666" latitude="-27.82"/>
 </map>
-<map id="1879048222" name="The Golden Perch" imageId="1090542638">
+<map id="1879048222" name="\qЗолотой окушок\q" imageId="1090542638">
 <geo factor="600.00006">
 <point longitude="-64.13333" latitude="-31.356668"/>
 </geo>
 <min longitude="-64.13333" latitude="-32.356667"/>
 <max longitude="-62.8" latitude="-31.356668"/>
 </map>
-<map id="1879048229" name="Brigand Cave" imageId="1090542639">
+<map id="1879048229" name="Разбойничья пещера" imageId="1090542639">
 <geo factor="300.0">
 <point longitude="-57.08333" latitude="-21.09667"/>
 </geo>
 <min longitude="-57.08333" latitude="-23.09667"/>
 <max longitude="-54.41666" latitude="-21.09667"/>
 </map>
-<map id="1879048233" name="Archet Jail" imageId="1090542640">
+<map id="1879048233" name="Тюрьма Арчета" imageId="1090542640">
 <geo factor="600.0">
 <point longitude="-49.895" latitude="-24.689999"/>
 </geo>
 <min longitude="-49.895" latitude="-25.689999"/>
 <max longitude="-48.56167" latitude="-24.689999"/>
 </map>
-<map id="1879048237" name="Hunting Lodge" imageId="1090542788">
+<map id="1879048237" name="Охотничий домик" imageId="1090542788">
 <geo factor="300.0">
 <point longitude="-48.903328" latitude="-24.199999"/>
 </geo>
 <min longitude="-48.903328" latitude="-26.199999"/>
 <max longitude="-46.23666" latitude="-24.199999"/>
 </map>
-<map id="1879048247" name="The Forsaken Inn" imageId="1090542790">
+<map id="1879048247" name="Таверна \qЗабытый приют\q" imageId="1090542790">
 <geo factor="300.0">
 <point longitude="-42.76" latitude="-33.80333"/>
 </geo>
 <min longitude="-42.76" latitude="-35.80333"/>
 <max longitude="-40.09333" latitude="-33.80333"/>
 </map>
-<map id="1879048289" name="Castle of the Witch-king" imageId="1090542890">
+<map id="1879048289" name="Замок Короля-Призрака" imageId="1090542890">
 <geo factor="300.0">
 <point longitude="-38.34333" latitude="16.039999"/>
 </geo>
 <min longitude="-38.34333" latitude="12.039999"/>
 <max longitude="-33.01" latitude="16.039999"/>
 </map>
-<map id="1879048291" name="Torogrod" imageId="1090542891">
+<map id="1879048291" name="Торогрод" imageId="1090542891">
 <geo factor="599.99994">
 <point longitude="-21.81" latitude="-29.115"/>
 </geo>
 <min longitude="-21.81" latitude="-31.115"/>
 <max longitude="-19.143333" latitude="-29.115"/>
 </map>
-<map id="1879048293" name="Thingroth" imageId="1090542892">
+<map id="1879048293" name="Тингрот" imageId="1090542892">
 <geo factor="600.0">
 <point longitude="-20.095" latitude="-29.664999"/>
 </geo>
 <min longitude="-20.095" latitude="-31.664999"/>
 <max longitude="-17.428333" latitude="-29.664999"/>
 </map>
-<map id="1879048294" name="Nurath" imageId="1090542893">
+<map id="1879048294" name="Нурат" imageId="1090542893">
 <geo factor="600.00006">
 <point longitude="-14.843329" latitude="-31.945"/>
 </geo>
 <min longitude="-14.843329" latitude="-32.945"/>
 <max longitude="-13.509996" latitude="-31.945"/>
 </map>
-<map id="1879048295" name="Thorin's Hall" imageId="1090542895">
+<map id="1879048295" name="Чертоги Торина" imageId="1090542895">
 <geo factor="300.0">
 <point longitude="44.829998" latitude="78.5"/>
 </geo>
 <min longitude="44.829998" latitude="74.5"/>
 <max longitude="50.16333" latitude="78.5"/>
 </map>
-<map id="1879048390" name="Blackwold Camp" imageId="1090542547">
+<map id="1879048390" name="Лагерь чернопустынников" imageId="1090542547">
 <geo factor="600.0">
 <point longitude="49.54166" latitude="4.65167"/>
 </geo>
 <min longitude="49.54166" latitude="3.65167"/>
 <max longitude="50.874992" latitude="4.65167"/>
 </map>
-<map id="1879048400" name="Mirkstone Tunnels" imageId="1090542605">
+<map id="1879048400" name="Мрачные тоннели" imageId="1090542605">
 <geo factor="300.0">
 <point longitude="49.92334" latitude="77.07"/>
 </geo>
 <min longitude="49.92334" latitude="75.07"/>
 <max longitude="52.590008" latitude="77.07"/>
 </map>
-<map id="1879048404" name="Silver Deep" imageId="1090542623">
+<map id="1879048404" name="Серебряная Бездна" imageId="1090542623">
 <geo factor="300.0">
 <point longitude="48.94334" latitude="78.376656"/>
 </geo>
 <min longitude="48.94334" latitude="76.376656"/>
 <max longitude="51.61001" latitude="78.376656"/>
 </map>
-<map id="1879048410" name="The Arming-Cave" imageId="1090542636">
+<map id="1879048410" name="Оружейная пещера" imageId="1090542636">
 <geo factor="300.0">
 <point longitude="50.233337" latitude="77.31666"/>
 </geo>
 <min longitude="50.233337" latitude="75.31666"/>
 <max longitude="52.900005" latitude="77.31666"/>
 </map>
-<map id="1879048412" name="Skorgrím's Tomb" imageId="1090542637">
+<map id="1879048412" name="Гробница Скоргрима" imageId="1090542637">
 <geo factor="250.0">
 <point longitude="49.91199" latitude="80.964005"/>
 </geo>
 <min longitude="49.91199" latitude="78.564"/>
 <max longitude="53.11199" latitude="80.964005"/>
 </map>
-<map id="1879048435" name="Tham Giliath" imageId="1090542789">
+<map id="1879048435" name="Там Гилиат" imageId="1090542789">
 <geo factor="300.0">
 <point longitude="51.10334" latitude="-3.23333"/>
 </geo>
 <min longitude="51.10334" latitude="-5.23333"/>
 <max longitude="53.770008" latitude="-3.23333"/>
 </map>
-<map id="1879048440" name="Halbarad's Study" imageId="1090542791">
+<map id="1879048440" name="Комната Хальбарада" imageId="1090542791">
 <geo factor="300.0">
 <point longitude="51.206657" latitude="-2.57667"/>
 </geo>
 <min longitude="51.206657" latitude="-4.5766697"/>
 <max longitude="53.873325" latitude="-2.57667"/>
 </map>
-<map id="1879048455" name="Nellie Boskins' House" imageId="1090542801">
+<map id="1879048455" name="Дом Нелли Боскинс" imageId="1090542801">
 <geo factor="299.99997">
 <point longitude="51.05666" latitude="-1.8"/>
 </geo>
 <min longitude="51.05666" latitude="-3.8000002"/>
 <max longitude="53.723328" latitude="-1.8"/>
 </map>
-<map id="1879048457" name="Reniolind's Hideout" imageId="1090542803">
+<map id="1879048457" name="Убежище Реньолинда" imageId="1090542803">
 <geo factor="300.0">
 <point longitude="51.11334" latitude="10.7633295"/>
 </geo>
 <min longitude="51.11334" latitude="8.7633295"/>
 <max longitude="53.780006" latitude="10.7633295"/>
 </map>
-<map id="1879048459" name="Training Hall" imageId="1090542804">
+<map id="1879048459" name="Зал обучения" imageId="1090542804">
 <geo factor="1000.0001">
 <point longitude="52.80699" latitude="-52.1"/>
 </geo>
 <min longitude="52.80699" latitude="-52.699997"/>
 <max longitude="53.60699" latitude="-52.1"/>
 </map>
-<map id="1879048467" name="Three-farrow Crafting Hall" imageId="1090542867">
+<map id="1879048467" name="\qТри поросенка\q" imageId="1090542867">
 <geo factor="599.99994">
 <point longitude="52.581657" latitude="-50.798332"/>
 </geo>
 <min longitude="52.581657" latitude="-51.798332"/>
 <max longitude="53.91499" latitude="-50.798332"/>
 </map>
-<map id="1879048476" name="Isferon's Study" imageId="1090542888">
+<map id="1879048476" name="Келья Исферона" imageId="1090542888">
 <geo factor="300.0">
 <point longitude="51.85666" latitude="-44.69"/>
 </geo>
 <min longitude="51.85666" latitude="-46.69"/>
 <max longitude="54.523327" latitude="-44.69"/>
 </map>
-<map id="1879048479" name="Lorn Pass" imageId="1090542889">
+<map id="1879048479" name="Сиротливое ущелье" imageId="1090542889">
 <geo factor="300.0">
 <point longitude="51.94334" latitude="-42.756664"/>
 </geo>
 <min longitude="51.94334" latitude="-44.756664"/>
 <max longitude="54.61001" latitude="-42.756664"/>
 </map>
-<map id="1879048486" name="Holt Adderson's Grotto" imageId="1090542894">
+<map id="1879048486" name="Грот Хвата Ужника" imageId="1090542894">
 <geo factor="300.0">
 <point longitude="52.379997" latitude="-36.896667"/>
 </geo>
 <min longitude="52.379997" latitude="-38.896667"/>
 <max longitude="55.046665" latitude="-36.896667"/>
 </map>
-<map id="1879048488" name="Silver Deep Guard House" imageId="1090542896">
+<map id="1879048488" name="Сторожевой пост Серебряной Бездны" imageId="1090542896">
 <geo factor="300.0">
 <point longitude="51.89" latitude="-24.17"/>
 </geo>
 <min longitude="51.89" latitude="-26.17"/>
 <max longitude="54.556667" latitude="-24.17"/>
 </map>
-<map id="1879048493" name="Halmur Stoneshaper's Tomb" imageId="1090542968">
+<map id="1879048493" name="Гробница Хальмура Каменотеса" imageId="1090542968">
 <geo factor="600.0">
 <point longitude="52.51334" latitude="-18.978329"/>
 </geo>
 <min longitude="52.51334" latitude="-19.978329"/>
 <max longitude="53.846672" latitude="-18.978329"/>
 </map>
-<map id="1879048497" name="Tookland Post Office" imageId="1090542973">
+<map id="1879048497" name="Почта Тукленда" imageId="1090542973">
 <geo factor="1000.0001">
 <point longitude="52.805" latitude="-16.882998"/>
 </geo>
 <min longitude="52.805" latitude="-17.482998"/>
 <max longitude="53.605" latitude="-16.882998"/>
 </map>
-<map id="1879048501" name="The House of Tom Bombadil" imageId="1090542974">
+<map id="1879048501" name="Дом Тома Бомбадила" imageId="1090542974">
 <geo factor="1000.0001">
 <point longitude="52.778008" latitude="-15.265996"/>
 </geo>
 <min longitude="52.778008" latitude="-15.865996"/>
 <max longitude="53.578007" latitude="-15.265996"/>
 </map>
-<map id="1879048508" name="Scary Quarry" imageId="1090543037">
+<map id="1879048508" name="Каменоломня Скэри" imageId="1090543037">
 <geo factor="599.99994">
 <point longitude="52.56834" latitude="-13.35333"/>
 </geo>
 <min longitude="52.56834" latitude="-14.35333"/>
 <max longitude="53.901672" latitude="-13.35333"/>
 </map>
-<map id="1879048509" name="Esilia's House" imageId="1090543038">
+<map id="1879048509" name="Дом Эсилии" imageId="1090543038">
 <geo factor="600.0">
 <point longitude="52.538338" latitude="-11.08333"/>
 </geo>
 <min longitude="52.538338" latitude="-12.08333"/>
 <max longitude="53.87167" latitude="-11.08333"/>
 </map>
-<map id="1879048512" name="The Great Barrow" imageId="1090543039">
+<map id="1879048512" name="Великий Могильник" imageId="1090543039">
 <geo factor="300.0">
 <point longitude="51.43666" latitude="-8.13667"/>
 </geo>
 <min longitude="51.43666" latitude="-12.13667"/>
 <max longitude="56.769993" latitude="-8.13667"/>
 </map>
-<map id="1879048517" name="Gerebert's House" imageId="1090543111">
+<map id="1879048517" name="Дом Гереберта" imageId="1090543111">
 <geo factor="600.0">
 <point longitude="52.46166" latitude="-7.87"/>
 </geo>
 <min longitude="52.46166" latitude="-8.87"/>
 <max longitude="53.79499" latitude="-7.87"/>
 </map>
-<map id="1879048518" name="Brockenborings Watch Office" imageId="1090543112">
+<map id="1879048518" name="Дом стражи Барсуковин" imageId="1090543112">
 <geo factor="600.0">
 <point longitude="52.538338" latitude="-7.08333"/>
 </geo>
 <min longitude="52.538338" latitude="-8.08333"/>
 <max longitude="53.87167" latitude="-7.08333"/>
 </map>
-<map id="1879048525" name="Great Smials" imageId="1090543113">
+<map id="1879048525" name="Великие Смиалы" imageId="1090543113">
 <geo factor="600.0">
 <point longitude="52.535" latitude="-5.88333"/>
 </geo>
 <min longitude="52.535" latitude="-6.88333"/>
 <max longitude="53.868332" latitude="-5.88333"/>
 </map>
-<map id="1879048538" name="The Mad Badger Inn" imageId="1090543133">
+<map id="1879048538" name="Таверна \qЛихой барсук\q" imageId="1090543133">
 <geo factor="300.0">
 <point longitude="51.90334" latitude="-2.52"/>
 </geo>
 <min longitude="51.90334" latitude="-4.52"/>
 <max longitude="54.570007" latitude="-2.52"/>
 </map>
-<map id="1879048542" name="Ellie Cutleaf's House" imageId="1090543134">
+<map id="1879048542" name="Дом Элли Рябинник" imageId="1090543134">
 <geo factor="600.0">
 <point longitude="52.49666" latitude="-2.27333"/>
 </geo>
 <min longitude="52.49666" latitude="-3.27333"/>
 <max longitude="53.82999" latitude="-2.27333"/>
 </map>
-<map id="1879048548" name="Brigand Cave" imageId="1090543135">
+<map id="1879048548" name="Разбойничья пещера" imageId="1090543135">
 <geo factor="300.0">
 <point longitude="51.85" latitude="-1.0033301"/>
 </geo>
 <min longitude="51.85" latitude="-3.0033302"/>
 <max longitude="54.516666" latitude="-1.0033301"/>
 </map>
-<map id="1879048557" name="The Prancing Pony" imageId="1090543136">
+<map id="1879048557" name="Гарцующий пони" imageId="1090543136">
 <geo factor="600.00006">
 <point longitude="52.55" latitude="1.61833"/>
 </geo>
 <min longitude="52.55" latitude="0.6183301"/>
 <max longitude="53.88333" latitude="1.61833"/>
 </map>
-<map id="1879048577" name="Greenfields Warren" imageId="1090542538">
+<map id="1879048577" name="Нора в Зеленых полях" imageId="1090542538">
 <geo factor="600.00006">
 <point longitude="51.88166" latitude="12.18333"/>
 </geo>
 <min longitude="51.88166" latitude="10.18333"/>
 <max longitude="54.54833" latitude="12.18333"/>
 </map>
-<map id="1879048580" name="Scholar's Enclave" imageId="1090542546">
+<map id="1879048580" name="Залы ученых" imageId="1090542546">
 <geo factor="600.0">
 <point longitude="53.32666" latitude="-45.184998"/>
 </geo>
 <min longitude="53.32666" latitude="-46.184998"/>
 <max longitude="54.659992" latitude="-45.184998"/>
 </map>
-<map id="1879048586" name="Gath Forthnír" imageId="1090542579">
+<map id="1879048586" name="Гат Фортнир" imageId="1090542579">
 <geo factor="300.0">
 <point longitude="53.16666" latitude="53.463337"/>
 </geo>
 <min longitude="53.16666" latitude="51.463337"/>
 <max longitude="55.83333" latitude="53.463337"/>
 </map>
-<map id="1879048632" name="Ologfil" imageId="1090542794">
+<map id="1879048632" name="Ологфил" imageId="1090542794">
 <geo factor="510.824">
 <point longitude="52.76082" latitude="68.991875"/>
 </geo>
 <min longitude="52.76082" latitude="66.64273"/>
 <max longitude="55.893013" latitude="68.991875"/>
 </map>
-<map id="1879048636" name="Bûrzum Pushdug" imageId="1090542797">
+<map id="1879048636" name="Бурзум Пушдуг" imageId="1090542797">
 <geo factor="300.00003">
 <point longitude="51.41" latitude="70.54"/>
 </geo>
 <min longitude="51.41" latitude="66.54"/>
 <max longitude="56.743332" latitude="70.54"/>
 </map>
-<map id="1879048638" name="Morfil" imageId="1090542798">
+<map id="1879048638" name="Морфил" imageId="1090542798">
 <geo factor="599.99994">
 <point longitude="52.99334" latitude="70.41666"/>
 </geo>
 <min longitude="52.99334" latitude="68.41666"/>
 <max longitude="55.660007" latitude="70.41666"/>
 </map>
-<map id="1879048640" name="The Last Homely House" imageId="1090542799">
+<map id="1879048640" name="Последний Приют" imageId="1090542799">
 <geo factor="1200.0">
 <point longitude="53.11084" latitude="72.126656"/>
 </geo>
 <min longitude="53.11084" latitude="71.126656"/>
 <max longitude="54.44417" latitude="72.126656"/>
 </map>
-<map id="1879048645" name="Mustering Cave" imageId="1090542800">
+<map id="1879048645" name="Соборная пещера" imageId="1090542800">
 <geo factor="300.0">
 <point longitude="51.579998" latitude="77.71334"/>
 </geo>
 <min longitude="51.579998" latitude="73.71334"/>
 <max longitude="56.91333" latitude="77.71334"/>
 </map>
-<map id="1879048648" name="The Comb and Wattle Inn" imageId="1090542802">
+<map id="1879048648" name="Таверна \qГребешок и бородка\q" imageId="1090542802">
 <geo factor="300.0">
 <point longitude="53.053337" latitude="78.40666"/>
 </geo>
 <min longitude="53.053337" latitude="76.40666"/>
 <max longitude="55.720005" latitude="78.40666"/>
 </map>
-<map id="1879048653" name="Elrond's Library" imageId="1090542839">
+<map id="1879048653" name="Библиотека Элронда" imageId="1090542839">
 <geo factor="2400.0">
 <point longitude="54.53291" latitude="70.329155"/>
 </geo>
 <min longitude="54.53291" latitude="70.079155"/>
 <max longitude="54.86624" latitude="70.329155"/>
 </map>
-<map id="1879048684" name="Benton Oakes's Library" imageId="1090542967">
+<map id="1879048684" name="Библиотека Бентона Оукса" imageId="1090542967">
 <geo factor="299.99997">
 <point longitude="54.32666" latitude="-48.183334"/>
 </geo>
 <min longitude="54.32666" latitude="-50.183334"/>
 <max longitude="56.99333" latitude="-48.183334"/>
 </map>
-<map id="1879048687" name="The Hall of Fire" imageId="1090542972">
+<map id="1879048687" name="Каминный зал" imageId="1090542972">
 <geo factor="2400.0">
 <point longitude="54.98375" latitude="73.64209"/>
 </geo>
 <min longitude="54.98375" latitude="73.14209"/>
 <max longitude="55.650417" latitude="73.64209"/>
 </map>
-<map id="1879048707" name="The Comb and Wattle Basement" imageId="1090543110">
+<map id="1879048707" name="Подвал \qГребешка и Бородки\q" imageId="1090543110">
 <geo factor="300.00003">
 <point longitude="54.59" latitude="77.99"/>
 </geo>
 <min longitude="54.59" latitude="75.99"/>
 <max longitude="57.256668" latitude="77.99"/>
 </map>
-<map id="1879051227" name="Carn Dûm Sewers" imageId="1090551229">
+<map id="1879051227" name="Сточные трубы Карн Дума" imageId="1090551229">
 <geo factor="599.99994">
 <point longitude="-34.826668" latitude="12.915"/>
 </geo>
 <min longitude="-34.826668" latitude="11.915"/>
 <max longitude="-33.493336" latitude="12.915"/>
 </map>
-<map id="1879051228" name="Archet Jail" imageId="1090542640">
+<map id="1879051228" name="Тюрьма Арчета" imageId="1090542640">
 <geo factor="600.0">
 <point longitude="-49.895" latitude="-24.689999"/>
 </geo>
 <min longitude="-49.895" latitude="-25.689999"/>
 <max longitude="-48.56167" latitude="-24.689999"/>
 </map>
-<map id="1879051229" name="Sprigley's Cellar" imageId="1090551230">
+<map id="1879051229" name="Подвал Ростокса" imageId="1090551230">
 <geo factor="300.0">
 <point longitude="51.84" latitude="-4.81"/>
 </geo>
 <min longitude="51.84" latitude="-6.81"/>
 <max longitude="54.506668" latitude="-4.81"/>
 </map>
-<map id="1879051230" name="Bree-town Auction Hall" imageId="1090551231">
+<map id="1879051230" name="Аукцион Бри" imageId="1090551231">
 <geo factor="1200.0">
 <point longitude="52.714157" latitude="-48.261665"/>
 </geo>
 <min longitude="52.714157" latitude="-48.761665"/>
 <max longitude="53.380825" latitude="-48.261665"/>
 </map>
-<map id="1879051231" name="Saeradan's Cabin" imageId="1090578352">
+<map id="1879051231" name="Хижина Саэрадана" imageId="1090578352">
 <geo factor="600.0">
 <point longitude="-53.864998" latitude="-25.501669"/>
 </geo>
 <min longitude="-53.864998" latitude="-26.501669"/>
 <max longitude="-52.531666" latitude="-25.501669"/>
 </map>
-<map id="1879051232" name="Skunkwood's House" imageId="1090581591">
+<map id="1879051232" name="Дом Гнильсона" imageId="1090581591">
 <geo factor="300.0">
 <point longitude="-45.73333" latitude="-28.199999"/>
 </geo>
 <min longitude="-45.73333" latitude="-30.199999"/>
 <max longitude="-43.06666" latitude="-28.199999"/>
 </map>
-<map id="1879051233" name="Dogwort's Shed" imageId="1090619561">
+<map id="1879051233" name="Сарай Сусленя" imageId="1090619561">
 <geo factor="300.0">
 <point longitude="52.816658" latitude="79.88334"/>
 </geo>
 <min longitude="52.816658" latitude="77.88334"/>
 <max longitude="55.483326" latitude="79.88334"/>
 </map>
-<map id="1879051234" name="Dogwort's Farmhouse" imageId="1090619560">
+<map id="1879051234" name="Ферма Сусленя" imageId="1090619560">
 <geo factor="300.0">
 <point longitude="52.623337" latitude="76.68666"/>
 </geo>
 <min longitude="52.623337" latitude="74.68666"/>
 <max longitude="55.290005" latitude="76.68666"/>
 </map>
-<map id="1879051235" name="Staddle Arms" imageId="1090551232">
+<map id="1879051235" name="Оружие Пристенок" imageId="1090551232">
 <geo factor="1200.0">
 <point longitude="-50.390827" latitude="-31.474998"/>
 </geo>
 <min longitude="-50.390827" latitude="-31.974998"/>
 <max longitude="-49.72416" latitude="-31.474998"/>
 </map>
-<map id="1879051237" name="Rockbelly Pit" imageId="1090551237">
+<map id="1879051237" name="Каменное Чрево" imageId="1090551237">
 <geo factor="300.0">
 <point longitude="49.893337" latitude="76.17334"/>
 </geo>
 <min longitude="49.893337" latitude="74.17334"/>
 <max longitude="52.560005" latitude="76.17334"/>
 </map>
-<map id="1879051238" name="Etten Caves" imageId="1090551216">
+<map id="1879051238" name="Эттенские пещеры" imageId="1090551216">
 <geo factor="100.0">
 <point longitude="49.17" latitude="-8.48"/>
 </geo>
 <min longitude="49.17" latitude="-14.48"/>
 <max longitude="57.17" latitude="-8.48"/>
 </map>
-<map id="1879051239" name="Rimpúrod" imageId="1090551217">
+<map id="1879051239" name="Римпарод" imageId="1090551217">
 <geo factor="600.0">
 <point longitude="52.55666" latitude="70.95666"/>
 </geo>
 <min longitude="52.55666" latitude="68.95666"/>
 <max longitude="55.223328" latitude="70.95666"/>
 </map>
-<map id="1879051240" name="Bag End" imageId="1090551218">
+<map id="1879051240" name="Торба-на-Круче" imageId="1090551218">
 <geo factor="600.0">
 <point longitude="53.38834" latitude="-32.49833"/>
 </geo>
 <min longitude="53.38834" latitude="-33.49833"/>
 <max longitude="54.721672" latitude="-32.49833"/>
 </map>
-<map id="1879051241" name="Helegrod Treasury" imageId="1090619403">
+<map id="1879051241" name="Сокровищница Хелегрода" imageId="1090619403">
 <geo factor="400.0">
 <point longitude="49.364998" latitude="64.292496"/>
 </geo>
 <min longitude="49.364998" latitude="61.292496"/>
 <max longitude="53.364998" latitude="64.292496"/>
 </map>
-<map id="1879051242" name="Gabilazan Vault" imageId="1090551219">
+<map id="1879051242" name="Хранилище Габилазана" imageId="1090551219">
 <geo factor="600.0">
 <point longitude="50.899998" latitude="72.814995"/>
 </geo>
 <min longitude="50.899998" latitude="71.814995"/>
 <max longitude="52.23333" latitude="72.814995"/>
 </map>
-<map id="1879051243" name="Barad Eithel" imageId="1090551220">
+<map id="1879051243" name="Барад-Эйтель" imageId="1090551220">
 <geo factor="300.0">
 <point longitude="-57.02667" latitude="-2.81667"/>
 </geo>
 <min longitude="-57.02667" latitude="-4.81667"/>
 <max longitude="-54.36" latitude="-2.81667"/>
 </map>
-<map id="1879051244" name="Barad Harn" imageId="1090551221">
+<map id="1879051244" name="Барад-Харн" imageId="1090551221">
 <geo factor="300.0">
 <point longitude="-54.57" latitude="-4.32333"/>
 </geo>
 <min longitude="-54.57" latitude="-6.32333"/>
 <max longitude="-51.90333" latitude="-4.32333"/>
 </map>
-<map id="1879051245" name="Barad Narthan" imageId="1090551222">
+<map id="1879051245" name="Барад-Нартан" imageId="1090551222">
 <geo factor="300.0">
 <point longitude="-56.16" latitude="-2.72333"/>
 </geo>
 <min longitude="-56.16" latitude="-4.72333"/>
 <max longitude="-53.493332" latitude="-2.72333"/>
 </map>
-<map id="1879051246" name="Minas Erain" imageId="1090551223">
+<map id="1879051246" name="Минас-Эрайн" imageId="1090551223">
 <geo factor="300.0">
 <point longitude="-54.559998" latitude="-2.72333"/>
 </geo>
 <min longitude="-54.559998" latitude="-4.72333"/>
 <max longitude="-51.89333" latitude="-2.72333"/>
 </map>
-<map id="1879051247" name="The Shire Auction Hall" imageId="1090551224">
+<map id="1879051247" name="Аукцион Шира" imageId="1090551224">
 <geo factor="800.0">
 <point longitude="52.699997" latitude="-48.785"/>
 </geo>
 <min longitude="52.699997" latitude="-49.535"/>
 <max longitude="53.699997" latitude="-48.785"/>
 </map>
-<map id="1879051248" name="The Cat Lady's House" imageId="1090551225">
+<map id="1879051248" name="Кошкин дом" imageId="1090551225">
 <geo factor="1199.9999">
 <point longitude="52.85584" latitude="-52.935833"/>
 </geo>
 <min longitude="52.85584" latitude="-53.435833"/>
 <max longitude="53.522507" latitude="-52.935833"/>
 </map>
-<map id="1879051249" name="Weapons and Armour Shop" imageId="1090551226">
+<map id="1879051249" name="Оружие и доспехи" imageId="1090551226">
 <geo factor="1200.0">
 <point longitude="52.88834" latitude="-49.7575"/>
 </geo>
 <min longitude="52.88834" latitude="-50.2575"/>
 <max longitude="53.555008" latitude="-49.7575"/>
 </map>
-<map id="1879051250" name="Weapons and Armour Shop" imageId="1090551227">
+<map id="1879051250" name="Оружие и доспехи" imageId="1090551227">
 <geo factor="1200.0">
 <point longitude="52.864998" latitude="-50.553333"/>
 </geo>
 <min longitude="52.864998" latitude="-51.053333"/>
 <max longitude="53.531666" latitude="-50.553333"/>
 </map>
-<map id="1879051251" name="Vault of Arwen's Legacy" imageId="1090551228">
+<map id="1879051251" name="Склеп с наследием Арвен" imageId="1090551228">
 <geo factor="300.00003">
 <point longitude="52.026657" latitude="-34.633327"/>
 </geo>
 <min longitude="52.026657" latitude="-36.633327"/>
 <max longitude="54.693325" latitude="-34.633327"/>
 </map>
-<map id="1879063876" name="Vault of the Seven Sentinels" imageId="1090619404">
+<map id="1879063876" name="Хранилище Семи стражей" imageId="1090619404">
 <geo factor="600.0">
 <point longitude="53.38334" latitude="67.299995"/>
 </geo>
 <min longitude="53.38334" latitude="66.299995"/>
 <max longitude="54.71667" latitude="67.299995"/>
 </map>
-<map id="1879076044" name="Esteldin Library" imageId="1090561605">
+<map id="1879076044" name="Библиотека Эстельдина" imageId="1090561605">
 <geo factor="600.0">
 <point longitude="-41.73167" latitude="-9.481669"/>
 </geo>
 <min longitude="-41.73167" latitude="-10.481669"/>
 <max longitude="-40.39834" latitude="-9.481669"/>
 </map>
-<map id="1879076045" name="Cartwell's House" imageId="1090561606">
+<map id="1879076045" name="Дом Картвелла" imageId="1090561606">
 <geo factor="1200.0001">
 <point longitude="52.8575" latitude="-53.735"/>
 </geo>
 <min longitude="52.8575" latitude="-54.235"/>
 <max longitude="53.524166" latitude="-53.735"/>
 </map>
-<map id="1879076058" name="Carn Dûm Sewers" imageId="1090561668">
+<map id="1879076058" name="Сточные трубы Карн Дума" imageId="1090561668">
 <geo factor="600.0">
 <point longitude="-34.44333" latitude="15.17167"/>
 </geo>
 <min longitude="-34.44333" latitude="13.17167"/>
 <max longitude="-31.776663" latitude="15.17167"/>
 </map>
-<map id="1879083689" name="Sprigley's House" imageId="1090551230">
+<map id="1879083689" name="Дом Ростокса" imageId="1090551230">
 <geo factor="300.0">
 <point longitude="51.84" latitude="-4.81"/>
 </geo>
 <min longitude="51.84" latitude="-6.81"/>
 <max longitude="54.506668" latitude="-4.81"/>
 </map>
-<map id="1879084147" name="Bávor Wyrm-brand's Tomb" imageId="1090640288">
+<map id="1879084147" name="Гробница Бавора Клеймителя Ящеров" imageId="1090640288">
 <geo factor="200.0">
 <point longitude="-4.6349998" latitude="-15.41"/>
 </geo>
 <min longitude="-4.6349998" latitude="-21.41"/>
 <max longitude="3.3650002" latitude="-15.41"/>
 </map>
-<map id="1879084148" name="Brigand Cavern" imageId="1090643781">
+<map id="1879084148" name="Пещера разбойников" imageId="1090643781">
 <geo factor="300.0">
 <point longitude="-57.08333" latitude="-21.09667"/>
 </geo>
 <min longitude="-57.08333" latitude="-23.09667"/>
 <max longitude="-54.41666" latitude="-21.09667"/>
 </map>
-<map id="1879084149" name="The Lore-tower" imageId="1090640289">
+<map id="1879084149" name="Башня мудрости" imageId="1090640289">
 <geo factor="1200.0">
 <point longitude="-30.31667" latitude="-31.24083"/>
 </geo>
 <min longitude="-30.31667" latitude="-31.74083"/>
 <max longitude="-29.650003" latitude="-31.24083"/>
 </map>
-<map id="1879084150" name="Asht-Shâpol" imageId="1090640290">
+<map id="1879084150" name="Ашт-Шапол" imageId="1090640290">
 <geo factor="300.0">
 <point longitude="-31.81667" latitude="8.8"/>
 </geo>
 <min longitude="-31.81667" latitude="6.8"/>
 <max longitude="-29.150003" latitude="8.8"/>
 </map>
-<map id="1879084151" name="Barad Dhorn" imageId="1090640291">
+<map id="1879084151" name="Барад-Дорн" imageId="1090640291">
 <geo factor="1200.0">
 <point longitude="-28.0175" latitude="-29.796669"/>
 </geo>
 <min longitude="-28.0175" latitude="-30.296669"/>
 <max longitude="-27.350834" latitude="-29.796669"/>
 </map>
-<map id="1879084152" name="Torech Mordeloth" imageId="1090640292">
+<map id="1879084152" name="Торех Морделот" imageId="1090640292">
 <geo factor="300.0">
 <point longitude="-1.5533301" latitude="-15.37"/>
 </geo>
 <min longitude="-1.5533301" latitude="-19.369999"/>
 <max longitude="3.7800035" latitude="-15.37"/>
 </map>
-<map id="1879085666" name="Bree-town Vault" imageId="1090641815">
+<map id="1879085666" name="Банк Бри" imageId="1090641815">
 <geo factor="800.0">
 <point longitude="52.743748" latitude="-54.40625"/>
 </geo>
 <min longitude="52.743748" latitude="-55.15625"/>
 <max longitude="53.743748" latitude="-54.40625"/>
 </map>
-<map id="1879085779" name="Holding Cell" imageId="1090642075">
+<map id="1879085779" name="Каземат" imageId="1090642075">
 <geo factor="1199.9999">
 <point longitude="55.75" latitude="75.763336"/>
 </geo>
 <min longitude="55.75" latitude="75.263336"/>
 <max longitude="56.416668" latitude="75.763336"/>
 </map>
-<map id="1879085780" name="Warehouse" imageId="1090642073">
+<map id="1879085780" name="Склад" imageId="1090642073">
 <geo factor="1200.0">
 <point longitude="55.11416" latitude="74.138336"/>
 </geo>
 <min longitude="55.11416" latitude="73.638336"/>
 <max longitude="55.780827" latitude="74.138336"/>
 </map>
-<map id="1879085781" name="Steward's Tavern" imageId="1090642074">
+<map id="1879085781" name="Таверна Наместника" imageId="1090642074">
 <geo factor="1199.9999">
 <point longitude="55.2975" latitude="75.08166"/>
 </geo>
 <min longitude="55.2975" latitude="74.58166"/>
 <max longitude="55.96417" latitude="75.08166"/>
 </map>
-<map id="1879085887" name="The Lowbanks' Estate" imageId="1090642205">
+<map id="1879085887" name="Особняк семейства Бережок" imageId="1090642205">
 <geo factor="600.00006">
 <point longitude="53.329998" latitude="-48.768333"/>
 </geo>
 <min longitude="53.329998" latitude="-49.768333"/>
 <max longitude="54.66333" latitude="-48.768333"/>
 </map>
-<map id="1879085888" name="Scholar's Stair Archives" imageId="1090642206">
+<map id="1879085888" name="Архивы лестницы ученых" imageId="1090642206">
 <geo factor="600.00006">
 <point longitude="53.34" latitude="-50.401665"/>
 </geo>
 <min longitude="53.34" latitude="-51.401665"/>
 <max longitude="54.673332" latitude="-50.401665"/>
 </map>
-<map id="1879085889" name="Bree-town Jail" imageId="1090642207">
+<map id="1879085889" name="Тюрьма города Бри" imageId="1090642207">
 <geo factor="600.0">
 <point longitude="53.18166" latitude="-49.586662"/>
 </geo>
 <min longitude="53.18166" latitude="-50.586662"/>
 <max longitude="54.51499" latitude="-49.586662"/>
 </map>
-<map id="1879085890" name="Bree-town Hall" imageId="1090642599">
+<map id="1879085890" name="Ратуша Бри" imageId="1090642599">
 <geo factor="600.0">
 <point longitude="53.18166" latitude="-48.011665"/>
 </geo>
 <min longitude="53.18166" latitude="-49.011665"/>
 <max longitude="54.51499" latitude="-48.011665"/>
 </map>
-<map id="1879085957" name="The Michel Delving Vendor Hall" imageId="1090642343">
+<map id="1879085957" name="Зал торговцев Занорья" imageId="1090642343">
 <geo factor="1000.0001">
 <point longitude="52.71699" latitude="-56.236"/>
 </geo>
 <min longitude="52.71699" latitude="-56.836"/>
 <max longitude="53.51699" latitude="-56.236"/>
 </map>
-<map id="1879085958" name="The Michel Delving Training Hall" imageId="1090642323">
+<map id="1879085958" name="Зал наставников Занорья" imageId="1090642323">
 <geo factor="1000.0001">
 <point longitude="52.8" latitude="-56.86"/>
 </geo>
 <min longitude="52.8" latitude="-57.46"/>
 <max longitude="53.6" latitude="-56.86"/>
 </map>
-<map id="1879087106" name="Barad Gúlaran" imageId="1090645943">
+<map id="1879087106" name="Барад-Гуларан" imageId="1090645943">
 <geo factor="600.0">
 <point longitude="49.46666" latitude="72.1"/>
 </geo>
 <min longitude="49.46666" latitude="70.1"/>
 <max longitude="52.133327" latitude="72.1"/>
 </map>
-<map id="1879087594" name="The Eyes and Guard Tavern" imageId="1090647775">
+<map id="1879087594" name="Таверна \qЗоркий глаз\q" imageId="1090647775">
 <geo factor="599.99994">
 <point longitude="52.616657" latitude="-118.68333"/>
 </geo>
 <min longitude="52.616657" latitude="-119.68333"/>
 <max longitude="53.94999" latitude="-118.68333"/>
 </map>
-<map id="1879088988" name="Elendil's Tomb" imageId="1090649298">
+<map id="1879088988" name="Гробница Элендила" imageId="1090649298">
 <geo factor="252.90819">
 <point longitude="50.96203" latitude="-57.661167"/>
 </geo>
 <min longitude="50.96203" latitude="-62.40597"/>
 <max longitude="57.288437" latitude="-57.661167"/>
 </map>
-<map id="1879089190" name="Gwindethrond" imageId="1090649423">
+<map id="1879089190" name="Гвиндетронд" imageId="1090649423">
 <geo factor="600.0">
 <point longitude="52.434998" latitude="-58.164997"/>
 </geo>
 <min longitude="52.434998" latitude="-60.164997"/>
 <max longitude="55.101665" latitude="-58.164997"/>
 </map>
-<map id="1879089298" name="Combe Crafting Hall" imageId="1090649609">
+<map id="1879089298" name="Ремесленный зал Овражков" imageId="1090649609">
 <geo factor="600.0">
 <point longitude="53.329998" latitude="-51.186665"/>
 </geo>
 <min longitude="53.329998" latitude="-52.186665"/>
 <max longitude="54.66333" latitude="-51.186665"/>
 </map>
-<map id="1879089832" name="Glinghant" imageId="1090650314">
+<map id="1879089832" name="Глингхант" imageId="1090650314">
 <geo factor="300.0">
 <point longitude="51.066658" latitude="-61.396664"/>
 </geo>
 <min longitude="51.066658" latitude="-65.39667"/>
 <max longitude="56.39999" latitude="-61.396664"/>
 </map>
-<map id="1879089909" name="Forsaken Smial" imageId="1090650370">
+<map id="1879089909" name="Покинутые смиалы" imageId="1090650370">
 <geo factor="600.0">
 <point longitude="52.49334" latitude="-23.055"/>
 </geo>
 <min longitude="52.49334" latitude="-24.055"/>
 <max longitude="53.82667" latitude="-23.055"/>
 </map>
-<map id="1879089971" name="Valandil's Tomb" imageId="1090650541">
+<map id="1879089971" name="Гробница Валандила" imageId="1090650541">
 <geo factor="300.0">
 <point longitude="51.13334" latitude="-61.303333"/>
 </geo>
 <min longitude="51.13334" latitude="-65.30333"/>
 <max longitude="56.46667" latitude="-61.303333"/>
 </map>
-<map id="1879090259" name="Tinnudir Keep" imageId="1090651182">
+<map id="1879090259" name="Цитадель Тиннудира" imageId="1090651182">
 <geo factor="300.0">
 <point longitude="52.463337" latitude="-69.44334"/>
 </geo>
 <min longitude="52.463337" latitude="-71.44334"/>
 <max longitude="55.130005" latitude="-69.44334"/>
 </map>
-<map id="1879090785" name="Barad Tironn" imageId="1090651267">
+<map id="1879090785" name="Барад-Тиронн" imageId="1090651267">
 <geo factor="300.0">
 <point longitude="50.54334" latitude="-66.26666"/>
 </geo>
 <min longitude="50.54334" latitude="-70.26666"/>
 <max longitude="55.87667" latitude="-66.26666"/>
 </map>
-<map id="1879092130" name="The Delving of Frór" imageId="1091404227">
+<map id="1879092130" name="Копи Фрора" imageId="1091404227">
 <geo factor="300.0">
 <point longitude="50.61" latitude="-64.64666"/>
 </geo>
 <min longitude="50.61" latitude="-68.64666"/>
 <max longitude="55.943333" latitude="-64.64666"/>
 </map>
-<map id="1879092131" name="Haudh Iarchith" imageId="1091387179">
+<map id="1879092131" name="Хауд Ярхит" imageId="1091387179">
 <geo factor="300.00003">
 <point longitude="54.526657" latitude="-63.626663"/>
 </geo>
 <min longitude="54.526657" latitude="-67.62666"/>
 <max longitude="59.85999" latitude="-63.626663"/>
 </map>
-<map id="1879092132" name="The Mathom House" imageId="1091387358">
+<map id="1879092132" name="Всяковень" imageId="1091387358">
 <geo factor="600.0">
 <point longitude="52.511658" latitude="-71.915"/>
 </geo>
 <min longitude="52.511658" latitude="-72.915"/>
 <max longitude="53.84499" latitude="-71.915"/>
 </map>
-<map id="1879092133" name="Sarnúr Great Hall" imageId="1091115877">
+<map id="1879092133" name="Великий Чертог Сарнура" imageId="1091115877">
 <geo factor="600.0">
 <point longitude="52.265" latitude="66.15"/>
 </geo>
 <min longitude="52.265" latitude="64.15"/>
 <max longitude="54.931667" latitude="66.15"/>
 </map>
-<map id="1879092134" name="Blue Stone Garrison" imageId="1091387357">
+<map id="1879092134" name="Гарнизон Синий Камень" imageId="1091387357">
 <geo factor="599.99994">
 <point longitude="51.566658" latitude="-73.0"/>
 </geo>
 <min longitude="51.566658" latitude="-75.0"/>
 <max longitude="54.233326" latitude="-73.0"/>
 </map>
-<map id="1879092135" name="Sarnúr Keep" imageId="1091115876">
+<map id="1879092135" name="Цитадель Сарнура" imageId="1091115876">
 <geo factor="545.3032">
 <point longitude="49.060566" latitude="66.678085"/>
 </geo>
 <min longitude="49.060566" latitude="64.47748"/>
 <max longitude="51.994713" latitude="66.678085"/>
 </map>
-<map id="1879092136" name="Ost Elendil" imageId="1091388264">
+<map id="1879092136" name="Ост Элендил" imageId="1091388264">
 <geo factor="300.0">
 <point longitude="49.73" latitude="-74.46667"/>
 </geo>
 <min longitude="49.73" latitude="-76.46667"/>
 <max longitude="52.396667" latitude="-74.46667"/>
 </map>
-<map id="1879092137" name="Bree-town Hunting Lodge" imageId="1091387359">
+<map id="1879092137" name="Охотничий домик Бри" imageId="1091387359">
 <geo factor="600.0">
 <point longitude="52.503338" latitude="-79.055"/>
 </geo>
 <min longitude="52.503338" latitude="-80.055"/>
 <max longitude="53.83667" latitude="-79.055"/>
 </map>
-<map id="1879092138" name="Sarnúr Caverns" imageId="1091115875">
+<map id="1879092138" name="Пещеры Сарнура" imageId="1091115875">
 <geo factor="600.0">
 <point longitude="50.02334" latitude="66.305"/>
 </geo>
 <min longitude="50.02334" latitude="64.305"/>
 <max longitude="52.690006" latitude="66.305"/>
 </map>
-<map id="1879093805" name="Thorin's Hall" imageId="1091387747">
+<map id="1879093805" name="Чертоги Торина" imageId="1091387747">
 <geo factor="300.0">
 <point longitude="44.829998" latitude="78.5"/>
 </geo>
 <min longitude="44.829998" latitude="74.5"/>
 <max longitude="50.16333" latitude="78.5"/>
 </map>
-<map id="1879093930" name="Castle of the Witch-king" imageId="1091388347">
+<map id="1879093930" name="Замок Короля-Призрака" imageId="1091388347">
 <geo factor="600.0">
 <point longitude="50.055" latitude="71.141655"/>
 </geo>
 <min longitude="50.055" latitude="68.141655"/>
 <max longitude="51.388332" latitude="71.141655"/>
 </map>
-<map id="1879095490" name="Delossad" imageId="1091400691">
+<map id="1879095490" name="Делоссад" imageId="1091400691">
 <geo factor="600.00006">
 <point longitude="51.76" latitude="-15.839999"/>
 </geo>
 <min longitude="51.76" latitude="-17.839998"/>
 <max longitude="54.426666" latitude="-15.839999"/>
 </map>
-<map id="1879095491" name="Draugroth" imageId="1091400894">
+<map id="1879095491" name="Другрот" imageId="1091400894">
 <geo factor="600.00006">
 <point longitude="51.23834" latitude="-16.80667"/>
 </geo>
 <min longitude="51.23834" latitude="-17.80667"/>
 <max longitude="52.57167" latitude="-16.80667"/>
 </map>
-<map id="1879095492" name="Bar-e-Therchir" imageId="1091400886">
+<map id="1879095492" name="Бар-э-Терхир" imageId="1091400886">
 <geo factor="300.00003">
 <point longitude="52.61" latitude="-16.39"/>
 </geo>
 <min longitude="52.61" latitude="-18.39"/>
 <max longitude="55.27667" latitude="-16.39"/>
 </map>
-<map id="1879099102" name="Homestead Provisions" imageId="1091402950">
+<map id="1879099102" name="Домашние припасы" imageId="1091402950">
 <geo factor="600.0">
 <point longitude="-74.918335" latitude="-35.17167"/>
 </geo>
 <min longitude="-74.918335" latitude="-36.17167"/>
 <max longitude="-73.585" latitude="-35.17167"/>
 </map>
-<map id="1879099105" name="Homestead Provisions" imageId="1091402969">
+<map id="1879099105" name="Домашние припасы" imageId="1091402969">
 <geo factor="599.99994">
 <point longitude="-48.265" latitude="-35.899998"/>
 </geo>
 <min longitude="-48.265" latitude="-36.899998"/>
 <max longitude="-46.931667" latitude="-35.899998"/>
 </map>
-<map id="1879101482" name="Bornabar" imageId="1091404129">
+<map id="1879101482" name="Борнабар" imageId="1091404129">
 <geo factor="300.0">
 <point longitude="52.316658" latitude="-79.34"/>
 </geo>
 <min longitude="52.316658" latitude="-81.34"/>
 <max longitude="54.983326" latitude="-79.34"/>
 </map>
-<map id="1879101483" name="Upper Noruidor" imageId="1091404131">
+<map id="1879101483" name="Верхний Норуидор" imageId="1091404131">
 <geo factor="300.00003">
 <point longitude="51.713337" latitude="-75.4"/>
 </geo>
 <min longitude="51.713337" latitude="-79.4"/>
 <max longitude="57.04667" latitude="-75.4"/>
 </map>
-<map id="1879101485" name="Norbar" imageId="1091404124">
+<map id="1879101485" name="Норбар" imageId="1091404124">
 <geo factor="600.0">
 <point longitude="55.085" latitude="-92.98333"/>
 </geo>
 <min longitude="55.085" latitude="-93.98333"/>
 <max longitude="56.41833" latitude="-92.98333"/>
 </map>
-<map id="1879101486" name="Norbar Approach" imageId="1091404125">
+<map id="1879101486" name="Подход со стороны Норбара" imageId="1091404125">
 <geo factor="300.00003">
 <point longitude="53.52334" latitude="-83.46667"/>
 </geo>
 <min longitude="53.52334" latitude="-85.46667"/>
 <max longitude="56.190006" latitude="-83.46667"/>
 </map>
-<map id="1879101489" name="Gorthban" imageId="1091404126">
+<map id="1879101489" name="Гортбан" imageId="1091404126">
 <geo factor="300.0">
 <point longitude="51.46666" latitude="-5.0499997"/>
 </geo>
 <min longitude="51.46666" latitude="-7.0499997"/>
 <max longitude="54.133327" latitude="-5.0499997"/>
 </map>
-<map id="1879101490" name="Gorthban Approach" imageId="1091404127">
+<map id="1879101490" name="Подход со стороны Гортбана" imageId="1091404127">
 <geo factor="300.0">
 <point longitude="53.649998" latitude="-88.11"/>
 </geo>
 <min longitude="53.649998" latitude="-92.11"/>
 <max longitude="58.98333" latitude="-88.11"/>
 </map>
-<map id="1879101491" name="Lower Noruidor" imageId="1091404128">
+<map id="1879101491" name="Нижний Норуидор" imageId="1091404128">
 <geo factor="300.0">
 <point longitude="53.65334" latitude="-86.02333"/>
 </geo>
 <min longitude="53.65334" latitude="-88.02333"/>
 <max longitude="56.320007" latitude="-86.02333"/>
 </map>
-<map id="1879101640" name="Goblin-town" imageId="1091409939">
+<map id="1879101640" name="Город гоблинов" imageId="1091409939">
 <geo factor="300.0">
 <point longitude="53.49334" latitude="-63.93"/>
 </geo>
 <min longitude="53.49334" latitude="-65.93"/>
 <max longitude="56.160007" latitude="-63.93"/>
 </map>
-<map id="1879101641" name="Gollum's Cave" imageId="1091409940">
+<map id="1879101641" name="Пещера Горлума" imageId="1091409940">
 <geo factor="300.0">
 <point longitude="54.073338" latitude="-62.546665"/>
 </geo>
 <min longitude="54.073338" latitude="-64.54666"/>
 <max longitude="56.740005" latitude="-62.546665"/>
 </map>
-<map id="1879101642" name="Den of the Northern Army" imageId="1091409933">
+<map id="1879101642" name="Логово Северной армии" imageId="1091409933">
 <geo factor="300.00003">
 <point longitude="53.143337" latitude="-63.09"/>
 </geo>
 <min longitude="53.143337" latitude="-65.09"/>
 <max longitude="55.810005" latitude="-63.09"/>
 </map>
-<map id="1879101643" name="The Great Goblin's Den" imageId="1091409934">
+<map id="1879101643" name="Пещера Великого гоблина" imageId="1091409934">
 <geo factor="300.0">
 <point longitude="53.0" latitude="-61.966663"/>
 </geo>
 <min longitude="53.0" latitude="-63.966663"/>
 <max longitude="55.666668" latitude="-61.966663"/>
 </map>
-<map id="1879101644" name="Goblin-town Depths" imageId="1091409935">
+<map id="1879101644" name="Глубины города гоблинов" imageId="1091409935">
 <geo factor="300.0">
 <point longitude="53.61" latitude="-65.49333"/>
 </geo>
 <min longitude="53.61" latitude="-67.49333"/>
 <max longitude="56.27667" latitude="-65.49333"/>
 </map>
-<map id="1879101645" name="Goblin-town Tunnels" imageId="1091409936">
+<map id="1879101645" name="Тоннели города гоблинов" imageId="1091409936">
 <geo factor="300.00003">
 <point longitude="52.54334" latitude="-67.32333"/>
 </geo>
 <min longitude="52.54334" latitude="-71.32333"/>
 <max longitude="57.87667" latitude="-67.32333"/>
 </map>
-<map id="1879101848" name="Goblin-town Tunnels" imageId="1091409937">
+<map id="1879101848" name="Тоннели города гоблинов" imageId="1091409937">
 <geo factor="299.99997">
 <point longitude="53.24334" latitude="-64.22666"/>
 </geo>
 <min longitude="53.24334" latitude="-68.22666"/>
 <max longitude="58.576675" latitude="-64.22666"/>
 </map>
-<map id="1879101849" name="Goblin-town Tunnels" imageId="1091409938">
+<map id="1879101849" name="Тоннели города гоблинов" imageId="1091409938">
 <geo factor="300.00003">
 <point longitude="52.643337" latitude="-65.67333"/>
 </geo>
 <min longitude="52.643337" latitude="-69.67333"/>
 <max longitude="57.97667" latitude="-65.67333"/>
 </map>
-<map id="1879102227" name="Norbar" imageId="1091413221">
+<map id="1879102227" name="Норбар" imageId="1091413221">
 <geo factor="300.0">
 <point longitude="50.45" latitude="-90.316666"/>
 </geo>
 <min longitude="50.45" latitude="-94.316666"/>
 <max longitude="55.783333" latitude="-90.316666"/>
 </map>
-<map id="1879102303" name="Kinship Hall" imageId="1091410094">
+<map id="1879102303" name="Дом содружества" imageId="1091410094">
 <geo factor="600.0">
 <point longitude="38.559998" latitude="50.36"/>
 </geo>
 <min longitude="38.559998" latitude="49.36"/>
 <max longitude="39.89333" latitude="50.36"/>
 </map>
-<map id="1879102304" name="Small House" imageId="1091410097">
+<map id="1879102304" name="Обычный дом" imageId="1091410097">
 <geo factor="600.0">
 <point longitude="40.285" latitude="51.43666"/>
 </geo>
 <min longitude="40.285" latitude="50.43666"/>
 <max longitude="41.618332" latitude="51.43666"/>
 </map>
-<map id="1879102305" name="Small House" imageId="1091410099">
+<map id="1879102305" name="Обычный дом" imageId="1091410099">
 <geo factor="600.0">
 <point longitude="40.594997" latitude="52.296658"/>
 </geo>
 <min longitude="40.594997" latitude="51.296658"/>
 <max longitude="41.92833" latitude="52.296658"/>
 </map>
-<map id="1879102306" name="Kinship Hall" imageId="1091410100">
+<map id="1879102306" name="Дом содружества" imageId="1091410100">
 <geo factor="599.99994">
 <point longitude="40.39666" latitude="53.04834"/>
 </geo>
 <min longitude="40.39666" latitude="52.04834"/>
 <max longitude="41.729992" latitude="53.04834"/>
 </map>
-<map id="1879102307" name="Large House" imageId="1091410102">
+<map id="1879102307" name="Богатый дом" imageId="1091410102">
 <geo factor="600.00006">
 <point longitude="40.253338" latitude="54.074997"/>
 </geo>
 <min longitude="40.253338" latitude="53.074997"/>
 <max longitude="41.58667" latitude="54.074997"/>
 </map>
-<map id="1879102308" name="Small House" imageId="1091410104">
+<map id="1879102308" name="Обычный дом" imageId="1091410104">
 <geo factor="600.0">
 <point longitude="40.48" latitude="55.276657"/>
 </geo>
 <min longitude="40.48" latitude="54.276657"/>
 <max longitude="41.81333" latitude="55.276657"/>
 </map>
-<map id="1879102309" name="Kinship Hall" imageId="1091410105">
+<map id="1879102309" name="Дом содружества" imageId="1091410105">
 <geo factor="600.0">
 <point longitude="38.559998" latitude="56.76"/>
 </geo>
 <min longitude="38.559998" latitude="55.76"/>
 <max longitude="39.89333" latitude="56.76"/>
 </map>
-<map id="1879102310" name="Large House" imageId="1091410106">
+<map id="1879102310" name="Богатый дом" imageId="1091410106">
 <geo factor="600.0">
 <point longitude="40.285" latitude="57.83666"/>
 </geo>
 <min longitude="40.285" latitude="56.83666"/>
 <max longitude="41.618332" latitude="57.83666"/>
 </map>
-<map id="1879102311" name="Small House" imageId="1091410107">
+<map id="1879102311" name="Обычный дом" imageId="1091410107">
 <geo factor="600.0">
 <point longitude="40.594997" latitude="58.69666"/>
 </geo>
 <min longitude="40.594997" latitude="57.69666"/>
 <max longitude="41.92833" latitude="58.69666"/>
 </map>
-<map id="1879102312" name="Kinship Hall" imageId="1091410108">
+<map id="1879102312" name="Дом содружества" imageId="1091410108">
 <geo factor="600.00006">
 <point longitude="40.535" latitude="60.07834"/>
 </geo>
 <min longitude="40.535" latitude="59.07834"/>
 <max longitude="41.868332" latitude="60.07834"/>
 </map>
-<map id="1879102313" name="Small House" imageId="1091410109">
+<map id="1879102313" name="Обычный дом" imageId="1091410109">
 <geo factor="600.0">
 <point longitude="40.608337" latitude="60.97334"/>
 </geo>
 <min longitude="40.608337" latitude="59.97334"/>
 <max longitude="41.94167" latitude="60.97334"/>
 </map>
-<map id="1879102314" name="Small House" imageId="1091410110">
+<map id="1879102314" name="Обычный дом" imageId="1091410110">
 <geo factor="600.0">
 <point longitude="40.53" latitude="61.69"/>
 </geo>
 <min longitude="40.53" latitude="60.69"/>
 <max longitude="41.86333" latitude="61.69"/>
 </map>
-<map id="1879102315" name="Kinship Hall" imageId="1091410111">
+<map id="1879102315" name="Дом содружества" imageId="1091410111">
 <geo factor="600.0">
 <point longitude="39.36" latitude="50.36"/>
 </geo>
 <min longitude="39.36" latitude="49.36"/>
 <max longitude="40.693333" latitude="50.36"/>
 </map>
-<map id="1879102316" name="Small House" imageId="1091410112">
+<map id="1879102316" name="Обычный дом" imageId="1091410112">
 <geo factor="600.0">
 <point longitude="41.085" latitude="51.43666"/>
 </geo>
 <min longitude="41.085" latitude="50.43666"/>
 <max longitude="42.41833" latitude="51.43666"/>
 </map>
-<map id="1879102317" name="Small House" imageId="1091410113">
+<map id="1879102317" name="Обычный дом" imageId="1091410113">
 <geo factor="600.0">
 <point longitude="41.395" latitude="52.296658"/>
 </geo>
 <min longitude="41.395" latitude="51.296658"/>
 <max longitude="42.728333" latitude="52.296658"/>
 </map>
-<map id="1879102318" name="Kinship Hall" imageId="1091410114">
+<map id="1879102318" name="Дом содружества" imageId="1091410114">
 <geo factor="599.99994">
 <point longitude="41.19666" latitude="53.04834"/>
 </geo>
 <min longitude="41.19666" latitude="52.04834"/>
 <max longitude="42.52999" latitude="53.04834"/>
 </map>
-<map id="1879102319" name="Large House" imageId="1091410115">
+<map id="1879102319" name="Богатый дом" imageId="1091410115">
 <geo factor="600.00006">
 <point longitude="41.053337" latitude="54.074997"/>
 </geo>
 <min longitude="41.053337" latitude="53.074997"/>
 <max longitude="42.38667" latitude="54.074997"/>
 </map>
-<map id="1879102320" name="Small House" imageId="1091410116">
+<map id="1879102320" name="Обычный дом" imageId="1091410116">
 <geo factor="600.0">
 <point longitude="41.28" latitude="55.276657"/>
 </geo>
 <min longitude="41.28" latitude="54.276657"/>
 <max longitude="42.61333" latitude="55.276657"/>
 </map>
-<map id="1879102321" name="Kinship Hall" imageId="1091410117">
+<map id="1879102321" name="Дом содружества" imageId="1091410117">
 <geo factor="600.0">
 <point longitude="39.36" latitude="56.76"/>
 </geo>
 <min longitude="39.36" latitude="55.76"/>
 <max longitude="40.693333" latitude="56.76"/>
 </map>
-<map id="1879102322" name="Large House" imageId="1091410118">
+<map id="1879102322" name="Богатый дом" imageId="1091410118">
 <geo factor="600.0">
 <point longitude="41.085" latitude="57.83666"/>
 </geo>
 <min longitude="41.085" latitude="56.83666"/>
 <max longitude="42.41833" latitude="57.83666"/>
 </map>
-<map id="1879102323" name="Small House" imageId="1091410119">
+<map id="1879102323" name="Обычный дом" imageId="1091410119">
 <geo factor="600.0">
 <point longitude="41.395" latitude="58.69666"/>
 </geo>
 <min longitude="41.395" latitude="57.69666"/>
 <max longitude="42.728333" latitude="58.69666"/>
 </map>
-<map id="1879102324" name="Kinship Hall" imageId="1091410120">
+<map id="1879102324" name="Дом содружества" imageId="1091410120">
 <geo factor="600.00006">
 <point longitude="41.335" latitude="60.07834"/>
 </geo>
 <min longitude="41.335" latitude="59.07834"/>
 <max longitude="42.66833" latitude="60.07834"/>
 </map>
-<map id="1879102325" name="Small House" imageId="1091410121">
+<map id="1879102325" name="Обычный дом" imageId="1091410121">
 <geo factor="600.0">
 <point longitude="41.40834" latitude="60.97334"/>
 </geo>
 <min longitude="41.40834" latitude="59.97334"/>
 <max longitude="42.741673" latitude="60.97334"/>
 </map>
-<map id="1879102326" name="Small House" imageId="1091410122">
+<map id="1879102326" name="Обычный дом" imageId="1091410122">
 <geo factor="600.0">
 <point longitude="41.329998" latitude="61.69"/>
 </geo>
 <min longitude="41.329998" latitude="60.69"/>
 <max longitude="42.66333" latitude="61.69"/>
 </map>
-<map id="1879102327" name="Kinship Hall" imageId="1091410123">
+<map id="1879102327" name="Дом содружества" imageId="1091410123">
 <geo factor="600.0">
 <point longitude="40.16" latitude="50.36"/>
 </geo>
 <min longitude="40.16" latitude="49.36"/>
 <max longitude="41.493332" latitude="50.36"/>
 </map>
-<map id="1879102328" name="Small House" imageId="1091410124">
+<map id="1879102328" name="Обычный дом" imageId="1091410124">
 <geo factor="600.0">
 <point longitude="41.885" latitude="51.43666"/>
 </geo>
 <min longitude="41.885" latitude="50.43666"/>
 <max longitude="43.21833" latitude="51.43666"/>
 </map>
-<map id="1879102329" name="Small House" imageId="1091410125">
+<map id="1879102329" name="Обычный дом" imageId="1091410125">
 <geo factor="600.0">
 <point longitude="42.195" latitude="52.296658"/>
 </geo>
 <min longitude="42.195" latitude="51.296658"/>
 <max longitude="43.52833" latitude="52.296658"/>
 </map>
-<map id="1879102330" name="Kinship Hall" imageId="1091410126">
+<map id="1879102330" name="Дом содружества" imageId="1091410126">
 <geo factor="599.99994">
 <point longitude="41.99666" latitude="53.04834"/>
 </geo>
 <min longitude="41.99666" latitude="52.04834"/>
 <max longitude="43.32999" latitude="53.04834"/>
 </map>
-<map id="1879102331" name="Large House" imageId="1091410127">
+<map id="1879102331" name="Богатый дом" imageId="1091410127">
 <geo factor="600.00006">
 <point longitude="41.85334" latitude="54.074997"/>
 </geo>
 <min longitude="41.85334" latitude="53.074997"/>
 <max longitude="43.186672" latitude="54.074997"/>
 </map>
-<map id="1879102332" name="Small House" imageId="1091410128">
+<map id="1879102332" name="Обычный дом" imageId="1091410128">
 <geo factor="600.0">
 <point longitude="42.079998" latitude="55.276657"/>
 </geo>
 <min longitude="42.079998" latitude="54.276657"/>
 <max longitude="43.41333" latitude="55.276657"/>
 </map>
-<map id="1879102333" name="Kinship Hall" imageId="1091410129">
+<map id="1879102333" name="Дом содружества" imageId="1091410129">
 <geo factor="600.0">
 <point longitude="40.16" latitude="56.76"/>
 </geo>
 <min longitude="40.16" latitude="55.76"/>
 <max longitude="41.493332" latitude="56.76"/>
 </map>
-<map id="1879102334" name="Large House" imageId="1091410130">
+<map id="1879102334" name="Богатый дом" imageId="1091410130">
 <geo factor="600.0">
 <point longitude="41.885" latitude="57.83666"/>
 </geo>
 <min longitude="41.885" latitude="56.83666"/>
 <max longitude="43.21833" latitude="57.83666"/>
 </map>
-<map id="1879102335" name="Small House" imageId="1091410131">
+<map id="1879102335" name="Обычный дом" imageId="1091410131">
 <geo factor="600.0">
 <point longitude="42.195" latitude="58.69666"/>
 </geo>
 <min longitude="42.195" latitude="57.69666"/>
 <max longitude="43.52833" latitude="58.69666"/>
 </map>
-<map id="1879102336" name="Kinship Hall" imageId="1091410132">
+<map id="1879102336" name="Дом содружества" imageId="1091410132">
 <geo factor="600.00006">
 <point longitude="42.135" latitude="60.07834"/>
 </geo>
 <min longitude="42.135" latitude="59.07834"/>
 <max longitude="43.46833" latitude="60.07834"/>
 </map>
-<map id="1879102337" name="Small House" imageId="1091410133">
+<map id="1879102337" name="Обычный дом" imageId="1091410133">
 <geo factor="600.0">
 <point longitude="42.20834" latitude="60.97334"/>
 </geo>
 <min longitude="42.20834" latitude="59.97334"/>
 <max longitude="43.54167" latitude="60.97334"/>
 </map>
-<map id="1879102338" name="Small House" imageId="1091410134">
+<map id="1879102338" name="Обычный дом" imageId="1091410134">
 <geo factor="600.0">
 <point longitude="42.129997" latitude="61.69"/>
 </geo>
 <min longitude="42.129997" latitude="60.69"/>
 <max longitude="43.46333" latitude="61.69"/>
 </map>
-<map id="1879102339" name="Kinship Hall" imageId="1091410135">
+<map id="1879102339" name="Дом содружества" imageId="1091410135">
 <geo factor="600.0">
 <point longitude="40.96" latitude="50.36"/>
 </geo>
 <min longitude="40.96" latitude="49.36"/>
 <max longitude="42.29333" latitude="50.36"/>
 </map>
-<map id="1879102340" name="Small House" imageId="1091410096">
+<map id="1879102340" name="Обычный дом" imageId="1091410096">
 <geo factor="600.0">
 <point longitude="42.684998" latitude="51.43666"/>
 </geo>
 <min longitude="42.684998" latitude="50.43666"/>
 <max longitude="44.01833" latitude="51.43666"/>
 </map>
-<map id="1879102341" name="Small House" imageId="1091410136">
+<map id="1879102341" name="Обычный дом" imageId="1091410136">
 <geo factor="600.0">
 <point longitude="42.995" latitude="52.296658"/>
 </geo>
 <min longitude="42.995" latitude="51.296658"/>
 <max longitude="44.32833" latitude="52.296658"/>
 </map>
-<map id="1879102342" name="Kinship Hall" imageId="1091410137">
+<map id="1879102342" name="Дом содружества" imageId="1091410137">
 <geo factor="599.99994">
 <point longitude="42.796658" latitude="53.04834"/>
 </geo>
 <min longitude="42.796658" latitude="52.04834"/>
 <max longitude="44.12999" latitude="53.04834"/>
 </map>
-<map id="1879102343" name="Large House" imageId="1091410138">
+<map id="1879102343" name="Богатый дом" imageId="1091410138">
 <geo factor="600.00006">
 <point longitude="42.65334" latitude="54.074997"/>
 </geo>
 <min longitude="42.65334" latitude="53.074997"/>
 <max longitude="43.98667" latitude="54.074997"/>
 </map>
-<map id="1879102344" name="Small House" imageId="1091410139">
+<map id="1879102344" name="Обычный дом" imageId="1091410139">
 <geo factor="600.0">
 <point longitude="42.879997" latitude="55.276657"/>
 </geo>
 <min longitude="42.879997" latitude="54.276657"/>
 <max longitude="44.21333" latitude="55.276657"/>
 </map>
-<map id="1879102345" name="Kinship Hall" imageId="1091410140">
+<map id="1879102345" name="Дом содружества" imageId="1091410140">
 <geo factor="600.0">
 <point longitude="40.96" latitude="56.76"/>
 </geo>
 <min longitude="40.96" latitude="55.76"/>
 <max longitude="42.29333" latitude="56.76"/>
 </map>
-<map id="1879102346" name="Large House" imageId="1091410141">
+<map id="1879102346" name="Богатый дом" imageId="1091410141">
 <geo factor="600.0">
 <point longitude="42.684998" latitude="57.83666"/>
 </geo>
 <min longitude="42.684998" latitude="56.83666"/>
 <max longitude="44.01833" latitude="57.83666"/>
 </map>
-<map id="1879102347" name="Small House" imageId="1091410091">
+<map id="1879102347" name="Обычный дом" imageId="1091410091">
 <geo factor="600.0">
 <point longitude="42.995" latitude="58.69666"/>
 </geo>
 <min longitude="42.995" latitude="57.69666"/>
 <max longitude="44.32833" latitude="58.69666"/>
 </map>
-<map id="1879102348" name="Kinship Hall" imageId="1091410092">
+<map id="1879102348" name="Дом содружества" imageId="1091410092">
 <geo factor="600.00006">
 <point longitude="42.934998" latitude="60.07834"/>
 </geo>
 <min longitude="42.934998" latitude="59.07834"/>
 <max longitude="44.26833" latitude="60.07834"/>
 </map>
-<map id="1879102349" name="Small House" imageId="1091410093">
+<map id="1879102349" name="Обычный дом" imageId="1091410093">
 <geo factor="600.0">
 <point longitude="43.00834" latitude="60.97334"/>
 </geo>
 <min longitude="43.00834" latitude="59.97334"/>
 <max longitude="44.34167" latitude="60.97334"/>
 </map>
-<map id="1879102350" name="Small House" imageId="1091410095">
+<map id="1879102350" name="Обычный дом" imageId="1091410095">
 <geo factor="600.0">
 <point longitude="42.93" latitude="61.69"/>
 </geo>
 <min longitude="42.93" latitude="60.69"/>
 <max longitude="44.263332" latitude="61.69"/>
 </map>
-<map id="1879102351" name="Small House" imageId="1091410096">
+<map id="1879102351" name="Обычный дом" imageId="1091410096">
 <geo factor="600.0">
 <point longitude="42.684998" latitude="51.43666"/>
 </geo>
 <min longitude="42.684998" latitude="50.43666"/>
 <max longitude="44.01833" latitude="51.43666"/>
 </map>
-<map id="1879102352" name="Large House" imageId="1091410098">
+<map id="1879102352" name="Богатый дом" imageId="1091410098">
 <geo factor="600.00006">
 <point longitude="43.45334" latitude="54.074997"/>
 </geo>
 <min longitude="43.45334" latitude="53.074997"/>
 <max longitude="44.78667" latitude="54.074997"/>
 </map>
-<map id="1879102353" name="Large House" imageId="1091410101">
+<map id="1879102353" name="Богатый дом" imageId="1091410101">
 <geo factor="600.0">
 <point longitude="43.485" latitude="57.83666"/>
 </geo>
 <min longitude="43.485" latitude="56.83666"/>
 <max longitude="44.818333" latitude="57.83666"/>
 </map>
-<map id="1879102354" name="Small House" imageId="1091410103">
+<map id="1879102354" name="Обычный дом" imageId="1091410103">
 <geo factor="600.0">
 <point longitude="43.80834" latitude="60.97334"/>
 </geo>
 <min longitude="43.80834" latitude="59.97334"/>
 <max longitude="45.14167" latitude="60.97334"/>
 </map>
-<map id="1879102356" name="Thorgest’s Haven" imageId="1091410517">
+<map id="1879102356" name="Пристанище Торгеста" imageId="1091410517">
 <geo factor="600.0">
 <point longitude="5.85667" latitude="-24.95333"/>
 </geo>

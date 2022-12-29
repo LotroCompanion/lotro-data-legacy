@@ -1,516 +1,516 @@
 <?xml version="1.0" encoding="UTF-8"?><consumables>
-<consumable identifier="1879049653" name="Roast Pork" iconId="1090640826-1090522692-1090640827" class="55">
+<consumable identifier="1879049653" name="Жареная свинина" iconId="1090640826-1090522692-1090640827" class="55">
 <stat name="OCMR" constant="4.866667"/>
 <stat name="OCPR" constant="5.5"/>
 </consumable>
-<consumable identifier="1879049715" name="Mushroom Pie" iconId="1090541626-1090522692-1090541627" class="55">
+<consumable identifier="1879049715" name="Пирог с грибами" iconId="1090541626-1090522692-1090541627" class="55">
 <stat name="OCMR" constant="4.866667"/>
 <stat name="OCPR" constant="5.5"/>
 </consumable>
-<consumable identifier="1879049716" name="Cooked Carrots" iconId="1090531103-1090522692-1090531104" class="55">
+<consumable identifier="1879049716" name="Вареная морковка" iconId="1090531103-1090522692-1090531104" class="55">
 <stat name="VITALITY" constant="2.0"/>
 </consumable>
-<consumable identifier="1879049717" name="Eggs and Onions" iconId="1090541650-1090522692-1090541651" class="55">
+<consumable identifier="1879049717" name="Омлет с луком" iconId="1090541650-1090522692-1090541651" class="55">
 <stat name="MIGHT" constant="2.0"/>
 </consumable>
-<consumable identifier="1879049718" name="Fried Mushrooms" iconId="1090522812-1090522692-1090522812" class="55">
+<consumable identifier="1879049718" name="Жареные грибы" iconId="1090522812-1090522692-1090522812" class="55">
 <stat name="AGILITY" constant="2.0"/>
 </consumable>
-<consumable identifier="1879049818" name="Barliman's Best" iconId="1090523137-1090522692-1090523138" class="55">
+<consumable identifier="1879049818" name="Лаврова гордость" iconId="1090523137-1090522692-1090523138" class="55">
 <stat name="Combat_BaseMissRate" descriptionOverride="-" constant="15.000001"/>
 </consumable>
-<consumable identifier="1879049819" name="Blind Troll Stout" iconId="1090523137-1090522692-1090523138" class="55">
+<consumable identifier="1879049819" name="Портер \qСлепой Тролль\q" iconId="1090523137-1090522692-1090523138" class="55">
 <stat name="Combat_BaseMissRate" descriptionOverride="-" constant="10.0"/>
 </consumable>
-<consumable identifier="1879049820" name="Moor-boar Beer" iconId="1090523137-1090522692-1090523138" class="55">
+<consumable identifier="1879049820" name="Пиво \qВересковый вепрь\q" iconId="1090523137-1090522692-1090523138" class="55">
 <stat name="Combat_BaseMissRate" descriptionOverride="-" constant="10.0"/>
 </consumable>
-<consumable identifier="1879049821" name="Stars of Old Cider" iconId="1090523137-1090522692-1090523138" class="55">
+<consumable identifier="1879049821" name="Сидр \qДревние звезды\q" iconId="1090523137-1090522692-1090523138" class="55">
 <stat name="Combat_BaseMissRate" descriptionOverride="-" constant="15.000001"/>
 </consumable>
-<consumable identifier="1879049822" name="Isenwine" iconId="1090523139-1090522692-1090523140" class="55">
+<consumable identifier="1879049822" name="Изен-вино" iconId="1090523139-1090522692-1090523140" class="55">
 <stat name="Combat_BaseMissRate" descriptionOverride="-" constant="10.0"/>
 </consumable>
-<consumable identifier="1879049823" name="Frothy Pint of Ale" iconId="1090640836-1090522692-1090640837" class="55">
+<consumable identifier="1879049823" name="Пенистый эль" iconId="1090640836-1090522692-1090640837" class="55">
 <stat name="Combat_BaseMissRate" descriptionOverride="-" constant="5.0"/>
 </consumable>
-<consumable identifier="1879049824" name="Small Beer" iconId="1090640842-1090522692-1090640843" class="55">
+<consumable identifier="1879049824" name="Слабое пиво" iconId="1090640842-1090522692-1090640843" class="55">
 <stat name="Combat_BaseMissRate" descriptionOverride="-" constant="5.0"/>
 </consumable>
-<consumable identifier="1879049825" name="Mead" iconId="1090640840-1090522692-1090640841" class="55">
+<consumable identifier="1879049825" name="Медовуха" iconId="1090640840-1090522692-1090640841" class="55">
 <stat name="Combat_BaseMissRate" descriptionOverride="-" constant="5.0"/>
 </consumable>
-<consumable identifier="1879049826" name="Hard Cider" iconId="1090523137-1090522692-1090523138" class="55">
+<consumable identifier="1879049826" name="Крепкий сидр" iconId="1090523137-1090522692-1090523138" class="55">
 <stat name="Combat_BaseMissRate" descriptionOverride="-" constant="5.0"/>
 </consumable>
-<consumable identifier="1879049827" name="Flagon of Red Wine" iconId="1090523139-1090522692-1090523140" class="55">
+<consumable identifier="1879049827" name="Бутыль красного вина" iconId="1090523139-1090522692-1090523140" class="55">
 <stat name="Combat_BaseMissRate" descriptionOverride="-" constant="5.0"/>
 </consumable>
-<consumable identifier="1879049828" name="Flagon of White Wine" iconId="1090523139-1090522692-1090523140" class="55">
+<consumable identifier="1879049828" name="Бутыль белого вина" iconId="1090523139-1090522692-1090523140" class="55">
 <stat name="Combat_BaseMissRate" descriptionOverride="-" constant="5.0"/>
 </consumable>
-<consumable identifier="1879050187" name="Forsaken Ale" iconId="1090524177-1090522692-1090524178" class="55">
+<consumable identifier="1879050187" name="Забытый эль" iconId="1090524177-1090522692-1090524178" class="55">
 <stat name="Combat_BaseMissRate" descriptionOverride="-" constant="10.0"/>
 </consumable>
-<consumable identifier="1879050188" name="Swill" iconId="1090524179-1090522692-1090524180" class="55">
+<consumable identifier="1879050188" name="Пойло" iconId="1090524179-1090522692-1090524180" class="55">
 <stat name="Combat_BaseMissRate" descriptionOverride="-" constant="10.0"/>
 </consumable>
-<consumable identifier="1879050189" name="Forsaken Cider" iconId="1090524177-1090522692-1090524178" class="55">
+<consumable identifier="1879050189" name="Забытый сидр" iconId="1090524177-1090522692-1090524178" class="55">
 <stat name="Combat_BaseMissRate" descriptionOverride="-" constant="15.000001"/>
 </consumable>
-<consumable identifier="1879051637" name="Blagrove's Brown" iconId="1090523137-1090522692-1090523138" class="55">
+<consumable identifier="1879051637" name="Темный Рыскарь" iconId="1090523137-1090522692-1090523138" class="55">
 <stat name="Combat_BaseMissRate" descriptionOverride="-" constant="10.0"/>
 </consumable>
-<consumable identifier="1879051642" name="Wooly-foot Stout" iconId="1090523137-1090522692-1090523138" class="55">
+<consumable identifier="1879051642" name="Портер \qМохнолап\q" iconId="1090523137-1090522692-1090523138" class="55">
 <stat name="Combat_BaseMissRate" descriptionOverride="-" constant="10.0"/>
 </consumable>
-<consumable identifier="1879052056" name="Farmer Maggot Mushroom" iconId="1090522812-1090522692-1090522813" class="55">
+<consumable identifier="1879052056" name="Гриб фермера Бирюка" iconId="1090522812-1090522692-1090522813" class="55">
 <stat name="AGILITY" constant="14.0"/>
 </consumable>
-<consumable identifier="1879052430" name="Fire-oil" iconId="1090532008-1090519041-1090532009" class="17">
+<consumable identifier="1879052430" name="Огненное масло" iconId="1090532008-1090519041-1090532009" class="17">
 <stat name="ForwardSource_ComboMode_Hunter_DamageType" operator="SET" constant="39.0"/>
 </consumable>
-<consumable identifier="1879054301" name="Simple Rations" iconId="1090640830-1090522692-1090640831" class="55">
+<consumable identifier="1879054301" name="Простые припасы" iconId="1090640830-1090522692-1090640831" class="55">
 <stat name="OCMR" constant="1.8"/>
 <stat name="OCPR" constant="2.9166667"/>
 </consumable>
-<consumable identifier="1879054302" name="Dry Rations" iconId="1090640834-1090522692-1090640835" class="55">
+<consumable identifier="1879054302" name="Сухие припасы" iconId="1090640834-1090522692-1090640835" class="55">
 <stat name="OCMR" constant="8.1"/>
 <stat name="OCPR" constant="9.916667"/>
 </consumable>
-<consumable identifier="1879054303" name="Hard Rations" iconId="1090640828-1090522692-1090640829" class="55">
+<consumable identifier="1879054303" name="Жесткие припасы" iconId="1090640828-1090522692-1090640829" class="55">
 <stat name="OCMR" constant="11.6"/>
 <stat name="OCPR" constant="14.083333"/>
 </consumable>
-<consumable identifier="1879054304" name="Rich Rations" iconId="1090640838-1090522692-1090640839" class="55">
+<consumable identifier="1879054304" name="Питательные припасы" iconId="1090640838-1090522692-1090640839" class="55">
 <stat name="OCMR" constant="15.1"/>
 <stat name="OCPR" constant="18.25"/>
 </consumable>
-<consumable identifier="1879054305" name="Tasty Rations" iconId="1090640832-1090522692-1090640833" class="55">
+<consumable identifier="1879054305" name="Вкусные припасы" iconId="1090640832-1090522692-1090640833" class="55">
 <stat name="OCMR" constant="18.6"/>
 <stat name="OCPR" constant="22.416666"/>
 </consumable>
-<consumable identifier="1879054998" name="Scroll of Minor Metalworking Lore" iconId="1090530434-1090519041-1090530435" class="57">
+<consumable identifier="1879054998" name="Свиток малых знаний о работе по металлу" iconId="1090530434-1090519041-1090530435" class="57">
 <stat name="METALSMITH_CRIT_CHANCE_PERCENTAGE" constant="1.0"/>
 </consumable>
-<consumable identifier="1879055006" name="Scroll of Minor Tailoring Lore" iconId="1090523516-1090519041-1090523517" class="57">
+<consumable identifier="1879055006" name="Свиток малых знаний о работе портного" iconId="1090523516-1090519041-1090523517" class="57">
 <stat name="TAILOR_CRIT_CHANCE_PERCENTAGE" constant="1.0"/>
 </consumable>
-<consumable identifier="1879055009" name="Scroll of Minor Weaponsmithing Lore" iconId="1090531739-1090519041-1090531740" class="57">
+<consumable identifier="1879055009" name="Свиток малых знаний о работе оружейника" iconId="1090531739-1090519041-1090531740" class="57">
 <stat name="WEAPONSMITH_CRIT_CHANCE_PERCENTAGE" constant="1.0"/>
 </consumable>
-<consumable identifier="1879055012" name="Scroll of Minor Woodworking Lore" iconId="1090531737-1090519041-1090531738" class="57">
+<consumable identifier="1879055012" name="Свиток малых знаний о деревообработке" iconId="1090531737-1090519041-1090531738" class="57">
 <stat name="WOODWORKER_CRIT_CHANCE_PERCENTAGE" constant="1.0"/>
 </consumable>
-<consumable identifier="1879055015" name="Scroll of Minor Battle Lore" iconId="1090531744-1090519041-1090531745" class="57">
+<consumable identifier="1879055015" name="Свиток малых знаний о военном деле" iconId="1090531744-1090519041-1090531745" class="57">
 <stat name="MELEE_DAMAGE_PERCENTAGE" constant="2.0"/>
 <stat name="RANGED_DAMAGE_PERCENTAGE" constant="2.0"/>
 <stat name="TACTICAL_DAMAGE_PERCENTAGE" constant="2.0"/>
 </consumable>
-<consumable identifier="1879055020" name="Scroll of Minor Warding Lore" iconId="1090531423-1090519041-1090531424" class="57">
+<consumable identifier="1879055020" name="Свиток малых знаний о защите" iconId="1090531423-1090519041-1090531424" class="57">
 <stat name="MELEE_DEFENCE_PERCENTAGE" constant="-2.0"/>
 <stat name="RANGED_DEFENCE_PERCENTAGE" constant="-2.0"/>
 <stat name="TACTICAL_DEFENCE_PERCENTAGE" constant="-2.0"/>
 </consumable>
-<consumable identifier="1879055023" name="Scroll of Lesser Metalworking Lore" iconId="1090530434-1090519041-1090530435" class="57">
+<consumable identifier="1879055023" name="Свиток умеренных знаний о работе по металлу" iconId="1090530434-1090519041-1090530435" class="57">
 <stat name="METALSMITH_CRIT_CHANCE_PERCENTAGE" constant="2.5"/>
 </consumable>
-<consumable identifier="1879055028" name="Scroll of Lesser Tailoring Lore" iconId="1090523516-1090519041-1090523517" class="57">
+<consumable identifier="1879055028" name="Свиток умеренных знаний о работе портного" iconId="1090523516-1090519041-1090523517" class="57">
 <stat name="TAILOR_CRIT_CHANCE_PERCENTAGE" constant="2.5"/>
 </consumable>
-<consumable identifier="1879055030" name="Scroll of Lesser Weaponsmithing Lore" iconId="1090531739-1090519041-1090531740" class="57">
+<consumable identifier="1879055030" name="Свиток умеренных знаний о работе оружейника" iconId="1090531739-1090519041-1090531740" class="57">
 <stat name="WEAPONSMITH_CRIT_CHANCE_PERCENTAGE" constant="2.5"/>
 </consumable>
-<consumable identifier="1879055032" name="Scroll of Lesser Woodworking Lore" iconId="1090531737-1090519041-1090531738" class="57">
+<consumable identifier="1879055032" name="Свиток умеренных знаний о деревообработке" iconId="1090531737-1090519041-1090531738" class="57">
 <stat name="WOODWORKER_CRIT_CHANCE_PERCENTAGE" constant="2.5"/>
 </consumable>
-<consumable identifier="1879055034" name="Scroll of Metalworking Lore" iconId="1090530434-1090519041-1090530435" class="57">
+<consumable identifier="1879055034" name="Свиток знаний о работе по металлу" iconId="1090530434-1090519041-1090530435" class="57">
 <stat name="METALSMITH_CRIT_CHANCE_PERCENTAGE" constant="3.5"/>
 </consumable>
-<consumable identifier="1879055039" name="Scroll of Tailoring Lore" iconId="1090523516-1090519041-1090523517" class="57">
+<consumable identifier="1879055039" name="Свиток знаний о работе портного" iconId="1090523516-1090519041-1090523517" class="57">
 <stat name="TAILOR_CRIT_CHANCE_PERCENTAGE" constant="3.5"/>
 </consumable>
-<consumable identifier="1879055041" name="Scroll of Weaponsmithing Lore" iconId="1090531739-1090519041-1090531740" class="57">
+<consumable identifier="1879055041" name="Свиток знаний о работе оружейника" iconId="1090531739-1090519041-1090531740" class="57">
 <stat name="WEAPONSMITH_CRIT_CHANCE_PERCENTAGE" constant="3.5"/>
 </consumable>
-<consumable identifier="1879055043" name="Scroll of Woodworking Lore" iconId="1090531737-1090519041-1090531738" class="57">
+<consumable identifier="1879055043" name="Свиток знаний о деревообработке" iconId="1090531737-1090519041-1090531738" class="57">
 <stat name="WOODWORKER_CRIT_CHANCE_PERCENTAGE" constant="3.5"/>
 </consumable>
-<consumable identifier="1879055045" name="Scroll of Battle Lore" iconId="1090531744-1090519041-1090531745" class="57">
+<consumable identifier="1879055045" name="Свиток знаний о военном деле" iconId="1090531744-1090519041-1090531745" class="57">
 <stat name="MELEE_DAMAGE_PERCENTAGE" constant="5.0"/>
 <stat name="RANGED_DAMAGE_PERCENTAGE" constant="5.0"/>
 <stat name="TACTICAL_DAMAGE_PERCENTAGE" constant="5.0"/>
 </consumable>
-<consumable identifier="1879055050" name="Scroll of Warding Lore" iconId="1090531423-1090519041-1090531424" class="57">
+<consumable identifier="1879055050" name="Свиток знаний о защите" iconId="1090531423-1090519041-1090531424" class="57">
 <stat name="MELEE_DEFENCE_PERCENTAGE" constant="-5.0"/>
 <stat name="RANGED_DEFENCE_PERCENTAGE" constant="-5.0"/>
 <stat name="TACTICAL_DEFENCE_PERCENTAGE" constant="-5.0"/>
 </consumable>
-<consumable identifier="1879055053" name="Scroll of Elder Metalworking Lore" iconId="1090530434-1090519041-1090530435" class="57">
+<consumable identifier="1879055053" name="Свиток обширных знаний о работе по металлу" iconId="1090530434-1090519041-1090530435" class="57">
 <stat name="METALSMITH_CRIT_CHANCE_PERCENTAGE" constant="7.5000005"/>
 </consumable>
-<consumable identifier="1879055058" name="Scroll of Elder Tailoring Lore" iconId="1090523516-1090519041-1090523517" class="57">
+<consumable identifier="1879055058" name="Свиток обширных знаний о работе портного" iconId="1090523516-1090519041-1090523517" class="57">
 <stat name="TAILOR_CRIT_CHANCE_PERCENTAGE" constant="7.5000005"/>
 </consumable>
-<consumable identifier="1879055060" name="Scroll of Elder Weaponsmithing Lore" iconId="1090531739-1090519041-1090531740" class="57">
+<consumable identifier="1879055060" name="Свиток обширных знаний о работе оружейника" iconId="1090531739-1090519041-1090531740" class="57">
 <stat name="WEAPONSMITH_CRIT_CHANCE_PERCENTAGE" constant="7.5000005"/>
 </consumable>
-<consumable identifier="1879055062" name="Scroll of Elder Woodworking Lore" iconId="1090531737-1090519041-1090531738" class="57">
+<consumable identifier="1879055062" name="Свиток обширных знаний о деревообработке" iconId="1090531737-1090519041-1090531738" class="57">
 <stat name="WOODWORKER_CRIT_CHANCE_PERCENTAGE" constant="7.5000005"/>
 </consumable>
-<consumable identifier="1879055065" name="Scroll of Ancient Metalworking Lore" iconId="1090530434-1090519041-1090530435" class="57">
+<consumable identifier="1879055065" name="Свиток древних знаний о работе по металлу" iconId="1090530434-1090519041-1090530435" class="57">
 <stat name="METALSMITH_CRIT_CHANCE_PERCENTAGE" constant="10.0"/>
 </consumable>
-<consumable identifier="1879055067" name="Scroll of Ancient Tailoring Lore" iconId="1090523516-1090519041-1090523517" class="57">
+<consumable identifier="1879055067" name="Свиток древних знаний о работе портного" iconId="1090523516-1090519041-1090523517" class="57">
 <stat name="TAILOR_CRIT_CHANCE_PERCENTAGE" constant="10.0"/>
 </consumable>
-<consumable identifier="1879055069" name="Scroll of Ancient Weaponsmithing Lore" iconId="1090531739-1090519041-1090531740" class="57">
+<consumable identifier="1879055069" name="Свиток древних знаний о работе оружейника" iconId="1090531739-1090519041-1090531740" class="57">
 <stat name="WEAPONSMITH_CRIT_CHANCE_PERCENTAGE" constant="10.0"/>
 </consumable>
-<consumable identifier="1879055071" name="Scroll of Ancient Woodworking Lore" iconId="1090531737-1090519041-1090531738" class="57">
+<consumable identifier="1879055071" name="Свиток древних знаний о деревообработке" iconId="1090531737-1090519041-1090531738" class="57">
 <stat name="WOODWORKER_CRIT_CHANCE_PERCENTAGE" constant="10.0"/>
 </consumable>
-<consumable identifier="1879056125" name="Refined Fire-oil" iconId="1090532008-1090519041-1090532009" class="17">
+<consumable identifier="1879056125" name="Очищенное огненное масло" iconId="1090532008-1090519041-1090532009" class="17">
 <stat name="ForwardSource_ComboMode_Hunter_DamageType" operator="SET" constant="39.0"/>
 </consumable>
-<consumable identifier="1879056126" name="Pure Fire-oil" iconId="1090532008-1090519041-1090532009" class="17">
+<consumable identifier="1879056126" name="Чистое огненное масло" iconId="1090532008-1090519041-1090532009" class="17">
 <stat name="ForwardSource_ComboMode_Hunter_DamageType" operator="SET" constant="39.0"/>
 </consumable>
-<consumable identifier="1879056130" name="Refined Light-oil" iconId="1090537233-1090519041-1090537234" class="17">
+<consumable identifier="1879056130" name="Очищенное масло Света" iconId="1090537233-1090519041-1090537234" class="17">
 <stat name="ForwardSource_ComboMode_Hunter_DamageType" operator="SET" constant="1.0"/>
 </consumable>
-<consumable identifier="1879056131" name="Pure Light-oil" iconId="1090537233-1090519041-1090537234" class="17">
+<consumable identifier="1879056131" name="Чистое масло Света" iconId="1090537233-1090519041-1090537234" class="17">
 <stat name="ForwardSource_ComboMode_Hunter_DamageType" operator="SET" constant="1.0"/>
 </consumable>
-<consumable identifier="1879060114" name="Small Shield-spike Kit" iconId="1090540516-1090519041-1090540517" class="26">
+<consumable identifier="1879060114" name="Малые шипы для щита" iconId="1090540516-1090519041-1090540517" class="26">
 <stat name="Item_Guardian_ShieldSpikes_Damage" constant="2.0"/>
 </consumable>
-<consumable identifier="1879060115" name="Westernesse Shield-spike Kit" iconId="1090540519-1090519041-1090540520" class="26">
-<specialEffect label="Set damage type of all skills to Westernesse"/>
+<consumable identifier="1879060115" name="Нуменорские шипы для щита" iconId="1090540519-1090519041-1090540520" class="26">
+<specialEffect label="Set к урону от всех умений to нуменорского типа"/>
 </consumable>
-<consumable identifier="1879061229" name="Hard Biscuits" iconId="1090541628-1090522692-1090541629" class="55">
+<consumable identifier="1879061229" name="Галеты" iconId="1090541628-1090522692-1090541629" class="55">
 <stat name="OCMR" constant="3.2"/>
 <stat name="OCPR" constant="4.3333335"/>
 </consumable>
-<consumable identifier="1879061320" name="Superior Hard Biscuits" iconId="1090541628-1090522692-1090541629" class="55">
+<consumable identifier="1879061320" name="Отменные галеты" iconId="1090541628-1090522692-1090541629" class="55">
 <stat name="OCMR" constant="6.4166665"/>
 <stat name="OCPR" constant="7.516667"/>
 </consumable>
-<consumable identifier="1879061321" name="Superior Mushroom Pie" iconId="1090541626-1090522692-1090541627" class="55">
+<consumable identifier="1879061321" name="Отменный пирог с грибами" iconId="1090541626-1090522692-1090541627" class="55">
 <stat name="OCMR" constant="8.36"/>
 <stat name="OCPR" constant="9.35"/>
 </consumable>
-<consumable identifier="1879061323" name="Superior Roast Pork" iconId="1090640826-1090522692-1090640827" class="55">
+<consumable identifier="1879061323" name="Отменная жареная свинина" iconId="1090640826-1090522692-1090640827" class="55">
 <stat name="OCMR" constant="8.36"/>
 <stat name="OCPR" constant="9.35"/>
 </consumable>
-<consumable identifier="1879061325" name="Superior Fried Mushrooms" iconId="1090522812-1090522692-1090522812" class="55">
+<consumable identifier="1879061325" name="Отменные жареные грибы" iconId="1090522812-1090522692-1090522812" class="55">
 <stat name="AGILITY" constant="6.0"/>
 </consumable>
-<consumable identifier="1879061328" name="Superior Eggs and Onions" iconId="1090541650-1090522692-1090541651" class="55">
+<consumable identifier="1879061328" name="Отменный омлет с луком" iconId="1090541650-1090522692-1090541651" class="55">
 <stat name="MIGHT" constant="6.0"/>
 </consumable>
-<consumable identifier="1879061333" name="Superior Cooked Carrots" iconId="1090531103-1090522692-1090531104" class="55">
+<consumable identifier="1879061333" name="Отменная вареная морковка" iconId="1090531103-1090522692-1090531104" class="55">
 <stat name="VITALITY" constant="6.0"/>
 </consumable>
-<consumable identifier="1879061336" name="Coney Pie" iconId="1090541626-1090522692-1090541627" class="55">
+<consumable identifier="1879061336" name="Пирог с крольчатиной" iconId="1090541626-1090522692-1090541627" class="55">
 <stat name="OCMR" constant="8.1"/>
 <stat name="OCPR" constant="9.916667"/>
 </consumable>
-<consumable identifier="1879061337" name="Superior Coney Pie" iconId="1090541626-1090522692-1090541627" class="55">
+<consumable identifier="1879061337" name="Отменный пирог с крольчатиной" iconId="1090541626-1090522692-1090541627" class="55">
 <stat name="OCMR" constant="17.966667"/>
 <stat name="OCPR" constant="15.491667"/>
 </consumable>
-<consumable identifier="1879061340" name="Blueberry Muffins" iconId="1090541654-1090522692-1090541655" class="55">
+<consumable identifier="1879061340" name="Черничный кекс" iconId="1090541654-1090522692-1090541655" class="55">
 <stat name="OCMR" constant="11.4"/>
 <stat name="OCPR" constant="12.25"/>
 </consumable>
-<consumable identifier="1879061341" name="Superior Blueberry Muffins" iconId="1090541654-1090522692-1090541655" class="55">
+<consumable identifier="1879061341" name="Отменный черничный кекс" iconId="1090541654-1090522692-1090541655" class="55">
 <stat name="OCMR" constant="22.22"/>
 <stat name="OCPR" constant="18.975"/>
 </consumable>
-<consumable identifier="1879061343" name="Stuffed Cabbage" iconId="1090541656-1090522692-1090541657" class="55">
+<consumable identifier="1879061343" name="Голубцы" iconId="1090541656-1090522692-1090541657" class="55">
 <stat name="OCMR" constant="13.5"/>
 <stat name="OCPR" constant="15.75"/>
 </consumable>
-<consumable identifier="1879061344" name="Superior Stuffed Cabbage" iconId="1090541656-1090522692-1090541657" class="55">
+<consumable identifier="1879061344" name="Отменные голубцы" iconId="1090541656-1090522692-1090541657" class="55">
 <stat name="OCMR" constant="28.6"/>
 <stat name="OCPR" constant="24.2"/>
 </consumable>
-<consumable identifier="1879061346" name="Pork Sausage" iconId="1090541658-1090522692-1090541659" class="55">
+<consumable identifier="1879061346" name="Свиные колбаски" iconId="1090541658-1090522692-1090541659" class="55">
 <stat name="AGILITY" constant="6.0"/>
 </consumable>
-<consumable identifier="1879061347" name="Superior Pork Sausage" iconId="1090541658-1090522692-1090541659" class="55">
+<consumable identifier="1879061347" name="Отменная свиная колбаска" iconId="1090541658-1090522692-1090541659" class="55">
 <stat name="AGILITY" constant="14.0"/>
 </consumable>
-<consumable identifier="1879061350" name="Coney Stew" iconId="1090541648-1090522692-1090541649" class="55">
+<consumable identifier="1879061350" name="Похлебка из крольчатины" iconId="1090541648-1090522692-1090541649" class="55">
 <stat name="MIGHT" constant="6.0"/>
 </consumable>
-<consumable identifier="1879061351" name="Superior Coney Stew" iconId="1090541648-1090522692-1090541649" class="55">
+<consumable identifier="1879061351" name="Отменная похлебка из крольчатины" iconId="1090541648-1090522692-1090541649" class="55">
 <stat name="MIGHT" constant="14.0"/>
 </consumable>
-<consumable identifier="1879061352" name="Complete Hobbit Breakfast" iconId="1090541660-1090522692-1090541661" class="55">
+<consumable identifier="1879061352" name="Плотный хоббичий завтрак" iconId="1090541660-1090522692-1090541661" class="55">
 <stat name="VITALITY" constant="6.0"/>
 </consumable>
-<consumable identifier="1879061353" name="Superior Complete Hobbit Breakfast" iconId="1090541660-1090522692-1090541661" class="55">
+<consumable identifier="1879061353" name="Отменный плотный хоббичий завтрак" iconId="1090541660-1090522692-1090541661" class="55">
 <stat name="VITALITY" constant="14.0"/>
 </consumable>
-<consumable identifier="1879061357" name="Steak and Kidney Pie" iconId="1090541626-1090522692-1090541627" class="55">
+<consumable identifier="1879061357" name="Пирог с рублеными почками" iconId="1090541626-1090522692-1090541627" class="55">
 <stat name="OCMR" constant="15.1"/>
 <stat name="OCPR" constant="18.25"/>
 </consumable>
-<consumable identifier="1879061358" name="Superior Steak and Kidney Pie" iconId="1090541626-1090522692-1090541627" class="55">
+<consumable identifier="1879061358" name="Отменный пирог с почками" iconId="1090541626-1090522692-1090541627" class="55">
 <stat name="OCMR" constant="29.7"/>
 <stat name="OCPR" constant="24.658333"/>
 </consumable>
-<consumable identifier="1879061360" name="Hard Tack Ration" iconId="1090535655-1090522692-1090535656" class="55">
+<consumable identifier="1879061360" name="Походные припасы" iconId="1090535655-1090522692-1090535656" class="55">
 <stat name="OCMR" constant="20.733334"/>
 <stat name="OCPR" constant="22.25"/>
 </consumable>
-<consumable identifier="1879061361" name="Superior Hard Tack Ration" iconId="1090535655-1090522692-1090535656" class="55">
+<consumable identifier="1879061361" name="Отменные походные припасы" iconId="1090535655-1090522692-1090535656" class="55">
 <stat name="OCMR" constant="36.52"/>
 <stat name="OCPR" constant="29.975"/>
 </consumable>
-<consumable identifier="1879061363" name="Beef Stew" iconId="1090541648-1090522692-1090541649" class="55">
+<consumable identifier="1879061363" name="Похлебка из говядины" iconId="1090541648-1090522692-1090541649" class="55">
 <stat name="OCMR" constant="20.733334"/>
 <stat name="OCPR" constant="22.25"/>
 </consumable>
-<consumable identifier="1879061364" name="Superior Beef Stew" iconId="1090541648-1090522692-1090541649" class="55">
+<consumable identifier="1879061364" name="Отменная похлебка из говядины" iconId="1090541648-1090522692-1090541649" class="55">
 <stat name="OCMR" constant="36.52"/>
 <stat name="OCPR" constant="29.975"/>
 </consumable>
-<consumable identifier="1879061365" name="Delicious Crispy Bacon" iconId="1090531217-1090522692-1090541664" class="55">
+<consumable identifier="1879061365" name="Аппетитный хрустящий бекон" iconId="1090531217-1090522692-1090541664" class="55">
 <stat name="AGILITY" constant="12.0"/>
 </consumable>
-<consumable identifier="1879061366" name="Superior Delicious Crispy Bacon" iconId="1090531217-1090522692-1090541664" class="55">
+<consumable identifier="1879061366" name="Отменный аппетитный хрустящий бекон" iconId="1090531217-1090522692-1090541664" class="55">
 <stat name="AGILITY" constant="23.0"/>
 </consumable>
-<consumable identifier="1879061367" name="Pork Chops" iconId="1090522690-1090522692-1090522691" class="55">
+<consumable identifier="1879061367" name="Свиная отбивная" iconId="1090522690-1090522692-1090522691" class="55">
 <stat name="MIGHT" constant="12.0"/>
 </consumable>
-<consumable identifier="1879061368" name="Superior Pork Chops" iconId="1090522690-1090522692-1090522691" class="55">
+<consumable identifier="1879061368" name="Отменные свиные отбивные" iconId="1090522690-1090522692-1090522691" class="55">
 <stat name="MIGHT" constant="23.0"/>
 </consumable>
-<consumable identifier="1879061370" name="Vegetable Medley" iconId="1090541626-1090522692-1090541627" class="55">
+<consumable identifier="1879061370" name="Овощное ассорти" iconId="1090541626-1090522692-1090541627" class="55">
 <stat name="VITALITY" constant="12.0"/>
 </consumable>
-<consumable identifier="1879061371" name="Superior Vegetable Medley" iconId="1090541648-1090522692-1090541649" class="55">
+<consumable identifier="1879061371" name="Отменное овощное ассорти" iconId="1090541648-1090522692-1090541649" class="55">
 <stat name="VITALITY" constant="23.0"/>
 </consumable>
-<consumable identifier="1879061375" name="Shire Rations" iconId="1090535655-1090522692-1090535656" class="55">
+<consumable identifier="1879061375" name="Ширские дорожные припасы" iconId="1090535655-1090522692-1090535656" class="55">
 <stat name="OCMR" constant="22.1"/>
 <stat name="OCPR" constant="26.333334"/>
 </consumable>
-<consumable identifier="1879061376" name="Superior Shire Rations" iconId="1090535655-1090522692-1090535656" class="55">
+<consumable identifier="1879061376" name="Превосходные ширские дорожные припасы" iconId="1090535655-1090522692-1090535656" class="55">
 <stat name="OCMR" constant="42.533333"/>
 <stat name="OCPR" constant="33.55"/>
 </consumable>
-<consumable identifier="1879061377" name="Roasted Chicken" iconId="1090541665-1090522692-1090541666" class="55">
+<consumable identifier="1879061377" name="Жареная курица" iconId="1090541665-1090522692-1090541666" class="55">
 <stat name="VITALITY" constant="18.0"/>
 </consumable>
-<consumable identifier="1879061379" name="Spiced Apple Pie" iconId="1090541626-1090522692-1090541627" class="55">
+<consumable identifier="1879061379" name="Яблочный пирог с пряностями" iconId="1090541626-1090522692-1090541627" class="55">
 <stat name="OCMR" constant="30.066668"/>
 <stat name="OCPR" constant="32.0"/>
 </consumable>
-<consumable identifier="1879061380" name="Superior Spiced Apple Pie" iconId="1090541626-1090522692-1090541627" class="55">
+<consumable identifier="1879061380" name="Отменный яблочный пирог с пряностями" iconId="1090541626-1090522692-1090541627" class="55">
 <stat name="OCMR" constant="51.92"/>
 <stat name="OCPR" constant="40.7"/>
 </consumable>
-<consumable identifier="1879061383" name="Stew of Kings" iconId="1090541648-1090522692-1090541649" class="55">
+<consumable identifier="1879061383" name="Похлебка королей" iconId="1090541648-1090522692-1090541649" class="55">
 <stat name="OCMR" constant="30.066668"/>
 <stat name="OCPR" constant="32.0"/>
 </consumable>
-<consumable identifier="1879061384" name="Superior Stew of Kings" iconId="1090541648-1090522692-1090541649" class="55">
+<consumable identifier="1879061384" name="Отменная похлебка королей" iconId="1090541648-1090522692-1090541649" class="55">
 <stat name="OCMR" constant="51.92"/>
 <stat name="OCPR" constant="40.7"/>
 </consumable>
-<consumable identifier="1879061386" name="Salted Beef Delights" iconId="1090530348-1090522692-1090530349" class="55">
+<consumable identifier="1879061386" name="Лакомство из вяленой солонины" iconId="1090530348-1090522692-1090530349" class="55">
 <stat name="AGILITY" constant="18.0"/>
 </consumable>
-<consumable identifier="1879061387" name="Superior Salted Beef Delights" iconId="1090530348-1090522692-1090530349" class="55">
+<consumable identifier="1879061387" name="Отменное лакомство из сушеной солонины" iconId="1090530348-1090522692-1090530349" class="55">
 <stat name="AGILITY" constant="32.0"/>
 </consumable>
-<consumable identifier="1879061389" name="Hobbiton Omelet" iconId="1090541650-1090522692-1090541651" class="55">
+<consumable identifier="1879061389" name="Омлет по-хоббитонски" iconId="1090541650-1090522692-1090541651" class="55">
 <stat name="MIGHT" constant="18.0"/>
 </consumable>
-<consumable identifier="1879061390" name="Superior Hobbiton Omelet" iconId="1090541650-1090522692-1090541651" class="55">
+<consumable identifier="1879061390" name="Отменный омлет по-хоббитонски" iconId="1090541650-1090522692-1090541651" class="55">
 <stat name="MIGHT" constant="32.0"/>
 </consumable>
-<consumable identifier="1879061391" name="Superior Roasted Chicken" iconId="1090541665-1090522692-1090541666" class="55">
+<consumable identifier="1879061391" name="Отменная жареная курица" iconId="1090541665-1090522692-1090541666" class="55">
 <stat name="VITALITY" constant="32.0"/>
 </consumable>
-<consumable identifier="1879061396" name="Lembas" iconId="1090535655-1090522692-1090535656" class="55">
+<consumable identifier="1879061396" name="Лембас" iconId="1090535655-1090522692-1090535656" class="55">
 <stat name="OCMR" constant="29.1"/>
 <stat name="OCPR" constant="34.666668"/>
 </consumable>
-<consumable identifier="1879061397" name="Superior Lembas" iconId="1090535655-1090522692-1090535656" class="55">
+<consumable identifier="1879061397" name="Отменный лембас" iconId="1090535655-1090522692-1090535656" class="55">
 <stat name="OCMR" constant="55.366665"/>
 <stat name="OCPR" constant="42.716667"/>
 </consumable>
-<consumable identifier="1879061400" name="Perfect Pie" iconId="1090541626-1090522692-1090541627" class="55">
+<consumable identifier="1879061400" name="Совершенный пирог" iconId="1090541626-1090522692-1090541627" class="55">
 <stat name="OCMR" constant="39.4"/>
 <stat name="OCPR" constant="42.0"/>
 </consumable>
-<consumable identifier="1879061401" name="Superior Perfect Pie" iconId="1090541626-1090522692-1090541627" class="55">
+<consumable identifier="1879061401" name="Отменный совершенный пирог" iconId="1090541626-1090522692-1090541627" class="55">
 <stat name="OCMR" constant="67.32"/>
 <stat name="OCPR" constant="51.7"/>
 </consumable>
-<consumable identifier="1879061403" name="Ultimate Carrot Cake" iconId="1090541669-1090522692-1090541670" class="55">
+<consumable identifier="1879061403" name="Безупречный морковный пирог" iconId="1090541669-1090522692-1090541670" class="55">
 <stat name="OCMR" constant="39.4"/>
 <stat name="OCPR" constant="42.0"/>
 </consumable>
-<consumable identifier="1879061404" name="Superior Ultimate Carrot Cake" iconId="1090541669-1090522692-1090541670" class="55">
+<consumable identifier="1879061404" name="Отменный безупречный морковный пирог" iconId="1090541669-1090522692-1090541670" class="55">
 <stat name="OCMR" constant="67.32"/>
 <stat name="OCPR" constant="51.7"/>
 </consumable>
-<consumable identifier="1879061407" name="Delicious Steak" iconId="1090530348-1090522692-1090530349" class="55">
+<consumable identifier="1879061407" name="Аппетитная отбивная" iconId="1090530348-1090522692-1090530349" class="55">
 <stat name="AGILITY" constant="24.0"/>
 </consumable>
-<consumable identifier="1879061408" name="Superior Delicious Steak" iconId="1090530348-1090522692-1090530349" class="55">
+<consumable identifier="1879061408" name="Отменная аппетитная отбивная" iconId="1090530348-1090522692-1090530349" class="55">
 <stat name="AGILITY" constant="41.0"/>
 </consumable>
-<consumable identifier="1879061410" name="Feast of Rohan" iconId="1090522690-1090522692-1090522691" class="55">
+<consumable identifier="1879061410" name="Роханский обед" iconId="1090522690-1090522692-1090522691" class="55">
 <stat name="MIGHT" constant="24.0"/>
 </consumable>
-<consumable identifier="1879061411" name="Superior Feast of Rohan" iconId="1090530348-1090522692-1090530349" class="55">
+<consumable identifier="1879061411" name="Отменный роханский обед" iconId="1090530348-1090522692-1090530349" class="55">
 <stat name="MIGHT" constant="41.0"/>
 </consumable>
-<consumable identifier="1879061412" name="Masterful Mash" iconId="1090541650-1090522692-1090541651" class="55">
+<consumable identifier="1879061412" name="Нежное пюре" iconId="1090541650-1090522692-1090541651" class="55">
 <stat name="VITALITY" constant="24.0"/>
 </consumable>
-<consumable identifier="1879061413" name="Superior Masterful Mash" iconId="1090541650-1090522692-1090541651" class="55">
+<consumable identifier="1879061413" name="Отменное нежное пюре" iconId="1090541650-1090522692-1090541651" class="55">
 <stat name="VITALITY" constant="41.0"/>
 </consumable>
-<consumable identifier="1879061918" name="Beakbreaker Ale" iconId="1090523137-1090522692-1090523138" class="55">
+<consumable identifier="1879061918" name="Эль \qВырви клюв\q" iconId="1090523137-1090522692-1090523138" class="55">
 <stat name="Combat_BaseMissRate" descriptionOverride="-" constant="10.0"/>
 </consumable>
-<consumable identifier="1879062159" name="Old Withywindle" iconId="1090523137-1090522692-1090523138" class="55">
+<consumable identifier="1879062159" name="Старая Ветлянка" iconId="1090523137-1090522692-1090523138" class="55">
 <stat name="Combat_BaseMissRate" descriptionOverride="-" constant="15.000001"/>
 </consumable>
-<consumable identifier="1879062161" name="Old Winyards" iconId="1090523139-1090522692-1090523140" class="55">
+<consumable identifier="1879062161" name="Вино \qСтарые виноградники\q" iconId="1090523139-1090522692-1090523140" class="55">
 <stat name="Combat_BaseMissRate" descriptionOverride="-" constant="15.000001"/>
 </consumable>
-<consumable identifier="1879062265" name="Serene Stew" iconId="1090541648-1090522692-1090541649" class="55">
+<consumable identifier="1879062265" name="Неземная похлебка" iconId="1090541648-1090522692-1090541649" class="55">
 <stat name="OCMR" constant="8.1"/>
 <stat name="OCPR" constant="9.916667"/>
 </consumable>
-<consumable identifier="1879062270" name="Green Dragon's Breath Ale" iconId="1090523137-1090522692-1090523138" class="55">
+<consumable identifier="1879062270" name="Эль \qДыхание зеленого дракона\q" iconId="1090523137-1090522692-1090523138" class="55">
 <stat name="Combat_BaseMissRate" descriptionOverride="-" constant="10.0"/>
 </consumable>
-<consumable identifier="1879062271" name="1404 Vintage Reserve" iconId="1090523139-1090522692-1090523140" class="55">
+<consumable identifier="1879062271" name="Вино из запасов 1404 года" iconId="1090523139-1090522692-1090523140" class="55">
 <stat name="Combat_BaseMissRate" descriptionOverride="-" constant="15.000001"/>
 </consumable>
-<consumable identifier="1879062275" name="Toad's Tongue Ale" iconId="1090523137-1090522692-1090523138" class="55">
+<consumable identifier="1879062275" name="Эль \qЖабий язык\q" iconId="1090523137-1090522692-1090523138" class="55">
 <stat name="Combat_BaseMissRate" descriptionOverride="-" constant="10.0"/>
 </consumable>
-<consumable identifier="1879062279" name="Brandy Wine" iconId="1090523139-1090522692-1090523140" class="55">
+<consumable identifier="1879062279" name="Бренди-вино" iconId="1090523139-1090522692-1090523140" class="55">
 <stat name="Combat_BaseMissRate" descriptionOverride="-" constant="10.0"/>
 </consumable>
-<consumable identifier="1879064047" name="Waybread of Imladris" iconId="1090553748-1090522692-1090553750" class="55">
+<consumable identifier="1879064047" name="Дорожные хлебцы из Имладриса" iconId="1090553748-1090522692-1090553750" class="55">
 <stat name="OCMR" constant="8.1"/>
 <stat name="OCPR" constant="9.916667"/>
 </consumable>
-<consumable identifier="1879064049" name="Glass of Aglaral" iconId="1090553772-1090519041-1090553774" class="28">
+<consumable identifier="1879064049" name="Зеркальце Агларала" iconId="1090553772-1090519041-1090553774" class="28">
 <stat name="HOPE" constant="1.0"/>
 </consumable>
-<consumable identifier="1879064055" name="Lembas of Duillond" iconId="1090553748-1090522692-1090553750" class="55">
+<consumable identifier="1879064055" name="Лембас из Дуиллонда" iconId="1090553748-1090522692-1090553750" class="55">
 <stat name="OCMR" constant="8.1"/>
 <stat name="OCPR" constant="9.916667"/>
 </consumable>
-<consumable identifier="1879068266" name="Greater Fire-oil" iconId="1090532008-1090519041-1090532009" class="17">
+<consumable identifier="1879068266" name="Улучшенное огненное масло" iconId="1090532008-1090519041-1090532009" class="17">
 <stat name="ForwardSource_ComboMode_Hunter_DamageType" operator="SET" constant="39.0"/>
 </consumable>
-<consumable identifier="1879070102" name="Light-oil" iconId="1090537233-1090519041-1090537234" class="17">
+<consumable identifier="1879070102" name="Масло Света" iconId="1090537233-1090519041-1090537234" class="17">
 <stat name="ForwardSource_ComboMode_Hunter_DamageType" operator="SET" constant="1.0"/>
 </consumable>
-<consumable identifier="1879070103" name="Greater Light-oil" iconId="1090537233-1090519041-1090537234" class="17">
+<consumable identifier="1879070103" name="Улучшенное масло Света" iconId="1090537233-1090519041-1090537234" class="17">
 <stat name="ForwardSource_ComboMode_Hunter_DamageType" operator="SET" constant="1.0"/>
 </consumable>
-<consumable identifier="1879070110" name="Shield-spike Kit" iconId="1090552930-1090519041-1090552931" class="26">
+<consumable identifier="1879070110" name="Шип для щита" iconId="1090552930-1090519041-1090552931" class="26">
 <stat name="Item_Guardian_ShieldSpikes_Damage" constant="3.0"/>
 </consumable>
-<consumable identifier="1879070113" name="Ancient Dwarf Shield-spike Kit" iconId="1090552932-1090519041-1090552933" class="26">
-<specialEffect label="Set damage type of all skills to Ancient Dwarf-make"/>
+<consumable identifier="1879070113" name="Древний гномий шип для щита" iconId="1090552932-1090519041-1090552933" class="26">
+<specialEffect label="Set к урону от всех умений to древнего гномьего типа"/>
 </consumable>
-<consumable identifier="1879070435" name="Large Shield-spike Kit" iconId="1090552946-1090519041-1090552947" class="26">
+<consumable identifier="1879070435" name="Большой шип для щита" iconId="1090552946-1090519041-1090552947" class="26">
 <stat name="Item_Guardian_ShieldSpikes_Damage" constant="4.0"/>
 </consumable>
-<consumable identifier="1879070438" name="Beleriand Shield-spike Kit" iconId="1090540524-1090519041-1090540525" class="26">
-<specialEffect label="Set damage type of all skills to Beleriand"/>
+<consumable identifier="1879070438" name="Белериандский шип для щита" iconId="1090540524-1090519041-1090540525" class="26">
+<specialEffect label="Set к урону от всех умений to белериандского типа"/>
 </consumable>
-<consumable identifier="1879071944" name="Roast of Heroes" iconId="1090530348-1090522692-1090530349" class="55">
+<consumable identifier="1879071944" name="Жаркое для героя" iconId="1090530348-1090522692-1090530349" class="55">
 <stat name="OCMR" constant="56.375"/>
 <stat name="OCPR" constant="44.55"/>
 </consumable>
-<consumable identifier="1879077913" name="Thistlebelly Brew" iconId="1090523137-1090522692-1090523138" class="55">
+<consumable identifier="1879077913" name="Пиво \qБутон чертополоха\q" iconId="1090523137-1090522692-1090523138" class="55">
 <stat name="Combat_BaseMissRate" descriptionOverride="-" constant="10.0"/>
 </consumable>
-<consumable identifier="1879077914" name="Whitebranch" iconId="1090523139-1090522692-1090523140" class="55">
+<consumable identifier="1879077914" name="Белая лоза" iconId="1090523139-1090522692-1090523140" class="55">
 <stat name="Combat_BaseMissRate" descriptionOverride="-" constant="10.0"/>
 </consumable>
-<consumable identifier="1879083435" name="Bombur's Beard Lager" iconId="1090523137-1090522692-1090523138" class="55">
+<consumable identifier="1879083435" name="Пиво \qБорода Бомбура\q" iconId="1090523137-1090522692-1090523138" class="55">
 <stat name="Combat_BaseMissRate" descriptionOverride="-" constant="15.000001"/>
 </consumable>
-<consumable identifier="1879083986" name="Superior Hornblower's Pie" iconId="1090541626-1090522692-1090541627" class="55">
+<consumable identifier="1879083986" name="Отменный пирог по рецепту Холли Трубач" iconId="1090541626-1090522692-1090541627" class="55">
 <stat name="OCMR" constant="22.22"/>
 <stat name="OCPR" constant="18.975"/>
 </consumable>
-<consumable identifier="1879083987" name="Hornblower's Pie" iconId="1090541626-1090522692-1090541627" class="55">
+<consumable identifier="1879083987" name="Пирог по рецепту Холли Трубач" iconId="1090541626-1090522692-1090541627" class="55">
 <stat name="OCMR" constant="11.4"/>
 <stat name="OCPR" constant="12.25"/>
 </consumable>
-<consumable identifier="1879083992" name="Limael's Vintage" iconId="1090523139-1090522692-1090523140" class="55">
+<consumable identifier="1879083992" name="Вино \qУрожай Лимаэли\q" iconId="1090523139-1090522692-1090523140" class="55">
 <stat name="Combat_BaseMissRate" descriptionOverride="-" constant="10.0"/>
 </consumable>
-<consumable identifier="1879083993" name="Dorwinion White" iconId="1090523139-1090522692-1090523140" class="55">
+<consumable identifier="1879083993" name="Дорвинионское белое" iconId="1090523139-1090522692-1090523140" class="55">
 <stat name="Combat_BaseMissRate" descriptionOverride="-" constant="10.0"/>
 </consumable>
-<consumable identifier="1879083995" name="Dorwinion Red" iconId="1090523139-1090522692-1090523140" class="55">
+<consumable identifier="1879083995" name="Дорвинионское красное" iconId="1090523139-1090522692-1090523140" class="55">
 <stat name="Combat_BaseMissRate" descriptionOverride="-" constant="10.0"/>
 </consumable>
-<consumable identifier="1879084264" name="Resilient Shield-spike Kit" iconId="1090552930-1090519041-1090552931" class="26">
+<consumable identifier="1879084264" name="Устойчивый шип для щита" iconId="1090552930-1090519041-1090552931" class="26">
 <stat name="Item_Guardian_ShieldSpikes_Damage" constant="4.0"/>
 </consumable>
-<consumable identifier="1879084266" name="Resilient Westernesse Shield-spike Kit" iconId="1090540519-1090519041-1090540520" class="26">
-<specialEffect label="Set damage type of all skills to Westernesse"/>
+<consumable identifier="1879084266" name="Упругий нуменорский шип для щита" iconId="1090540519-1090519041-1090540520" class="26">
+<specialEffect label="Set к урону от всех умений to нуменорского типа"/>
 </consumable>
-<consumable identifier="1879084268" name="Large Resilient Shield-spike Kit" iconId="1090552946-1090519041-1090552947" class="26">
+<consumable identifier="1879084268" name="Большой упругий шип для щита" iconId="1090552946-1090519041-1090552947" class="26">
 <stat name="Item_Guardian_ShieldSpikes_Damage" constant="5.0"/>
 </consumable>
-<consumable identifier="1879084277" name="Resilient Ancient Dwarf Shield-spike Kit" iconId="1090552932-1090519041-1090552933" class="26">
-<specialEffect label="Set damage type of all skills to Ancient Dwarf-make"/>
+<consumable identifier="1879084277" name="Упругий древний гномий шип для щита" iconId="1090552932-1090519041-1090552933" class="26">
+<specialEffect label="Set к урону от всех умений to древнего гномьего типа"/>
 </consumable>
-<consumable identifier="1879084287" name="Resilient Beleriand Shield-spike Kit" iconId="1090540524-1090519041-1090540525" class="26">
-<specialEffect label="Set damage type of all skills to Beleriand"/>
+<consumable identifier="1879084287" name="Упругий белериандский шип для щита" iconId="1090540524-1090519041-1090540525" class="26">
+<specialEffect label="Set к урону от всех умений to белериандского типа"/>
 </consumable>
-<consumable identifier="1879084289" name="Small Resilient Shield-spike Kit" iconId="1090540516-1090519041-1090540517" class="26">
+<consumable identifier="1879084289" name="Малый упругий шип для щита" iconId="1090540516-1090519041-1090540517" class="26">
 <stat name="Item_Guardian_ShieldSpikes_Damage" constant="3.0"/>
 </consumable>
-<consumable identifier="1879084484" name="Maggoty Meat" iconId="1090522690-1090519041-1090522691" class="55">
+<consumable identifier="1879084484" name="Червивое мясо" iconId="1090522690-1090519041-1090522691" class="55">
 <stat name="OCMR" constant="7.5"/>
 <stat name="OCPR" constant="1.5"/>
 </consumable>
-<consumable identifier="1879084485" name="Slug Mash" iconId="1090541650-1090519042-1090541651" class="55">
+<consumable identifier="1879084485" name="Миска каши из слизней" iconId="1090541650-1090519042-1090541651" class="55">
 <stat name="OCMR" constant="18.0"/>
 <stat name="OCPR" constant="3.75"/>
 </consumable>
-<consumable identifier="1879084486" name="Rat-folk Stew" iconId="1090541673-1090519042-1090541674" class="55">
+<consumable identifier="1879084486" name="Миска похлебки из крысеныша" iconId="1090541673-1090519042-1090541674" class="55">
 <stat name="OCMR" constant="25.0"/>
 <stat name="OCPR" constant="6.0"/>
 </consumable>
-<consumable identifier="1879085602" name="Boar Jerky" iconId="1090531217-1090522692-1090541664" class="55">
+<consumable identifier="1879085602" name="Вяленое мясо вепря" iconId="1090531217-1090522692-1090541664" class="55">
 <stat name="OCMR" constant="8.1"/>
 <stat name="OCPR" constant="9.916667"/>
 </consumable>
-<consumable identifier="1879085603" name="Aurochs Jerky" iconId="1090531217-1090522692-1090541664" class="55">
+<consumable identifier="1879085603" name="Вяленое мясо тура" iconId="1090531217-1090522692-1090541664" class="55">
 <stat name="OCMR" constant="8.1"/>
 <stat name="OCPR" constant="9.916667"/>
 </consumable>
-<consumable identifier="1879085771" name="Snapper Soup" iconId="1090541648-1090522692-1090541649" class="55">
+<consumable identifier="1879085771" name="Черепаший суп" iconId="1090541648-1090522692-1090541649" class="55">
 <stat name="VITALITY" constant="12.0"/>
 </consumable>
-<consumable identifier="1879087161" name="Scroll of the Ages" iconId="1090530434-1090519044-1090530435" class="57">
-<stat name="METALSMITH_CRIT_CHANCE_PERCENTAGE" descriptionOverride="Adds 9% to critical chance bonus of all crafting skills on top of any other scholar scrolls." constant="9.0"/>
+<consumable identifier="1879087161" name="Свиток древней мудрости" iconId="1090530434-1090519044-1090530435" class="57">
+<stat name="METALSMITH_CRIT_CHANCE_PERCENTAGE" descriptionOverride="Добавляет 9% к вероятности критического успеха любого рецепта. Отменяет эффекты всех прочих ученых свитков." constant="9.0"/>
 <stat name="WOODWORKER_CRIT_CHANCE_PERCENTAGE" descriptionOverride="-" constant="9.0"/>
 <stat name="COOK_CRIT_CHANCE_PERCENTAGE" descriptionOverride="-" constant="9.0"/>
 <stat name="SCHOLAR_CRIT_CHANCE_PERCENTAGE" descriptionOverride="-" constant="9.0"/>
@@ -518,221 +518,221 @@
 <stat name="TAILOR_CRIT_CHANCE_PERCENTAGE" descriptionOverride="-" constant="9.0"/>
 <stat name="Craft_Forester_CriticalChanceAddModifier" descriptionOverride="-" constant="9.0"/>
 </consumable>
-<consumable identifier="1879087821" name="Summer Ale" iconId="1090640836-1090522692-1090640837" class="55">
+<consumable identifier="1879087821" name="Летний эль" iconId="1090640836-1090522692-1090640837" class="55">
 <stat name="Combat_BaseMissRate" descriptionOverride="-" constant="5.0"/>
 </consumable>
-<consumable identifier="1879087822" name="Fern Beer" iconId="1090640842-1090522692-1090640843" class="55">
+<consumable identifier="1879087822" name="Папоротниковое пиво" iconId="1090640842-1090522692-1090640843" class="55">
 <stat name="Combat_BaseMissRate" descriptionOverride="-" constant="10.0"/>
 </consumable>
-<consumable identifier="1879087823" name="Perry's Porter" iconId="1090640840-1090522692-1090640841" class="55">
+<consumable identifier="1879087823" name="Портер Перри" iconId="1090640840-1090522692-1090640841" class="55">
 <stat name="Combat_BaseMissRate" descriptionOverride="-" constant="15.000001"/>
 </consumable>
-<consumable identifier="1879087824" name="Mid-Day's Cider" iconId="1090523137-1090522692-1090523138" class="55">
+<consumable identifier="1879087824" name="Полуденный сидр" iconId="1090523137-1090522692-1090523138" class="55">
 <stat name="Combat_BaseMissRate" descriptionOverride="-" constant="5.0"/>
 </consumable>
-<consumable identifier="1879087825" name="Cherry-blossom Wine" iconId="1090523139-1090522692-1090523140" class="55">
+<consumable identifier="1879087825" name="Вино \qЦветок вишни\q" iconId="1090523139-1090522692-1090523140" class="55">
 <stat name="Combat_BaseMissRate" descriptionOverride="-" constant="10.0"/>
 </consumable>
-<consumable identifier="1879087826" name="Willow Wine" iconId="1090523139-1090522692-1090523140" class="55">
+<consumable identifier="1879087826" name="Ивовое вино" iconId="1090523139-1090522692-1090523140" class="55">
 <stat name="Combat_BaseMissRate" descriptionOverride="-" constant="15.000001"/>
 </consumable>
-<consumable identifier="1879087827" name="Summer Squash" iconId="1090640834-1090522692-1090640835" class="55">
+<consumable identifier="1879087827" name="Летнее кушанье" iconId="1090640834-1090522692-1090640835" class="55">
 <stat name="OCMR" constant="9.5"/>
 <stat name="OCPR" constant="11.583333"/>
 </consumable>
-<consumable identifier="1879087828" name="Summer Sausage" iconId="1090640828-1090522692-1090640829" class="55">
+<consumable identifier="1879087828" name="Летняя колбаска" iconId="1090640828-1090522692-1090640829" class="55">
 <stat name="OCMR" constant="13.0"/>
 <stat name="OCPR" constant="15.75"/>
 </consumable>
-<consumable identifier="1879087829" name="Summer Pudding" iconId="1090640838-1090522692-1090640839" class="55">
+<consumable identifier="1879087829" name="Летняя сладость" iconId="1090640838-1090522692-1090640839" class="55">
 <stat name="OCMR" constant="16.5"/>
 <stat name="OCPR" constant="19.916666"/>
 </consumable>
-<consumable identifier="1879087830" name="Summer Greens" iconId="1090640830-1090522692-1090640831" class="55">
+<consumable identifier="1879087830" name="Летняя зелень" iconId="1090640830-1090522692-1090640831" class="55">
 <stat name="OCMR" constant="3.2"/>
 <stat name="OCPR" constant="4.3333335"/>
 </consumable>
-<consumable identifier="1879087831" name="Summer Grouse" iconId="1090640832-1090522692-1090640833" class="55">
+<consumable identifier="1879087831" name="Летняя куропатка" iconId="1090640832-1090522692-1090640833" class="55">
 <stat name="OCMR" constant="20.0"/>
 <stat name="OCPR" constant="23.833334"/>
 </consumable>
-<consumable identifier="1879087879" name="Waybread of Imladris" iconId="1090648271-1090522692-1090648273" class="55">
+<consumable identifier="1879087879" name="Дорожные лепешки из Имладриса" iconId="1090648271-1090522692-1090648273" class="55">
 <stat name="OCMR" constant="94.875"/>
 <stat name="OCPR" constant="72.05"/>
 </consumable>
-<consumable identifier="1879087898" name="Cram Biscuit" iconId="1090648268-1090522692-1090648270" class="55">
+<consumable identifier="1879087898" name="Крам" iconId="1090648268-1090522692-1090648270" class="55">
 <stat name="OCMR" constant="94.875"/>
 <stat name="OCPR" constant="72.05"/>
 </consumable>
-<consumable identifier="1879087899" name="Flask of Imladris Miruvor" iconId="1090648262-1090519043-1090648264" class="28">
+<consumable identifier="1879087899" name="Фляжка имладрисского мирувора" iconId="1090648262-1090519043-1090648264" class="28">
 <stat name="SHADOW_MITIGATION_PERCENTAGE" constant="10.0"/>
 </consumable>
-<consumable identifier="1879087900" name="Flagon of Imladris Miruvor" iconId="1090648265-1090519043-1090648267" class="28">
+<consumable identifier="1879087900" name="Флакон имладрисского мирувора" iconId="1090648265-1090519043-1090648267" class="28">
 <stat name="SHADOW_MITIGATION_PERCENTAGE" constant="3.0"/>
 </consumable>
-<consumable identifier="1879087901" name="Flask of Ringnen Salve" iconId="1090648283-1090519043-1090648285" class="28">
+<consumable identifier="1879087901" name="Флакон мази рингена" iconId="1090648283-1090519043-1090648285" class="28">
 <stat name="FIRE_MITIGATION_PERCENTAGE" constant="10.0"/>
 </consumable>
-<consumable identifier="1879087902" name="Pot of Ringnen Salve" iconId="1090648286-1090519043-1090648288" class="28">
+<consumable identifier="1879087902" name="Горшочек мази рингена" iconId="1090648286-1090519043-1090648288" class="28">
 <stat name="FIRE_MITIGATION_PERCENTAGE" constant="3.0"/>
 </consumable>
-<consumable identifier="1879088006" name="Scroll of Jeweller Lore" iconId="1090523516-1090519041-1090523517" class="57">
+<consumable identifier="1879088006" name="Свиток знаний о ювелирном искусстве" iconId="1090523516-1090519041-1090523517" class="57">
 <stat name="JEWELLER_CRIT_CHANCE_PERCENTAGE" constant="3.5"/>
 </consumable>
-<consumable identifier="1879088007" name="Scroll of Minor Jeweller Lore" iconId="1090523516-1090519041-1090523517" class="57">
+<consumable identifier="1879088007" name="Свиток малых знаний о ювелирном искусстве" iconId="1090523516-1090519041-1090523517" class="57">
 <stat name="JEWELLER_CRIT_CHANCE_PERCENTAGE" constant="1.0"/>
 </consumable>
-<consumable identifier="1879088011" name="Scroll of Cooking Lore" iconId="1090530434-1090519041-1090530435" class="57">
+<consumable identifier="1879088011" name="Свиток знаний о поварском искусстве" iconId="1090530434-1090519041-1090530435" class="57">
 <stat name="COOK_CRIT_CHANCE_PERCENTAGE" constant="3.5"/>
 </consumable>
-<consumable identifier="1879088013" name="Scroll of Ancient Jeweller Lore" iconId="1090523516-1090519041-1090523517" class="57">
+<consumable identifier="1879088013" name="Свиток древних знаний о ювелирном искусстве" iconId="1090523516-1090519041-1090523517" class="57">
 <stat name="JEWELLER_CRIT_CHANCE_PERCENTAGE" constant="10.0"/>
 </consumable>
-<consumable identifier="1879088015" name="Scroll of Minor Scholar Lore" iconId="1090531739-1090519041-1090531740" class="57">
+<consumable identifier="1879088015" name="Свиток малых знаний об ученых изысканиях" iconId="1090531739-1090519041-1090531740" class="57">
 <stat name="SCHOLAR_CRIT_CHANCE_PERCENTAGE" constant="1.0"/>
 </consumable>
-<consumable identifier="1879088016" name="Scroll of Elder Scholar Lore" iconId="1090531739-1090519041-1090531740" class="57">
+<consumable identifier="1879088016" name="Свиток обширных знаний об ученых изысканиях" iconId="1090531739-1090519041-1090531740" class="57">
 <stat name="SCHOLAR_CRIT_CHANCE_PERCENTAGE" constant="7.5000005"/>
 </consumable>
-<consumable identifier="1879088018" name="Scroll of Ancient Cooking Lore" iconId="1090530434-1090519041-1090530435" class="57">
+<consumable identifier="1879088018" name="Свиток древних знаний о поварском искусстве" iconId="1090530434-1090519041-1090530435" class="57">
 <stat name="COOK_CRIT_CHANCE_PERCENTAGE" constant="10.0"/>
 </consumable>
-<consumable identifier="1879088019" name="Scroll of Elder Cooking Lore" iconId="1090530434-1090519041-1090530435" class="57">
+<consumable identifier="1879088019" name="Свиток обширных знаний о поварском искусстве" iconId="1090530434-1090519041-1090530435" class="57">
 <stat name="COOK_CRIT_CHANCE_PERCENTAGE" constant="7.5000005"/>
 </consumable>
-<consumable identifier="1879088020" name="Scroll of Ancient Scholar Lore" iconId="1090531739-1090519041-1090531740" class="57">
+<consumable identifier="1879088020" name="Свиток древних знаний об ученых изысканиях" iconId="1090531739-1090519041-1090531740" class="57">
 <stat name="SCHOLAR_CRIT_CHANCE_PERCENTAGE" constant="10.0"/>
 </consumable>
-<consumable identifier="1879088023" name="Scroll of Lesser Scholar Lore" iconId="1090531739-1090519041-1090531740" class="57">
+<consumable identifier="1879088023" name="Свиток умеренных знаний об ученых изысканиях" iconId="1090531739-1090519041-1090531740" class="57">
 <stat name="SCHOLAR_CRIT_CHANCE_PERCENTAGE" constant="2.5"/>
 </consumable>
-<consumable identifier="1879088024" name="Scroll of Elder Jeweller Lore" iconId="1090523516-1090519041-1090523517" class="57">
+<consumable identifier="1879088024" name="Свиток обширных знаний о ювелирном искусстве" iconId="1090523516-1090519041-1090523517" class="57">
 <stat name="JEWELLER_CRIT_CHANCE_PERCENTAGE" constant="7.5000005"/>
 </consumable>
-<consumable identifier="1879088027" name="Scroll of Minor Cooking Lore" iconId="1090530434-1090519041-1090530435" class="57">
+<consumable identifier="1879088027" name="Свиток малых знаний о поварском искусстве" iconId="1090530434-1090519041-1090530435" class="57">
 <stat name="COOK_CRIT_CHANCE_PERCENTAGE" constant="1.0"/>
 </consumable>
-<consumable identifier="1879088028" name="Scroll of Lesser Jeweller Lore" iconId="1090523516-1090519041-1090523517" class="57">
+<consumable identifier="1879088028" name="Свиток умеренных знаний о ювелирном искусстве" iconId="1090523516-1090519041-1090523517" class="57">
 <stat name="JEWELLER_CRIT_CHANCE_PERCENTAGE" constant="2.5"/>
 </consumable>
-<consumable identifier="1879088029" name="Scroll of Lesser Cooking Lore" iconId="1090530434-1090519041-1090530435" class="57">
+<consumable identifier="1879088029" name="Свиток умеренных знаний о поварском искусстве" iconId="1090530434-1090519041-1090530435" class="57">
 <stat name="COOK_CRIT_CHANCE_PERCENTAGE" constant="2.5"/>
 </consumable>
-<consumable identifier="1879088031" name="Scroll of Scholar Lore" iconId="1090531739-1090519041-1090531740" class="57">
+<consumable identifier="1879088031" name="Свиток знаний об ученых изысканиях" iconId="1090531739-1090519041-1090531740" class="57">
 <stat name="SCHOLAR_CRIT_CHANCE_PERCENTAGE" constant="3.5"/>
 </consumable>
-<consumable identifier="1879088139" name="Lute Strings of Minor Subtlety" iconId="1090648436-1090519042-1090648437" class="4">
+<consumable identifier="1879088139" name="Грубые струны для лютни" iconId="1090648436-1090519042-1090648437" class="4">
 <stat name="ThreatInputModifier_Healing" constant="-5.0"/>
 </consumable>
-<consumable identifier="1879088140" name="Lute Strings of Subtlety" iconId="1090648436-1090519042-1090648437" class="4">
+<consumable identifier="1879088140" name="Хорошие струны для лютни" iconId="1090648436-1090519042-1090648437" class="4">
 <stat name="ThreatInputModifier_Healing" constant="-7.0"/>
 </consumable>
-<consumable identifier="1879088141" name="Lute Strings of Greater Subtlety" iconId="1090648436-1090519042-1090648437" class="4">
+<consumable identifier="1879088141" name="Изысканные струны для лютни" iconId="1090648436-1090519042-1090648437" class="4">
 <stat name="ThreatInputModifier_Healing" constant="-10.0"/>
 </consumable>
-<consumable identifier="1879088142" name="Improved Lute Strings of Minor Subtlety" iconId="1090648436-1090519043-1090648437" class="4">
+<consumable identifier="1879088142" name="Улучшенные грубые струны для лютни" iconId="1090648436-1090519043-1090648437" class="4">
 <stat name="ThreatInputModifier_Healing" constant="-7.0"/>
 </consumable>
-<consumable identifier="1879088143" name="Improved Lute Strings of Subtlety" iconId="1090648436-1090519043-1090648437" class="4">
+<consumable identifier="1879088143" name="Улучшенные хорошие струны для лютни" iconId="1090648436-1090519043-1090648437" class="4">
 <stat name="ThreatInputModifier_Healing" constant="-10.0"/>
 </consumable>
-<consumable identifier="1879088144" name="Improved Lute Strings of Greater Subtlety" iconId="1090648436-1090519043-1090648437" class="4">
+<consumable identifier="1879088144" name="Улучшенные изысканные струны для лютни" iconId="1090648436-1090519043-1090648437" class="4">
 <stat name="ThreatInputModifier_Healing" constant="-12.0"/>
 </consumable>
-<consumable identifier="1879088146" name="Sandson's Famous Hardboiled Eggs" iconId="1090553072-1090522692-1090553073" class="55">
+<consumable identifier="1879088146" name="Яйца вкрутую по рецепту фермера Песчаника" iconId="1090553072-1090522692-1090553073" class="55">
 <stat name="OCMR" constant="4.866667"/>
 <stat name="OCPR" constant="5.5"/>
 </consumable>
-<consumable identifier="1879088147" name="Superior Sandson's Famous Hardboiled Eggs" iconId="1090553072-1090522692-1090553073" class="55">
+<consumable identifier="1879088147" name="Отменные яйца вкрутую по рецепту фермера Песчаника" iconId="1090553072-1090522692-1090553073" class="55">
 <stat name="OCMR" constant="8.36"/>
 <stat name="OCPR" constant="9.35"/>
 </consumable>
-<consumable identifier="1879089569" name="Blue Bock" iconId="1090523137-1090522692-1090523138" class="55">
+<consumable identifier="1879089569" name="Синее выдержанное пиво" iconId="1090523137-1090522692-1090523138" class="55">
 <stat name="Combat_BaseMissRate" descriptionOverride="-" constant="5.0"/>
 </consumable>
-<consumable identifier="1879089572" name="Shire Spice Ale" iconId="1090524177-1090522692-1090524178" class="55">
+<consumable identifier="1879089572" name="Ширский пряный эль" iconId="1090524177-1090522692-1090524178" class="55">
 <stat name="Combat_BaseMissRate" descriptionOverride="-" constant="10.0"/>
 </consumable>
-<consumable identifier="1879089574" name="Honeybrew" iconId="1090640840-1090522692-1090640841" class="55">
+<consumable identifier="1879089574" name="Медовое пиво" iconId="1090640840-1090522692-1090640841" class="55">
 <stat name="Combat_BaseMissRate" descriptionOverride="-" constant="10.0"/>
 </consumable>
-<consumable identifier="1879089578" name="Blueberry Ale" iconId="1090523139-1090522692-1090523140" class="55">
+<consumable identifier="1879089578" name="Черничный эль" iconId="1090523139-1090522692-1090523140" class="55">
 <stat name="Combat_BaseMissRate" descriptionOverride="-" constant="5.0"/>
 </consumable>
-<consumable identifier="1879089588" name="Strawberry Stout" iconId="1090640842-1090522692-1090640843" class="55">
+<consumable identifier="1879089588" name="Крепкое клубничное пиво" iconId="1090640842-1090522692-1090640843" class="55">
 <stat name="Combat_BaseMissRate" descriptionOverride="-" constant="10.0"/>
 </consumable>
-<consumable identifier="1879089596" name="Apprentice's Ale" iconId="1090524177-1090522692-1090524178" class="55">
+<consumable identifier="1879089596" name="Простенький эль" iconId="1090524177-1090522692-1090524178" class="55">
 <stat name="Combat_BaseMissRate" descriptionOverride="-" constant="5.0"/>
 </consumable>
-<consumable identifier="1879089597" name="Bold Stout" iconId="1090640842-1090522692-1090640843" class="55">
+<consumable identifier="1879089597" name="Крепкий портер" iconId="1090640842-1090522692-1090640843" class="55">
 <stat name="Combat_BaseMissRate" descriptionOverride="-" constant="5.0"/>
 </consumable>
-<consumable identifier="1879089601" name="Winterberry Ale" iconId="1090523137-1090522692-1090523138" class="55">
+<consumable identifier="1879089601" name="Эль из ягод падуба" iconId="1090523137-1090522692-1090523138" class="55">
 <stat name="Combat_BaseMissRate" descriptionOverride="-" constant="10.0"/>
 </consumable>
-<consumable identifier="1879089604" name="Ultimate Honeybrew" iconId="1090640836-1090522692-1090640837" class="55">
+<consumable identifier="1879089604" name="Вкуснейшее медовое пиво" iconId="1090640836-1090522692-1090640837" class="55">
 <stat name="Combat_BaseMissRate" descriptionOverride="-" constant="15.000001"/>
 </consumable>
-<consumable identifier="1879089610" name="Blackberry Ale" iconId="1090523139-1090522692-1090523140" class="55">
+<consumable identifier="1879089610" name="Ежевичный эль" iconId="1090523139-1090522692-1090523140" class="55">
 <stat name="Combat_BaseMissRate" descriptionOverride="-" constant="15.000001"/>
 </consumable>
-<consumable identifier="1879090928" name="Simple Fire-oil" iconId="1090532008-1090519041-1090532009" class="17">
+<consumable identifier="1879090928" name="Простое огненное масло" iconId="1090532008-1090519041-1090532009" class="17">
 <stat name="ForwardSource_ComboMode_Hunter_DamageType" operator="SET" constant="39.0"/>
 </consumable>
-<consumable identifier="1879090929" name="Simple Light-oil" iconId="1090537233-1090519041-1090537234" class="17">
+<consumable identifier="1879090929" name="Простое масло Света" iconId="1090537233-1090519041-1090537234" class="17">
 <stat name="ForwardSource_ComboMode_Hunter_DamageType" operator="SET" constant="1.0"/>
 </consumable>
-<consumable identifier="1879090967" name="Bow Chant: Breach-finder" iconId="1091388834-1090519041-1091388835" class="17">
+<consumable identifier="1879090967" name="Чары для лука: Не знающий препятствий" iconId="1091388834-1090519041-1091388835" class="17">
 <stat name="Skill_DamageMitigation_RangedMod" operator="SUBSTRACT" constant="5.0"/>
 </consumable>
-<consumable identifier="1879090968" name="Bow Chant: Foe-finder" iconId="1091388848-1090519041-1091388849" class="17">
+<consumable identifier="1879090968" name="Чары для лука: Не знающий промаха" iconId="1091388848-1090519041-1091388849" class="17">
 <stat name="Skill_ChanceEvade_RangedMod" operator="SUBSTRACT" constant="5.0"/>
 </consumable>
-<consumable identifier="1879090969" name="Bow Chant: Shield-bane" iconId="1091388850-1090519041-1091388851" class="17">
+<consumable identifier="1879090969" name="Чары для лука: Гроза щитов" iconId="1091388850-1090519041-1091388851" class="17">
 <stat name="Skill_ChanceBlock_RangedMod" operator="SUBSTRACT" constant="5.0"/>
 </consumable>
-<consumable identifier="1879090970" name="Bow Chant: Wind-rider" iconId="1091388836-1090519041-1091388837" class="17">
-<stat name="Skill_VitalCost_RangedMod" operator="SUBSTRACT" descriptionOverride="Your bow skills cost ${PERCENTVALUE} less Power." constant="10.0"/>
+<consumable identifier="1879090970" name="Чары для лука: Оседлавший ветер" iconId="1091388836-1090519041-1091388837" class="17">
+<stat name="Skill_VitalCost_RangedMod" operator="SUBSTRACT" descriptionOverride="Умения стрельбы расходуют на ${PERCENTVALUE} меньше энергии." constant="10.0"/>
 </consumable>
-<consumable identifier="1879091313" name="Bow Chant: Whisper-draw" iconId="1091388838-1090519041-1091388839" class="17">
-<stat name="Skill_AdditionalThreat_Hunter_AllRangeSkillsMod" descriptionOverride="Your bow skills generate less threat." constant="-1.275"/>
+<consumable identifier="1879091313" name="Чары для лука: легкие стрелы" iconId="1091388838-1090519041-1091388839" class="17">
+<stat name="Skill_AdditionalThreat_Hunter_AllRangeSkillsMod" descriptionOverride="При стрельбе угроза наращивается медленнее." constant="-1.275"/>
 </consumable>
-<consumable identifier="1879098878" name="Pumpkin Ale" iconId="1090640836-1090522692-1090640837" class="55">
+<consumable identifier="1879098878" name="Тыквенный эль" iconId="1090640836-1090522692-1090640837" class="55">
 <stat name="Combat_BaseMissRate" descriptionOverride="-" constant="5.0"/>
 </consumable>
-<consumable identifier="1879098879" name="Fern Beer" iconId="1090640842-1090522692-1090640843" class="55">
+<consumable identifier="1879098879" name="Папоротниковое пиво" iconId="1090640842-1090522692-1090640843" class="55">
 <stat name="Combat_BaseMissRate" descriptionOverride="-" constant="10.0"/>
 </consumable>
-<consumable identifier="1879098880" name="Perry's Porter" iconId="1090640840-1090522692-1090640841" class="55">
+<consumable identifier="1879098880" name="Портер Перри" iconId="1090640840-1090522692-1090640841" class="55">
 <stat name="Combat_BaseMissRate" descriptionOverride="-" constant="15.000001"/>
 </consumable>
-<consumable identifier="1879098881" name="Rootknot's Cider" iconId="1090523137-1090522692-1090523138" class="55">
+<consumable identifier="1879098881" name="Сидр Узлика" iconId="1090523137-1090522692-1090523138" class="55">
 <stat name="Combat_BaseMissRate" descriptionOverride="-" constant="5.0"/>
 </consumable>
-<consumable identifier="1879098882" name="Pear-blossom Wine" iconId="1090523139-1090522692-1090523140" class="55">
+<consumable identifier="1879098882" name="Вино \qЦветок груши\q" iconId="1090523139-1090522692-1090523140" class="55">
 <stat name="Combat_BaseMissRate" descriptionOverride="-" constant="10.0"/>
 </consumable>
-<consumable identifier="1879098883" name="Willow Wine" iconId="1090523139-1090522692-1090523140" class="55">
+<consumable identifier="1879098883" name="Ивовое вино" iconId="1090523139-1090522692-1090523140" class="55">
 <stat name="Combat_BaseMissRate" descriptionOverride="-" constant="15.000001"/>
 </consumable>
-<consumable identifier="1879098884" name="Fall Squash" iconId="1090640834-1090522692-1090640835" class="55">
+<consumable identifier="1879098884" name="Осеннее кушанье" iconId="1090640834-1090522692-1090640835" class="55">
 <stat name="OCMR" constant="9.5"/>
 <stat name="OCPR" constant="11.583333"/>
 </consumable>
-<consumable identifier="1879098885" name="Fall Sausage" iconId="1090640828-1090522692-1090640829" class="55">
+<consumable identifier="1879098885" name="Осенняя колбаска" iconId="1090640828-1090522692-1090640829" class="55">
 <stat name="OCMR" constant="13.0"/>
 <stat name="OCPR" constant="15.75"/>
 </consumable>
-<consumable identifier="1879098886" name="Cranberry Pudding" iconId="1090640838-1090522692-1090640839" class="55">
+<consumable identifier="1879098886" name="Клюквенная сладость" iconId="1090640838-1090522692-1090640839" class="55">
 <stat name="OCMR" constant="16.5"/>
 <stat name="OCPR" constant="19.916666"/>
 </consumable>
-<consumable identifier="1879098887" name="Fall Greens" iconId="1090640830-1090522692-1090640831" class="55">
+<consumable identifier="1879098887" name="Осенняя зелень" iconId="1090640830-1090522692-1090640831" class="55">
 <stat name="OCMR" constant="3.2"/>
 <stat name="OCPR" constant="4.3333335"/>
 </consumable>
-<consumable identifier="1879098888" name="Fall Grouse" iconId="1090640832-1090522692-1090640833" class="55">
+<consumable identifier="1879098888" name="Осенняя куропатка" iconId="1090640832-1090522692-1090640833" class="55">
 <stat name="OCMR" constant="20.0"/>
 <stat name="OCPR" constant="23.833334"/>
 </consumable>

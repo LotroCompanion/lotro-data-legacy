@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?><enum id="587202636" name="EquipmentCategory">
-<entry code="1" name="Earring"/>
-<entry code="2" name="Bauble"/>
-<entry code="3" name="Two-handed Sword"/>
-<entry code="4" name="Two-handed Club"/>
-<entry code="5" name="Two-handed Mace"/>
-<entry code="6" name="Two-handed Axe"/>
-<entry code="7" name="Instrument"/>
-<entry code="8" name="Bow"/>
-<entry code="9" name="Medium Armour"/>
-<entry code="10" name="Heavy Armour"/>
-<entry code="11" name="Heavy Shield"/>
-<entry code="12" name="One-handed Hammer"/>
-<entry code="13" name="Spear"/>
-<entry code="14" name="Crossbow"/>
-<entry code="15" name="Two-handed Hammer"/>
-<entry code="16" name="Halberd"/>
-<entry code="17" name="Shield"/>
-<entry code="18" name="Light Armour"/>
-<entry code="19" name="Ring"/>
-<entry code="20" name="Dagger"/>
-<entry code="21" name="Craft Tool"/>
-<entry code="22" name="Staff"/>
-<entry code="23" name="Necklace"/>
-<entry code="24" name="One-handed Axe"/>
-<entry code="25" name="Class"/>
-<entry code="26" name="One-handed Club"/>
-<entry code="27" name="One-handed Mace"/>
-<entry code="28" name="One-handed Sword"/>
-<entry code="29" name="Thrown Weapon"/>
-<entry code="30" name="Armband"/>
-<entry code="31" name="Cloak"/>
+<entry code="1" name="Серьга"/>
+<entry code="2" name="Карманный предмет"/>
+<entry code="3" name="Двуручный меч"/>
+<entry code="4" name="Двуручная дубина"/>
+<entry code="5" name="Двуручная булава"/>
+<entry code="6" name="Двуручный топор"/>
+<entry code="7" name="Инструмент"/>
+<entry code="8" name="Лук"/>
+<entry code="9" name="Средние доспехи"/>
+<entry code="10" name="Тяжелые доспехи"/>
+<entry code="11" name="Тяжелый щит"/>
+<entry code="12" name="Одноручный молот"/>
+<entry code="13" name="Копье"/>
+<entry code="14" name="Арбалет"/>
+<entry code="15" name="Двуручный молот"/>
+<entry code="16" name="Алебарда"/>
+<entry code="17" name="Щит"/>
+<entry code="18" name="Легкие доспехи"/>
+<entry code="19" name="Кольцо"/>
+<entry code="20" name="Кинжал"/>
+<entry code="21" name="Ремесленный инструмент"/>
+<entry code="22" name="Посох"/>
+<entry code="23" name="Ожерелье"/>
+<entry code="24" name="Одноручный топор"/>
+<entry code="25" name="Классовый предмет"/>
+<entry code="26" name="Одноручная дубина"/>
+<entry code="27" name="Одноручная булава"/>
+<entry code="28" name="Одноручный меч"/>
+<entry code="29" name="Метательное оружие"/>
+<entry code="30" name="Браслет"/>
+<entry code="31" name="Плащ"/>
 </enum>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><classes>
-<class key="Champion" iconId="1090552269" smallIconId="0" abbreviation="CHN" description="Unrelenting in battle, Champions are consummate warriors. Their fervour allows them to make increasingly powerful attacks. Champions excel at melee combat and can absorb punishment with their heavy armour.  &lt;li&gt;Role: Area-of-Effect Damage / Damage-per-Second &lt;/li&gt; &lt;li&gt;The Champion trades survivability for the ability to deal explosive amounts of damage to multiple foes.  Although a fully armoured class when not in fervour mode, it is when Champions enter this state that they deal out the greatest damage, both to single and multiple foes.  &lt;/li&gt;">
+<class key="Champion" iconId="1090552269" smallIconId="0" abbreviation="ВОИ" description="Воители - прирожденные бойцы, не знающие устали в битве. Их боевой пыл позволяет им с нарастающей мощью наносить врагу удар за ударом. Они превосходно сражаются в ближнем бою, а их тяжелые доспехи выдерживают значительный урон. &lt;li&gt;Роль: Атака области / Атака цели&lt;/li&gt; &lt;li&gt;Воителю приходится постоянно выбирать, что важнее - собственная жизнь или победа в бою. Охваченный боевым пылом, он забывает о защите, но при этом наносит огромный урон врагу или целой группе врагов.&lt;/li&gt;">
 <proficiencies armourTypeForMitigations="HEAVY">
 <weapon type="ONE_HANDED_AXE" level="1"/>
 <weapon type="ONE_HANDED_CLUB" level="1"/>
@@ -17,89 +17,89 @@
 <armour type="SHIELD" level="15"/>
 <armour type="HEAVY" level="20"/>
 </proficiencies>
-<classTrait minLevel="1" traitId="1879064086" traitName="One-Handed Axes"/>
-<classTrait minLevel="1" traitId="1879064087" traitName="One-Handed Clubs"/>
-<classTrait minLevel="1" traitId="1879064088" traitName="One-Handed Hammers"/>
-<classTrait minLevel="1" traitId="1879064089" traitName="One-Handed Maces"/>
-<classTrait minLevel="1" traitId="1879064090" traitName="One-Handed Swords"/>
-<classTrait minLevel="1" traitId="1879064091" traitName="Daggers"/>
-<classTrait minLevel="1" traitId="1879064092" traitName="Dual Wielding"/>
-<classTrait minLevel="20" traitId="1879076155" traitName="Horns of Valour"/>
-<classTrait minLevel="1" traitId="1879064094" traitName="Light Armour"/>
-<classTrait minLevel="1" traitId="1879064095" traitName="Medium Armour"/>
-<classTrait minLevel="5" traitId="1879064096" traitName="Horn Use"/>
-<classTrait minLevel="5" traitId="1879064097" traitName="Parry: Rank 1"/>
-<classTrait minLevel="7" traitId="1879064098" traitName="Evade: Rank 1"/>
-<classTrait minLevel="10" traitId="1879064099" traitName="Two-Handed Axes"/>
-<classTrait minLevel="10" traitId="1879064100" traitName="Two-Handed Hammers"/>
-<classTrait minLevel="10" traitId="1879064101" traitName="Two-Handed Swords"/>
-<classTrait minLevel="10" traitId="1879064102" traitName="Spear"/>
-<classTrait minLevel="20" traitId="1879060258" traitName="Adept"/>
-<classTrait minLevel="11" traitId="1879064103" traitName="Melee Critical: Rank 1"/>
-<classTrait minLevel="13" traitId="1879064104" traitName="Accuracy: Rank 1"/>
-<classTrait minLevel="15" traitId="1879064105" traitName="Shields"/>
-<classTrait minLevel="15" traitId="1879064106" traitName="Evade: Rank 2"/>
-<classTrait minLevel="19" traitId="1879064107" traitName="Parry: Rank 2"/>
-<classTrait minLevel="20" traitId="1879064108" traitName="Bows"/>
-<classTrait minLevel="20" traitId="1879059926" traitName="Runic Use"/>
-<classTrait minLevel="20" traitId="1879064109" traitName="Heavy Armour"/>
-<classTrait minLevel="10" traitId="1879060257" traitName="Journeyman"/>
-<classTrait minLevel="21" traitId="1879064110" traitName="Block : Rank 1"/>
-<classTrait minLevel="23" traitId="1879064111" traitName="Melee Critical: Rank 2"/>
-<classTrait minLevel="25" traitId="1879064112" traitName="Block : Rank 2"/>
-<classTrait minLevel="27" traitId="1879064113" traitName="Accuracy: Rank 2"/>
-<classTrait minLevel="29" traitId="1879064114" traitName="Parry: Rank 3"/>
-<classTrait minLevel="30" traitId="1879060248" traitName="Master"/>
-<classTrait minLevel="31" traitId="1879064115" traitName="Evade: Rank 3"/>
-<classTrait minLevel="33" traitId="1879064116" traitName="Block : Rank 3"/>
-<classTrait minLevel="37" traitId="1879064118" traitName="Block : Rank 4"/>
-<classTrait minLevel="39" traitId="1879064119" traitName="Accuracy: Rank 3"/>
-<classTrait minLevel="41" traitId="1879064120" traitName="Parry: Rank 4"/>
-<classTrait minLevel="43" traitId="1879064121" traitName="Evade: Rank 4"/>
-<classTrait minLevel="45" traitId="1879064122" traitName="Accuracy: Rank 4"/>
-<classTrait minLevel="1" traitId="1879064093" traitName="Specialized Equipment"/>
-<classTrait minLevel="5" traitId="1879064210" traitName="Lute Use"/>
-<classSkill minLevel="1" skillId="1879064060" skillName="Wild Attack"/>
-<classSkill minLevel="1" skillId="1879064061" skillName="Blade-wall"/>
-<classSkill minLevel="1" skillId="1879060495" skillName="Swift Strike"/>
-<classSkill minLevel="2" skillId="1879064062" skillName="Savage Strikes"/>
-<classSkill minLevel="4" skillId="1879064063" skillName="Fervour"/>
-<classSkill minLevel="4" skillId="1879064064" skillName="Flurry"/>
-<classSkill minLevel="6" skillId="1879064065" skillName="Brutal Strikes"/>
-<classSkill minLevel="8" skillId="1879064066" skillName="Exchange of Blows"/>
-<classSkill minLevel="10" skillId="1879064067" skillName="Blade-storm"/>
-<classSkill minLevel="12" skillId="1879060547" skillName="Battle-frenzy"/>
-<classSkill minLevel="14" skillId="1879064068" skillName="Bracing Attack"/>
-<classSkill minLevel="16" skillId="1879064069" skillName="Cleave"/>
-<classSkill minLevel="18" skillId="1879064070" skillName="Sudden Defence"/>
-<classSkill minLevel="20" skillId="1879064071" skillName="Relentless Strike"/>
-<classSkill minLevel="22" skillId="1879064072" skillName="Champion's Challenge"/>
-<classSkill minLevel="24" skillId="1879064073" skillName="Merciful Strike"/>
-<classSkill minLevel="26" skillId="1879064074" skillName="Fighting Dirty"/>
-<classSkill minLevel="28" skillId="1879064075" skillName="Sprint"/>
-<classSkill minLevel="30" skillId="1879060551" skillName="Dire Need"/>
-<classSkill minLevel="32" skillId="1879064076" skillName="Clobber"/>
-<classSkill minLevel="34" skillId="1879064077" skillName="Sound the Attack"/>
-<classSkill minLevel="36" skillId="1879064078" skillName="Hamstring"/>
-<classSkill minLevel="38" skillId="1879064079" skillName="Hedge"/>
-<classSkill minLevel="40" skillId="1879064085" skillName="Boast"/>
-<classSkill minLevel="40" skillId="1879086712" skillName="Heroics"/>
-<classSkill minLevel="42" skillId="1879088732" skillName="Rising Ire"/>
-<classSkill minLevel="44" skillId="1879088731" skillName="Ebbing Ire"/>
-<classSkill minLevel="46" skillId="1879086716" skillName="Glory"/>
-<classSkill minLevel="48" skillId="1879086713" skillName="Blocking Blades"/>
-<classSkill minLevel="50" skillId="1879086717" skillName="Red Haze"/>
-<classSkill minLevel="12" skillId="1879064080" skillName="Stallion's Spirit"/>
-<classSkill minLevel="12" skillId="1879064081" skillName="Ent's Strength (Melee)"/>
-<classSkill minLevel="12" skillId="1879064082" skillName="Eagle's Cry"/>
-<classSkill minLevel="12" skillId="1879064083" skillName="Spider's Guile (Melee)"/>
-<classSkill minLevel="20" skillId="1879064084" skillName="Shoot"/>
-<initialGearElement itemId="1879064056" itemName="Leather Leggings"/>
-<initialGearElement itemId="1879064057" itemName="Leather Jacket"/>
-<initialGearElement itemId="1879064058" itemName="Leather Shoes"/>
-<initialGearElement itemId="1879064059" itemName="Dull Knife"/>
+<classTrait minLevel="1" traitId="1879064086" traitName="Одноручные топоры"/>
+<classTrait minLevel="1" traitId="1879064087" traitName="Одноручные палицы"/>
+<classTrait minLevel="1" traitId="1879064088" traitName="Одноручные молоты"/>
+<classTrait minLevel="1" traitId="1879064089" traitName="Одноручные булавы"/>
+<classTrait minLevel="1" traitId="1879064090" traitName="Одноручные мечи"/>
+<classTrait minLevel="1" traitId="1879064091" traitName="Кинжалы"/>
+<classTrait minLevel="1" traitId="1879064092" traitName="Два оружия"/>
+<classTrait minLevel="20" traitId="1879076155" traitName="Рог доблести"/>
+<classTrait minLevel="1" traitId="1879064094" traitName="Легкие доспехи"/>
+<classTrait minLevel="1" traitId="1879064095" traitName="Средние доспехи"/>
+<classTrait minLevel="5" traitId="1879064096" traitName="Использование рога"/>
+<classTrait minLevel="5" traitId="1879064097" traitName="Парирование: уровень 1"/>
+<classTrait minLevel="7" traitId="1879064098" traitName="Уклонение: уровень 1"/>
+<classTrait minLevel="10" traitId="1879064099" traitName="Двуручные топоры"/>
+<classTrait minLevel="10" traitId="1879064100" traitName="Двуручные молоты"/>
+<classTrait minLevel="10" traitId="1879064101" traitName="Двуручные мечи"/>
+<classTrait minLevel="10" traitId="1879064102" traitName="Копья"/>
+<classTrait minLevel="20" traitId="1879060258" traitName="Адепт"/>
+<classTrait minLevel="11" traitId="1879064103" traitName="Крит. урон в ближнем бою: ур. 1"/>
+<classTrait minLevel="13" traitId="1879064104" traitName="Точность: уровень 1"/>
+<classTrait minLevel="15" traitId="1879064105" traitName="Щиты"/>
+<classTrait minLevel="15" traitId="1879064106" traitName="Уклонение: уровень 2"/>
+<classTrait minLevel="19" traitId="1879064107" traitName="Парирование: уровень 2"/>
+<classTrait minLevel="20" traitId="1879064108" traitName="Луки"/>
+<classTrait minLevel="20" traitId="1879059926" traitName="Использование рун"/>
+<classTrait minLevel="20" traitId="1879064109" traitName="Тяжелые доспехи"/>
+<classTrait minLevel="10" traitId="1879060257" traitName="Путник"/>
+<classTrait minLevel="21" traitId="1879064110" traitName="Блокирование: уровень 1"/>
+<classTrait minLevel="23" traitId="1879064111" traitName="Крит. урон в ближнем бою: ур. 2"/>
+<classTrait minLevel="25" traitId="1879064112" traitName="Блокирование: уровень 2"/>
+<classTrait minLevel="27" traitId="1879064113" traitName="Точность: уровень 2"/>
+<classTrait minLevel="29" traitId="1879064114" traitName="Парирование: уровень 3"/>
+<classTrait minLevel="30" traitId="1879060248" traitName="Знаменитость"/>
+<classTrait minLevel="31" traitId="1879064115" traitName="Уклонение: уровень 3"/>
+<classTrait minLevel="33" traitId="1879064116" traitName="Блокирование: уровень 3"/>
+<classTrait minLevel="37" traitId="1879064118" traitName="Блокирование: уровень 4"/>
+<classTrait minLevel="39" traitId="1879064119" traitName="Точность: уровень 3"/>
+<classTrait minLevel="41" traitId="1879064120" traitName="Парирование: уровень 4"/>
+<classTrait minLevel="43" traitId="1879064121" traitName="Уклонение: уровень 4"/>
+<classTrait minLevel="45" traitId="1879064122" traitName="Точность: уровень 4"/>
+<classTrait minLevel="1" traitId="1879064093" traitName="Специальные инструменты"/>
+<classTrait minLevel="5" traitId="1879064210" traitName="Игра на лютне"/>
+<classSkill minLevel="1" skillId="1879064060" skillName="Неистовая атака"/>
+<classSkill minLevel="1" skillId="1879064061" skillName="Стена клинков"/>
+<classSkill minLevel="1" skillId="1879060495" skillName="Быстрый удар"/>
+<classSkill minLevel="2" skillId="1879064062" skillName="Свирепые удары"/>
+<classSkill minLevel="4" skillId="1879064063" skillName="Боевой пыл"/>
+<classSkill minLevel="4" skillId="1879064064" skillName="Шквал ударов"/>
+<classSkill minLevel="6" skillId="1879064065" skillName="Жестокие удары"/>
+<classSkill minLevel="8" skillId="1879064066" skillName="Обмен ударами"/>
+<classSkill minLevel="10" skillId="1879064067" skillName="Буря клинков"/>
+<classSkill minLevel="12" skillId="1879060547" skillName="Исступление битвы"/>
+<classSkill minLevel="14" skillId="1879064068" skillName="Стойкий удар"/>
+<classSkill minLevel="16" skillId="1879064069" skillName="Секущий удар"/>
+<classSkill minLevel="18" skillId="1879064070" skillName="Уход в оборону"/>
+<classSkill minLevel="20" skillId="1879064071" skillName="Безжалостный удар"/>
+<classSkill minLevel="22" skillId="1879064072" skillName="Вызов воителя"/>
+<classSkill minLevel="24" skillId="1879064073" skillName="Удар милосердия"/>
+<classSkill minLevel="26" skillId="1879064074" skillName="Грязный прием"/>
+<classSkill minLevel="28" skillId="1879064075" skillName="Рывок"/>
+<classSkill minLevel="30" skillId="1879060551" skillName="Отчаянная нужда"/>
+<classSkill minLevel="32" skillId="1879064076" skillName="Прерывающий удар"/>
+<classSkill minLevel="34" skillId="1879064077" skillName="К оружию!"/>
+<classSkill minLevel="36" skillId="1879064078" skillName="Перерезанные поджилки"/>
+<classSkill minLevel="38" skillId="1879064079" skillName="Отстранение"/>
+<classSkill minLevel="40" skillId="1879064085" skillName="Хвастовство"/>
+<classSkill minLevel="40" skillId="1879086712" skillName="Героизм"/>
+<classSkill minLevel="42" skillId="1879088732" skillName="Нарастающий гнев"/>
+<classSkill minLevel="44" skillId="1879088731" skillName="Затихающий гнев"/>
+<classSkill minLevel="46" skillId="1879086716" skillName="Ореол славы"/>
+<classSkill minLevel="48" skillId="1879086713" skillName="Заграждающие клинки"/>
+<classSkill minLevel="50" skillId="1879086717" skillName="Завеса ярости"/>
+<classSkill minLevel="12" skillId="1879064080" skillName="Дух жеребца"/>
+<classSkill minLevel="12" skillId="1879064081" skillName="Сила энта (ближний бой)"/>
+<classSkill minLevel="12" skillId="1879064082" skillName="Орлиный крик"/>
+<classSkill minLevel="12" skillId="1879064083" skillName="Коварство паука (ближний бой)"/>
+<classSkill minLevel="20" skillId="1879064084" skillName="Стрельба"/>
+<initialGearElement itemId="1879064056" itemName="Кожаные штаны"/>
+<initialGearElement itemId="1879064057" itemName="Кожаная куртка"/>
+<initialGearElement itemId="1879064058" itemName="Кожаные башмаки"/>
+<initialGearElement itemId="1879064059" itemName="Тупой нож"/>
 </class>
-<class key="Captain" iconId="1090552307" smallIconId="0" abbreviation="CPT" description="Captains are masterful leaders whose commanding presence strengthens allies. Their battle cries strike fear into the hearts of enemies and rally companions to their war banners. &lt;li&gt;Role: Buffer / Pets &lt;/li&gt; &lt;li&gt;The armoured Captain possesses some of the most potent enhancements to the heroes of Middle-earth, this makes the Captain a key member of any fellowship.  The Captain's ability to summon a Herald pet at later levels, plus the ability to bring fallen heroes back into the fight, make it a desired group class. &lt;/li&gt;">
+<class key="Captain" iconId="1090552307" smallIconId="0" abbreviation="РЦР" description="Рыцари - опытные предводители, чье присутствие усиливает союзников. Их боевые кличи вселяют страх в сердца врагов и воодушевляют друзей. &lt;li&gt;Роль: Усиление друзей / Призыв спутников&lt;/li&gt; &lt;li&gt;Рыцарь в тяжелых доспехах как никто усилит мощь отряда, а потому ему рады в любом братстве. Кроме того, достигнув определенного уровня, рыцарь получает возможность призвать себе на помощь герольда, а также обретает способность возвращать к жизни павших соратников.&lt;/li&gt;">
 <proficiencies armourTypeForMitigations="HEAVY">
 <weapon type="ONE_HANDED_AXE" level="1"/>
 <weapon type="ONE_HANDED_CLUB" level="1"/>
@@ -118,93 +118,93 @@
 <armour type="SHIELD" level="15"/>
 <armour type="HEAVY" level="20"/>
 </proficiencies>
-<classTrait minLevel="1" traitId="1879064086" traitName="One-Handed Axes"/>
-<classTrait minLevel="1" traitId="1879064087" traitName="One-Handed Clubs"/>
-<classTrait minLevel="1" traitId="1879064088" traitName="One-Handed Hammers"/>
-<classTrait minLevel="1" traitId="1879064089" traitName="One-Handed Maces"/>
-<classTrait minLevel="1" traitId="1879064090" traitName="One-Handed Swords"/>
-<classTrait minLevel="1" traitId="1879064099" traitName="Two-Handed Axes"/>
-<classTrait minLevel="1" traitId="1879064155" traitName="Two-Handed Clubs"/>
-<classTrait minLevel="1" traitId="1879064100" traitName="Two-Handed Hammers"/>
-<classTrait minLevel="1" traitId="1879064101" traitName="Two-Handed Swords"/>
-<classTrait minLevel="1" traitId="1879064091" traitName="Daggers"/>
-<classTrait minLevel="1" traitId="1879064093" traitName="Specialized Equipment"/>
-<classTrait minLevel="1" traitId="1879064094" traitName="Light Armour"/>
-<classTrait minLevel="1" traitId="1879064095" traitName="Medium Armour"/>
-<classTrait minLevel="5" traitId="1879064096" traitName="Horn Use"/>
-<classTrait minLevel="7" traitId="1879064156" traitName="Melee Critical: Rank 1"/>
-<classTrait minLevel="9" traitId="1879064163" traitName="Parry: Rank 1"/>
-<classTrait minLevel="10" traitId="1879064102" traitName="Spear"/>
-<classTrait minLevel="20" traitId="1879060258" traitName="Adept"/>
-<classTrait minLevel="11" traitId="1879064158" traitName="Accuracy: Rank 1"/>
-<classTrait minLevel="13" traitId="1879064159" traitName="Evade: Rank 1"/>
-<classTrait minLevel="15" traitId="1879064160" traitName="Halberd"/>
-<classTrait minLevel="15" traitId="1879064105" traitName="Shields"/>
-<classTrait minLevel="15" traitId="1879064157" traitName="Block : Rank 1"/>
-<classTrait minLevel="17" traitId="1879064162" traitName="Melee Critical: Rank 2"/>
-<classTrait minLevel="19" traitId="1879064166" traitName="Parry: Rank 2"/>
-<classTrait minLevel="20" traitId="1879064109" traitName="Heavy Armour"/>
-<classTrait minLevel="20" traitId="1879076104" traitName="Armament Use"/>
-<classTrait minLevel="10" traitId="1879060257" traitName="Journeyman"/>
-<classTrait minLevel="21" traitId="1879084084" traitName="Evade: Rank 2"/>
-<classTrait minLevel="23" traitId="1879064161" traitName="Block : Rank 2"/>
-<classTrait minLevel="25" traitId="1879064169" traitName="Parry: Rank 3"/>
-<classTrait minLevel="29" traitId="1879064168" traitName="Accuracy: Rank 2"/>
-<classTrait minLevel="30" traitId="1879060248" traitName="Master"/>
-<classTrait minLevel="33" traitId="1879064165" traitName="Block : Rank 3"/>
-<classTrait minLevel="35" traitId="1879064170" traitName="Accuracy: Rank 3"/>
-<classTrait minLevel="39" traitId="1879064171" traitName="Accuracy: Rank 4"/>
-<classTrait minLevel="41" traitId="1879064172" traitName="Parry: Rank 4"/>
-<classTrait minLevel="40" traitId="1879064173" traitName="Summoning Horn Use"/>
-<classTrait minLevel="5" traitId="1879064210" traitName="Lute Use"/>
-<classSkill minLevel="1" skillId="1879060327" skillName="Battle-shout"/>
-<classSkill minLevel="1" skillId="1879060339" skillName="Defensive Strike"/>
-<classSkill minLevel="1" skillId="1879060303" skillName="Rallying Cry"/>
-<classSkill minLevel="2" skillId="1879060431" skillName="Devastating Blow"/>
-<classSkill minLevel="4" skillId="1879064140" skillName="Cutting Attack"/>
-<classSkill minLevel="4" skillId="1879060312" skillName="War-cry"/>
-<classSkill minLevel="6" skillId="1879064141" skillName="Telling Mark"/>
-<classSkill minLevel="8" skillId="1879060321" skillName="Routing Cry"/>
-<classSkill minLevel="8" skillId="1879064142" skillName="Make Haste"/>
-<classSkill minLevel="10" skillId="1879060346" skillName="Call to Arms: Herald of War"/>
-<classSkill minLevel="10" skillId="1879064144" skillName="Pressing Attack"/>
-<classSkill minLevel="12" skillId="1879064143" skillName="Noble Mark"/>
-<classSkill minLevel="14" skillId="1879064145" skillName="Words of Courage"/>
-<classSkill minLevel="16" skillId="1879060377" skillName="Muster Courage"/>
-<classSkill minLevel="16" skillId="1879064146" skillName="Motivating Speech"/>
-<classSkill minLevel="18" skillId="1879064147" skillName="Tactic: On Guard"/>
-<classSkill minLevel="20" skillId="1879060293" skillName="Escape from Darkness"/>
-<classSkill minLevel="22" skillId="1879064148" skillName="Last Stand"/>
-<classSkill minLevel="24" skillId="1879060399" skillName="Call to Arms: Herald of Hope"/>
-<classSkill minLevel="26" skillId="1879060437" skillName="Threatening Shout"/>
-<classSkill minLevel="28" skillId="1879064149" skillName="Tactic: Relentless Attack"/>
-<classSkill minLevel="30" skillId="1879064150" skillName="Revealing Mark"/>
-<classSkill minLevel="32" skillId="1879064151" skillName="Cry of Vengeance"/>
-<classSkill minLevel="34" skillId="1879060250" skillName="Call to Arms: Herald of Victory"/>
-<classSkill minLevel="36" skillId="1879064152" skillName="In Harm's Way"/>
-<classSkill minLevel="38" skillId="1879064153" skillName="Tactic: Focus"/>
-<classSkill minLevel="40" skillId="1879064154" skillName="Command Respect"/>
-<classSkill minLevel="12" skillId="1879064080" skillName="Stallion's Spirit"/>
-<classSkill minLevel="12" skillId="1879064082" skillName="Eagle's Cry"/>
-<classSkill minLevel="12" skillId="1879064081" skillName="Ent's Strength (Melee)"/>
-<classSkill minLevel="12" skillId="1879064083" skillName="Spider's Guile (Melee)"/>
-<classSkill minLevel="22" skillId="1879089623" skillName="Inspire"/>
-<classSkill minLevel="22" skillId="1879089624" skillName="Shield-brother"/>
-<classSkill minLevel="40" skillId="1879091725" skillName="To Arms"/>
-<classSkill minLevel="44" skillId="1879091726" skillName="Kick"/>
-<classSkill minLevel="42" skillId="1879091727" skillName="Grave Wound"/>
-<classSkill minLevel="46" skillId="1879091728" skillName="Withdraw"/>
-<classSkill minLevel="48" skillId="1879093336" skillName="Strength of Will"/>
-<classSkill minLevel="50" skillId="1879091730" skillName="Time of Need"/>
-<classSkill minLevel="30" skillId="1879092634" skillName="Blade of Elendil"/>
-<initialGearElement itemId="1879064134" itemName="Leather Gauntlets"/>
-<initialGearElement itemId="1879064135" itemName="Leather Boots"/>
-<initialGearElement itemId="1879064136" itemName="Leather Jacket"/>
-<initialGearElement itemId="1879064137" itemName="Leather Leggings"/>
-<initialGearElement itemId="1879064138" itemName="Leather Shoulder Pads"/>
-<initialGearElement itemId="1879064139" itemName="Weak Mace"/>
+<classTrait minLevel="1" traitId="1879064086" traitName="Одноручные топоры"/>
+<classTrait minLevel="1" traitId="1879064087" traitName="Одноручные палицы"/>
+<classTrait minLevel="1" traitId="1879064088" traitName="Одноручные молоты"/>
+<classTrait minLevel="1" traitId="1879064089" traitName="Одноручные булавы"/>
+<classTrait minLevel="1" traitId="1879064090" traitName="Одноручные мечи"/>
+<classTrait minLevel="1" traitId="1879064099" traitName="Двуручные топоры"/>
+<classTrait minLevel="1" traitId="1879064155" traitName="Двуручные палицы"/>
+<classTrait minLevel="1" traitId="1879064100" traitName="Двуручные молоты"/>
+<classTrait minLevel="1" traitId="1879064101" traitName="Двуручные мечи"/>
+<classTrait minLevel="1" traitId="1879064091" traitName="Кинжалы"/>
+<classTrait minLevel="1" traitId="1879064093" traitName="Специальные инструменты"/>
+<classTrait minLevel="1" traitId="1879064094" traitName="Легкие доспехи"/>
+<classTrait minLevel="1" traitId="1879064095" traitName="Средние доспехи"/>
+<classTrait minLevel="5" traitId="1879064096" traitName="Использование рога"/>
+<classTrait minLevel="7" traitId="1879064156" traitName="Крит. урон в ближнем бою: ур. 1"/>
+<classTrait minLevel="9" traitId="1879064163" traitName="Парирование: уровень 1"/>
+<classTrait minLevel="10" traitId="1879064102" traitName="Копья"/>
+<classTrait minLevel="20" traitId="1879060258" traitName="Адепт"/>
+<classTrait minLevel="11" traitId="1879064158" traitName="Точность: уровень 1"/>
+<classTrait minLevel="13" traitId="1879064159" traitName="Уклонение: уровень 1"/>
+<classTrait minLevel="15" traitId="1879064160" traitName="Алебарды"/>
+<classTrait minLevel="15" traitId="1879064105" traitName="Щиты"/>
+<classTrait minLevel="15" traitId="1879064157" traitName="Блокирование: уровень 1"/>
+<classTrait minLevel="17" traitId="1879064162" traitName="Крит. урон в ближнем бою: ур. 2"/>
+<classTrait minLevel="19" traitId="1879064166" traitName="Парирование: уровень 2"/>
+<classTrait minLevel="20" traitId="1879064109" traitName="Тяжелые доспехи"/>
+<classTrait minLevel="20" traitId="1879076104" traitName="Снаряжение герольдов"/>
+<classTrait minLevel="10" traitId="1879060257" traitName="Путник"/>
+<classTrait minLevel="21" traitId="1879084084" traitName="Уклонение: уровень 2"/>
+<classTrait minLevel="23" traitId="1879064161" traitName="Блокирование: уровень 2"/>
+<classTrait minLevel="25" traitId="1879064169" traitName="Парирование: уровень 3"/>
+<classTrait minLevel="29" traitId="1879064168" traitName="Точность: уровень 2"/>
+<classTrait minLevel="30" traitId="1879060248" traitName="Знаменитость"/>
+<classTrait minLevel="33" traitId="1879064165" traitName="Блокирование: уровень 3"/>
+<classTrait minLevel="35" traitId="1879064170" traitName="Точность: уровень 3"/>
+<classTrait minLevel="39" traitId="1879064171" traitName="Точность: уровень 4"/>
+<classTrait minLevel="41" traitId="1879064172" traitName="Парирование: уровень 4"/>
+<classTrait minLevel="40" traitId="1879064173" traitName="Рог призыва"/>
+<classTrait minLevel="5" traitId="1879064210" traitName="Игра на лютне"/>
+<classSkill minLevel="1" skillId="1879060327" skillName="Боевой крик"/>
+<classSkill minLevel="1" skillId="1879060339" skillName="Защитный удар"/>
+<classSkill minLevel="1" skillId="1879060303" skillName="Вдохновляющий клич"/>
+<classSkill minLevel="2" skillId="1879060431" skillName="Разгромный удар"/>
+<classSkill minLevel="4" skillId="1879064140" skillName="Режущий удар"/>
+<classSkill minLevel="4" skillId="1879060312" skillName="Воинственный клич"/>
+<classSkill minLevel="6" skillId="1879064141" skillName="Указующая метка"/>
+<classSkill minLevel="8" skillId="1879060321" skillName="Грозный клич"/>
+<classSkill minLevel="8" skillId="1879064142" skillName="Спешка"/>
+<classSkill minLevel="10" skillId="1879060346" skillName="Под знамена: Герольд войны"/>
+<classSkill minLevel="10" skillId="1879064144" skillName="Теснящий удар"/>
+<classSkill minLevel="12" skillId="1879064143" skillName="Благородная метка"/>
+<classSkill minLevel="14" skillId="1879064145" skillName="Слова поддержки"/>
+<classSkill minLevel="16" skillId="1879060377" skillName="Речь о мужестве"/>
+<classSkill minLevel="16" skillId="1879064146" skillName="Вдохновенная речь"/>
+<classSkill minLevel="18" skillId="1879064147" skillName="Тактика: Защита"/>
+<classSkill minLevel="20" skillId="1879060293" skillName="Побег от Тьмы"/>
+<classSkill minLevel="22" skillId="1879064148" skillName="Последняя надежда"/>
+<classSkill minLevel="24" skillId="1879060399" skillName="Под знамена: Герольд надежды"/>
+<classSkill minLevel="26" skillId="1879060437" skillName="Устрашающий крик"/>
+<classSkill minLevel="28" skillId="1879064149" skillName="Тактика: Битва без устали"/>
+<classSkill minLevel="30" skillId="1879064150" skillName="Метка слабости"/>
+<classSkill minLevel="32" skillId="1879064151" skillName="Клич отмщения"/>
+<classSkill minLevel="34" skillId="1879060250" skillName="Под знамена: Герольд победы"/>
+<classSkill minLevel="36" skillId="1879064152" skillName="Наперерез врагам"/>
+<classSkill minLevel="38" skillId="1879064153" skillName="Тактика: Сосредоточенность"/>
+<classSkill minLevel="40" skillId="1879064154" skillName="Уважение к предводителю"/>
+<classSkill minLevel="12" skillId="1879064080" skillName="Дух жеребца"/>
+<classSkill minLevel="12" skillId="1879064082" skillName="Орлиный крик"/>
+<classSkill minLevel="12" skillId="1879064081" skillName="Сила энта (ближний бой)"/>
+<classSkill minLevel="12" skillId="1879064083" skillName="Коварство паука (ближний бой)"/>
+<classSkill minLevel="22" skillId="1879089623" skillName="Воодушевление"/>
+<classSkill minLevel="22" skillId="1879089624" skillName="Брат по щиту"/>
+<classSkill minLevel="40" skillId="1879091725" skillName="К оружию"/>
+<classSkill minLevel="44" skillId="1879091726" skillName="Пинок"/>
+<classSkill minLevel="42" skillId="1879091727" skillName="Серьезная рана"/>
+<classSkill minLevel="46" skillId="1879091728" skillName="Отход"/>
+<classSkill minLevel="48" skillId="1879093336" skillName="Сила воли"/>
+<classSkill minLevel="50" skillId="1879091730" skillName="Трудное положение"/>
+<classSkill minLevel="30" skillId="1879092634" skillName="Клинок Элендила"/>
+<initialGearElement itemId="1879064134" itemName="Кожаные рукавицы"/>
+<initialGearElement itemId="1879064135" itemName="Кожаные сапоги"/>
+<initialGearElement itemId="1879064136" itemName="Кожаная куртка"/>
+<initialGearElement itemId="1879064137" itemName="Кожаные штаны"/>
+<initialGearElement itemId="1879064138" itemName="Малые кожаные наплечники"/>
+<initialGearElement itemId="1879064139" itemName="Слабая булава"/>
 </class>
-<class key="Minstrel" iconId="1090552311" smallIconId="0" abbreviation="MNS" description="Minstrels are skilled at maintaining their companions' morale and stirring their hearts to perform greater feats of prowess. They ward against the forces of darkness and inspire their allies using their knowledge of ancient songs and lore.  &lt;li&gt;Role: Healer &lt;/li&gt; &lt;li&gt;The Minstrel is the master of maintaining the survivability of the heroes of Middle-earth.  Minstrels also are able to deal damage to their foes by using their damaging light-based attacks in the forms of songs of power. &lt;/li&gt;">
+<class key="Minstrel" iconId="1090552311" smallIconId="0" abbreviation="МНС" description="Менестрели искусно поддерживают боевой дух союзников и вселяют в их сердца храбрость, вдохновляя на подвиги. С помощью древних баллад и сказаний они сдерживают натиск сил Тьмы и помогают соратникам. &lt;li&gt;Роль: Исцеление&lt;/li&gt; &lt;li&gt;От менестреля часто зависит судьба братства, ведь он может излечить даже самые страшные раны. Кроме того, некоторые его песни способны наносить врагам урон Светом.&lt;/li&gt;">
 <proficiencies armourTypeForMitigations="LIGHT">
 <weapon type="DAGGER" level="1"/>
 <weapon type="ONE_HANDED_SWORD" level="1"/>
@@ -213,173 +213,173 @@
 <armour type="LIGHT" level="1"/>
 <armour type="SHIELD" level="20"/>
 </proficiencies>
-<classTrait minLevel="1" traitId="1879064093" traitName="Specialized Equipment"/>
-<classTrait minLevel="1" traitId="1879064091" traitName="Daggers"/>
-<classTrait minLevel="1" traitId="1879064090" traitName="One-Handed Swords"/>
-<classTrait minLevel="1" traitId="1879064089" traitName="One-Handed Maces"/>
-<classTrait minLevel="1" traitId="1879064087" traitName="One-Handed Clubs"/>
-<classTrait minLevel="1" traitId="1879064094" traitName="Light Armour"/>
-<classTrait minLevel="20" traitId="1879064105" traitName="Shields"/>
-<classTrait minLevel="20" traitId="1879060258" traitName="Adept"/>
-<classTrait minLevel="10" traitId="1879060257" traitName="Journeyman"/>
-<classTrait minLevel="30" traitId="1879060248" traitName="Master"/>
-<classTrait minLevel="1" traitId="1879064210" traitName="Lute Use"/>
-<classTrait minLevel="5" traitId="1879064096" traitName="Horn Use"/>
-<classTrait minLevel="5" traitId="1879064211" traitName="Clarinet Use"/>
-<classTrait minLevel="5" traitId="1879064212" traitName="Flute Use"/>
-<classTrait minLevel="5" traitId="1879064213" traitName="Harp Use"/>
-<classTrait minLevel="7" traitId="1879064214" traitName="Evade: Rank 1"/>
-<classTrait minLevel="25" traitId="1879064215" traitName="Evade: Rank 2"/>
-<classTrait minLevel="43" traitId="1879064216" traitName="Evade: Rank 3"/>
-<classTrait minLevel="21" traitId="1879064217" traitName="Block : Rank 1"/>
-<classTrait minLevel="33" traitId="1879064218" traitName="Block : Rank 2"/>
-<classTrait minLevel="37" traitId="1879064219" traitName="Block : Rank 3"/>
-<classTrait minLevel="41" traitId="1879064220" traitName="Block : Rank 4"/>
-<classTrait minLevel="11" traitId="1879064221" traitName="Accuracy: Rank 1"/>
-<classTrait minLevel="19" traitId="1879064222" traitName="Accuracy: Rank 2"/>
-<classTrait minLevel="31" traitId="1879064223" traitName="Accuracy: Rank 3"/>
-<classTrait minLevel="39" traitId="1879064224" traitName="Accuracy: Rank 4"/>
-<classTrait minLevel="15" traitId="1879064225" traitName="Melee Critical: Rank 1"/>
-<classTrait minLevel="23" traitId="1879064226" traitName="Melee Critical: Rank 2"/>
-<classTrait minLevel="29" traitId="1879064227" traitName="Melee Critical: Rank 3"/>
-<classTrait minLevel="35" traitId="1879064228" traitName="Melee Critical: Rank 4"/>
-<classTrait minLevel="9" traitId="1879064229" traitName="Parry: Rank 1"/>
-<classTrait minLevel="17" traitId="1879064230" traitName="Parry: Rank 2"/>
-<classTrait minLevel="27" traitId="1879064231" traitName="Parry: Rank 3"/>
-<classTrait minLevel="10" traitId="1879088470" traitName="Drum Use"/>
-<classTrait minLevel="15" traitId="1879088471" traitName="Theorbo Use"/>
-<classTrait minLevel="25" traitId="1879097466" traitName="Bagpipe Use"/>
-<classTrait minLevel="5" traitId="1879097468" traitName="Basic Cowbell Use"/>
-<classSkill minLevel="1" skillId="1879064186" skillName="Herald's Strike"/>
-<classSkill minLevel="1" skillId="1879064187" skillName="Raise the Spirit"/>
-<classSkill minLevel="1" skillId="1879064188" skillName="Ballad of Vigour"/>
-<classSkill minLevel="2" skillId="1879064189" skillName="Piercing Cry"/>
-<classSkill minLevel="4" skillId="1879064190" skillName="Ballad of Steel"/>
-<classSkill minLevel="4" skillId="1879064191" skillName="Ballad of Swiftness"/>
-<classSkill minLevel="6" skillId="1879060863" skillName="Ballad of War"/>
-<classSkill minLevel="8" skillId="1879060904" skillName="Ballad of Resonance"/>
-<classSkill minLevel="8" skillId="1879064192" skillName="Ballad of Unshakeable Will"/>
-<classSkill minLevel="10" skillId="1879064193" skillName="Inspire Fellows"/>
-<classSkill minLevel="12" skillId="1879064082" skillName="Eagle's Cry"/>
-<classSkill minLevel="12" skillId="1879064083" skillName="Spider's Guile (Melee)"/>
-<classSkill minLevel="12" skillId="1879064081" skillName="Ent's Strength (Melee)"/>
-<classSkill minLevel="12" skillId="1879064080" skillName="Stallion's Spirit"/>
-<classSkill minLevel="12" skillId="1879064194" skillName="Cry of the Valar"/>
-<classSkill minLevel="14" skillId="1879064195" skillName="Ballad of Balance"/>
-<classSkill minLevel="16" skillId="1879064196" skillName="Noble Cause"/>
-<classSkill minLevel="18" skillId="1879064197" skillName="Bolster Courage"/>
-<classSkill minLevel="18" skillId="1879064198" skillName="Song of Restoration"/>
-<classSkill minLevel="18" skillId="1879064199" skillName="Song of the Dead"/>
-<classSkill minLevel="20" skillId="1879064200" skillName="Anthem of the Free Peoples"/>
-<classSkill minLevel="20" skillId="1879060909" skillName="Enlivening Grace"/>
-<classSkill minLevel="22" skillId="1879064201" skillName="Tale of Heroism"/>
-<classSkill minLevel="24" skillId="1879064202" skillName="Anthem of Compassion"/>
-<classSkill minLevel="26" skillId="1879064203" skillName="Cure Fear"/>
-<classSkill minLevel="26" skillId="1879060914" skillName="Cry of the Chorus"/>
-<classSkill minLevel="28" skillId="1879060919" skillName="Song of Soothing"/>
-<classSkill minLevel="30" skillId="1879060876" skillName="Song of Aid"/>
-<classSkill minLevel="30" skillId="1879064204" skillName="Triumphant Spirit"/>
-<classSkill minLevel="32" skillId="1879064205" skillName="Ballad of Flame"/>
-<classSkill minLevel="34" skillId="1879064206" skillName="Song of Distraction"/>
-<classSkill minLevel="36" skillId="1879064207" skillName="Ballad of the Stout"/>
-<classSkill minLevel="38" skillId="1879064208" skillName="Still As Death"/>
-<classSkill minLevel="40" skillId="1879060868" skillName="Anthem of the Valar"/>
-<classSkill minLevel="42" skillId="1879064209" skillName="Lay of the Hammerhand"/>
-<classSkill minLevel="32" skillId="1879094881" skillName="Tale of Battle"/>
-<classSkill minLevel="44" skillId="1879094880" skillName="Tale of Warding"/>
-<classSkill minLevel="14" skillId="1879094935" skillName="Chant of the Oathbreaker"/>
-<classSkill minLevel="20" skillId="1879094937" skillName="War-speech"/>
-<classSkill minLevel="22" skillId="1879094938" skillName="Call to the Elder King"/>
-<classSkill minLevel="34" skillId="1879094939" skillName="Call of the Second Age"/>
-<classSkill minLevel="50" skillId="1879094940" skillName="Call to Greatness"/>
-<classSkill minLevel="46" skillId="1879094941" skillName="Call to the Fellowship"/>
-<classSkill minLevel="48" skillId="1879094942" skillName="Gift of the Hammerhand"/>
-<classSkill minLevel="38" skillId="1879096321" skillName="Chord of Salvation"/>
-<classSkill minLevel="50" skillId="1879096322" skillName="Irresistible Melody"/>
-<classSkill minLevel="30" skillId="1879096837" skillName="Scribe Stance"/>
-<classSkill minLevel="30" skillId="1879099275" skillName="Mentor : Horn"/>
-<classSkill minLevel="30" skillId="1879099271" skillName="Mentor : Clarinet"/>
-<classSkill minLevel="36" skillId="1879099272" skillName="Mentor : Cowbell"/>
-<initialGearElement itemId="1879064183" itemName="Quilted Shirt"/>
-<initialGearElement itemId="1879064184" itemName="Quilted Pants"/>
-<initialGearElement itemId="1879064185" itemName="Padded Shoes"/>
-<initialGearElement itemId="1879064139" itemName="Weak Mace"/>
+<classTrait minLevel="1" traitId="1879064093" traitName="Специальные инструменты"/>
+<classTrait minLevel="1" traitId="1879064091" traitName="Кинжалы"/>
+<classTrait minLevel="1" traitId="1879064090" traitName="Одноручные мечи"/>
+<classTrait minLevel="1" traitId="1879064089" traitName="Одноручные булавы"/>
+<classTrait minLevel="1" traitId="1879064087" traitName="Одноручные палицы"/>
+<classTrait minLevel="1" traitId="1879064094" traitName="Легкие доспехи"/>
+<classTrait minLevel="20" traitId="1879064105" traitName="Щиты"/>
+<classTrait minLevel="20" traitId="1879060258" traitName="Адепт"/>
+<classTrait minLevel="10" traitId="1879060257" traitName="Путник"/>
+<classTrait minLevel="30" traitId="1879060248" traitName="Знаменитость"/>
+<classTrait minLevel="1" traitId="1879064210" traitName="Игра на лютне"/>
+<classTrait minLevel="5" traitId="1879064096" traitName="Использование рога"/>
+<classTrait minLevel="5" traitId="1879064211" traitName="Игра на кларнете"/>
+<classTrait minLevel="5" traitId="1879064212" traitName="Игра на флейте"/>
+<classTrait minLevel="5" traitId="1879064213" traitName="Игра на арфе"/>
+<classTrait minLevel="7" traitId="1879064214" traitName="Уклонение: уровень 1"/>
+<classTrait minLevel="25" traitId="1879064215" traitName="Уклонение: уровень 2"/>
+<classTrait minLevel="43" traitId="1879064216" traitName="Уклонение: уровень 3"/>
+<classTrait minLevel="21" traitId="1879064217" traitName="Блокирование: уровень 1"/>
+<classTrait minLevel="33" traitId="1879064218" traitName="Блокирование: уровень 2"/>
+<classTrait minLevel="37" traitId="1879064219" traitName="Блокирование: уровень 3"/>
+<classTrait minLevel="41" traitId="1879064220" traitName="Блокирование: уровень 4"/>
+<classTrait minLevel="11" traitId="1879064221" traitName="Точность: уровень 1"/>
+<classTrait minLevel="19" traitId="1879064222" traitName="Точность: уровень 2"/>
+<classTrait minLevel="31" traitId="1879064223" traitName="Точность: уровень 3"/>
+<classTrait minLevel="39" traitId="1879064224" traitName="Точность: уровень 4"/>
+<classTrait minLevel="15" traitId="1879064225" traitName="Крит. урон в ближнем бою: ур. 1"/>
+<classTrait minLevel="23" traitId="1879064226" traitName="Крит. урон в ближнем бою: ур. 2"/>
+<classTrait minLevel="29" traitId="1879064227" traitName="Крит. урон в ближнем бою: ур. 3"/>
+<classTrait minLevel="35" traitId="1879064228" traitName="Крит. урон в ближнем бою: ур. 4"/>
+<classTrait minLevel="9" traitId="1879064229" traitName="Парирование: уровень 1"/>
+<classTrait minLevel="17" traitId="1879064230" traitName="Парирование: уровень 2"/>
+<classTrait minLevel="27" traitId="1879064231" traitName="Парирование: уровень 3"/>
+<classTrait minLevel="10" traitId="1879088470" traitName="Игра на барабане"/>
+<classTrait minLevel="15" traitId="1879088471" traitName="Игра на теорбе"/>
+<classTrait minLevel="25" traitId="1879097466" traitName="Игра на волынке"/>
+<classTrait minLevel="5" traitId="1879097468" traitName="Умение звонить в колокольчик"/>
+<classSkill minLevel="1" skillId="1879064186" skillName="Удар предвестника"/>
+<classSkill minLevel="1" skillId="1879064187" skillName="Душевный подъем"/>
+<classSkill minLevel="1" skillId="1879064188" skillName="Баллада о стойкости"/>
+<classSkill minLevel="2" skillId="1879064189" skillName="Пронзительный клич"/>
+<classSkill minLevel="4" skillId="1879064190" skillName="Баллада о стали"/>
+<classSkill minLevel="4" skillId="1879064191" skillName="Баллада о быстроте"/>
+<classSkill minLevel="6" skillId="1879060863" skillName="Баллада о войне"/>
+<classSkill minLevel="8" skillId="1879060904" skillName="Баллада резонанса"/>
+<classSkill minLevel="8" skillId="1879064192" skillName="Баллада о неколебимой воле"/>
+<classSkill minLevel="10" skillId="1879064193" skillName="Воодушевление союзников"/>
+<classSkill minLevel="12" skillId="1879064082" skillName="Орлиный крик"/>
+<classSkill minLevel="12" skillId="1879064083" skillName="Коварство паука (ближний бой)"/>
+<classSkill minLevel="12" skillId="1879064081" skillName="Сила энта (ближний бой)"/>
+<classSkill minLevel="12" skillId="1879064080" skillName="Дух жеребца"/>
+<classSkill minLevel="12" skillId="1879064194" skillName="Воззвание к Валар"/>
+<classSkill minLevel="14" skillId="1879064195" skillName="Баллада о равновесии"/>
+<classSkill minLevel="16" skillId="1879064196" skillName="Правое дело"/>
+<classSkill minLevel="18" skillId="1879064197" skillName="Воодушевление на подвиги"/>
+<classSkill minLevel="18" skillId="1879064198" skillName="Песня восстановления"/>
+<classSkill minLevel="18" skillId="1879064199" skillName="Песнь мертвых"/>
+<classSkill minLevel="20" skillId="1879064200" skillName="Гимн свободных народов"/>
+<classSkill minLevel="20" skillId="1879060909" skillName="Живительный напев"/>
+<classSkill minLevel="22" skillId="1879064201" skillName="Повесть о героизме"/>
+<classSkill minLevel="24" skillId="1879064202" skillName="Гимн сострадания"/>
+<classSkill minLevel="26" skillId="1879064203" skillName="Изгнание страха"/>
+<classSkill minLevel="26" skillId="1879060914" skillName="Незримый хор"/>
+<classSkill minLevel="28" skillId="1879060919" skillName="Песнь усмирения"/>
+<classSkill minLevel="30" skillId="1879060876" skillName="Песнь помощи"/>
+<classSkill minLevel="30" skillId="1879064204" skillName="Торжество духа"/>
+<classSkill minLevel="32" skillId="1879064205" skillName="Баллада о пламени"/>
+<classSkill minLevel="34" skillId="1879064206" skillName="Отвлекающая песня"/>
+<classSkill minLevel="36" skillId="1879064207" skillName="Баллада о мужестве"/>
+<classSkill minLevel="38" skillId="1879064208" skillName="Безмолвие смерти"/>
+<classSkill minLevel="40" skillId="1879060868" skillName="Гимн Валар"/>
+<classSkill minLevel="42" skillId="1879064209" skillName="Лэ о Молоторуком"/>
+<classSkill minLevel="32" skillId="1879094881" skillName="Повесть о битве"/>
+<classSkill minLevel="44" skillId="1879094880" skillName="Повесть о защите"/>
+<classSkill minLevel="14" skillId="1879094935" skillName="Песнь клятвопреступника"/>
+<classSkill minLevel="20" skillId="1879094937" skillName="Боевая речь"/>
+<classSkill minLevel="22" skillId="1879094938" skillName="Зов Древнего Короля"/>
+<classSkill minLevel="34" skillId="1879094939" skillName="Зов Второй эпохи"/>
+<classSkill minLevel="50" skillId="1879094940" skillName="Зов величия"/>
+<classSkill minLevel="46" skillId="1879094941" skillName="Призыв к братству"/>
+<classSkill minLevel="48" skillId="1879094942" skillName="Дар Молоторукого"/>
+<classSkill minLevel="38" skillId="1879096321" skillName="Спасительный аккорд"/>
+<classSkill minLevel="50" skillId="1879096322" skillName="Задорная мелодия"/>
+<classSkill minLevel="30" skillId="1879096837" skillName="Вдохновение писателя"/>
+<classSkill minLevel="30" skillId="1879099275" skillName="Наставник: Рог"/>
+<classSkill minLevel="30" skillId="1879099271" skillName="Наставник: Кларнет"/>
+<classSkill minLevel="36" skillId="1879099272" skillName="Наставник: Колокольчик"/>
+<initialGearElement itemId="1879064183" itemName="Прошитая рубаха"/>
+<initialGearElement itemId="1879064184" itemName="Прошитые штаны"/>
+<initialGearElement itemId="1879064185" itemName="Стеганые башмаки"/>
+<initialGearElement itemId="1879064139" itemName="Слабая булава"/>
 </class>
-<class key="Lore-master" iconId="1090552316" smallIconId="0" abbreviation="LRM" description="Lore-masters are seekers of knowledge and the guardians of wisdom. Their knowledge of ancient lore allows them to confuse and stun foes, as well as protect against the dark powers of the Enemy. Lore-masters are also capable of calling animals to their aid.  &lt;li&gt;Role: Crowd-Control / Pets &lt;/li&gt; &lt;li&gt;Lore-masters are the unparalleled masters of crowd-control, with the ability to trap creatures and keep them from hurting their allies. They have many skills that invoke the natural world of Middle-earth but it is draining on the will thus costing them morale to fuel some of these powerful skills. Because of this, they must rely on their pets to supplement their ability to take damage. &lt;/li&gt;">
+<class key="Lore-master" iconId="1090552316" smallIconId="0" abbreviation="ХРМ" description="Хранители мудрости стараются сохранить и преумножить древние знания. Вооружившись ими, они могут запутывать и оглушать противников или защищаться от темных козней Врага. Помимо этого, хранители мудрости знают языки зверей и способны призывать их на помощь. &lt;li&gt;Роль: Выведение врага из строя / Призыв спутников&lt;/li&gt; &lt;li&gt;Хранители мудрости прекрасно контролируют ход битвы с многочисленными врагами, временно выводя противников из строя и не давая им атаковать. Они взывают к силам природы Средиземья, но увы - воззвания эти истощают их волю и, временами, боевой дух. Потому-то хранители мудрости и призывают на помощь зверей, способных принять удар врага на себя.&lt;/li&gt;">
 <proficiencies armourTypeForMitigations="LIGHT">
 <weapon type="STAFF" level="1"/>
 <armour type="LIGHT" level="1"/>
 </proficiencies>
-<classTrait minLevel="1" traitId="1879064259" traitName="Two-Handed Staves"/>
-<classTrait minLevel="1" traitId="1879064093" traitName="Specialized Equipment"/>
-<classTrait minLevel="1" traitId="1879064094" traitName="Light Armour"/>
-<classTrait minLevel="5" traitId="1879064211" traitName="Clarinet Use"/>
-<classTrait minLevel="7" traitId="1879064260" traitName="Evade: Rank 1"/>
-<classTrait minLevel="9" traitId="1879064261" traitName="Parry: Rank 1"/>
-<classTrait minLevel="20" traitId="1879060258" traitName="Adept"/>
-<classTrait minLevel="11" traitId="1879064262" traitName="Accuracy: Rank 1"/>
-<classTrait minLevel="15" traitId="1879064263" traitName="Melee Critical: Rank 1"/>
-<classTrait minLevel="17" traitId="1879064264" traitName="Parry: Rank 2"/>
-<classTrait minLevel="19" traitId="1879064265" traitName="Accuracy: Rank 2"/>
-<classTrait minLevel="20" traitId="1879076067" traitName="Books of Lore"/>
-<classTrait minLevel="10" traitId="1879060257" traitName="Journeyman"/>
-<classTrait minLevel="23" traitId="1879064267" traitName="Melee Critical: Rank 2"/>
-<classTrait minLevel="25" traitId="1879064268" traitName="Evade: Rank 2"/>
-<classTrait minLevel="27" traitId="1879064269" traitName="Parry: Rank 3"/>
-<classTrait minLevel="30" traitId="1879060248" traitName="Master"/>
-<classTrait minLevel="31" traitId="1879064271" traitName="Accuracy: Rank 3"/>
-<classTrait minLevel="39" traitId="1879064273" traitName="Accuracy: Rank 4"/>
-<classTrait minLevel="43" traitId="1879064274" traitName="Evade: Rank 3"/>
-<classTrait minLevel="5" traitId="1879064210" traitName="Lute Use"/>
-<classSkill minLevel="10" skillId="1879060818" skillName="Blinding Flash"/>
-<classSkill minLevel="1" skillId="1879064244" skillName="Burning Embers"/>
-<classSkill minLevel="4" skillId="1879064245" skillName="Raven-lore"/>
-<classSkill minLevel="4" skillId="1879060771" skillName="Beacon of Hope"/>
-<classSkill minLevel="6" skillId="1879060758" skillName="Power of Knowledge"/>
-<classSkill minLevel="16" skillId="1879064246" skillName="Inner Flame"/>
-<classSkill minLevel="12" skillId="1879064247" skillName="Gust of Wind"/>
-<classSkill minLevel="16" skillId="1879060824" skillName="Tend the Sick"/>
-<classSkill minLevel="14" skillId="1879064248" skillName="Friend of Bears"/>
-<classSkill minLevel="24" skillId="1879060843" skillName="Share the Power"/>
-<classSkill minLevel="22" skillId="1879060803" skillName="Cracked Earth"/>
-<classSkill minLevel="26" skillId="1879064249" skillName="Test of Will"/>
-<classSkill minLevel="30" skillId="1879060831" skillName="Ancient Wisdom"/>
-<classSkill minLevel="10" skillId="1879060786" skillName="Leechcraft"/>
-<classSkill minLevel="12" skillId="1879064083" skillName="Spider's Guile (Melee)"/>
-<classSkill minLevel="12" skillId="1879064082" skillName="Eagle's Cry"/>
-<classSkill minLevel="12" skillId="1879064080" skillName="Stallion's Spirit"/>
-<classSkill minLevel="18" skillId="1879094797" skillName="Bane Flare"/>
-<classSkill minLevel="14" skillId="1879064250" skillName="Sign of Power: Wizardry"/>
-<classSkill minLevel="1" skillId="1879060749" skillName="Staff-strike"/>
-<classSkill minLevel="1" skillId="1879064251" skillName="Sign of Power: Command"/>
-<classSkill minLevel="6" skillId="1879060779" skillName="Sign of the Wild: Protection"/>
-<classSkill minLevel="28" skillId="1879064252" skillName="Sign of Power: Righteousness"/>
-<classSkill minLevel="32" skillId="1879064253" skillName="Sign of Power: Vigilance"/>
-<classSkill minLevel="8" skillId="1879060793" skillName="Sign of the Wild: Rage"/>
-<classSkill minLevel="2" skillId="1879064254" skillName="Fire-lore"/>
-<classSkill minLevel="8" skillId="1879064255" skillName="Wind-lore"/>
-<classSkill minLevel="36" skillId="1879064256" skillName="Herb-lore"/>
-<classSkill minLevel="12" skillId="1879064081" skillName="Ent's Strength (Melee)"/>
-<classSkill minLevel="34" skillId="1879064257" skillName="Call to the Valar"/>
-<classSkill minLevel="20" skillId="1879060811" skillName="Wisdom of the Council"/>
-<classSkill minLevel="18" skillId="1879064258" skillName="Light of the Rising Dawn"/>
-<classSkill minLevel="28" skillId="1879094821" skillName="Warding Knowledge: Dead"/>
-<classSkill minLevel="38" skillId="1879094819" skillName="Warding Knowledge: Creatures of Nature"/>
-<classSkill minLevel="40" skillId="1879094820" skillName="Warding Knowledge: Drakes"/>
-<classSkill minLevel="42" skillId="1879094823" skillName="Ancient Craft"/>
-<classSkill minLevel="46" skillId="1879094827" skillName="Sticky Tar"/>
-<classSkill minLevel="48" skillId="1879094844" skillName="Storm-lore"/>
-<classSkill minLevel="50" skillId="1879095078" skillName="Lightning Storm"/>
-<classSkill minLevel="44" skillId="1879095468" skillName="Air-lore"/>
-<classSkill minLevel="30" skillId="1879095507" skillName="Lynx-speech"/>
-<classSkill minLevel="32" skillId="1879097282" skillName="Back from the Brink"/>
-<classSkill minLevel="20" skillId="1879098760" skillName="Knowledge of the Lore-master"/>
-<initialGearElement itemId="1879064240" itemName="Robe"/>
-<initialGearElement itemId="1879064241" itemName="Quilted Leggings"/>
-<initialGearElement itemId="1879064242" itemName="Padded Shoes"/>
-<initialGearElement itemId="1879064243" itemName="Simple Staff"/>
+<classTrait minLevel="1" traitId="1879064259" traitName="Двуручные посохи"/>
+<classTrait minLevel="1" traitId="1879064093" traitName="Специальные инструменты"/>
+<classTrait minLevel="1" traitId="1879064094" traitName="Легкие доспехи"/>
+<classTrait minLevel="5" traitId="1879064211" traitName="Игра на кларнете"/>
+<classTrait minLevel="7" traitId="1879064260" traitName="Уклонение: уровень 1"/>
+<classTrait minLevel="9" traitId="1879064261" traitName="Парирование: уровень 1"/>
+<classTrait minLevel="20" traitId="1879060258" traitName="Адепт"/>
+<classTrait minLevel="11" traitId="1879064262" traitName="Точность: уровень 1"/>
+<classTrait minLevel="15" traitId="1879064263" traitName="Крит. урон в ближнем бою: ур. 1"/>
+<classTrait minLevel="17" traitId="1879064264" traitName="Парирование: уровень 2"/>
+<classTrait minLevel="19" traitId="1879064265" traitName="Точность: уровень 2"/>
+<classTrait minLevel="20" traitId="1879076067" traitName="Ученые книги"/>
+<classTrait minLevel="10" traitId="1879060257" traitName="Путник"/>
+<classTrait minLevel="23" traitId="1879064267" traitName="Крит. урон в ближнем бою: ур. 2"/>
+<classTrait minLevel="25" traitId="1879064268" traitName="Уклонение: уровень 2"/>
+<classTrait minLevel="27" traitId="1879064269" traitName="Парирование: уровень 3"/>
+<classTrait minLevel="30" traitId="1879060248" traitName="Знаменитость"/>
+<classTrait minLevel="31" traitId="1879064271" traitName="Точность: уровень 3"/>
+<classTrait minLevel="39" traitId="1879064273" traitName="Точность: уровень 4"/>
+<classTrait minLevel="43" traitId="1879064274" traitName="Уклонение: уровень 3"/>
+<classTrait minLevel="5" traitId="1879064210" traitName="Игра на лютне"/>
+<classSkill minLevel="10" skillId="1879060818" skillName="Ослепительная вспышка"/>
+<classSkill minLevel="1" skillId="1879064244" skillName="Пылающие угли"/>
+<classSkill minLevel="4" skillId="1879064245" skillName="Язык воронов"/>
+<classSkill minLevel="4" skillId="1879060771" skillName="Маяк надежды"/>
+<classSkill minLevel="6" skillId="1879060758" skillName="Власть знаний"/>
+<classSkill minLevel="16" skillId="1879064246" skillName="Внутренний огонь"/>
+<classSkill minLevel="12" skillId="1879064247" skillName="Воздушный вихрь"/>
+<classSkill minLevel="16" skillId="1879060824" skillName="Лечение болезней"/>
+<classSkill minLevel="14" skillId="1879064248" skillName="Друг медведей"/>
+<classSkill minLevel="24" skillId="1879060843" skillName="Разделенная энергия"/>
+<classSkill minLevel="22" skillId="1879060803" skillName="Расколотая земля"/>
+<classSkill minLevel="26" skillId="1879064249" skillName="Испытание воли"/>
+<classSkill minLevel="30" skillId="1879060831" skillName="Древняя мудрость"/>
+<classSkill minLevel="10" skillId="1879060786" skillName="Лекарские знания"/>
+<classSkill minLevel="12" skillId="1879064083" skillName="Коварство паука (ближний бой)"/>
+<classSkill minLevel="12" skillId="1879064082" skillName="Орлиный крик"/>
+<classSkill minLevel="12" skillId="1879064080" skillName="Дух жеребца"/>
+<classSkill minLevel="18" skillId="1879094797" skillName="Изгоняющая вспышка"/>
+<classSkill minLevel="14" skillId="1879064250" skillName="Знак силы: Волшебство"/>
+<classSkill minLevel="1" skillId="1879060749" skillName="Удар посохом"/>
+<classSkill minLevel="1" skillId="1879064251" skillName="Знак силы: Приказ"/>
+<classSkill minLevel="6" skillId="1879060779" skillName="Знак природы: Защита"/>
+<classSkill minLevel="28" skillId="1879064252" skillName="Знак силы: Справедливость"/>
+<classSkill minLevel="32" skillId="1879064253" skillName="Знак силы: Бдительность"/>
+<classSkill minLevel="8" skillId="1879060793" skillName="Знак природы: Ярость"/>
+<classSkill minLevel="2" skillId="1879064254" skillName="Власть над огнем"/>
+<classSkill minLevel="8" skillId="1879064255" skillName="Власть над ветром"/>
+<classSkill minLevel="36" skillId="1879064256" skillName="Власть над травами"/>
+<classSkill minLevel="12" skillId="1879064081" skillName="Сила энта (ближний бой)"/>
+<classSkill minLevel="34" skillId="1879064257" skillName="Воззвание к Валар"/>
+<classSkill minLevel="20" skillId="1879060811" skillName="Мудрость Совета"/>
+<classSkill minLevel="18" skillId="1879064258" skillName="Свет восходящей зари"/>
+<classSkill minLevel="28" skillId="1879094821" skillName="Оберег защиты: Нежить"/>
+<classSkill minLevel="38" skillId="1879094819" skillName="Оберег защиты: Создания природы"/>
+<classSkill minLevel="40" skillId="1879094820" skillName="Оберег защиты: дракониды"/>
+<classSkill minLevel="42" skillId="1879094823" skillName="Древнее ремесло"/>
+<classSkill minLevel="46" skillId="1879094827" skillName="Липкая смола"/>
+<classSkill minLevel="48" skillId="1879094844" skillName="Власть над громом"/>
+<classSkill minLevel="50" skillId="1879095078" skillName="Грозовая буря"/>
+<classSkill minLevel="44" skillId="1879095468" skillName="Власть над воздухом"/>
+<classSkill minLevel="30" skillId="1879095507" skillName="Язык рысей"/>
+<classSkill minLevel="32" skillId="1879097282" skillName="Спасение на краю гибели"/>
+<classSkill minLevel="20" skillId="1879098760" skillName="Знание хранителя мудрости"/>
+<initialGearElement itemId="1879064240" itemName="Мантия"/>
+<initialGearElement itemId="1879064241" itemName="Прошитые штаны"/>
+<initialGearElement itemId="1879064242" itemName="Стеганые башмаки"/>
+<initialGearElement itemId="1879064243" itemName="Простой посох"/>
 </class>
-<class key="Guardian" iconId="1090552319" smallIconId="0" abbreviation="GRD" description="The Guardians are protectors of the weak and defenders of those in need. They are capable of withstanding mighty blows and retaliating in kind. True Guardians stand to the forefront of battle, shielding their allies from enemy assaults.  &lt;li&gt;Role: Tank &lt;/li&gt; &lt;li&gt;The Guardian's ability to wear heavy armour and defensive skills enable the Guardian to face creatures that would make other heroes' morale fail. Guardians also have the ability to draw foes' attention away from their allies and to themselves. &lt;/li&gt;">
+<class key="Guardian" iconId="1090552319" smallIconId="0" abbreviation="СТР" description="Стражи - защитники слабых и обиженных. Они способны выдерживать сильнейшие удары и давать противнику достойный отпор. Истинный страж всегда находится в первых рядах сражения, живым щитом заслоняя соратников от вражеских атак. &lt;li&gt;Роль: Танк&lt;/li&gt; &lt;li&gt;Тяжелые доспехи и великолепные навыки защиты позволяют стражу биться с чудовищами, при виде которых иной герой пал бы духом. Кроме того, стражи могут отвлекать внимание врагов на себя.&lt;/li&gt;">
 <proficiencies armourTypeForMitigations="HEAVY">
 <weapon type="ONE_HANDED_AXE" level="1"/>
 <weapon type="ONE_HANDED_CLUB" level="1"/>
@@ -400,84 +400,84 @@
 <armour type="MEDIUM" level="1"/>
 <armour type="SHIELD" level="1"/>
 </proficiencies>
-<classTrait minLevel="1" traitId="1879064086" traitName="One-Handed Axes"/>
-<classTrait minLevel="1" traitId="1879064087" traitName="One-Handed Clubs"/>
-<classTrait minLevel="1" traitId="1879064088" traitName="One-Handed Hammers"/>
-<classTrait minLevel="1" traitId="1879064089" traitName="One-Handed Maces"/>
-<classTrait minLevel="1" traitId="1879064090" traitName="One-Handed Swords"/>
-<classTrait minLevel="10" traitId="1879064099" traitName="Two-Handed Axes"/>
-<classTrait minLevel="10" traitId="1879064155" traitName="Two-Handed Clubs"/>
-<classTrait minLevel="10" traitId="1879064100" traitName="Two-Handed Hammers"/>
-<classTrait minLevel="10" traitId="1879064101" traitName="Two-Handed Swords"/>
-<classTrait minLevel="30" traitId="1879064108" traitName="Bows"/>
-<classTrait minLevel="5" traitId="1879064096" traitName="Horn Use"/>
-<classTrait minLevel="30" traitId="1879064298" traitName="Crossbows"/>
-<classTrait minLevel="1" traitId="1879064091" traitName="Daggers"/>
-<classTrait minLevel="15" traitId="1879064109" traitName="Heavy Armour"/>
-<classTrait minLevel="15" traitId="1879064299" traitName="Heavy Shields"/>
-<classTrait minLevel="20" traitId="1879060116" traitName="Shield Spike Use"/>
-<classTrait minLevel="1" traitId="1879064094" traitName="Light Armour"/>
-<classTrait minLevel="1" traitId="1879064095" traitName="Medium Armour"/>
-<classTrait minLevel="1" traitId="1879064105" traitName="Shields"/>
-<classTrait minLevel="10" traitId="1879064102" traitName="Spear"/>
-<classTrait minLevel="11" traitId="1879064300" traitName="Accuracy: Rank 1"/>
-<classTrait minLevel="23" traitId="1879064301" traitName="Accuracy: Rank 2"/>
-<classTrait minLevel="29" traitId="1879064302" traitName="Accuracy: Rank 3"/>
-<classTrait minLevel="41" traitId="1879064303" traitName="Accuracy: Rank 4"/>
-<classTrait minLevel="7" traitId="1879064304" traitName="Block : Rank 1"/>
-<classTrait minLevel="17" traitId="1879064305" traitName="Block : Rank 2"/>
-<classTrait minLevel="35" traitId="1879064306" traitName="Block : Rank 3"/>
-<classTrait minLevel="43" traitId="1879064307" traitName="Block : Rank 4"/>
-<classTrait minLevel="13" traitId="1879064308" traitName="Melee Critical: Rank 1"/>
-<classTrait minLevel="25" traitId="1879064309" traitName="Melee Critical: Rank 2"/>
-<classTrait minLevel="19" traitId="1879064312" traitName="Evade: Rank 1"/>
-<classTrait minLevel="31" traitId="1879064313" traitName="Evade: Rank 2"/>
-<classTrait minLevel="9" traitId="1879064314" traitName="Parry: Rank 1"/>
-<classTrait minLevel="21" traitId="1879064315" traitName="Parry: Rank 2"/>
-<classTrait minLevel="33" traitId="1879064316" traitName="Parry: Rank 3"/>
-<classTrait minLevel="39" traitId="1879064317" traitName="Parry: Rank 4"/>
-<classTrait minLevel="20" traitId="1879060258" traitName="Adept"/>
-<classTrait minLevel="10" traitId="1879060257" traitName="Journeyman"/>
-<classTrait minLevel="30" traitId="1879060248" traitName="Master"/>
-<classTrait minLevel="1" traitId="1879064093" traitName="Specialized Equipment"/>
-<classTrait minLevel="5" traitId="1879064210" traitName="Lute Use"/>
-<classSkill minLevel="1" skillId="1879060582" skillName="Guardian's Ward"/>
-<classSkill minLevel="1" skillId="1879060591" skillName="Shield-blow"/>
-<classSkill minLevel="1" skillId="1879060568" skillName="Sting"/>
-<classSkill minLevel="2" skillId="1879064286" skillName="Sweeping Cut"/>
-<classSkill minLevel="4" skillId="1879064287" skillName="Guardian's Defence"/>
-<classSkill minLevel="4" skillId="1879060573" skillName="Shield-swipe"/>
-<classSkill minLevel="6" skillId="1879060618" skillName="Vexing Blow"/>
-<classSkill minLevel="8" skillId="1879064288" skillName="Retaliation"/>
-<classSkill minLevel="10" skillId="1879064289" skillName="Bash"/>
-<classSkill minLevel="10" skillId="1879064290" skillName="Overwhelm"/>
-<classSkill minLevel="12" skillId="1879064291" skillName="Guardian's Parry"/>
-<classSkill minLevel="14" skillId="1879064292" skillName="Whirling Retaliation"/>
-<classSkill minLevel="16" skillId="1879060605" skillName="Catch a Breath"/>
-<classSkill minLevel="18" skillId="1879064293" skillName="Thrust"/>
-<classSkill minLevel="20" skillId="1879060644" skillName="Guardian's Pledge"/>
-<classSkill minLevel="22" skillId="1879064294" skillName="Shield-taunt"/>
-<classSkill minLevel="24" skillId="1879060634" skillName="Protection"/>
-<classSkill minLevel="26" skillId="1879060631" skillName="Challenge"/>
-<classSkill minLevel="28" skillId="1879060660" skillName="Thrill of Danger"/>
-<classSkill minLevel="30" skillId="1879060652" skillName="Warrior's Heart"/>
-<classSkill minLevel="32" skillId="1879064295" skillName="Stamp"/>
-<classSkill minLevel="34" skillId="1879060648" skillName="Deep Breath"/>
-<classSkill minLevel="36" skillId="1879064296" skillName="Turn the Tables"/>
-<classSkill minLevel="30" skillId="1879064084" skillName="Shoot"/>
-<classSkill minLevel="12" skillId="1879064081" skillName="Ent's Strength (Melee)"/>
-<classSkill minLevel="12" skillId="1879064083" skillName="Spider's Guile (Melee)"/>
-<classSkill minLevel="12" skillId="1879064082" skillName="Eagle's Cry"/>
-<classSkill minLevel="12" skillId="1879064080" skillName="Stallion's Spirit"/>
-<classSkill minLevel="38" skillId="1879064297" skillName="Guardian's Promise"/>
-<initialGearElement itemId="1879064281" itemName="Quilted Leggings"/>
-<initialGearElement itemId="1879064282" itemName="Leather Boots"/>
-<initialGearElement itemId="1879064283" itemName="Leather Shirt"/>
-<initialGearElement itemId="1879064284" itemName="Leather Shoulder Guards"/>
-<initialGearElement itemId="1879064285" itemName="Leather Gauntlets"/>
-<initialGearElement itemId="1879064139" itemName="Weak Mace"/>
+<classTrait minLevel="1" traitId="1879064086" traitName="Одноручные топоры"/>
+<classTrait minLevel="1" traitId="1879064087" traitName="Одноручные палицы"/>
+<classTrait minLevel="1" traitId="1879064088" traitName="Одноручные молоты"/>
+<classTrait minLevel="1" traitId="1879064089" traitName="Одноручные булавы"/>
+<classTrait minLevel="1" traitId="1879064090" traitName="Одноручные мечи"/>
+<classTrait minLevel="10" traitId="1879064099" traitName="Двуручные топоры"/>
+<classTrait minLevel="10" traitId="1879064155" traitName="Двуручные палицы"/>
+<classTrait minLevel="10" traitId="1879064100" traitName="Двуручные молоты"/>
+<classTrait minLevel="10" traitId="1879064101" traitName="Двуручные мечи"/>
+<classTrait minLevel="30" traitId="1879064108" traitName="Луки"/>
+<classTrait minLevel="5" traitId="1879064096" traitName="Использование рога"/>
+<classTrait minLevel="30" traitId="1879064298" traitName="Арбалеты"/>
+<classTrait minLevel="1" traitId="1879064091" traitName="Кинжалы"/>
+<classTrait minLevel="15" traitId="1879064109" traitName="Тяжелые доспехи"/>
+<classTrait minLevel="15" traitId="1879064299" traitName="Тяжелые щиты"/>
+<classTrait minLevel="20" traitId="1879060116" traitName="Использование шипов для щита"/>
+<classTrait minLevel="1" traitId="1879064094" traitName="Легкие доспехи"/>
+<classTrait minLevel="1" traitId="1879064095" traitName="Средние доспехи"/>
+<classTrait minLevel="1" traitId="1879064105" traitName="Щиты"/>
+<classTrait minLevel="10" traitId="1879064102" traitName="Копья"/>
+<classTrait minLevel="11" traitId="1879064300" traitName="Точность: уровень 1"/>
+<classTrait minLevel="23" traitId="1879064301" traitName="Точность: уровень 2"/>
+<classTrait minLevel="29" traitId="1879064302" traitName="Точность: уровень 3"/>
+<classTrait minLevel="41" traitId="1879064303" traitName="Точность: уровень 4"/>
+<classTrait minLevel="7" traitId="1879064304" traitName="Блокирование: уровень 1"/>
+<classTrait minLevel="17" traitId="1879064305" traitName="Блокирование: уровень 2"/>
+<classTrait minLevel="35" traitId="1879064306" traitName="Блокирование: уровень 3"/>
+<classTrait minLevel="43" traitId="1879064307" traitName="Блокирование: уровень 4"/>
+<classTrait minLevel="13" traitId="1879064308" traitName="Крит. урон в ближнем бою: ур. 1"/>
+<classTrait minLevel="25" traitId="1879064309" traitName="Крит. урон в ближнем бою: ур. 2"/>
+<classTrait minLevel="19" traitId="1879064312" traitName="Уклонение: уровень 1"/>
+<classTrait minLevel="31" traitId="1879064313" traitName="Уклонение: уровень 2"/>
+<classTrait minLevel="9" traitId="1879064314" traitName="Парирование: уровень 1"/>
+<classTrait minLevel="21" traitId="1879064315" traitName="Парирование: уровень 2"/>
+<classTrait minLevel="33" traitId="1879064316" traitName="Парирование: уровень 3"/>
+<classTrait minLevel="39" traitId="1879064317" traitName="Парирование: уровень 4"/>
+<classTrait minLevel="20" traitId="1879060258" traitName="Адепт"/>
+<classTrait minLevel="10" traitId="1879060257" traitName="Путник"/>
+<classTrait minLevel="30" traitId="1879060248" traitName="Знаменитость"/>
+<classTrait minLevel="1" traitId="1879064093" traitName="Специальные инструменты"/>
+<classTrait minLevel="5" traitId="1879064210" traitName="Игра на лютне"/>
+<classSkill minLevel="1" skillId="1879060582" skillName="Оберег стража"/>
+<classSkill minLevel="1" skillId="1879060591" skillName="Удар щитом"/>
+<classSkill minLevel="1" skillId="1879060568" skillName="Укол"/>
+<classSkill minLevel="2" skillId="1879064286" skillName="Мельница"/>
+<classSkill minLevel="4" skillId="1879064287" skillName="Защита стража"/>
+<classSkill minLevel="4" skillId="1879060573" skillName="Щит и меч"/>
+<classSkill minLevel="6" skillId="1879060618" skillName="Удар по самолюбию"/>
+<classSkill minLevel="8" skillId="1879064288" skillName="Возмездие"/>
+<classSkill minLevel="10" skillId="1879064289" skillName="Оглушающий щит"/>
+<classSkill minLevel="10" skillId="1879064290" skillName="Сокрушительный удар"/>
+<classSkill minLevel="12" skillId="1879064291" skillName="Парирование стража"/>
+<classSkill minLevel="14" skillId="1879064292" skillName="Вихрь возмездия"/>
+<classSkill minLevel="16" skillId="1879060605" skillName="Передышка"/>
+<classSkill minLevel="18" skillId="1879064293" skillName="Выпад"/>
+<classSkill minLevel="20" skillId="1879060644" skillName="Обет стража"/>
+<classSkill minLevel="22" skillId="1879064294" skillName="Насмешка стража"/>
+<classSkill minLevel="24" skillId="1879060634" skillName="Защита"/>
+<classSkill minLevel="26" skillId="1879060631" skillName="Вызов"/>
+<classSkill minLevel="28" skillId="1879060660" skillName="Наслаждение опасностью"/>
+<classSkill minLevel="30" skillId="1879060652" skillName="Сердце воина"/>
+<classSkill minLevel="32" skillId="1879064295" skillName="Удар в землю"/>
+<classSkill minLevel="34" skillId="1879060648" skillName="Глубокий вдох"/>
+<classSkill minLevel="36" skillId="1879064296" skillName="Обмен ролями"/>
+<classSkill minLevel="30" skillId="1879064084" skillName="Стрельба"/>
+<classSkill minLevel="12" skillId="1879064081" skillName="Сила энта (ближний бой)"/>
+<classSkill minLevel="12" skillId="1879064083" skillName="Коварство паука (ближний бой)"/>
+<classSkill minLevel="12" skillId="1879064082" skillName="Орлиный крик"/>
+<classSkill minLevel="12" skillId="1879064080" skillName="Дух жеребца"/>
+<classSkill minLevel="38" skillId="1879064297" skillName="Обещание стража"/>
+<initialGearElement itemId="1879064281" itemName="Прошитые штаны"/>
+<initialGearElement itemId="1879064282" itemName="Кожаные сапоги"/>
+<initialGearElement itemId="1879064283" itemName="Кожаная рубаха"/>
+<initialGearElement itemId="1879064284" itemName="Кожаные наплечники"/>
+<initialGearElement itemId="1879064285" itemName="Кожаные рукавицы"/>
+<initialGearElement itemId="1879064139" itemName="Слабая булава"/>
 </class>
-<class key="Burglar" iconId="1090551431" smallIconId="0" abbreviation="BUR" description="Burglars are masters of stealth and misdirection. They are able to confound their foes with a variety of clever and debilitating tricks. Burglars' sleight-of-hand and startling attacks allow their companions to overwhelm adversaries. &lt;li&gt;Role: Debuffer &lt;/li&gt; &lt;li&gt;The Burglar's role is to rob monsters of the ability to deal damage and attack at full strength.  As the only class that can reliably initiate fellowship manoeuvres (high-yield group-based attacks), its role in groups is a coveted one.  &lt;/li&gt;">
+<class key="Burglar" iconId="1090551431" smallIconId="0" abbreviation="ВЗЛ" description="Взломщики - мастера скрытности и обмана. У них всегда наготове множество коварных уловок. Они могут ошеломить противника ловким и неожиданным приемом, обеспечив союзникам необходимое преимущество. &lt;li&gt;Роль: Ослабление врагов&lt;/li&gt; &lt;li&gt;Главная задача взломщика - лишить врага возможности сражаться в полную силу. Это единственный класс, который может с высокой долей вероятности начинать комбо-приемы - мощные групповые атаки - а потому ему будет радо любое братство.&lt;/li&gt;">
 <proficiencies armourTypeForMitigations="MEDIUM">
 <weapon type="ONE_HANDED_MACE" level="1"/>
 <weapon type="ONE_HANDED_SWORD" level="1"/>
@@ -485,74 +485,74 @@
 <armour type="LIGHT" level="1"/>
 <armour type="MEDIUM" level="10"/>
 </proficiencies>
-<classTrait minLevel="1" traitId="1879064089" traitName="One-Handed Maces"/>
-<classTrait minLevel="1" traitId="1879064090" traitName="One-Handed Swords"/>
-<classTrait minLevel="5" traitId="1879064211" traitName="Clarinet Use"/>
-<classTrait minLevel="1" traitId="1879064091" traitName="Daggers"/>
-<classTrait minLevel="10" traitId="1879064092" traitName="Dual Wielding"/>
-<classTrait minLevel="20" traitId="1879076061" traitName="Tools of the Trade"/>
-<classTrait minLevel="1" traitId="1879064094" traitName="Light Armour"/>
-<classTrait minLevel="10" traitId="1879064095" traitName="Medium Armour"/>
-<classTrait minLevel="11" traitId="1879064344" traitName="Accuracy: Rank 1"/>
-<classTrait minLevel="19" traitId="1879064345" traitName="Accuracy: Rank 2"/>
-<classTrait minLevel="25" traitId="1879064346" traitName="Accuracy: Rank 3"/>
-<classTrait minLevel="37" traitId="1879064347" traitName="Accuracy: Rank 4"/>
-<classTrait minLevel="9" traitId="1879064348" traitName="Melee Critical: Rank 1"/>
-<classTrait minLevel="23" traitId="1879064349" traitName="Melee Critical: Rank 2"/>
-<classTrait minLevel="29" traitId="1879064350" traitName="Melee Critical: Rank 3"/>
-<classTrait minLevel="31" traitId="1879064351" traitName="Melee Critical: Rank 4"/>
-<classTrait minLevel="5" traitId="1879064352" traitName="Evade: Rank 1"/>
-<classTrait minLevel="13" traitId="1879064353" traitName="Evade: Rank 2"/>
-<classTrait minLevel="27" traitId="1879064354" traitName="Evade: Rank 3"/>
-<classTrait minLevel="33" traitId="1879064355" traitName="Evade: Rank 4"/>
-<classTrait minLevel="7" traitId="1879064356" traitName="Parry: Rank 1"/>
-<classTrait minLevel="15" traitId="1879064357" traitName="Parry: Rank 2"/>
-<classTrait minLevel="21" traitId="1879064358" traitName="Parry: Rank 3"/>
-<classTrait minLevel="41" traitId="1879064359" traitName="Parry: Rank 4"/>
-<classTrait minLevel="20" traitId="1879060258" traitName="Adept"/>
-<classTrait minLevel="10" traitId="1879060257" traitName="Journeyman"/>
-<classTrait minLevel="30" traitId="1879060248" traitName="Master"/>
-<classTrait minLevel="20" traitId="1879076057" traitName="Clever Devices"/>
-<classTrait minLevel="1" traitId="1879064093" traitName="Specialized Equipment"/>
-<classTrait minLevel="5" traitId="1879064210" traitName="Lute Use"/>
-<classSkill minLevel="4" skillId="1879061010" skillName="Sneak"/>
-<classSkill minLevel="18" skillId="1879060981" skillName="Diversion"/>
-<classSkill minLevel="28" skillId="1879064327" skillName="Trip"/>
-<classSkill minLevel="1" skillId="1879064328" skillName="Surprise Strike"/>
-<classSkill minLevel="1" skillId="1879064329" skillName="Cunning Attack"/>
-<classSkill minLevel="34" skillId="1879064330" skillName="Provoke"/>
-<classSkill minLevel="12" skillId="1879060961" skillName="Aim"/>
-<classSkill minLevel="1" skillId="1879060947" skillName="Subtle Stab"/>
-<classSkill minLevel="4" skillId="1879064331" skillName="Burglar's Advantage"/>
-<classSkill minLevel="24" skillId="1879064332" skillName="Double-edged Strike"/>
-<classSkill minLevel="12" skillId="1879064333" skillName="Exploit Opening"/>
-<classSkill minLevel="8" skillId="1879060952" skillName="Riddle"/>
-<classSkill minLevel="14" skillId="1879064334" skillName="Addle"/>
-<classSkill minLevel="16" skillId="1879060967" skillName="Trick: Dust in the Eyes"/>
-<classSkill minLevel="38" skillId="1879061016" skillName="Trick: Enrage"/>
-<classSkill minLevel="2" skillId="1879060986" skillName="Trick: Disable"/>
-<classSkill minLevel="26" skillId="1879060992" skillName="Trick: Counter Defence"/>
-<classSkill minLevel="20" skillId="1879064335" skillName="Startling Twist"/>
-<classSkill minLevel="10" skillId="1879064336" skillName="Mischievous Glee"/>
-<classSkill minLevel="22" skillId="1879064337" skillName="Reveal Weakness"/>
-<classSkill minLevel="36" skillId="1879064338" skillName="Ready and Able"/>
-<classSkill minLevel="6" skillId="1879064339" skillName="Touch and Go"/>
-<classSkill minLevel="32" skillId="1879064340" skillName="Find Footing"/>
-<classSkill minLevel="30" skillId="1879061005" skillName="Hide in Plain Sight"/>
-<classSkill minLevel="20" skillId="1879064341" skillName="Track Treasure"/>
-<classSkill minLevel="14" skillId="1879064342" skillName="Burgle"/>
-<classSkill minLevel="12" skillId="1879064083" skillName="Spider's Guile (Melee)"/>
-<classSkill minLevel="12" skillId="1879064081" skillName="Ent's Strength (Melee)"/>
-<classSkill minLevel="12" skillId="1879064082" skillName="Eagle's Cry"/>
-<classSkill minLevel="12" skillId="1879064080" skillName="Stallion's Spirit"/>
-<classSkill minLevel="26" skillId="1879064343" skillName="Cure Poison"/>
-<initialGearElement itemId="1879064323" itemName="Cloth Gloves"/>
-<initialGearElement itemId="1879064324" itemName="Padded Shoes"/>
-<initialGearElement itemId="1879064325" itemName="Quilted Leggings"/>
-<initialGearElement itemId="1879064326" itemName="Quilted Shirt"/>
-<initialGearElement itemId="1879064059" itemName="Dull Knife"/>
+<classTrait minLevel="1" traitId="1879064089" traitName="Одноручные булавы"/>
+<classTrait minLevel="1" traitId="1879064090" traitName="Одноручные мечи"/>
+<classTrait minLevel="5" traitId="1879064211" traitName="Игра на кларнете"/>
+<classTrait minLevel="1" traitId="1879064091" traitName="Кинжалы"/>
+<classTrait minLevel="10" traitId="1879064092" traitName="Два оружия"/>
+<classTrait minLevel="20" traitId="1879076061" traitName="Инструменты взломщика"/>
+<classTrait minLevel="1" traitId="1879064094" traitName="Легкие доспехи"/>
+<classTrait minLevel="10" traitId="1879064095" traitName="Средние доспехи"/>
+<classTrait minLevel="11" traitId="1879064344" traitName="Точность: уровень 1"/>
+<classTrait minLevel="19" traitId="1879064345" traitName="Точность: уровень 2"/>
+<classTrait minLevel="25" traitId="1879064346" traitName="Точность: уровень 3"/>
+<classTrait minLevel="37" traitId="1879064347" traitName="Точность: уровень 4"/>
+<classTrait minLevel="9" traitId="1879064348" traitName="Крит. урон в ближнем бою: ур. 1"/>
+<classTrait minLevel="23" traitId="1879064349" traitName="Крит. урон в ближнем бою: ур. 2"/>
+<classTrait minLevel="29" traitId="1879064350" traitName="Крит. урон в ближнем бою: ур. 3"/>
+<classTrait minLevel="31" traitId="1879064351" traitName="Крит. урон в ближнем бою: ур. 4"/>
+<classTrait minLevel="5" traitId="1879064352" traitName="Уклонение: уровень 1"/>
+<classTrait minLevel="13" traitId="1879064353" traitName="Уклонение: уровень 2"/>
+<classTrait minLevel="27" traitId="1879064354" traitName="Уклонение: уровень 3"/>
+<classTrait minLevel="33" traitId="1879064355" traitName="Уклонение: уровень 4"/>
+<classTrait minLevel="7" traitId="1879064356" traitName="Парирование: уровень 1"/>
+<classTrait minLevel="15" traitId="1879064357" traitName="Парирование: уровень 2"/>
+<classTrait minLevel="21" traitId="1879064358" traitName="Парирование: уровень 3"/>
+<classTrait minLevel="41" traitId="1879064359" traitName="Парирование: уровень 4"/>
+<classTrait minLevel="20" traitId="1879060258" traitName="Адепт"/>
+<classTrait minLevel="10" traitId="1879060257" traitName="Путник"/>
+<classTrait minLevel="30" traitId="1879060248" traitName="Знаменитость"/>
+<classTrait minLevel="20" traitId="1879076057" traitName="Хитроумные приспособления"/>
+<classTrait minLevel="1" traitId="1879064093" traitName="Специальные инструменты"/>
+<classTrait minLevel="5" traitId="1879064210" traitName="Игра на лютне"/>
+<classSkill minLevel="4" skillId="1879061010" skillName="Скрытность"/>
+<classSkill minLevel="18" skillId="1879060981" skillName="Отвод глаз"/>
+<classSkill minLevel="28" skillId="1879064327" skillName="Сбивание с ног"/>
+<classSkill minLevel="1" skillId="1879064328" skillName="Нападение врасплох"/>
+<classSkill minLevel="1" skillId="1879064329" skillName="Коварный удар"/>
+<classSkill minLevel="34" skillId="1879064330" skillName="Провокация"/>
+<classSkill minLevel="12" skillId="1879060961" skillName="Прицеливание"/>
+<classSkill minLevel="1" skillId="1879060947" skillName="Ловкий укол"/>
+<classSkill minLevel="4" skillId="1879064331" skillName="Преимущество взломщика"/>
+<classSkill minLevel="24" skillId="1879064332" skillName="Двойной удар"/>
+<classSkill minLevel="12" skillId="1879064333" skillName="Удачное начало"/>
+<classSkill minLevel="8" skillId="1879060952" skillName="Загадка"/>
+<classSkill minLevel="14" skillId="1879064334" skillName="Головоломка"/>
+<classSkill minLevel="16" skillId="1879060967" skillName="Уловка: Пыль в глаза"/>
+<classSkill minLevel="38" skillId="1879061016" skillName="Уловка: Приведение в ярость"/>
+<classSkill minLevel="2" skillId="1879060986" skillName="Уловка: Обессиливание"/>
+<classSkill minLevel="26" skillId="1879060992" skillName="Уловка: Обход защиты"/>
+<classSkill minLevel="20" skillId="1879064335" skillName="Неожиданный поворот"/>
+<classSkill minLevel="10" skillId="1879064336" skillName="Злорадство"/>
+<classSkill minLevel="22" skillId="1879064337" skillName="Слабое место"/>
+<classSkill minLevel="36" skillId="1879064338" skillName="К бою готов!"/>
+<classSkill minLevel="6" skillId="1879064339" skillName="Верткость"/>
+<classSkill minLevel="32" skillId="1879064340" skillName="Твердая опора"/>
+<classSkill minLevel="30" skillId="1879061005" skillName="С глаз долой"/>
+<classSkill minLevel="20" skillId="1879064341" skillName="Поиск сокровищ"/>
+<classSkill minLevel="14" skillId="1879064342" skillName="Кража"/>
+<classSkill minLevel="12" skillId="1879064083" skillName="Коварство паука (ближний бой)"/>
+<classSkill minLevel="12" skillId="1879064081" skillName="Сила энта (ближний бой)"/>
+<classSkill minLevel="12" skillId="1879064082" skillName="Орлиный крик"/>
+<classSkill minLevel="12" skillId="1879064080" skillName="Дух жеребца"/>
+<classSkill minLevel="26" skillId="1879064343" skillName="Лечение отравления"/>
+<initialGearElement itemId="1879064323" itemName="Суконные перчатки"/>
+<initialGearElement itemId="1879064324" itemName="Стеганые башмаки"/>
+<initialGearElement itemId="1879064325" itemName="Прошитые штаны"/>
+<initialGearElement itemId="1879064326" itemName="Прошитая рубаха"/>
+<initialGearElement itemId="1879064059" itemName="Тупой нож"/>
 </class>
-<class key="Hunter" iconId="1090552321" smallIconId="0" abbreviation="HNT" description="Hunters are masters of field and forest, unmatched in their dexterity with the bow. They use their survival skills to guide companions and lay traps for enemies. Hunters are at their strongest when attacking from a distance, but are able to defend themselves in melee combat when the need arises. &lt;li&gt;Role: Nuker &lt;/li&gt; &lt;li&gt;The Hunter is proficient at dealing out good damage to single foes at both range and melee.  When Hunters are at range, they can unleash devastating arrow shots that do high damage to single targets. When the lone enemy finally manages to close into melee range, the Hunter is well-equipped to deal the finishing blow with some melee skills. &lt;/li&gt;">
+<class key="Hunter" iconId="1090552321" smallIconId="0" abbreviation="ОХТ" description="В полях и лесах охотники чувствуют себя как рыба в воде, и в обращении с луком им нет равных. Они умеют вести соратников короткими тайными тропами и расставлять врагам ловушки. Сильнее всего охотники в дальнем бою, но при необходимости могут защищать свою жизнь с мечом в руках. &lt;li&gt;Роль:Атака&lt;/li&gt; &lt;li&gt;Охотник способен легко расправиться с одиночным врагом как на расстоянии, так и в ближнем бою. Издалека он разит противника смертоносными стрелами. Если же врагу удается подойти вплотную, охотник может быстро добить его точным ударом клинка.&lt;/li&gt;">
 <proficiencies armourTypeForMitigations="MEDIUM">
 <weapon type="ONE_HANDED_AXE" level="1"/>
 <weapon type="ONE_HANDED_SWORD" level="1"/>
@@ -566,95 +566,95 @@
 <armour type="LIGHT" level="1"/>
 <armour type="MEDIUM" level="10"/>
 </proficiencies>
-<classTrait minLevel="1" traitId="1879064086" traitName="One-Handed Axes"/>
-<classTrait minLevel="1" traitId="1879064090" traitName="One-Handed Swords"/>
-<classTrait minLevel="1" traitId="1879064108" traitName="Bows"/>
-<classTrait minLevel="1" traitId="1879064400" traitName="Improved Range"/>
-<classTrait minLevel="1" traitId="1879064091" traitName="Daggers"/>
-<classTrait minLevel="15" traitId="1879076071" traitName="Hand Wrought Traps"/>
-<classTrait minLevel="1" traitId="1879064094" traitName="Light Armour"/>
-<classTrait minLevel="5" traitId="1879064211" traitName="Clarinet Use"/>
-<classTrait minLevel="7" traitId="1879064401" traitName="Evade: Rank 1"/>
-<classTrait minLevel="9" traitId="1879064402" traitName="Ranged Critical: Rank 1"/>
-<classTrait minLevel="9" traitId="1879064403" traitName="Ranged Evade: Rank 1"/>
-<classTrait minLevel="10" traitId="1879064095" traitName="Medium Armour"/>
-<classTrait minLevel="20" traitId="1879060258" traitName="Adept"/>
-<classTrait minLevel="11" traitId="1879064404" traitName="Parry: Rank 1"/>
-<classTrait minLevel="13" traitId="1879064405" traitName="Accuracy: Rank 1"/>
-<classTrait minLevel="13" traitId="1879064406" traitName="Ranged Evade: Rank 2"/>
-<classTrait minLevel="15" traitId="1879064087" traitName="One-Handed Clubs"/>
-<classTrait minLevel="15" traitId="1879064088" traitName="One-Handed Hammers"/>
-<classTrait minLevel="15" traitId="1879064089" traitName="One-Handed Maces"/>
-<classTrait minLevel="15" traitId="1879064407" traitName="Evade: Rank 2"/>
-<classTrait minLevel="17" traitId="1879064408" traitName="Ranged Evade: Rank 3"/>
-<classTrait minLevel="19" traitId="1879064409" traitName="Parry: Rank 2"/>
-<classTrait minLevel="15" traitId="1879064092" traitName="Dual Wielding"/>
-<classTrait minLevel="20" traitId="1879064102" traitName="Spear"/>
-<classTrait minLevel="10" traitId="1879060257" traitName="Journeyman"/>
-<classTrait minLevel="21" traitId="1879064410" traitName="Accuracy: Rank 2"/>
-<classTrait minLevel="21" traitId="1879064411" traitName="Ranged Evade: Rank 4"/>
-<classTrait minLevel="23" traitId="1879064412" traitName="Ranged Critical: Rank 2"/>
-<classTrait minLevel="25" traitId="1879064413" traitName="Accuracy: Rank 3"/>
-<classTrait minLevel="27" traitId="1879064414" traitName="Parry: Rank 3"/>
-<classTrait minLevel="29" traitId="1879064415" traitName="Evade: Rank 3"/>
-<classTrait minLevel="30" traitId="1879064298" traitName="Crossbows"/>
-<classTrait minLevel="30" traitId="1879060248" traitName="Master"/>
-<classTrait minLevel="31" traitId="1879064416" traitName="Accuracy: Rank 4"/>
-<classTrait minLevel="33" traitId="1879064417" traitName="Ranged Critical: Rank 3"/>
-<classTrait minLevel="37" traitId="1879064418" traitName="Parry: Rank 4"/>
-<classTrait minLevel="39" traitId="1879064419" traitName="Ranged Critical: Rank 4"/>
-<classTrait minLevel="41" traitId="1879064420" traitName="Evade: Rank 4"/>
-<classTrait minLevel="20" traitId="1879052432" traitName="Use of Fire"/>
-<classTrait minLevel="30" traitId="1879056133" traitName="Use of Light"/>
-<classTrait minLevel="25" traitId="1879090925" traitName="Bow Chants"/>
-<classTrait minLevel="35" traitId="1879093481" traitName="Tracking Guide"/>
-<classTrait minLevel="1" traitId="1879064093" traitName="Specialized Equipment"/>
-<classTrait minLevel="5" traitId="1879064210" traitName="Lute Use"/>
-<classSkill minLevel="1" skillId="1879064370" skillName="Quick Shot"/>
-<classSkill minLevel="1" skillId="1879064371" skillName="Barbed Arrow"/>
-<classSkill minLevel="2" skillId="1879064372" skillName="Swift Bow"/>
-<classSkill minLevel="10" skillId="1879064373" skillName="Penetrating Shot"/>
-<classSkill minLevel="20" skillId="1879064374" skillName="Rain of Arrows"/>
-<classSkill minLevel="30" skillId="1879064375" skillName="Merciful Shot"/>
-<classSkill minLevel="50" skillId="1879089875" skillName="Heart Seeker"/>
-<classSkill minLevel="1" skillId="1879064376" skillName="Swift Stroke"/>
-<classSkill minLevel="16" skillId="1879064377" skillName="Low Cut"/>
-<classSkill minLevel="4" skillId="1879064378" skillName="Scourging Blow"/>
-<classSkill minLevel="8" skillId="1879064379" skillName="Blindside"/>
-<classSkill minLevel="24" skillId="1879064380" skillName="Agile Rejoinder"/>
-<classSkill minLevel="6" skillId="1879060667" skillName="Set Trap"/>
-<classSkill minLevel="36" skillId="1879090865" skillName="Set Snare"/>
-<classSkill minLevel="38" skillId="1879060716" skillName="Beneath Notice"/>
-<classSkill minLevel="34" skillId="1879060723" skillName="Needful Haste"/>
-<classSkill minLevel="20" skillId="1879060702" skillName="Intent Concentration"/>
-<classSkill minLevel="14" skillId="1879064381" skillName="Find the Path"/>
-<classSkill minLevel="16" skillId="1879064382" skillName="Purge Poison"/>
-<classSkill minLevel="22" skillId="1879064383" skillName="Bright Campfire"/>
-<classSkill minLevel="20" skillId="1879064384" skillName="Desperate Flight"/>
-<classSkill minLevel="26" skillId="1879089857" skillName="Return to Camp"/>
-<classSkill minLevel="24" skillId="1879064385" skillName="Guide to Thorin's Hall"/>
-<classSkill minLevel="32" skillId="1879064386" skillName="Guide to Bree"/>
-<classSkill minLevel="34" skillId="1879064387" skillName="Guide to Esteldín"/>
-<classSkill minLevel="46" skillId="1879064388" skillName="Guide to Rivendell"/>
-<classSkill minLevel="22" skillId="1879089859" skillName="Guide to Michel Delving"/>
-<classSkill minLevel="12" skillId="1879064389" skillName="Passage of Nature"/>
-<classSkill minLevel="22" skillId="1879064390" skillName="Passage of Foes"/>
-<classSkill minLevel="32" skillId="1879064391" skillName="Passage of Shadow"/>
-<classSkill minLevel="40" skillId="1879064392" skillName="Camouflage"/>
-<classSkill minLevel="12" skillId="1879064393" skillName="Cry of the Predator"/>
-<classSkill minLevel="42" skillId="1879089876" skillName="Strength of the Earth"/>
-<classSkill minLevel="12" skillId="1879064394" skillName="Ent's Strength (Ranged)"/>
-<classSkill minLevel="12" skillId="1879064080" skillName="Stallion's Spirit"/>
-<classSkill minLevel="12" skillId="1879064395" skillName="Spider's Guile (Ranged)"/>
-<classSkill minLevel="12" skillId="1879064082" skillName="Eagle's Cry"/>
-<classSkill minLevel="10" skillId="1879064396" skillName="Focus"/>
-<classSkill minLevel="18" skillId="1879064397" skillName="Stance: Precision"/>
-<classSkill minLevel="4" skillId="1879064398" skillName="Stance: Strength"/>
-<classSkill minLevel="28" skillId="1879064399" skillName="Stance: Endurance"/>
-<initialGearElement itemId="1879064366" itemName="Cloth Pants"/>
-<initialGearElement itemId="1879064367" itemName="Cloth Vest"/>
-<initialGearElement itemId="1879064368" itemName="Padded Shoes"/>
-<initialGearElement itemId="1879064059" itemName="Dull Knife"/>
-<initialGearElement itemId="1879064369" itemName="Fragile Shortbow"/>
+<classTrait minLevel="1" traitId="1879064086" traitName="Одноручные топоры"/>
+<classTrait minLevel="1" traitId="1879064090" traitName="Одноручные мечи"/>
+<classTrait minLevel="1" traitId="1879064108" traitName="Луки"/>
+<classTrait minLevel="1" traitId="1879064400" traitName="Повышенная дальность"/>
+<classTrait minLevel="1" traitId="1879064091" traitName="Кинжалы"/>
+<classTrait minLevel="15" traitId="1879076071" traitName="Самодельные ловушки"/>
+<classTrait minLevel="1" traitId="1879064094" traitName="Легкие доспехи"/>
+<classTrait minLevel="5" traitId="1879064211" traitName="Игра на кларнете"/>
+<classTrait minLevel="7" traitId="1879064401" traitName="Уклонение: уровень 1"/>
+<classTrait minLevel="9" traitId="1879064402" traitName="Крит. урон в дальнем бою: ур. 1"/>
+<classTrait minLevel="9" traitId="1879064403" traitName="Уклон. от атак дальнего боя: ур. 1"/>
+<classTrait minLevel="10" traitId="1879064095" traitName="Средние доспехи"/>
+<classTrait minLevel="20" traitId="1879060258" traitName="Адепт"/>
+<classTrait minLevel="11" traitId="1879064404" traitName="Парирование: уровень 1"/>
+<classTrait minLevel="13" traitId="1879064405" traitName="Точность: уровень 1"/>
+<classTrait minLevel="13" traitId="1879064406" traitName="Уклон. от атак дальнего боя: ур. 2"/>
+<classTrait minLevel="15" traitId="1879064087" traitName="Одноручные палицы"/>
+<classTrait minLevel="15" traitId="1879064088" traitName="Одноручные молоты"/>
+<classTrait minLevel="15" traitId="1879064089" traitName="Одноручные булавы"/>
+<classTrait minLevel="15" traitId="1879064407" traitName="Уклонение: уровень 2"/>
+<classTrait minLevel="17" traitId="1879064408" traitName="Уклон. от атак дальнего боя: ур. 3"/>
+<classTrait minLevel="19" traitId="1879064409" traitName="Парирование: уровень 2"/>
+<classTrait minLevel="15" traitId="1879064092" traitName="Два оружия"/>
+<classTrait minLevel="20" traitId="1879064102" traitName="Копья"/>
+<classTrait minLevel="10" traitId="1879060257" traitName="Путник"/>
+<classTrait minLevel="21" traitId="1879064410" traitName="Точность: уровень 2"/>
+<classTrait minLevel="21" traitId="1879064411" traitName="Уклон. от атак дальнего боя: ур. 4"/>
+<classTrait minLevel="23" traitId="1879064412" traitName="Крит. урон в дальнем бою: ур. 2"/>
+<classTrait minLevel="25" traitId="1879064413" traitName="Точность: уровень 3"/>
+<classTrait minLevel="27" traitId="1879064414" traitName="Парирование: уровень 3"/>
+<classTrait minLevel="29" traitId="1879064415" traitName="Уклонение: уровень 3"/>
+<classTrait minLevel="30" traitId="1879064298" traitName="Арбалеты"/>
+<classTrait minLevel="30" traitId="1879060248" traitName="Знаменитость"/>
+<classTrait minLevel="31" traitId="1879064416" traitName="Точность: уровень 4"/>
+<classTrait minLevel="33" traitId="1879064417" traitName="Крит. урон в дальнем бою: ур. 3"/>
+<classTrait minLevel="37" traitId="1879064418" traitName="Парирование: уровень 4"/>
+<classTrait minLevel="39" traitId="1879064419" traitName="Крит. урон в дальнем бою: ур. 4"/>
+<classTrait minLevel="41" traitId="1879064420" traitName="Уклонение: уровень 4"/>
+<classTrait minLevel="20" traitId="1879052432" traitName="Полезный огонь"/>
+<classTrait minLevel="30" traitId="1879056133" traitName="Полезный Свет"/>
+<classTrait minLevel="25" traitId="1879090925" traitName="Чары для лука"/>
+<classTrait minLevel="35" traitId="1879093481" traitName="Общий след"/>
+<classTrait minLevel="1" traitId="1879064093" traitName="Специальные инструменты"/>
+<classTrait minLevel="5" traitId="1879064210" traitName="Игра на лютне"/>
+<classSkill minLevel="1" skillId="1879064370" skillName="Быстрый выстрел"/>
+<classSkill minLevel="1" skillId="1879064371" skillName="Зазубренная стрела"/>
+<classSkill minLevel="2" skillId="1879064372" skillName="Быстрый лук"/>
+<classSkill minLevel="10" skillId="1879064373" skillName="Проникающий выстрел"/>
+<classSkill minLevel="20" skillId="1879064374" skillName="Ливень стрел"/>
+<classSkill minLevel="30" skillId="1879064375" skillName="Выстрел милосердия"/>
+<classSkill minLevel="50" skillId="1879089875" skillName="Выстрел в сердце"/>
+<classSkill minLevel="1" skillId="1879064376" skillName="Быстрый удар"/>
+<classSkill minLevel="16" skillId="1879064377" skillName="Перерезанные сухожилия"/>
+<classSkill minLevel="4" skillId="1879064378" skillName="Карающий удар"/>
+<classSkill minLevel="8" skillId="1879064379" skillName="Удар исподтишка"/>
+<classSkill minLevel="24" skillId="1879064380" skillName="Ловкий отпор"/>
+<classSkill minLevel="6" skillId="1879060667" skillName="Ловушка"/>
+<classSkill minLevel="36" skillId="1879090865" skillName="Силки"/>
+<classSkill minLevel="38" skillId="1879060716" skillName="Безобидный вид"/>
+<classSkill minLevel="34" skillId="1879060723" skillName="Драгоценная скорость"/>
+<classSkill minLevel="20" skillId="1879060702" skillName="Намеренная сосредоточенность"/>
+<classSkill minLevel="14" skillId="1879064381" skillName="Поиск пути"/>
+<classSkill minLevel="16" skillId="1879064382" skillName="Снятие отравления"/>
+<classSkill minLevel="22" skillId="1879064383" skillName="Яркий костер"/>
+<classSkill minLevel="20" skillId="1879064384" skillName="Отчаянный побег"/>
+<classSkill minLevel="26" skillId="1879089857" skillName="Возвращение в лагерь"/>
+<classSkill minLevel="24" skillId="1879064385" skillName="Путь в Чертоги Торина"/>
+<classSkill minLevel="32" skillId="1879064386" skillName="Путь в Бри"/>
+<classSkill minLevel="34" skillId="1879064387" skillName="Путь в Эстельдин"/>
+<classSkill minLevel="46" skillId="1879064388" skillName="Путь в Ривенделл"/>
+<classSkill minLevel="22" skillId="1879089859" skillName="Путь в Занорье"/>
+<classSkill minLevel="12" skillId="1879064389" skillName="Чутье зверей"/>
+<classSkill minLevel="22" skillId="1879064390" skillName="Чутье врагов"/>
+<classSkill minLevel="32" skillId="1879064391" skillName="Чутье Тьмы"/>
+<classSkill minLevel="40" skillId="1879064392" skillName="Маскировка"/>
+<classSkill minLevel="12" skillId="1879064393" skillName="Крик хищника"/>
+<classSkill minLevel="42" skillId="1879089876" skillName="Сила земли"/>
+<classSkill minLevel="12" skillId="1879064394" skillName="Сила энта (дальний бой)"/>
+<classSkill minLevel="12" skillId="1879064080" skillName="Дух жеребца"/>
+<classSkill minLevel="12" skillId="1879064395" skillName="Коварство паука (дальний бой)"/>
+<classSkill minLevel="12" skillId="1879064082" skillName="Орлиный крик"/>
+<classSkill minLevel="10" skillId="1879064396" skillName="Сосредоточенность"/>
+<classSkill minLevel="18" skillId="1879064397" skillName="Стойка: Меткость"/>
+<classSkill minLevel="4" skillId="1879064398" skillName="Стойка: Сила"/>
+<classSkill minLevel="28" skillId="1879064399" skillName="Стойка: Выносливость"/>
+<initialGearElement itemId="1879064366" itemName="Суконные штаны"/>
+<initialGearElement itemId="1879064367" itemName="Суконный жилет"/>
+<initialGearElement itemId="1879064368" itemName="Стеганые башмаки"/>
+<initialGearElement itemId="1879064059" itemName="Тупой нож"/>
+<initialGearElement itemId="1879064369" itemName="Хрупкий короткий лук"/>
 </class>
 </classes>

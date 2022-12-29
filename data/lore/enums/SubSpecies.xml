@@ -1,322 +1,322 @@
 <?xml version="1.0" encoding="UTF-8"?><enum id="587202572" name="SubspeciesType">
-<entry code="1" name="Bile-spewer"/>
-<entry code="2" name="Barrow-wight"/>
-<entry code="3" name="Blue-crag"/>
-<entry code="4" name="Morningthaw-bears"/>
-<entry code="5" name="Yellowfang"/>
-<entry code="6" name="Swamp-fly"/>
-<entry code="7" name="Moor-fly"/>
-<entry code="8" name="Foothill"/>
-<entry code="9" name="Barren-oak"/>
-<entry code="10" name="Barrow-crawler"/>
-<entry code="11" name="Muck-crawler"/>
-<entry code="12" name="ironscale"/>
-<entry code="13" name="Iron-beak"/>
-<entry code="14" name="Decayed"/>
-<entry code="15" name="Peat-crawler"/>
-<entry code="16" name="Follower of the Red Maiden"/>
-<entry code="17" name="Brush-cat"/>
-<entry code="18" name="Guardian"/>
-<entry code="19" name="Vale-fly"/>
-<entry code="20" name="Cave-rat"/>
-<entry code="21" name="Brush"/>
-<entry code="22" name="Barrow-maple"/>
-<entry code="23" name="Cave-crawler"/>
-<entry code="24" name="Murk-water"/>
-<entry code="25" name="Cruel-beak"/>
-<entry code="26" name="Cave-claw"/>
-<entry code="27" name="Swamp-lurker"/>
+<entry code="1" name="Желчное умертвие"/>
+<entry code="2" name="Могильное умертвие"/>
+<entry code="3" name="Синие Утесы"/>
+<entry code="4" name="Медведь-оттепельник"/>
+<entry code="5" name="Желтый клык"/>
+<entry code="6" name="Водяная муха"/>
+<entry code="7" name="Торфяная муха"/>
+<entry code="8" name="Предгорье"/>
+<entry code="9" name="Бесплодный дуб"/>
+<entry code="10" name="Могильная сколопендра"/>
+<entry code="11" name="Илистая сколопендра"/>
+<entry code="12" name="Железный панцирь"/>
+<entry code="13" name="Железный клюв"/>
+<entry code="14" name="Разлагающийся труп"/>
+<entry code="15" name="Торфяная сколопендра"/>
+<entry code="16" name="Последователь Алой Девы"/>
+<entry code="17" name="Пустынная кошка"/>
+<entry code="18" name="Страж"/>
+<entry code="19" name="Луговая муха"/>
+<entry code="20" name="Пещерная крыса"/>
+<entry code="21" name="Кустарник"/>
+<entry code="22" name="Могильный клен"/>
+<entry code="23" name="Пещерная сколопендра"/>
+<entry code="24" name="Жуткое изводье"/>
+<entry code="25" name="Острый клюв"/>
+<entry code="26" name="Когтерой"/>
+<entry code="27" name="Трясинный кочун"/>
 <entry code="28" name="razortooth"/>
-<entry code="29" name="Broadtooth"/>
-<entry code="30" name="Thickjaw"/>
-<entry code="31" name="Rock-claw"/>
-<entry code="32" name="Moor-web"/>
-<entry code="33" name="Vile-filth"/>
-<entry code="34" name="Harvest-fly"/>
-<entry code="35" name="Fallen"/>
-<entry code="36" name="Field-rat"/>
-<entry code="37" name="Snow-cat"/>
-<entry code="38" name="Dread-mist"/>
-<entry code="39" name="Whiskerback"/>
-<entry code="40" name="Mountain-bear"/>
-<entry code="41" name="Wood-bear"/>
-<entry code="42" name="Gouge-horn Aurochs"/>
-<entry code="43" name="Stone-hoof Aurochs"/>
+<entry code="29" name="Широкий клык"/>
+<entry code="30" name="Крепкая челюсть"/>
+<entry code="31" name="Скалоклык"/>
+<entry code="32" name="Болотный ткач"/>
+<entry code="33" name="Мверзь"/>
+<entry code="34" name="Певчая цикада"/>
+<entry code="35" name="Падший"/>
+<entry code="36" name="Полевая крыса"/>
+<entry code="37" name="Снежная кошка"/>
+<entry code="38" name="Зловещий туман"/>
+<entry code="39" name="Спиноус"/>
+<entry code="40" name="Горный медведь"/>
+<entry code="41" name="Чащобный медведь"/>
+<entry code="42" name="Круторогий тур"/>
+<entry code="43" name="Тур-каменное копыто"/>
 <entry code="44" name="Iron_Crown"/>
-<entry code="45" name="Blogmal"/>
-<entry code="46" name="Curr-olog"/>
-<entry code="47" name="Neeker-breeker"/>
-<entry code="48" name="Stone-troll"/>
-<entry code="49" name="Stone-crawler"/>
-<entry code="50" name="Ironhoof"/>
-<entry code="51" name="Shag-hide Aurochs"/>
-<entry code="52" name="Pale-folk"/>
-<entry code="53" name="Strangle-web"/>
-<entry code="54" name="Snow-spinner"/>
-<entry code="55" name="Shadowmaw"/>
-<entry code="56" name="Blight-worm"/>
-<entry code="57" name="Neeker-breeker"/>
-<entry code="58" name="Tomb-wight"/>
-<entry code="59" name="Forest"/>
-<entry code="60" name="Ash"/>
-<entry code="61" name="Skybane"/>
-<entry code="62" name="Deathshadow"/>
-<entry code="63" name="Leaf-crawler"/>
-<entry code="64" name="Limb"/>
-<entry code="65" name="Thicktusk"/>
+<entry code="45" name="Клан Блогмал"/>
+<entry code="46" name="Курр-олог"/>
+<entry code="47" name="Кровопросец"/>
+<entry code="48" name="Каменный тролль"/>
+<entry code="49" name="Скальная сколопендра"/>
+<entry code="50" name="Железное копыто"/>
+<entry code="51" name="Косматый тур"/>
+<entry code="52" name="Бледнокожий"/>
+<entry code="53" name="Душитель"/>
+<entry code="54" name="Снежный прядильщик"/>
+<entry code="55" name="Живоглот"/>
+<entry code="56" name="Гнилостный ящер"/>
+<entry code="57" name="Кровопросец"/>
+<entry code="58" name="Могильное умертвие"/>
+<entry code="59" name="Лес"/>
+<entry code="60" name="Ясень"/>
+<entry code="61" name="Гроза небес"/>
+<entry code="62" name="Смертоносная тень"/>
+<entry code="63" name="Лесная сколопендра"/>
+<entry code="64" name="Конечность"/>
+<entry code="65" name="Острый клык"/>
 <entry code="66" name="moor_crow"/>
-<entry code="67" name="North-hawk"/>
-<entry code="68" name="Fugitive"/>
-<entry code="69" name="Snow-troll"/>
-<entry code="70" name="Cold-worm"/>
-<entry code="71" name="Fire-worm"/>
-<entry code="72" name="Sulfur-leech"/>
-<entry code="73" name="River-slug"/>
-<entry code="74" name="Field-slug"/>
-<entry code="75" name="Tusker"/>
-<entry code="76" name="Darkclaw"/>
-<entry code="77" name="Shadow-wing"/>
-<entry code="78" name="Yiarn Tribe"/>
-<entry code="79" name="Tarkrîp"/>
-<entry code="80" name="Bandit"/>
-<entry code="81" name="Fire-drake"/>
-<entry code="82" name="Brigand"/>
+<entry code="67" name="Северный ястреб"/>
+<entry code="68" name="Беженец"/>
+<entry code="69" name="Снежный тролль"/>
+<entry code="70" name="Ледяной ящер"/>
+<entry code="71" name="Огненный ящер"/>
+<entry code="72" name="Серная пиявка"/>
+<entry code="73" name="Речной слизень"/>
+<entry code="74" name="Полевой слизень"/>
+<entry code="75" name="Секач"/>
+<entry code="76" name="Темный Коготь"/>
+<entry code="77" name="Тенекрыл"/>
+<entry code="78" name="Клан Йярн"/>
+<entry code="79" name="Таркрип"/>
+<entry code="80" name="Бандит"/>
+<entry code="81" name="Огненный драконид"/>
+<entry code="82" name="Разбойник"/>
 <entry code="83" name="bindbole_spider"/>
-<entry code="84" name="Mound-wight"/>
-<entry code="85" name="Longtooth"/>
-<entry code="86" name="Banner-wight"/>
-<entry code="87" name="Hellborne"/>
-<entry code="88" name="Minion of Misery"/>
-<entry code="89" name="Gloom-water"/>
-<entry code="90" name="Fen-crawler"/>
-<entry code="91" name="Bloodfang"/>
-<entry code="92" name="Brandywine Woods"/>
-<entry code="93" name="Highland-cat"/>
-<entry code="94" name="Southerner"/>
-<entry code="95" name="Grimfang Brood"/>
-<entry code="96" name="Free Peoples"/>
-<entry code="97" name="Milkeye"/>
-<entry code="98" name="Bat"/>
-<entry code="99" name="Ongbúrz"/>
-<entry code="100" name="Brandywine Hills"/>
-<entry code="101" name="Mountain-drake"/>
-<entry code="102" name="Forest-spider"/>
-<entry code="103" name="Flesh-gnaw"/>
-<entry code="104" name="Balt-olog"/>
-<entry code="105" name="Gorthorog"/>
-<entry code="106" name="Dusk-wolf"/>
-<entry code="107" name="Moor-stalker"/>
-<entry code="108" name="Crypt-wight"/>
-<entry code="109" name="Shrew"/>
-<entry code="110" name="Traitor"/>
-<entry code="111" name="Minion of Shadow"/>
-<entry code="112" name="Barren-ash"/>
-<entry code="113" name="Sulfur-crawler"/>
-<entry code="114" name="Thorn-talon"/>
-<entry code="115" name="Snow-lurker"/>
-<entry code="116" name="Stonehoof"/>
-<entry code="117" name="Scrubrunner"/>
-<entry code="118" name="Shadow-spinner"/>
-<entry code="119" name="Marsh-spider"/>
-<entry code="120" name="Wood-spider"/>
-<entry code="121" name="Gramsfoot"/>
-<entry code="122" name="Thistledown Aurochs"/>
-<entry code="123" name="Dourhand"/>
-<entry code="124" name="Swamp-toad"/>
-<entry code="125" name="River-toad"/>
-<entry code="126" name="Corpse-rat"/>
-<entry code="127" name="Rat"/>
-<entry code="128" name="Splintertusk"/>
-<entry code="129" name="Hill-bear"/>
-<entry code="130" name="Gorgoryn"/>
-<entry code="131" name="Mauryn"/>
-<entry code="132" name="Unaligned"/>
-<entry code="133" name="Vale-cat"/>
-<entry code="134" name="Half-orc"/>
-<entry code="135" name="Ice-worm"/>
-<entry code="136" name="Merrevail"/>
-<entry code="137" name="Oak-root"/>
-<entry code="138" name="Corcur"/>
-<entry code="139" name="Bee"/>
-<entry code="140" name="Highland-cat"/>
-<entry code="141" name="Vale"/>
-<entry code="142" name="Blood-oak"/>
-<entry code="143" name="Shattertusk"/>
-<entry code="144" name="Hoar-mantle Aurochs"/>
-<entry code="145" name="Krahjarn Tribe"/>
-<entry code="146" name="Rift-crawler"/>
-<entry code="147" name="Crag-hawk"/>
-<entry code="148" name="Vale-bear"/>
-<entry code="149" name="Grey-wolf"/>
-<entry code="150" name="Oathbound"/>
-<entry code="151" name="Ironbound"/>
-<entry code="152" name="Boulder-troll"/>
-<entry code="153" name="Gore-crow"/>
-<entry code="154" name="Cave-bear"/>
+<entry code="84" name="Курганное умертвие"/>
+<entry code="85" name="Длинный зуб"/>
+<entry code="86" name="Знаменосное умертвие"/>
+<entry code="87" name="Исчадие"/>
+<entry code="88" name="Несущий страдания"/>
+<entry code="89" name="Мрачное изводье"/>
+<entry code="90" name="Болотная сколопендра"/>
+<entry code="91" name="Кровоклык"/>
+<entry code="92" name="Брендивинские леса"/>
+<entry code="93" name="Горная кошка"/>
+<entry code="94" name="Южанин"/>
+<entry code="95" name="Жуткоклык"/>
+<entry code="96" name="Свободные народы"/>
+<entry code="97" name="Белоглаз"/>
+<entry code="98" name="Летучая мышь"/>
+<entry code="99" name="Онгбурз"/>
+<entry code="100" name="Брендивинские холмы"/>
+<entry code="101" name="Горный драконид"/>
+<entry code="102" name="Лесной паук"/>
+<entry code="103" name="Мясоглод"/>
+<entry code="104" name="Балт-олог"/>
+<entry code="105" name="Горторог"/>
+<entry code="106" name="Сумеречный волк"/>
+<entry code="107" name="Болотный волк"/>
+<entry code="108" name="Умертвие из склепа"/>
+<entry code="109" name="Землеройка"/>
+<entry code="110" name="Предатель"/>
+<entry code="111" name="Несущий Тьму"/>
+<entry code="112" name="Бесплодный ясень"/>
+<entry code="113" name="Серная сколопендра"/>
+<entry code="114" name="Рваный коготь"/>
+<entry code="115" name="Снежный кочун"/>
+<entry code="116" name="Каменное копыто"/>
+<entry code="117" name="Пустошник"/>
+<entry code="118" name="Темный прядильщик"/>
+<entry code="119" name="Болотный паук"/>
+<entry code="120" name="Лесной паук"/>
+<entry code="121" name="Подножие Грэм"/>
+<entry code="122" name="Тур-космач"/>
+<entry code="123" name="Крепкохват"/>
+<entry code="124" name="Водяная жаба"/>
+<entry code="125" name="Речная жаба"/>
+<entry code="126" name="Трупная крыса"/>
+<entry code="127" name="Крыса"/>
+<entry code="128" name="Битый клык"/>
+<entry code="129" name="Холмовой медведь"/>
+<entry code="130" name="Горгор"/>
+<entry code="131" name="Маур"/>
+<entry code="132" name="Сам по себе"/>
+<entry code="133" name="Луговая кошка"/>
+<entry code="134" name="Полуорк"/>
+<entry code="135" name="Ящер льда"/>
+<entry code="136" name="Морроваль"/>
+<entry code="137" name="Дубовый корень"/>
+<entry code="138" name="Коркур"/>
+<entry code="139" name="Пчела"/>
+<entry code="140" name="Горная кошка"/>
+<entry code="141" name="Долина"/>
+<entry code="142" name="Кровавый дуб"/>
+<entry code="143" name="Треснувший клык"/>
+<entry code="144" name="Тур-мохнач"/>
+<entry code="145" name="Клан Краджарн"/>
+<entry code="146" name="Сколопендра из Разлома"/>
+<entry code="147" name="Ястреб-утесник"/>
+<entry code="148" name="Луговой медведь"/>
+<entry code="149" name="Серый волк"/>
+<entry code="150" name="Скованный клятвой"/>
+<entry code="151" name="Скованный"/>
+<entry code="152" name="Тролль-валунник"/>
+<entry code="153" name="Кровавая ворона"/>
+<entry code="154" name="Пещерный медведь"/>
 <entry code="155" name="chill_wind"/>
-<entry code="156" name="Gloom-wing"/>
-<entry code="157" name="Servant of Angmar"/>
-<entry code="158" name="Lake Country"/>
-<entry code="159" name="Moor-cat"/>
-<entry code="160" name="Oathsworn"/>
-<entry code="161" name="Wight"/>
-<entry code="162" name="Drake"/>
-<entry code="163" name="Sun-touched Eagles"/>
-<entry code="164" name="Wintersebb Clutch"/>
-<entry code="165" name="Leafcull Wardens"/>
-<entry code="166" name="Frostfell Cave-dwellers"/>
-<entry code="167" name="Wood-troll"/>
-<entry code="168" name="Blackwold"/>
-<entry code="169" name="Norbog"/>
-<entry code="170" name="Oath-breaker"/>
-<entry code="171" name="Barrow-rat"/>
-<entry code="172" name="Fell-band"/>
-<entry code="173" name="Hendroval"/>
-<entry code="174" name="Mere-lurker"/>
-<entry code="175" name="Bristlehide"/>
-<entry code="176" name="Forest-bear"/>
-<entry code="177" name="Blogmal"/>
-<entry code="178" name="Faithful of Angmar"/>
-<entry code="179" name="Shadow-brood"/>
+<entry code="156" name="Мракокрыл"/>
+<entry code="157" name="Слуга Ангмара"/>
+<entry code="158" name="Озерный край"/>
+<entry code="159" name="Камышовая кошка"/>
+<entry code="160" name="Связанный клятвой"/>
+<entry code="161" name="Умертвие"/>
+<entry code="162" name="Драконид"/>
+<entry code="163" name="Солнечный орел"/>
+<entry code="164" name="Зимогон"/>
+<entry code="165" name="Гнилолист-страж"/>
+<entry code="166" name="Морозный когтерой"/>
+<entry code="167" name="Лесной тролль"/>
+<entry code="168" name="Чернопустынник"/>
+<entry code="169" name="Норбог"/>
+<entry code="170" name="Клятвопреступник"/>
+<entry code="171" name="Могильная крыса"/>
+<entry code="172" name="Скверна"/>
+<entry code="173" name="Эндровал"/>
+<entry code="174" name="Озерный кочун"/>
+<entry code="175" name="Щетинник"/>
+<entry code="176" name="Лесной медведь"/>
+<entry code="177" name="Клан Блогмал"/>
+<entry code="178" name="Приспешник Ангмара"/>
+<entry code="179" name="Темный паук"/>
 <entry code="180" name="tarkrip"/>
-<entry code="181" name="Cragstone Brood"/>
-<entry code="182" name="Snowreap"/>
-<entry code="183" name="Flame-worm"/>
-<entry code="184" name="Sickle-fly"/>
-<entry code="185" name="Blade-beak"/>
-<entry code="186" name="Krahjarn"/>
-<entry code="187" name="Oak"/>
-<entry code="188" name="Barkshredder"/>
-<entry code="189" name="Quickclaw"/>
-<entry code="190" name="Downs-bear"/>
-<entry code="191" name="Ash-weaver"/>
-<entry code="192" name="Forest-hunter"/>
-<entry code="193" name="Fell-spirit"/>
-<entry code="194" name="Willow-root"/>
-<entry code="195" name="Stone-giant"/>
-<entry code="196" name="Giant"/>
-<entry code="197" name="Winter-bear"/>
-<entry code="198" name="Ash-bear"/>
+<entry code="181" name="Скальный паук"/>
+<entry code="182" name="Снежный Потрошитель"/>
+<entry code="183" name="Пламенный ящер"/>
+<entry code="184" name="Муха-серпица"/>
+<entry code="185" name="Остроклюв"/>
+<entry code="186" name="Краджарн"/>
+<entry code="187" name="Дуб"/>
+<entry code="188" name="Кородер"/>
+<entry code="189" name="Быстрохват"/>
+<entry code="190" name="Низинный медведь"/>
+<entry code="191" name="Пепельный ткач"/>
+<entry code="192" name="Лесной охотник"/>
+<entry code="193" name="Падший дух"/>
+<entry code="194" name="Корень ивы"/>
+<entry code="195" name="Каменный великан"/>
+<entry code="196" name="Великан"/>
+<entry code="197" name="Зимний медведь"/>
+<entry code="198" name="Пепельный медведь"/>
 <entry code="199" name="Barghest"/>
-<entry code="200" name="Downs-cat"/>
-<entry code="201" name="Brood of Bogbereth"/>
-<entry code="202" name="Tomb-weaver"/>
-<entry code="203" name="Coldeve Tribe"/>
-<entry code="204" name="Ongbûrz"/>
-<entry code="205" name="Silt-toad"/>
+<entry code="200" name="Горная кошка"/>
+<entry code="201" name="Детеныш Богберет"/>
+<entry code="202" name="Могильный ткач"/>
+<entry code="203" name="Клан Вечерней Стужи"/>
+<entry code="204" name="Онгбурз"/>
+<entry code="205" name="Илистая жаба"/>
 <entry code="206" name="Mammoth"/>
-<entry code="207" name="Greenfields-spider"/>
-<entry code="208" name="Chetwood-spider"/>
-<entry code="209" name="Bog-warden"/>
-<entry code="210" name="Bog-neeker"/>
-<entry code="211" name="Grass-stalker"/>
-<entry code="212" name="Snow-beast"/>
-<entry code="213" name="Hill-men"/>
-<entry code="214" name="Minion of Battle"/>
-<entry code="215" name="Ash-crawler"/>
-<entry code="216" name="Thicksnout"/>
-<entry code="217" name="Long-grass"/>
-<entry code="218" name="Scara"/>
-<entry code="219" name="Warg"/>
-<entry code="220" name="Stonehold"/>
-<entry code="221" name="Darktide Wolves"/>
-<entry code="222" name="Dead-root"/>
-<entry code="223" name="Plague-rat"/>
+<entry code="207" name="Паук из Зеленых полей"/>
+<entry code="208" name="Четвудский паук"/>
+<entry code="209" name="Хранитель болот"/>
+<entry code="210" name="Болотный кровопросец"/>
+<entry code="211" name="Луговой волк"/>
+<entry code="212" name="Снежный хищник"/>
+<entry code="213" name="Горец"/>
+<entry code="214" name="Несущий войну"/>
+<entry code="215" name="Пепельная сколопендра"/>
+<entry code="216" name="Большеголов"/>
+<entry code="217" name="Луговик"/>
+<entry code="218" name="Скара"/>
+<entry code="219" name="Варг"/>
+<entry code="220" name="Скаложил"/>
+<entry code="221" name="Черная стая"/>
+<entry code="222" name="Мертвый корень"/>
+<entry code="223" name="Чумная крыса"/>
 <entry code="224" name="harbor_rat"/>
-<entry code="225" name="Rauta-lehmä"/>
-<entry code="226" name="Corpse-crawler"/>
-<entry code="227" name="Bog-prowler"/>
-<entry code="228" name="Minion"/>
-<entry code="229" name="Swamp-norbog"/>
-<entry code="230" name="Bog-slug"/>
-<entry code="231" name="Marish-slug"/>
-<entry code="232" name="Gnat"/>
-<entry code="233" name="Downs"/>
-<entry code="234" name="Timber"/>
-<entry code="235" name="Rock-troll"/>
-<entry code="236" name="Sharp-eye"/>
-<entry code="237" name="Brown-bear"/>
-<entry code="238" name="Barrow-spider"/>
-<entry code="239" name="Downs-spider"/>
-<entry code="240" name="Rock-worm"/>
-<entry code="241" name="Hill-toad"/>
-<entry code="242" name="Bog-toad"/>
-<entry code="243" name="Badger"/>
-<entry code="244" name="Midge"/>
-<entry code="245" name="Blood-maple"/>
-<entry code="246" name="Field-bear"/>
-<entry code="247" name="Grunnd Tribe"/>
-<entry code="248" name="Lynx"/>
-<entry code="249" name="Snow-mantle"/>
-<entry code="250" name="Undergrowth"/>
-<entry code="251" name="Créoth"/>
-<entry code="252" name="Minion of Plague"/>
-<entry code="253" name="Frost-giant"/>
-<entry code="254" name="Craban"/>
-<entry code="255" name="Sharpcrag"/>
-<entry code="256" name="Marsh-strider"/>
-<entry code="257" name="Ruin-web"/>
-<entry code="258" name="White Hand"/>
-<entry code="259" name="Jarn-olog"/>
-<entry code="260" name="Norboglir"/>
-<entry code="261" name="Hill-beast"/>
-<entry code="262" name="Bog-fly"/>
-<entry code="263" name="Red-root"/>
-<entry code="264" name="Blood-ash"/>
+<entry code="225" name="Раута-лема"/>
+<entry code="226" name="Трупная сколопендра"/>
+<entry code="227" name="Болотный кочун"/>
+<entry code="228" name="Приспешник"/>
+<entry code="229" name="Болотный норбог"/>
+<entry code="230" name="Болотный слизень"/>
+<entry code="231" name="Слизень из Болотища"/>
+<entry code="232" name="Комар"/>
+<entry code="233" name="Нагорье"/>
+<entry code="234" name="Валежник"/>
+<entry code="235" name="Скальный тролль"/>
+<entry code="236" name="Соглядатай"/>
+<entry code="237" name="Бурый медведь"/>
+<entry code="238" name="Могильный паук"/>
+<entry code="239" name="Луговой паук"/>
+<entry code="240" name="Скальный ящер"/>
+<entry code="241" name="Холмовая жаба"/>
+<entry code="242" name="Болотная жаба"/>
+<entry code="243" name="Барсук"/>
+<entry code="244" name="Мошкара"/>
+<entry code="245" name="Кровавый клен"/>
+<entry code="246" name="Полевой медведь"/>
+<entry code="247" name="Клан Груннд"/>
+<entry code="248" name="Рысь"/>
+<entry code="249" name="Снежный мохнач"/>
+<entry code="250" name="Подлесок"/>
+<entry code="251" name="Креот"/>
+<entry code="252" name="Несущий чуму"/>
+<entry code="253" name="Морозный великан"/>
+<entry code="254" name="Кребан"/>
+<entry code="255" name="Утесник"/>
+<entry code="256" name="Болотный водомер"/>
+<entry code="257" name="Руинный ткач"/>
+<entry code="258" name="Белая Рука"/>
+<entry code="259" name="Ярн-олог"/>
+<entry code="260" name="Норбоглир"/>
+<entry code="261" name="Горный хищник"/>
+<entry code="262" name="Болотная муха"/>
+<entry code="263" name="Красный корень"/>
+<entry code="264" name="Кровавый ясень"/>
 <entry code="265" name="skydart"/>
-<entry code="266" name="Snow-bear"/>
-<entry code="267" name="Black-bear"/>
-<entry code="268" name="I need a real Subspecies!!"/>
-<entry code="269" name="Minion of Ferndúr"/>
-<entry code="270" name="Overseer"/>
-<entry code="271" name="Ongbúrz War-master"/>
-<entry code="272" name="The False King"/>
-<entry code="273" name="Captain of the Guard"/>
-<entry code="274" name="Thorog's Brood"/>
-<entry code="275" name="Wight-lord"/>
-<entry code="276" name="Warg-keeper"/>
-<entry code="277" name="The Red-maid"/>
-<entry code="278" name="Shadow-bough"/>
-<entry code="279" name="Sand-lurker"/>
-<entry code="280" name="Twilight-howler"/>
-<entry code="281" name="White-mane"/>
-<entry code="282" name="Tomb-robber"/>
-<entry code="283" name="Greensward-elk"/>
-<entry code="284" name="Hill-giant"/>
-<entry code="285" name="Gauradan"/>
-<entry code="286" name="Sand-norbog"/>
-<entry code="287" name="Forest-shambler"/>
-<entry code="288" name="Tomb-crawler"/>
-<entry code="289" name="Locust"/>
-<entry code="290" name="Wood-web"/>
-<entry code="291" name="Ill-fated"/>
-<entry code="292" name="Boggart"/>
-<entry code="293" name="Salamander"/>
-<entry code="294" name="Barkskin"/>
-<entry code="295" name="Kergrim"/>
-<entry code="296" name="Sand-serpent"/>
-<entry code="297" name="Corpse-candle"/>
-<entry code="298" name="Serpent"/>
-<entry code="299" name="Rock-viper"/>
-<entry code="300" name="Lake-skimmer"/>
-<entry code="301" name="Rock-shell"/>
-<entry code="302" name="Shadow-fang"/>
-<entry code="303" name="Fire-fly"/>
-<entry code="304" name="Man of Mordor"/>
-<entry code="305" name="Knight of Mordirith"/>
-<entry code="306" name="Clutch of Nornagol"/>
-<entry code="309" name="Barrow-warden"/>
-<entry code="311" name="Invader of Annúminas"/>
-<entry code="312" name="Warden of Annúminas"/>
-<entry code="313" name="Tarkrîp Slave"/>
-<entry code="314" name="Blogmal Slave"/>
-<entry code="315" name="Blogmal Overseer"/>
-<entry code="316" name="Tarkrîp Overseer"/>
-<entry code="317" name="Goblin-town"/>
-<entry code="318" name="Hoar-frost"/>
-<entry code="319" name="Tempest-fang"/>
-<entry code="320" name="Elk"/>
-<entry code="321" name="The Gelid Dead"/>
-<entry code="322" name="Eldgang"/>
-<entry code="323" name="Ghâshfra"/>
+<entry code="266" name="Снежный медведь"/>
+<entry code="267" name="Черный медведь"/>
+<entry code="268" name="Нужен подвид!"/>
+<entry code="269" name="Приспешник Ферндура"/>
+<entry code="270" name="Надсмотрщик"/>
+<entry code="271" name="Вожак из клана Онгбурз"/>
+<entry code="272" name="Лже-Король"/>
+<entry code="273" name="Командир стражи"/>
+<entry code="274" name="Отпрыск Торога"/>
+<entry code="275" name="Властелин умертвий"/>
+<entry code="276" name="Укротитель варгов"/>
+<entry code="277" name="Алая дева"/>
+<entry code="278" name="Ветвень"/>
+<entry code="279" name="Песчаный кочун"/>
+<entry code="280" name="Воющий в сумраке"/>
+<entry code="281" name="Белый варг"/>
+<entry code="282" name="Расхититель гробниц"/>
+<entry code="283" name="Олень"/>
+<entry code="284" name="Горный великан"/>
+<entry code="285" name="Гаурадан"/>
+<entry code="286" name="Песчаный норбог"/>
+<entry code="287" name="Медведь-шатун"/>
+<entry code="288" name="Могильная сколопендра"/>
+<entry code="289" name="Саранча"/>
+<entry code="290" name="Лесной ткач"/>
+<entry code="291" name="Злосчастный"/>
+<entry code="292" name="Боггарт"/>
+<entry code="293" name="Саламандра"/>
+<entry code="294" name="Толстая кожа"/>
+<entry code="295" name="Кергрим"/>
+<entry code="296" name="Змейка-песчанка"/>
+<entry code="297" name="Блуждающий огонь"/>
+<entry code="298" name="Змейка"/>
+<entry code="299" name="Скальная гадюка"/>
+<entry code="300" name="Озерный водомер"/>
+<entry code="301" name="Каменный панцирь"/>
+<entry code="302" name="Черная пасть"/>
+<entry code="303" name="Светлячок"/>
+<entry code="304" name="Человек из Мордора"/>
+<entry code="305" name="Рыцарь Мордирита"/>
+<entry code="306" name="Норнаголы"/>
+<entry code="309" name="Страж могильников"/>
+<entry code="311" name="Захватчик Аннуминаса"/>
+<entry code="312" name="Страж Аннуминаса"/>
+<entry code="313" name="Раб клана Таркрип"/>
+<entry code="314" name="Раб клана Блогмал"/>
+<entry code="315" name="Надсмотрщик из клана Блогмал"/>
+<entry code="316" name="Надсмотрщик из клана Таркрип"/>
+<entry code="317" name="Город гоблинов"/>
+<entry code="318" name="Мерзлая шкура"/>
+<entry code="319" name="Неистовый клык"/>
+<entry code="320" name="Олень"/>
+<entry code="321" name="Хладный мертвец"/>
+<entry code="322" name="Эльдганг"/>
+<entry code="323" name="Гхашфра"/>
 </enum>

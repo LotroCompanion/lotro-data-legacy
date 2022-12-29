@@ -1,150 +1,150 @@
 <?xml version="1.0" encoding="UTF-8"?><geoAreas>
-<region id="1879049816" code="1" name="Eriador"/>
-<territory id="1879049792" name="Bree-land" parentId="1879049816"/>
-<territory id="1879051583" name="The Shire" parentId="1879049816"/>
-<territory id="1879051861" name="The Ettenmoors" parentId="1879049816"/>
-<territory id="1879061048" name="Ered Luin" parentId="1879049816"/>
-<territory id="1879062345" name="The Lone-lands" parentId="1879049816"/>
-<territory id="1879063884" name="Angmar" parentId="1879049816"/>
-<territory id="1879072154" name="The North Downs" parentId="1879049816"/>
-<territory id="1879072227" name="The Misty Mountains" parentId="1879049816"/>
-<territory id="1879072246" name="The Trollshaws" parentId="1879049816"/>
-<territory id="1879075991" name="Seamia" parentId="1879049816"/>
-<territory id="1879086545" name="Evendim" parentId="1879049816"/>
-<area id="1879051236" name="Gorothlad" parentId="1879063884"/>
-<area id="1879063917" name="Seamia East" parentId="1879075991"/>
-<area id="1879063918" name="Seamia West" parentId="1879075991"/>
-<area id="1879063919" name="FIX ME: Unassigned" parentId="1879049792"/>
+<region id="1879049816" code="1" name="Эриадор"/>
+<territory id="1879049792" name="Земли Бри" parentId="1879049816"/>
+<territory id="1879051583" name="Шир" parentId="1879049816"/>
+<territory id="1879051861" name="Эттенские высоты" parentId="1879049816"/>
+<territory id="1879061048" name="Эред Луин" parentId="1879049816"/>
+<territory id="1879062345" name="Пустоши" parentId="1879049816"/>
+<territory id="1879063884" name="Ангмар" parentId="1879049816"/>
+<territory id="1879072154" name="Северное нагорье" parentId="1879049816"/>
+<territory id="1879072227" name="Мглистые горы" parentId="1879049816"/>
+<territory id="1879072246" name="Троллистая пуща" parentId="1879049816"/>
+<territory id="1879075991" name="Сеамия" parentId="1879049816"/>
+<territory id="1879086545" name="Эвендим" parentId="1879049816"/>
+<area id="1879051236" name="Горотлад" parentId="1879063884"/>
+<area id="1879063917" name="Восточная Сеамия" parentId="1879075991"/>
+<area id="1879063918" name="Западная Сеамия" parentId="1879075991"/>
+<area id="1879063919" name="ОШИБКА: незадействовано" parentId="1879049792"/>
 <area id="1879063920" name="Test" parentId="1879049792"/>
-<area id="1879063921" name="Vale of Thrain" parentId="1879061048"/>
-<area id="1879063922" name="Low Lands" parentId="1879061048"/>
-<area id="1879063923" name="Haudh Lin" parentId="1879061048"/>
-<area id="1879063924" name="Falathlorn" parentId="1879061048"/>
-<area id="1879063925" name="Sarnúr" parentId="1879061048"/>
-<area id="1879063926" name="Rath Teraig" parentId="1879061048"/>
-<area id="1879063927" name="Refuge of Edhelion" parentId="1879061048"/>
-<area id="1879063928" name="Falathlorn" parentId="1879061048"/>
-<area id="1879063929" name="Celondim" parentId="1879061048"/>
-<area id="1879063930" name="Limael's Vineyard" parentId="1879061048"/>
-<area id="1879063931" name="Kheledûl" parentId="1879061048"/>
-<area id="1879063932" name="Thorin's Gate" parentId="1879061048"/>
-<area id="1879063933" name="South Trollshaws" parentId="1879072246"/>
-<area id="1879063934" name="North Trollshaws" parentId="1879072246"/>
-<area id="1879063935" name="Bruinen Gorges" parentId="1879072246"/>
-<area id="1879063936" name="High Moor" parentId="1879072246"/>
-<area id="1879063937" name="Nan Tornaeth" parentId="1879072246"/>
-<area id="1879063938" name="Giant Valley" parentId="1879072246"/>
-<area id="1879063939" name="Rivendell Valley" parentId="1879072246"/>
-<area id="1879063940" name="Misty Mountains" parentId="1879072246"/>
-<area id="1879063941" name="Bruinen Source West" parentId="1879072227"/>
-<area id="1879063942" name="Bruinen Source North" parentId="1879072227"/>
-<area id="1879063943" name="Bruinen Source East" parentId="1879072227"/>
-<area id="1879063944" name="High Crag" parentId="1879072227"/>
-<area id="1879063945" name="Giant Halls" parentId="1879072227"/>
-<area id="1879063946" name="Helegrod" parentId="1879072227"/>
-<area id="1879063947" name="Annunlos" parentId="1879062345"/>
-<area id="1879063948" name="The Weather Hills" parentId="1879062345"/>
-<area id="1879063949" name="Nain Enidh" parentId="1879062345"/>
-<area id="1879063950" name="Talath Gaun" parentId="1879062345"/>
-<area id="1879063951" name="Harloeg" parentId="1879062345"/>
-<area id="1879063952" name="Agamaur" parentId="1879062345"/>
-<area id="1879063953" name="Haragmar" parentId="1879062345"/>
-<area id="1879063954" name="Talath Gaun" parentId="1879062345"/>
-<area id="1879063955" name="Garth Agarwen" parentId="1879062345"/>
-<area id="1879063956" name="Minas Eriol" parentId="1879062345"/>
-<area id="1879063957" name="Ram Dúath" parentId="1879063884"/>
-<area id="1879063958" name="Western Foothills" parentId="1879063884"/>
-<area id="1879063959" name="Western Malenhad" parentId="1879063884"/>
-<area id="1879063960" name="Snowcapped Hills" parentId="1879063884"/>
-<area id="1879063961" name="Carn Dûm" parentId="1879063884"/>
-<area id="1879063962" name="Fasach-falroid" parentId="1879063884"/>
-<area id="1879063963" name="Fasach-larran" parentId="1879063884"/>
-<area id="1879063964" name="Eastern Malenhad" parentId="1879063884"/>
-<area id="1879063965" name="Imlad Balchorth" parentId="1879063884"/>
-<area id="1879063966" name="Himbar" parentId="1879063884"/>
-<area id="1879063967" name="Nan Gurth" parentId="1879063884"/>
-<area id="1879063968" name="Urugarth" parentId="1879063884"/>
-<area id="1879063969" name="Duvuinen" parentId="1879063884"/>
-<area id="1879063970" name="Maethad" parentId="1879063884"/>
-<area id="1879063971" name="Rhunendin" parentId="1879063884"/>
-<area id="1879063972" name="Trestlebridge" parentId="1879072154"/>
-<area id="1879063973" name="Greenway" parentId="1879072154"/>
-<area id="1879063974" name="Fields of Fornost" parentId="1879072154"/>
-<area id="1879063975" name="Nan Wathren" parentId="1879072154"/>
-<area id="1879063976" name="Deadmen's Dike" parentId="1879072154"/>
-<area id="1879063977" name="Nan Amlug West" parentId="1879072154"/>
-<area id="1879063978" name="Kingsfell" parentId="1879072154"/>
-<area id="1879063979" name="Meluinen" parentId="1879072154"/>
-<area id="1879063980" name="Nan Amlug East" parentId="1879072154"/>
-<area id="1879063981" name="Rhunenlad" parentId="1879072154"/>
-<area id="1879063982" name="Dol Dinen" parentId="1879072154"/>
-<area id="1879063983" name="Annúndir" parentId="1879072154"/>
-<area id="1879063984" name="Gosgenethad" parentId="1879072154"/>
-<area id="1879063985" name="Barad Gost" parentId="1879072154"/>
-<area id="1879063986" name="Fornost" parentId="1879072154"/>
-<area id="1879063987" name="Esteldin" parentId="1879072154"/>
-<area id="1879063988" name="Taur Gonwaith" parentId="1879072154"/>
-<area id="1879063989" name="Hoardale" parentId="1879051861"/>
-<area id="1879063990" name="Arador's End" parentId="1879051861"/>
-<area id="1879063991" name="Steps of Gram" parentId="1879051861"/>
-<area id="1879063992" name="Coldfells" parentId="1879051861"/>
-<area id="1879063993" name="Hithlad" parentId="1879051861"/>
-<area id="1879063994" name="Buckland" parentId="1879049792"/>
-<area id="1879063995" name="Northern Bree-fields" parentId="1879049792"/>
-<area id="1879063996" name="Old Forest" parentId="1879049792"/>
-<area id="1879063997" name="Chetwood" parentId="1879049792"/>
-<area id="1879063998" name="Northern Barrow-downs" parentId="1879049792"/>
-<area id="1879063999" name="Southern Barrow-downs" parentId="1879049792"/>
-<area id="1879064000" name="The Midgewater Marshes" parentId="1879049792"/>
-<area id="1879064001" name="Andrath" parentId="1879049792"/>
-<area id="1879064002" name="Brandy Hills" parentId="1879049792"/>
-<area id="1879064003" name="The Brandywood" parentId="1879049792"/>
-<area id="1879064004" name="Starmere Lake" parentId="1879049792"/>
-<area id="1879064005" name="The Bleakbluffs" parentId="1879049792"/>
-<area id="1879064006" name="Eastern Bree-fields" parentId="1879049792"/>
-<area id="1879064007" name="Far Chetwood" parentId="1879049792"/>
-<area id="1879064008" name="Hengstacer Farm" parentId="1879049792"/>
-<area id="1879064009" name="The Horsefields" parentId="1879049792"/>
-<area id="1879064010" name="Nen Harn" parentId="1879049792"/>
-<area id="1879064011" name="Weather Hills" parentId="1879049792"/>
-<area id="1879064012" name="Combe" parentId="1879049792"/>
-<area id="1879064013" name="Staddle" parentId="1879049792"/>
-<area id="1879064014" name="Archet" parentId="1879049792"/>
-<area id="1879064015" name="Bree" parentId="1879049792"/>
-<area id="1879064016" name="The Delving Fields" parentId="1879051583"/>
-<area id="1879064017" name="Hobbiton-Bywater" parentId="1879051583"/>
-<area id="1879064018" name="Tookland" parentId="1879051583"/>
-<area id="1879064019" name="The Marish" parentId="1879051583"/>
-<area id="1879064020" name="Green Hill Country" parentId="1879051583"/>
-<area id="1879064021" name="Rushock Bog" parentId="1879051583"/>
-<area id="1879064022" name="Bindbole Wood" parentId="1879051583"/>
-<area id="1879064023" name="Greenfields" parentId="1879051583"/>
-<area id="1879064024" name="Bridgefields" parentId="1879051583"/>
-<area id="1879064025" name="The Marish" parentId="1879051583"/>
-<area id="1879064026" name="The Hill" parentId="1879051583"/>
-<area id="1879064027" name="North Bridgefields" parentId="1879051583"/>
-<area id="1879075973" name="Misty Mountains RAID" parentId="1879072246"/>
-<area id="1879078401" name="Southern Bree-fields" parentId="1879049792"/>
-<area id="1879086544" name="Barandalf" parentId="1879086545"/>
-<area id="1879086546" name="Annúminas" parentId="1879086545"/>
-<area id="1879086547" name="Men Erain" parentId="1879086545"/>
-<area id="1879086548" name="Tyl Annûn" parentId="1879086545"/>
-<area id="1879086549" name="Lake Evendim" parentId="1879086545"/>
-<area id="1879086550" name="Tyl Ruinen" parentId="1879086545"/>
-<area id="1879086551" name="Southern Emyn Uial" parentId="1879086545"/>
-<area id="1879086552" name="Tyrn Fornech" parentId="1879086545"/>
-<area id="1879086553" name="Parth Aduial" parentId="1879086545"/>
-<area id="1879086554" name="Northern Emyn Uial" parentId="1879086545"/>
-<area id="1879086555" name="Bullroarer's Sward" parentId="1879086545"/>
-<area id="1879086556" name="Tyl Aegonn" parentId="1879086545"/>
-<area id="1879093998" name="The Rift of Nûrz Ghâshu" parentId="1879063884"/>
-<area id="1879094891" name="Tâl Bruinen" parentId="1879072246"/>
-<area id="1879094892" name="Northern High Pass" parentId="1879072227"/>
-<area id="1879094893" name="Southern High Pass" parentId="1879072227"/>
-<area id="1879094894" name="Goblin-town" parentId="1879072227"/>
-<area id="1879098354" name="Thorin's Hall Homesteads" parentId="1879061048"/>
-<area id="1879098736" name="Falathlorn Homesteads" parentId="1879061048"/>
-<area id="1879098737" name="Shire Homesteads" parentId="1879051583"/>
-<area id="1879098738" name="Bree-land Homesteads" parentId="1879049792"/>
-<area id="1879099191" name="The Delving of Frór" parentId="1879051861"/>
+<area id="1879063921" name="Долина Траина" parentId="1879061048"/>
+<area id="1879063922" name="Низины" parentId="1879061048"/>
+<area id="1879063923" name="Хауд Лин" parentId="1879061048"/>
+<area id="1879063924" name="Фалатлорн" parentId="1879061048"/>
+<area id="1879063925" name="Сарнур" parentId="1879061048"/>
+<area id="1879063926" name="Рат Тераг" parentId="1879061048"/>
+<area id="1879063927" name="Обитель Эделион" parentId="1879061048"/>
+<area id="1879063928" name="Фалатлорн" parentId="1879061048"/>
+<area id="1879063929" name="Келондим" parentId="1879061048"/>
+<area id="1879063930" name="Виноградник Лимаэли" parentId="1879061048"/>
+<area id="1879063931" name="Келедул" parentId="1879061048"/>
+<area id="1879063932" name="Врата Торина" parentId="1879061048"/>
+<area id="1879063933" name="Южная часть Троллистой пущи" parentId="1879072246"/>
+<area id="1879063934" name="Северная часть Троллистой пущи" parentId="1879072246"/>
+<area id="1879063935" name="Ущелья Бруинена" parentId="1879072246"/>
+<area id="1879063936" name="Верхняя пустошь" parentId="1879072246"/>
+<area id="1879063937" name="Нан Торнаэт" parentId="1879072246"/>
+<area id="1879063938" name="Великанья долина" parentId="1879072246"/>
+<area id="1879063939" name="Долина Ривенделл" parentId="1879072246"/>
+<area id="1879063940" name="Мглистые горы" parentId="1879072246"/>
+<area id="1879063941" name="Западный исток Бруинена" parentId="1879072227"/>
+<area id="1879063942" name="Северный исток Бруинена" parentId="1879072227"/>
+<area id="1879063943" name="Восточный исток Бруинена" parentId="1879072227"/>
+<area id="1879063944" name="Высокие скалы" parentId="1879072227"/>
+<area id="1879063945" name="Великаньи чертоги" parentId="1879072227"/>
+<area id="1879063946" name="Хелегрод" parentId="1879072227"/>
+<area id="1879063947" name="Аннунлос" parentId="1879062345"/>
+<area id="1879063948" name="Буреломное угорье" parentId="1879062345"/>
+<area id="1879063949" name="Найн Энид" parentId="1879062345"/>
+<area id="1879063950" name="Талат Гаун" parentId="1879062345"/>
+<area id="1879063951" name="Харлег" parentId="1879062345"/>
+<area id="1879063952" name="Агамаур" parentId="1879062345"/>
+<area id="1879063953" name="Харагмар" parentId="1879062345"/>
+<area id="1879063954" name="Талат Гаун" parentId="1879062345"/>
+<area id="1879063955" name="Гарт Агарвен" parentId="1879062345"/>
+<area id="1879063956" name="Минас-Эриол" parentId="1879062345"/>
+<area id="1879063957" name="Рам Дуат" parentId="1879063884"/>
+<area id="1879063958" name="Западные предгорья" parentId="1879063884"/>
+<area id="1879063959" name="Западный Маленхад" parentId="1879063884"/>
+<area id="1879063960" name="Заснеженные холмы" parentId="1879063884"/>
+<area id="1879063961" name="Карн Дум" parentId="1879063884"/>
+<area id="1879063962" name="Фасах-Фалройд" parentId="1879063884"/>
+<area id="1879063963" name="Фасах-Ларран" parentId="1879063884"/>
+<area id="1879063964" name="Восточный Маленхад" parentId="1879063884"/>
+<area id="1879063965" name="Имлад Балхорт" parentId="1879063884"/>
+<area id="1879063966" name="Имбар" parentId="1879063884"/>
+<area id="1879063967" name="Нан Гурт" parentId="1879063884"/>
+<area id="1879063968" name="Уругарт" parentId="1879063884"/>
+<area id="1879063969" name="Дувуинен" parentId="1879063884"/>
+<area id="1879063970" name="Маэтад" parentId="1879063884"/>
+<area id="1879063971" name="Рунендин" parentId="1879063884"/>
+<area id="1879063972" name="Примостье" parentId="1879072154"/>
+<area id="1879063973" name="Зеленый тракт" parentId="1879072154"/>
+<area id="1879063974" name="Поля Форноста" parentId="1879072154"/>
+<area id="1879063975" name="Нан Ватрен" parentId="1879072154"/>
+<area id="1879063976" name="Мертвецкая гать" parentId="1879072154"/>
+<area id="1879063977" name="Западный Нан Амлуг" parentId="1879072154"/>
+<area id="1879063978" name="Королевские пустоши" parentId="1879072154"/>
+<area id="1879063979" name="Мелуйнен" parentId="1879072154"/>
+<area id="1879063980" name="Восточный Нан Амлуг" parentId="1879072154"/>
+<area id="1879063981" name="Руненлад" parentId="1879072154"/>
+<area id="1879063982" name="Дол Динен" parentId="1879072154"/>
+<area id="1879063983" name="Аннундир" parentId="1879072154"/>
+<area id="1879063984" name="Госгенетад" parentId="1879072154"/>
+<area id="1879063985" name="Барад-Гост" parentId="1879072154"/>
+<area id="1879063986" name="Форност" parentId="1879072154"/>
+<area id="1879063987" name="Эстельдин" parentId="1879072154"/>
+<area id="1879063988" name="Таур Гонвайт" parentId="1879072154"/>
+<area id="1879063989" name="Седая река" parentId="1879051861"/>
+<area id="1879063990" name="Арадорский тупик" parentId="1879051861"/>
+<area id="1879063991" name="Предгорья Грэм" parentId="1879051861"/>
+<area id="1879063992" name="Холодные горы" parentId="1879051861"/>
+<area id="1879063993" name="Хитлад" parentId="1879051861"/>
+<area id="1879063994" name="Забрендия" parentId="1879049792"/>
+<area id="1879063995" name="Северные поля Бри" parentId="1879049792"/>
+<area id="1879063996" name="Вековечный лес" parentId="1879049792"/>
+<area id="1879063997" name="Четвудский лес" parentId="1879049792"/>
+<area id="1879063998" name="Северные могильники" parentId="1879049792"/>
+<area id="1879063999" name="Южные могильники" parentId="1879049792"/>
+<area id="1879064000" name="Комариные топи" parentId="1879049792"/>
+<area id="1879064001" name="Андрат" parentId="1879049792"/>
+<area id="1879064002" name="Брендивинские холмы" parentId="1879049792"/>
+<area id="1879064003" name="Брендивинский лес" parentId="1879049792"/>
+<area id="1879064004" name="Звездное озеро" parentId="1879049792"/>
+<area id="1879064005" name="Холодные утесы" parentId="1879049792"/>
+<area id="1879064006" name="Восточные поля Бри" parentId="1879049792"/>
+<area id="1879064007" name="Дальний Четвудский лес" parentId="1879049792"/>
+<area id="1879064008" name="Ферма Хенгстейсер" parentId="1879049792"/>
+<area id="1879064009" name="Лошадиные луга" parentId="1879049792"/>
+<area id="1879064010" name="Нэн Харн" parentId="1879049792"/>
+<area id="1879064011" name="Буреломное угорье" parentId="1879049792"/>
+<area id="1879064012" name="Овражки" parentId="1879049792"/>
+<area id="1879064013" name="Пристенки" parentId="1879049792"/>
+<area id="1879064014" name="Арчет" parentId="1879049792"/>
+<area id="1879064015" name="Бри" parentId="1879049792"/>
+<area id="1879064016" name="Норские поля" parentId="1879051583"/>
+<area id="1879064017" name="Хоббитон - Приречье" parentId="1879051583"/>
+<area id="1879064018" name="Тукленд" parentId="1879051583"/>
+<area id="1879064019" name="Болотище" parentId="1879051583"/>
+<area id="1879064020" name="Зеленые холмы" parentId="1879051583"/>
+<area id="1879064021" name="Камышовая топь" parentId="1879051583"/>
+<area id="1879064022" name="Дровяной бор" parentId="1879051583"/>
+<area id="1879064023" name="Зеленые поля" parentId="1879051583"/>
+<area id="1879064024" name="Замостьинские поля" parentId="1879051583"/>
+<area id="1879064025" name="Болотище" parentId="1879051583"/>
+<area id="1879064026" name="Круча" parentId="1879051583"/>
+<area id="1879064027" name="Северные замостьинские поля" parentId="1879051583"/>
+<area id="1879075973" name="Мглистые горы - Рейд" parentId="1879072246"/>
+<area id="1879078401" name="Южные поля Бри" parentId="1879049792"/>
+<area id="1879086544" name="Барандальф" parentId="1879086545"/>
+<area id="1879086546" name="Аннуминас" parentId="1879086545"/>
+<area id="1879086547" name="Мен Эрайн" parentId="1879086545"/>
+<area id="1879086548" name="Тиль Аннун" parentId="1879086545"/>
+<area id="1879086549" name="Озеро Эвендим" parentId="1879086545"/>
+<area id="1879086550" name="Тиль Руинен" parentId="1879086545"/>
+<area id="1879086551" name="Южный Эмин Уиал" parentId="1879086545"/>
+<area id="1879086552" name="Тирн Форнех" parentId="1879086545"/>
+<area id="1879086553" name="Парт Адуиал" parentId="1879086545"/>
+<area id="1879086554" name="Северный Эмин Уиал" parentId="1879086545"/>
+<area id="1879086555" name="Луг Бандобраса" parentId="1879086545"/>
+<area id="1879086556" name="Тиль Аэгонн" parentId="1879086545"/>
+<area id="1879093998" name="Разлом Нурз Гхашу" parentId="1879063884"/>
+<area id="1879094891" name="Тал Бруинен" parentId="1879072246"/>
+<area id="1879094892" name="Северный Верхний перевал" parentId="1879072227"/>
+<area id="1879094893" name="Южный Верхний перевал" parentId="1879072227"/>
+<area id="1879094894" name="Город гоблинов" parentId="1879072227"/>
+<area id="1879098354" name="Поселения Чертогов Торина" parentId="1879061048"/>
+<area id="1879098736" name="Поселения Фалатлорна" parentId="1879061048"/>
+<area id="1879098737" name="Поселения Шира" parentId="1879051583"/>
+<area id="1879098738" name="Поселения в землях Бри" parentId="1879049792"/>
+<area id="1879099191" name="Копи Фрора" parentId="1879051861"/>
 </geoAreas>

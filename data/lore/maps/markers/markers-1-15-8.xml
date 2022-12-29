@@ -1,588 +1,588 @@
 <?xml version="1.0" encoding="UTF-8"?><markers>
-<marker id="529092608" label="Young Wood-troll Leader" category="71" did="1879095045" parentZoneId="1879095492" longitude="53.884277" latitude="-17.437803"/>
-<marker id="529092609" label="Young Wood-troll Warrior" category="71" did="1879095046" parentZoneId="1879095492" longitude="53.884277" latitude="-17.437803"/>
-<marker id="529092610" label="Young Wood-troll Lobber" category="71" did="1879095047" parentZoneId="1879095492" longitude="53.884277" latitude="-17.437803"/>
-<marker id="529092611" label="Grasping Pond-lurker" category="71" did="1879095033" parentZoneId="1879095492" longitude="53.884277" latitude="-17.437803"/>
-<marker id="529092612" label="Pond-lurker" category="71" did="1879095034" parentZoneId="1879095492" longitude="53.884277" latitude="-17.437803"/>
-<marker id="529092613" label="Young Wood-troll Leader" category="71" did="1879095045" parentZoneId="1879095492" longitude="53.860096" latitude="-17.407509"/>
-<marker id="529092614" label="Young Wood-troll Warrior" category="71" did="1879095046" parentZoneId="1879095492" longitude="53.860096" latitude="-17.407509"/>
-<marker id="529092615" label="Young Wood-troll Lobber" category="71" did="1879095047" parentZoneId="1879095492" longitude="53.860096" latitude="-17.407509"/>
-<marker id="529092616" label="Grasping Pond-lurker" category="71" did="1879095033" parentZoneId="1879095492" longitude="53.860096" latitude="-17.407509"/>
-<marker id="529092617" label="Pond-lurker" category="71" did="1879095034" parentZoneId="1879095492" longitude="53.860096" latitude="-17.407509"/>
-<marker id="529092618" label="Young Wood-troll Leader" category="71" did="1879095045" parentZoneId="1879095492" longitude="53.780212" latitude="-17.27541"/>
-<marker id="529092619" label="Young Wood-troll Warrior" category="71" did="1879095046" parentZoneId="1879095492" longitude="53.780212" latitude="-17.27541"/>
-<marker id="529092620" label="Young Wood-troll Lobber" category="71" did="1879095047" parentZoneId="1879095492" longitude="53.780212" latitude="-17.27541"/>
-<marker id="529092621" label="Grasping Pond-lurker" category="71" did="1879095033" parentZoneId="1879095492" longitude="53.780212" latitude="-17.27541"/>
-<marker id="529092622" label="Pond-lurker" category="71" did="1879095034" parentZoneId="1879095492" longitude="53.780212" latitude="-17.27541"/>
-<marker id="529092623" label="Young Wood-troll Leader" category="71" did="1879095045" parentZoneId="1879095492" longitude="53.8074" latitude="-17.230059"/>
-<marker id="529092624" label="Young Wood-troll Warrior" category="71" did="1879095046" parentZoneId="1879095492" longitude="53.8074" latitude="-17.230059"/>
-<marker id="529092625" label="Young Wood-troll Lobber" category="71" did="1879095047" parentZoneId="1879095492" longitude="53.8074" latitude="-17.230059"/>
-<marker id="529092626" label="Grasping Pond-lurker" category="71" did="1879095033" parentZoneId="1879095492" longitude="53.8074" latitude="-17.230059"/>
-<marker id="529092627" label="Pond-lurker" category="71" did="1879095034" parentZoneId="1879095492" longitude="53.8074" latitude="-17.230059"/>
-<marker id="529092628" label="Young Wood-troll Leader" category="71" did="1879095045" parentZoneId="1879095492" longitude="53.785175" latitude="-17.328554"/>
-<marker id="529092629" label="Young Wood-troll Warrior" category="71" did="1879095046" parentZoneId="1879095492" longitude="53.785175" latitude="-17.328554"/>
-<marker id="529092630" label="Young Wood-troll Lobber" category="71" did="1879095047" parentZoneId="1879095492" longitude="53.785175" latitude="-17.328554"/>
-<marker id="529092631" label="Grasping Pond-lurker" category="71" did="1879095033" parentZoneId="1879095492" longitude="53.785175" latitude="-17.328554"/>
-<marker id="529092632" label="Pond-lurker" category="71" did="1879095034" parentZoneId="1879095492" longitude="53.785175" latitude="-17.328554"/>
-<marker id="529092633" label="Young Wood-troll Leader" category="71" did="1879095045" parentZoneId="1879095492" longitude="53.758728" latitude="-17.061993"/>
-<marker id="529092634" label="Young Wood-troll Warrior" category="71" did="1879095046" parentZoneId="1879095492" longitude="53.758728" latitude="-17.061993"/>
-<marker id="529092635" label="Young Wood-troll Lobber" category="71" did="1879095047" parentZoneId="1879095492" longitude="53.758728" latitude="-17.061993"/>
-<marker id="529092636" label="Grasping Pond-lurker" category="71" did="1879095033" parentZoneId="1879095492" longitude="53.758728" latitude="-17.061993"/>
-<marker id="529092637" label="Pond-lurker" category="71" did="1879095034" parentZoneId="1879095492" longitude="53.758728" latitude="-17.061993"/>
-<marker id="529092638" label="Young Wood-troll Leader" category="71" did="1879095045" parentZoneId="1879095492" longitude="53.789352" latitude="-17.086805"/>
-<marker id="529092639" label="Young Wood-troll Warrior" category="71" did="1879095046" parentZoneId="1879095492" longitude="53.789352" latitude="-17.086805"/>
-<marker id="529092640" label="Young Wood-troll Lobber" category="71" did="1879095047" parentZoneId="1879095492" longitude="53.789352" latitude="-17.086805"/>
-<marker id="529092641" label="Grasping Pond-lurker" category="71" did="1879095033" parentZoneId="1879095492" longitude="53.789352" latitude="-17.086805"/>
-<marker id="529092642" label="Pond-lurker" category="71" did="1879095034" parentZoneId="1879095492" longitude="53.789352" latitude="-17.086805"/>
-<marker id="529092643" label="Young Wood-troll Leader" category="71" did="1879095045" parentZoneId="1879095492" longitude="53.922596" latitude="-17.382061"/>
-<marker id="529092644" label="Young Wood-troll Warrior" category="71" did="1879095046" parentZoneId="1879095492" longitude="53.922596" latitude="-17.382061"/>
-<marker id="529092645" label="Young Wood-troll Lobber" category="71" did="1879095047" parentZoneId="1879095492" longitude="53.922596" latitude="-17.382061"/>
-<marker id="529092646" label="Grasping Pond-lurker" category="71" did="1879095033" parentZoneId="1879095492" longitude="53.922596" latitude="-17.382061"/>
-<marker id="529092647" label="Pond-lurker" category="71" did="1879095034" parentZoneId="1879095492" longitude="53.922596" latitude="-17.382061"/>
-<marker id="529092648" label="Young Wood-troll Leader" category="71" did="1879095045" parentZoneId="1879095492" longitude="53.952774" latitude="-17.590645"/>
-<marker id="529092649" label="Young Wood-troll Warrior" category="71" did="1879095046" parentZoneId="1879095492" longitude="53.952774" latitude="-17.590645"/>
-<marker id="529092650" label="Young Wood-troll Lobber" category="71" did="1879095047" parentZoneId="1879095492" longitude="53.952774" latitude="-17.590645"/>
-<marker id="529092651" label="Grasping Pond-lurker" category="71" did="1879095033" parentZoneId="1879095492" longitude="53.952774" latitude="-17.590645"/>
-<marker id="529092652" label="Pond-lurker" category="71" did="1879095034" parentZoneId="1879095492" longitude="53.952774" latitude="-17.590645"/>
-<marker id="529092653" label="Young Wood-troll Leader" category="71" did="1879095045" parentZoneId="1879095492" longitude="53.792793" latitude="-17.404707"/>
-<marker id="529092654" label="Young Wood-troll Warrior" category="71" did="1879095046" parentZoneId="1879095492" longitude="53.792793" latitude="-17.404707"/>
-<marker id="529092655" label="Young Wood-troll Lobber" category="71" did="1879095047" parentZoneId="1879095492" longitude="53.792793" latitude="-17.404707"/>
-<marker id="529092656" label="Grasping Pond-lurker" category="71" did="1879095033" parentZoneId="1879095492" longitude="53.792793" latitude="-17.404707"/>
-<marker id="529092657" label="Pond-lurker" category="71" did="1879095034" parentZoneId="1879095492" longitude="53.792793" latitude="-17.404707"/>
-<marker id="529092658" label="Young Wood-troll Leader" category="71" did="1879095045" parentZoneId="1879095492" longitude="53.68535" latitude="-17.385323"/>
-<marker id="529092659" label="Young Wood-troll Warrior" category="71" did="1879095046" parentZoneId="1879095492" longitude="53.68535" latitude="-17.385323"/>
-<marker id="529092660" label="Young Wood-troll Lobber" category="71" did="1879095047" parentZoneId="1879095492" longitude="53.68535" latitude="-17.385323"/>
-<marker id="529092661" label="Grasping Pond-lurker" category="71" did="1879095033" parentZoneId="1879095492" longitude="53.68535" latitude="-17.385323"/>
-<marker id="529092662" label="Pond-lurker" category="71" did="1879095034" parentZoneId="1879095492" longitude="53.68535" latitude="-17.385323"/>
-<marker id="529092663" label="Young Wood-troll Leader" category="71" did="1879095045" parentZoneId="1879095492" longitude="53.73582" latitude="-17.386679"/>
-<marker id="529092664" label="Young Wood-troll Warrior" category="71" did="1879095046" parentZoneId="1879095492" longitude="53.73582" latitude="-17.386679"/>
-<marker id="529092665" label="Young Wood-troll Lobber" category="71" did="1879095047" parentZoneId="1879095492" longitude="53.73582" latitude="-17.386679"/>
-<marker id="529092666" label="Grasping Pond-lurker" category="71" did="1879095033" parentZoneId="1879095492" longitude="53.73582" latitude="-17.386679"/>
-<marker id="529092667" label="Pond-lurker" category="71" did="1879095034" parentZoneId="1879095492" longitude="53.73582" latitude="-17.386679"/>
-<marker id="529092668" label="Young Wood-troll Leader" category="71" did="1879095045" parentZoneId="1879095492" longitude="53.61166" latitude="-17.48995"/>
-<marker id="529092669" label="Young Wood-troll Warrior" category="71" did="1879095046" parentZoneId="1879095492" longitude="53.61166" latitude="-17.48995"/>
-<marker id="529092670" label="Young Wood-troll Lobber" category="71" did="1879095047" parentZoneId="1879095492" longitude="53.61166" latitude="-17.48995"/>
-<marker id="529092671" label="Grasping Pond-lurker" category="71" did="1879095033" parentZoneId="1879095492" longitude="53.61166" latitude="-17.48995"/>
-<marker id="529092672" label="Pond-lurker" category="71" did="1879095034" parentZoneId="1879095492" longitude="53.61166" latitude="-17.48995"/>
-<marker id="529092673" label="Young Wood-troll Leader" category="71" did="1879095045" parentZoneId="1879095492" longitude="53.595722" latitude="-17.555136"/>
-<marker id="529092674" label="Young Wood-troll Warrior" category="71" did="1879095046" parentZoneId="1879095492" longitude="53.595722" latitude="-17.555136"/>
-<marker id="529092675" label="Young Wood-troll Lobber" category="71" did="1879095047" parentZoneId="1879095492" longitude="53.595722" latitude="-17.555136"/>
-<marker id="529092676" label="Grasping Pond-lurker" category="71" did="1879095033" parentZoneId="1879095492" longitude="53.595722" latitude="-17.555136"/>
-<marker id="529092677" label="Pond-lurker" category="71" did="1879095034" parentZoneId="1879095492" longitude="53.595722" latitude="-17.555136"/>
-<marker id="529092678" label="Young Wood-troll Leader" category="71" did="1879095045" parentZoneId="1879095492" longitude="53.589687" latitude="-17.520342"/>
-<marker id="529092679" label="Young Wood-troll Warrior" category="71" did="1879095046" parentZoneId="1879095492" longitude="53.589687" latitude="-17.520342"/>
-<marker id="529092680" label="Young Wood-troll Lobber" category="71" did="1879095047" parentZoneId="1879095492" longitude="53.589687" latitude="-17.520342"/>
-<marker id="529092681" label="Grasping Pond-lurker" category="71" did="1879095033" parentZoneId="1879095492" longitude="53.589687" latitude="-17.520342"/>
-<marker id="529092682" label="Pond-lurker" category="71" did="1879095034" parentZoneId="1879095492" longitude="53.589687" latitude="-17.520342"/>
-<marker id="529092683" label="Young Wood-troll Leader" category="71" did="1879095045" parentZoneId="1879095492" longitude="53.62455" latitude="-17.718475"/>
-<marker id="529092684" label="Young Wood-troll Warrior" category="71" did="1879095046" parentZoneId="1879095492" longitude="53.62455" latitude="-17.718475"/>
-<marker id="529092685" label="Young Wood-troll Lobber" category="71" did="1879095047" parentZoneId="1879095492" longitude="53.62455" latitude="-17.718475"/>
-<marker id="529092686" label="Grasping Pond-lurker" category="71" did="1879095033" parentZoneId="1879095492" longitude="53.62455" latitude="-17.718475"/>
-<marker id="529092687" label="Pond-lurker" category="71" did="1879095034" parentZoneId="1879095492" longitude="53.62455" latitude="-17.718475"/>
-<marker id="529092688" label="Young Wood-troll Leader" category="71" did="1879095045" parentZoneId="1879095492" longitude="53.602383" latitude="-17.686972"/>
-<marker id="529092689" label="Young Wood-troll Warrior" category="71" did="1879095046" parentZoneId="1879095492" longitude="53.602383" latitude="-17.686972"/>
-<marker id="529092690" label="Young Wood-troll Lobber" category="71" did="1879095047" parentZoneId="1879095492" longitude="53.602383" latitude="-17.686972"/>
-<marker id="529092691" label="Grasping Pond-lurker" category="71" did="1879095033" parentZoneId="1879095492" longitude="53.602383" latitude="-17.686972"/>
-<marker id="529092692" label="Pond-lurker" category="71" did="1879095034" parentZoneId="1879095492" longitude="53.602383" latitude="-17.686972"/>
-<marker id="529096704" label="Ferocious Pack-leader" category="71" did="1879095043" parentZoneId="1879095491" longitude="51.62574" latitude="-17.367723"/>
-<marker id="529096705" label="Snarling Forest-stalker" category="71" did="1879095044" parentZoneId="1879095491" longitude="51.62574" latitude="-17.367723"/>
-<marker id="529096706" label="Gauradan Ritualist" category="71" did="1879095037" parentZoneId="1879095491" longitude="51.62574" latitude="-17.367723"/>
-<marker id="529096707" label="Gauradan Forest-walker" category="71" did="1879095038" parentZoneId="1879095491" longitude="51.62574" latitude="-17.367723"/>
-<marker id="529096708" label="Gauradan Far-seer" category="71" did="1879095039" parentZoneId="1879095491" longitude="51.62574" latitude="-17.367723"/>
-<marker id="529096709" label="Ferocious Pack-leader" category="71" did="1879095043" parentZoneId="1879095491" longitude="51.695293" latitude="-17.327187"/>
-<marker id="529096710" label="Snarling Forest-stalker" category="71" did="1879095044" parentZoneId="1879095491" longitude="51.695293" latitude="-17.327187"/>
-<marker id="529096711" label="Gauradan Ritualist" category="71" did="1879095037" parentZoneId="1879095491" longitude="51.695293" latitude="-17.327187"/>
-<marker id="529096712" label="Gauradan Forest-walker" category="71" did="1879095038" parentZoneId="1879095491" longitude="51.695293" latitude="-17.327187"/>
-<marker id="529096713" label="Gauradan Far-seer" category="71" did="1879095039" parentZoneId="1879095491" longitude="51.695293" latitude="-17.327187"/>
-<marker id="529096714" label="Ferocious Pack-leader" category="71" did="1879095043" parentZoneId="1879095491" longitude="51.637596" latitude="-17.314833"/>
-<marker id="529096715" label="Snarling Forest-stalker" category="71" did="1879095044" parentZoneId="1879095491" longitude="51.637596" latitude="-17.314833"/>
-<marker id="529096716" label="Gauradan Ritualist" category="71" did="1879095037" parentZoneId="1879095491" longitude="51.637596" latitude="-17.314833"/>
-<marker id="529096717" label="Gauradan Forest-walker" category="71" did="1879095038" parentZoneId="1879095491" longitude="51.637596" latitude="-17.314833"/>
-<marker id="529096718" label="Gauradan Far-seer" category="71" did="1879095039" parentZoneId="1879095491" longitude="51.637596" latitude="-17.314833"/>
-<marker id="529096719" label="Ferocious Pack-leader" category="71" did="1879095043" parentZoneId="1879095491" longitude="51.660213" latitude="-17.374863"/>
-<marker id="529096720" label="Snarling Forest-stalker" category="71" did="1879095044" parentZoneId="1879095491" longitude="51.660213" latitude="-17.374863"/>
-<marker id="529096721" label="Gauradan Ritualist" category="71" did="1879095037" parentZoneId="1879095491" longitude="51.660213" latitude="-17.374863"/>
-<marker id="529096722" label="Gauradan Forest-walker" category="71" did="1879095038" parentZoneId="1879095491" longitude="51.660213" latitude="-17.374863"/>
-<marker id="529096723" label="Gauradan Far-seer" category="71" did="1879095039" parentZoneId="1879095491" longitude="51.660213" latitude="-17.374863"/>
-<marker id="529096724" label="Ferocious Pack-leader" category="71" did="1879095043" parentZoneId="1879095491" longitude="51.76615" latitude="-17.19998"/>
-<marker id="529096725" label="Snarling Forest-stalker" category="71" did="1879095044" parentZoneId="1879095491" longitude="51.76615" latitude="-17.19998"/>
-<marker id="529096726" label="Gauradan Ritualist" category="71" did="1879095037" parentZoneId="1879095491" longitude="51.76615" latitude="-17.19998"/>
-<marker id="529096727" label="Gauradan Forest-walker" category="71" did="1879095038" parentZoneId="1879095491" longitude="51.76615" latitude="-17.19998"/>
-<marker id="529096728" label="Gauradan Far-seer" category="71" did="1879095039" parentZoneId="1879095491" longitude="51.76615" latitude="-17.19998"/>
-<marker id="529096729" label="Ferocious Pack-leader" category="71" did="1879095043" parentZoneId="1879095491" longitude="51.70123" latitude="-17.207745"/>
-<marker id="529096730" label="Snarling Forest-stalker" category="71" did="1879095044" parentZoneId="1879095491" longitude="51.70123" latitude="-17.207745"/>
-<marker id="529096731" label="Gauradan Ritualist" category="71" did="1879095037" parentZoneId="1879095491" longitude="51.70123" latitude="-17.207745"/>
-<marker id="529096732" label="Gauradan Forest-walker" category="71" did="1879095038" parentZoneId="1879095491" longitude="51.70123" latitude="-17.207745"/>
-<marker id="529096733" label="Gauradan Far-seer" category="71" did="1879095039" parentZoneId="1879095491" longitude="51.70123" latitude="-17.207745"/>
-<marker id="529096734" label="Ferocious Pack-leader" category="71" did="1879095043" parentZoneId="1879095491" longitude="51.749256" latitude="-17.175156"/>
-<marker id="529096735" label="Snarling Forest-stalker" category="71" did="1879095044" parentZoneId="1879095491" longitude="51.749256" latitude="-17.175156"/>
-<marker id="529096736" label="Gauradan Ritualist" category="71" did="1879095037" parentZoneId="1879095491" longitude="51.749256" latitude="-17.175156"/>
-<marker id="529096737" label="Gauradan Forest-walker" category="71" did="1879095038" parentZoneId="1879095491" longitude="51.749256" latitude="-17.175156"/>
-<marker id="529096738" label="Gauradan Far-seer" category="71" did="1879095039" parentZoneId="1879095491" longitude="51.749256" latitude="-17.175156"/>
-<marker id="529096739" label="Ferocious Pack-leader" category="71" did="1879095043" parentZoneId="1879095491" longitude="51.736835" latitude="-17.16544"/>
-<marker id="529096740" label="Snarling Forest-stalker" category="71" did="1879095044" parentZoneId="1879095491" longitude="51.736835" latitude="-17.16544"/>
-<marker id="529096741" label="Gauradan Ritualist" category="71" did="1879095037" parentZoneId="1879095491" longitude="51.736835" latitude="-17.16544"/>
-<marker id="529096742" label="Gauradan Forest-walker" category="71" did="1879095038" parentZoneId="1879095491" longitude="51.736835" latitude="-17.16544"/>
-<marker id="529096743" label="Gauradan Far-seer" category="71" did="1879095039" parentZoneId="1879095491" longitude="51.736835" latitude="-17.16544"/>
-<marker id="529096744" label="Ferocious Pack-leader" category="71" did="1879095043" parentZoneId="1879095491" longitude="51.870625" latitude="-17.015253"/>
-<marker id="529096745" label="Snarling Forest-stalker" category="71" did="1879095044" parentZoneId="1879095491" longitude="51.870625" latitude="-17.015253"/>
-<marker id="529096746" label="Gauradan Ritualist" category="71" did="1879095037" parentZoneId="1879095491" longitude="51.870625" latitude="-17.015253"/>
-<marker id="529096747" label="Gauradan Forest-walker" category="71" did="1879095038" parentZoneId="1879095491" longitude="51.870625" latitude="-17.015253"/>
-<marker id="529096748" label="Gauradan Far-seer" category="71" did="1879095039" parentZoneId="1879095491" longitude="51.870625" latitude="-17.015253"/>
-<marker id="529096749" label="Ferocious Pack-leader" category="71" did="1879095043" parentZoneId="1879095491" longitude="51.896442" latitude="-17.029472"/>
-<marker id="529096750" label="Snarling Forest-stalker" category="71" did="1879095044" parentZoneId="1879095491" longitude="51.896442" latitude="-17.029472"/>
-<marker id="529096751" label="Gauradan Ritualist" category="71" did="1879095037" parentZoneId="1879095491" longitude="51.896442" latitude="-17.029472"/>
-<marker id="529096752" label="Gauradan Forest-walker" category="71" did="1879095038" parentZoneId="1879095491" longitude="51.896442" latitude="-17.029472"/>
-<marker id="529096753" label="Gauradan Far-seer" category="71" did="1879095039" parentZoneId="1879095491" longitude="51.896442" latitude="-17.029472"/>
-<marker id="529096754" label="Ferocious Pack-leader" category="71" did="1879095043" parentZoneId="1879095491" longitude="51.87242" latitude="-17.160479"/>
-<marker id="529096755" label="Snarling Forest-stalker" category="71" did="1879095044" parentZoneId="1879095491" longitude="51.87242" latitude="-17.160479"/>
-<marker id="529096756" label="Gauradan Ritualist" category="71" did="1879095037" parentZoneId="1879095491" longitude="51.87242" latitude="-17.160479"/>
-<marker id="529096757" label="Gauradan Forest-walker" category="71" did="1879095038" parentZoneId="1879095491" longitude="51.87242" latitude="-17.160479"/>
-<marker id="529096758" label="Gauradan Far-seer" category="71" did="1879095039" parentZoneId="1879095491" longitude="51.87242" latitude="-17.160479"/>
-<marker id="529096759" label="Ferocious Pack-leader" category="71" did="1879095043" parentZoneId="1879095491" longitude="51.820114" latitude="-17.106054"/>
-<marker id="529096760" label="Snarling Forest-stalker" category="71" did="1879095044" parentZoneId="1879095491" longitude="51.820114" latitude="-17.106054"/>
-<marker id="529096761" label="Gauradan Ritualist" category="71" did="1879095037" parentZoneId="1879095491" longitude="51.820114" latitude="-17.106054"/>
-<marker id="529096762" label="Gauradan Forest-walker" category="71" did="1879095038" parentZoneId="1879095491" longitude="51.820114" latitude="-17.106054"/>
-<marker id="529096763" label="Gauradan Far-seer" category="71" did="1879095039" parentZoneId="1879095491" longitude="51.820114" latitude="-17.106054"/>
-<marker id="529096764" label="Ferocious Pack-leader" category="71" did="1879095043" parentZoneId="1879095491" longitude="51.74412" latitude="-17.06165"/>
-<marker id="529096765" label="Snarling Forest-stalker" category="71" did="1879095044" parentZoneId="1879095491" longitude="51.74412" latitude="-17.06165"/>
-<marker id="529096766" label="Gauradan Ritualist" category="71" did="1879095037" parentZoneId="1879095491" longitude="51.74412" latitude="-17.06165"/>
-<marker id="529096767" label="Gauradan Forest-walker" category="71" did="1879095038" parentZoneId="1879095491" longitude="51.74412" latitude="-17.06165"/>
-<marker id="529096768" label="Gauradan Far-seer" category="71" did="1879095039" parentZoneId="1879095491" longitude="51.74412" latitude="-17.06165"/>
-<marker id="529096769" label="Ferocious Pack-leader" category="71" did="1879095043" parentZoneId="1879095491" longitude="51.884686" latitude="-17.323164"/>
-<marker id="529096770" label="Snarling Forest-stalker" category="71" did="1879095044" parentZoneId="1879095491" longitude="51.884686" latitude="-17.323164"/>
-<marker id="529096771" label="Gauradan Ritualist" category="71" did="1879095037" parentZoneId="1879095491" longitude="51.884686" latitude="-17.323164"/>
-<marker id="529096772" label="Gauradan Forest-walker" category="71" did="1879095038" parentZoneId="1879095491" longitude="51.884686" latitude="-17.323164"/>
-<marker id="529096773" label="Gauradan Far-seer" category="71" did="1879095039" parentZoneId="1879095491" longitude="51.884686" latitude="-17.323164"/>
-<marker id="529096774" label="Ferocious Pack-leader" category="71" did="1879095043" parentZoneId="1879095491" longitude="52.03119" latitude="-17.203983"/>
-<marker id="529096775" label="Snarling Forest-stalker" category="71" did="1879095044" parentZoneId="1879095491" longitude="52.03119" latitude="-17.203983"/>
-<marker id="529096776" label="Gauradan Ritualist" category="71" did="1879095037" parentZoneId="1879095491" longitude="52.03119" latitude="-17.203983"/>
-<marker id="529096777" label="Gauradan Forest-walker" category="71" did="1879095038" parentZoneId="1879095491" longitude="52.03119" latitude="-17.203983"/>
-<marker id="529096778" label="Gauradan Far-seer" category="71" did="1879095039" parentZoneId="1879095491" longitude="52.03119" latitude="-17.203983"/>
-<marker id="529096779" label="Ferocious Pack-leader" category="71" did="1879095043" parentZoneId="1879095491" longitude="52.036892" latitude="-17.228153"/>
-<marker id="529096780" label="Snarling Forest-stalker" category="71" did="1879095044" parentZoneId="1879095491" longitude="52.036892" latitude="-17.228153"/>
-<marker id="529096781" label="Gauradan Ritualist" category="71" did="1879095037" parentZoneId="1879095491" longitude="52.036892" latitude="-17.228153"/>
-<marker id="529096782" label="Gauradan Forest-walker" category="71" did="1879095038" parentZoneId="1879095491" longitude="52.036892" latitude="-17.228153"/>
-<marker id="529096783" label="Gauradan Far-seer" category="71" did="1879095039" parentZoneId="1879095491" longitude="52.036892" latitude="-17.228153"/>
-<marker id="529096784" label="Ferocious Pack-leader" category="71" did="1879095043" parentZoneId="1879095491" longitude="52.020935" latitude="-17.08955"/>
-<marker id="529096785" label="Snarling Forest-stalker" category="71" did="1879095044" parentZoneId="1879095491" longitude="52.020935" latitude="-17.08955"/>
-<marker id="529096786" label="Gauradan Ritualist" category="71" did="1879095037" parentZoneId="1879095491" longitude="52.020935" latitude="-17.08955"/>
-<marker id="529096787" label="Gauradan Forest-walker" category="71" did="1879095038" parentZoneId="1879095491" longitude="52.020935" latitude="-17.08955"/>
-<marker id="529096788" label="Gauradan Far-seer" category="71" did="1879095039" parentZoneId="1879095491" longitude="52.020935" latitude="-17.08955"/>
-<marker id="529096789" label="Ferocious Pack-leader" category="71" did="1879095043" parentZoneId="1879095491" longitude="51.806053" latitude="-17.233076"/>
-<marker id="529096790" label="Snarling Forest-stalker" category="71" did="1879095044" parentZoneId="1879095491" longitude="51.806053" latitude="-17.233076"/>
-<marker id="529096791" label="Gauradan Ritualist" category="71" did="1879095037" parentZoneId="1879095491" longitude="51.806053" latitude="-17.233076"/>
-<marker id="529096792" label="Gauradan Forest-walker" category="71" did="1879095038" parentZoneId="1879095491" longitude="51.806053" latitude="-17.233076"/>
-<marker id="529096793" label="Gauradan Far-seer" category="71" did="1879095039" parentZoneId="1879095491" longitude="51.806053" latitude="-17.233076"/>
-<marker id="529096794" label="Ferocious Pack-leader" category="71" did="1879095043" parentZoneId="1879095491" longitude="51.680565" latitude="-17.10333"/>
-<marker id="529096795" label="Snarling Forest-stalker" category="71" did="1879095044" parentZoneId="1879095491" longitude="51.680565" latitude="-17.10333"/>
-<marker id="529096796" label="Gauradan Ritualist" category="71" did="1879095037" parentZoneId="1879095491" longitude="51.680565" latitude="-17.10333"/>
-<marker id="529096797" label="Gauradan Forest-walker" category="71" did="1879095038" parentZoneId="1879095491" longitude="51.680565" latitude="-17.10333"/>
-<marker id="529096798" label="Gauradan Far-seer" category="71" did="1879095039" parentZoneId="1879095491" longitude="51.680565" latitude="-17.10333"/>
-<marker id="529096799" label="Ferocious Pack-leader" category="71" did="1879095043" parentZoneId="1879095491" longitude="51.697304" latitude="-17.044199"/>
-<marker id="529096800" label="Snarling Forest-stalker" category="71" did="1879095044" parentZoneId="1879095491" longitude="51.697304" latitude="-17.044199"/>
-<marker id="529096801" label="Gauradan Ritualist" category="71" did="1879095037" parentZoneId="1879095491" longitude="51.697304" latitude="-17.044199"/>
-<marker id="529096802" label="Gauradan Forest-walker" category="71" did="1879095038" parentZoneId="1879095491" longitude="51.697304" latitude="-17.044199"/>
-<marker id="529096803" label="Gauradan Far-seer" category="71" did="1879095039" parentZoneId="1879095491" longitude="51.697304" latitude="-17.044199"/>
-<marker id="529096804" label="Ferocious Pack-leader" category="71" did="1879095043" parentZoneId="1879095491" longitude="51.945076" latitude="-17.303984"/>
-<marker id="529096805" label="Snarling Forest-stalker" category="71" did="1879095044" parentZoneId="1879095491" longitude="51.945076" latitude="-17.303984"/>
-<marker id="529096806" label="Gauradan Ritualist" category="71" did="1879095037" parentZoneId="1879095491" longitude="51.945076" latitude="-17.303984"/>
-<marker id="529096807" label="Gauradan Forest-walker" category="71" did="1879095038" parentZoneId="1879095491" longitude="51.945076" latitude="-17.303984"/>
-<marker id="529096808" label="Gauradan Far-seer" category="71" did="1879095039" parentZoneId="1879095491" longitude="51.945076" latitude="-17.303984"/>
-<marker id="529096809" label="Ferocious Pack-leader" category="71" did="1879095043" parentZoneId="1879095491" longitude="51.84408" latitude="-17.308096"/>
-<marker id="529096810" label="Snarling Forest-stalker" category="71" did="1879095044" parentZoneId="1879095491" longitude="51.84408" latitude="-17.308096"/>
-<marker id="529096811" label="Gauradan Ritualist" category="71" did="1879095037" parentZoneId="1879095491" longitude="51.84408" latitude="-17.308096"/>
-<marker id="529096812" label="Gauradan Forest-walker" category="71" did="1879095038" parentZoneId="1879095491" longitude="51.84408" latitude="-17.308096"/>
-<marker id="529096813" label="Gauradan Far-seer" category="71" did="1879095039" parentZoneId="1879095491" longitude="51.84408" latitude="-17.308096"/>
-<marker id="529096814" label="Ferocious Pack-leader" category="71" did="1879095043" parentZoneId="1879095491" longitude="51.90463" latitude="-17.469374"/>
-<marker id="529096815" label="Snarling Forest-stalker" category="71" did="1879095044" parentZoneId="1879095491" longitude="51.90463" latitude="-17.469374"/>
-<marker id="529096816" label="Gauradan Ritualist" category="71" did="1879095037" parentZoneId="1879095491" longitude="51.90463" latitude="-17.469374"/>
-<marker id="529096817" label="Gauradan Forest-walker" category="71" did="1879095038" parentZoneId="1879095491" longitude="51.90463" latitude="-17.469374"/>
-<marker id="529096818" label="Gauradan Far-seer" category="71" did="1879095039" parentZoneId="1879095491" longitude="51.90463" latitude="-17.469374"/>
-<marker id="529096819" label="Ferocious Pack-leader" category="71" did="1879095043" parentZoneId="1879095491" longitude="51.876892" latitude="-17.451826"/>
-<marker id="529096820" label="Snarling Forest-stalker" category="71" did="1879095044" parentZoneId="1879095491" longitude="51.876892" latitude="-17.451826"/>
-<marker id="529096821" label="Gauradan Ritualist" category="71" did="1879095037" parentZoneId="1879095491" longitude="51.876892" latitude="-17.451826"/>
-<marker id="529096822" label="Gauradan Forest-walker" category="71" did="1879095038" parentZoneId="1879095491" longitude="51.876892" latitude="-17.451826"/>
-<marker id="529096823" label="Gauradan Far-seer" category="71" did="1879095039" parentZoneId="1879095491" longitude="51.876892" latitude="-17.451826"/>
-<marker id="529096824" label="Ferocious Pack-leader" category="71" did="1879095043" parentZoneId="1879095491" longitude="51.923183" latitude="-17.388916"/>
-<marker id="529096825" label="Snarling Forest-stalker" category="71" did="1879095044" parentZoneId="1879095491" longitude="51.923183" latitude="-17.388916"/>
-<marker id="529096826" label="Gauradan Ritualist" category="71" did="1879095037" parentZoneId="1879095491" longitude="51.923183" latitude="-17.388916"/>
-<marker id="529096827" label="Gauradan Forest-walker" category="71" did="1879095038" parentZoneId="1879095491" longitude="51.923183" latitude="-17.388916"/>
-<marker id="529096828" label="Gauradan Far-seer" category="71" did="1879095039" parentZoneId="1879095491" longitude="51.923183" latitude="-17.388916"/>
-<marker id="529096829" label="Ferocious Pack-leader" category="71" did="1879095043" parentZoneId="1879095491" longitude="51.66049" latitude="-17.207607"/>
-<marker id="529096830" label="Snarling Forest-stalker" category="71" did="1879095044" parentZoneId="1879095491" longitude="51.66049" latitude="-17.207607"/>
-<marker id="529096831" label="Gauradan Ritualist" category="71" did="1879095037" parentZoneId="1879095491" longitude="51.66049" latitude="-17.207607"/>
-<marker id="529096832" label="Gauradan Forest-walker" category="71" did="1879095038" parentZoneId="1879095491" longitude="51.66049" latitude="-17.207607"/>
-<marker id="529096833" label="Gauradan Far-seer" category="71" did="1879095039" parentZoneId="1879095491" longitude="51.66049" latitude="-17.207607"/>
-<marker id="529149952" label="Halmur Stoneshaper" category="70" did="1879048494" parentZoneId="1879048493" longitude="53.1792" latitude="-19.465937"/>
-<marker id="529158144" label="Muildir" category="70" did="1879098757" parentZoneId="1879095490" longitude="53.206932" latitude="-16.648945"/>
-<marker id="529162240" label="Postman Took" category="70" did="1879048498" parentZoneId="1879048497" longitude="53.204216" latitude="-17.214844"/>
-<marker id="529170432" label="Tom Bombadil" category="70" did="1879048502" parentZoneId="1879048501" longitude="53.11275" latitude="-15.555049"/>
-<marker id="529178624" label="Long-grass Tusker" category="71" did="1879078082" parentZoneId="1879048508" longitude="53.494198" latitude="-13.796426"/>
-<marker id="529178625" label="Yarrow Root" category="73" did="1879066722" parentZoneId="1879048508" longitude="53.494198" latitude="-13.796426"/>
-<marker id="529178626" label="Long-grass Swine" category="71" did="1879078083" parentZoneId="1879048508" longitude="53.494198" latitude="-13.796426"/>
-<marker id="529178627" label="Flitting Bat" category="71" did="1879078084" parentZoneId="1879048508" longitude="53.494198" latitude="-13.796426"/>
-<marker id="529178628" label="Greenfields Biter" category="71" did="1879061432" parentZoneId="1879048508" longitude="53.494198" latitude="-13.796426"/>
-<marker id="529178629" label="Greenfields Tree-weaver" category="71" did="1879061433" parentZoneId="1879048508" longitude="53.494198" latitude="-13.796426"/>
-<marker id="529178630" label="Greenfields Queen" category="71" did="1879061434" parentZoneId="1879048508" longitude="53.494198" latitude="-13.796426"/>
-<marker id="529178631" label="Long-grass Tusker" category="71" did="1879078082" parentZoneId="1879048508" longitude="53.223846" latitude="-13.799462"/>
-<marker id="529178632" label="Yarrow Root" category="73" did="1879066722" parentZoneId="1879048508" longitude="53.223846" latitude="-13.799462"/>
-<marker id="529178633" label="Long-grass Swine" category="71" did="1879078083" parentZoneId="1879048508" longitude="53.223846" latitude="-13.799462"/>
-<marker id="529178634" label="Flitting Bat" category="71" did="1879078084" parentZoneId="1879048508" longitude="53.223846" latitude="-13.799462"/>
-<marker id="529178635" label="Greenfields Biter" category="71" did="1879061432" parentZoneId="1879048508" longitude="53.223846" latitude="-13.799462"/>
-<marker id="529178636" label="Greenfields Tree-weaver" category="71" did="1879061433" parentZoneId="1879048508" longitude="53.223846" latitude="-13.799462"/>
-<marker id="529178637" label="Greenfields Queen" category="71" did="1879061434" parentZoneId="1879048508" longitude="53.223846" latitude="-13.799462"/>
-<marker id="529178638" label="Long-grass Tusker" category="71" did="1879078082" parentZoneId="1879048508" longitude="52.964043" latitude="-13.805927"/>
-<marker id="529178639" label="Yarrow Root" category="73" did="1879066722" parentZoneId="1879048508" longitude="52.964043" latitude="-13.805927"/>
-<marker id="529178640" label="Long-grass Swine" category="71" did="1879078083" parentZoneId="1879048508" longitude="52.964043" latitude="-13.805927"/>
-<marker id="529178641" label="Flitting Bat" category="71" did="1879078084" parentZoneId="1879048508" longitude="52.964043" latitude="-13.805927"/>
-<marker id="529178642" label="Greenfields Biter" category="71" did="1879061432" parentZoneId="1879048508" longitude="52.964043" latitude="-13.805927"/>
-<marker id="529178643" label="Greenfields Tree-weaver" category="71" did="1879061433" parentZoneId="1879048508" longitude="52.964043" latitude="-13.805927"/>
-<marker id="529178644" label="Greenfields Queen" category="71" did="1879061434" parentZoneId="1879048508" longitude="52.964043" latitude="-13.805927"/>
-<marker id="529178645" label="Long-grass Tusker" category="71" did="1879078082" parentZoneId="1879048508" longitude="53.23072" latitude="-13.86916"/>
-<marker id="529178646" label="Yarrow Root" category="73" did="1879066722" parentZoneId="1879048508" longitude="53.23072" latitude="-13.86916"/>
-<marker id="529178647" label="Long-grass Swine" category="71" did="1879078083" parentZoneId="1879048508" longitude="53.23072" latitude="-13.86916"/>
-<marker id="529178648" label="Flitting Bat" category="71" did="1879078084" parentZoneId="1879048508" longitude="53.23072" latitude="-13.86916"/>
-<marker id="529178649" label="Greenfields Biter" category="71" did="1879061432" parentZoneId="1879048508" longitude="53.23072" latitude="-13.86916"/>
-<marker id="529178650" label="Greenfields Tree-weaver" category="71" did="1879061433" parentZoneId="1879048508" longitude="53.23072" latitude="-13.86916"/>
-<marker id="529178651" label="Greenfields Queen" category="71" did="1879061434" parentZoneId="1879048508" longitude="53.23072" latitude="-13.86916"/>
-<marker id="529178652" label="Long-grass Tusker" category="71" did="1879078082" parentZoneId="1879048508" longitude="53.00912" latitude="-13.797138"/>
-<marker id="529178653" label="Yarrow Root" category="73" did="1879066722" parentZoneId="1879048508" longitude="53.00912" latitude="-13.797138"/>
-<marker id="529178654" label="Long-grass Swine" category="71" did="1879078083" parentZoneId="1879048508" longitude="53.00912" latitude="-13.797138"/>
-<marker id="529178655" label="Flitting Bat" category="71" did="1879078084" parentZoneId="1879048508" longitude="53.00912" latitude="-13.797138"/>
-<marker id="529178656" label="Greenfields Biter" category="71" did="1879061432" parentZoneId="1879048508" longitude="53.00912" latitude="-13.797138"/>
-<marker id="529178657" label="Greenfields Tree-weaver" category="71" did="1879061433" parentZoneId="1879048508" longitude="53.00912" latitude="-13.797138"/>
-<marker id="529178658" label="Greenfields Queen" category="71" did="1879061434" parentZoneId="1879048508" longitude="53.00912" latitude="-13.797138"/>
-<marker id="529178659" label="Long-grass Tusker" category="71" did="1879078082" parentZoneId="1879048508" longitude="53.294685" latitude="-13.803223"/>
-<marker id="529178660" label="Yarrow Root" category="73" did="1879066722" parentZoneId="1879048508" longitude="53.294685" latitude="-13.803223"/>
-<marker id="529178661" label="Long-grass Swine" category="71" did="1879078083" parentZoneId="1879048508" longitude="53.294685" latitude="-13.803223"/>
-<marker id="529178662" label="Flitting Bat" category="71" did="1879078084" parentZoneId="1879048508" longitude="53.294685" latitude="-13.803223"/>
-<marker id="529178663" label="Greenfields Biter" category="71" did="1879061432" parentZoneId="1879048508" longitude="53.294685" latitude="-13.803223"/>
-<marker id="529178664" label="Greenfields Tree-weaver" category="71" did="1879061433" parentZoneId="1879048508" longitude="53.294685" latitude="-13.803223"/>
-<marker id="529178665" label="Greenfields Queen" category="71" did="1879061434" parentZoneId="1879048508" longitude="53.294685" latitude="-13.803223"/>
-<marker id="529178666" label="Long-grass Tusker" category="71" did="1879078082" parentZoneId="1879048508" longitude="53.435173" latitude="-13.788164"/>
-<marker id="529178667" label="Yarrow Root" category="73" did="1879066722" parentZoneId="1879048508" longitude="53.435173" latitude="-13.788164"/>
-<marker id="529178668" label="Long-grass Swine" category="71" did="1879078083" parentZoneId="1879048508" longitude="53.435173" latitude="-13.788164"/>
-<marker id="529178669" label="Flitting Bat" category="71" did="1879078084" parentZoneId="1879048508" longitude="53.435173" latitude="-13.788164"/>
-<marker id="529178670" label="Greenfields Biter" category="71" did="1879061432" parentZoneId="1879048508" longitude="53.435173" latitude="-13.788164"/>
-<marker id="529178671" label="Greenfields Tree-weaver" category="71" did="1879061433" parentZoneId="1879048508" longitude="53.435173" latitude="-13.788164"/>
-<marker id="529178672" label="Greenfields Queen" category="71" did="1879061434" parentZoneId="1879048508" longitude="53.435173" latitude="-13.788164"/>
-<marker id="529178673" label="Long-grass Tusker" category="71" did="1879078082" parentZoneId="1879048508" longitude="53.218456" latitude="-13.679541"/>
-<marker id="529178674" label="Yarrow Root" category="73" did="1879066722" parentZoneId="1879048508" longitude="53.218456" latitude="-13.679541"/>
-<marker id="529178675" label="Long-grass Swine" category="71" did="1879078083" parentZoneId="1879048508" longitude="53.218456" latitude="-13.679541"/>
-<marker id="529178676" label="Flitting Bat" category="71" did="1879078084" parentZoneId="1879048508" longitude="53.218456" latitude="-13.679541"/>
-<marker id="529178677" label="Greenfields Biter" category="71" did="1879061432" parentZoneId="1879048508" longitude="53.218456" latitude="-13.679541"/>
-<marker id="529178678" label="Greenfields Tree-weaver" category="71" did="1879061433" parentZoneId="1879048508" longitude="53.218456" latitude="-13.679541"/>
-<marker id="529178679" label="Greenfields Queen" category="71" did="1879061434" parentZoneId="1879048508" longitude="53.218456" latitude="-13.679541"/>
-<marker id="529178680" label="Long-grass Tusker" category="71" did="1879078082" parentZoneId="1879048508" longitude="53.13426" latitude="-13.786299"/>
-<marker id="529178681" label="Yarrow Root" category="73" did="1879066722" parentZoneId="1879048508" longitude="53.13426" latitude="-13.786299"/>
-<marker id="529178682" label="Long-grass Swine" category="71" did="1879078083" parentZoneId="1879048508" longitude="53.13426" latitude="-13.786299"/>
-<marker id="529178683" label="Flitting Bat" category="71" did="1879078084" parentZoneId="1879048508" longitude="53.13426" latitude="-13.786299"/>
-<marker id="529178684" label="Greenfields Biter" category="71" did="1879061432" parentZoneId="1879048508" longitude="53.13426" latitude="-13.786299"/>
-<marker id="529178685" label="Greenfields Tree-weaver" category="71" did="1879061433" parentZoneId="1879048508" longitude="53.13426" latitude="-13.786299"/>
-<marker id="529178686" label="Greenfields Queen" category="71" did="1879061434" parentZoneId="1879048508" longitude="53.13426" latitude="-13.786299"/>
-<marker id="529178687" label="Long-grass Tusker" category="71" did="1879078082" parentZoneId="1879048508" longitude="53.070488" latitude="-13.814326"/>
-<marker id="529178688" label="Yarrow Root" category="73" did="1879066722" parentZoneId="1879048508" longitude="53.070488" latitude="-13.814326"/>
-<marker id="529178689" label="Long-grass Swine" category="71" did="1879078083" parentZoneId="1879048508" longitude="53.070488" latitude="-13.814326"/>
-<marker id="529178690" label="Flitting Bat" category="71" did="1879078084" parentZoneId="1879048508" longitude="53.070488" latitude="-13.814326"/>
-<marker id="529178691" label="Greenfields Biter" category="71" did="1879061432" parentZoneId="1879048508" longitude="53.070488" latitude="-13.814326"/>
-<marker id="529178692" label="Greenfields Tree-weaver" category="71" did="1879061433" parentZoneId="1879048508" longitude="53.070488" latitude="-13.814326"/>
-<marker id="529178693" label="Greenfields Queen" category="71" did="1879061434" parentZoneId="1879048508" longitude="53.070488" latitude="-13.814326"/>
-<marker id="529178694" label="Long-grass Tusker" category="71" did="1879078082" parentZoneId="1879048508" longitude="53.15039" latitude="-13.704512"/>
-<marker id="529178695" label="Yarrow Root" category="73" did="1879066722" parentZoneId="1879048508" longitude="53.15039" latitude="-13.704512"/>
-<marker id="529178696" label="Long-grass Swine" category="71" did="1879078083" parentZoneId="1879048508" longitude="53.15039" latitude="-13.704512"/>
-<marker id="529178697" label="Flitting Bat" category="71" did="1879078084" parentZoneId="1879048508" longitude="53.15039" latitude="-13.704512"/>
-<marker id="529178698" label="Greenfields Biter" category="71" did="1879061432" parentZoneId="1879048508" longitude="53.15039" latitude="-13.704512"/>
-<marker id="529178699" label="Greenfields Tree-weaver" category="71" did="1879061433" parentZoneId="1879048508" longitude="53.15039" latitude="-13.704512"/>
-<marker id="529178700" label="Greenfields Queen" category="71" did="1879061434" parentZoneId="1879048508" longitude="53.15039" latitude="-13.704512"/>
-<marker id="529178701" label="Long-grass Tusker" category="71" did="1879078082" parentZoneId="1879048508" longitude="53.26281" latitude="-13.725273"/>
-<marker id="529178702" label="Yarrow Root" category="73" did="1879066722" parentZoneId="1879048508" longitude="53.26281" latitude="-13.725273"/>
-<marker id="529178703" label="Long-grass Swine" category="71" did="1879078083" parentZoneId="1879048508" longitude="53.26281" latitude="-13.725273"/>
-<marker id="529178704" label="Flitting Bat" category="71" did="1879078084" parentZoneId="1879048508" longitude="53.26281" latitude="-13.725273"/>
-<marker id="529178705" label="Greenfields Biter" category="71" did="1879061432" parentZoneId="1879048508" longitude="53.26281" latitude="-13.725273"/>
-<marker id="529178706" label="Greenfields Tree-weaver" category="71" did="1879061433" parentZoneId="1879048508" longitude="53.26281" latitude="-13.725273"/>
-<marker id="529178707" label="Greenfields Queen" category="71" did="1879061434" parentZoneId="1879048508" longitude="53.26281" latitude="-13.725273"/>
-<marker id="529178708" label="Long-grass Tusker" category="71" did="1879078082" parentZoneId="1879048508" longitude="53.225937" latitude="-13.935996"/>
-<marker id="529178709" label="Yarrow Root" category="73" did="1879066722" parentZoneId="1879048508" longitude="53.225937" latitude="-13.935996"/>
-<marker id="529178710" label="Long-grass Swine" category="71" did="1879078083" parentZoneId="1879048508" longitude="53.225937" latitude="-13.935996"/>
-<marker id="529178711" label="Flitting Bat" category="71" did="1879078084" parentZoneId="1879048508" longitude="53.225937" latitude="-13.935996"/>
-<marker id="529178712" label="Greenfields Biter" category="71" did="1879061432" parentZoneId="1879048508" longitude="53.225937" latitude="-13.935996"/>
-<marker id="529178713" label="Greenfields Tree-weaver" category="71" did="1879061433" parentZoneId="1879048508" longitude="53.225937" latitude="-13.935996"/>
-<marker id="529178714" label="Greenfields Queen" category="71" did="1879061434" parentZoneId="1879048508" longitude="53.225937" latitude="-13.935996"/>
-<marker id="529178715" label="Long-grass Tusker" category="71" did="1879078082" parentZoneId="1879048508" longitude="53.355057" latitude="-13.814472"/>
-<marker id="529178716" label="Yarrow Root" category="73" did="1879066722" parentZoneId="1879048508" longitude="53.355057" latitude="-13.814472"/>
-<marker id="529178717" label="Long-grass Swine" category="71" did="1879078083" parentZoneId="1879048508" longitude="53.355057" latitude="-13.814472"/>
-<marker id="529178718" label="Flitting Bat" category="71" did="1879078084" parentZoneId="1879048508" longitude="53.355057" latitude="-13.814472"/>
-<marker id="529178719" label="Greenfields Biter" category="71" did="1879061432" parentZoneId="1879048508" longitude="53.355057" latitude="-13.814472"/>
-<marker id="529178720" label="Greenfields Tree-weaver" category="71" did="1879061433" parentZoneId="1879048508" longitude="53.355057" latitude="-13.814472"/>
-<marker id="529178721" label="Greenfields Queen" category="71" did="1879061434" parentZoneId="1879048508" longitude="53.355057" latitude="-13.814472"/>
-<marker id="529190912" label="Gerebert Took" category="70" did="1879048510" parentZoneId="1879048509" longitude="53.156933" latitude="-11.553398"/>
-<marker id="529199104" label="Rock-troll Brawler" category="71" did="1879081673" parentZoneId="1879051238" longitude="54.226757" latitude="-11.149521"/>
-<marker id="529199105" label="Rock-troll Hurler" category="71" did="1879081674" parentZoneId="1879051238" longitude="54.226757" latitude="-11.149521"/>
-<marker id="529199106" label="Rock-troll Brawler" category="71" did="1879081673" parentZoneId="1879051238" longitude="53.97367" latitude="-11.978613"/>
-<marker id="529199107" label="Rock-troll Hurler" category="71" did="1879081674" parentZoneId="1879051238" longitude="53.97367" latitude="-11.978613"/>
-<marker id="529199108" label="Rock-troll Brawler" category="71" did="1879081673" parentZoneId="1879051238" longitude="54.12666" latitude="-12.30334"/>
-<marker id="529199109" label="Rock-troll Hurler" category="71" did="1879081674" parentZoneId="1879051238" longitude="54.12666" latitude="-12.30334"/>
-<marker id="529199110" label="Rock-troll Brawler" category="71" did="1879081673" parentZoneId="1879051238" longitude="54.2025" latitude="-11.087744"/>
-<marker id="529199111" label="Rock-troll Hurler" category="71" did="1879081674" parentZoneId="1879051238" longitude="54.2025" latitude="-11.087744"/>
-<marker id="529199112" label="Rock-troll Brawler" category="71" did="1879081673" parentZoneId="1879051238" longitude="53.91047" latitude="-10.216025"/>
-<marker id="529199113" label="Rock-troll Hurler" category="71" did="1879081674" parentZoneId="1879051238" longitude="53.91047" latitude="-10.216025"/>
-<marker id="529199114" label="Rock-troll Flesheater" category="71" did="1879083549" parentZoneId="1879051238" longitude="52.86998" latitude="-11.934433"/>
-<marker id="529199115" label="Rock-troll Lobber" category="71" did="1879083550" parentZoneId="1879051238" longitude="52.86998" latitude="-11.934433"/>
-<marker id="529199116" label="Rock-troll Brawler" category="71" did="1879081673" parentZoneId="1879051238" longitude="53.962128" latitude="-10.853125"/>
-<marker id="529199117" label="Rock-troll Hurler" category="71" did="1879081674" parentZoneId="1879051238" longitude="53.962128" latitude="-10.853125"/>
-<marker id="529199118" label="Rock-troll Flesheater" category="71" did="1879083549" parentZoneId="1879051238" longitude="52.983047" latitude="-12.446934"/>
-<marker id="529199119" label="Rock-troll Lobber" category="71" did="1879083550" parentZoneId="1879051238" longitude="52.983047" latitude="-12.446934"/>
-<marker id="529199120" label="Rock-troll Brawler" category="71" did="1879081673" parentZoneId="1879051238" longitude="54.322224" latitude="-12.099062"/>
-<marker id="529199121" label="Rock-troll Hurler" category="71" did="1879081674" parentZoneId="1879051238" longitude="54.322224" latitude="-12.099062"/>
-<marker id="529199122" label="Rock-troll Flesheater" category="71" did="1879083549" parentZoneId="1879051238" longitude="53.254375" latitude="-12.200479"/>
-<marker id="529199123" label="Rock-troll Lobber" category="71" did="1879083550" parentZoneId="1879051238" longitude="53.254375" latitude="-12.200479"/>
-<marker id="529199124" label="Rock-troll Flesheater" category="71" did="1879083549" parentZoneId="1879051238" longitude="53.399685" latitude="-11.663593"/>
-<marker id="529199125" label="Rock-troll Lobber" category="71" did="1879083550" parentZoneId="1879051238" longitude="53.399685" latitude="-11.663593"/>
-<marker id="529199126" label="Rock-troll Wildarm" category="71" did="1879083544" parentZoneId="1879051238" longitude="52.057068" latitude="-12.655322"/>
-<marker id="529199127" label="Hillmen Defender" category="71" did="1879083545" parentZoneId="1879051238" longitude="52.057068" latitude="-12.655322"/>
-<marker id="529199128" label="Rock-troll Flesheater" category="71" did="1879083549" parentZoneId="1879051238" longitude="53.587498" latitude="-11.720478"/>
-<marker id="529199129" label="Rock-troll Lobber" category="71" did="1879083550" parentZoneId="1879051238" longitude="53.587498" latitude="-11.720478"/>
-<marker id="529199130" label="Rock-troll Brawler" category="71" did="1879081673" parentZoneId="1879051238" longitude="54.185078" latitude="-11.9489355"/>
-<marker id="529199131" label="Rock-troll Hurler" category="71" did="1879081674" parentZoneId="1879051238" longitude="54.185078" latitude="-11.9489355"/>
-<marker id="529199132" label="Rock-troll Brawler" category="71" did="1879081673" parentZoneId="1879051238" longitude="53.41949" latitude="-13.062519"/>
-<marker id="529199133" label="Rock-troll Hurler" category="71" did="1879081674" parentZoneId="1879051238" longitude="53.41949" latitude="-13.062519"/>
-<marker id="529199134" label="Rock-troll Brawler" category="71" did="1879081673" parentZoneId="1879051238" longitude="53.745213" latitude="-10.665195"/>
-<marker id="529199135" label="Rock-troll Hurler" category="71" did="1879081674" parentZoneId="1879051238" longitude="53.745213" latitude="-10.665195"/>
-<marker id="529199136" label="Rock-troll Brawler" category="71" did="1879081673" parentZoneId="1879051238" longitude="53.947674" latitude="-11.953183"/>
-<marker id="529199137" label="Rock-troll Hurler" category="71" did="1879081674" parentZoneId="1879051238" longitude="53.947674" latitude="-11.953183"/>
-<marker id="529199138" label="Rock-troll Brawler" category="71" did="1879081673" parentZoneId="1879051238" longitude="54.352715" latitude="-11.899854"/>
-<marker id="529199139" label="Rock-troll Hurler" category="71" did="1879081674" parentZoneId="1879051238" longitude="54.352715" latitude="-11.899854"/>
-<marker id="529199140" label="Rock-troll Brawler" category="71" did="1879081673" parentZoneId="1879051238" longitude="54.02287" latitude="-12.088096"/>
-<marker id="529199141" label="Rock-troll Hurler" category="71" did="1879081674" parentZoneId="1879051238" longitude="54.02287" latitude="-12.088096"/>
-<marker id="529199142" label="Rock-troll Brawler" category="71" did="1879081673" parentZoneId="1879051238" longitude="53.724236" latitude="-10.656289"/>
-<marker id="529199143" label="Rock-troll Hurler" category="71" did="1879081674" parentZoneId="1879051238" longitude="53.724236" latitude="-10.656289"/>
-<marker id="529199144" label="Rock-troll Brawler" category="71" did="1879081673" parentZoneId="1879051238" longitude="54.261112" latitude="-11.3233595"/>
-<marker id="529199145" label="Rock-troll Hurler" category="71" did="1879081674" parentZoneId="1879051238" longitude="54.261112" latitude="-11.3233595"/>
-<marker id="529199146" label="Rock-troll Flesheater" category="71" did="1879083549" parentZoneId="1879051238" longitude="53.219803" latitude="-12.14417"/>
-<marker id="529199147" label="Rock-troll Lobber" category="71" did="1879083550" parentZoneId="1879051238" longitude="53.219803" latitude="-12.14417"/>
-<marker id="529199148" label="Rock-troll Flesheater" category="71" did="1879083549" parentZoneId="1879051238" longitude="53.27049" latitude="-11.652051"/>
-<marker id="529199149" label="Rock-troll Lobber" category="71" did="1879083550" parentZoneId="1879051238" longitude="53.27049" latitude="-11.652051"/>
-<marker id="529199150" label="Rock-troll Brawler" category="71" did="1879081673" parentZoneId="1879051238" longitude="54.141678" latitude="-11.13121"/>
-<marker id="529199151" label="Rock-troll Hurler" category="71" did="1879081674" parentZoneId="1879051238" longitude="54.141678" latitude="-11.13121"/>
-<marker id="529199152" label="Rock-troll Flesheater" category="71" did="1879083549" parentZoneId="1879051238" longitude="52.859745" latitude="-11.888417"/>
-<marker id="529199153" label="Rock-troll Lobber" category="71" did="1879083550" parentZoneId="1879051238" longitude="52.859745" latitude="-11.888417"/>
-<marker id="529199154" label="Rock-troll Brawler" category="71" did="1879081673" parentZoneId="1879051238" longitude="53.78984" latitude="-10.849716"/>
-<marker id="529199155" label="Rock-troll Hurler" category="71" did="1879081674" parentZoneId="1879051238" longitude="53.78984" latitude="-10.849716"/>
-<marker id="529199156" label="Rock-troll Brawler" category="71" did="1879081673" parentZoneId="1879051238" longitude="53.840157" latitude="-13.047461"/>
-<marker id="529199157" label="Rock-troll Hurler" category="71" did="1879081674" parentZoneId="1879051238" longitude="53.840157" latitude="-13.047461"/>
-<marker id="529199158" label="Rock-troll Flesheater" category="71" did="1879083549" parentZoneId="1879051238" longitude="53.383064" latitude="-11.567998"/>
-<marker id="529199159" label="Rock-troll Lobber" category="71" did="1879083550" parentZoneId="1879051238" longitude="53.383064" latitude="-11.567998"/>
-<marker id="529199160" label="Rock-troll Flesheater" category="71" did="1879083549" parentZoneId="1879051238" longitude="53.54578" latitude="-11.649033"/>
-<marker id="529199161" label="Rock-troll Lobber" category="71" did="1879083550" parentZoneId="1879051238" longitude="53.54578" latitude="-11.649033"/>
-<marker id="529199162" label="Rock-troll Brawler" category="71" did="1879081673" parentZoneId="1879051238" longitude="54.436874" latitude="-11.853926"/>
-<marker id="529199163" label="Rock-troll Hurler" category="71" did="1879081674" parentZoneId="1879051238" longitude="54.436874" latitude="-11.853926"/>
-<marker id="529199164" label="Rock-troll Flesheater" category="71" did="1879083549" parentZoneId="1879051238" longitude="53.499763" latitude="-11.599345"/>
-<marker id="529199165" label="Rock-troll Lobber" category="71" did="1879083550" parentZoneId="1879051238" longitude="53.499763" latitude="-11.599345"/>
-<marker id="529199166" label="Rock-troll Brawler" category="71" did="1879081673" parentZoneId="1879051238" longitude="53.945057" latitude="-10.215761"/>
-<marker id="529199167" label="Rock-troll Hurler" category="71" did="1879081674" parentZoneId="1879051238" longitude="53.945057" latitude="-10.215761"/>
-<marker id="529199168" label="Rock-troll Flesheater" category="71" did="1879083549" parentZoneId="1879051238" longitude="53.43369" latitude="-11.613652"/>
-<marker id="529199169" label="Rock-troll Lobber" category="71" did="1879083550" parentZoneId="1879051238" longitude="53.43369" latitude="-11.613652"/>
-<marker id="529199170" label="Rock-troll Brawler" category="71" did="1879081673" parentZoneId="1879051238" longitude="53.90418" latitude="-12.513642"/>
-<marker id="529199171" label="Rock-troll Hurler" category="71" did="1879081674" parentZoneId="1879051238" longitude="53.90418" latitude="-12.513642"/>
-<marker id="529199172" label="Rock-troll Flesheater" category="71" did="1879083549" parentZoneId="1879051238" longitude="52.77836" latitude="-12.262998"/>
-<marker id="529199173" label="Rock-troll Lobber" category="71" did="1879083550" parentZoneId="1879051238" longitude="52.77836" latitude="-12.262998"/>
-<marker id="529199174" label="Rock-troll Flesheater" category="71" did="1879083549" parentZoneId="1879051238" longitude="53.162148" latitude="-11.773232"/>
-<marker id="529199175" label="Rock-troll Lobber" category="71" did="1879083550" parentZoneId="1879051238" longitude="53.162148" latitude="-11.773232"/>
-<marker id="529199176" label="Rock-troll Brawler" category="71" did="1879081673" parentZoneId="1879051238" longitude="54.079433" latitude="-11.840293"/>
-<marker id="529199177" label="Rock-troll Hurler" category="71" did="1879081674" parentZoneId="1879051238" longitude="54.079433" latitude="-11.840293"/>
-<marker id="529199178" label="Rock-troll Brawler" category="71" did="1879081673" parentZoneId="1879051238" longitude="54.091465" latitude="-11.862256"/>
-<marker id="529199179" label="Rock-troll Hurler" category="71" did="1879081674" parentZoneId="1879051238" longitude="54.091465" latitude="-11.862256"/>
-<marker id="529199180" label="Rock-troll Flesheater" category="71" did="1879083549" parentZoneId="1879051238" longitude="53.24992" latitude="-12.665429"/>
-<marker id="529199181" label="Rock-troll Lobber" category="71" did="1879083550" parentZoneId="1879051238" longitude="53.24992" latitude="-12.665429"/>
-<marker id="529199182" label="Rock-troll Flesheater" category="71" did="1879083549" parentZoneId="1879051238" longitude="53.21582" latitude="-12.668711"/>
-<marker id="529199183" label="Rock-troll Lobber" category="71" did="1879083550" parentZoneId="1879051238" longitude="53.21582" latitude="-12.668711"/>
-<marker id="529199184" label="Rock-troll Brawler" category="71" did="1879081673" parentZoneId="1879051238" longitude="54.33705" latitude="-12.524804"/>
-<marker id="529199185" label="Rock-troll Hurler" category="71" did="1879081674" parentZoneId="1879051238" longitude="54.33705" latitude="-12.524804"/>
-<marker id="529199186" label="Rock-troll Brawler" category="71" did="1879081673" parentZoneId="1879051238" longitude="53.75533" latitude="-10.940078"/>
-<marker id="529199187" label="Rock-troll Hurler" category="71" did="1879081674" parentZoneId="1879051238" longitude="53.75533" latitude="-10.940078"/>
-<marker id="529199188" label="Rock-troll Flesheater" category="71" did="1879083549" parentZoneId="1879051238" longitude="53.144375" latitude="-12.404873"/>
-<marker id="529199189" label="Rock-troll Lobber" category="71" did="1879083550" parentZoneId="1879051238" longitude="53.144375" latitude="-12.404873"/>
-<marker id="529199190" label="Rock-troll Brawler" category="71" did="1879081673" parentZoneId="1879051238" longitude="54.100506" latitude="-12.132578"/>
-<marker id="529199191" label="Rock-troll Hurler" category="71" did="1879081674" parentZoneId="1879051238" longitude="54.100506" latitude="-12.132578"/>
-<marker id="529199192" label="Rock-troll Flesheater" category="71" did="1879083549" parentZoneId="1879051238" longitude="52.62199" latitude="-12.298642"/>
-<marker id="529199193" label="Rock-troll Lobber" category="71" did="1879083550" parentZoneId="1879051238" longitude="52.62199" latitude="-12.298642"/>
-<marker id="529199194" label="Rock-troll Flesheater" category="71" did="1879083549" parentZoneId="1879051238" longitude="52.73742" latitude="-12.242216"/>
-<marker id="529199195" label="Rock-troll Lobber" category="71" did="1879083550" parentZoneId="1879051238" longitude="52.73742" latitude="-12.242216"/>
-<marker id="529199196" label="Rock-troll Flesheater" category="71" did="1879083549" parentZoneId="1879051238" longitude="52.933395" latitude="-12.17001"/>
-<marker id="529199197" label="Rock-troll Lobber" category="71" did="1879083550" parentZoneId="1879051238" longitude="52.933395" latitude="-12.17001"/>
-<marker id="529199198" label="Rock-troll Brawler" category="71" did="1879081673" parentZoneId="1879051238" longitude="54.39365" latitude="-12.549316"/>
-<marker id="529199199" label="Rock-troll Hurler" category="71" did="1879081674" parentZoneId="1879051238" longitude="54.39365" latitude="-12.549316"/>
-<marker id="529199200" label="Rock-troll Flesheater" category="71" did="1879083549" parentZoneId="1879051238" longitude="53.017204" latitude="-11.825185"/>
-<marker id="529199201" label="Rock-troll Lobber" category="71" did="1879083550" parentZoneId="1879051238" longitude="53.017204" latitude="-11.825185"/>
-<marker id="529199202" label="Rock-troll Flesheater" category="71" did="1879083549" parentZoneId="1879051238" longitude="52.892773" latitude="-11.921044"/>
-<marker id="529199203" label="Rock-troll Lobber" category="71" did="1879083550" parentZoneId="1879051238" longitude="52.892773" latitude="-11.921044"/>
-<marker id="529199204" label="Rock-troll Brawler" category="71" did="1879081673" parentZoneId="1879051238" longitude="54.042282" latitude="-12.3574705"/>
-<marker id="529199205" label="Rock-troll Hurler" category="71" did="1879081674" parentZoneId="1879051238" longitude="54.042282" latitude="-12.3574705"/>
-<marker id="529199206" label="Rock-troll Brawler" category="71" did="1879081673" parentZoneId="1879051238" longitude="54.387226" latitude="-11.214717"/>
-<marker id="529199207" label="Rock-troll Hurler" category="71" did="1879081674" parentZoneId="1879051238" longitude="54.387226" latitude="-11.214717"/>
-<marker id="529199208" label="Rock-troll Flesheater" category="71" did="1879083549" parentZoneId="1879051238" longitude="53.1607" latitude="-12.140283"/>
-<marker id="529199209" label="Rock-troll Lobber" category="71" did="1879083550" parentZoneId="1879051238" longitude="53.1607" latitude="-12.140283"/>
-<marker id="529199210" label="Rock-troll Flesheater" category="71" did="1879083549" parentZoneId="1879051238" longitude="52.895176" latitude="-12.474863"/>
-<marker id="529199211" label="Rock-troll Lobber" category="71" did="1879083550" parentZoneId="1879051238" longitude="52.895176" latitude="-12.474863"/>
-<marker id="529199212" label="Rock-troll Brawler" category="71" did="1879081673" parentZoneId="1879051238" longitude="54.091755" latitude="-12.116699"/>
-<marker id="529199213" label="Rock-troll Hurler" category="71" did="1879081674" parentZoneId="1879051238" longitude="54.091755" latitude="-12.116699"/>
-<marker id="529199214" label="Rock-troll Flesheater" category="71" did="1879083549" parentZoneId="1879051238" longitude="53.102966" latitude="-12.360957"/>
-<marker id="529199215" label="Rock-troll Lobber" category="71" did="1879083550" parentZoneId="1879051238" longitude="53.102966" latitude="-12.360957"/>
-<marker id="529199216" label="Rock-troll Brawler" category="71" did="1879081673" parentZoneId="1879051238" longitude="53.49697" latitude="-13.032089"/>
-<marker id="529199217" label="Rock-troll Hurler" category="71" did="1879081674" parentZoneId="1879051238" longitude="53.49697" latitude="-13.032089"/>
-<marker id="529199218" label="Rock-troll Brawler" category="71" did="1879081673" parentZoneId="1879051238" longitude="54.283203" latitude="-12.099609"/>
-<marker id="529199219" label="Rock-troll Hurler" category="71" did="1879081674" parentZoneId="1879051238" longitude="54.283203" latitude="-12.099609"/>
-<marker id="529199220" label="Rock-troll Brawler" category="71" did="1879081673" parentZoneId="1879051238" longitude="54.352245" latitude="-11.122812"/>
-<marker id="529199221" label="Rock-troll Hurler" category="71" did="1879081674" parentZoneId="1879051238" longitude="54.352245" latitude="-11.122812"/>
-<marker id="529199222" label="Rock-troll Brawler" category="71" did="1879081673" parentZoneId="1879051238" longitude="53.981583" latitude="-10.814688"/>
-<marker id="529199223" label="Rock-troll Hurler" category="71" did="1879081674" parentZoneId="1879051238" longitude="53.981583" latitude="-10.814688"/>
-<marker id="529199224" label="Rock-troll Brawler" category="71" did="1879081673" parentZoneId="1879051238" longitude="53.424118" latitude="-12.996983"/>
-<marker id="529199225" label="Rock-troll Hurler" category="71" did="1879081674" parentZoneId="1879051238" longitude="53.424118" latitude="-12.996983"/>
-<marker id="529199226" label="Rock-troll Brawler" category="71" did="1879081673" parentZoneId="1879051238" longitude="53.905273" latitude="-12.014345"/>
-<marker id="529199227" label="Rock-troll Hurler" category="71" did="1879081674" parentZoneId="1879051238" longitude="53.905273" latitude="-12.014345"/>
-<marker id="529199228" label="Rock-troll Flesheater" category="71" did="1879083549" parentZoneId="1879051238" longitude="53.30371" latitude="-11.622969"/>
-<marker id="529199229" label="Rock-troll Lobber" category="71" did="1879083550" parentZoneId="1879051238" longitude="53.30371" latitude="-11.622969"/>
-<marker id="529199230" label="Rock-troll Brawler" category="71" did="1879081673" parentZoneId="1879051238" longitude="53.863495" latitude="-13.1275"/>
-<marker id="529199231" label="Rock-troll Hurler" category="71" did="1879081674" parentZoneId="1879051238" longitude="53.863495" latitude="-13.1275"/>
-<marker id="529199232" label="Rock-troll Flesheater" category="71" did="1879083549" parentZoneId="1879051238" longitude="53.291836" latitude="-11.602412"/>
-<marker id="529199233" label="Rock-troll Lobber" category="71" did="1879083550" parentZoneId="1879051238" longitude="53.291836" latitude="-11.602412"/>
-<marker id="529199234" label="Rock-troll Flesheater" category="71" did="1879083549" parentZoneId="1879051238" longitude="53.51578" latitude="-11.547451"/>
-<marker id="529199235" label="Rock-troll Lobber" category="71" did="1879083550" parentZoneId="1879051238" longitude="53.51578" latitude="-11.547451"/>
-<marker id="529199236" label="Rock-troll Brawler" category="71" did="1879081673" parentZoneId="1879051238" longitude="53.84926" latitude="-12.608339"/>
-<marker id="529199237" label="Rock-troll Hurler" category="71" did="1879081674" parentZoneId="1879051238" longitude="53.84926" latitude="-12.608339"/>
-<marker id="529199238" label="Rock-troll Brawler" category="71" did="1879081673" parentZoneId="1879051238" longitude="53.97787" latitude="-12.10912"/>
-<marker id="529199239" label="Rock-troll Hurler" category="71" did="1879081674" parentZoneId="1879051238" longitude="53.97787" latitude="-12.10912"/>
-<marker id="529199240" label="Rock-troll Flesheater" category="71" did="1879083549" parentZoneId="1879051238" longitude="53.47861" latitude="-11.591992"/>
-<marker id="529199241" label="Rock-troll Lobber" category="71" did="1879083550" parentZoneId="1879051238" longitude="53.47861" latitude="-11.591992"/>
-<marker id="529199242" label="Rock-troll Wildarm" category="71" did="1879083544" parentZoneId="1879051238" longitude="51.93168" latitude="-12.574697"/>
-<marker id="529199243" label="Hillmen Defender" category="71" did="1879083545" parentZoneId="1879051238" longitude="51.93168" latitude="-12.574697"/>
-<marker id="529199244" label="Rock-troll Brawler" category="71" did="1879081673" parentZoneId="1879051238" longitude="54.441677" latitude="-12.497822"/>
-<marker id="529199245" label="Rock-troll Hurler" category="71" did="1879081674" parentZoneId="1879051238" longitude="54.441677" latitude="-12.497822"/>
-<marker id="529199246" label="Rock-troll Wildarm" category="71" did="1879083544" parentZoneId="1879051238" longitude="51.896893" latitude="-12.643164"/>
-<marker id="529199247" label="Hillmen Defender" category="71" did="1879083545" parentZoneId="1879051238" longitude="51.896893" latitude="-12.643164"/>
-<marker id="529199248" label="Rock-troll Wildarm" category="71" did="1879083544" parentZoneId="1879051238" longitude="51.887344" latitude="-12.571757"/>
-<marker id="529199249" label="Hillmen Defender" category="71" did="1879083545" parentZoneId="1879051238" longitude="51.887344" latitude="-12.571757"/>
-<marker id="529199250" label="Rock-troll Brawler" category="71" did="1879081673" parentZoneId="1879051238" longitude="54.410233" latitude="-12.298759"/>
-<marker id="529199251" label="Rock-troll Hurler" category="71" did="1879081674" parentZoneId="1879051238" longitude="54.410233" latitude="-12.298759"/>
-<marker id="529199252" label="Rock-troll Brawler" category="71" did="1879081673" parentZoneId="1879051238" longitude="54.030525" latitude="-11.873662"/>
-<marker id="529199253" label="Rock-troll Hurler" category="71" did="1879081674" parentZoneId="1879051238" longitude="54.030525" latitude="-11.873662"/>
-<marker id="529199254" label="Rock-troll Brawler" category="71" did="1879081673" parentZoneId="1879051238" longitude="53.819275" latitude="-12.604658"/>
-<marker id="529199255" label="Rock-troll Hurler" category="71" did="1879081674" parentZoneId="1879051238" longitude="53.819275" latitude="-12.604658"/>
-<marker id="529199256" label="Rock-troll Wildarm" category="71" did="1879083544" parentZoneId="1879051238" longitude="52.265213" latitude="-12.588144"/>
-<marker id="529199257" label="Hillmen Defender" category="71" did="1879083545" parentZoneId="1879051238" longitude="52.265213" latitude="-12.588144"/>
-<marker id="529199258" label="Rock-troll Brawler" category="71" did="1879081673" parentZoneId="1879051238" longitude="53.866856" latitude="-12.656201"/>
-<marker id="529199259" label="Rock-troll Hurler" category="71" did="1879081674" parentZoneId="1879051238" longitude="53.866856" latitude="-12.656201"/>
-<marker id="529199260" label="Rock-troll Brawler" category="71" did="1879081673" parentZoneId="1879051238" longitude="54.416153" latitude="-11.416308"/>
-<marker id="529199261" label="Rock-troll Hurler" category="71" did="1879081674" parentZoneId="1879051238" longitude="54.416153" latitude="-11.416308"/>
-<marker id="529199262" label="Rock-troll Wildarm" category="71" did="1879083544" parentZoneId="1879051238" longitude="51.92076" latitude="-12.675068"/>
-<marker id="529199263" label="Hillmen Defender" category="71" did="1879083545" parentZoneId="1879051238" longitude="51.92076" latitude="-12.675068"/>
-<marker id="529199264" label="Rock-troll Wildarm" category="71" did="1879083544" parentZoneId="1879051238" longitude="51.869648" latitude="-12.496728"/>
-<marker id="529199265" label="Hillmen Defender" category="71" did="1879083545" parentZoneId="1879051238" longitude="51.869648" latitude="-12.496728"/>
-<marker id="529199266" label="Rock-troll Wildarm" category="71" did="1879083544" parentZoneId="1879051238" longitude="51.99408" latitude="-12.777344"/>
-<marker id="529199267" label="Hillmen Defender" category="71" did="1879083545" parentZoneId="1879051238" longitude="51.99408" latitude="-12.777344"/>
-<marker id="529199268" label="Rock-troll Wildarm" category="71" did="1879083544" parentZoneId="1879051238" longitude="52.15451" latitude="-12.490439"/>
-<marker id="529199269" label="Hillmen Defender" category="71" did="1879083545" parentZoneId="1879051238" longitude="52.15451" latitude="-12.490439"/>
-<marker id="529199270" label="Rock-troll Wildarm" category="71" did="1879083544" parentZoneId="1879051238" longitude="52.354237" latitude="-12.492646"/>
-<marker id="529199271" label="Hillmen Defender" category="71" did="1879083545" parentZoneId="1879051238" longitude="52.354237" latitude="-12.492646"/>
-<marker id="529199272" label="Rock-troll Wildarm" category="71" did="1879083544" parentZoneId="1879051238" longitude="52.35164" latitude="-12.469384"/>
-<marker id="529199273" label="Hillmen Defender" category="71" did="1879083545" parentZoneId="1879051238" longitude="52.35164" latitude="-12.469384"/>
-<marker id="529199274" label="Rock-troll Brawler" category="71" did="1879081673" parentZoneId="1879051238" longitude="54.40371" latitude="-11.135498"/>
-<marker id="529199275" label="Rock-troll Hurler" category="71" did="1879081674" parentZoneId="1879051238" longitude="54.40371" latitude="-11.135498"/>
-<marker id="529199276" label="Rock-troll Brawler" category="71" did="1879081673" parentZoneId="1879051238" longitude="53.77156" latitude="-10.13455"/>
-<marker id="529199277" label="Rock-troll Hurler" category="71" did="1879081674" parentZoneId="1879051238" longitude="53.77156" latitude="-10.13455"/>
-<marker id="529199278" label="Rock-troll Brawler" category="71" did="1879081673" parentZoneId="1879051238" longitude="53.968456" latitude="-10.275391"/>
-<marker id="529199279" label="Rock-troll Hurler" category="71" did="1879081674" parentZoneId="1879051238" longitude="53.968456" latitude="-10.275391"/>
-<marker id="529199280" label="Rock-troll Brawler" category="71" did="1879081673" parentZoneId="1879051238" longitude="53.989685" latitude="-10.476835"/>
-<marker id="529199281" label="Rock-troll Hurler" category="71" did="1879081674" parentZoneId="1879051238" longitude="53.989685" latitude="-10.476835"/>
-<marker id="529199282" label="Rock-troll Brawler" category="71" did="1879081673" parentZoneId="1879051238" longitude="53.84156" latitude="-10.650273"/>
-<marker id="529199283" label="Rock-troll Hurler" category="71" did="1879081674" parentZoneId="1879051238" longitude="53.84156" latitude="-10.650273"/>
-<marker id="529199284" label="Rock-troll Brawler" category="71" did="1879081673" parentZoneId="1879051238" longitude="53.78912" latitude="-10.687392"/>
-<marker id="529199285" label="Rock-troll Hurler" category="71" did="1879081674" parentZoneId="1879051238" longitude="53.78912" latitude="-10.687392"/>
-<marker id="529199286" label="Rock-troll Brawler" category="71" did="1879081673" parentZoneId="1879051238" longitude="53.98715" latitude="-10.927763"/>
-<marker id="529199287" label="Rock-troll Hurler" category="71" did="1879081674" parentZoneId="1879051238" longitude="53.98715" latitude="-10.927763"/>
-<marker id="529199288" label="Rock-troll Brawler" category="71" did="1879081673" parentZoneId="1879051238" longitude="53.806816" latitude="-10.908105"/>
-<marker id="529199289" label="Rock-troll Hurler" category="71" did="1879081674" parentZoneId="1879051238" longitude="53.806816" latitude="-10.908105"/>
-<marker id="529199290" label="Rock-troll Brawler" category="71" did="1879081673" parentZoneId="1879051238" longitude="54.4049" latitude="-11.400713"/>
-<marker id="529199291" label="Rock-troll Hurler" category="71" did="1879081674" parentZoneId="1879051238" longitude="54.4049" latitude="-11.400713"/>
-<marker id="529199292" label="Rock-troll Brawler" category="71" did="1879081673" parentZoneId="1879051238" longitude="54.04029" latitude="-11.006279"/>
-<marker id="529199293" label="Rock-troll Hurler" category="71" did="1879081674" parentZoneId="1879051238" longitude="54.04029" latitude="-11.006279"/>
-<marker id="529199294" label="Rock-troll Brawler" category="71" did="1879081673" parentZoneId="1879051238" longitude="54.23691" latitude="-11.888476"/>
-<marker id="529199295" label="Rock-troll Hurler" category="71" did="1879081674" parentZoneId="1879051238" longitude="54.23691" latitude="-11.888476"/>
-<marker id="529199296" label="Rock-troll Brawler" category="71" did="1879081673" parentZoneId="1879051238" longitude="54.063652" latitude="-12.298408"/>
-<marker id="529199297" label="Rock-troll Hurler" category="71" did="1879081674" parentZoneId="1879051238" longitude="54.063652" latitude="-12.298408"/>
-<marker id="529199298" label="Rock-troll Brawler" category="71" did="1879081673" parentZoneId="1879051238" longitude="53.947693" latitude="-12.032167"/>
-<marker id="529199299" label="Rock-troll Hurler" category="71" did="1879081674" parentZoneId="1879051238" longitude="53.947693" latitude="-12.032167"/>
-<marker id="529199300" label="Rock-troll Brawler" category="71" did="1879081673" parentZoneId="1879051238" longitude="54.398163" latitude="-12.375791"/>
-<marker id="529199301" label="Rock-troll Hurler" category="71" did="1879081674" parentZoneId="1879051238" longitude="54.398163" latitude="-12.375791"/>
-<marker id="529199302" label="Rock-troll Brawler" category="71" did="1879081673" parentZoneId="1879051238" longitude="53.926582" latitude="-12.572656"/>
-<marker id="529199303" label="Rock-troll Hurler" category="71" did="1879081674" parentZoneId="1879051238" longitude="53.926582" latitude="-12.572656"/>
-<marker id="529199304" label="Rock-troll Brawler" category="71" did="1879081673" parentZoneId="1879051238" longitude="54.07025" latitude="-11.874639"/>
-<marker id="529199305" label="Rock-troll Hurler" category="71" did="1879081674" parentZoneId="1879051238" longitude="54.07025" latitude="-11.874639"/>
-<marker id="529199306" label="Rock-troll Brawler" category="71" did="1879081673" parentZoneId="1879051238" longitude="53.827343" latitude="-12.115253"/>
-<marker id="529199307" label="Rock-troll Hurler" category="71" did="1879081674" parentZoneId="1879051238" longitude="53.827343" latitude="-12.115253"/>
-<marker id="529199308" label="Rock-troll Brawler" category="71" did="1879081673" parentZoneId="1879051238" longitude="54.25287" latitude="-12.665273"/>
-<marker id="529199309" label="Rock-troll Hurler" category="71" did="1879081674" parentZoneId="1879051238" longitude="54.25287" latitude="-12.665273"/>
-<marker id="529199310" label="Rock-troll Brawler" category="71" did="1879081673" parentZoneId="1879051238" longitude="54.09707" latitude="-12.188564"/>
-<marker id="529199311" label="Rock-troll Hurler" category="71" did="1879081674" parentZoneId="1879051238" longitude="54.09707" latitude="-12.188564"/>
-<marker id="529199312" label="Rock-troll Brawler" category="71" did="1879081673" parentZoneId="1879051238" longitude="53.961582" latitude="-12.350713"/>
-<marker id="529199313" label="Rock-troll Hurler" category="71" did="1879081674" parentZoneId="1879051238" longitude="53.961582" latitude="-12.350713"/>
-<marker id="529199314" label="Rock-troll Brawler" category="71" did="1879081673" parentZoneId="1879051238" longitude="53.826992" latitude="-12.996318"/>
-<marker id="529199315" label="Rock-troll Hurler" category="71" did="1879081674" parentZoneId="1879051238" longitude="53.826992" latitude="-12.996318"/>
-<marker id="529199316" label="Rock-troll Brawler" category="71" did="1879081673" parentZoneId="1879051238" longitude="53.531075" latitude="-13.041142"/>
-<marker id="529199317" label="Rock-troll Hurler" category="71" did="1879081674" parentZoneId="1879051238" longitude="53.531075" latitude="-13.041142"/>
-<marker id="529199318" label="Rock-troll Brawler" category="71" did="1879081673" parentZoneId="1879051238" longitude="53.24572" latitude="-13.030967"/>
-<marker id="529199319" label="Rock-troll Hurler" category="71" did="1879081674" parentZoneId="1879051238" longitude="53.24572" latitude="-13.030967"/>
-<marker id="529199320" label="Rock-troll Brawler" category="71" did="1879081673" parentZoneId="1879051238" longitude="53.237263" latitude="-12.920908"/>
-<marker id="529199321" label="Rock-troll Hurler" category="71" did="1879081674" parentZoneId="1879051238" longitude="53.237263" latitude="-12.920908"/>
-<marker id="529199322" label="Rock-troll Brawler" category="71" did="1879081673" parentZoneId="1879051238" longitude="53.5534" latitude="-12.99205"/>
-<marker id="529199323" label="Rock-troll Hurler" category="71" did="1879081674" parentZoneId="1879051238" longitude="53.5534" latitude="-12.99205"/>
-<marker id="529199324" label="Rock-troll Flesheater" category="71" did="1879083549" parentZoneId="1879051238" longitude="53.237556" latitude="-12.677968"/>
-<marker id="529199325" label="Rock-troll Lobber" category="71" did="1879083550" parentZoneId="1879051238" longitude="53.237556" latitude="-12.677968"/>
-<marker id="529199326" label="Rock-troll Flesheater" category="71" did="1879083549" parentZoneId="1879051238" longitude="53.07203" latitude="-12.482549"/>
-<marker id="529199327" label="Rock-troll Lobber" category="71" did="1879083550" parentZoneId="1879051238" longitude="53.07203" latitude="-12.482549"/>
-<marker id="529199328" label="Rock-troll Flesheater" category="71" did="1879083549" parentZoneId="1879051238" longitude="53.005352" latitude="-11.937558"/>
-<marker id="529199329" label="Rock-troll Lobber" category="71" did="1879083550" parentZoneId="1879051238" longitude="53.005352" latitude="-11.937558"/>
-<marker id="529199330" label="Rock-troll Flesheater" category="71" did="1879083549" parentZoneId="1879051238" longitude="52.84908" latitude="-12.188652"/>
-<marker id="529199331" label="Rock-troll Lobber" category="71" did="1879083550" parentZoneId="1879051238" longitude="52.84908" latitude="-12.188652"/>
-<marker id="529199332" label="Rock-troll Flesheater" category="71" did="1879083549" parentZoneId="1879051238" longitude="52.814766" latitude="-12.040312"/>
-<marker id="529199333" label="Rock-troll Lobber" category="71" did="1879083550" parentZoneId="1879051238" longitude="52.814766" latitude="-12.040312"/>
-<marker id="529199334" label="Rock-troll Wildarm" category="71" did="1879083544" parentZoneId="1879051238" longitude="53.311794" latitude="-11.6522455"/>
-<marker id="529199335" label="Hillmen Defender" category="71" did="1879083545" parentZoneId="1879051238" longitude="53.311794" latitude="-11.6522455"/>
-<marker id="529199336" label="Rock-troll Flesheater" category="71" did="1879083549" parentZoneId="1879051238" longitude="53.197754" latitude="-12.179853"/>
-<marker id="529199337" label="Rock-troll Lobber" category="71" did="1879083550" parentZoneId="1879051238" longitude="53.197754" latitude="-12.179853"/>
-<marker id="529199338" label="Rock-troll Flesheater" category="71" did="1879083549" parentZoneId="1879051238" longitude="52.932224" latitude="-12.4468355"/>
-<marker id="529199339" label="Rock-troll Lobber" category="71" did="1879083550" parentZoneId="1879051238" longitude="52.932224" latitude="-12.4468355"/>
-<marker id="529199340" label="Rock-troll Wildarm" category="71" did="1879083544" parentZoneId="1879051238" longitude="52.45566" latitude="-12.459033"/>
-<marker id="529199341" label="Hillmen Defender" category="71" did="1879083545" parentZoneId="1879051238" longitude="52.45566" latitude="-12.459033"/>
-<marker id="529199342" label="Rock-troll Wildarm" category="71" did="1879083544" parentZoneId="1879051238" longitude="51.989883" latitude="-12.605576"/>
-<marker id="529199343" label="Hillmen Defender" category="71" did="1879083545" parentZoneId="1879051238" longitude="51.989883" latitude="-12.605576"/>
-<marker id="529199344" label="Rock-troll Wildarm" category="71" did="1879083544" parentZoneId="1879051238" longitude="51.863827" latitude="-12.733876"/>
-<marker id="529199345" label="Hillmen Defender" category="71" did="1879083545" parentZoneId="1879051238" longitude="51.863827" latitude="-12.733876"/>
-<marker id="529199346" label="Rock-troll Wildarm" category="71" did="1879083544" parentZoneId="1879051238" longitude="52.270428" latitude="-12.545136"/>
-<marker id="529199347" label="Hillmen Defender" category="71" did="1879083545" parentZoneId="1879051238" longitude="52.270428" latitude="-12.545136"/>
-<marker id="529199348" label="Rock-troll Brawler" category="71" did="1879081673" parentZoneId="1879051238" longitude="54.23166" latitude="-11.337988"/>
-<marker id="529199349" label="Rock-troll Hurler" category="71" did="1879081674" parentZoneId="1879051238" longitude="54.23166" latitude="-11.337988"/>
-<marker id="529199350" label="Rock-troll Wildarm" category="71" did="1879083544" parentZoneId="1879051238" longitude="52.16666" latitude="-12.802343"/>
-<marker id="529199351" label="Hillmen Defender" category="71" did="1879083545" parentZoneId="1879051238" longitude="52.16666" latitude="-12.802343"/>
-<marker id="529199352" label="Rock-troll Wildarm" category="71" did="1879083544" parentZoneId="1879051238" longitude="52.196796" latitude="-12.804023"/>
-<marker id="529199353" label="Hillmen Defender" category="71" did="1879083545" parentZoneId="1879051238" longitude="52.196796" latitude="-12.804023"/>
-<marker id="529199354" label="Rock-troll Wildarm" category="71" did="1879083544" parentZoneId="1879051238" longitude="52.770622" latitude="-12.489765"/>
-<marker id="529199355" label="Hillmen Defender" category="71" did="1879083545" parentZoneId="1879051238" longitude="52.770622" latitude="-12.489765"/>
-<marker id="529199356" label="Rock-troll Wildarm" category="71" did="1879083544" parentZoneId="1879051238" longitude="52.746563" latitude="-12.449443"/>
-<marker id="529199357" label="Hillmen Defender" category="71" did="1879083545" parentZoneId="1879051238" longitude="52.746563" latitude="-12.449443"/>
-<marker id="529199358" label="Rock-troll Wildarm" category="71" did="1879083544" parentZoneId="1879051238" longitude="52.922733" latitude="-12.285742"/>
-<marker id="529199359" label="Hillmen Defender" category="71" did="1879083545" parentZoneId="1879051238" longitude="52.922733" latitude="-12.285742"/>
-<marker id="529199360" label="Rock-troll Wildarm" category="71" did="1879083544" parentZoneId="1879051238" longitude="51.808163" latitude="-12.395664"/>
-<marker id="529199361" label="Hillmen Defender" category="71" did="1879083545" parentZoneId="1879051238" longitude="51.808163" latitude="-12.395664"/>
-<marker id="529199362" label="Rock-troll Wildarm" category="71" did="1879083544" parentZoneId="1879051238" longitude="51.80781" latitude="-12.54334"/>
-<marker id="529199363" label="Hillmen Defender" category="71" did="1879083545" parentZoneId="1879051238" longitude="51.80781" latitude="-12.54334"/>
-<marker id="529199364" label="Rock-troll Wildarm" category="71" did="1879083544" parentZoneId="1879051238" longitude="51.990273" latitude="-12.457041"/>
-<marker id="529199365" label="Hillmen Defender" category="71" did="1879083545" parentZoneId="1879051238" longitude="51.990273" latitude="-12.457041"/>
-<marker id="529199366" label="Rock-troll Brawler" category="71" did="1879081673" parentZoneId="1879051238" longitude="53.430977" latitude="-11.56956"/>
-<marker id="529199367" label="Tarbám" category="71" did="1879081550" parentZoneId="1879051238" longitude="53.430977" latitude="-11.56956"/>
-<marker id="529199368" label="Rock-troll Brawler" category="71" did="1879081673" parentZoneId="1879051238" longitude="53.278534" latitude="-12.166445"/>
-<marker id="529199369" label="Tarbám" category="71" did="1879081550" parentZoneId="1879051238" longitude="53.278534" latitude="-12.166445"/>
-<marker id="529199370" label="Rock-troll Brawler" category="71" did="1879081673" parentZoneId="1879051238" longitude="52.909393" latitude="-12.046415"/>
-<marker id="529199371" label="Tarbám" category="71" did="1879081550" parentZoneId="1879051238" longitude="52.909393" latitude="-12.046415"/>
+<marker id="529092608" label="Молодой вожак лесных троллей" category="71" did="1879095045" parentZoneId="1879095492" longitude="53.884277" latitude="-17.437803"/>
+<marker id="529092609" label="Молодой лесной тролль - воин" category="71" did="1879095046" parentZoneId="1879095492" longitude="53.884277" latitude="-17.437803"/>
+<marker id="529092610" label="Молодой лесной тролль - метатель" category="71" did="1879095047" parentZoneId="1879095492" longitude="53.884277" latitude="-17.437803"/>
+<marker id="529092611" label="Цепкий озерный кочун" category="71" did="1879095033" parentZoneId="1879095492" longitude="53.884277" latitude="-17.437803"/>
+<marker id="529092612" label="Озерный кочун" category="71" did="1879095034" parentZoneId="1879095492" longitude="53.884277" latitude="-17.437803"/>
+<marker id="529092613" label="Молодой вожак лесных троллей" category="71" did="1879095045" parentZoneId="1879095492" longitude="53.860096" latitude="-17.407509"/>
+<marker id="529092614" label="Молодой лесной тролль - воин" category="71" did="1879095046" parentZoneId="1879095492" longitude="53.860096" latitude="-17.407509"/>
+<marker id="529092615" label="Молодой лесной тролль - метатель" category="71" did="1879095047" parentZoneId="1879095492" longitude="53.860096" latitude="-17.407509"/>
+<marker id="529092616" label="Цепкий озерный кочун" category="71" did="1879095033" parentZoneId="1879095492" longitude="53.860096" latitude="-17.407509"/>
+<marker id="529092617" label="Озерный кочун" category="71" did="1879095034" parentZoneId="1879095492" longitude="53.860096" latitude="-17.407509"/>
+<marker id="529092618" label="Молодой вожак лесных троллей" category="71" did="1879095045" parentZoneId="1879095492" longitude="53.780212" latitude="-17.27541"/>
+<marker id="529092619" label="Молодой лесной тролль - воин" category="71" did="1879095046" parentZoneId="1879095492" longitude="53.780212" latitude="-17.27541"/>
+<marker id="529092620" label="Молодой лесной тролль - метатель" category="71" did="1879095047" parentZoneId="1879095492" longitude="53.780212" latitude="-17.27541"/>
+<marker id="529092621" label="Цепкий озерный кочун" category="71" did="1879095033" parentZoneId="1879095492" longitude="53.780212" latitude="-17.27541"/>
+<marker id="529092622" label="Озерный кочун" category="71" did="1879095034" parentZoneId="1879095492" longitude="53.780212" latitude="-17.27541"/>
+<marker id="529092623" label="Молодой вожак лесных троллей" category="71" did="1879095045" parentZoneId="1879095492" longitude="53.8074" latitude="-17.230059"/>
+<marker id="529092624" label="Молодой лесной тролль - воин" category="71" did="1879095046" parentZoneId="1879095492" longitude="53.8074" latitude="-17.230059"/>
+<marker id="529092625" label="Молодой лесной тролль - метатель" category="71" did="1879095047" parentZoneId="1879095492" longitude="53.8074" latitude="-17.230059"/>
+<marker id="529092626" label="Цепкий озерный кочун" category="71" did="1879095033" parentZoneId="1879095492" longitude="53.8074" latitude="-17.230059"/>
+<marker id="529092627" label="Озерный кочун" category="71" did="1879095034" parentZoneId="1879095492" longitude="53.8074" latitude="-17.230059"/>
+<marker id="529092628" label="Молодой вожак лесных троллей" category="71" did="1879095045" parentZoneId="1879095492" longitude="53.785175" latitude="-17.328554"/>
+<marker id="529092629" label="Молодой лесной тролль - воин" category="71" did="1879095046" parentZoneId="1879095492" longitude="53.785175" latitude="-17.328554"/>
+<marker id="529092630" label="Молодой лесной тролль - метатель" category="71" did="1879095047" parentZoneId="1879095492" longitude="53.785175" latitude="-17.328554"/>
+<marker id="529092631" label="Цепкий озерный кочун" category="71" did="1879095033" parentZoneId="1879095492" longitude="53.785175" latitude="-17.328554"/>
+<marker id="529092632" label="Озерный кочун" category="71" did="1879095034" parentZoneId="1879095492" longitude="53.785175" latitude="-17.328554"/>
+<marker id="529092633" label="Молодой вожак лесных троллей" category="71" did="1879095045" parentZoneId="1879095492" longitude="53.758728" latitude="-17.061993"/>
+<marker id="529092634" label="Молодой лесной тролль - воин" category="71" did="1879095046" parentZoneId="1879095492" longitude="53.758728" latitude="-17.061993"/>
+<marker id="529092635" label="Молодой лесной тролль - метатель" category="71" did="1879095047" parentZoneId="1879095492" longitude="53.758728" latitude="-17.061993"/>
+<marker id="529092636" label="Цепкий озерный кочун" category="71" did="1879095033" parentZoneId="1879095492" longitude="53.758728" latitude="-17.061993"/>
+<marker id="529092637" label="Озерный кочун" category="71" did="1879095034" parentZoneId="1879095492" longitude="53.758728" latitude="-17.061993"/>
+<marker id="529092638" label="Молодой вожак лесных троллей" category="71" did="1879095045" parentZoneId="1879095492" longitude="53.789352" latitude="-17.086805"/>
+<marker id="529092639" label="Молодой лесной тролль - воин" category="71" did="1879095046" parentZoneId="1879095492" longitude="53.789352" latitude="-17.086805"/>
+<marker id="529092640" label="Молодой лесной тролль - метатель" category="71" did="1879095047" parentZoneId="1879095492" longitude="53.789352" latitude="-17.086805"/>
+<marker id="529092641" label="Цепкий озерный кочун" category="71" did="1879095033" parentZoneId="1879095492" longitude="53.789352" latitude="-17.086805"/>
+<marker id="529092642" label="Озерный кочун" category="71" did="1879095034" parentZoneId="1879095492" longitude="53.789352" latitude="-17.086805"/>
+<marker id="529092643" label="Молодой вожак лесных троллей" category="71" did="1879095045" parentZoneId="1879095492" longitude="53.922596" latitude="-17.382061"/>
+<marker id="529092644" label="Молодой лесной тролль - воин" category="71" did="1879095046" parentZoneId="1879095492" longitude="53.922596" latitude="-17.382061"/>
+<marker id="529092645" label="Молодой лесной тролль - метатель" category="71" did="1879095047" parentZoneId="1879095492" longitude="53.922596" latitude="-17.382061"/>
+<marker id="529092646" label="Цепкий озерный кочун" category="71" did="1879095033" parentZoneId="1879095492" longitude="53.922596" latitude="-17.382061"/>
+<marker id="529092647" label="Озерный кочун" category="71" did="1879095034" parentZoneId="1879095492" longitude="53.922596" latitude="-17.382061"/>
+<marker id="529092648" label="Молодой вожак лесных троллей" category="71" did="1879095045" parentZoneId="1879095492" longitude="53.952774" latitude="-17.590645"/>
+<marker id="529092649" label="Молодой лесной тролль - воин" category="71" did="1879095046" parentZoneId="1879095492" longitude="53.952774" latitude="-17.590645"/>
+<marker id="529092650" label="Молодой лесной тролль - метатель" category="71" did="1879095047" parentZoneId="1879095492" longitude="53.952774" latitude="-17.590645"/>
+<marker id="529092651" label="Цепкий озерный кочун" category="71" did="1879095033" parentZoneId="1879095492" longitude="53.952774" latitude="-17.590645"/>
+<marker id="529092652" label="Озерный кочун" category="71" did="1879095034" parentZoneId="1879095492" longitude="53.952774" latitude="-17.590645"/>
+<marker id="529092653" label="Молодой вожак лесных троллей" category="71" did="1879095045" parentZoneId="1879095492" longitude="53.792793" latitude="-17.404707"/>
+<marker id="529092654" label="Молодой лесной тролль - воин" category="71" did="1879095046" parentZoneId="1879095492" longitude="53.792793" latitude="-17.404707"/>
+<marker id="529092655" label="Молодой лесной тролль - метатель" category="71" did="1879095047" parentZoneId="1879095492" longitude="53.792793" latitude="-17.404707"/>
+<marker id="529092656" label="Цепкий озерный кочун" category="71" did="1879095033" parentZoneId="1879095492" longitude="53.792793" latitude="-17.404707"/>
+<marker id="529092657" label="Озерный кочун" category="71" did="1879095034" parentZoneId="1879095492" longitude="53.792793" latitude="-17.404707"/>
+<marker id="529092658" label="Молодой вожак лесных троллей" category="71" did="1879095045" parentZoneId="1879095492" longitude="53.68535" latitude="-17.385323"/>
+<marker id="529092659" label="Молодой лесной тролль - воин" category="71" did="1879095046" parentZoneId="1879095492" longitude="53.68535" latitude="-17.385323"/>
+<marker id="529092660" label="Молодой лесной тролль - метатель" category="71" did="1879095047" parentZoneId="1879095492" longitude="53.68535" latitude="-17.385323"/>
+<marker id="529092661" label="Цепкий озерный кочун" category="71" did="1879095033" parentZoneId="1879095492" longitude="53.68535" latitude="-17.385323"/>
+<marker id="529092662" label="Озерный кочун" category="71" did="1879095034" parentZoneId="1879095492" longitude="53.68535" latitude="-17.385323"/>
+<marker id="529092663" label="Молодой вожак лесных троллей" category="71" did="1879095045" parentZoneId="1879095492" longitude="53.73582" latitude="-17.386679"/>
+<marker id="529092664" label="Молодой лесной тролль - воин" category="71" did="1879095046" parentZoneId="1879095492" longitude="53.73582" latitude="-17.386679"/>
+<marker id="529092665" label="Молодой лесной тролль - метатель" category="71" did="1879095047" parentZoneId="1879095492" longitude="53.73582" latitude="-17.386679"/>
+<marker id="529092666" label="Цепкий озерный кочун" category="71" did="1879095033" parentZoneId="1879095492" longitude="53.73582" latitude="-17.386679"/>
+<marker id="529092667" label="Озерный кочун" category="71" did="1879095034" parentZoneId="1879095492" longitude="53.73582" latitude="-17.386679"/>
+<marker id="529092668" label="Молодой вожак лесных троллей" category="71" did="1879095045" parentZoneId="1879095492" longitude="53.61166" latitude="-17.48995"/>
+<marker id="529092669" label="Молодой лесной тролль - воин" category="71" did="1879095046" parentZoneId="1879095492" longitude="53.61166" latitude="-17.48995"/>
+<marker id="529092670" label="Молодой лесной тролль - метатель" category="71" did="1879095047" parentZoneId="1879095492" longitude="53.61166" latitude="-17.48995"/>
+<marker id="529092671" label="Цепкий озерный кочун" category="71" did="1879095033" parentZoneId="1879095492" longitude="53.61166" latitude="-17.48995"/>
+<marker id="529092672" label="Озерный кочун" category="71" did="1879095034" parentZoneId="1879095492" longitude="53.61166" latitude="-17.48995"/>
+<marker id="529092673" label="Молодой вожак лесных троллей" category="71" did="1879095045" parentZoneId="1879095492" longitude="53.595722" latitude="-17.555136"/>
+<marker id="529092674" label="Молодой лесной тролль - воин" category="71" did="1879095046" parentZoneId="1879095492" longitude="53.595722" latitude="-17.555136"/>
+<marker id="529092675" label="Молодой лесной тролль - метатель" category="71" did="1879095047" parentZoneId="1879095492" longitude="53.595722" latitude="-17.555136"/>
+<marker id="529092676" label="Цепкий озерный кочун" category="71" did="1879095033" parentZoneId="1879095492" longitude="53.595722" latitude="-17.555136"/>
+<marker id="529092677" label="Озерный кочун" category="71" did="1879095034" parentZoneId="1879095492" longitude="53.595722" latitude="-17.555136"/>
+<marker id="529092678" label="Молодой вожак лесных троллей" category="71" did="1879095045" parentZoneId="1879095492" longitude="53.589687" latitude="-17.520342"/>
+<marker id="529092679" label="Молодой лесной тролль - воин" category="71" did="1879095046" parentZoneId="1879095492" longitude="53.589687" latitude="-17.520342"/>
+<marker id="529092680" label="Молодой лесной тролль - метатель" category="71" did="1879095047" parentZoneId="1879095492" longitude="53.589687" latitude="-17.520342"/>
+<marker id="529092681" label="Цепкий озерный кочун" category="71" did="1879095033" parentZoneId="1879095492" longitude="53.589687" latitude="-17.520342"/>
+<marker id="529092682" label="Озерный кочун" category="71" did="1879095034" parentZoneId="1879095492" longitude="53.589687" latitude="-17.520342"/>
+<marker id="529092683" label="Молодой вожак лесных троллей" category="71" did="1879095045" parentZoneId="1879095492" longitude="53.62455" latitude="-17.718475"/>
+<marker id="529092684" label="Молодой лесной тролль - воин" category="71" did="1879095046" parentZoneId="1879095492" longitude="53.62455" latitude="-17.718475"/>
+<marker id="529092685" label="Молодой лесной тролль - метатель" category="71" did="1879095047" parentZoneId="1879095492" longitude="53.62455" latitude="-17.718475"/>
+<marker id="529092686" label="Цепкий озерный кочун" category="71" did="1879095033" parentZoneId="1879095492" longitude="53.62455" latitude="-17.718475"/>
+<marker id="529092687" label="Озерный кочун" category="71" did="1879095034" parentZoneId="1879095492" longitude="53.62455" latitude="-17.718475"/>
+<marker id="529092688" label="Молодой вожак лесных троллей" category="71" did="1879095045" parentZoneId="1879095492" longitude="53.602383" latitude="-17.686972"/>
+<marker id="529092689" label="Молодой лесной тролль - воин" category="71" did="1879095046" parentZoneId="1879095492" longitude="53.602383" latitude="-17.686972"/>
+<marker id="529092690" label="Молодой лесной тролль - метатель" category="71" did="1879095047" parentZoneId="1879095492" longitude="53.602383" latitude="-17.686972"/>
+<marker id="529092691" label="Цепкий озерный кочун" category="71" did="1879095033" parentZoneId="1879095492" longitude="53.602383" latitude="-17.686972"/>
+<marker id="529092692" label="Озерный кочун" category="71" did="1879095034" parentZoneId="1879095492" longitude="53.602383" latitude="-17.686972"/>
+<marker id="529096704" label="Свирепый вожак стаи" category="71" did="1879095043" parentZoneId="1879095491" longitude="51.62574" latitude="-17.367723"/>
+<marker id="529096705" label="Рычащий лесной охотник" category="71" did="1879095044" parentZoneId="1879095491" longitude="51.62574" latitude="-17.367723"/>
+<marker id="529096706" label="Гаурадан-шаман" category="71" did="1879095037" parentZoneId="1879095491" longitude="51.62574" latitude="-17.367723"/>
+<marker id="529096707" label="Гаурадан - лесной житель" category="71" did="1879095038" parentZoneId="1879095491" longitude="51.62574" latitude="-17.367723"/>
+<marker id="529096708" label="Гаурадан-наблюдатель" category="71" did="1879095039" parentZoneId="1879095491" longitude="51.62574" latitude="-17.367723"/>
+<marker id="529096709" label="Свирепый вожак стаи" category="71" did="1879095043" parentZoneId="1879095491" longitude="51.695293" latitude="-17.327187"/>
+<marker id="529096710" label="Рычащий лесной охотник" category="71" did="1879095044" parentZoneId="1879095491" longitude="51.695293" latitude="-17.327187"/>
+<marker id="529096711" label="Гаурадан-шаман" category="71" did="1879095037" parentZoneId="1879095491" longitude="51.695293" latitude="-17.327187"/>
+<marker id="529096712" label="Гаурадан - лесной житель" category="71" did="1879095038" parentZoneId="1879095491" longitude="51.695293" latitude="-17.327187"/>
+<marker id="529096713" label="Гаурадан-наблюдатель" category="71" did="1879095039" parentZoneId="1879095491" longitude="51.695293" latitude="-17.327187"/>
+<marker id="529096714" label="Свирепый вожак стаи" category="71" did="1879095043" parentZoneId="1879095491" longitude="51.637596" latitude="-17.314833"/>
+<marker id="529096715" label="Рычащий лесной охотник" category="71" did="1879095044" parentZoneId="1879095491" longitude="51.637596" latitude="-17.314833"/>
+<marker id="529096716" label="Гаурадан-шаман" category="71" did="1879095037" parentZoneId="1879095491" longitude="51.637596" latitude="-17.314833"/>
+<marker id="529096717" label="Гаурадан - лесной житель" category="71" did="1879095038" parentZoneId="1879095491" longitude="51.637596" latitude="-17.314833"/>
+<marker id="529096718" label="Гаурадан-наблюдатель" category="71" did="1879095039" parentZoneId="1879095491" longitude="51.637596" latitude="-17.314833"/>
+<marker id="529096719" label="Свирепый вожак стаи" category="71" did="1879095043" parentZoneId="1879095491" longitude="51.660213" latitude="-17.374863"/>
+<marker id="529096720" label="Рычащий лесной охотник" category="71" did="1879095044" parentZoneId="1879095491" longitude="51.660213" latitude="-17.374863"/>
+<marker id="529096721" label="Гаурадан-шаман" category="71" did="1879095037" parentZoneId="1879095491" longitude="51.660213" latitude="-17.374863"/>
+<marker id="529096722" label="Гаурадан - лесной житель" category="71" did="1879095038" parentZoneId="1879095491" longitude="51.660213" latitude="-17.374863"/>
+<marker id="529096723" label="Гаурадан-наблюдатель" category="71" did="1879095039" parentZoneId="1879095491" longitude="51.660213" latitude="-17.374863"/>
+<marker id="529096724" label="Свирепый вожак стаи" category="71" did="1879095043" parentZoneId="1879095491" longitude="51.76615" latitude="-17.19998"/>
+<marker id="529096725" label="Рычащий лесной охотник" category="71" did="1879095044" parentZoneId="1879095491" longitude="51.76615" latitude="-17.19998"/>
+<marker id="529096726" label="Гаурадан-шаман" category="71" did="1879095037" parentZoneId="1879095491" longitude="51.76615" latitude="-17.19998"/>
+<marker id="529096727" label="Гаурадан - лесной житель" category="71" did="1879095038" parentZoneId="1879095491" longitude="51.76615" latitude="-17.19998"/>
+<marker id="529096728" label="Гаурадан-наблюдатель" category="71" did="1879095039" parentZoneId="1879095491" longitude="51.76615" latitude="-17.19998"/>
+<marker id="529096729" label="Свирепый вожак стаи" category="71" did="1879095043" parentZoneId="1879095491" longitude="51.70123" latitude="-17.207745"/>
+<marker id="529096730" label="Рычащий лесной охотник" category="71" did="1879095044" parentZoneId="1879095491" longitude="51.70123" latitude="-17.207745"/>
+<marker id="529096731" label="Гаурадан-шаман" category="71" did="1879095037" parentZoneId="1879095491" longitude="51.70123" latitude="-17.207745"/>
+<marker id="529096732" label="Гаурадан - лесной житель" category="71" did="1879095038" parentZoneId="1879095491" longitude="51.70123" latitude="-17.207745"/>
+<marker id="529096733" label="Гаурадан-наблюдатель" category="71" did="1879095039" parentZoneId="1879095491" longitude="51.70123" latitude="-17.207745"/>
+<marker id="529096734" label="Свирепый вожак стаи" category="71" did="1879095043" parentZoneId="1879095491" longitude="51.749256" latitude="-17.175156"/>
+<marker id="529096735" label="Рычащий лесной охотник" category="71" did="1879095044" parentZoneId="1879095491" longitude="51.749256" latitude="-17.175156"/>
+<marker id="529096736" label="Гаурадан-шаман" category="71" did="1879095037" parentZoneId="1879095491" longitude="51.749256" latitude="-17.175156"/>
+<marker id="529096737" label="Гаурадан - лесной житель" category="71" did="1879095038" parentZoneId="1879095491" longitude="51.749256" latitude="-17.175156"/>
+<marker id="529096738" label="Гаурадан-наблюдатель" category="71" did="1879095039" parentZoneId="1879095491" longitude="51.749256" latitude="-17.175156"/>
+<marker id="529096739" label="Свирепый вожак стаи" category="71" did="1879095043" parentZoneId="1879095491" longitude="51.736835" latitude="-17.16544"/>
+<marker id="529096740" label="Рычащий лесной охотник" category="71" did="1879095044" parentZoneId="1879095491" longitude="51.736835" latitude="-17.16544"/>
+<marker id="529096741" label="Гаурадан-шаман" category="71" did="1879095037" parentZoneId="1879095491" longitude="51.736835" latitude="-17.16544"/>
+<marker id="529096742" label="Гаурадан - лесной житель" category="71" did="1879095038" parentZoneId="1879095491" longitude="51.736835" latitude="-17.16544"/>
+<marker id="529096743" label="Гаурадан-наблюдатель" category="71" did="1879095039" parentZoneId="1879095491" longitude="51.736835" latitude="-17.16544"/>
+<marker id="529096744" label="Свирепый вожак стаи" category="71" did="1879095043" parentZoneId="1879095491" longitude="51.870625" latitude="-17.015253"/>
+<marker id="529096745" label="Рычащий лесной охотник" category="71" did="1879095044" parentZoneId="1879095491" longitude="51.870625" latitude="-17.015253"/>
+<marker id="529096746" label="Гаурадан-шаман" category="71" did="1879095037" parentZoneId="1879095491" longitude="51.870625" latitude="-17.015253"/>
+<marker id="529096747" label="Гаурадан - лесной житель" category="71" did="1879095038" parentZoneId="1879095491" longitude="51.870625" latitude="-17.015253"/>
+<marker id="529096748" label="Гаурадан-наблюдатель" category="71" did="1879095039" parentZoneId="1879095491" longitude="51.870625" latitude="-17.015253"/>
+<marker id="529096749" label="Свирепый вожак стаи" category="71" did="1879095043" parentZoneId="1879095491" longitude="51.896442" latitude="-17.029472"/>
+<marker id="529096750" label="Рычащий лесной охотник" category="71" did="1879095044" parentZoneId="1879095491" longitude="51.896442" latitude="-17.029472"/>
+<marker id="529096751" label="Гаурадан-шаман" category="71" did="1879095037" parentZoneId="1879095491" longitude="51.896442" latitude="-17.029472"/>
+<marker id="529096752" label="Гаурадан - лесной житель" category="71" did="1879095038" parentZoneId="1879095491" longitude="51.896442" latitude="-17.029472"/>
+<marker id="529096753" label="Гаурадан-наблюдатель" category="71" did="1879095039" parentZoneId="1879095491" longitude="51.896442" latitude="-17.029472"/>
+<marker id="529096754" label="Свирепый вожак стаи" category="71" did="1879095043" parentZoneId="1879095491" longitude="51.87242" latitude="-17.160479"/>
+<marker id="529096755" label="Рычащий лесной охотник" category="71" did="1879095044" parentZoneId="1879095491" longitude="51.87242" latitude="-17.160479"/>
+<marker id="529096756" label="Гаурадан-шаман" category="71" did="1879095037" parentZoneId="1879095491" longitude="51.87242" latitude="-17.160479"/>
+<marker id="529096757" label="Гаурадан - лесной житель" category="71" did="1879095038" parentZoneId="1879095491" longitude="51.87242" latitude="-17.160479"/>
+<marker id="529096758" label="Гаурадан-наблюдатель" category="71" did="1879095039" parentZoneId="1879095491" longitude="51.87242" latitude="-17.160479"/>
+<marker id="529096759" label="Свирепый вожак стаи" category="71" did="1879095043" parentZoneId="1879095491" longitude="51.820114" latitude="-17.106054"/>
+<marker id="529096760" label="Рычащий лесной охотник" category="71" did="1879095044" parentZoneId="1879095491" longitude="51.820114" latitude="-17.106054"/>
+<marker id="529096761" label="Гаурадан-шаман" category="71" did="1879095037" parentZoneId="1879095491" longitude="51.820114" latitude="-17.106054"/>
+<marker id="529096762" label="Гаурадан - лесной житель" category="71" did="1879095038" parentZoneId="1879095491" longitude="51.820114" latitude="-17.106054"/>
+<marker id="529096763" label="Гаурадан-наблюдатель" category="71" did="1879095039" parentZoneId="1879095491" longitude="51.820114" latitude="-17.106054"/>
+<marker id="529096764" label="Свирепый вожак стаи" category="71" did="1879095043" parentZoneId="1879095491" longitude="51.74412" latitude="-17.06165"/>
+<marker id="529096765" label="Рычащий лесной охотник" category="71" did="1879095044" parentZoneId="1879095491" longitude="51.74412" latitude="-17.06165"/>
+<marker id="529096766" label="Гаурадан-шаман" category="71" did="1879095037" parentZoneId="1879095491" longitude="51.74412" latitude="-17.06165"/>
+<marker id="529096767" label="Гаурадан - лесной житель" category="71" did="1879095038" parentZoneId="1879095491" longitude="51.74412" latitude="-17.06165"/>
+<marker id="529096768" label="Гаурадан-наблюдатель" category="71" did="1879095039" parentZoneId="1879095491" longitude="51.74412" latitude="-17.06165"/>
+<marker id="529096769" label="Свирепый вожак стаи" category="71" did="1879095043" parentZoneId="1879095491" longitude="51.884686" latitude="-17.323164"/>
+<marker id="529096770" label="Рычащий лесной охотник" category="71" did="1879095044" parentZoneId="1879095491" longitude="51.884686" latitude="-17.323164"/>
+<marker id="529096771" label="Гаурадан-шаман" category="71" did="1879095037" parentZoneId="1879095491" longitude="51.884686" latitude="-17.323164"/>
+<marker id="529096772" label="Гаурадан - лесной житель" category="71" did="1879095038" parentZoneId="1879095491" longitude="51.884686" latitude="-17.323164"/>
+<marker id="529096773" label="Гаурадан-наблюдатель" category="71" did="1879095039" parentZoneId="1879095491" longitude="51.884686" latitude="-17.323164"/>
+<marker id="529096774" label="Свирепый вожак стаи" category="71" did="1879095043" parentZoneId="1879095491" longitude="52.03119" latitude="-17.203983"/>
+<marker id="529096775" label="Рычащий лесной охотник" category="71" did="1879095044" parentZoneId="1879095491" longitude="52.03119" latitude="-17.203983"/>
+<marker id="529096776" label="Гаурадан-шаман" category="71" did="1879095037" parentZoneId="1879095491" longitude="52.03119" latitude="-17.203983"/>
+<marker id="529096777" label="Гаурадан - лесной житель" category="71" did="1879095038" parentZoneId="1879095491" longitude="52.03119" latitude="-17.203983"/>
+<marker id="529096778" label="Гаурадан-наблюдатель" category="71" did="1879095039" parentZoneId="1879095491" longitude="52.03119" latitude="-17.203983"/>
+<marker id="529096779" label="Свирепый вожак стаи" category="71" did="1879095043" parentZoneId="1879095491" longitude="52.036892" latitude="-17.228153"/>
+<marker id="529096780" label="Рычащий лесной охотник" category="71" did="1879095044" parentZoneId="1879095491" longitude="52.036892" latitude="-17.228153"/>
+<marker id="529096781" label="Гаурадан-шаман" category="71" did="1879095037" parentZoneId="1879095491" longitude="52.036892" latitude="-17.228153"/>
+<marker id="529096782" label="Гаурадан - лесной житель" category="71" did="1879095038" parentZoneId="1879095491" longitude="52.036892" latitude="-17.228153"/>
+<marker id="529096783" label="Гаурадан-наблюдатель" category="71" did="1879095039" parentZoneId="1879095491" longitude="52.036892" latitude="-17.228153"/>
+<marker id="529096784" label="Свирепый вожак стаи" category="71" did="1879095043" parentZoneId="1879095491" longitude="52.020935" latitude="-17.08955"/>
+<marker id="529096785" label="Рычащий лесной охотник" category="71" did="1879095044" parentZoneId="1879095491" longitude="52.020935" latitude="-17.08955"/>
+<marker id="529096786" label="Гаурадан-шаман" category="71" did="1879095037" parentZoneId="1879095491" longitude="52.020935" latitude="-17.08955"/>
+<marker id="529096787" label="Гаурадан - лесной житель" category="71" did="1879095038" parentZoneId="1879095491" longitude="52.020935" latitude="-17.08955"/>
+<marker id="529096788" label="Гаурадан-наблюдатель" category="71" did="1879095039" parentZoneId="1879095491" longitude="52.020935" latitude="-17.08955"/>
+<marker id="529096789" label="Свирепый вожак стаи" category="71" did="1879095043" parentZoneId="1879095491" longitude="51.806053" latitude="-17.233076"/>
+<marker id="529096790" label="Рычащий лесной охотник" category="71" did="1879095044" parentZoneId="1879095491" longitude="51.806053" latitude="-17.233076"/>
+<marker id="529096791" label="Гаурадан-шаман" category="71" did="1879095037" parentZoneId="1879095491" longitude="51.806053" latitude="-17.233076"/>
+<marker id="529096792" label="Гаурадан - лесной житель" category="71" did="1879095038" parentZoneId="1879095491" longitude="51.806053" latitude="-17.233076"/>
+<marker id="529096793" label="Гаурадан-наблюдатель" category="71" did="1879095039" parentZoneId="1879095491" longitude="51.806053" latitude="-17.233076"/>
+<marker id="529096794" label="Свирепый вожак стаи" category="71" did="1879095043" parentZoneId="1879095491" longitude="51.680565" latitude="-17.10333"/>
+<marker id="529096795" label="Рычащий лесной охотник" category="71" did="1879095044" parentZoneId="1879095491" longitude="51.680565" latitude="-17.10333"/>
+<marker id="529096796" label="Гаурадан-шаман" category="71" did="1879095037" parentZoneId="1879095491" longitude="51.680565" latitude="-17.10333"/>
+<marker id="529096797" label="Гаурадан - лесной житель" category="71" did="1879095038" parentZoneId="1879095491" longitude="51.680565" latitude="-17.10333"/>
+<marker id="529096798" label="Гаурадан-наблюдатель" category="71" did="1879095039" parentZoneId="1879095491" longitude="51.680565" latitude="-17.10333"/>
+<marker id="529096799" label="Свирепый вожак стаи" category="71" did="1879095043" parentZoneId="1879095491" longitude="51.697304" latitude="-17.044199"/>
+<marker id="529096800" label="Рычащий лесной охотник" category="71" did="1879095044" parentZoneId="1879095491" longitude="51.697304" latitude="-17.044199"/>
+<marker id="529096801" label="Гаурадан-шаман" category="71" did="1879095037" parentZoneId="1879095491" longitude="51.697304" latitude="-17.044199"/>
+<marker id="529096802" label="Гаурадан - лесной житель" category="71" did="1879095038" parentZoneId="1879095491" longitude="51.697304" latitude="-17.044199"/>
+<marker id="529096803" label="Гаурадан-наблюдатель" category="71" did="1879095039" parentZoneId="1879095491" longitude="51.697304" latitude="-17.044199"/>
+<marker id="529096804" label="Свирепый вожак стаи" category="71" did="1879095043" parentZoneId="1879095491" longitude="51.945076" latitude="-17.303984"/>
+<marker id="529096805" label="Рычащий лесной охотник" category="71" did="1879095044" parentZoneId="1879095491" longitude="51.945076" latitude="-17.303984"/>
+<marker id="529096806" label="Гаурадан-шаман" category="71" did="1879095037" parentZoneId="1879095491" longitude="51.945076" latitude="-17.303984"/>
+<marker id="529096807" label="Гаурадан - лесной житель" category="71" did="1879095038" parentZoneId="1879095491" longitude="51.945076" latitude="-17.303984"/>
+<marker id="529096808" label="Гаурадан-наблюдатель" category="71" did="1879095039" parentZoneId="1879095491" longitude="51.945076" latitude="-17.303984"/>
+<marker id="529096809" label="Свирепый вожак стаи" category="71" did="1879095043" parentZoneId="1879095491" longitude="51.84408" latitude="-17.308096"/>
+<marker id="529096810" label="Рычащий лесной охотник" category="71" did="1879095044" parentZoneId="1879095491" longitude="51.84408" latitude="-17.308096"/>
+<marker id="529096811" label="Гаурадан-шаман" category="71" did="1879095037" parentZoneId="1879095491" longitude="51.84408" latitude="-17.308096"/>
+<marker id="529096812" label="Гаурадан - лесной житель" category="71" did="1879095038" parentZoneId="1879095491" longitude="51.84408" latitude="-17.308096"/>
+<marker id="529096813" label="Гаурадан-наблюдатель" category="71" did="1879095039" parentZoneId="1879095491" longitude="51.84408" latitude="-17.308096"/>
+<marker id="529096814" label="Свирепый вожак стаи" category="71" did="1879095043" parentZoneId="1879095491" longitude="51.90463" latitude="-17.469374"/>
+<marker id="529096815" label="Рычащий лесной охотник" category="71" did="1879095044" parentZoneId="1879095491" longitude="51.90463" latitude="-17.469374"/>
+<marker id="529096816" label="Гаурадан-шаман" category="71" did="1879095037" parentZoneId="1879095491" longitude="51.90463" latitude="-17.469374"/>
+<marker id="529096817" label="Гаурадан - лесной житель" category="71" did="1879095038" parentZoneId="1879095491" longitude="51.90463" latitude="-17.469374"/>
+<marker id="529096818" label="Гаурадан-наблюдатель" category="71" did="1879095039" parentZoneId="1879095491" longitude="51.90463" latitude="-17.469374"/>
+<marker id="529096819" label="Свирепый вожак стаи" category="71" did="1879095043" parentZoneId="1879095491" longitude="51.876892" latitude="-17.451826"/>
+<marker id="529096820" label="Рычащий лесной охотник" category="71" did="1879095044" parentZoneId="1879095491" longitude="51.876892" latitude="-17.451826"/>
+<marker id="529096821" label="Гаурадан-шаман" category="71" did="1879095037" parentZoneId="1879095491" longitude="51.876892" latitude="-17.451826"/>
+<marker id="529096822" label="Гаурадан - лесной житель" category="71" did="1879095038" parentZoneId="1879095491" longitude="51.876892" latitude="-17.451826"/>
+<marker id="529096823" label="Гаурадан-наблюдатель" category="71" did="1879095039" parentZoneId="1879095491" longitude="51.876892" latitude="-17.451826"/>
+<marker id="529096824" label="Свирепый вожак стаи" category="71" did="1879095043" parentZoneId="1879095491" longitude="51.923183" latitude="-17.388916"/>
+<marker id="529096825" label="Рычащий лесной охотник" category="71" did="1879095044" parentZoneId="1879095491" longitude="51.923183" latitude="-17.388916"/>
+<marker id="529096826" label="Гаурадан-шаман" category="71" did="1879095037" parentZoneId="1879095491" longitude="51.923183" latitude="-17.388916"/>
+<marker id="529096827" label="Гаурадан - лесной житель" category="71" did="1879095038" parentZoneId="1879095491" longitude="51.923183" latitude="-17.388916"/>
+<marker id="529096828" label="Гаурадан-наблюдатель" category="71" did="1879095039" parentZoneId="1879095491" longitude="51.923183" latitude="-17.388916"/>
+<marker id="529096829" label="Свирепый вожак стаи" category="71" did="1879095043" parentZoneId="1879095491" longitude="51.66049" latitude="-17.207607"/>
+<marker id="529096830" label="Рычащий лесной охотник" category="71" did="1879095044" parentZoneId="1879095491" longitude="51.66049" latitude="-17.207607"/>
+<marker id="529096831" label="Гаурадан-шаман" category="71" did="1879095037" parentZoneId="1879095491" longitude="51.66049" latitude="-17.207607"/>
+<marker id="529096832" label="Гаурадан - лесной житель" category="71" did="1879095038" parentZoneId="1879095491" longitude="51.66049" latitude="-17.207607"/>
+<marker id="529096833" label="Гаурадан-наблюдатель" category="71" did="1879095039" parentZoneId="1879095491" longitude="51.66049" latitude="-17.207607"/>
+<marker id="529149952" label="Хальмур Каменотес" category="70" did="1879048494" parentZoneId="1879048493" longitude="53.1792" latitude="-19.465937"/>
+<marker id="529158144" label="Муилдир" category="70" did="1879098757" parentZoneId="1879095490" longitude="53.206932" latitude="-16.648945"/>
+<marker id="529162240" label="Почтальон Тук" category="70" did="1879048498" parentZoneId="1879048497" longitude="53.204216" latitude="-17.214844"/>
+<marker id="529170432" label="Том Бомбадил" category="70" did="1879048502" parentZoneId="1879048501" longitude="53.11275" latitude="-15.555049"/>
+<marker id="529178624" label="Луговой секач" category="71" did="1879078082" parentZoneId="1879048508" longitude="53.494198" latitude="-13.796426"/>
+<marker id="529178625" label="Корень тысячелистника" category="73" did="1879066722" parentZoneId="1879048508" longitude="53.494198" latitude="-13.796426"/>
+<marker id="529178626" label="Луговая свинья" category="71" did="1879078083" parentZoneId="1879048508" longitude="53.494198" latitude="-13.796426"/>
+<marker id="529178627" label="Быстрокрылый нетопырь" category="71" did="1879078084" parentZoneId="1879048508" longitude="53.494198" latitude="-13.796426"/>
+<marker id="529178628" label="Кусачий паук из Зеленых полей" category="71" did="1879061432" parentZoneId="1879048508" longitude="53.494198" latitude="-13.796426"/>
+<marker id="529178629" label="Древесная ткачиха из Зеленых полей" category="71" did="1879061433" parentZoneId="1879048508" longitude="53.494198" latitude="-13.796426"/>
+<marker id="529178630" label="Королева пауков из Зеленых полей" category="71" did="1879061434" parentZoneId="1879048508" longitude="53.494198" latitude="-13.796426"/>
+<marker id="529178631" label="Луговой секач" category="71" did="1879078082" parentZoneId="1879048508" longitude="53.223846" latitude="-13.799462"/>
+<marker id="529178632" label="Корень тысячелистника" category="73" did="1879066722" parentZoneId="1879048508" longitude="53.223846" latitude="-13.799462"/>
+<marker id="529178633" label="Луговая свинья" category="71" did="1879078083" parentZoneId="1879048508" longitude="53.223846" latitude="-13.799462"/>
+<marker id="529178634" label="Быстрокрылый нетопырь" category="71" did="1879078084" parentZoneId="1879048508" longitude="53.223846" latitude="-13.799462"/>
+<marker id="529178635" label="Кусачий паук из Зеленых полей" category="71" did="1879061432" parentZoneId="1879048508" longitude="53.223846" latitude="-13.799462"/>
+<marker id="529178636" label="Древесная ткачиха из Зеленых полей" category="71" did="1879061433" parentZoneId="1879048508" longitude="53.223846" latitude="-13.799462"/>
+<marker id="529178637" label="Королева пауков из Зеленых полей" category="71" did="1879061434" parentZoneId="1879048508" longitude="53.223846" latitude="-13.799462"/>
+<marker id="529178638" label="Луговой секач" category="71" did="1879078082" parentZoneId="1879048508" longitude="52.964043" latitude="-13.805927"/>
+<marker id="529178639" label="Корень тысячелистника" category="73" did="1879066722" parentZoneId="1879048508" longitude="52.964043" latitude="-13.805927"/>
+<marker id="529178640" label="Луговая свинья" category="71" did="1879078083" parentZoneId="1879048508" longitude="52.964043" latitude="-13.805927"/>
+<marker id="529178641" label="Быстрокрылый нетопырь" category="71" did="1879078084" parentZoneId="1879048508" longitude="52.964043" latitude="-13.805927"/>
+<marker id="529178642" label="Кусачий паук из Зеленых полей" category="71" did="1879061432" parentZoneId="1879048508" longitude="52.964043" latitude="-13.805927"/>
+<marker id="529178643" label="Древесная ткачиха из Зеленых полей" category="71" did="1879061433" parentZoneId="1879048508" longitude="52.964043" latitude="-13.805927"/>
+<marker id="529178644" label="Королева пауков из Зеленых полей" category="71" did="1879061434" parentZoneId="1879048508" longitude="52.964043" latitude="-13.805927"/>
+<marker id="529178645" label="Луговой секач" category="71" did="1879078082" parentZoneId="1879048508" longitude="53.23072" latitude="-13.86916"/>
+<marker id="529178646" label="Корень тысячелистника" category="73" did="1879066722" parentZoneId="1879048508" longitude="53.23072" latitude="-13.86916"/>
+<marker id="529178647" label="Луговая свинья" category="71" did="1879078083" parentZoneId="1879048508" longitude="53.23072" latitude="-13.86916"/>
+<marker id="529178648" label="Быстрокрылый нетопырь" category="71" did="1879078084" parentZoneId="1879048508" longitude="53.23072" latitude="-13.86916"/>
+<marker id="529178649" label="Кусачий паук из Зеленых полей" category="71" did="1879061432" parentZoneId="1879048508" longitude="53.23072" latitude="-13.86916"/>
+<marker id="529178650" label="Древесная ткачиха из Зеленых полей" category="71" did="1879061433" parentZoneId="1879048508" longitude="53.23072" latitude="-13.86916"/>
+<marker id="529178651" label="Королева пауков из Зеленых полей" category="71" did="1879061434" parentZoneId="1879048508" longitude="53.23072" latitude="-13.86916"/>
+<marker id="529178652" label="Луговой секач" category="71" did="1879078082" parentZoneId="1879048508" longitude="53.00912" latitude="-13.797138"/>
+<marker id="529178653" label="Корень тысячелистника" category="73" did="1879066722" parentZoneId="1879048508" longitude="53.00912" latitude="-13.797138"/>
+<marker id="529178654" label="Луговая свинья" category="71" did="1879078083" parentZoneId="1879048508" longitude="53.00912" latitude="-13.797138"/>
+<marker id="529178655" label="Быстрокрылый нетопырь" category="71" did="1879078084" parentZoneId="1879048508" longitude="53.00912" latitude="-13.797138"/>
+<marker id="529178656" label="Кусачий паук из Зеленых полей" category="71" did="1879061432" parentZoneId="1879048508" longitude="53.00912" latitude="-13.797138"/>
+<marker id="529178657" label="Древесная ткачиха из Зеленых полей" category="71" did="1879061433" parentZoneId="1879048508" longitude="53.00912" latitude="-13.797138"/>
+<marker id="529178658" label="Королева пауков из Зеленых полей" category="71" did="1879061434" parentZoneId="1879048508" longitude="53.00912" latitude="-13.797138"/>
+<marker id="529178659" label="Луговой секач" category="71" did="1879078082" parentZoneId="1879048508" longitude="53.294685" latitude="-13.803223"/>
+<marker id="529178660" label="Корень тысячелистника" category="73" did="1879066722" parentZoneId="1879048508" longitude="53.294685" latitude="-13.803223"/>
+<marker id="529178661" label="Луговая свинья" category="71" did="1879078083" parentZoneId="1879048508" longitude="53.294685" latitude="-13.803223"/>
+<marker id="529178662" label="Быстрокрылый нетопырь" category="71" did="1879078084" parentZoneId="1879048508" longitude="53.294685" latitude="-13.803223"/>
+<marker id="529178663" label="Кусачий паук из Зеленых полей" category="71" did="1879061432" parentZoneId="1879048508" longitude="53.294685" latitude="-13.803223"/>
+<marker id="529178664" label="Древесная ткачиха из Зеленых полей" category="71" did="1879061433" parentZoneId="1879048508" longitude="53.294685" latitude="-13.803223"/>
+<marker id="529178665" label="Королева пауков из Зеленых полей" category="71" did="1879061434" parentZoneId="1879048508" longitude="53.294685" latitude="-13.803223"/>
+<marker id="529178666" label="Луговой секач" category="71" did="1879078082" parentZoneId="1879048508" longitude="53.435173" latitude="-13.788164"/>
+<marker id="529178667" label="Корень тысячелистника" category="73" did="1879066722" parentZoneId="1879048508" longitude="53.435173" latitude="-13.788164"/>
+<marker id="529178668" label="Луговая свинья" category="71" did="1879078083" parentZoneId="1879048508" longitude="53.435173" latitude="-13.788164"/>
+<marker id="529178669" label="Быстрокрылый нетопырь" category="71" did="1879078084" parentZoneId="1879048508" longitude="53.435173" latitude="-13.788164"/>
+<marker id="529178670" label="Кусачий паук из Зеленых полей" category="71" did="1879061432" parentZoneId="1879048508" longitude="53.435173" latitude="-13.788164"/>
+<marker id="529178671" label="Древесная ткачиха из Зеленых полей" category="71" did="1879061433" parentZoneId="1879048508" longitude="53.435173" latitude="-13.788164"/>
+<marker id="529178672" label="Королева пауков из Зеленых полей" category="71" did="1879061434" parentZoneId="1879048508" longitude="53.435173" latitude="-13.788164"/>
+<marker id="529178673" label="Луговой секач" category="71" did="1879078082" parentZoneId="1879048508" longitude="53.218456" latitude="-13.679541"/>
+<marker id="529178674" label="Корень тысячелистника" category="73" did="1879066722" parentZoneId="1879048508" longitude="53.218456" latitude="-13.679541"/>
+<marker id="529178675" label="Луговая свинья" category="71" did="1879078083" parentZoneId="1879048508" longitude="53.218456" latitude="-13.679541"/>
+<marker id="529178676" label="Быстрокрылый нетопырь" category="71" did="1879078084" parentZoneId="1879048508" longitude="53.218456" latitude="-13.679541"/>
+<marker id="529178677" label="Кусачий паук из Зеленых полей" category="71" did="1879061432" parentZoneId="1879048508" longitude="53.218456" latitude="-13.679541"/>
+<marker id="529178678" label="Древесная ткачиха из Зеленых полей" category="71" did="1879061433" parentZoneId="1879048508" longitude="53.218456" latitude="-13.679541"/>
+<marker id="529178679" label="Королева пауков из Зеленых полей" category="71" did="1879061434" parentZoneId="1879048508" longitude="53.218456" latitude="-13.679541"/>
+<marker id="529178680" label="Луговой секач" category="71" did="1879078082" parentZoneId="1879048508" longitude="53.13426" latitude="-13.786299"/>
+<marker id="529178681" label="Корень тысячелистника" category="73" did="1879066722" parentZoneId="1879048508" longitude="53.13426" latitude="-13.786299"/>
+<marker id="529178682" label="Луговая свинья" category="71" did="1879078083" parentZoneId="1879048508" longitude="53.13426" latitude="-13.786299"/>
+<marker id="529178683" label="Быстрокрылый нетопырь" category="71" did="1879078084" parentZoneId="1879048508" longitude="53.13426" latitude="-13.786299"/>
+<marker id="529178684" label="Кусачий паук из Зеленых полей" category="71" did="1879061432" parentZoneId="1879048508" longitude="53.13426" latitude="-13.786299"/>
+<marker id="529178685" label="Древесная ткачиха из Зеленых полей" category="71" did="1879061433" parentZoneId="1879048508" longitude="53.13426" latitude="-13.786299"/>
+<marker id="529178686" label="Королева пауков из Зеленых полей" category="71" did="1879061434" parentZoneId="1879048508" longitude="53.13426" latitude="-13.786299"/>
+<marker id="529178687" label="Луговой секач" category="71" did="1879078082" parentZoneId="1879048508" longitude="53.070488" latitude="-13.814326"/>
+<marker id="529178688" label="Корень тысячелистника" category="73" did="1879066722" parentZoneId="1879048508" longitude="53.070488" latitude="-13.814326"/>
+<marker id="529178689" label="Луговая свинья" category="71" did="1879078083" parentZoneId="1879048508" longitude="53.070488" latitude="-13.814326"/>
+<marker id="529178690" label="Быстрокрылый нетопырь" category="71" did="1879078084" parentZoneId="1879048508" longitude="53.070488" latitude="-13.814326"/>
+<marker id="529178691" label="Кусачий паук из Зеленых полей" category="71" did="1879061432" parentZoneId="1879048508" longitude="53.070488" latitude="-13.814326"/>
+<marker id="529178692" label="Древесная ткачиха из Зеленых полей" category="71" did="1879061433" parentZoneId="1879048508" longitude="53.070488" latitude="-13.814326"/>
+<marker id="529178693" label="Королева пауков из Зеленых полей" category="71" did="1879061434" parentZoneId="1879048508" longitude="53.070488" latitude="-13.814326"/>
+<marker id="529178694" label="Луговой секач" category="71" did="1879078082" parentZoneId="1879048508" longitude="53.15039" latitude="-13.704512"/>
+<marker id="529178695" label="Корень тысячелистника" category="73" did="1879066722" parentZoneId="1879048508" longitude="53.15039" latitude="-13.704512"/>
+<marker id="529178696" label="Луговая свинья" category="71" did="1879078083" parentZoneId="1879048508" longitude="53.15039" latitude="-13.704512"/>
+<marker id="529178697" label="Быстрокрылый нетопырь" category="71" did="1879078084" parentZoneId="1879048508" longitude="53.15039" latitude="-13.704512"/>
+<marker id="529178698" label="Кусачий паук из Зеленых полей" category="71" did="1879061432" parentZoneId="1879048508" longitude="53.15039" latitude="-13.704512"/>
+<marker id="529178699" label="Древесная ткачиха из Зеленых полей" category="71" did="1879061433" parentZoneId="1879048508" longitude="53.15039" latitude="-13.704512"/>
+<marker id="529178700" label="Королева пауков из Зеленых полей" category="71" did="1879061434" parentZoneId="1879048508" longitude="53.15039" latitude="-13.704512"/>
+<marker id="529178701" label="Луговой секач" category="71" did="1879078082" parentZoneId="1879048508" longitude="53.26281" latitude="-13.725273"/>
+<marker id="529178702" label="Корень тысячелистника" category="73" did="1879066722" parentZoneId="1879048508" longitude="53.26281" latitude="-13.725273"/>
+<marker id="529178703" label="Луговая свинья" category="71" did="1879078083" parentZoneId="1879048508" longitude="53.26281" latitude="-13.725273"/>
+<marker id="529178704" label="Быстрокрылый нетопырь" category="71" did="1879078084" parentZoneId="1879048508" longitude="53.26281" latitude="-13.725273"/>
+<marker id="529178705" label="Кусачий паук из Зеленых полей" category="71" did="1879061432" parentZoneId="1879048508" longitude="53.26281" latitude="-13.725273"/>
+<marker id="529178706" label="Древесная ткачиха из Зеленых полей" category="71" did="1879061433" parentZoneId="1879048508" longitude="53.26281" latitude="-13.725273"/>
+<marker id="529178707" label="Королева пауков из Зеленых полей" category="71" did="1879061434" parentZoneId="1879048508" longitude="53.26281" latitude="-13.725273"/>
+<marker id="529178708" label="Луговой секач" category="71" did="1879078082" parentZoneId="1879048508" longitude="53.225937" latitude="-13.935996"/>
+<marker id="529178709" label="Корень тысячелистника" category="73" did="1879066722" parentZoneId="1879048508" longitude="53.225937" latitude="-13.935996"/>
+<marker id="529178710" label="Луговая свинья" category="71" did="1879078083" parentZoneId="1879048508" longitude="53.225937" latitude="-13.935996"/>
+<marker id="529178711" label="Быстрокрылый нетопырь" category="71" did="1879078084" parentZoneId="1879048508" longitude="53.225937" latitude="-13.935996"/>
+<marker id="529178712" label="Кусачий паук из Зеленых полей" category="71" did="1879061432" parentZoneId="1879048508" longitude="53.225937" latitude="-13.935996"/>
+<marker id="529178713" label="Древесная ткачиха из Зеленых полей" category="71" did="1879061433" parentZoneId="1879048508" longitude="53.225937" latitude="-13.935996"/>
+<marker id="529178714" label="Королева пауков из Зеленых полей" category="71" did="1879061434" parentZoneId="1879048508" longitude="53.225937" latitude="-13.935996"/>
+<marker id="529178715" label="Луговой секач" category="71" did="1879078082" parentZoneId="1879048508" longitude="53.355057" latitude="-13.814472"/>
+<marker id="529178716" label="Корень тысячелистника" category="73" did="1879066722" parentZoneId="1879048508" longitude="53.355057" latitude="-13.814472"/>
+<marker id="529178717" label="Луговая свинья" category="71" did="1879078083" parentZoneId="1879048508" longitude="53.355057" latitude="-13.814472"/>
+<marker id="529178718" label="Быстрокрылый нетопырь" category="71" did="1879078084" parentZoneId="1879048508" longitude="53.355057" latitude="-13.814472"/>
+<marker id="529178719" label="Кусачий паук из Зеленых полей" category="71" did="1879061432" parentZoneId="1879048508" longitude="53.355057" latitude="-13.814472"/>
+<marker id="529178720" label="Древесная ткачиха из Зеленых полей" category="71" did="1879061433" parentZoneId="1879048508" longitude="53.355057" latitude="-13.814472"/>
+<marker id="529178721" label="Королева пауков из Зеленых полей" category="71" did="1879061434" parentZoneId="1879048508" longitude="53.355057" latitude="-13.814472"/>
+<marker id="529190912" label="Гереберт Тук" category="70" did="1879048510" parentZoneId="1879048509" longitude="53.156933" latitude="-11.553398"/>
+<marker id="529199104" label="Буйный каменный тролль" category="71" did="1879081673" parentZoneId="1879051238" longitude="54.226757" latitude="-11.149521"/>
+<marker id="529199105" label="Злобный каменный тролль" category="71" did="1879081674" parentZoneId="1879051238" longitude="54.226757" latitude="-11.149521"/>
+<marker id="529199106" label="Буйный каменный тролль" category="71" did="1879081673" parentZoneId="1879051238" longitude="53.97367" latitude="-11.978613"/>
+<marker id="529199107" label="Злобный каменный тролль" category="71" did="1879081674" parentZoneId="1879051238" longitude="53.97367" latitude="-11.978613"/>
+<marker id="529199108" label="Буйный каменный тролль" category="71" did="1879081673" parentZoneId="1879051238" longitude="54.12666" latitude="-12.30334"/>
+<marker id="529199109" label="Злобный каменный тролль" category="71" did="1879081674" parentZoneId="1879051238" longitude="54.12666" latitude="-12.30334"/>
+<marker id="529199110" label="Буйный каменный тролль" category="71" did="1879081673" parentZoneId="1879051238" longitude="54.2025" latitude="-11.087744"/>
+<marker id="529199111" label="Злобный каменный тролль" category="71" did="1879081674" parentZoneId="1879051238" longitude="54.2025" latitude="-11.087744"/>
+<marker id="529199112" label="Буйный каменный тролль" category="71" did="1879081673" parentZoneId="1879051238" longitude="53.91047" latitude="-10.216025"/>
+<marker id="529199113" label="Злобный каменный тролль" category="71" did="1879081674" parentZoneId="1879051238" longitude="53.91047" latitude="-10.216025"/>
+<marker id="529199114" label="Плотоядный каменный тролль" category="71" did="1879083549" parentZoneId="1879051238" longitude="52.86998" latitude="-11.934433"/>
+<marker id="529199115" label="Неуклюжий каменный тролль" category="71" did="1879083550" parentZoneId="1879051238" longitude="52.86998" latitude="-11.934433"/>
+<marker id="529199116" label="Буйный каменный тролль" category="71" did="1879081673" parentZoneId="1879051238" longitude="53.962128" latitude="-10.853125"/>
+<marker id="529199117" label="Злобный каменный тролль" category="71" did="1879081674" parentZoneId="1879051238" longitude="53.962128" latitude="-10.853125"/>
+<marker id="529199118" label="Плотоядный каменный тролль" category="71" did="1879083549" parentZoneId="1879051238" longitude="52.983047" latitude="-12.446934"/>
+<marker id="529199119" label="Неуклюжий каменный тролль" category="71" did="1879083550" parentZoneId="1879051238" longitude="52.983047" latitude="-12.446934"/>
+<marker id="529199120" label="Буйный каменный тролль" category="71" did="1879081673" parentZoneId="1879051238" longitude="54.322224" latitude="-12.099062"/>
+<marker id="529199121" label="Злобный каменный тролль" category="71" did="1879081674" parentZoneId="1879051238" longitude="54.322224" latitude="-12.099062"/>
+<marker id="529199122" label="Плотоядный каменный тролль" category="71" did="1879083549" parentZoneId="1879051238" longitude="53.254375" latitude="-12.200479"/>
+<marker id="529199123" label="Неуклюжий каменный тролль" category="71" did="1879083550" parentZoneId="1879051238" longitude="53.254375" latitude="-12.200479"/>
+<marker id="529199124" label="Плотоядный каменный тролль" category="71" did="1879083549" parentZoneId="1879051238" longitude="53.399685" latitude="-11.663593"/>
+<marker id="529199125" label="Неуклюжий каменный тролль" category="71" did="1879083550" parentZoneId="1879051238" longitude="53.399685" latitude="-11.663593"/>
+<marker id="529199126" label="Дикий каменный тролль" category="71" did="1879083544" parentZoneId="1879051238" longitude="52.057068" latitude="-12.655322"/>
+<marker id="529199127" label="Горец-защитник" category="71" did="1879083545" parentZoneId="1879051238" longitude="52.057068" latitude="-12.655322"/>
+<marker id="529199128" label="Плотоядный каменный тролль" category="71" did="1879083549" parentZoneId="1879051238" longitude="53.587498" latitude="-11.720478"/>
+<marker id="529199129" label="Неуклюжий каменный тролль" category="71" did="1879083550" parentZoneId="1879051238" longitude="53.587498" latitude="-11.720478"/>
+<marker id="529199130" label="Буйный каменный тролль" category="71" did="1879081673" parentZoneId="1879051238" longitude="54.185078" latitude="-11.9489355"/>
+<marker id="529199131" label="Злобный каменный тролль" category="71" did="1879081674" parentZoneId="1879051238" longitude="54.185078" latitude="-11.9489355"/>
+<marker id="529199132" label="Буйный каменный тролль" category="71" did="1879081673" parentZoneId="1879051238" longitude="53.41949" latitude="-13.062519"/>
+<marker id="529199133" label="Злобный каменный тролль" category="71" did="1879081674" parentZoneId="1879051238" longitude="53.41949" latitude="-13.062519"/>
+<marker id="529199134" label="Буйный каменный тролль" category="71" did="1879081673" parentZoneId="1879051238" longitude="53.745213" latitude="-10.665195"/>
+<marker id="529199135" label="Злобный каменный тролль" category="71" did="1879081674" parentZoneId="1879051238" longitude="53.745213" latitude="-10.665195"/>
+<marker id="529199136" label="Буйный каменный тролль" category="71" did="1879081673" parentZoneId="1879051238" longitude="53.947674" latitude="-11.953183"/>
+<marker id="529199137" label="Злобный каменный тролль" category="71" did="1879081674" parentZoneId="1879051238" longitude="53.947674" latitude="-11.953183"/>
+<marker id="529199138" label="Буйный каменный тролль" category="71" did="1879081673" parentZoneId="1879051238" longitude="54.352715" latitude="-11.899854"/>
+<marker id="529199139" label="Злобный каменный тролль" category="71" did="1879081674" parentZoneId="1879051238" longitude="54.352715" latitude="-11.899854"/>
+<marker id="529199140" label="Буйный каменный тролль" category="71" did="1879081673" parentZoneId="1879051238" longitude="54.02287" latitude="-12.088096"/>
+<marker id="529199141" label="Злобный каменный тролль" category="71" did="1879081674" parentZoneId="1879051238" longitude="54.02287" latitude="-12.088096"/>
+<marker id="529199142" label="Буйный каменный тролль" category="71" did="1879081673" parentZoneId="1879051238" longitude="53.724236" latitude="-10.656289"/>
+<marker id="529199143" label="Злобный каменный тролль" category="71" did="1879081674" parentZoneId="1879051238" longitude="53.724236" latitude="-10.656289"/>
+<marker id="529199144" label="Буйный каменный тролль" category="71" did="1879081673" parentZoneId="1879051238" longitude="54.261112" latitude="-11.3233595"/>
+<marker id="529199145" label="Злобный каменный тролль" category="71" did="1879081674" parentZoneId="1879051238" longitude="54.261112" latitude="-11.3233595"/>
+<marker id="529199146" label="Плотоядный каменный тролль" category="71" did="1879083549" parentZoneId="1879051238" longitude="53.219803" latitude="-12.14417"/>
+<marker id="529199147" label="Неуклюжий каменный тролль" category="71" did="1879083550" parentZoneId="1879051238" longitude="53.219803" latitude="-12.14417"/>
+<marker id="529199148" label="Плотоядный каменный тролль" category="71" did="1879083549" parentZoneId="1879051238" longitude="53.27049" latitude="-11.652051"/>
+<marker id="529199149" label="Неуклюжий каменный тролль" category="71" did="1879083550" parentZoneId="1879051238" longitude="53.27049" latitude="-11.652051"/>
+<marker id="529199150" label="Буйный каменный тролль" category="71" did="1879081673" parentZoneId="1879051238" longitude="54.141678" latitude="-11.13121"/>
+<marker id="529199151" label="Злобный каменный тролль" category="71" did="1879081674" parentZoneId="1879051238" longitude="54.141678" latitude="-11.13121"/>
+<marker id="529199152" label="Плотоядный каменный тролль" category="71" did="1879083549" parentZoneId="1879051238" longitude="52.859745" latitude="-11.888417"/>
+<marker id="529199153" label="Неуклюжий каменный тролль" category="71" did="1879083550" parentZoneId="1879051238" longitude="52.859745" latitude="-11.888417"/>
+<marker id="529199154" label="Буйный каменный тролль" category="71" did="1879081673" parentZoneId="1879051238" longitude="53.78984" latitude="-10.849716"/>
+<marker id="529199155" label="Злобный каменный тролль" category="71" did="1879081674" parentZoneId="1879051238" longitude="53.78984" latitude="-10.849716"/>
+<marker id="529199156" label="Буйный каменный тролль" category="71" did="1879081673" parentZoneId="1879051238" longitude="53.840157" latitude="-13.047461"/>
+<marker id="529199157" label="Злобный каменный тролль" category="71" did="1879081674" parentZoneId="1879051238" longitude="53.840157" latitude="-13.047461"/>
+<marker id="529199158" label="Плотоядный каменный тролль" category="71" did="1879083549" parentZoneId="1879051238" longitude="53.383064" latitude="-11.567998"/>
+<marker id="529199159" label="Неуклюжий каменный тролль" category="71" did="1879083550" parentZoneId="1879051238" longitude="53.383064" latitude="-11.567998"/>
+<marker id="529199160" label="Плотоядный каменный тролль" category="71" did="1879083549" parentZoneId="1879051238" longitude="53.54578" latitude="-11.649033"/>
+<marker id="529199161" label="Неуклюжий каменный тролль" category="71" did="1879083550" parentZoneId="1879051238" longitude="53.54578" latitude="-11.649033"/>
+<marker id="529199162" label="Буйный каменный тролль" category="71" did="1879081673" parentZoneId="1879051238" longitude="54.436874" latitude="-11.853926"/>
+<marker id="529199163" label="Злобный каменный тролль" category="71" did="1879081674" parentZoneId="1879051238" longitude="54.436874" latitude="-11.853926"/>
+<marker id="529199164" label="Плотоядный каменный тролль" category="71" did="1879083549" parentZoneId="1879051238" longitude="53.499763" latitude="-11.599345"/>
+<marker id="529199165" label="Неуклюжий каменный тролль" category="71" did="1879083550" parentZoneId="1879051238" longitude="53.499763" latitude="-11.599345"/>
+<marker id="529199166" label="Буйный каменный тролль" category="71" did="1879081673" parentZoneId="1879051238" longitude="53.945057" latitude="-10.215761"/>
+<marker id="529199167" label="Злобный каменный тролль" category="71" did="1879081674" parentZoneId="1879051238" longitude="53.945057" latitude="-10.215761"/>
+<marker id="529199168" label="Плотоядный каменный тролль" category="71" did="1879083549" parentZoneId="1879051238" longitude="53.43369" latitude="-11.613652"/>
+<marker id="529199169" label="Неуклюжий каменный тролль" category="71" did="1879083550" parentZoneId="1879051238" longitude="53.43369" latitude="-11.613652"/>
+<marker id="529199170" label="Буйный каменный тролль" category="71" did="1879081673" parentZoneId="1879051238" longitude="53.90418" latitude="-12.513642"/>
+<marker id="529199171" label="Злобный каменный тролль" category="71" did="1879081674" parentZoneId="1879051238" longitude="53.90418" latitude="-12.513642"/>
+<marker id="529199172" label="Плотоядный каменный тролль" category="71" did="1879083549" parentZoneId="1879051238" longitude="52.77836" latitude="-12.262998"/>
+<marker id="529199173" label="Неуклюжий каменный тролль" category="71" did="1879083550" parentZoneId="1879051238" longitude="52.77836" latitude="-12.262998"/>
+<marker id="529199174" label="Плотоядный каменный тролль" category="71" did="1879083549" parentZoneId="1879051238" longitude="53.162148" latitude="-11.773232"/>
+<marker id="529199175" label="Неуклюжий каменный тролль" category="71" did="1879083550" parentZoneId="1879051238" longitude="53.162148" latitude="-11.773232"/>
+<marker id="529199176" label="Буйный каменный тролль" category="71" did="1879081673" parentZoneId="1879051238" longitude="54.079433" latitude="-11.840293"/>
+<marker id="529199177" label="Злобный каменный тролль" category="71" did="1879081674" parentZoneId="1879051238" longitude="54.079433" latitude="-11.840293"/>
+<marker id="529199178" label="Буйный каменный тролль" category="71" did="1879081673" parentZoneId="1879051238" longitude="54.091465" latitude="-11.862256"/>
+<marker id="529199179" label="Злобный каменный тролль" category="71" did="1879081674" parentZoneId="1879051238" longitude="54.091465" latitude="-11.862256"/>
+<marker id="529199180" label="Плотоядный каменный тролль" category="71" did="1879083549" parentZoneId="1879051238" longitude="53.24992" latitude="-12.665429"/>
+<marker id="529199181" label="Неуклюжий каменный тролль" category="71" did="1879083550" parentZoneId="1879051238" longitude="53.24992" latitude="-12.665429"/>
+<marker id="529199182" label="Плотоядный каменный тролль" category="71" did="1879083549" parentZoneId="1879051238" longitude="53.21582" latitude="-12.668711"/>
+<marker id="529199183" label="Неуклюжий каменный тролль" category="71" did="1879083550" parentZoneId="1879051238" longitude="53.21582" latitude="-12.668711"/>
+<marker id="529199184" label="Буйный каменный тролль" category="71" did="1879081673" parentZoneId="1879051238" longitude="54.33705" latitude="-12.524804"/>
+<marker id="529199185" label="Злобный каменный тролль" category="71" did="1879081674" parentZoneId="1879051238" longitude="54.33705" latitude="-12.524804"/>
+<marker id="529199186" label="Буйный каменный тролль" category="71" did="1879081673" parentZoneId="1879051238" longitude="53.75533" latitude="-10.940078"/>
+<marker id="529199187" label="Злобный каменный тролль" category="71" did="1879081674" parentZoneId="1879051238" longitude="53.75533" latitude="-10.940078"/>
+<marker id="529199188" label="Плотоядный каменный тролль" category="71" did="1879083549" parentZoneId="1879051238" longitude="53.144375" latitude="-12.404873"/>
+<marker id="529199189" label="Неуклюжий каменный тролль" category="71" did="1879083550" parentZoneId="1879051238" longitude="53.144375" latitude="-12.404873"/>
+<marker id="529199190" label="Буйный каменный тролль" category="71" did="1879081673" parentZoneId="1879051238" longitude="54.100506" latitude="-12.132578"/>
+<marker id="529199191" label="Злобный каменный тролль" category="71" did="1879081674" parentZoneId="1879051238" longitude="54.100506" latitude="-12.132578"/>
+<marker id="529199192" label="Плотоядный каменный тролль" category="71" did="1879083549" parentZoneId="1879051238" longitude="52.62199" latitude="-12.298642"/>
+<marker id="529199193" label="Неуклюжий каменный тролль" category="71" did="1879083550" parentZoneId="1879051238" longitude="52.62199" latitude="-12.298642"/>
+<marker id="529199194" label="Плотоядный каменный тролль" category="71" did="1879083549" parentZoneId="1879051238" longitude="52.73742" latitude="-12.242216"/>
+<marker id="529199195" label="Неуклюжий каменный тролль" category="71" did="1879083550" parentZoneId="1879051238" longitude="52.73742" latitude="-12.242216"/>
+<marker id="529199196" label="Плотоядный каменный тролль" category="71" did="1879083549" parentZoneId="1879051238" longitude="52.933395" latitude="-12.17001"/>
+<marker id="529199197" label="Неуклюжий каменный тролль" category="71" did="1879083550" parentZoneId="1879051238" longitude="52.933395" latitude="-12.17001"/>
+<marker id="529199198" label="Буйный каменный тролль" category="71" did="1879081673" parentZoneId="1879051238" longitude="54.39365" latitude="-12.549316"/>
+<marker id="529199199" label="Злобный каменный тролль" category="71" did="1879081674" parentZoneId="1879051238" longitude="54.39365" latitude="-12.549316"/>
+<marker id="529199200" label="Плотоядный каменный тролль" category="71" did="1879083549" parentZoneId="1879051238" longitude="53.017204" latitude="-11.825185"/>
+<marker id="529199201" label="Неуклюжий каменный тролль" category="71" did="1879083550" parentZoneId="1879051238" longitude="53.017204" latitude="-11.825185"/>
+<marker id="529199202" label="Плотоядный каменный тролль" category="71" did="1879083549" parentZoneId="1879051238" longitude="52.892773" latitude="-11.921044"/>
+<marker id="529199203" label="Неуклюжий каменный тролль" category="71" did="1879083550" parentZoneId="1879051238" longitude="52.892773" latitude="-11.921044"/>
+<marker id="529199204" label="Буйный каменный тролль" category="71" did="1879081673" parentZoneId="1879051238" longitude="54.042282" latitude="-12.3574705"/>
+<marker id="529199205" label="Злобный каменный тролль" category="71" did="1879081674" parentZoneId="1879051238" longitude="54.042282" latitude="-12.3574705"/>
+<marker id="529199206" label="Буйный каменный тролль" category="71" did="1879081673" parentZoneId="1879051238" longitude="54.387226" latitude="-11.214717"/>
+<marker id="529199207" label="Злобный каменный тролль" category="71" did="1879081674" parentZoneId="1879051238" longitude="54.387226" latitude="-11.214717"/>
+<marker id="529199208" label="Плотоядный каменный тролль" category="71" did="1879083549" parentZoneId="1879051238" longitude="53.1607" latitude="-12.140283"/>
+<marker id="529199209" label="Неуклюжий каменный тролль" category="71" did="1879083550" parentZoneId="1879051238" longitude="53.1607" latitude="-12.140283"/>
+<marker id="529199210" label="Плотоядный каменный тролль" category="71" did="1879083549" parentZoneId="1879051238" longitude="52.895176" latitude="-12.474863"/>
+<marker id="529199211" label="Неуклюжий каменный тролль" category="71" did="1879083550" parentZoneId="1879051238" longitude="52.895176" latitude="-12.474863"/>
+<marker id="529199212" label="Буйный каменный тролль" category="71" did="1879081673" parentZoneId="1879051238" longitude="54.091755" latitude="-12.116699"/>
+<marker id="529199213" label="Злобный каменный тролль" category="71" did="1879081674" parentZoneId="1879051238" longitude="54.091755" latitude="-12.116699"/>
+<marker id="529199214" label="Плотоядный каменный тролль" category="71" did="1879083549" parentZoneId="1879051238" longitude="53.102966" latitude="-12.360957"/>
+<marker id="529199215" label="Неуклюжий каменный тролль" category="71" did="1879083550" parentZoneId="1879051238" longitude="53.102966" latitude="-12.360957"/>
+<marker id="529199216" label="Буйный каменный тролль" category="71" did="1879081673" parentZoneId="1879051238" longitude="53.49697" latitude="-13.032089"/>
+<marker id="529199217" label="Злобный каменный тролль" category="71" did="1879081674" parentZoneId="1879051238" longitude="53.49697" latitude="-13.032089"/>
+<marker id="529199218" label="Буйный каменный тролль" category="71" did="1879081673" parentZoneId="1879051238" longitude="54.283203" latitude="-12.099609"/>
+<marker id="529199219" label="Злобный каменный тролль" category="71" did="1879081674" parentZoneId="1879051238" longitude="54.283203" latitude="-12.099609"/>
+<marker id="529199220" label="Буйный каменный тролль" category="71" did="1879081673" parentZoneId="1879051238" longitude="54.352245" latitude="-11.122812"/>
+<marker id="529199221" label="Злобный каменный тролль" category="71" did="1879081674" parentZoneId="1879051238" longitude="54.352245" latitude="-11.122812"/>
+<marker id="529199222" label="Буйный каменный тролль" category="71" did="1879081673" parentZoneId="1879051238" longitude="53.981583" latitude="-10.814688"/>
+<marker id="529199223" label="Злобный каменный тролль" category="71" did="1879081674" parentZoneId="1879051238" longitude="53.981583" latitude="-10.814688"/>
+<marker id="529199224" label="Буйный каменный тролль" category="71" did="1879081673" parentZoneId="1879051238" longitude="53.424118" latitude="-12.996983"/>
+<marker id="529199225" label="Злобный каменный тролль" category="71" did="1879081674" parentZoneId="1879051238" longitude="53.424118" latitude="-12.996983"/>
+<marker id="529199226" label="Буйный каменный тролль" category="71" did="1879081673" parentZoneId="1879051238" longitude="53.905273" latitude="-12.014345"/>
+<marker id="529199227" label="Злобный каменный тролль" category="71" did="1879081674" parentZoneId="1879051238" longitude="53.905273" latitude="-12.014345"/>
+<marker id="529199228" label="Плотоядный каменный тролль" category="71" did="1879083549" parentZoneId="1879051238" longitude="53.30371" latitude="-11.622969"/>
+<marker id="529199229" label="Неуклюжий каменный тролль" category="71" did="1879083550" parentZoneId="1879051238" longitude="53.30371" latitude="-11.622969"/>
+<marker id="529199230" label="Буйный каменный тролль" category="71" did="1879081673" parentZoneId="1879051238" longitude="53.863495" latitude="-13.1275"/>
+<marker id="529199231" label="Злобный каменный тролль" category="71" did="1879081674" parentZoneId="1879051238" longitude="53.863495" latitude="-13.1275"/>
+<marker id="529199232" label="Плотоядный каменный тролль" category="71" did="1879083549" parentZoneId="1879051238" longitude="53.291836" latitude="-11.602412"/>
+<marker id="529199233" label="Неуклюжий каменный тролль" category="71" did="1879083550" parentZoneId="1879051238" longitude="53.291836" latitude="-11.602412"/>
+<marker id="529199234" label="Плотоядный каменный тролль" category="71" did="1879083549" parentZoneId="1879051238" longitude="53.51578" latitude="-11.547451"/>
+<marker id="529199235" label="Неуклюжий каменный тролль" category="71" did="1879083550" parentZoneId="1879051238" longitude="53.51578" latitude="-11.547451"/>
+<marker id="529199236" label="Буйный каменный тролль" category="71" did="1879081673" parentZoneId="1879051238" longitude="53.84926" latitude="-12.608339"/>
+<marker id="529199237" label="Злобный каменный тролль" category="71" did="1879081674" parentZoneId="1879051238" longitude="53.84926" latitude="-12.608339"/>
+<marker id="529199238" label="Буйный каменный тролль" category="71" did="1879081673" parentZoneId="1879051238" longitude="53.97787" latitude="-12.10912"/>
+<marker id="529199239" label="Злобный каменный тролль" category="71" did="1879081674" parentZoneId="1879051238" longitude="53.97787" latitude="-12.10912"/>
+<marker id="529199240" label="Плотоядный каменный тролль" category="71" did="1879083549" parentZoneId="1879051238" longitude="53.47861" latitude="-11.591992"/>
+<marker id="529199241" label="Неуклюжий каменный тролль" category="71" did="1879083550" parentZoneId="1879051238" longitude="53.47861" latitude="-11.591992"/>
+<marker id="529199242" label="Дикий каменный тролль" category="71" did="1879083544" parentZoneId="1879051238" longitude="51.93168" latitude="-12.574697"/>
+<marker id="529199243" label="Горец-защитник" category="71" did="1879083545" parentZoneId="1879051238" longitude="51.93168" latitude="-12.574697"/>
+<marker id="529199244" label="Буйный каменный тролль" category="71" did="1879081673" parentZoneId="1879051238" longitude="54.441677" latitude="-12.497822"/>
+<marker id="529199245" label="Злобный каменный тролль" category="71" did="1879081674" parentZoneId="1879051238" longitude="54.441677" latitude="-12.497822"/>
+<marker id="529199246" label="Дикий каменный тролль" category="71" did="1879083544" parentZoneId="1879051238" longitude="51.896893" latitude="-12.643164"/>
+<marker id="529199247" label="Горец-защитник" category="71" did="1879083545" parentZoneId="1879051238" longitude="51.896893" latitude="-12.643164"/>
+<marker id="529199248" label="Дикий каменный тролль" category="71" did="1879083544" parentZoneId="1879051238" longitude="51.887344" latitude="-12.571757"/>
+<marker id="529199249" label="Горец-защитник" category="71" did="1879083545" parentZoneId="1879051238" longitude="51.887344" latitude="-12.571757"/>
+<marker id="529199250" label="Буйный каменный тролль" category="71" did="1879081673" parentZoneId="1879051238" longitude="54.410233" latitude="-12.298759"/>
+<marker id="529199251" label="Злобный каменный тролль" category="71" did="1879081674" parentZoneId="1879051238" longitude="54.410233" latitude="-12.298759"/>
+<marker id="529199252" label="Буйный каменный тролль" category="71" did="1879081673" parentZoneId="1879051238" longitude="54.030525" latitude="-11.873662"/>
+<marker id="529199253" label="Злобный каменный тролль" category="71" did="1879081674" parentZoneId="1879051238" longitude="54.030525" latitude="-11.873662"/>
+<marker id="529199254" label="Буйный каменный тролль" category="71" did="1879081673" parentZoneId="1879051238" longitude="53.819275" latitude="-12.604658"/>
+<marker id="529199255" label="Злобный каменный тролль" category="71" did="1879081674" parentZoneId="1879051238" longitude="53.819275" latitude="-12.604658"/>
+<marker id="529199256" label="Дикий каменный тролль" category="71" did="1879083544" parentZoneId="1879051238" longitude="52.265213" latitude="-12.588144"/>
+<marker id="529199257" label="Горец-защитник" category="71" did="1879083545" parentZoneId="1879051238" longitude="52.265213" latitude="-12.588144"/>
+<marker id="529199258" label="Буйный каменный тролль" category="71" did="1879081673" parentZoneId="1879051238" longitude="53.866856" latitude="-12.656201"/>
+<marker id="529199259" label="Злобный каменный тролль" category="71" did="1879081674" parentZoneId="1879051238" longitude="53.866856" latitude="-12.656201"/>
+<marker id="529199260" label="Буйный каменный тролль" category="71" did="1879081673" parentZoneId="1879051238" longitude="54.416153" latitude="-11.416308"/>
+<marker id="529199261" label="Злобный каменный тролль" category="71" did="1879081674" parentZoneId="1879051238" longitude="54.416153" latitude="-11.416308"/>
+<marker id="529199262" label="Дикий каменный тролль" category="71" did="1879083544" parentZoneId="1879051238" longitude="51.92076" latitude="-12.675068"/>
+<marker id="529199263" label="Горец-защитник" category="71" did="1879083545" parentZoneId="1879051238" longitude="51.92076" latitude="-12.675068"/>
+<marker id="529199264" label="Дикий каменный тролль" category="71" did="1879083544" parentZoneId="1879051238" longitude="51.869648" latitude="-12.496728"/>
+<marker id="529199265" label="Горец-защитник" category="71" did="1879083545" parentZoneId="1879051238" longitude="51.869648" latitude="-12.496728"/>
+<marker id="529199266" label="Дикий каменный тролль" category="71" did="1879083544" parentZoneId="1879051238" longitude="51.99408" latitude="-12.777344"/>
+<marker id="529199267" label="Горец-защитник" category="71" did="1879083545" parentZoneId="1879051238" longitude="51.99408" latitude="-12.777344"/>
+<marker id="529199268" label="Дикий каменный тролль" category="71" did="1879083544" parentZoneId="1879051238" longitude="52.15451" latitude="-12.490439"/>
+<marker id="529199269" label="Горец-защитник" category="71" did="1879083545" parentZoneId="1879051238" longitude="52.15451" latitude="-12.490439"/>
+<marker id="529199270" label="Дикий каменный тролль" category="71" did="1879083544" parentZoneId="1879051238" longitude="52.354237" latitude="-12.492646"/>
+<marker id="529199271" label="Горец-защитник" category="71" did="1879083545" parentZoneId="1879051238" longitude="52.354237" latitude="-12.492646"/>
+<marker id="529199272" label="Дикий каменный тролль" category="71" did="1879083544" parentZoneId="1879051238" longitude="52.35164" latitude="-12.469384"/>
+<marker id="529199273" label="Горец-защитник" category="71" did="1879083545" parentZoneId="1879051238" longitude="52.35164" latitude="-12.469384"/>
+<marker id="529199274" label="Буйный каменный тролль" category="71" did="1879081673" parentZoneId="1879051238" longitude="54.40371" latitude="-11.135498"/>
+<marker id="529199275" label="Злобный каменный тролль" category="71" did="1879081674" parentZoneId="1879051238" longitude="54.40371" latitude="-11.135498"/>
+<marker id="529199276" label="Буйный каменный тролль" category="71" did="1879081673" parentZoneId="1879051238" longitude="53.77156" latitude="-10.13455"/>
+<marker id="529199277" label="Злобный каменный тролль" category="71" did="1879081674" parentZoneId="1879051238" longitude="53.77156" latitude="-10.13455"/>
+<marker id="529199278" label="Буйный каменный тролль" category="71" did="1879081673" parentZoneId="1879051238" longitude="53.968456" latitude="-10.275391"/>
+<marker id="529199279" label="Злобный каменный тролль" category="71" did="1879081674" parentZoneId="1879051238" longitude="53.968456" latitude="-10.275391"/>
+<marker id="529199280" label="Буйный каменный тролль" category="71" did="1879081673" parentZoneId="1879051238" longitude="53.989685" latitude="-10.476835"/>
+<marker id="529199281" label="Злобный каменный тролль" category="71" did="1879081674" parentZoneId="1879051238" longitude="53.989685" latitude="-10.476835"/>
+<marker id="529199282" label="Буйный каменный тролль" category="71" did="1879081673" parentZoneId="1879051238" longitude="53.84156" latitude="-10.650273"/>
+<marker id="529199283" label="Злобный каменный тролль" category="71" did="1879081674" parentZoneId="1879051238" longitude="53.84156" latitude="-10.650273"/>
+<marker id="529199284" label="Буйный каменный тролль" category="71" did="1879081673" parentZoneId="1879051238" longitude="53.78912" latitude="-10.687392"/>
+<marker id="529199285" label="Злобный каменный тролль" category="71" did="1879081674" parentZoneId="1879051238" longitude="53.78912" latitude="-10.687392"/>
+<marker id="529199286" label="Буйный каменный тролль" category="71" did="1879081673" parentZoneId="1879051238" longitude="53.98715" latitude="-10.927763"/>
+<marker id="529199287" label="Злобный каменный тролль" category="71" did="1879081674" parentZoneId="1879051238" longitude="53.98715" latitude="-10.927763"/>
+<marker id="529199288" label="Буйный каменный тролль" category="71" did="1879081673" parentZoneId="1879051238" longitude="53.806816" latitude="-10.908105"/>
+<marker id="529199289" label="Злобный каменный тролль" category="71" did="1879081674" parentZoneId="1879051238" longitude="53.806816" latitude="-10.908105"/>
+<marker id="529199290" label="Буйный каменный тролль" category="71" did="1879081673" parentZoneId="1879051238" longitude="54.4049" latitude="-11.400713"/>
+<marker id="529199291" label="Злобный каменный тролль" category="71" did="1879081674" parentZoneId="1879051238" longitude="54.4049" latitude="-11.400713"/>
+<marker id="529199292" label="Буйный каменный тролль" category="71" did="1879081673" parentZoneId="1879051238" longitude="54.04029" latitude="-11.006279"/>
+<marker id="529199293" label="Злобный каменный тролль" category="71" did="1879081674" parentZoneId="1879051238" longitude="54.04029" latitude="-11.006279"/>
+<marker id="529199294" label="Буйный каменный тролль" category="71" did="1879081673" parentZoneId="1879051238" longitude="54.23691" latitude="-11.888476"/>
+<marker id="529199295" label="Злобный каменный тролль" category="71" did="1879081674" parentZoneId="1879051238" longitude="54.23691" latitude="-11.888476"/>
+<marker id="529199296" label="Буйный каменный тролль" category="71" did="1879081673" parentZoneId="1879051238" longitude="54.063652" latitude="-12.298408"/>
+<marker id="529199297" label="Злобный каменный тролль" category="71" did="1879081674" parentZoneId="1879051238" longitude="54.063652" latitude="-12.298408"/>
+<marker id="529199298" label="Буйный каменный тролль" category="71" did="1879081673" parentZoneId="1879051238" longitude="53.947693" latitude="-12.032167"/>
+<marker id="529199299" label="Злобный каменный тролль" category="71" did="1879081674" parentZoneId="1879051238" longitude="53.947693" latitude="-12.032167"/>
+<marker id="529199300" label="Буйный каменный тролль" category="71" did="1879081673" parentZoneId="1879051238" longitude="54.398163" latitude="-12.375791"/>
+<marker id="529199301" label="Злобный каменный тролль" category="71" did="1879081674" parentZoneId="1879051238" longitude="54.398163" latitude="-12.375791"/>
+<marker id="529199302" label="Буйный каменный тролль" category="71" did="1879081673" parentZoneId="1879051238" longitude="53.926582" latitude="-12.572656"/>
+<marker id="529199303" label="Злобный каменный тролль" category="71" did="1879081674" parentZoneId="1879051238" longitude="53.926582" latitude="-12.572656"/>
+<marker id="529199304" label="Буйный каменный тролль" category="71" did="1879081673" parentZoneId="1879051238" longitude="54.07025" latitude="-11.874639"/>
+<marker id="529199305" label="Злобный каменный тролль" category="71" did="1879081674" parentZoneId="1879051238" longitude="54.07025" latitude="-11.874639"/>
+<marker id="529199306" label="Буйный каменный тролль" category="71" did="1879081673" parentZoneId="1879051238" longitude="53.827343" latitude="-12.115253"/>
+<marker id="529199307" label="Злобный каменный тролль" category="71" did="1879081674" parentZoneId="1879051238" longitude="53.827343" latitude="-12.115253"/>
+<marker id="529199308" label="Буйный каменный тролль" category="71" did="1879081673" parentZoneId="1879051238" longitude="54.25287" latitude="-12.665273"/>
+<marker id="529199309" label="Злобный каменный тролль" category="71" did="1879081674" parentZoneId="1879051238" longitude="54.25287" latitude="-12.665273"/>
+<marker id="529199310" label="Буйный каменный тролль" category="71" did="1879081673" parentZoneId="1879051238" longitude="54.09707" latitude="-12.188564"/>
+<marker id="529199311" label="Злобный каменный тролль" category="71" did="1879081674" parentZoneId="1879051238" longitude="54.09707" latitude="-12.188564"/>
+<marker id="529199312" label="Буйный каменный тролль" category="71" did="1879081673" parentZoneId="1879051238" longitude="53.961582" latitude="-12.350713"/>
+<marker id="529199313" label="Злобный каменный тролль" category="71" did="1879081674" parentZoneId="1879051238" longitude="53.961582" latitude="-12.350713"/>
+<marker id="529199314" label="Буйный каменный тролль" category="71" did="1879081673" parentZoneId="1879051238" longitude="53.826992" latitude="-12.996318"/>
+<marker id="529199315" label="Злобный каменный тролль" category="71" did="1879081674" parentZoneId="1879051238" longitude="53.826992" latitude="-12.996318"/>
+<marker id="529199316" label="Буйный каменный тролль" category="71" did="1879081673" parentZoneId="1879051238" longitude="53.531075" latitude="-13.041142"/>
+<marker id="529199317" label="Злобный каменный тролль" category="71" did="1879081674" parentZoneId="1879051238" longitude="53.531075" latitude="-13.041142"/>
+<marker id="529199318" label="Буйный каменный тролль" category="71" did="1879081673" parentZoneId="1879051238" longitude="53.24572" latitude="-13.030967"/>
+<marker id="529199319" label="Злобный каменный тролль" category="71" did="1879081674" parentZoneId="1879051238" longitude="53.24572" latitude="-13.030967"/>
+<marker id="529199320" label="Буйный каменный тролль" category="71" did="1879081673" parentZoneId="1879051238" longitude="53.237263" latitude="-12.920908"/>
+<marker id="529199321" label="Злобный каменный тролль" category="71" did="1879081674" parentZoneId="1879051238" longitude="53.237263" latitude="-12.920908"/>
+<marker id="529199322" label="Буйный каменный тролль" category="71" did="1879081673" parentZoneId="1879051238" longitude="53.5534" latitude="-12.99205"/>
+<marker id="529199323" label="Злобный каменный тролль" category="71" did="1879081674" parentZoneId="1879051238" longitude="53.5534" latitude="-12.99205"/>
+<marker id="529199324" label="Плотоядный каменный тролль" category="71" did="1879083549" parentZoneId="1879051238" longitude="53.237556" latitude="-12.677968"/>
+<marker id="529199325" label="Неуклюжий каменный тролль" category="71" did="1879083550" parentZoneId="1879051238" longitude="53.237556" latitude="-12.677968"/>
+<marker id="529199326" label="Плотоядный каменный тролль" category="71" did="1879083549" parentZoneId="1879051238" longitude="53.07203" latitude="-12.482549"/>
+<marker id="529199327" label="Неуклюжий каменный тролль" category="71" did="1879083550" parentZoneId="1879051238" longitude="53.07203" latitude="-12.482549"/>
+<marker id="529199328" label="Плотоядный каменный тролль" category="71" did="1879083549" parentZoneId="1879051238" longitude="53.005352" latitude="-11.937558"/>
+<marker id="529199329" label="Неуклюжий каменный тролль" category="71" did="1879083550" parentZoneId="1879051238" longitude="53.005352" latitude="-11.937558"/>
+<marker id="529199330" label="Плотоядный каменный тролль" category="71" did="1879083549" parentZoneId="1879051238" longitude="52.84908" latitude="-12.188652"/>
+<marker id="529199331" label="Неуклюжий каменный тролль" category="71" did="1879083550" parentZoneId="1879051238" longitude="52.84908" latitude="-12.188652"/>
+<marker id="529199332" label="Плотоядный каменный тролль" category="71" did="1879083549" parentZoneId="1879051238" longitude="52.814766" latitude="-12.040312"/>
+<marker id="529199333" label="Неуклюжий каменный тролль" category="71" did="1879083550" parentZoneId="1879051238" longitude="52.814766" latitude="-12.040312"/>
+<marker id="529199334" label="Дикий каменный тролль" category="71" did="1879083544" parentZoneId="1879051238" longitude="53.311794" latitude="-11.6522455"/>
+<marker id="529199335" label="Горец-защитник" category="71" did="1879083545" parentZoneId="1879051238" longitude="53.311794" latitude="-11.6522455"/>
+<marker id="529199336" label="Плотоядный каменный тролль" category="71" did="1879083549" parentZoneId="1879051238" longitude="53.197754" latitude="-12.179853"/>
+<marker id="529199337" label="Неуклюжий каменный тролль" category="71" did="1879083550" parentZoneId="1879051238" longitude="53.197754" latitude="-12.179853"/>
+<marker id="529199338" label="Плотоядный каменный тролль" category="71" did="1879083549" parentZoneId="1879051238" longitude="52.932224" latitude="-12.4468355"/>
+<marker id="529199339" label="Неуклюжий каменный тролль" category="71" did="1879083550" parentZoneId="1879051238" longitude="52.932224" latitude="-12.4468355"/>
+<marker id="529199340" label="Дикий каменный тролль" category="71" did="1879083544" parentZoneId="1879051238" longitude="52.45566" latitude="-12.459033"/>
+<marker id="529199341" label="Горец-защитник" category="71" did="1879083545" parentZoneId="1879051238" longitude="52.45566" latitude="-12.459033"/>
+<marker id="529199342" label="Дикий каменный тролль" category="71" did="1879083544" parentZoneId="1879051238" longitude="51.989883" latitude="-12.605576"/>
+<marker id="529199343" label="Горец-защитник" category="71" did="1879083545" parentZoneId="1879051238" longitude="51.989883" latitude="-12.605576"/>
+<marker id="529199344" label="Дикий каменный тролль" category="71" did="1879083544" parentZoneId="1879051238" longitude="51.863827" latitude="-12.733876"/>
+<marker id="529199345" label="Горец-защитник" category="71" did="1879083545" parentZoneId="1879051238" longitude="51.863827" latitude="-12.733876"/>
+<marker id="529199346" label="Дикий каменный тролль" category="71" did="1879083544" parentZoneId="1879051238" longitude="52.270428" latitude="-12.545136"/>
+<marker id="529199347" label="Горец-защитник" category="71" did="1879083545" parentZoneId="1879051238" longitude="52.270428" latitude="-12.545136"/>
+<marker id="529199348" label="Буйный каменный тролль" category="71" did="1879081673" parentZoneId="1879051238" longitude="54.23166" latitude="-11.337988"/>
+<marker id="529199349" label="Злобный каменный тролль" category="71" did="1879081674" parentZoneId="1879051238" longitude="54.23166" latitude="-11.337988"/>
+<marker id="529199350" label="Дикий каменный тролль" category="71" did="1879083544" parentZoneId="1879051238" longitude="52.16666" latitude="-12.802343"/>
+<marker id="529199351" label="Горец-защитник" category="71" did="1879083545" parentZoneId="1879051238" longitude="52.16666" latitude="-12.802343"/>
+<marker id="529199352" label="Дикий каменный тролль" category="71" did="1879083544" parentZoneId="1879051238" longitude="52.196796" latitude="-12.804023"/>
+<marker id="529199353" label="Горец-защитник" category="71" did="1879083545" parentZoneId="1879051238" longitude="52.196796" latitude="-12.804023"/>
+<marker id="529199354" label="Дикий каменный тролль" category="71" did="1879083544" parentZoneId="1879051238" longitude="52.770622" latitude="-12.489765"/>
+<marker id="529199355" label="Горец-защитник" category="71" did="1879083545" parentZoneId="1879051238" longitude="52.770622" latitude="-12.489765"/>
+<marker id="529199356" label="Дикий каменный тролль" category="71" did="1879083544" parentZoneId="1879051238" longitude="52.746563" latitude="-12.449443"/>
+<marker id="529199357" label="Горец-защитник" category="71" did="1879083545" parentZoneId="1879051238" longitude="52.746563" latitude="-12.449443"/>
+<marker id="529199358" label="Дикий каменный тролль" category="71" did="1879083544" parentZoneId="1879051238" longitude="52.922733" latitude="-12.285742"/>
+<marker id="529199359" label="Горец-защитник" category="71" did="1879083545" parentZoneId="1879051238" longitude="52.922733" latitude="-12.285742"/>
+<marker id="529199360" label="Дикий каменный тролль" category="71" did="1879083544" parentZoneId="1879051238" longitude="51.808163" latitude="-12.395664"/>
+<marker id="529199361" label="Горец-защитник" category="71" did="1879083545" parentZoneId="1879051238" longitude="51.808163" latitude="-12.395664"/>
+<marker id="529199362" label="Дикий каменный тролль" category="71" did="1879083544" parentZoneId="1879051238" longitude="51.80781" latitude="-12.54334"/>
+<marker id="529199363" label="Горец-защитник" category="71" did="1879083545" parentZoneId="1879051238" longitude="51.80781" latitude="-12.54334"/>
+<marker id="529199364" label="Дикий каменный тролль" category="71" did="1879083544" parentZoneId="1879051238" longitude="51.990273" latitude="-12.457041"/>
+<marker id="529199365" label="Горец-защитник" category="71" did="1879083545" parentZoneId="1879051238" longitude="51.990273" latitude="-12.457041"/>
+<marker id="529199366" label="Буйный каменный тролль" category="71" did="1879081673" parentZoneId="1879051238" longitude="53.430977" latitude="-11.56956"/>
+<marker id="529199367" label="Тарбам" category="71" did="1879081550" parentZoneId="1879051238" longitude="53.430977" latitude="-11.56956"/>
+<marker id="529199368" label="Буйный каменный тролль" category="71" did="1879081673" parentZoneId="1879051238" longitude="53.278534" latitude="-12.166445"/>
+<marker id="529199369" label="Тарбам" category="71" did="1879081550" parentZoneId="1879051238" longitude="53.278534" latitude="-12.166445"/>
+<marker id="529199370" label="Буйный каменный тролль" category="71" did="1879081673" parentZoneId="1879051238" longitude="52.909393" latitude="-12.046415"/>
+<marker id="529199371" label="Тарбам" category="71" did="1879081550" parentZoneId="1879051238" longitude="52.909393" latitude="-12.046415"/>
 </markers>

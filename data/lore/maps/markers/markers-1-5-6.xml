@@ -1,235 +1,235 @@
 <?xml version="1.0" encoding="UTF-8"?><markers>
-<marker id="359251968" label="Mailbox" category="34" did="1879101651" parentZoneId="1879098737" longitude="-75.45625" latitude="-37.930916"/>
-<marker id="359251969" label="Mailbox" category="34" did="1879101651" parentZoneId="1879098737" longitude="-75.557945" latitude="-37.31876"/>
-<marker id="359256064" label="Mailbox" category="34" did="1879101651" parentZoneId="1879098737" longitude="-74.87642" latitude="-36.571865"/>
-<marker id="359256065" label="Mailbox" category="34" did="1879101651" parentZoneId="1879098737" longitude="-75.22011" latitude="-36.914333"/>
-<marker id="359260160" label="Mailbox" category="34" did="1879101651" parentZoneId="1879098737" longitude="-75.45949" latitude="-35.724415"/>
-<marker id="359260161" label="Mailbox" category="34" did="1879101651" parentZoneId="1879098737" longitude="-75.54421" latitude="-36.188877"/>
-<marker id="359260162" label="Mailbox" category="34" did="1879101651" parentZoneId="1879098737" longitude="-75.11557" latitude="-36.367615"/>
-<marker id="359260163" label="Mailbox" category="34" did="1879101651" parentZoneId="1879098737" longitude="-75.07928" latitude="-36.078552"/>
-<marker id="359317504" label="Mailbox" category="34" did="1879101651" parentZoneId="1879098737" longitude="-74.72705" latitude="-37.50582"/>
-<marker id="359317505" label="Mailbox" category="34" did="1879101651" parentZoneId="1879098737" longitude="-74.6716" latitude="-37.948563"/>
-<marker id="359317506" label="Mailbox" category="34" did="1879101651" parentZoneId="1879098737" longitude="-74.62611" latitude="-37.22151"/>
-<marker id="359321600" label="Mailbox" category="34" did="1879101651" parentZoneId="1879098737" longitude="-74.56808" latitude="-36.87998"/>
-<marker id="359325696" label="Mailbox" category="34" did="1879101651" parentZoneId="1879098737" longitude="-74.29882" latitude="-35.674698"/>
-<marker id="359325697" label="Mailbox" category="34" did="1879101651" parentZoneId="1879098737" longitude="-74.59337" latitude="-35.656124"/>
-<marker id="359325698" label="Mailbox" category="34" did="1879101651" parentZoneId="1879098737" longitude="-74.72771" latitude="-36.01743"/>
-<marker id="359383040" label="Mailbox" category="34" did="1879101651" parentZoneId="1879098737" longitude="-73.33175" latitude="-37.257996"/>
-<marker id="359383041" label="Mailbox" category="34" did="1879101651" parentZoneId="1879098737" longitude="-73.36762" latitude="-37.550877"/>
-<marker id="359383042" label="Mailbox" category="34" did="1879101651" parentZoneId="1879098737" longitude="-73.31665" latitude="-37.682335"/>
-<marker id="359383043" label="Mailbox" category="34" did="1879101651" parentZoneId="1879098737" longitude="-73.32124" latitude="-37.813145"/>
-<marker id="359383044" label="Mailbox" category="34" did="1879101651" parentZoneId="1879098737" longitude="-73.552925" latitude="-37.94866"/>
-<marker id="359383045" label="Mailbox" category="34" did="1879101651" parentZoneId="1879098737" longitude="-73.99682" latitude="-37.924686"/>
-<marker id="359383046" label="Mailbox" category="34" did="1879101651" parentZoneId="1879098737" longitude="-73.9877" latitude="-37.55123"/>
-<marker id="359387136" label="Mailbox" category="34" did="1879101651" parentZoneId="1879098737" longitude="-73.390495" latitude="-36.67465"/>
-<marker id="359387137" label="Mailbox" category="34" did="1879101651" parentZoneId="1879098737" longitude="-73.778275" latitude="-36.619335"/>
-<marker id="359387138" label="Mailbox" category="34" did="1879101651" parentZoneId="1879098737" longitude="-73.38293" latitude="-36.939842"/>
-<marker id="359387139" label="Rolf Bracegirdle&#10;Housing Furnisher" category="38" did="1879097321" parentZoneId="1879099102" longitude="-74.248024" latitude="-35.682957"/>
-<marker id="359387140" label="Vault-keeper" category="40" did="1879084237" parentZoneId="1879099102" longitude="-74.26655" latitude="-35.60448"/>
-<marker id="359387141" label="Supplier &amp; Provisioner" category="38" did="1879101632" parentZoneId="1879099102" longitude="-74.28945" latitude="-35.632187"/>
+<marker id="359251968" label="Почтовый ящик" category="34" did="1879101651" parentZoneId="1879098737" longitude="-75.45625" latitude="-37.930916"/>
+<marker id="359251969" label="Почтовый ящик" category="34" did="1879101651" parentZoneId="1879098737" longitude="-75.557945" latitude="-37.31876"/>
+<marker id="359256064" label="Почтовый ящик" category="34" did="1879101651" parentZoneId="1879098737" longitude="-74.87642" latitude="-36.571865"/>
+<marker id="359256065" label="Почтовый ящик" category="34" did="1879101651" parentZoneId="1879098737" longitude="-75.22011" latitude="-36.914333"/>
+<marker id="359260160" label="Почтовый ящик" category="34" did="1879101651" parentZoneId="1879098737" longitude="-75.45949" latitude="-35.724415"/>
+<marker id="359260161" label="Почтовый ящик" category="34" did="1879101651" parentZoneId="1879098737" longitude="-75.54421" latitude="-36.188877"/>
+<marker id="359260162" label="Почтовый ящик" category="34" did="1879101651" parentZoneId="1879098737" longitude="-75.11557" latitude="-36.367615"/>
+<marker id="359260163" label="Почтовый ящик" category="34" did="1879101651" parentZoneId="1879098737" longitude="-75.07928" latitude="-36.078552"/>
+<marker id="359317504" label="Почтовый ящик" category="34" did="1879101651" parentZoneId="1879098737" longitude="-74.72705" latitude="-37.50582"/>
+<marker id="359317505" label="Почтовый ящик" category="34" did="1879101651" parentZoneId="1879098737" longitude="-74.6716" latitude="-37.948563"/>
+<marker id="359317506" label="Почтовый ящик" category="34" did="1879101651" parentZoneId="1879098737" longitude="-74.62611" latitude="-37.22151"/>
+<marker id="359321600" label="Почтовый ящик" category="34" did="1879101651" parentZoneId="1879098737" longitude="-74.56808" latitude="-36.87998"/>
+<marker id="359325696" label="Почтовый ящик" category="34" did="1879101651" parentZoneId="1879098737" longitude="-74.29882" latitude="-35.674698"/>
+<marker id="359325697" label="Почтовый ящик" category="34" did="1879101651" parentZoneId="1879098737" longitude="-74.59337" latitude="-35.656124"/>
+<marker id="359325698" label="Почтовый ящик" category="34" did="1879101651" parentZoneId="1879098737" longitude="-74.72771" latitude="-36.01743"/>
+<marker id="359383040" label="Почтовый ящик" category="34" did="1879101651" parentZoneId="1879098737" longitude="-73.33175" latitude="-37.257996"/>
+<marker id="359383041" label="Почтовый ящик" category="34" did="1879101651" parentZoneId="1879098737" longitude="-73.36762" latitude="-37.550877"/>
+<marker id="359383042" label="Почтовый ящик" category="34" did="1879101651" parentZoneId="1879098737" longitude="-73.31665" latitude="-37.682335"/>
+<marker id="359383043" label="Почтовый ящик" category="34" did="1879101651" parentZoneId="1879098737" longitude="-73.32124" latitude="-37.813145"/>
+<marker id="359383044" label="Почтовый ящик" category="34" did="1879101651" parentZoneId="1879098737" longitude="-73.552925" latitude="-37.94866"/>
+<marker id="359383045" label="Почтовый ящик" category="34" did="1879101651" parentZoneId="1879098737" longitude="-73.99682" latitude="-37.924686"/>
+<marker id="359383046" label="Почтовый ящик" category="34" did="1879101651" parentZoneId="1879098737" longitude="-73.9877" latitude="-37.55123"/>
+<marker id="359387136" label="Почтовый ящик" category="34" did="1879101651" parentZoneId="1879098737" longitude="-73.390495" latitude="-36.67465"/>
+<marker id="359387137" label="Почтовый ящик" category="34" did="1879101651" parentZoneId="1879098737" longitude="-73.778275" latitude="-36.619335"/>
+<marker id="359387138" label="Почтовый ящик" category="34" did="1879101651" parentZoneId="1879098737" longitude="-73.38293" latitude="-36.939842"/>
+<marker id="359387139" label="Рольф Толстобрюхл&#10;Домашняя утварь" category="38" did="1879097321" parentZoneId="1879099102" longitude="-74.248024" latitude="-35.682957"/>
+<marker id="359387140" label="Банкир" category="40" did="1879084237" parentZoneId="1879099102" longitude="-74.26655" latitude="-35.60448"/>
+<marker id="359387141" label="Припасы и продовольствие" category="38" did="1879101632" parentZoneId="1879099102" longitude="-74.28945" latitude="-35.632187"/>
 <marker id="359387142" label="" category="38" did="1879101636" parentZoneId="1879099102" longitude="-74.270706" latitude="-35.735165"/>
-<marker id="359391232" label="Mailbox" category="34" did="1879101651" parentZoneId="1879098737" longitude="-73.64292" latitude="-36.14485"/>
-<marker id="359391233" label="Mailbox" category="34" did="1879101651" parentZoneId="1879098737" longitude="-73.39615" latitude="-35.7096"/>
-<marker id="359391234" label="Mailbox" category="34" did="1879101651" parentZoneId="1879098737" longitude="-73.99432" latitude="-35.953"/>
-<marker id="359391235" label="Mailbox" category="34" did="1879101651" parentZoneId="1879098737" longitude="-73.8051" latitude="-36.175674"/>
-<marker id="359391236" label="Mailbox" category="34" did="1879101651" parentZoneId="1879098737" longitude="-73.48842" latitude="-36.296593"/>
-<marker id="359395328" label="Red Squirrel" category="78" did="1879077776" parentZoneId="1879064016" longitude="-73.41727" latitude="-35.489315"/>
-<marker id="359395329" label="Shire White-tail Buck" category="78" did="1879077778" parentZoneId="1879064016" longitude="-73.41727" latitude="-35.489315"/>
-<marker id="359395330" label="Shire White-tail Doe" category="78" did="1879077774" parentZoneId="1879064016" longitude="-73.41727" latitude="-35.489315"/>
-<marker id="359395331" label="Red Fox" category="78" did="1879077775" parentZoneId="1879064016" longitude="-73.41727" latitude="-35.489315"/>
-<marker id="359395332" label="Red Squirrel" category="78" did="1879077776" parentZoneId="1879064016" longitude="-73.723175" latitude="-35.509403"/>
-<marker id="359395333" label="Shire White-tail Buck" category="78" did="1879077778" parentZoneId="1879064016" longitude="-73.723175" latitude="-35.509403"/>
-<marker id="359395334" label="Shire White-tail Doe" category="78" did="1879077774" parentZoneId="1879064016" longitude="-73.723175" latitude="-35.509403"/>
-<marker id="359395335" label="Red Fox" category="78" did="1879077775" parentZoneId="1879064016" longitude="-73.723175" latitude="-35.509403"/>
-<marker id="359395336" label="Red Squirrel" category="78" did="1879077776" parentZoneId="1879064016" longitude="-73.892075" latitude="-35.273445"/>
-<marker id="359395337" label="Shire White-tail Buck" category="78" did="1879077778" parentZoneId="1879064016" longitude="-73.892075" latitude="-35.273445"/>
-<marker id="359395338" label="Shire White-tail Doe" category="78" did="1879077774" parentZoneId="1879064016" longitude="-73.892075" latitude="-35.273445"/>
-<marker id="359395339" label="Red Fox" category="78" did="1879077775" parentZoneId="1879064016" longitude="-73.892075" latitude="-35.273445"/>
-<marker id="359395340" label="Red Squirrel" category="78" did="1879077776" parentZoneId="1879064016" longitude="-73.37357" latitude="-35.200848"/>
-<marker id="359395341" label="Shire White-tail Buck" category="78" did="1879077778" parentZoneId="1879064016" longitude="-73.37357" latitude="-35.200848"/>
-<marker id="359395342" label="Shire White-tail Doe" category="78" did="1879077774" parentZoneId="1879064016" longitude="-73.37357" latitude="-35.200848"/>
-<marker id="359395343" label="Red Fox" category="78" did="1879077775" parentZoneId="1879064016" longitude="-73.37357" latitude="-35.200848"/>
-<marker id="359395344" label="Red Squirrel" category="78" did="1879077776" parentZoneId="1879064016" longitude="-73.636246" latitude="-35.13663"/>
-<marker id="359395345" label="Shire White-tail Buck" category="78" did="1879077778" parentZoneId="1879064016" longitude="-73.636246" latitude="-35.13663"/>
-<marker id="359395346" label="Shire White-tail Doe" category="78" did="1879077774" parentZoneId="1879064016" longitude="-73.636246" latitude="-35.13663"/>
-<marker id="359395347" label="Red Fox" category="78" did="1879077775" parentZoneId="1879064016" longitude="-73.636246" latitude="-35.13663"/>
-<marker id="359395348" label="Red Squirrel" category="78" did="1879077776" parentZoneId="1879064016" longitude="-73.47951" latitude="-34.93752"/>
-<marker id="359395349" label="Shire White-tail Buck" category="78" did="1879077778" parentZoneId="1879064016" longitude="-73.47951" latitude="-34.93752"/>
-<marker id="359395350" label="Shire White-tail Doe" category="78" did="1879077774" parentZoneId="1879064016" longitude="-73.47951" latitude="-34.93752"/>
-<marker id="359395351" label="Red Fox" category="78" did="1879077775" parentZoneId="1879064016" longitude="-73.47951" latitude="-34.93752"/>
-<marker id="359395352" label="Red Squirrel" category="78" did="1879077776" parentZoneId="1879064016" longitude="-73.9141" latitude="-34.96499"/>
-<marker id="359395353" label="Shire White-tail Buck" category="78" did="1879077778" parentZoneId="1879064016" longitude="-73.9141" latitude="-34.96499"/>
-<marker id="359395354" label="Shire White-tail Doe" category="78" did="1879077774" parentZoneId="1879064016" longitude="-73.9141" latitude="-34.96499"/>
-<marker id="359395355" label="Red Fox" category="78" did="1879077775" parentZoneId="1879064016" longitude="-73.9141" latitude="-34.96499"/>
-<marker id="359395356" label="Red Squirrel" category="78" did="1879077776" parentZoneId="1879064016" longitude="-73.275024" latitude="-34.85453"/>
-<marker id="359395357" label="Shire White-tail Buck" category="78" did="1879077778" parentZoneId="1879064016" longitude="-73.275024" latitude="-34.85453"/>
-<marker id="359395358" label="Shire White-tail Doe" category="78" did="1879077774" parentZoneId="1879064016" longitude="-73.275024" latitude="-34.85453"/>
-<marker id="359395359" label="Red Fox" category="78" did="1879077775" parentZoneId="1879064016" longitude="-73.275024" latitude="-34.85453"/>
-<marker id="359395360" label="Red Squirrel" category="78" did="1879077776" parentZoneId="1879064016" longitude="-73.24206" latitude="-35.29908"/>
-<marker id="359395361" label="Shire White-tail Buck" category="78" did="1879077778" parentZoneId="1879064016" longitude="-73.24206" latitude="-35.29908"/>
-<marker id="359395362" label="Shire White-tail Doe" category="78" did="1879077774" parentZoneId="1879064016" longitude="-73.24206" latitude="-35.29908"/>
-<marker id="359395363" label="Red Fox" category="78" did="1879077775" parentZoneId="1879064016" longitude="-73.24206" latitude="-35.29908"/>
-<marker id="359395364" label="Rowan Branches" category="50" did="1879077553" parentZoneId="1879064016" longitude="-73.871994" latitude="-34.9499"/>
-<marker id="359395365" label="Heavy Rowan Branches" category="50" did="1879087940" parentZoneId="1879064016" longitude="-73.871994" latitude="-34.9499"/>
-<marker id="359395366" label="Rich Tin Deposit" category="50" did="1879087928" parentZoneId="1879064016" longitude="-73.871994" latitude="-34.9499"/>
-<marker id="359395367" label="Tin Deposit" category="50" did="1879077401" parentZoneId="1879064016" longitude="-73.871994" latitude="-34.9499"/>
-<marker id="359395368" label="Copper Deposit" category="50" did="1879077402" parentZoneId="1879064016" longitude="-73.871994" latitude="-34.9499"/>
-<marker id="359395369" label="Rich Copper Deposit" category="50" did="1879087934" parentZoneId="1879064016" longitude="-73.871994" latitude="-34.9499"/>
-<marker id="359395370" label="Rowan Branches" category="50" did="1879077553" parentZoneId="1879064016" longitude="-73.84673" latitude="-35.167675"/>
-<marker id="359395371" label="Heavy Rowan Branches" category="50" did="1879087940" parentZoneId="1879064016" longitude="-73.84673" latitude="-35.167675"/>
-<marker id="359395372" label="Rich Tin Deposit" category="50" did="1879087928" parentZoneId="1879064016" longitude="-73.84673" latitude="-35.167675"/>
-<marker id="359395373" label="Tin Deposit" category="50" did="1879077401" parentZoneId="1879064016" longitude="-73.84673" latitude="-35.167675"/>
-<marker id="359395374" label="Copper Deposit" category="50" did="1879077402" parentZoneId="1879064016" longitude="-73.84673" latitude="-35.167675"/>
-<marker id="359395375" label="Rich Copper Deposit" category="50" did="1879087934" parentZoneId="1879064016" longitude="-73.84673" latitude="-35.167675"/>
-<marker id="359395376" label="Rowan Branches" category="50" did="1879077553" parentZoneId="1879064016" longitude="-73.92323" latitude="-35.413895"/>
-<marker id="359395377" label="Heavy Rowan Branches" category="50" did="1879087940" parentZoneId="1879064016" longitude="-73.92323" latitude="-35.413895"/>
-<marker id="359395378" label="Rich Tin Deposit" category="50" did="1879087928" parentZoneId="1879064016" longitude="-73.92323" latitude="-35.413895"/>
-<marker id="359395379" label="Tin Deposit" category="50" did="1879077401" parentZoneId="1879064016" longitude="-73.92323" latitude="-35.413895"/>
-<marker id="359395380" label="Copper Deposit" category="50" did="1879077402" parentZoneId="1879064016" longitude="-73.92323" latitude="-35.413895"/>
-<marker id="359395381" label="Rich Copper Deposit" category="50" did="1879087934" parentZoneId="1879064016" longitude="-73.92323" latitude="-35.413895"/>
-<marker id="359395382" label="Rowan Branches" category="50" did="1879077553" parentZoneId="1879064016" longitude="-73.611496" latitude="-35.5179"/>
-<marker id="359395383" label="Heavy Rowan Branches" category="50" did="1879087940" parentZoneId="1879064016" longitude="-73.611496" latitude="-35.5179"/>
-<marker id="359395384" label="Rich Tin Deposit" category="50" did="1879087928" parentZoneId="1879064016" longitude="-73.611496" latitude="-35.5179"/>
-<marker id="359395385" label="Tin Deposit" category="50" did="1879077401" parentZoneId="1879064016" longitude="-73.611496" latitude="-35.5179"/>
-<marker id="359395386" label="Copper Deposit" category="50" did="1879077402" parentZoneId="1879064016" longitude="-73.611496" latitude="-35.5179"/>
-<marker id="359395387" label="Rich Copper Deposit" category="50" did="1879087934" parentZoneId="1879064016" longitude="-73.611496" latitude="-35.5179"/>
-<marker id="359395388" label="Rowan Branches" category="50" did="1879077553" parentZoneId="1879064016" longitude="-73.26084" latitude="-35.386944"/>
-<marker id="359395389" label="Heavy Rowan Branches" category="50" did="1879087940" parentZoneId="1879064016" longitude="-73.26084" latitude="-35.386944"/>
-<marker id="359395390" label="Rich Tin Deposit" category="50" did="1879087928" parentZoneId="1879064016" longitude="-73.26084" latitude="-35.386944"/>
-<marker id="359395391" label="Tin Deposit" category="50" did="1879077401" parentZoneId="1879064016" longitude="-73.26084" latitude="-35.386944"/>
-<marker id="359395392" label="Copper Deposit" category="50" did="1879077402" parentZoneId="1879064016" longitude="-73.26084" latitude="-35.386944"/>
-<marker id="359395393" label="Rich Copper Deposit" category="50" did="1879087934" parentZoneId="1879064016" longitude="-73.26084" latitude="-35.386944"/>
-<marker id="359395394" label="Rowan Branches" category="50" did="1879077553" parentZoneId="1879064016" longitude="-73.45214" latitude="-34.954716"/>
-<marker id="359395395" label="Heavy Rowan Branches" category="50" did="1879087940" parentZoneId="1879064016" longitude="-73.45214" latitude="-34.954716"/>
-<marker id="359395396" label="Rich Tin Deposit" category="50" did="1879087928" parentZoneId="1879064016" longitude="-73.45214" latitude="-34.954716"/>
-<marker id="359395397" label="Tin Deposit" category="50" did="1879077401" parentZoneId="1879064016" longitude="-73.45214" latitude="-34.954716"/>
-<marker id="359395398" label="Copper Deposit" category="50" did="1879077402" parentZoneId="1879064016" longitude="-73.45214" latitude="-34.954716"/>
-<marker id="359395399" label="Rich Copper Deposit" category="50" did="1879087934" parentZoneId="1879064016" longitude="-73.45214" latitude="-34.954716"/>
-<marker id="359395400" label="Rowan Branches" category="50" did="1879077553" parentZoneId="1879064016" longitude="-73.23682" latitude="-35.016563"/>
-<marker id="359395401" label="Heavy Rowan Branches" category="50" did="1879087940" parentZoneId="1879064016" longitude="-73.23682" latitude="-35.016563"/>
-<marker id="359395402" label="Rich Tin Deposit" category="50" did="1879087928" parentZoneId="1879064016" longitude="-73.23682" latitude="-35.016563"/>
-<marker id="359395403" label="Tin Deposit" category="50" did="1879077401" parentZoneId="1879064016" longitude="-73.23682" latitude="-35.016563"/>
-<marker id="359395404" label="Copper Deposit" category="50" did="1879077402" parentZoneId="1879064016" longitude="-73.23682" latitude="-35.016563"/>
-<marker id="359395405" label="Rich Copper Deposit" category="50" did="1879087934" parentZoneId="1879064016" longitude="-73.23682" latitude="-35.016563"/>
-<marker id="359395406" label="Rowan Branches" category="50" did="1879077553" parentZoneId="1879064016" longitude="-73.24942" latitude="-35.45124"/>
-<marker id="359395407" label="Heavy Rowan Branches" category="50" did="1879087940" parentZoneId="1879064016" longitude="-73.24942" latitude="-35.45124"/>
-<marker id="359395408" label="Rich Tin Deposit" category="50" did="1879087928" parentZoneId="1879064016" longitude="-73.24942" latitude="-35.45124"/>
-<marker id="359395409" label="Tin Deposit" category="50" did="1879077401" parentZoneId="1879064016" longitude="-73.24942" latitude="-35.45124"/>
-<marker id="359395410" label="Copper Deposit" category="50" did="1879077402" parentZoneId="1879064016" longitude="-73.24942" latitude="-35.45124"/>
-<marker id="359395411" label="Rich Copper Deposit" category="50" did="1879087934" parentZoneId="1879064016" longitude="-73.24942" latitude="-35.45124"/>
-<marker id="359395412" label="Rowan Branches" category="50" did="1879077553" parentZoneId="1879064016" longitude="-73.52412" latitude="-35.25531"/>
-<marker id="359395413" label="Heavy Rowan Branches" category="50" did="1879087940" parentZoneId="1879064016" longitude="-73.52412" latitude="-35.25531"/>
-<marker id="359395414" label="Rich Tin Deposit" category="50" did="1879087928" parentZoneId="1879064016" longitude="-73.52412" latitude="-35.25531"/>
-<marker id="359395415" label="Tin Deposit" category="50" did="1879077401" parentZoneId="1879064016" longitude="-73.52412" latitude="-35.25531"/>
-<marker id="359395416" label="Copper Deposit" category="50" did="1879077402" parentZoneId="1879064016" longitude="-73.52412" latitude="-35.25531"/>
-<marker id="359395417" label="Rich Copper Deposit" category="50" did="1879087934" parentZoneId="1879064016" longitude="-73.52412" latitude="-35.25531"/>
-<marker id="359395418" label="Rowan Branches" category="50" did="1879077553" parentZoneId="1879064016" longitude="-73.81094" latitude="-34.85703"/>
-<marker id="359395419" label="Heavy Rowan Branches" category="50" did="1879087940" parentZoneId="1879064016" longitude="-73.81094" latitude="-34.85703"/>
-<marker id="359395420" label="Rich Tin Deposit" category="50" did="1879087928" parentZoneId="1879064016" longitude="-73.81094" latitude="-34.85703"/>
-<marker id="359395421" label="Tin Deposit" category="50" did="1879077401" parentZoneId="1879064016" longitude="-73.81094" latitude="-34.85703"/>
-<marker id="359395422" label="Copper Deposit" category="50" did="1879077402" parentZoneId="1879064016" longitude="-73.81094" latitude="-34.85703"/>
-<marker id="359395423" label="Rich Copper Deposit" category="50" did="1879087934" parentZoneId="1879064016" longitude="-73.81094" latitude="-34.85703"/>
-<marker id="359395424" label="Rowan Branches" category="50" did="1879077553" parentZoneId="1879064016" longitude="-73.41381" latitude="-34.98247"/>
-<marker id="359395425" label="Heavy Rowan Branches" category="50" did="1879087940" parentZoneId="1879064016" longitude="-73.41381" latitude="-34.98247"/>
-<marker id="359395426" label="Rich Tin Deposit" category="50" did="1879087928" parentZoneId="1879064016" longitude="-73.41381" latitude="-34.98247"/>
-<marker id="359395427" label="Tin Deposit" category="50" did="1879077401" parentZoneId="1879064016" longitude="-73.41381" latitude="-34.98247"/>
-<marker id="359395428" label="Copper Deposit" category="50" did="1879077402" parentZoneId="1879064016" longitude="-73.41381" latitude="-34.98247"/>
-<marker id="359395429" label="Rich Copper Deposit" category="50" did="1879087934" parentZoneId="1879064016" longitude="-73.41381" latitude="-34.98247"/>
-<marker id="359395430" label="Rowan Branches" category="50" did="1879077553" parentZoneId="1879064016" longitude="-73.36623" latitude="-34.968487"/>
-<marker id="359395431" label="Heavy Rowan Branches" category="50" did="1879087940" parentZoneId="1879064016" longitude="-73.36623" latitude="-34.968487"/>
-<marker id="359395432" label="Rich Tin Deposit" category="50" did="1879087928" parentZoneId="1879064016" longitude="-73.36623" latitude="-34.968487"/>
-<marker id="359395433" label="Tin Deposit" category="50" did="1879077401" parentZoneId="1879064016" longitude="-73.36623" latitude="-34.968487"/>
-<marker id="359395434" label="Copper Deposit" category="50" did="1879077402" parentZoneId="1879064016" longitude="-73.36623" latitude="-34.968487"/>
-<marker id="359395435" label="Rich Copper Deposit" category="50" did="1879087934" parentZoneId="1879064016" longitude="-73.36623" latitude="-34.968487"/>
-<marker id="359395436" label="Rowan Branches" category="50" did="1879077553" parentZoneId="1879064016" longitude="-73.295265" latitude="-35.00951"/>
-<marker id="359395437" label="Heavy Rowan Branches" category="50" did="1879087940" parentZoneId="1879064016" longitude="-73.295265" latitude="-35.00951"/>
-<marker id="359395438" label="Rich Tin Deposit" category="50" did="1879087928" parentZoneId="1879064016" longitude="-73.295265" latitude="-35.00951"/>
-<marker id="359395439" label="Tin Deposit" category="50" did="1879077401" parentZoneId="1879064016" longitude="-73.295265" latitude="-35.00951"/>
-<marker id="359395440" label="Copper Deposit" category="50" did="1879077402" parentZoneId="1879064016" longitude="-73.295265" latitude="-35.00951"/>
-<marker id="359395441" label="Rich Copper Deposit" category="50" did="1879087934" parentZoneId="1879064016" longitude="-73.295265" latitude="-35.00951"/>
-<marker id="359395442" label="Rowan Branches" category="50" did="1879077553" parentZoneId="1879064016" longitude="-73.21905" latitude="-35.1495"/>
-<marker id="359395443" label="Heavy Rowan Branches" category="50" did="1879087940" parentZoneId="1879064016" longitude="-73.21905" latitude="-35.1495"/>
-<marker id="359395444" label="Rich Tin Deposit" category="50" did="1879087928" parentZoneId="1879064016" longitude="-73.21905" latitude="-35.1495"/>
-<marker id="359395445" label="Tin Deposit" category="50" did="1879077401" parentZoneId="1879064016" longitude="-73.21905" latitude="-35.1495"/>
-<marker id="359395446" label="Copper Deposit" category="50" did="1879077402" parentZoneId="1879064016" longitude="-73.21905" latitude="-35.1495"/>
-<marker id="359395447" label="Rich Copper Deposit" category="50" did="1879087934" parentZoneId="1879064016" longitude="-73.21905" latitude="-35.1495"/>
-<marker id="359395448" label="Rowan Branches" category="50" did="1879077553" parentZoneId="1879064016" longitude="-73.61675" latitude="-35.310604"/>
-<marker id="359395449" label="Heavy Rowan Branches" category="50" did="1879087940" parentZoneId="1879064016" longitude="-73.61675" latitude="-35.310604"/>
-<marker id="359395450" label="Rich Tin Deposit" category="50" did="1879087928" parentZoneId="1879064016" longitude="-73.61675" latitude="-35.310604"/>
-<marker id="359395451" label="Tin Deposit" category="50" did="1879077401" parentZoneId="1879064016" longitude="-73.61675" latitude="-35.310604"/>
-<marker id="359395452" label="Copper Deposit" category="50" did="1879077402" parentZoneId="1879064016" longitude="-73.61675" latitude="-35.310604"/>
-<marker id="359395453" label="Rich Copper Deposit" category="50" did="1879087934" parentZoneId="1879064016" longitude="-73.61675" latitude="-35.310604"/>
-<marker id="359395454" label="Rowan Branches" category="50" did="1879077553" parentZoneId="1879064016" longitude="-73.89122" latitude="-35.381016"/>
-<marker id="359395455" label="Heavy Rowan Branches" category="50" did="1879087940" parentZoneId="1879064016" longitude="-73.89122" latitude="-35.381016"/>
-<marker id="359395456" label="Rich Tin Deposit" category="50" did="1879087928" parentZoneId="1879064016" longitude="-73.89122" latitude="-35.381016"/>
-<marker id="359395457" label="Tin Deposit" category="50" did="1879077401" parentZoneId="1879064016" longitude="-73.89122" latitude="-35.381016"/>
-<marker id="359395458" label="Copper Deposit" category="50" did="1879077402" parentZoneId="1879064016" longitude="-73.89122" latitude="-35.381016"/>
-<marker id="359395459" label="Rich Copper Deposit" category="50" did="1879087934" parentZoneId="1879064016" longitude="-73.89122" latitude="-35.381016"/>
-<marker id="359395460" label="Rowan Branches" category="50" did="1879077553" parentZoneId="1879064016" longitude="-73.933685" latitude="-35.205173"/>
-<marker id="359395461" label="Heavy Rowan Branches" category="50" did="1879087940" parentZoneId="1879064016" longitude="-73.933685" latitude="-35.205173"/>
-<marker id="359395462" label="Rich Tin Deposit" category="50" did="1879087928" parentZoneId="1879064016" longitude="-73.933685" latitude="-35.205173"/>
-<marker id="359395463" label="Tin Deposit" category="50" did="1879077401" parentZoneId="1879064016" longitude="-73.933685" latitude="-35.205173"/>
-<marker id="359395464" label="Copper Deposit" category="50" did="1879077402" parentZoneId="1879064016" longitude="-73.933685" latitude="-35.205173"/>
-<marker id="359395465" label="Rich Copper Deposit" category="50" did="1879087934" parentZoneId="1879064016" longitude="-73.933685" latitude="-35.205173"/>
-<marker id="359395466" label="Rowan Branches" category="50" did="1879077553" parentZoneId="1879064016" longitude="-73.80412" latitude="-35.2508"/>
-<marker id="359395467" label="Heavy Rowan Branches" category="50" did="1879087940" parentZoneId="1879064016" longitude="-73.80412" latitude="-35.2508"/>
-<marker id="359395468" label="Rich Tin Deposit" category="50" did="1879087928" parentZoneId="1879064016" longitude="-73.80412" latitude="-35.2508"/>
-<marker id="359395469" label="Tin Deposit" category="50" did="1879077401" parentZoneId="1879064016" longitude="-73.80412" latitude="-35.2508"/>
-<marker id="359395470" label="Copper Deposit" category="50" did="1879077402" parentZoneId="1879064016" longitude="-73.80412" latitude="-35.2508"/>
-<marker id="359395471" label="Rich Copper Deposit" category="50" did="1879087934" parentZoneId="1879064016" longitude="-73.80412" latitude="-35.2508"/>
-<marker id="359452672" label="Milestone" category="55" did="1879063401" parentZoneId="1879064016" longitude="-73.16328" latitude="-36.494053"/>
-<marker id="359452673" label="Michel Delving Housing Broker" category="38" did="1879096841" parentZoneId="1879064016" longitude="-72.75812" latitude="-36.48197"/>
-<marker id="359456768" label="Red Squirrel" category="78" did="1879077776" parentZoneId="1879064016" longitude="-73.08392" latitude="-35.708523"/>
-<marker id="359456769" label="Shire White-tail Buck" category="78" did="1879077778" parentZoneId="1879064016" longitude="-73.08392" latitude="-35.708523"/>
-<marker id="359456770" label="Shire White-tail Doe" category="78" did="1879077774" parentZoneId="1879064016" longitude="-73.08392" latitude="-35.708523"/>
-<marker id="359456771" label="Red Fox" category="78" did="1879077775" parentZoneId="1879064016" longitude="-73.08392" latitude="-35.708523"/>
-<marker id="359456772" label="Red Squirrel" category="78" did="1879077776" parentZoneId="1879064016" longitude="-72.88325" latitude="-35.84822"/>
-<marker id="359456773" label="Shire White-tail Buck" category="78" did="1879077778" parentZoneId="1879064016" longitude="-72.88325" latitude="-35.84822"/>
-<marker id="359456774" label="Shire White-tail Doe" category="78" did="1879077774" parentZoneId="1879064016" longitude="-72.88325" latitude="-35.84822"/>
-<marker id="359456775" label="Red Fox" category="78" did="1879077775" parentZoneId="1879064016" longitude="-72.88325" latitude="-35.84822"/>
-<marker id="359456776" label="Red Squirrel" category="78" did="1879077776" parentZoneId="1879064016" longitude="-73.00746" latitude="-35.996464"/>
-<marker id="359456777" label="Shire White-tail Buck" category="78" did="1879077778" parentZoneId="1879064016" longitude="-73.00746" latitude="-35.996464"/>
-<marker id="359456778" label="Shire White-tail Doe" category="78" did="1879077774" parentZoneId="1879064016" longitude="-73.00746" latitude="-35.996464"/>
-<marker id="359456779" label="Red Fox" category="78" did="1879077775" parentZoneId="1879064016" longitude="-73.00746" latitude="-35.996464"/>
-<marker id="359456780" label="Red Squirrel" category="78" did="1879077776" parentZoneId="1879064016" longitude="-73.11923" latitude="-36.17123"/>
-<marker id="359456781" label="Shire White-tail Buck" category="78" did="1879077778" parentZoneId="1879064016" longitude="-73.11923" latitude="-36.17123"/>
-<marker id="359456782" label="Shire White-tail Doe" category="78" did="1879077774" parentZoneId="1879064016" longitude="-73.11923" latitude="-36.17123"/>
-<marker id="359456783" label="Red Fox" category="78" did="1879077775" parentZoneId="1879064016" longitude="-73.11923" latitude="-36.17123"/>
-<marker id="359456784" label="Red Squirrel" category="78" did="1879077776" parentZoneId="1879064016" longitude="-72.85701" latitude="-36.263836"/>
-<marker id="359456785" label="Shire White-tail Buck" category="78" did="1879077778" parentZoneId="1879064016" longitude="-72.85701" latitude="-36.263836"/>
-<marker id="359456786" label="Shire White-tail Doe" category="78" did="1879077774" parentZoneId="1879064016" longitude="-72.85701" latitude="-36.263836"/>
-<marker id="359456787" label="Red Fox" category="78" did="1879077775" parentZoneId="1879064016" longitude="-72.85701" latitude="-36.263836"/>
-<marker id="359456788" label="Red Squirrel" category="78" did="1879077776" parentZoneId="1879064016" longitude="-73.03906" latitude="-36.329464"/>
-<marker id="359456789" label="Shire White-tail Buck" category="78" did="1879077778" parentZoneId="1879064016" longitude="-73.03906" latitude="-36.329464"/>
-<marker id="359456790" label="Shire White-tail Doe" category="78" did="1879077774" parentZoneId="1879064016" longitude="-73.03906" latitude="-36.329464"/>
-<marker id="359456791" label="Red Fox" category="78" did="1879077775" parentZoneId="1879064016" longitude="-73.03906" latitude="-36.329464"/>
-<marker id="359460864" label="Southfarthing Gate" category="43" did="1879063420" parentZoneId="1879064016" longitude="-72.82486" latitude="-34.955486"/>
-<marker id="359460865" label="Red Squirrel" category="78" did="1879077776" parentZoneId="1879064016" longitude="-72.51674" latitude="-34.908455"/>
-<marker id="359460866" label="Shire White-tail Buck" category="78" did="1879077778" parentZoneId="1879064016" longitude="-72.51674" latitude="-34.908455"/>
-<marker id="359460867" label="Shire White-tail Doe" category="78" did="1879077774" parentZoneId="1879064016" longitude="-72.51674" latitude="-34.908455"/>
-<marker id="359460868" label="Red Fox" category="78" did="1879077775" parentZoneId="1879064016" longitude="-72.51674" latitude="-34.908455"/>
-<marker id="359460869" label="Red Squirrel" category="78" did="1879077776" parentZoneId="1879064016" longitude="-72.628044" latitude="-35.171543"/>
-<marker id="359460870" label="Shire White-tail Buck" category="78" did="1879077778" parentZoneId="1879064016" longitude="-72.628044" latitude="-35.171543"/>
-<marker id="359460871" label="Shire White-tail Doe" category="78" did="1879077774" parentZoneId="1879064016" longitude="-72.628044" latitude="-35.171543"/>
-<marker id="359460872" label="Red Fox" category="78" did="1879077775" parentZoneId="1879064016" longitude="-72.628044" latitude="-35.171543"/>
-<marker id="359460873" label="Red Squirrel" category="78" did="1879077776" parentZoneId="1879064016" longitude="-72.979706" latitude="-35.474365"/>
-<marker id="359460874" label="Shire White-tail Buck" category="78" did="1879077778" parentZoneId="1879064016" longitude="-72.979706" latitude="-35.474365"/>
-<marker id="359460875" label="Shire White-tail Doe" category="78" did="1879077774" parentZoneId="1879064016" longitude="-72.979706" latitude="-35.474365"/>
-<marker id="359460876" label="Red Fox" category="78" did="1879077775" parentZoneId="1879064016" longitude="-72.979706" latitude="-35.474365"/>
-<marker id="359460877" label="Red Squirrel" category="78" did="1879077776" parentZoneId="1879064016" longitude="-73.064224" latitude="-35.266678"/>
-<marker id="359460878" label="Shire White-tail Buck" category="78" did="1879077778" parentZoneId="1879064016" longitude="-73.064224" latitude="-35.266678"/>
-<marker id="359460879" label="Shire White-tail Doe" category="78" did="1879077774" parentZoneId="1879064016" longitude="-73.064224" latitude="-35.266678"/>
-<marker id="359460880" label="Red Fox" category="78" did="1879077775" parentZoneId="1879064016" longitude="-73.064224" latitude="-35.266678"/>
-<marker id="359460881" label="Red Squirrel" category="78" did="1879077776" parentZoneId="1879064016" longitude="-73.00662" latitude="-34.85332"/>
-<marker id="359460882" label="Shire White-tail Buck" category="78" did="1879077778" parentZoneId="1879064016" longitude="-73.00662" latitude="-34.85332"/>
-<marker id="359460883" label="Shire White-tail Doe" category="78" did="1879077774" parentZoneId="1879064016" longitude="-73.00662" latitude="-34.85332"/>
-<marker id="359460884" label="Red Fox" category="78" did="1879077775" parentZoneId="1879064016" longitude="-73.00662" latitude="-34.85332"/>
-<marker id="359460885" label="Red Squirrel" category="78" did="1879077776" parentZoneId="1879064016" longitude="-73.09442" latitude="-35.062733"/>
-<marker id="359460886" label="Shire White-tail Buck" category="78" did="1879077778" parentZoneId="1879064016" longitude="-73.09442" latitude="-35.062733"/>
-<marker id="359460887" label="Shire White-tail Doe" category="78" did="1879077774" parentZoneId="1879064016" longitude="-73.09442" latitude="-35.062733"/>
-<marker id="359460888" label="Red Fox" category="78" did="1879077775" parentZoneId="1879064016" longitude="-73.09442" latitude="-35.062733"/>
-<marker id="359460889" label="Red Squirrel" category="78" did="1879077776" parentZoneId="1879064016" longitude="-72.45222" latitude="-35.07197"/>
-<marker id="359460890" label="Shire White-tail Buck" category="78" did="1879077778" parentZoneId="1879064016" longitude="-72.45222" latitude="-35.07197"/>
-<marker id="359460891" label="Shire White-tail Doe" category="78" did="1879077774" parentZoneId="1879064016" longitude="-72.45222" latitude="-35.07197"/>
-<marker id="359460892" label="Red Fox" category="78" did="1879077775" parentZoneId="1879064016" longitude="-72.45222" latitude="-35.07197"/>
+<marker id="359391232" label="Почтовый ящик" category="34" did="1879101651" parentZoneId="1879098737" longitude="-73.64292" latitude="-36.14485"/>
+<marker id="359391233" label="Почтовый ящик" category="34" did="1879101651" parentZoneId="1879098737" longitude="-73.39615" latitude="-35.7096"/>
+<marker id="359391234" label="Почтовый ящик" category="34" did="1879101651" parentZoneId="1879098737" longitude="-73.99432" latitude="-35.953"/>
+<marker id="359391235" label="Почтовый ящик" category="34" did="1879101651" parentZoneId="1879098737" longitude="-73.8051" latitude="-36.175674"/>
+<marker id="359391236" label="Почтовый ящик" category="34" did="1879101651" parentZoneId="1879098737" longitude="-73.48842" latitude="-36.296593"/>
+<marker id="359395328" label="Рыжая белка" category="78" did="1879077776" parentZoneId="1879064016" longitude="-73.41727" latitude="-35.489315"/>
+<marker id="359395329" label="Ширский белохвостый олень" category="78" did="1879077778" parentZoneId="1879064016" longitude="-73.41727" latitude="-35.489315"/>
+<marker id="359395330" label="Ширская белохвостая олениха" category="78" did="1879077774" parentZoneId="1879064016" longitude="-73.41727" latitude="-35.489315"/>
+<marker id="359395331" label="Рыжая лиса" category="78" did="1879077775" parentZoneId="1879064016" longitude="-73.41727" latitude="-35.489315"/>
+<marker id="359395332" label="Рыжая белка" category="78" did="1879077776" parentZoneId="1879064016" longitude="-73.723175" latitude="-35.509403"/>
+<marker id="359395333" label="Ширский белохвостый олень" category="78" did="1879077778" parentZoneId="1879064016" longitude="-73.723175" latitude="-35.509403"/>
+<marker id="359395334" label="Ширская белохвостая олениха" category="78" did="1879077774" parentZoneId="1879064016" longitude="-73.723175" latitude="-35.509403"/>
+<marker id="359395335" label="Рыжая лиса" category="78" did="1879077775" parentZoneId="1879064016" longitude="-73.723175" latitude="-35.509403"/>
+<marker id="359395336" label="Рыжая белка" category="78" did="1879077776" parentZoneId="1879064016" longitude="-73.892075" latitude="-35.273445"/>
+<marker id="359395337" label="Ширский белохвостый олень" category="78" did="1879077778" parentZoneId="1879064016" longitude="-73.892075" latitude="-35.273445"/>
+<marker id="359395338" label="Ширская белохвостая олениха" category="78" did="1879077774" parentZoneId="1879064016" longitude="-73.892075" latitude="-35.273445"/>
+<marker id="359395339" label="Рыжая лиса" category="78" did="1879077775" parentZoneId="1879064016" longitude="-73.892075" latitude="-35.273445"/>
+<marker id="359395340" label="Рыжая белка" category="78" did="1879077776" parentZoneId="1879064016" longitude="-73.37357" latitude="-35.200848"/>
+<marker id="359395341" label="Ширский белохвостый олень" category="78" did="1879077778" parentZoneId="1879064016" longitude="-73.37357" latitude="-35.200848"/>
+<marker id="359395342" label="Ширская белохвостая олениха" category="78" did="1879077774" parentZoneId="1879064016" longitude="-73.37357" latitude="-35.200848"/>
+<marker id="359395343" label="Рыжая лиса" category="78" did="1879077775" parentZoneId="1879064016" longitude="-73.37357" latitude="-35.200848"/>
+<marker id="359395344" label="Рыжая белка" category="78" did="1879077776" parentZoneId="1879064016" longitude="-73.636246" latitude="-35.13663"/>
+<marker id="359395345" label="Ширский белохвостый олень" category="78" did="1879077778" parentZoneId="1879064016" longitude="-73.636246" latitude="-35.13663"/>
+<marker id="359395346" label="Ширская белохвостая олениха" category="78" did="1879077774" parentZoneId="1879064016" longitude="-73.636246" latitude="-35.13663"/>
+<marker id="359395347" label="Рыжая лиса" category="78" did="1879077775" parentZoneId="1879064016" longitude="-73.636246" latitude="-35.13663"/>
+<marker id="359395348" label="Рыжая белка" category="78" did="1879077776" parentZoneId="1879064016" longitude="-73.47951" latitude="-34.93752"/>
+<marker id="359395349" label="Ширский белохвостый олень" category="78" did="1879077778" parentZoneId="1879064016" longitude="-73.47951" latitude="-34.93752"/>
+<marker id="359395350" label="Ширская белохвостая олениха" category="78" did="1879077774" parentZoneId="1879064016" longitude="-73.47951" latitude="-34.93752"/>
+<marker id="359395351" label="Рыжая лиса" category="78" did="1879077775" parentZoneId="1879064016" longitude="-73.47951" latitude="-34.93752"/>
+<marker id="359395352" label="Рыжая белка" category="78" did="1879077776" parentZoneId="1879064016" longitude="-73.9141" latitude="-34.96499"/>
+<marker id="359395353" label="Ширский белохвостый олень" category="78" did="1879077778" parentZoneId="1879064016" longitude="-73.9141" latitude="-34.96499"/>
+<marker id="359395354" label="Ширская белохвостая олениха" category="78" did="1879077774" parentZoneId="1879064016" longitude="-73.9141" latitude="-34.96499"/>
+<marker id="359395355" label="Рыжая лиса" category="78" did="1879077775" parentZoneId="1879064016" longitude="-73.9141" latitude="-34.96499"/>
+<marker id="359395356" label="Рыжая белка" category="78" did="1879077776" parentZoneId="1879064016" longitude="-73.275024" latitude="-34.85453"/>
+<marker id="359395357" label="Ширский белохвостый олень" category="78" did="1879077778" parentZoneId="1879064016" longitude="-73.275024" latitude="-34.85453"/>
+<marker id="359395358" label="Ширская белохвостая олениха" category="78" did="1879077774" parentZoneId="1879064016" longitude="-73.275024" latitude="-34.85453"/>
+<marker id="359395359" label="Рыжая лиса" category="78" did="1879077775" parentZoneId="1879064016" longitude="-73.275024" latitude="-34.85453"/>
+<marker id="359395360" label="Рыжая белка" category="78" did="1879077776" parentZoneId="1879064016" longitude="-73.24206" latitude="-35.29908"/>
+<marker id="359395361" label="Ширский белохвостый олень" category="78" did="1879077778" parentZoneId="1879064016" longitude="-73.24206" latitude="-35.29908"/>
+<marker id="359395362" label="Ширская белохвостая олениха" category="78" did="1879077774" parentZoneId="1879064016" longitude="-73.24206" latitude="-35.29908"/>
+<marker id="359395363" label="Рыжая лиса" category="78" did="1879077775" parentZoneId="1879064016" longitude="-73.24206" latitude="-35.29908"/>
+<marker id="359395364" label="Ветви рябины" category="50" did="1879077553" parentZoneId="1879064016" longitude="-73.871994" latitude="-34.9499"/>
+<marker id="359395365" label="Тяжелые ветви рябины" category="50" did="1879087940" parentZoneId="1879064016" longitude="-73.871994" latitude="-34.9499"/>
+<marker id="359395366" label="Богатые залежи олова" category="50" did="1879087928" parentZoneId="1879064016" longitude="-73.871994" latitude="-34.9499"/>
+<marker id="359395367" label="Залежи олова" category="50" did="1879077401" parentZoneId="1879064016" longitude="-73.871994" latitude="-34.9499"/>
+<marker id="359395368" label="Залежи меди" category="50" did="1879077402" parentZoneId="1879064016" longitude="-73.871994" latitude="-34.9499"/>
+<marker id="359395369" label="Богатые залежи меди" category="50" did="1879087934" parentZoneId="1879064016" longitude="-73.871994" latitude="-34.9499"/>
+<marker id="359395370" label="Ветви рябины" category="50" did="1879077553" parentZoneId="1879064016" longitude="-73.84673" latitude="-35.167675"/>
+<marker id="359395371" label="Тяжелые ветви рябины" category="50" did="1879087940" parentZoneId="1879064016" longitude="-73.84673" latitude="-35.167675"/>
+<marker id="359395372" label="Богатые залежи олова" category="50" did="1879087928" parentZoneId="1879064016" longitude="-73.84673" latitude="-35.167675"/>
+<marker id="359395373" label="Залежи олова" category="50" did="1879077401" parentZoneId="1879064016" longitude="-73.84673" latitude="-35.167675"/>
+<marker id="359395374" label="Залежи меди" category="50" did="1879077402" parentZoneId="1879064016" longitude="-73.84673" latitude="-35.167675"/>
+<marker id="359395375" label="Богатые залежи меди" category="50" did="1879087934" parentZoneId="1879064016" longitude="-73.84673" latitude="-35.167675"/>
+<marker id="359395376" label="Ветви рябины" category="50" did="1879077553" parentZoneId="1879064016" longitude="-73.92323" latitude="-35.413895"/>
+<marker id="359395377" label="Тяжелые ветви рябины" category="50" did="1879087940" parentZoneId="1879064016" longitude="-73.92323" latitude="-35.413895"/>
+<marker id="359395378" label="Богатые залежи олова" category="50" did="1879087928" parentZoneId="1879064016" longitude="-73.92323" latitude="-35.413895"/>
+<marker id="359395379" label="Залежи олова" category="50" did="1879077401" parentZoneId="1879064016" longitude="-73.92323" latitude="-35.413895"/>
+<marker id="359395380" label="Залежи меди" category="50" did="1879077402" parentZoneId="1879064016" longitude="-73.92323" latitude="-35.413895"/>
+<marker id="359395381" label="Богатые залежи меди" category="50" did="1879087934" parentZoneId="1879064016" longitude="-73.92323" latitude="-35.413895"/>
+<marker id="359395382" label="Ветви рябины" category="50" did="1879077553" parentZoneId="1879064016" longitude="-73.611496" latitude="-35.5179"/>
+<marker id="359395383" label="Тяжелые ветви рябины" category="50" did="1879087940" parentZoneId="1879064016" longitude="-73.611496" latitude="-35.5179"/>
+<marker id="359395384" label="Богатые залежи олова" category="50" did="1879087928" parentZoneId="1879064016" longitude="-73.611496" latitude="-35.5179"/>
+<marker id="359395385" label="Залежи олова" category="50" did="1879077401" parentZoneId="1879064016" longitude="-73.611496" latitude="-35.5179"/>
+<marker id="359395386" label="Залежи меди" category="50" did="1879077402" parentZoneId="1879064016" longitude="-73.611496" latitude="-35.5179"/>
+<marker id="359395387" label="Богатые залежи меди" category="50" did="1879087934" parentZoneId="1879064016" longitude="-73.611496" latitude="-35.5179"/>
+<marker id="359395388" label="Ветви рябины" category="50" did="1879077553" parentZoneId="1879064016" longitude="-73.26084" latitude="-35.386944"/>
+<marker id="359395389" label="Тяжелые ветви рябины" category="50" did="1879087940" parentZoneId="1879064016" longitude="-73.26084" latitude="-35.386944"/>
+<marker id="359395390" label="Богатые залежи олова" category="50" did="1879087928" parentZoneId="1879064016" longitude="-73.26084" latitude="-35.386944"/>
+<marker id="359395391" label="Залежи олова" category="50" did="1879077401" parentZoneId="1879064016" longitude="-73.26084" latitude="-35.386944"/>
+<marker id="359395392" label="Залежи меди" category="50" did="1879077402" parentZoneId="1879064016" longitude="-73.26084" latitude="-35.386944"/>
+<marker id="359395393" label="Богатые залежи меди" category="50" did="1879087934" parentZoneId="1879064016" longitude="-73.26084" latitude="-35.386944"/>
+<marker id="359395394" label="Ветви рябины" category="50" did="1879077553" parentZoneId="1879064016" longitude="-73.45214" latitude="-34.954716"/>
+<marker id="359395395" label="Тяжелые ветви рябины" category="50" did="1879087940" parentZoneId="1879064016" longitude="-73.45214" latitude="-34.954716"/>
+<marker id="359395396" label="Богатые залежи олова" category="50" did="1879087928" parentZoneId="1879064016" longitude="-73.45214" latitude="-34.954716"/>
+<marker id="359395397" label="Залежи олова" category="50" did="1879077401" parentZoneId="1879064016" longitude="-73.45214" latitude="-34.954716"/>
+<marker id="359395398" label="Залежи меди" category="50" did="1879077402" parentZoneId="1879064016" longitude="-73.45214" latitude="-34.954716"/>
+<marker id="359395399" label="Богатые залежи меди" category="50" did="1879087934" parentZoneId="1879064016" longitude="-73.45214" latitude="-34.954716"/>
+<marker id="359395400" label="Ветви рябины" category="50" did="1879077553" parentZoneId="1879064016" longitude="-73.23682" latitude="-35.016563"/>
+<marker id="359395401" label="Тяжелые ветви рябины" category="50" did="1879087940" parentZoneId="1879064016" longitude="-73.23682" latitude="-35.016563"/>
+<marker id="359395402" label="Богатые залежи олова" category="50" did="1879087928" parentZoneId="1879064016" longitude="-73.23682" latitude="-35.016563"/>
+<marker id="359395403" label="Залежи олова" category="50" did="1879077401" parentZoneId="1879064016" longitude="-73.23682" latitude="-35.016563"/>
+<marker id="359395404" label="Залежи меди" category="50" did="1879077402" parentZoneId="1879064016" longitude="-73.23682" latitude="-35.016563"/>
+<marker id="359395405" label="Богатые залежи меди" category="50" did="1879087934" parentZoneId="1879064016" longitude="-73.23682" latitude="-35.016563"/>
+<marker id="359395406" label="Ветви рябины" category="50" did="1879077553" parentZoneId="1879064016" longitude="-73.24942" latitude="-35.45124"/>
+<marker id="359395407" label="Тяжелые ветви рябины" category="50" did="1879087940" parentZoneId="1879064016" longitude="-73.24942" latitude="-35.45124"/>
+<marker id="359395408" label="Богатые залежи олова" category="50" did="1879087928" parentZoneId="1879064016" longitude="-73.24942" latitude="-35.45124"/>
+<marker id="359395409" label="Залежи олова" category="50" did="1879077401" parentZoneId="1879064016" longitude="-73.24942" latitude="-35.45124"/>
+<marker id="359395410" label="Залежи меди" category="50" did="1879077402" parentZoneId="1879064016" longitude="-73.24942" latitude="-35.45124"/>
+<marker id="359395411" label="Богатые залежи меди" category="50" did="1879087934" parentZoneId="1879064016" longitude="-73.24942" latitude="-35.45124"/>
+<marker id="359395412" label="Ветви рябины" category="50" did="1879077553" parentZoneId="1879064016" longitude="-73.52412" latitude="-35.25531"/>
+<marker id="359395413" label="Тяжелые ветви рябины" category="50" did="1879087940" parentZoneId="1879064016" longitude="-73.52412" latitude="-35.25531"/>
+<marker id="359395414" label="Богатые залежи олова" category="50" did="1879087928" parentZoneId="1879064016" longitude="-73.52412" latitude="-35.25531"/>
+<marker id="359395415" label="Залежи олова" category="50" did="1879077401" parentZoneId="1879064016" longitude="-73.52412" latitude="-35.25531"/>
+<marker id="359395416" label="Залежи меди" category="50" did="1879077402" parentZoneId="1879064016" longitude="-73.52412" latitude="-35.25531"/>
+<marker id="359395417" label="Богатые залежи меди" category="50" did="1879087934" parentZoneId="1879064016" longitude="-73.52412" latitude="-35.25531"/>
+<marker id="359395418" label="Ветви рябины" category="50" did="1879077553" parentZoneId="1879064016" longitude="-73.81094" latitude="-34.85703"/>
+<marker id="359395419" label="Тяжелые ветви рябины" category="50" did="1879087940" parentZoneId="1879064016" longitude="-73.81094" latitude="-34.85703"/>
+<marker id="359395420" label="Богатые залежи олова" category="50" did="1879087928" parentZoneId="1879064016" longitude="-73.81094" latitude="-34.85703"/>
+<marker id="359395421" label="Залежи олова" category="50" did="1879077401" parentZoneId="1879064016" longitude="-73.81094" latitude="-34.85703"/>
+<marker id="359395422" label="Залежи меди" category="50" did="1879077402" parentZoneId="1879064016" longitude="-73.81094" latitude="-34.85703"/>
+<marker id="359395423" label="Богатые залежи меди" category="50" did="1879087934" parentZoneId="1879064016" longitude="-73.81094" latitude="-34.85703"/>
+<marker id="359395424" label="Ветви рябины" category="50" did="1879077553" parentZoneId="1879064016" longitude="-73.41381" latitude="-34.98247"/>
+<marker id="359395425" label="Тяжелые ветви рябины" category="50" did="1879087940" parentZoneId="1879064016" longitude="-73.41381" latitude="-34.98247"/>
+<marker id="359395426" label="Богатые залежи олова" category="50" did="1879087928" parentZoneId="1879064016" longitude="-73.41381" latitude="-34.98247"/>
+<marker id="359395427" label="Залежи олова" category="50" did="1879077401" parentZoneId="1879064016" longitude="-73.41381" latitude="-34.98247"/>
+<marker id="359395428" label="Залежи меди" category="50" did="1879077402" parentZoneId="1879064016" longitude="-73.41381" latitude="-34.98247"/>
+<marker id="359395429" label="Богатые залежи меди" category="50" did="1879087934" parentZoneId="1879064016" longitude="-73.41381" latitude="-34.98247"/>
+<marker id="359395430" label="Ветви рябины" category="50" did="1879077553" parentZoneId="1879064016" longitude="-73.36623" latitude="-34.968487"/>
+<marker id="359395431" label="Тяжелые ветви рябины" category="50" did="1879087940" parentZoneId="1879064016" longitude="-73.36623" latitude="-34.968487"/>
+<marker id="359395432" label="Богатые залежи олова" category="50" did="1879087928" parentZoneId="1879064016" longitude="-73.36623" latitude="-34.968487"/>
+<marker id="359395433" label="Залежи олова" category="50" did="1879077401" parentZoneId="1879064016" longitude="-73.36623" latitude="-34.968487"/>
+<marker id="359395434" label="Залежи меди" category="50" did="1879077402" parentZoneId="1879064016" longitude="-73.36623" latitude="-34.968487"/>
+<marker id="359395435" label="Богатые залежи меди" category="50" did="1879087934" parentZoneId="1879064016" longitude="-73.36623" latitude="-34.968487"/>
+<marker id="359395436" label="Ветви рябины" category="50" did="1879077553" parentZoneId="1879064016" longitude="-73.295265" latitude="-35.00951"/>
+<marker id="359395437" label="Тяжелые ветви рябины" category="50" did="1879087940" parentZoneId="1879064016" longitude="-73.295265" latitude="-35.00951"/>
+<marker id="359395438" label="Богатые залежи олова" category="50" did="1879087928" parentZoneId="1879064016" longitude="-73.295265" latitude="-35.00951"/>
+<marker id="359395439" label="Залежи олова" category="50" did="1879077401" parentZoneId="1879064016" longitude="-73.295265" latitude="-35.00951"/>
+<marker id="359395440" label="Залежи меди" category="50" did="1879077402" parentZoneId="1879064016" longitude="-73.295265" latitude="-35.00951"/>
+<marker id="359395441" label="Богатые залежи меди" category="50" did="1879087934" parentZoneId="1879064016" longitude="-73.295265" latitude="-35.00951"/>
+<marker id="359395442" label="Ветви рябины" category="50" did="1879077553" parentZoneId="1879064016" longitude="-73.21905" latitude="-35.1495"/>
+<marker id="359395443" label="Тяжелые ветви рябины" category="50" did="1879087940" parentZoneId="1879064016" longitude="-73.21905" latitude="-35.1495"/>
+<marker id="359395444" label="Богатые залежи олова" category="50" did="1879087928" parentZoneId="1879064016" longitude="-73.21905" latitude="-35.1495"/>
+<marker id="359395445" label="Залежи олова" category="50" did="1879077401" parentZoneId="1879064016" longitude="-73.21905" latitude="-35.1495"/>
+<marker id="359395446" label="Залежи меди" category="50" did="1879077402" parentZoneId="1879064016" longitude="-73.21905" latitude="-35.1495"/>
+<marker id="359395447" label="Богатые залежи меди" category="50" did="1879087934" parentZoneId="1879064016" longitude="-73.21905" latitude="-35.1495"/>
+<marker id="359395448" label="Ветви рябины" category="50" did="1879077553" parentZoneId="1879064016" longitude="-73.61675" latitude="-35.310604"/>
+<marker id="359395449" label="Тяжелые ветви рябины" category="50" did="1879087940" parentZoneId="1879064016" longitude="-73.61675" latitude="-35.310604"/>
+<marker id="359395450" label="Богатые залежи олова" category="50" did="1879087928" parentZoneId="1879064016" longitude="-73.61675" latitude="-35.310604"/>
+<marker id="359395451" label="Залежи олова" category="50" did="1879077401" parentZoneId="1879064016" longitude="-73.61675" latitude="-35.310604"/>
+<marker id="359395452" label="Залежи меди" category="50" did="1879077402" parentZoneId="1879064016" longitude="-73.61675" latitude="-35.310604"/>
+<marker id="359395453" label="Богатые залежи меди" category="50" did="1879087934" parentZoneId="1879064016" longitude="-73.61675" latitude="-35.310604"/>
+<marker id="359395454" label="Ветви рябины" category="50" did="1879077553" parentZoneId="1879064016" longitude="-73.89122" latitude="-35.381016"/>
+<marker id="359395455" label="Тяжелые ветви рябины" category="50" did="1879087940" parentZoneId="1879064016" longitude="-73.89122" latitude="-35.381016"/>
+<marker id="359395456" label="Богатые залежи олова" category="50" did="1879087928" parentZoneId="1879064016" longitude="-73.89122" latitude="-35.381016"/>
+<marker id="359395457" label="Залежи олова" category="50" did="1879077401" parentZoneId="1879064016" longitude="-73.89122" latitude="-35.381016"/>
+<marker id="359395458" label="Залежи меди" category="50" did="1879077402" parentZoneId="1879064016" longitude="-73.89122" latitude="-35.381016"/>
+<marker id="359395459" label="Богатые залежи меди" category="50" did="1879087934" parentZoneId="1879064016" longitude="-73.89122" latitude="-35.381016"/>
+<marker id="359395460" label="Ветви рябины" category="50" did="1879077553" parentZoneId="1879064016" longitude="-73.933685" latitude="-35.205173"/>
+<marker id="359395461" label="Тяжелые ветви рябины" category="50" did="1879087940" parentZoneId="1879064016" longitude="-73.933685" latitude="-35.205173"/>
+<marker id="359395462" label="Богатые залежи олова" category="50" did="1879087928" parentZoneId="1879064016" longitude="-73.933685" latitude="-35.205173"/>
+<marker id="359395463" label="Залежи олова" category="50" did="1879077401" parentZoneId="1879064016" longitude="-73.933685" latitude="-35.205173"/>
+<marker id="359395464" label="Залежи меди" category="50" did="1879077402" parentZoneId="1879064016" longitude="-73.933685" latitude="-35.205173"/>
+<marker id="359395465" label="Богатые залежи меди" category="50" did="1879087934" parentZoneId="1879064016" longitude="-73.933685" latitude="-35.205173"/>
+<marker id="359395466" label="Ветви рябины" category="50" did="1879077553" parentZoneId="1879064016" longitude="-73.80412" latitude="-35.2508"/>
+<marker id="359395467" label="Тяжелые ветви рябины" category="50" did="1879087940" parentZoneId="1879064016" longitude="-73.80412" latitude="-35.2508"/>
+<marker id="359395468" label="Богатые залежи олова" category="50" did="1879087928" parentZoneId="1879064016" longitude="-73.80412" latitude="-35.2508"/>
+<marker id="359395469" label="Залежи олова" category="50" did="1879077401" parentZoneId="1879064016" longitude="-73.80412" latitude="-35.2508"/>
+<marker id="359395470" label="Залежи меди" category="50" did="1879077402" parentZoneId="1879064016" longitude="-73.80412" latitude="-35.2508"/>
+<marker id="359395471" label="Богатые залежи меди" category="50" did="1879087934" parentZoneId="1879064016" longitude="-73.80412" latitude="-35.2508"/>
+<marker id="359452672" label="Путевой камень" category="55" did="1879063401" parentZoneId="1879064016" longitude="-73.16328" latitude="-36.494053"/>
+<marker id="359452673" label="Продажа домов в поселениях Занорья" category="38" did="1879096841" parentZoneId="1879064016" longitude="-72.75812" latitude="-36.48197"/>
+<marker id="359456768" label="Рыжая белка" category="78" did="1879077776" parentZoneId="1879064016" longitude="-73.08392" latitude="-35.708523"/>
+<marker id="359456769" label="Ширский белохвостый олень" category="78" did="1879077778" parentZoneId="1879064016" longitude="-73.08392" latitude="-35.708523"/>
+<marker id="359456770" label="Ширская белохвостая олениха" category="78" did="1879077774" parentZoneId="1879064016" longitude="-73.08392" latitude="-35.708523"/>
+<marker id="359456771" label="Рыжая лиса" category="78" did="1879077775" parentZoneId="1879064016" longitude="-73.08392" latitude="-35.708523"/>
+<marker id="359456772" label="Рыжая белка" category="78" did="1879077776" parentZoneId="1879064016" longitude="-72.88325" latitude="-35.84822"/>
+<marker id="359456773" label="Ширский белохвостый олень" category="78" did="1879077778" parentZoneId="1879064016" longitude="-72.88325" latitude="-35.84822"/>
+<marker id="359456774" label="Ширская белохвостая олениха" category="78" did="1879077774" parentZoneId="1879064016" longitude="-72.88325" latitude="-35.84822"/>
+<marker id="359456775" label="Рыжая лиса" category="78" did="1879077775" parentZoneId="1879064016" longitude="-72.88325" latitude="-35.84822"/>
+<marker id="359456776" label="Рыжая белка" category="78" did="1879077776" parentZoneId="1879064016" longitude="-73.00746" latitude="-35.996464"/>
+<marker id="359456777" label="Ширский белохвостый олень" category="78" did="1879077778" parentZoneId="1879064016" longitude="-73.00746" latitude="-35.996464"/>
+<marker id="359456778" label="Ширская белохвостая олениха" category="78" did="1879077774" parentZoneId="1879064016" longitude="-73.00746" latitude="-35.996464"/>
+<marker id="359456779" label="Рыжая лиса" category="78" did="1879077775" parentZoneId="1879064016" longitude="-73.00746" latitude="-35.996464"/>
+<marker id="359456780" label="Рыжая белка" category="78" did="1879077776" parentZoneId="1879064016" longitude="-73.11923" latitude="-36.17123"/>
+<marker id="359456781" label="Ширский белохвостый олень" category="78" did="1879077778" parentZoneId="1879064016" longitude="-73.11923" latitude="-36.17123"/>
+<marker id="359456782" label="Ширская белохвостая олениха" category="78" did="1879077774" parentZoneId="1879064016" longitude="-73.11923" latitude="-36.17123"/>
+<marker id="359456783" label="Рыжая лиса" category="78" did="1879077775" parentZoneId="1879064016" longitude="-73.11923" latitude="-36.17123"/>
+<marker id="359456784" label="Рыжая белка" category="78" did="1879077776" parentZoneId="1879064016" longitude="-72.85701" latitude="-36.263836"/>
+<marker id="359456785" label="Ширский белохвостый олень" category="78" did="1879077778" parentZoneId="1879064016" longitude="-72.85701" latitude="-36.263836"/>
+<marker id="359456786" label="Ширская белохвостая олениха" category="78" did="1879077774" parentZoneId="1879064016" longitude="-72.85701" latitude="-36.263836"/>
+<marker id="359456787" label="Рыжая лиса" category="78" did="1879077775" parentZoneId="1879064016" longitude="-72.85701" latitude="-36.263836"/>
+<marker id="359456788" label="Рыжая белка" category="78" did="1879077776" parentZoneId="1879064016" longitude="-73.03906" latitude="-36.329464"/>
+<marker id="359456789" label="Ширский белохвостый олень" category="78" did="1879077778" parentZoneId="1879064016" longitude="-73.03906" latitude="-36.329464"/>
+<marker id="359456790" label="Ширская белохвостая олениха" category="78" did="1879077774" parentZoneId="1879064016" longitude="-73.03906" latitude="-36.329464"/>
+<marker id="359456791" label="Рыжая лиса" category="78" did="1879077775" parentZoneId="1879064016" longitude="-73.03906" latitude="-36.329464"/>
+<marker id="359460864" label="Ворота Южного удела" category="43" did="1879063420" parentZoneId="1879064016" longitude="-72.82486" latitude="-34.955486"/>
+<marker id="359460865" label="Рыжая белка" category="78" did="1879077776" parentZoneId="1879064016" longitude="-72.51674" latitude="-34.908455"/>
+<marker id="359460866" label="Ширский белохвостый олень" category="78" did="1879077778" parentZoneId="1879064016" longitude="-72.51674" latitude="-34.908455"/>
+<marker id="359460867" label="Ширская белохвостая олениха" category="78" did="1879077774" parentZoneId="1879064016" longitude="-72.51674" latitude="-34.908455"/>
+<marker id="359460868" label="Рыжая лиса" category="78" did="1879077775" parentZoneId="1879064016" longitude="-72.51674" latitude="-34.908455"/>
+<marker id="359460869" label="Рыжая белка" category="78" did="1879077776" parentZoneId="1879064016" longitude="-72.628044" latitude="-35.171543"/>
+<marker id="359460870" label="Ширский белохвостый олень" category="78" did="1879077778" parentZoneId="1879064016" longitude="-72.628044" latitude="-35.171543"/>
+<marker id="359460871" label="Ширская белохвостая олениха" category="78" did="1879077774" parentZoneId="1879064016" longitude="-72.628044" latitude="-35.171543"/>
+<marker id="359460872" label="Рыжая лиса" category="78" did="1879077775" parentZoneId="1879064016" longitude="-72.628044" latitude="-35.171543"/>
+<marker id="359460873" label="Рыжая белка" category="78" did="1879077776" parentZoneId="1879064016" longitude="-72.979706" latitude="-35.474365"/>
+<marker id="359460874" label="Ширский белохвостый олень" category="78" did="1879077778" parentZoneId="1879064016" longitude="-72.979706" latitude="-35.474365"/>
+<marker id="359460875" label="Ширская белохвостая олениха" category="78" did="1879077774" parentZoneId="1879064016" longitude="-72.979706" latitude="-35.474365"/>
+<marker id="359460876" label="Рыжая лиса" category="78" did="1879077775" parentZoneId="1879064016" longitude="-72.979706" latitude="-35.474365"/>
+<marker id="359460877" label="Рыжая белка" category="78" did="1879077776" parentZoneId="1879064016" longitude="-73.064224" latitude="-35.266678"/>
+<marker id="359460878" label="Ширский белохвостый олень" category="78" did="1879077778" parentZoneId="1879064016" longitude="-73.064224" latitude="-35.266678"/>
+<marker id="359460879" label="Ширская белохвостая олениха" category="78" did="1879077774" parentZoneId="1879064016" longitude="-73.064224" latitude="-35.266678"/>
+<marker id="359460880" label="Рыжая лиса" category="78" did="1879077775" parentZoneId="1879064016" longitude="-73.064224" latitude="-35.266678"/>
+<marker id="359460881" label="Рыжая белка" category="78" did="1879077776" parentZoneId="1879064016" longitude="-73.00662" latitude="-34.85332"/>
+<marker id="359460882" label="Ширский белохвостый олень" category="78" did="1879077778" parentZoneId="1879064016" longitude="-73.00662" latitude="-34.85332"/>
+<marker id="359460883" label="Ширская белохвостая олениха" category="78" did="1879077774" parentZoneId="1879064016" longitude="-73.00662" latitude="-34.85332"/>
+<marker id="359460884" label="Рыжая лиса" category="78" did="1879077775" parentZoneId="1879064016" longitude="-73.00662" latitude="-34.85332"/>
+<marker id="359460885" label="Рыжая белка" category="78" did="1879077776" parentZoneId="1879064016" longitude="-73.09442" latitude="-35.062733"/>
+<marker id="359460886" label="Ширский белохвостый олень" category="78" did="1879077778" parentZoneId="1879064016" longitude="-73.09442" latitude="-35.062733"/>
+<marker id="359460887" label="Ширская белохвостая олениха" category="78" did="1879077774" parentZoneId="1879064016" longitude="-73.09442" latitude="-35.062733"/>
+<marker id="359460888" label="Рыжая лиса" category="78" did="1879077775" parentZoneId="1879064016" longitude="-73.09442" latitude="-35.062733"/>
+<marker id="359460889" label="Рыжая белка" category="78" did="1879077776" parentZoneId="1879064016" longitude="-72.45222" latitude="-35.07197"/>
+<marker id="359460890" label="Ширский белохвостый олень" category="78" did="1879077778" parentZoneId="1879064016" longitude="-72.45222" latitude="-35.07197"/>
+<marker id="359460891" label="Ширская белохвостая олениха" category="78" did="1879077774" parentZoneId="1879064016" longitude="-72.45222" latitude="-35.07197"/>
+<marker id="359460892" label="Рыжая лиса" category="78" did="1879077775" parentZoneId="1879064016" longitude="-72.45222" latitude="-35.07197"/>
 </markers>

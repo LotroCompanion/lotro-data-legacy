@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><enum id="587202647" name="TraitNature">
-<entry code="1" name="Characteristic"/>
-<entry code="2" name="Legendary"/>
-<entry code="3" name="Class"/>
-<entry code="4" name="Race"/>
-<entry code="5" name="Virtue"/>
+<entry code="1" name="Специальный талант"/>
+<entry code="2" name="Легендарный талант"/>
+<entry code="3" name="Классовый талант"/>
+<entry code="4" name="Расовый талант"/>
+<entry code="5" name="Добродетель"/>
 </enum>

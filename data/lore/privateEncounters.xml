@@ -1,412 +1,191 @@
 <?xml version="1.0" encoding="UTF-8"?><privateEncounters>
-<privateEncounter id="1879049230" name="Instance: Unravelling the Thread" contentLayerId="268435521" questId="1879049231" description="&lt;u&gt;Unravelling the Thread&lt;/u&gt;&#10;\qStrider and the Rangers pursue their fallen brother Amdir to the Blackwolds' camp, but not all is as it seems....\q">
+<privateEncounter id="1879049230" name="Инстанс: Путеводная нить" contentLayerId="268435521" questId="1879049231" description="&lt;u&gt;Путеводная нить&lt;/u&gt;&#10;\qБродяжник и его соратники преследуют Амдира, чья душа погублена навек. Следы ведут в лагерь чернопустынников, но не все так просто, как кажется на первый взгляд.\q">
 <instanceMap>
-<map mapId="268437653" region="1" minLon="-49.20000076293945" minLat="-34.79999923706055" maxLon="-47.599998474121094" maxLat="-33.20000076293945"/>
+<map mapId="268437653" region="1" minLon="-49.20000076293945" minLat="-34.0" maxLon="-48.39999771118164" maxLat="-33.20000076293945"/>
 <zone zoneId="1879063997"/>
 </instanceMap>
 </privateEncounter>
-<privateEncounter id="1879049246" name="Instance: Blackwold's Broken" contentLayerId="268435528" questId="1879049247" description="&lt;u&gt;Blackwolds Broken&lt;/u&gt;&#10;\qAmdir's defeat shattered the back of the Blackwolds, but pieces of the mystery remain unsolved....\q">
+<privateEncounter id="1879049246" name="Инстанс: Разгром чернопустынников" contentLayerId="268435528" questId="1879049247" description="&lt;u&gt;Разгром чернопустынников&lt;/u&gt;&#10;\qСмерть Амдира стала гибелью чернопустынников, но тайна до сих пор не разгадана.\q">
 <instanceMap>
 <map mapId="1879048548"/>
 <zone zoneId="1879048548"/>
 </instanceMap>
 </privateEncounter>
-<privateEncounter id="1879049555" name="Instance: Assault on Archet" contentLayerId="268435469" questId="1879048399" description="&lt;u&gt;Assault on Archet&lt;/u&gt;&#10;\qÉogan and the Blackwolds renew their efforts to secure Mundo Sackville-Baggins for the ominous Black Riders....\q">
-<instanceMap>
-<map mapId="1879048237"/>
-<zone zoneId="1879048237"/>
-</instanceMap>
-<instanceMap>
-<map mapId="268437719" region="1" minLon="-49.20000076293945" minLat="-26.0" maxLon="-48.39999771118164" maxLat="-24.399999618530273"/>
-<zone zoneId="1879064014"/>
-</instanceMap>
-</privateEncounter>
-<privateEncounter id="1879049884" name="Instance: Red-pass" contentLayerId="268435488" questId="1879049885" description="&lt;u&gt;Red-pass&lt;/u&gt;&#10;\qThe Gaunt-lord Ivar spreads corruption through Agamaur, the Red Swamp, raising a host of evil to do the bidding of Angmar....\q">
-<instanceMap>
-<map mapId="268437603" region="1" minLon="-27.599998474121094" minLat="-30.0" maxLon="-26.0" maxLat="-28.399999618530273"/>
-<zone zoneId="1879063952"/>
-</instanceMap>
-</privateEncounter>
-<privateEncounter id="1879049994" name="Instance: Retake Weathertop" contentLayerId="268435494" questId="1879049995" description="&lt;u&gt;Retake Weathertop&lt;/u&gt;&#10;\qWeathertop... once a watchtower of the Dúnedain, now a refuge for Orcs. Candaith the Ranger strives to break their foothold in the Weather Hills....\q">
-<instanceMap>
-<map mapId="268437603" region="1" minLon="-38.0" minLat="-32.39999771118164" maxLon="-35.599998474121094" maxLat="-30.0"/>
-<zone zoneId="1879063948"/>
-</instanceMap>
-</privateEncounter>
-<privateEncounter id="1879051657" name="Instance: Beneath the Greenfields" contentLayerId="268435478" questId="1879051649" description="&lt;u&gt;Beneath the Greenfields&lt;/u&gt;&#10;\qThe goblins of Mount Gram have never forgotten their defeat at the hands of the Shire-folk, and revenge has brought them hither once more....\q">
+<privateEncounter id="1879049555" name="Инстанс: Нападение на Арчет" contentLayerId="268435469" questId="1879048399" description="&lt;u&gt;Нападение на Арчет&lt;/u&gt;&#10;\qЭоган с чернопустынниками ворвались в город, чтобы схватить Мундо Лякошель-Торбинса и выдать его зловещим Черным всадникам.\q"/>
+<privateEncounter id="1879049884" name="Инстанс: Багровая тропа" contentLayerId="268435488" questId="1879049885" description="&lt;u&gt;Багровая тропа&lt;/u&gt;&#10;\qИвар, предводитель умрунов, сеет порчу среди алых болот Агамаура. По воле Ангмара он собирает там воинство неупокоенного зла.\q"/>
+<privateEncounter id="1879049994" name="Инстанс: Захват Заверти" contentLayerId="268435494" questId="1879049995" description="&lt;u&gt;Захват Заверти&lt;/u&gt;&#10;\qЗаверть... Некогда сторожевая башня дунаданов, ныне это убежище орков. Следопыт Кандайт хочет разрушить их оплот в Буреломном угорье.\q"/>
+<privateEncounter id="1879051657" name="Инстанс: Под Зелеными полями" contentLayerId="268435478" questId="1879051649" description="&lt;u&gt;Под Зелеными полями&lt;/u&gt;&#10;\qГоблины из горы Грэм не забыли своего поражения от рук обитателей Шира, и вот жажда мести вновь привела их сюда.\q">
 <instanceMap>
 <map mapId="1879048577"/>
 <zone zoneId="1879048577"/>
 </instanceMap>
 </privateEncounter>
-<privateEncounter id="1879051764" name="Instance: A Gift for the North" contentLayerId="268435529" questId="1879051765" description="&lt;u&gt;A Gift for the North&lt;/u&gt;&#10;\qThe Stone-troll of Rushock Bog... a terrible legend stalks the fens, enraged by the dwarves who seek to capture it....\q">
+<privateEncounter id="1879051764" name="Инстанс: Подарок северной родне" contentLayerId="268435529" questId="1879051765" description="&lt;u&gt;Подарок северной родне&lt;/u&gt;&#10;\qКаменный тролль живет в Камышовой топи... Страшный противник разъярен из-за гномов, которые думают изловить его.\q">
 <instanceMap>
-<map mapId="268437678" region="1" minLon="-74.0" minLat="-28.399999618530273" maxLon="-73.19999694824219" maxLat="-26.799999237060547"/>
+<map mapId="268437678" region="1" minLon="-74.0" minLat="-27.599998474121094" maxLon="-73.19999694824219" maxLat="-26.799999237060547"/>
 <zone zoneId="1879064021"/>
 </instanceMap>
 </privateEncounter>
-<privateEncounter id="1879051812" name="Instance: Skorgrím's Tomb" contentLayerId="268435480" questId="1879048403" description="&lt;u&gt;Skorgrím's Tomb&lt;/u&gt;&#10;\qLord Dwalin's investigation has uncovered the treachery of the Dourhands. While Durin's Folk prepare to drive the Dourhands from Thorin's Hall, Dwalin gathers his forces to stop a darker threat....\q">
+<privateEncounter id="1879051812" name="Инстанс: Гробница Скоргрима" contentLayerId="268435480" questId="1879048403" description="&lt;u&gt;Гробница Скоргрима&lt;/u&gt;&#10;\qБлагодаря владыке Двалину гномы узнали о предательстве крепкохватов. И пока народ Дарина готовится прогнать лжецов из Чертогов Торина, Двалин собирает силы, чтобы дать отпор еще большему злу.\q">
 <instanceMap>
 <map mapId="1879048412"/>
 <zone zoneId="1879048412"/>
 </instanceMap>
 </privateEncounter>
-<privateEncounter id="1879052043" name="Instance: A Burglar's Errand" contentLayerId="268435543" questId="1879052044" maxPlayers="1" description="&lt;u&gt;A Burglar's Errand&lt;/u&gt;&#10;\qMedhrod, a legendary sword once wielded by a great hero who helped keep the Great East Road clear of threats, has been stolen by the half-orcs of Naerost, leading Palma Brownlock, a hobbit-burglar of no small reputation, to gather allies to recover it....\q">
-<instanceMap>
-<map mapId="268437603" region="1" minLon="-34.79999923706055" minLat="-31.599998474121094" maxLon="-33.20000076293945" maxLat="-30.0"/>
-<zone zoneId="1879063949"/>
-</instanceMap>
-</privateEncounter>
-<privateEncounter id="1879052053" name="Instance: A Thief in the Night" contentLayerId="268435539" questId="1879052054" maxPlayers="1" description="&lt;u&gt;A Thief in the Night&lt;/u&gt;&#10;\qThe hobbit-burglar Atherol Took has learned that some of the Big Folk who have been causing trouble in the Southfarthing of the Shire are planning to sneak onto Farmer Maggot's land and steal his mushrooms. Atherol has no intention of allowing hobbit-mushrooms to be stolen by Men....\q">
-<instanceMap>
-<map mapId="268437678" region="1" minLon="-65.19999694824219" minLat="-34.79999923706055" maxLon="-63.599998474121094" maxLat="-34.0"/>
-<zone zoneId="1879064025"/>
-</instanceMap>
-</privateEncounter>
-<privateEncounter id="1879052341" name="Instance: A Lore-master's Will" contentLayerId="268435545" questId="1879048478" maxPlayers="1" description="&lt;u&gt;A Lore-master's Will&lt;/u&gt;&#10;\qThe Elf-loremaster Isferon received a gift from his friend Berenon before he passed over the Sea, but the gift is wrapped in a riddle. Before the gift can be revealed Berenon's puzzle must be solved....\q">
+<privateEncounter id="1879052043" name="Инстанс: Поручение для взломщика" contentLayerId="268435543" questId="1879052044" maxPlayers="1" description="&lt;u&gt;Поручение для взломщика&lt;/u&gt;&#10;\qПолуорки, захватившие руины Наэроста, украли Медрод, легендарный меч великого героя, защищавшего Великий восточный тракт. Палма Кудри, известная взломщица, ищет сомышленников, которые помогут ей вернуть клинок.\q"/>
+<privateEncounter id="1879052053" name="Инстанс: Ночной вор" contentLayerId="268435539" questId="1879052054" maxPlayers="1" description="&lt;u&gt;Ночной вор&lt;/u&gt;&#10;\qХоббит-взломщик Атерол Тук узнал, что Громадины, творящие безобразия в Южном уделе, задумали прокрасться на ферму Бирюка и похитить его грибы. Атерола ужасает мысль о том, что хоббичьи грибы украдут люди.\q"/>
+<privateEncounter id="1879052341" name="Инстанс: Завещание хранителя мудрости" contentLayerId="268435545" questId="1879048478" maxPlayers="1" description="&lt;u&gt;Завещание хранителя мудрости&lt;/u&gt;&#10;\qУходя за Море, эльф Беренон оставил памятный дар своему другу, хранителю мудрости Исферону. Но Исферон увидит это дар лишь в том случае, если решит три загадки.\q">
 <instanceMap>
 <map mapId="1879048476"/>
 <zone zoneId="1879048476"/>
 </instanceMap>
 </privateEncounter>
-<privateEncounter id="1879052356" name="Instance: A Well-Ordered Mind" contentLayerId="268435542" questId="1879048686" maxPlayers="1" description="&lt;u&gt;A Well-Ordered Mind&lt;/u&gt;&#10;\qDorset Oakes, the son of a lore-master now dead, seeks the knowledge contained in his father's old library and is prepared to hunt for the pages to the catalogue his father had written; however, goblins have been diggin in the caves near the library and may soon break through....\q">
+<privateEncounter id="1879052356" name="Инстанс: Знания в алфавитном порядке" contentLayerId="268435542" questId="1879048686" maxPlayers="1" description="&lt;u&gt;Знания в алфавитном порядке&lt;/u&gt;&#10;\qДорсет Оукс, сын знаменитого хранителя мудрости, хочет найти определенную книгу в отцовской библиотеке. Для этого ему нужно разыскать старницы, пропавшие из каталога. Кроме того, в пещерах, прилегающих к библиотеке, объявились гоблины. Они грозят проломить стену и ворваться туда.\q">
 <instanceMap>
 <map mapId="1879048684"/>
 <zone zoneId="1879048684"/>
 </instanceMap>
 </privateEncounter>
-<privateEncounter id="1879052447" name="Instance: A Hunter's Charge" contentLayerId="268435547" questId="1879052448" maxPlayers="1" description="&lt;u&gt;A Hunter's Charge&lt;/u&gt;&#10;\qAfter receiving word of a pack of Wargs making their way into the Shire, land of the hobbits, the huntress Gytha Lainey has recruited the best hunters to track and slay the evil Wargs before they can harm any of the Shire-folk....\q">
-<instanceMap>
-<map mapId="268437678" region="1" minLon="-70.79999542236328" minLat="-28.399999618530273" maxLon="-70.0" maxLat="-26.799999237060547"/>
-<zone zoneId="1879064022"/>
-</instanceMap>
-</privateEncounter>
-<privateEncounter id="1879052457" name="Instance: The Hunter's Path" contentLayerId="268435541" questId="1879052458" maxPlayers="1" description="&lt;u&gt;The Hunter's Path&lt;/u&gt;&#10;\qAn terrible and vicious wolf called Yellowfang stalks through the Old Forest, often ambushing travellers upon the Great East Road. The accomplished huntress Gytha Lainey is resolved to ridding the Forest of this savage threat....\q">
-<instanceMap>
-<map mapId="268437653" region="1" minLon="-58.0" minLat="-32.39999771118164" maxLon="-56.39999771118164" maxLat="-30.799999237060547"/>
-<zone zoneId="1879063996"/>
-</instanceMap>
-</privateEncounter>
-<privateEncounter id="1879052537" name="Instance: The Unmarked Trail" contentLayerId="268435536" questId="1879052538" description="&lt;u&gt;The Unmarked Trail&lt;/u&gt;&#10;\qAn ancient evil, a corruption of the very nature of Middle-earth, threatens to spread its vile poison throughout the Trollshaws. This evil must be thwarted before it can be brought to bear against the hidden vale of Rivendell.\q">
-<instanceMap>
-<map mapId="268437592" region="1" minLon="-17.19999885559082" minLat="-26.799999237060547" maxLon="-14.799999237060547" maxLat="-24.399999618530273"/>
-<zone zoneId="1879063934"/>
-</instanceMap>
-</privateEncounter>
-<privateEncounter id="1879052622" name="Instance: The Last Refuge" contentLayerId="268435535" questId="1879052623" description="&lt;u&gt;The Last Refuge&lt;/u&gt;&#10;\qSkorgrím's Dourhands have taken refuge from the wrath of Durin's Folk within an ancient dwarf-hold high in the passes of the Misty Mountains. There, they plot their return, unless an end can be put to their scheming once and for all....\q">
-<instanceMap>
-<map mapId="268437691" region="1" minLon="-0.3999999761581421" minLat="-28.399999618530273" maxLon="1.1999999284744263" maxLat="-26.799999237060547"/>
-<zone zoneId="1879063944"/>
-</instanceMap>
-</privateEncounter>
-<privateEncounter id="1879052713" name="Instance: The Gates of Carn Dûm" contentLayerId="268435552" questId="1879052714" description="&lt;u&gt;The Gates of Carn Dûm&lt;/u&gt;&#10;\qUsing the scroll of the Hillmen, a key to the gates of Carn Dûm has been forged. Now the Heroes of Eriador and Lorniel, daughter of Golodir, must pass the gates of the iron fortress and free the Ranger from the clutches of Mordirith, the Steward of Angmar....\q">
-<instanceMap>
-<map mapId="268437615" region="1" minLon="-30.0" minLat="10.800000190734863" maxLon="-28.399999618530273" maxLat="12.399999618530273"/>
-<zone zoneId="1879063971"/>
-</instanceMap>
-</privateEncounter>
-<privateEncounter id="1879052956" name="Instance: A Minstrel's Hope" contentLayerId="268435546" questId="1879048481" maxPlayers="1" description="&lt;u&gt;A Minstrel's Hope&lt;/u&gt;&#10;\qSeveral citizens of the besieged town of Trestlebridge have taken refuge in nearby caves, hoping to wait out the siege, but the Orcs have become aware of the townsfolk's hiding place. It is up to the minstrel Leigh Putnam and her friends to warn them....\q">
+<privateEncounter id="1879052447" name="Инстанс: Долг охотника" contentLayerId="268435547" questId="1879052448" maxPlayers="1" description="&lt;u&gt;Долг охотника&lt;/u&gt;&#10;\qУзнав о том, что к Ширу движется стая лютых варгов, Гита Лейни попросила лучших из охотников отправиться с ней по следам зверей и убить их, пока они не причинили вреда мирным жителям Шира.\q"/>
+<privateEncounter id="1879052457" name="Инстанс: Путь охотника" contentLayerId="268435541" questId="1879052458" maxPlayers="1" description="&lt;u&gt;Путь охотника&lt;/u&gt;&#10;\qКоварная и хитрая волчица, которую прозвали Желтоклыкой, живет в Вековечном лесу и охотится на путников, идущих по Великому восточному тракту. Гита Лейни намерена избавить земли Бри от этой угрозы.\q"/>
+<privateEncounter id="1879052537" name="Инстанс: Неприметный след" contentLayerId="268435536" questId="1879052538" description="&lt;u&gt;Неприметный след&lt;/u&gt;&#10;\qДревнее зло, восставшее против самой природы Средиземья, угрожает Троллистой пуще. Необходимо искоренить это зло прежде, чем оно найдет дорогу в тайную долину - Ривенделл.\q"/>
+<privateEncounter id="1879052622" name="Инстанс: Последний оплот" contentLayerId="268435535" questId="1879052623" description="&lt;u&gt;Последний оплот&lt;/u&gt;&#10;\qКрепкохваты Скоргрима укрылись от гнева народа Дарина в древнем гномьем городе среди Мглистых гор. Там они плетут новый заговор в надежде вернуться. Нужно покончить с ними раз и навсегда.\q"/>
+<privateEncounter id="1879052713" name="Инстанс: Врата Карн Дума" contentLayerId="268435552" questId="1879052714" description="&lt;u&gt;Врата Карн Дума&lt;/u&gt;&#10;\qГерои Эриадора отыскали ангмарский свиток и выковали ключ к вратам Карн Дума. Теперь им предстоит войти в железную крепость и вызволить Голодира из плена Мордирита, наместника Ангмара.\q"/>
+<privateEncounter id="1879052956" name="Инстанс: Надежда менестреля" contentLayerId="268435546" questId="1879048481" maxPlayers="1" description="&lt;u&gt;Надежда менестреля&lt;/u&gt;&#10;\qНесколько жителей осажденного города Примостье укрылись в пещерах, надеясь переждать там осаду. Увы, об их убежище прознали орки. Менестрелю Лее Патнем и ее друзьям нужно предупредить несчастных, пока еще не поздно.\q">
 <instanceMap>
 <map mapId="1879048479"/>
 <zone zoneId="1879048479"/>
 </instanceMap>
 </privateEncounter>
-<privateEncounter id="1879052962" name="Instance: A Song for the Company" contentLayerId="268435540" questId="1879052963" maxPlayers="1" description="&lt;u&gt;A Song for the Company&lt;/u&gt;&#10;\qHoping for some new material with which to compose a song, the minstrel Piper Prescott has recruited young blood to aid the hobbit Leland Underhill retrieve some goods stolen from him by the brigands encamped throughout Bree-land....\q">
+<privateEncounter id="1879052962" name="Инстанс: Застольная песня" contentLayerId="268435540" questId="1879052963" maxPlayers="1" description="&lt;u&gt;Застольная песня&lt;/u&gt;&#10;\qВ поисках свежего материала для сочинительства Пайпер Прескотт попросил начинающего менестреля помочь хоббиту Лиланду Накручинсу вернуть ценную вещь, украденную разбойниками из земель Бри.\q">
 <instanceMap>
 <map mapId="1879048486"/>
 <zone zoneId="1879048486"/>
 </instanceMap>
 </privateEncounter>
-<privateEncounter id="1879053111" name="Instance: A Captain's Standard" contentLayerId="268435544" questId="1879053112" maxPlayers="1" description="&lt;u&gt;A Captain's Standard&lt;/u&gt;&#10;\qDwarves of the Dourhand house have taken refuge in the ruins of Ost Galumar, not far from the mines of Othrikar, stirring the Longbeards of Othrikar to action. Jarl Copperbrace recruits the bravest of the brave to deal with the threat of the Dourhands....\q">
+<privateEncounter id="1879053111" name="Инстанс: Рыцарское знамя" contentLayerId="268435544" questId="1879053112" maxPlayers="1" description="&lt;u&gt;Рыцарское знамя&lt;/u&gt;&#10;\qГномы из клана крепкохватов поселились в руинах Ост Галумара близ Отрикара, что немало возмутило длиннобородов. Йарл Медноскоб ищет храбрейшего из рыцарей, способного поднять знамена свободных народов над руинами.\q"/>
+<privateEncounter id="1879054343" name="Инстанс: Оборона Примостья" contentLayerId="268435468" questId="1879054344" description="&lt;u&gt;Оборона Примостья&lt;/u&gt;&#10;\qКрохотный городок Примостье преграждает ангмарским оркам путь на юг, в земли Бри. Следопыт Хальбарад созвал героев для защиты Примостья от орочьей осады.\q">
 <instanceMap>
-<map mapId="268437634" region="1" minLon="-47.599998474121094" minLat="-8.399999618530273" maxLon="-46.0" maxLat="-6.799999713897705"/>
-<zone zoneId="1879063978"/>
-<zone zoneId="1879063977"/>
-</instanceMap>
-</privateEncounter>
-<privateEncounter id="1879054343" name="Instance: The Defence of Trestlebridge" contentLayerId="268435468" questId="1879054344" description="&lt;u&gt;The Defence of Trestlebridge&lt;/u&gt;&#10;\qThe little town of Trestlebridge is all that stands between the Orcs of Angmar and Bree-land to the south. Halbarad, Ranger of the North, gathers heroes to help defend Trestlebridge from the approaching onslaught....\q">
-<instanceMap>
-<map mapId="268437634" region="1" minLon="-54.0" minLat="-18.0" maxLon="-53.19999694824219" maxLat="-16.399999618530273"/>
+<map mapId="268437634" region="1" minLon="-54.0" minLat="-17.19999885559082" maxLon="-53.19999694824219" maxLat="-16.399999618530273"/>
 <zone zoneId="1879063972"/>
 </instanceMap>
 </privateEncounter>
-<privateEncounter id="1879059930" name="Instance: A Champion's Courage" contentLayerId="268435549" questId="1879059931" maxPlayers="1" description="&lt;u&gt;A Champion's Courage&lt;/u&gt;&#10;\qMosal-ruk, leader of the Orcs of Ost Cyrn, gathers his strength to crush the Eglain of the Lone-lands and press eastward to Bree-land. Slade Ransford, a champion of the common good, stands ready with his allies to turn back the Orkish war-band....\q">
-<instanceMap>
-<map mapId="268437603" region="1" minLon="-30.799999237060547" minLat="-34.0" maxLon="-30.0" maxLat="-32.39999771118164"/>
-<zone zoneId="1879063949"/>
-</instanceMap>
-</privateEncounter>
-<privateEncounter id="1879060101" name="Instance: A Guardian's Duty" contentLayerId="268435548" questId="1879060102" maxPlayers="1" description="&lt;u&gt;A Guardian's Duty&lt;/u&gt;&#10;\qThe town of Trestlebridge is under siege by by Orcs out of Angmar. One of the guardians of Trestlebridge, Severin Wheeler, has assembled the townsfolk and their southern allies to defend the town against the marauding hordes....\q">
-<instanceMap>
-<map mapId="268437634" region="1" minLon="-54.0" minLat="-16.399999618530273" maxLon="-52.39999771118164" maxLat="-14.799999237060547"/>
-<zone zoneId="1879063973"/>
-</instanceMap>
-</privateEncounter>
-<privateEncounter id="1879061103" name="Instance: Assault on Rath Teraig" contentLayerId="268435533" questId="1879061104" description="&lt;u&gt;Assault on Rath Teraig&lt;/u&gt;&#10;\qThe combined forces of Lord Dwalin of Thorin's Hall and Dorongúr Whitethorn of Duillond prepare to march upon the goblin-army at Rath Teraig....\q">
-<instanceMap>
-<map mapId="268437576" region="1" minLon="-98.79999542236328" minLat="-25.19999885559082" maxLon="-97.19999694824219" maxLat="-23.600000381469727"/>
-<zone zoneId="1879063926"/>
-</instanceMap>
-</privateEncounter>
-<privateEncounter id="1879061120" name="Instance: Rescue by Moonlight" contentLayerId="268435532" questId="1879061121" description="&lt;u&gt;Rescue by Moonlight&lt;/u&gt;&#10;\qAvorthal had been moved from the Dourhand encampment to a ship preparing to depart for an unknown port in the North. His rescue is paramount to maintaining peace in Ered Luin....\q">
-<instanceMap>
-<map mapId="268437576" region="1" minLon="-92.4000015258789" minLat="-22.0" maxLon="-90.79999542236328" maxLat="-20.399999618530273"/>
-<zone zoneId="1879063931"/>
-</instanceMap>
-</privateEncounter>
-<privateEncounter id="1879061123" name="Instance: To Avert a War" contentLayerId="268435502" questId="1879061124" description="&lt;u&gt;To Avert a War&lt;/u&gt;&#10;\qThe Ranger Langlas prepares to mount an effort to rescue the Elf-prince Avorthal from the clutches of the treacherous Dourhands....\q">
-<instanceMap>
-<map mapId="268437576" region="1" minLon="-95.5999984741211" minLat="-18.799999237060547" maxLon="-94.0" maxLat="-17.19999885559082"/>
-<zone zoneId="1879063923"/>
-</instanceMap>
-</privateEncounter>
-<privateEncounter id="1879061565" name="Instance: Othrongroth" contentLayerId="268435527" questId="1879048516" description="&lt;u&gt;Othrongroth&lt;/u&gt;&#10;\qAn unholy alliance is forged within the depths of Othrongroth, the Great Barrow, a sinister pact which could spell doom for Eriador....\q">
+<privateEncounter id="1879059930" name="Инстанс: Доблесть воителя" contentLayerId="268435549" questId="1879059931" maxPlayers="1" description="&lt;u&gt;Доблесть воителя&lt;/u&gt;&#10;\qМосал-Рук, вожак орков, занявших Ост Кирн, готовится сокрушить эгланов и повести свое войско в земли Бри. Отважный воитель Слейд Рэнсфорд собирает героев, готовых сразиться с орками.\q"/>
+<privateEncounter id="1879060101" name="Инстанс: Долг стража" contentLayerId="268435548" questId="1879060102" maxPlayers="1" description="&lt;u&gt;Долг стража&lt;/u&gt;&#10;\qГородок Примостье осадили орки, пришедшие из Ангмара. Один из защитников города, Северин Уилер, собрал ополчение и призывает других стражей с юга помочь ему отстоять Примостье.\q"/>
+<privateEncounter id="1879061103" name="Инстанс: Нападение на Рат Тераг" contentLayerId="268435533" questId="1879061104" description="&lt;u&gt;Нападение на Рат Тераг&lt;/u&gt;&#10;\qВладыка Двалин из Чертогов Торина и Доронгур Белошип из Дуиллонда объединили войска, чтобы вместе выступить против гоблинов Рат Терага.\q"/>
+<privateEncounter id="1879061120" name="Инстанс: Спасение при лунном свете" contentLayerId="268435532" questId="1879061121" description="&lt;u&gt;Спасение при лунном свете&lt;/u&gt;&#10;\qИз лагеря крепкохватов Авортала переправили на судно, которое отвезет его в неизвестный северный порт. От судьбы Авортала зависит мир в Эред Луине.\q"/>
+<privateEncounter id="1879061123" name="Инстанс: Предотвратить войну" contentLayerId="268435502" questId="1879061124" description="&lt;u&gt;Предотвратить войну&lt;/u&gt;&#10;\qСледопыт Ланглас собрал отряд, чтобы спасти эльфа Авортала из плена предателей-крепкохватов.\q"/>
+<privateEncounter id="1879061565" name="Инстанс: Отронгрот" contentLayerId="268435527" questId="1879048516" description="&lt;u&gt;Отронгрот&lt;/u&gt;&#10;\qВ глубинах Отронгрота, Великого Могильника, зреет страшный заговор. Там куется зловещий союз. Он грозит Эриадору гибелью.\q">
 <instanceMap>
 <map mapId="1879048512"/>
 <zone zoneId="1879048512"/>
 </instanceMap>
-<instanceMap>
-<map mapId="268437653" region="1" minLon="-56.39999771118164" minLat="-34.0" maxLon="-54.79999923706055" maxLat="-33.20000076293945"/>
-<zone zoneId="1879063999"/>
-</instanceMap>
 </privateEncounter>
-<privateEncounter id="1879062509" name="Instance: Frodo's Burden" contentLayerId="268435537" questId="1879062510" maxPlayers="1" description="&lt;u&gt;Frodo's Burden&lt;/u&gt;&#10;\qI am concerned for Frodo, for he bears a great burden. It is my hope that those whom I have sent to watch over the hobbit will determine if his mind remains strong enough for the task for which he has been chosen....\q">
-<instanceMap>
-<map mapId="268437713" region="1" minLon="-3.5999999046325684" minLat="-30.0" maxLon="-2.799999952316284" maxLat="-29.19999885559082"/>
-<zone zoneId="1879063939"/>
-</instanceMap>
-</privateEncounter>
-<privateEncounter id="1879063051" name="Instance: To a Ranger's Aid" contentLayerId="268435519" questId="1879049837" description="&lt;u&gt;To a Ranger's Aid&lt;/u&gt;&#10;\qAmdir, quickly falling into the shadows of the wraith-world, has slain two of his brethren already and seeks the blood of a third....\q">
-<instanceMap>
-<map mapId="1879048457"/>
-<zone zoneId="1879048457"/>
-</instanceMap>
-</privateEncounter>
-<privateEncounter id="1879064582" name="Instance: Carn Dûm" contentLayerId="268435538" description="&lt;u&gt;Carn Dûm&lt;/u&gt;&#10;\qCarn Dûm, the capital of Angmar and the former stronghold of the Witch-king. Angmar's shadow has returned to this city in the form of the False King, Mordirith, Steward of Angmar.\q">
-<instanceMap>
-<map mapId="1879048289"/>
-<zone zoneId="1879048289"/>
-</instanceMap>
-<instanceMap>
-<map mapId="1879051227"/>
-<zone zoneId="1879051227"/>
-</instanceMap>
-<instanceMap>
-<map mapId="1879076058"/>
-<zone zoneId="1879076058"/>
-</instanceMap>
-<instanceMap>
-<map mapId="268437615" region="1" minLon="-34.79999923706055" minLat="11.59999942779541" maxLon="-32.39999771118164" maxLat="14.0"/>
-<zone zoneId="1879063961"/>
-</instanceMap>
-</privateEncounter>
-<privateEncounter id="1879073446" name="Instance: A Road Through the Dark" contentLayerId="268435510" questId="1879048500" maxPlayers="1" description="&lt;u&gt;A Road Through the Dark&lt;/u&gt;&#10;\qA distressing letter speaks of troubles beyond the Shire, leading a hobbit to take the long road to Archet, fraught with danger....\q">
+<privateEncounter id="1879062509" name="Инстанс: Ноша Фродо" contentLayerId="268435537" questId="1879062510" maxPlayers="1" description="&lt;u&gt;Ноша Фродо&lt;/u&gt;&#10;\qЯ беспокоюсь о Фродо, ведь на его плечах тяжкое бремя. Я надеюсь, что те, кого я просил побеседовать с хоббитом, поймут, достаточно ли сильна его воля для той ноши, что ему уготована.\q"/>
+<privateEncounter id="1879063051" name="Инстанс: На помощь следопыту" contentLayerId="268435519" questId="1879049837" description="&lt;u&gt;На помощь следопытам&lt;/u&gt;&#10;\qПорча моргульского клинка уже погубила душу Амдира. Он убил двоих следопытов и жаждет крови третьего.\q"/>
+<privateEncounter id="1879064582" name="Инстанс: Карн Дум" contentLayerId="268435538" description="&lt;u&gt;Карн Дум&lt;/u&gt;&#10;\qКарн Дум, цитадель Ангмара, древняя крепость Короля-Призрака. Вражья тень вновь накрыла город, на этот раз приняв облик Лже-Короля Мордирита, наместника Ангмара.\q"/>
+<privateEncounter id="1879073446" name="Инстанс: Дорога во тьме" contentLayerId="268435510" questId="1879048500" maxPlayers="1" description="&lt;u&gt;Дорога во тьме&lt;/u&gt;&#10;\qПисьмо принесло весть о бедах за пределами Шира, и вот уже хоббит отправляется в далекий Арчет по дороге, полной опасностей.\q">
 <instanceMap>
 <map mapId="1879048497"/>
 <zone zoneId="1879048497"/>
 </instanceMap>
-<instanceMap>
-<map mapId="268437678" region="1" minLon="-69.19999694824219" minLat="-34.0" maxLon="-67.5999984741211" maxLat="-33.20000076293945"/>
-<zone zoneId="1879064020"/>
-</instanceMap>
 </privateEncounter>
-<privateEncounter id="1879073497" name="Instance: Jailbreak" contentLayerId="268435500" questId="1879048392" maxPlayers="1" description="&lt;u&gt;Jailbreak&lt;/u&gt;&#10;\qA chance encounter with brigands upon the road leads to captivity, but rescue may not be far away....\q"/>
-<privateEncounter id="1879073540" name="Instance: The Refuge of Edhelion" contentLayerId="268435485" questId="1879052383" maxPlayers="1" description="&lt;u&gt;The Refuge of Edhelion&lt;/u&gt;&#10;\qThe refuge of Edhelion has come under attack by dwarves and goblins led by the cruel Skorgrím Dourhand....\q">
-<instanceMap>
-<map mapId="268437576" region="1" minLon="-101.19999694824219" minLat="-14.799999237060547" maxLon="-99.5999984741211" maxLat="-13.199999809265137"/>
-<zone zoneId="1879063927"/>
-</instanceMap>
-</privateEncounter>
-<privateEncounter id="1879073579" name="Instance: Into the Silver Deep" contentLayerId="268435486" questId="1879048406" maxPlayers="1" description="&lt;u&gt;Into the Silver Deep&lt;/u&gt;&#10;\qThorin Oakenshield prepares to depart for the Lonely Mountain, and an assembly is called to bid his Company good fortune....\q">
+<privateEncounter id="1879073497" name="Инстанс: Побег из тюрьмы" contentLayerId="268435500" questId="1879048392" maxPlayers="1" description="&lt;u&gt;Побег из тюрьмы&lt;/u&gt;&#10;\qВстреча с разбойниками окончилась для вас пленом, но спасение уже близко.\q"/>
+<privateEncounter id="1879073540" name="Инстанс: Обитель Эделион" contentLayerId="268435485" questId="1879052383" maxPlayers="1" description="&lt;u&gt;Обитель Эделион&lt;/u&gt;&#10;\qЭльфийскую обитель Эделион осаждают гномы и гоблины. Их предводитель - жестокий Скоргрим Крепкохват.\q"/>
+<privateEncounter id="1879073579" name="Инстанс: В Серебряную Бездну" contentLayerId="268435486" questId="1879048406" maxPlayers="1" description="&lt;u&gt;В Серебряную Бездну&lt;/u&gt;&#10;\qТорин Дубощит и его соратники отправляются к Одинокой Горе. Все Чертоги провожают их в дорогу и желают счастливого пути.\q">
 <instanceMap>
 <map mapId="1879048404"/>
 <zone zoneId="1879048404"/>
 </instanceMap>
-<instanceMap>
-<map mapId="268437722" region="1" minLon="-102.0" minLat="-14.799999237060547" maxLon="-101.19999694824219" maxLat="-14.0"/>
-<zone zoneId="1879063932"/>
-</instanceMap>
 </privateEncounter>
-<privateEncounter id="1879076000" name="Public Instance: Newbie Archet" contentLayerId="268435461" description="Public Instance: Newbie Archet"/>
-<privateEncounter id="1879076001" name="Public Instance: Newbie Thorin's Halls" contentLayerId="268435481" description="Public Instance: Newbie Thorin's Halls"/>
-<privateEncounter id="1879076779" name="Thorin's Halls" contentLayerId="268435480" questId="1879076782" description="Thorin's Halls">
+<privateEncounter id="1879076000" name="Открытый инстанс: Новичок в Арчете" contentLayerId="268435461" description="Открытый инстанс: Новичок в Арчете"/>
+<privateEncounter id="1879076001" name="Открытый инстанс: Новичок в Чертогах Торина" contentLayerId="268435481" description="Открытый инстанс: Новичок в Чертогах Торина"/>
+<privateEncounter id="1879076779" name="Чертоги Торина" contentLayerId="268435480" questId="1879076782" description="Чертоги Торина">
 <instanceMap>
 <map mapId="1879048412"/>
 <zone zoneId="1879048412"/>
 </instanceMap>
 </privateEncounter>
-<privateEncounter id="1879076780" name="Instance: The Hideout" contentLayerId="268435515" questId="1879048555" description="&lt;u&gt;A Burglar's Errand&lt;/u&gt;&#10;\qMedhrod, a legendary sword once wielded by a great hero who helped keep the Great East Road clear of threats, has been stolen by the half-orcs of Naerost, leading Palma Brownlock, a hobbit-burglar of no small reputation, to gather allies to recover it....\q">
+<privateEncounter id="1879076780" name="Инстанс: Логово" contentLayerId="268435515" questId="1879048555" description="&lt;u&gt;Поручение для взломщика&lt;/u&gt;&#10;\qПолуорки, захватившие руины Наэроста, украли Медрод, легендарный меч великого героя, защищавшего Великий восточный тракт. Палма Кудри, известная взломщица, ищет сомышленников, которые помогут ей вернуть клинок.\q">
 <instanceMap>
 <map mapId="1879048548"/>
 <zone zoneId="1879048548"/>
 </instanceMap>
 </privateEncounter>
-<privateEncounter id="1879077397" name="Private Instance: Slay the Steward" contentLayerId="268435525" description="Monster-play Instance: Slay the Steward"/>
-<privateEncounter id="1879078558" name="Instance: The Great Barrow" contentLayerId="268435534" description="&lt;u&gt;Othrongroth&lt;/u&gt;&#10;\qOthrongroth, the Great Barrow, the oldest and largest of the Edain mounds within the Barrow-downs... And home to some of the most terrifying servants of the Witch-king.\q">
+<privateEncounter id="1879077397" name="Инстанс: Убийство Наместника" contentLayerId="268435525" description="Игра за монстров (инстанс): Убийство Наместника"/>
+<privateEncounter id="1879078558" name="Инстанс: Великий Могильник" contentLayerId="268435534" description="&lt;u&gt;Отронгрот&lt;/u&gt;&#10;\qОтронгрот, Великий Могильник, древнейший из аданских курганов... Здесь нашли пристанище самые злобные слуги Короля-Призрака.\q">
 <instanceMap>
 <map mapId="1879048512"/>
 <zone zoneId="1879048512"/>
 </instanceMap>
 </privateEncounter>
-<privateEncounter id="1879078810" name="Instance: Broken Alliance" contentLayerId="268435526" questId="1879050079" description="&lt;u&gt;Broken Alliance&lt;/u&gt;&#10;\qAfter learning of a plot by Sharkey's Men to forge an alliance with the Orcs encroaching into the northern Bree-fields, the Ranger Saeradan sets into motion a plan to break the alliance before it can be established....\q">
+<privateEncounter id="1879078810" name="Инстанс: Несостоявшийся союз" contentLayerId="268435526" questId="1879050079" description="&lt;u&gt;Несостоявшийся союз&lt;/u&gt;&#10;\qУзнав о том, что люди Шарку намереваются заключить союз с орками, пришедшими с севера в поля Бри, следопыт Саэрадан решает помешать коварным замыслам врага.\q">
 <instanceMap>
 <map mapId="1879048229"/>
 <zone zoneId="1879048229"/>
 </instanceMap>
 </privateEncounter>
-<privateEncounter id="1879080018" name="Instance: Garth Agarwen" contentLayerId="268435491" description="&lt;u&gt;Garth Agarwen&lt;/u&gt;&#10;\qGarth Agarwen . . . The ruins of an ancient fortress of Rhudaur, now overrun by corrupted nature and a vile necromantic power out of Angmar. The most terrible power still remains to be confronted.\q">
+<privateEncounter id="1879080018" name="Инстанс: Гарт Агарвен" contentLayerId="268435491" description="&lt;u&gt;Гарт Агарвен&lt;/u&gt;&#10;\qГарт Агарвен... Руины древней рудаурской крепости, где царит злая воля ангмарских некромантов. Битва с самым ужасным из этих врагов еще впереди.\q">
 <instanceMap>
-<map mapId="268437603" region="1" minLon="-24.399999618530273" minLat="-30.0" maxLon="-22.799999237060547" maxLat="-28.399999618530273"/>
+<map mapId="268437603" region="1" minLon="-25.19999885559082" minLat="-30.0" maxLon="-22.799999237060547" maxLat="-27.599998474121094"/>
 <zone zoneId="1879063955"/>
 </instanceMap>
 </privateEncounter>
-<privateEncounter id="1879080858" name="Instance: Thrór's Hammer" contentLayerId="268435553" questId="1879085859" description="&lt;u&gt;Thrór's Hammer&lt;/u&gt;&#10;\qDwalin, lord of Thorin's Hall has tasked the Heroes of Eriador with recovering Thrór's hammer from the tomb of Skorgrím, where the Dourhands have enshrined it as a memorial of victory over Durin's Folk....\q">
+<privateEncounter id="1879080858" name="Инстанс: Молот Трора" contentLayerId="268435553" questId="1879085859" description="&lt;u&gt;Молот Трора&lt;/u&gt;&#10;\qДвалин, владыка Чертогов Торина, поручил героям Эриадора вернуть молот Торина из гробницы Скоргрима. Крепкохваты водрузили его там в знак победы над народом Дарина.\q"/>
+<privateEncounter id="1879081168" name="Инстанс: Форност" contentLayerId="268435513" description="&lt;u&gt;Хелегрод&lt;/u&gt;&#10;\qХелегрод... Гномий город в Мглистых горах, павший под натиском огромного дракона. Хотя дракон этот давно мертв, и череда долгих зим сковала льдом руины города, с севера доносятся слухи об ужасной тени, что вернулась в обледенелые чертоги.\q">
 <instanceMap>
-<map mapId="1879048412"/>
-<zone zoneId="1879048412"/>
+<map mapId="1879051244"/>
+<zone zoneId="1879051244"/>
 </instanceMap>
-</privateEncounter>
-<privateEncounter id="1879081168" name="Instance: Fornost" contentLayerId="268435513" description="&lt;u&gt;Helegrod&lt;/u&gt;&#10;\qHelegrod... Once a dwarf-hold in the Misty Mountains, until the coming of a great dragon. Though the dragon has long since perished, and the ice of many long winters has engulfed the ruins, rumours out of the North speak of a terrible shadow returning to the frozen halls....\q">
 <instanceMap>
-<map mapId="268437634" region="1" minLon="-54.0" minLat="-6.0" maxLon="-53.19999694824219" maxLat="-5.199999809265137"/>
+<map mapId="268437634" region="1" minLon="-55.599998474121094" minLat="-6.0" maxLon="-53.19999694824219" maxLat="-3.5999999046325684"/>
 <zone zoneId="1879063986"/>
 </instanceMap>
 </privateEncounter>
-<privateEncounter id="1879082285" name="Instance: Urugarth" contentLayerId="268435517" description="&lt;u&gt;Helegrod&lt;/u&gt;&#10;\qHelegrod... Once a dwarf-hold in the Misty Mountains, until the coming of a great dragon. Though the dragon has long since perished, and the ice of many long winters has engulfed the ruins, rumours out of the North speak of a terrible shadow returning to the frozen halls....\q">
+<privateEncounter id="1879082285" name="Инстанс: Уругарт" contentLayerId="268435517" description="&lt;u&gt;Хелегрод&lt;/u&gt;&#10;\qХелегрод... Гномий город в Мглистых горах, павший под натиском огромного дракона. Хотя дракон этот давно мертв, и череда долгих зим сковала льдом руины города, с севера доносятся слухи об ужасной тени, что вернулась в обледенелые чертоги.\q">
 <instanceMap>
-<map mapId="268437615" region="1" minLon="-32.39999771118164" minLat="8.399999618530273" maxLon="-30.0" maxLat="10.800000190734863"/>
+<map mapId="268437615" region="1" minLon="-31.599998474121094" minLat="10.0" maxLon="-30.799999237060547" maxLat="10.800000190734863"/>
 <zone zoneId="1879063968"/>
 </instanceMap>
 </privateEncounter>
-<privateEncounter id="1879083265" name="Instance: Fire and Ice" contentLayerId="268435554" questId="1879052244" description="&lt;u&gt;Fire and Ice&lt;/u&gt;&#10;\qElrond Halfelven fears that the remaining Nazgûl has enlisted the aid of the Gaunt-lord Drugoth to instill a fell spirit into the frozen corpse of the ancient Dragon Thorog and raise the beast once more as a wight. Little time remains to stop their evil plans.\q">
+<privateEncounter id="1879083265" name="Инстанс: Лед и пламень" contentLayerId="268435554" questId="1879052244" description="&lt;u&gt;Лед и пламень&lt;/u&gt;&#10;\qЭлронд Полуэльф подозревает, что бежавший назгул заручился помощью умруна Другота и хочет оживить тело древнего дракона Торога, сотворив ужасное умертвие. Их надо остановить, ведь время уходит.\q">
 <contentLayer contentLayerId="0"/>
 <instanceMap>
 <map mapId="1879051241"/>
 <zone zoneId="1879051241"/>
 </instanceMap>
 </privateEncounter>
-<privateEncounter id="1879083267" name="Instance: Helegrod" contentLayerId="268435531" maxPlayers="24" description="&lt;u&gt;Helegrod&lt;/u&gt;&#10;\qHelegrod... Once a dwarf-hold in the Misty Mountains, until the coming of a great dragon. Though the dragon has long since perished, and the ice of many long winters has engulfed the ruins, rumours out of the North speak of a terrible shadow returning to the frozen halls....\q">
-<instanceMap>
-<map mapId="1879084152"/>
-<zone zoneId="1879084152"/>
-</instanceMap>
-<instanceMap>
-<map mapId="268437691" region="1" minLon="-2.0" minLat="-18.799999237060547" maxLon="1.1999999284744263" maxLat="-17.19999885559082"/>
-<zone zoneId="1879063946"/>
-</instanceMap>
-</privateEncounter>
-<privateEncounter id="1879086708" name="Instance: The Blade That Was Broken" contentLayerId="268435568" questId="1879086706" maxPlayers="6" description="&lt;u&gt;The Blade That Was Broken&lt;/u&gt;&#10;\qThe time of Isildur's Heir is at hand. With the recovery of the last Silithar, Elrond has commanded that the light of Narsil, which cut the One Ring from the hand of Sauron, be renewed and rekindled as Anduril, the Flame of the West....\q">
-<instanceMap>
-<map mapId="268437713" region="1" minLon="-6.799999713897705" minLat="-29.19999885559082" maxLon="-6.0" maxLat="-28.399999618530273"/>
-<zone zoneId="1879063939"/>
-</instanceMap>
-</privateEncounter>
-<privateEncounter id="1879087208" name="Instance: The Tomb of Elendil" contentLayerId="268435569" questId="1879087078" maxPlayers="6" description="&lt;u&gt;The Tomb of Elendil&lt;/u&gt;&#10;\qRespect, the one thing Gwindeth desired most, has earned passage into the tomb of Elendil, the resting place of the last Silithar. But with the lowering of the floods, robbers and thieves have taken the opportunity to plunder the tomb....\q">
+<privateEncounter id="1879083267" name="Инстанс: Хелегрод" contentLayerId="268435531" maxPlayers="24" description="&lt;u&gt;Хелегрод&lt;/u&gt;&#10;\qХелегрод... Гномий город в Мглистых горах, павший под натиском огромного дракона. Хотя дракон этот давно мертв, и череда долгих зим сковала льдом руины города, с севера доносятся слухи об ужасной тени, что вернулась в обледенелые чертоги.\q"/>
+<privateEncounter id="1879086708" name="Инстанс: Клинок, что был сломан" contentLayerId="268435568" questId="1879086706" maxPlayers="6" description="&lt;u&gt;Клинок, что был сломан&lt;/u&gt;&#10;\qПришло время наследнику Исилдура заявить о себе. Элронд велел кузнецам взять силитар и перековать Нарсил, клинок, отсекший палец Саурону - тот, на котором было Кольцо Всевластья. Он дал мечу новое имя - Андурил, Пламя Запада.\q"/>
+<privateEncounter id="1879087208" name="Инстанс: Гробница Элендила" contentLayerId="268435569" questId="1879087078" maxPlayers="6" description="&lt;u&gt;Гробница Элендила&lt;/u&gt;&#10;\qОтдав дань уважения Гвиндет и пройдя тем самым ее испытание, герои Эриадора смогли спуститься в гробницу Элендила, где покоится последний силитар. Вода схлынула, и выяснилось, что воспользоваться этим намерены расхитители гробниц.\q">
 <instanceMap>
 <map mapId="1879088988"/>
 <zone zoneId="1879088988"/>
 </instanceMap>
 </privateEncounter>
-<privateEncounter id="1879087637" name="Instance: Barad Gúlaran" contentLayerId="268435570" description="&lt;u&gt;Barad Gúlaran&lt;/u&gt;&#10;\qHaving obtained all the tools they need to contain a terrible spell, the sorcerers of Angmar retreat to Barad Gúlaran to fulfil the commands of their mistress Amarthiel, while the Rangers of the North seek to hinder them....\q">
-<instanceMap>
-<map mapId="1879087106"/>
-<zone zoneId="1879087106"/>
-</instanceMap>
-</privateEncounter>
-<privateEncounter id="1879088600" name="Private Instance: The Twisted Heart" contentLayerId="268435572" questId="1879088601" maxPlayers="6" description="&lt;u&gt;The Twisted Heart&lt;/u&gt;&#10;\qLongbough the Ent has been roused to anger. The Wood-trolls of the Eavespire are acting in league with a Black Huorn which was once under the Ent's guidance, and Longbough is determined to put an end to their mischief....\q">
-<instanceMap>
-<map mapId="268439511" region="1" minLon="-75.5999984741211" minLat="-11.59999942779541" maxLon="-74.0" maxLat="-10.0"/>
-<zone zoneId="1879086551"/>
-</instanceMap>
-</privateEncounter>
-<privateEncounter id="1879088646" name="Instance: Thieftaker's Bane" contentLayerId="268435571" questId="1879088655" maxPlayers="6" description="&lt;u&gt;Thief-taker's Bane&lt;/u&gt;&#10;\qA simple quest to recover ancient Dúnedain relics from the hands of the grave-robbers who stole them has gone terribly awry. The thieves will not allow the Rangers and their allies to take their treasures from them so easily....\q">
-<instanceMap>
-<map mapId="268439511" region="1" minLon="-70.0" minLat="-7.599999904632568" maxLon="-69.19999694824219" maxLat="-6.799999713897705"/>
-<zone zoneId="1879086552"/>
-</instanceMap>
-</privateEncounter>
-<privateEncounter id="1879088729" name="Private Instance: Formal Complaint" contentLayerId="268435573" questId="1879088815" maxPlayers="6" description="&lt;u&gt;A Formal Complaint&lt;/u&gt;&#10;\qAn attempt to lodge a formal complaint on behalf of the glassblower, Hob Hillbrow, led to a violent encounter with the Chief's Men. The time has come to put the ruffians in their place....\q">
-<instanceMap>
-<map mapId="1879089909"/>
-<zone zoneId="1879089909"/>
-</instanceMap>
-</privateEncounter>
-<privateEncounter id="1879088741" name="Instance: Oakheart's Might" contentLayerId="268435457" questId="1879088742" maxPlayers="1" description="&lt;u&gt;Oakheart's Might&lt;/u&gt;&#10;\qA mysterious note from the strange Sara Oakheart bade the heroes who saved her meet her at the gates of Barad Gúlaran, the ancient retreat of the Witch-king of Angmar. Seeking an answer to the mystery of the old woman, Golodir assents....\q">
-<instanceMap>
-<map mapId="1879087106"/>
-<zone zoneId="1879087106"/>
-</instanceMap>
-</privateEncounter>
-<privateEncounter id="1879088953" name="Instance: Amarthiel's Friends" contentLayerId="268435458" questId="1879088955" maxPlayers="1" description="&lt;u&gt;Amarthiel's Hope&lt;/u&gt;&#10;\qSuspecting that Amarthiel, the champion of Angmar, has come to Annúminas -- a suspicion supported by the warning of the Elf Laerdan -- the Rangers of the North prepare to infiltrate the ruined city and put an end to her evil plans....\q">
-<instanceMap>
-<map mapId="268439511" region="1" minLon="-69.19999694824219" minLat="-18.0" maxLon="-66.79999542236328" maxLat="-17.19999885559082"/>
-<zone zoneId="1879086546"/>
-<zone zoneId="1879086547"/>
-</instanceMap>
-</privateEncounter>
-<privateEncounter id="1879092076" name="Instance: Annuminas Gardens" contentLayerId="268435462" description="&lt;u&gt;Glinghant&lt;/u&gt;&#10;\qGlinghant, the gardens of Annúminas -- once a place of great beauty, now overgrown and fallen into ruin. The stagnant of waters of the gardens have become corrupted by the fell spirits of Angmar, and evil Men do their bidding. . . .\q">
-<instanceMap>
-<map mapId="1879089832"/>
-<zone zoneId="1879089832"/>
-</instanceMap>
-</privateEncounter>
-<privateEncounter id="1879092077" name="Instance: Annuminas Palace" contentLayerId="268435459" description="&lt;u&gt;Ost Elendil&lt;/u&gt;&#10;\qThe Black Númenóreans in league with Amarthiel have come to Ost Elendil, seeking to establish a foothold in Annúminas, while the Rangers of the North assail the city of their fathers in a desperate attempt to drive them forth.\q">
-<instanceMap>
-<map mapId="1879092136"/>
-<zone zoneId="1879092136"/>
-</instanceMap>
-</privateEncounter>
-<privateEncounter id="1879092078" name="Instance: Annuminas Tomb" contentLayerId="268435466" description="&lt;u&gt;Haudh Valandil&lt;/u&gt;&#10;\qThe Lords of Umbar, sorcerers trained by Sauron, the great Necromancer, seek to bring terror to Annúminas by raising the long-dead remains of Valandil, third King of Arnor, as a terrible wight. Only the most courageous of the Free Peoples will be able to put an end to their evil deeds. . . .\q">
-<instanceMap>
-<map mapId="1879089971"/>
-<zone zoneId="1879089971"/>
-</instanceMap>
-</privateEncounter>
-<privateEncounter id="1879092661" name="Instance: The Eye of Angmar" contentLayerId="268435575" questId="1879091370" description="&lt;u&gt;Barad Tironn&lt;/u&gt;&#10;\qLaerdan, succumbing to the whisperings of Mordrambor, foolishly seeks to confront Amarthiel at Barad Tironn, where she seeks to use the palantír to find Narchuil. The only hope for the Free Peoples is for the palantír to be recovered from her grasp. . . .\q">
+<privateEncounter id="1879087637" name="Инстанс: Барад-Гуларан" contentLayerId="268435570" description="&lt;u&gt;Барад-Гуларан&lt;/u&gt;&#10;\qПолучив все необходимое для того, чтобы провести страшный ритуал, ангмарские колдуны скрылись в Барад-Гуларане. Там они готовятся исполнить волю своей госпожи Амартиэли. Следопыты Севера надеются помешать им.\q"/>
+<privateEncounter id="1879088600" name="Инстанс: Одержимое Сердце" contentLayerId="268435572" questId="1879088601" maxPlayers="6" description="&lt;u&gt;Одержимое Сердце&lt;/u&gt;&#10;\qЭнт Долговетвень в ярости. Лесные тролли Укромной лощины служат черному гворну, бывшему другу и собеседнику энта. Долговетвень намерен положить конец его бесчинствам.\q"/>
+<privateEncounter id="1879088646" name="Инстанс: Гроза воров" contentLayerId="268435571" questId="1879088655" maxPlayers="6" description="&lt;u&gt;Гроза воров&lt;/u&gt;&#10;\qПопытка вернуть реликвии дунаданов из рук расхитителей гробниц вылилась в настоящее сражение. Воры не желают отдавать награбленное следопытам и их союзникам.\q"/>
+<privateEncounter id="1879088729" name="Инстанс: Жалоба" contentLayerId="268435573" questId="1879088815" maxPlayers="6" description="&lt;u&gt;Жалоба&lt;/u&gt;&#10;\qСтеклодув Хоб Пригоркинс попытался уладить дела с Головней при помощи жалобного письма, но чуть не лишился жизни. Пришла пора поставить Головню и его молодчиков на место.\q"/>
+<privateEncounter id="1879088741" name="Инстанс: Мощь Сары Храббард" contentLayerId="268435457" questId="1879088742" maxPlayers="1" description="&lt;u&gt;Мощь Сары Храббард&lt;/u&gt;&#10;\qТаинственная Сара Храббард прислала своим спасителям записку, в которой попросила их о встрече у ворот Барад-Гуларана, древней крепости Короля-Призрака. Голодир надеется, что эта встреча поможет раскрыть истинное лицо старой женщины.\q"/>
+<privateEncounter id="1879088953" name="Инстанс: Друзья Амартиэли" contentLayerId="268435458" questId="1879088955" maxPlayers="1" description="&lt;u&gt;Надежда Амартиэли&lt;/u&gt;&#10;\qПодзревая, что Амартиэль, ангмарская воительница, отправилась в Аннуминас, следопыты Севера готовятся войти в разрушенный город и помешать ее зловещим замыслам.\q"/>
+<privateEncounter id="1879092076" name="Инстанс: Сады Аннуминаса" contentLayerId="268435462" description="&lt;u&gt;Глингхант&lt;/u&gt;&#10;\qГлингхант, сады Аннуминаса. Их красоту воспевали барды. Ныне сады заброшены. Из отравленных вод восстают падшие духи, и поборники Тьмы творят свое зло.\q"/>
+<privateEncounter id="1879092077" name="Инстанс: Дворец Аннуминаса" contentLayerId="268435459" description="&lt;u&gt;Ост Элендил&lt;/u&gt;&#10;\qЧерные нуменорцы, приспешники Амартиэли, заняли Ост Элендил, желая укрепиться в Аннуминасе. Следопыты Севера осаждают город своих праотцов, отчаянно пытаясь изгнать врага.\q"/>
+<privateEncounter id="1879092078" name="Инстанс: Гробница Аннуминаса" contentLayerId="268435466" description="&lt;u&gt;Хауд Валандил&lt;/u&gt;&#10;\qВладыки Умбара, колдуны, обученные великим некромантом Сауроном, задумали оживить останки Валандила, третьего короля Арнора. Король-умертвие повергнет город в страх. Лишь храбрейшие герои свободных народов могут остановить злодеяние.\q"/>
+<privateEncounter id="1879092661" name="Инстанс: Око Ангмара" contentLayerId="268435575" questId="1879091370" description="&lt;u&gt;Барад-Тиронн&lt;/u&gt;&#10;\qУступив увещеваниям Мордрамбора, Лаэрдан отправился в Барад-Тиронн, чтобы сразиться с Амартиэлью. Там она с помощью палантира пытается найти Наркил. Необходимо помешать ей любой ценой.\q">
 <instanceMap>
 <map mapId="1879090785"/>
 <zone zoneId="1879090785"/>
 </instanceMap>
 </privateEncounter>
-<privateEncounter id="1879092662" name="Instance: Springing the Trap" contentLayerId="268435574" questId="1879091328" description="&lt;u&gt;Springing the Trap&lt;/u&gt;&#10;\qThe Rangers of the North have learned that Mordrambor, a Black Númenórean deep in the counsels of Amarthiel, is travelling to Haudh Elendil with a small retinue. Hoping to sieze Mordrambor, the Rangers stage an ambush. . . .\q">
-<instanceMap>
-<map mapId="268439511" region="1" minLon="-67.5999984741211" minLat="-17.19999885559082" maxLon="-66.0" maxLat="-16.399999618530273"/>
-<zone zoneId="1879086547"/>
-</instanceMap>
-</privateEncounter>
-<privateEncounter id="1879093354" name="Instance: Mordirith's Fall" contentLayerId="268435470" questId="1879093326" description="&lt;u&gt;Mordirith's Fall&lt;/u&gt;&#10;\qHeartened by the gift of Dúnachar from Elrond of Rivendell, Golodir prepares to assail Carn Dûm and drive the sword into the unseen heart of Mordirith, the murderous Steward of Angmar. Courage may bring hope, but a thirst for vengeance could spell doom. . . .\q">
-<instanceMap>
-<map mapId="1879093930"/>
-<zone zoneId="1879093930"/>
-</instanceMap>
-</privateEncounter>
-<privateEncounter id="1879093836" name="Instance: The Bounty Hunter" contentLayerId="268435576" questId="1879093837" maxPlayers="1" description="&lt;u&gt;The Bounty Hunter&lt;/u&gt;&#10;\qBasil Gummidge hired adventurers from throughout Eriador to bring the ruffians and tomb-robbers of Evendim to justice, but now a notorious tomb-robber, Cuthbert Sprunt, has placed a bounty upon the arbiter's own hunters....\q">
-<instanceMap>
-<map mapId="268439511" region="1" minLon="-64.4000015258789" minLat="-7.599999904632568" maxLon="-63.599998474121094" maxLat="-6.799999713897705"/>
-<zone zoneId="1879086552"/>
-</instanceMap>
-</privateEncounter>
-<privateEncounter id="1879094769" name="Instance: The Rift of Nûrz Ghâshu" contentLayerId="268435471" maxPlayers="12" description="&lt;u&gt;Helegrod&lt;/u&gt;&#10;\qHelegrod... Once a dwarf-hold in the Misty Mountains, until the coming of a great dragon. Though the dragon has long since perished, and the ice of many long winters has engulfed the ruins, rumours out of the North speak of a terrible shadow returning to the frozen halls....\q">
+<privateEncounter id="1879092662" name="Инстанс: Ловушка захлопнулась" contentLayerId="268435574" questId="1879091328" description="&lt;u&gt;Ловушка захлопнулась&lt;/u&gt;&#10;\qСледопыты Севера узнали, что Мордрамбор, Черный нуменорец и доверенное лицо Амартиэли, направляется с малой свитой в Хауд Элендил. В надежде захватить Мордрамбора следопыты устроили засаду.\q"/>
+<privateEncounter id="1879093354" name="Инстанс: Падение Мордирита" contentLayerId="268435470" questId="1879093326" description="&lt;u&gt;Падение Мордирита&lt;/u&gt;&#10;\qПолучив Дунакар от Элронда, Голодир воспрял духом. Он готов войти в Карн Дум и пронзить мечом невидимое сердце Мордирита, смертоносного наместника Ангмара. Его храбрость сулит надежду, но жажда мести - плохой советчик.\q"/>
+<privateEncounter id="1879093836" name="Инстанс: Охотник за головами" contentLayerId="268435576" questId="1879093837" maxPlayers="1" description="&lt;u&gt;Охотник за головами&lt;/u&gt;&#10;\qБэзил Гаммидж нанял героев Эриадора, чтобы те совершили правосудие над грабителями и расхитителями гробниц. Но разбойник Катберт Спрант назначил щедрую награду за головы охотников.\q"/>
+<privateEncounter id="1879094769" name="Инстанс: Разлом Нурз Гхашу" contentLayerId="268435471" maxPlayers="12" description="&lt;u&gt;Хелегрод&lt;/u&gt;&#10;\qХелегрод... Гномий город в Мглистых горах, павший под натиском огромного дракона. Хотя дракон этот давно мертв, и череда долгих зим сковала льдом руины города, с севера доносятся слухи об ужасной тени, что вернулась в обледенелые чертоги.\q">
 <contentLayer contentLayerId="0"/>
-<instanceMap>
-<map mapId="1879101482"/>
-<zone zoneId="1879101482"/>
-</instanceMap>
 <instanceMap>
 <map mapId="1879101483"/>
 <zone zoneId="1879101483"/>
-</instanceMap>
-<instanceMap>
-<map mapId="1879101485"/>
-<zone zoneId="1879101485"/>
-</instanceMap>
-<instanceMap>
-<map mapId="1879101486"/>
-<zone zoneId="1879101486"/>
-</instanceMap>
-<instanceMap>
-<map mapId="1879101489"/>
-<zone zoneId="1879101489"/>
 </instanceMap>
 <instanceMap>
 <map mapId="1879101491"/>
@@ -417,60 +196,22 @@
 <zone zoneId="1879102227"/>
 </instanceMap>
 </privateEncounter>
-<privateEncounter id="1879095630" name="Instance: The Rift" contentLayerId="268435471" maxPlayers="12" description="&lt;u&gt;Helegrod&lt;/u&gt;&#10;\qHelegrod... Once a dwarf-hold in the Misty Mountains, until the coming of a great dragon. Though the dragon has long since perished, and the ice of many long winters has engulfed the ruins, rumours out of the North speak of a terrible shadow returning to the frozen halls....\q">
-<instanceMap>
-<map mapId="1879101489"/>
-<zone zoneId="1879101489"/>
-</instanceMap>
-</privateEncounter>
-<privateEncounter id="1879095631" name="Instance: The Rift" contentLayerId="268435471" maxPlayers="12" description="&lt;u&gt;Helegrod&lt;/u&gt;&#10;\qHelegrod... Once a dwarf-hold in the Misty Mountains, until the coming of a great dragon. Though the dragon has long since perished, and the ice of many long winters has engulfed the ruins, rumours out of the North speak of a terrible shadow returning to the frozen halls....\q">
-<instanceMap>
-<map mapId="1879101489"/>
-<zone zoneId="1879101489"/>
-</instanceMap>
-<instanceMap>
-<map mapId="1879102227"/>
-<zone zoneId="1879102227"/>
-</instanceMap>
-</privateEncounter>
-<privateEncounter id="1879095632" name="Instance: The Rift" contentLayerId="268435471" maxPlayers="12" description="&lt;u&gt;Helegrod&lt;/u&gt;&#10;\qHelegrod... Once a dwarf-hold in the Misty Mountains, until the coming of a great dragon. Though the dragon has long since perished, and the ice of many long winters has engulfed the ruins, rumours out of the North speak of a terrible shadow returning to the frozen halls....\q">
-<instanceMap>
-<map mapId="1879101489"/>
-<zone zoneId="1879101489"/>
-</instanceMap>
-</privateEncounter>
-<privateEncounter id="1879095795" name="Instance: A Trap for the Creature Gollum" contentLayerId="268435586" questId="1879095646" maxPlayers="1" description="&lt;u&gt;A Trap for the Creature&lt;/u&gt;&#10;\qWistan, a hunter in Tâl Bruinen, believes a trap can be set for the skulking creature which has terrorized the scattered inhabitants remaining in the region. Nevertheless, the creature has been a wary and cunning opponent. . . .\q">
-<instanceMap>
-<map mapId="268437592" region="1" minLon="-14.799999237060547" minLat="-38.79999923706055" maxLon="-14.0" maxLat="-37.20000076293945"/>
-<zone zoneId="1879094891"/>
-</instanceMap>
-</privateEncounter>
-<privateEncounter id="1879095796" name="Instance: Prisoner of the Free Peoples" contentLayerId="268435585" questId="1879095522" maxPlayers="1" description="&lt;u&gt;Prisoner of the Free Peoples&lt;/u&gt;&#10;\qThe pages of Sara Oakheart's journal uncovered the way into the ruins of Delossad, once called Sithad in brighter days. The search for Narchuil has led here, but to what end? What have these ragged stones seen. . . ?\q">
+<privateEncounter id="1879095630" name="Инстанс: Разлом" contentLayerId="268435471" maxPlayers="12" description="&lt;u&gt;Хелегрод&lt;/u&gt;&#10;\qХелегрод... Гномий город в Мглистых горах, павший под натиском огромного дракона. Хотя дракон этот давно мертв, и череда долгих зим сковала льдом руины города, с севера доносятся слухи об ужасной тени, что вернулась в обледенелые чертоги.\q"/>
+<privateEncounter id="1879095631" name="Инстанс: Разлом" contentLayerId="268435471" maxPlayers="12" description="&lt;u&gt;Хелегрод&lt;/u&gt;&#10;\qХелегрод... Гномий город в Мглистых горах, павший под натиском огромного дракона. Хотя дракон этот давно мертв, и череда долгих зим сковала льдом руины города, с севера доносятся слухи об ужасной тени, что вернулась в обледенелые чертоги.\q"/>
+<privateEncounter id="1879095632" name="Инстанс: Разлом" contentLayerId="268435471" maxPlayers="12" description="&lt;u&gt;Хелегрод&lt;/u&gt;&#10;\qХелегрод... Гномий город в Мглистых горах, павший под натиском огромного дракона. Хотя дракон этот давно мертв, и череда долгих зим сковала льдом руины города, с севера доносятся слухи об ужасной тени, что вернулась в обледенелые чертоги.\q"/>
+<privateEncounter id="1879095795" name="Инстанс: Ловушка для Горлума" contentLayerId="268435586" questId="1879095646" maxPlayers="1" description="&lt;u&gt;Западня для загадочного существа&lt;/u&gt;&#10;\qВистан, охотник из Тал Бруинена, решил устроить западню таинственному существу, которое наводит страх на жителей диких земель. Но существо оказалось осторожным и хитрым противником.\q"/>
+<privateEncounter id="1879095796" name="Инстанс: Пленница свободных народов" contentLayerId="268435585" questId="1879095522" maxPlayers="1" description="&lt;u&gt;Пленница свободных народов&lt;/u&gt;&#10;\qДневник Сары открыл дорогу в руины Делоссада, который прежде звался светлым Ситадом. Поиски Наркила привели сюда, но что здесь скрыто? Какую тайну хранят эти древние камни?\q">
 <instanceMap>
 <map mapId="1879095490"/>
 <zone zoneId="1879095490"/>
 </instanceMap>
-<instanceMap>
-<map mapId="268437592" region="1" minLon="-13.199999809265137" minLat="-38.79999923706055" maxLon="-12.399999618530273" maxLat="-38.0"/>
-<zone zoneId="1879094891"/>
-</instanceMap>
 </privateEncounter>
-<privateEncounter id="1879095797" name="Instance: Mordrambor" contentLayerId="268435577" questId="1879095466" maxPlayers="1" description="&lt;u&gt;Mordrambor&lt;/u&gt;&#10;\qThe time has come. Angered by Mordrambor's treacherous betrayal of Laerdan, the Ranger Calenglad is determined to confront the Black Númenórean and learn where Narchuil, the ring of Amarthiel, resides. . . .\q">
+<privateEncounter id="1879095797" name="Инстанс: Мордрабор" contentLayerId="268435577" questId="1879095466" maxPlayers="1" description="&lt;u&gt;Мордрамбор&lt;/u&gt;&#10;\qВремя пришло. Возмущенный предательством Мордрамбора, Каленглад решил бросить вызов Черному нуменорцу и выяснить, где находится Наркил, кольцо Амартиэли.\q">
 <instanceMap>
 <map mapId="1879090259"/>
 <zone zoneId="1879090259"/>
 </instanceMap>
 </privateEncounter>
-<privateEncounter id="1879095798" name="Instance: Remembrance" contentLayerId="268435584" questId="1879095467" maxPlayers="1" description="&lt;u&gt;Remembrance&lt;/u&gt;&#10;\qToo many of the Dúnedain have fallen to the ravages of one who is their distant kinsman. There is a time for mourning, but is this that time, when the Champion of Angmar might secure her ring, Narchuil. . . ?\q">
-<instanceMap>
-<map mapId="268439511" region="1" minLon="-66.79999542236328" minLat="-7.599999904632568" maxLon="-66.0" maxLat="-6.799999713897705"/>
-<zone zoneId="1879086552"/>
-</instanceMap>
-</privateEncounter>
-<privateEncounter id="1879101527" name="Instance: Goblin-town Throne Room" contentLayerId="268435474" description="&lt;u&gt;Goblin-town Throne Room&lt;/u&gt;&#10;\qIn the darkest depths of Goblin-town, at the heart of the goblin kingdom, teeming with the vile breed, lay the throne room of the Great Goblin. Long have the inhabitants of Goblin-town been leaderless, but as the Shadow in the East grows, calling its minions to arms, a new leader has taken the mantle of the Great Goblin....\q">
-<instanceMap>
-<map mapId="1879101643"/>
-<zone zoneId="1879101643"/>
-</instanceMap>
-</privateEncounter>
+<privateEncounter id="1879095798" name="Инстанс: Вечная память" contentLayerId="268435584" questId="1879095467" maxPlayers="1" description="&lt;u&gt;Вечная память&lt;/u&gt;&#10;\qМного дунаданов пало от рук тех, с кем они некогда были одним народом. Но есть ли время предаваться скорби, когда первая воительница Ангмара близка к тому, чтобы найти кольцо - Наркил?\q"/>
+<privateEncounter id="1879101527" name="Инстанс: Тронный зал Города гоблинов" contentLayerId="268435474" description="&lt;u&gt;Тронный зал Города гоблинов&lt;/u&gt;&#10;\qВ темных глубинах Города гоблинов, где этих отродий множество, есть тронный зал Великого гоблина. Долгое время у этих существ не было предводителя, но теперь, когда Тьма на востоке сгустилась, новый вождь уже примеряет мантию Великого гоблина.\q"/>
 </privateEncounters>

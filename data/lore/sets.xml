@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><sets>
-<set id="1879087805" name="Armour of the White Flame" level="30" description="Crafted by dwarf-masters of finely-tooled leather and hardened steel from the depths of the great mines beneath Ered Luin.">
-<item id="1879087723" name="Gloves of the White Flame"/>
-<item id="1879087724" name="Shoes of the White Flame"/>
-<item id="1879087725" name="Leggings of the White Flame"/>
-<item id="1879087726" name="Jacket of the White Flame"/>
-<item id="1879087727" name="Shoulders of the White Flame"/>
-<item id="1879087728" name="Helm of the White Flame"/>
+<set id="1879087805" name="Доспехи белого пламени" level="30" description="Мастера-гномы изготовили эти доспехи из выделанной кожи и прочной стали из глубин рудников Эред Луина.">
+<item id="1879087723" name="Перчатки белого пламени"/>
+<item id="1879087724" name="Башмаки белого пламени"/>
+<item id="1879087725" name="Поножи белого пламени"/>
+<item id="1879087726" name="Куртка белого пламени"/>
+<item id="1879087727" name="Наплечники белого пламени"/>
+<item id="1879087728" name="Шлем белого пламени"/>
 <bonus nbItems="2">
 <stat name="ICMR" scaling="1879049958"/>
 </bonus>
@@ -16,13 +16,13 @@
 <stat name="FATE" scaling="1879051158"/>
 </bonus>
 </set>
-<set id="1879087806" name="Armour of Remmirath" level="40" description="Crafted by Elf-masters to reflect the timlessness, strength, and brilliance of the great star clusters above.">
-<item id="1879087729" name="Gloves of Remmirath"/>
-<item id="1879087730" name="Shoes of Remmirath"/>
-<item id="1879087731" name="Leggings of Remmirath"/>
-<item id="1879087732" name="Robe of Remmirath"/>
-<item id="1879087733" name="Shoulders of Remmirath"/>
-<item id="1879087734" name="Helm of Remmirath"/>
+<set id="1879087806" name="Доспехи Реммират" level="40" description="Мастера-эльфы создали эти доспехи, чтобы запечатлеть бессмертие, силу и свет великих созвездий.">
+<item id="1879087729" name="Перчатки Реммират"/>
+<item id="1879087730" name="Башмаки Реммират"/>
+<item id="1879087731" name="Поножи Реммират"/>
+<item id="1879087732" name="Мантия Реммират"/>
+<item id="1879087733" name="Наплечники Реммират"/>
+<item id="1879087734" name="Шлем Реммират"/>
 <bonus nbItems="2">
 <stat name="VITALITY" scaling="1879049943"/>
 </bonus>
@@ -33,13 +33,13 @@
 <stat name="WILL" scaling="1879049917"/>
 </bonus>
 </set>
-<set id="1879087807" name="Armour of the West-lands" level="50" description="Crafted of the highest quality leather, worked to great strength by the mysterious Rangers of the North.">
-<item id="1879087717" name="Gloves of the West-lands"/>
-<item id="1879087718" name="Shoes of the West-lands"/>
-<item id="1879087719" name="Leggings of the West-lands"/>
-<item id="1879087720" name="Robe of the West-lands"/>
-<item id="1879087721" name="Shoulders of the West-lands"/>
-<item id="1879087722" name="Helm of the West-lands"/>
+<set id="1879087807" name="Доспехи Западных земель" level="50" description="Эти доспехи сшиты из высококачественной и очень прочной кожи таинственными следопытами Севера.">
+<item id="1879087717" name="Перчатки западных земель"/>
+<item id="1879087718" name="Башмаки западных земель"/>
+<item id="1879087719" name="Поножи западных земель"/>
+<item id="1879087720" name="Мантия западных земель"/>
+<item id="1879087721" name="Наплечники западных земель"/>
+<item id="1879087722" name="Шлем западных земель"/>
 <bonus nbItems="2">
 <stat name="AGILITY" scaling="1879049909"/>
 </bonus>
@@ -50,13 +50,13 @@
 <stat name="Mood_Healing_Modifier" scaling="1879062213"/>
 </bonus>
 </set>
-<set id="1879087808" name="Armour of the Dwarf-hoard" level="30" description="Ancient armour of legendary dwarf-make, said to have been kept in the dragon-hoard of Nargothrond in ages past.">
-<item id="1879087741" name="Gauntlets of the Dwarf-hoard"/>
-<item id="1879087742" name="Boots of the Dwarf-hoard"/>
-<item id="1879087743" name="Leggings of the Dwarf-hoard"/>
-<item id="1879087744" name="Jacket of the Dwarf-hoard"/>
-<item id="1879087745" name="Shoulders of the Dwarf-hoard"/>
-<item id="1879087746" name="Helm of the Dwarf-hoard"/>
+<set id="1879087808" name="Доспехи из гномьей сокровищницы" level="30" description="Легендарные доспехи из гномьей сокровищницы в Нарготронде, которую в давние времена захватил дракон.">
+<item id="1879087741" name="Рукавицы из гномьей сокровищницы"/>
+<item id="1879087742" name="Сапоги из гномьей сокровищницы"/>
+<item id="1879087743" name="Поножи из гномьей сокровищницы"/>
+<item id="1879087744" name="Куртка из гномьей сокровищницы"/>
+<item id="1879087745" name="Наплечники из гномьей сокровищницы"/>
+<item id="1879087746" name="Шлем из гномьей сокровищницы"/>
 <bonus nbItems="2">
 <stat name="MIGHT" scaling="1879049945"/>
 </bonus>
@@ -67,13 +67,13 @@
 <stat name="Resist_Additional_Resistance_Wound" scaling="1879051148"/>
 </bonus>
 </set>
-<set id="1879087809" name="Armour of Celebrant" level="40" description="Gleaming armour of Elf-make, forged long ago in the lands of the mighty river flowing from darkest Fangorn.">
-<item id="1879087747" name="Gauntlets of Celebrant"/>
-<item id="1879087748" name="Boots of Celebrant"/>
-<item id="1879087749" name="Leggings of Celebrant"/>
-<item id="1879087750" name="Jacket of Celebrant"/>
-<item id="1879087751" name="Shoulders of Celebrant"/>
-<item id="1879087752" name="Helm of Celebrant"/>
+<set id="1879087809" name="Доспехи Келебранта" level="40" description="Сияющие доспехи, изготовленные давным-давно эльфийскими мастерами на берегах реки, текущей из темноты Фангорна.">
+<item id="1879087747" name="Рукавицы Келебранта"/>
+<item id="1879087748" name="Сапоги Келебранта"/>
+<item id="1879087749" name="Поножи Келебранта"/>
+<item id="1879087750" name="Куртка Келебранта"/>
+<item id="1879087751" name="Наплечники Келебранта"/>
+<item id="1879087752" name="Шлем Келебранта"/>
 <bonus nbItems="2">
 <stat name="ICMR" scaling="1879049958"/>
 </bonus>
@@ -84,13 +84,13 @@
 <stat name="Mood_Healing_Modifier" scaling="1879062213"/>
 </bonus>
 </set>
-<set id="1879087810" name="Armour of the Sun-lands" level="50" description="Finely-tooled armour crafted long ago by the proud Horse-lords of Rohan.">
-<item id="1879087735" name="Gauntlets of the Sun-lands"/>
-<item id="1879087736" name="Boots of the Sun-lands"/>
-<item id="1879087737" name="Leggings of the Sun-lands"/>
-<item id="1879087738" name="Jacket of the Sun-lands"/>
-<item id="1879087739" name="Shoulders of the Sun-lands"/>
-<item id="1879087740" name="Helm of the Sun-lands"/>
+<set id="1879087810" name="Доспехи солнечных земель" level="50" description="Превосходные доспехи из Солнечных земель, изготовленные гордыми всадниками Рохана.">
+<item id="1879087735" name="Рукавицы из Солнечных земель"/>
+<item id="1879087736" name="Сапоги Солнечных земель"/>
+<item id="1879087737" name="Поножи Солнечных земель"/>
+<item id="1879087738" name="Куртка Солнечных земель"/>
+<item id="1879087739" name="Наплечники Солнечных земель"/>
+<item id="1879087740" name="Шлем Солнечных земель"/>
 <bonus nbItems="2">
 <stat name="VITALITY" scaling="1879049943"/>
 </bonus>
@@ -101,13 +101,13 @@
 <stat name="MORALE" scaling="1879051225"/>
 </bonus>
 </set>
-<set id="1879087811" name="Armour of the Seven Fathers" level="30" description="Glorious armour of dwarf-make, finely-crafted in the name of the legendary dwarf-lords of ages long past.">
-<item id="1879087759" name="Gauntlets of the Seven Fathers"/>
-<item id="1879087760" name="Boots of the Seven Fathers"/>
-<item id="1879087761" name="Leggings of the Seven Fathers"/>
-<item id="1879087762" name="Breastplate of the Seven Fathers"/>
-<item id="1879087763" name="Shoulders of the Seven Fathers"/>
-<item id="1879087764" name="Helm of the Seven Fathers"/>
+<set id="1879087811" name="Доспехи Семи Отцов" level="30" description="Знаменитые доспехи, выкованные гномами в честь их легендарных правителей.">
+<item id="1879087759" name="Рукавицы Семи Отцов"/>
+<item id="1879087760" name="Сапоги Семи Отцов"/>
+<item id="1879087761" name="Поножи Семи Отцов"/>
+<item id="1879087762" name="Нагрудник Семи Отцов"/>
+<item id="1879087763" name="Наплечники Семи Отцов"/>
+<item id="1879087764" name="Шлем Семи Отцов"/>
 <bonus nbItems="2">
 <stat name="WILL" scaling="1879049503"/>
 </bonus>
@@ -118,13 +118,13 @@
 <stat name="MIGHT" scaling="1879051150"/>
 </bonus>
 </set>
-<set id="1879087812" name="Armour of Orod-na-Thôn" level="40" description="Armour of ancient Elf-make, forged in the dark forests beneath the distant Mountain of Pine.">
-<item id="1879087765" name="Gauntlets of Orod-na-Thôn"/>
-<item id="1879087766" name="Boots of Orod-na-Thôn"/>
-<item id="1879087767" name="Leggings of Orod-na-Thôn"/>
-<item id="1879087768" name="Breastplate of Orod-na-Thôn"/>
-<item id="1879087769" name="Shoulders of Orod-na-Thôn"/>
-<item id="1879087770" name="Helm of Orod-na-Thôn"/>
+<set id="1879087812" name="Доспехи Ород-на-Тона" level="40" description="Эти доспехи созданы эльфами в темных лесах у подножия Тоскливой горы.">
+<item id="1879087765" name="Рукавицы Ород-на-Тона"/>
+<item id="1879087766" name="Сапоги Ород-на-Тона"/>
+<item id="1879087767" name="Поножи Ород-на-Тона"/>
+<item id="1879087768" name="Нагрудник Ород-на-Тона"/>
+<item id="1879087769" name="Наплечники Ород-на-Тона"/>
+<item id="1879087770" name="Шлем Ород-на-Тона"/>
 <bonus nbItems="2">
 <stat name="MIGHT" scaling="1879049945"/>
 </bonus>
@@ -135,13 +135,13 @@
 <stat name="Resist_Additional_Resistance_Fear" scaling="1879051220"/>
 </bonus>
 </set>
-<set id="1879087813" name="Armour of the North-drake" level="50" description="Forged long ago by master-craftsmen of Arnor, finely crafted armour of the great strength and deadly beauty of the ancient dragons of legend.">
-<item id="1879087753" name="Gauntlets of the North-drake"/>
-<item id="1879087754" name="Boots of the North-drake"/>
-<item id="1879087755" name="Leggings of the North-drake"/>
-<item id="1879087756" name="Breastplate of the North-drake"/>
-<item id="1879087757" name="Shoulders of the North-drake"/>
-<item id="1879087758" name="Helm of the North-drake"/>
+<set id="1879087813" name="Доспехи северного дракона" level="50" description="Выкованные много лет назад мастером-кузнецом из Арнора, эти доспехи сочетают в себе могучую силу и роковое обаяние, присущее древним легендарным драконам.">
+<item id="1879087753" name="Рукавицы северного дракона"/>
+<item id="1879087754" name="Сапоги северного дракона"/>
+<item id="1879087755" name="Поножи северного дракона"/>
+<item id="1879087756" name="Нагрудник северного дракона"/>
+<item id="1879087757" name="Наплечники северного дракона"/>
+<item id="1879087758" name="Шлем северного дракона"/>
 <bonus nbItems="2">
 <stat name="VITALITY" scaling="1879049943"/>
 </bonus>
@@ -152,64 +152,64 @@
 <stat name="POWER" scaling="1879051152"/>
 </bonus>
 </set>
-<set id="1879087814" name="Beast-master Armour" level="50" description="This fine armour represents the ancient wisdom of the Elves and pieces of it portray their departure into the West.">
-<item id="1879074231" name="Beast-master Gloves"/>
-<item id="1879074210" name="Beast-master Boots"/>
-<item id="1879066438" name="Beast-master Leggings"/>
-<item id="1879066439" name="Beast-master Robe"/>
-<item id="1879066440" name="Beast-master Shoulders"/>
-<item id="1879066441" name="Beast-master Hat"/>
+<set id="1879087814" name="Доспехи повелителя зверей" level="50" description="Эти доспехи - символ древней мудрости эльфов. На них изображено отплытие на Запад.">
+<item id="1879074231" name="Перчатки повелителя зверей"/>
+<item id="1879074210" name="Сапоги повелителя зверей"/>
+<item id="1879066438" name="Поножи повелителя зверей"/>
+<item id="1879066439" name="Мантия повелителя зверей"/>
+<item id="1879066440" name="Наплечники повелителя зверей"/>
+<item id="1879066441" name="Шляпа повелителя зверей"/>
 <bonus nbItems="2">
 <stat name="WILL" scaling="1879049503"/>
 </bonus>
 <bonus nbItems="4">
-<stat name="Skill_RecoveryTime_Loremaster_TestofWill" descriptionOverride="Test of Will recovery time reduced by 15 seconds" constant="-15.0"/>
+<stat name="Skill_RecoveryTime_Loremaster_TestofWill" descriptionOverride="Время восстановления умения \qИспытание воли\q сокращается на 15 секунд" constant="-15.0"/>
 </bonus>
 <bonus nbItems="6">
-<stat name="Skill_ResistanceChance_Loremaster_BlindingFlash" descriptionOverride="Chance to resist your Blinding Flash is reduced by 5%" scaling="1879089017"/>
+<stat name="Skill_ResistanceChance_Loremaster_BlindingFlash" descriptionOverride="Вероятность сопротивления \qОслепительной вспышке\q, снижена на 5%" scaling="1879089017"/>
 </bonus>
 </set>
-<set id="1879087815" name="Silver-voice Armour" level="50" description="This armour, studded with beryls, known also as Elf-stones, is a fine set, crafted by the Elves for a minstrel of great renown.">
-<item id="1879074593" name="Silver-voice Gloves"/>
-<item id="1879074769" name="Silver-voice Boots"/>
-<item id="1879066442" name="Silver-voice Leggings"/>
-<item id="1879066443" name="Silver-voice Robe"/>
-<item id="1879066444" name="Silver-voice Shoulders"/>
-<item id="1879066445" name="Silver-voice Helm"/>
+<set id="1879087815" name="Доспехи серебряного голоса" level="50" description="Эти прекрасные доспехи, украшенные бериллами - \qэльфийскими камнями\q, были изготовлены для одного прославленного менестреля.">
+<item id="1879074593" name="Перчатки серебряного голоса"/>
+<item id="1879074769" name="Сапоги серебряного голоса"/>
+<item id="1879066442" name="Поножи серебряного голоса"/>
+<item id="1879066443" name="Мантия серебряного голоса"/>
+<item id="1879066444" name="Наплечники серебряного голоса"/>
+<item id="1879066445" name="Шлем серебряного голоса"/>
 <bonus nbItems="2">
 <stat name="FATE" scaling="1879049801"/>
 </bonus>
 <bonus nbItems="4">
-<stat name="BALLAD_AND_CODA_DAMAGE_PERCENTAGE" descriptionOverride="+5% Ballad Damage" scaling="1879089018"/>
+<stat name="BALLAD_AND_CODA_DAMAGE_PERCENTAGE" descriptionOverride="+5% к урону от баллад" scaling="1879089018"/>
 </bonus>
 <bonus nbItems="6">
-<stat name="Skill_HealingMultiplier_Item" descriptionOverride="+5% Healing Output" scaling="1879089140"/>
+<stat name="Skill_HealingMultiplier_Item" descriptionOverride="+5% к исцелению" scaling="1879089140"/>
 </bonus>
 </set>
-<set id="1879087816" name="Armour of the Aurochs" level="50" description="This fine armour was crafted from aurochs hides taken from the great aurochs of the North Downs in tribute to the mighty hunters who acquired the hides.">
-<item id="1879074700" name="Gloves of the Aurochs"/>
-<item id="1879074495" name="Boots of the Aurochs"/>
-<item id="1879066446" name="Leggings of the Aurochs"/>
-<item id="1879066447" name="Breastplate of the Aurochs"/>
-<item id="1879066448" name="Shoulders of the Aurochs"/>
-<item id="1879066449" name="Helm of the Aurochs"/>
+<set id="1879087816" name="Доспехи из турьей кожи" level="50" description="Эти прекрасные доспехи изготовлены из кожи туров Северного нагорья в честь великих охотников, добывших эти шкуры.">
+<item id="1879074700" name="Перчатки из турьей кожи"/>
+<item id="1879074495" name="Сапоги из турьей кожи"/>
+<item id="1879066446" name="Поножи из турьей кожи"/>
+<item id="1879066447" name="Нагрудник из турьей кожи"/>
+<item id="1879066448" name="Наплечники из турьей кожи"/>
+<item id="1879066449" name="Шлем из турьей кожи"/>
 <bonus nbItems="2">
 <stat name="AGILITY" scaling="1879049909"/>
 </bonus>
 <bonus nbItems="4">
-<stat name="Skill_RecoveryTime_Item_Swiftbow" descriptionOverride="Swift Bow recovery time reduced by 2 seconds" constant="-2.0"/>
+<stat name="Skill_RecoveryTime_Item_Swiftbow" descriptionOverride="Время восстановления умения \qБыстрый лук\q сокращается на 2 секунды" constant="-2.0"/>
 </bonus>
 <bonus nbItems="6">
-<stat name="Skill_RecoveryTime_Item_PenetratingShot" descriptionOverride="Penetrating Shot recovery time reduced by 1 second" scaling="1879089023"/>
+<stat name="Skill_RecoveryTime_Item_PenetratingShot" descriptionOverride="Время восстановления умения \qПроникающий выстрел\q сокращается на 1 секунду" scaling="1879089023"/>
 </bonus>
 </set>
-<set id="1879087817" name="Shadow-stalker Armour" level="50" description="This armour was cobbled together by a famous burglar, who sought renown in more than just the burgling arts.">
-<item id="1879074615" name="Shadow-stalker Gloves"/>
-<item id="1879074326" name="Shadow-stalker Boots"/>
-<item id="1879066450" name="Shadow-stalker Leggings"/>
-<item id="1879066451" name="Shadow-stalker Jacket"/>
-<item id="1879066452" name="Shadow-stalker Shoulders"/>
-<item id="1879066453" name="Shadow-stalker Helm"/>
+<set id="1879087817" name="Доспехи ходящего среди теней" level="50" description="Эти доспехи были изготовлены известным взломщиком, который хотел, чтобы его помнили не только за его главное ремесло.">
+<item id="1879074615" name="Перчатки ходящего среди теней"/>
+<item id="1879074326" name="Сапоги ходящего среди теней"/>
+<item id="1879066450" name="Поножи ходящего среди теней"/>
+<item id="1879066451" name="Куртка ходящего среди теней"/>
+<item id="1879066452" name="Наплечники ходящего среди теней"/>
+<item id="1879066453" name="Шлем ходящего среди теней"/>
 <bonus nbItems="2">
 <stat name="AGILITY" scaling="1879049909"/>
 </bonus>
@@ -217,66 +217,66 @@
 <stat name="STEALTH_LEVEL" scaling="1879052068"/>
 </bonus>
 <bonus nbItems="6">
-<stat name="Skill_DamageMultiplier_EpicSet_Stealth_Suprisestrike" descriptionOverride="+20% to Surprise Strike damage while behind target and in Stealth" constant="20.0"/>
+<stat name="Skill_DamageMultiplier_EpicSet_Stealth_Suprisestrike" descriptionOverride="+20% к урону от \qНападения врасплох\q из режима скрытности со спины" constant="20.0"/>
 </bonus>
 </set>
-<set id="1879087818" name="War-captain's Armour" level="50" description="Every captain is known at a glance by his armour, and this set is perhaps one of the most recognizable you have seen. It seems Arnorian in origin.">
-<item id="1879074448" name="War-captain's Gloves"/>
-<item id="1879074768" name="War-captain's Boots"/>
-<item id="1879066454" name="War-captain's Leggings"/>
-<item id="1879066455" name="War-captain's Breastplate"/>
-<item id="1879066456" name="War-captain's Shoulders"/>
-<item id="1879066457" name="War-captain's Helm"/>
+<set id="1879087818" name="Доспехи предводителя" level="50" description="Рыцаря легко узнать издалека по его доспехам; а эти доспехи были известны всем. Они были изготовлены в Арноре.">
+<item id="1879074448" name="Перчатки предводителя"/>
+<item id="1879074768" name="Сапоги предводителя"/>
+<item id="1879066454" name="Поножи предводителя"/>
+<item id="1879066455" name="Кираса предводителя"/>
+<item id="1879066456" name="Наплечники предводителя"/>
+<item id="1879066457" name="Шлем предводителя"/>
 <bonus nbItems="2">
 <stat name="VITALITY" scaling="1879049943"/>
 </bonus>
 <bonus nbItems="4">
-<stat name="Skill_RecoveryTime_CrySkills" descriptionOverride="Defeat Event skills recovery time reduced by 15%" constant="-6.75"/>
+<stat name="Skill_RecoveryTime_CrySkills" descriptionOverride="Время восстановления \qЭха смерти врага\q снижено на 15%" constant="-6.75"/>
 </bonus>
 <bonus nbItems="6">
-<stat name="Skill_RecoveryTime_EscapefromDarkness" descriptionOverride="Escape from Darkness recovery time reduced by 5 minutes" constant="-300.0"/>
+<stat name="Skill_RecoveryTime_EscapefromDarkness" descriptionOverride="Время восстановления \qПобега от Тьмы\q снижено на 5 минут" constant="-300.0"/>
 </bonus>
 </set>
-<set id="1879087819" name="High-protector's Armour" level="50" description="This armour was forged for a warrior of the Grey Mountains before the Dragons came. Whoever wore this would be proud to know that a brave heart such as yourself has found it.">
-<item id="1879074414" name="High-protector's Gloves"/>
-<item id="1879074360" name="High-protector's Boots"/>
-<item id="1879066458" name="High-protector's Leggings"/>
-<item id="1879066459" name="High-protector's Breastplate"/>
-<item id="1879066460" name="High-protector's Shoulders"/>
-<item id="1879066461" name="High-protector's Helm"/>
+<set id="1879087819" name="Доспехи верховного заступника" level="50" description="Эти доспехи были выкованы для воина Серых гор еще до прихода драконов. Тот, кто носил этот доспех, может по праву гордиться тем, что его вещь досталась такому отважному герою, как вы.">
+<item id="1879074414" name="Перчатки верховного заступника"/>
+<item id="1879074360" name="Сапоги верховного заступника"/>
+<item id="1879066458" name="Поножи верховного заступника"/>
+<item id="1879066459" name="Нагрудник верховного заступника"/>
+<item id="1879066460" name="Наплечники верховного заступника"/>
+<item id="1879066461" name="Шлем верховного заступника"/>
 <bonus nbItems="2">
 <stat name="VITALITY" scaling="1879049943"/>
 </bonus>
 <bonus nbItems="4">
-<stat name="EpicSet_ResistanceChance_Guardian_Challenge" descriptionOverride="Chance to resist your Challenge is reduced by 5%" constant="-0.05"/>
+<stat name="EpicSet_ResistanceChance_Guardian_Challenge" descriptionOverride="Вероятность сопротивления \qВызову\q снижена на 5%" constant="-0.05"/>
 </bonus>
 <bonus nbItems="6">
-<stat name="Skill_RecoveryTime_GuardianChallengeTheDarknessMod" descriptionOverride="Challenge The Darkness recovery time reduced by 25%" constant="-150.0"/>
+<stat name="Skill_RecoveryTime_GuardianChallengeTheDarknessMod" descriptionOverride="Время восстановления \qВызова Тьме\q снижено на 25%" constant="-150.0"/>
 </bonus>
 </set>
-<set id="1879087820" name="Dragon-scale Armour" level="50" description="This armour was forged from the scales of Scatha the Worm, who was slain long ago by the great North-man Fram.">
-<item id="1879074447" name="Dragon-scale Gloves"/>
-<item id="1879074655" name="Dragon-scale Boots"/>
-<item id="1879066462" name="Dragon-scale Leggings"/>
-<item id="1879066463" name="Dragon-scale Breastplate"/>
-<item id="1879066464" name="Dragon-scale Shoulders"/>
-<item id="1879066465" name="Dragon-scale Helm"/>
+<set id="1879087820" name="Доспехи из драконьей чешуи" level="50" description="Этот доспех был сделан из чешуи Скаты, огромного дракона, убитого когда-то Фрамом, человеком с Севера.">
+<item id="1879074447" name="Перчатки из драконьей чешуи"/>
+<item id="1879074655" name="Сапоги из драконьей чешуи"/>
+<item id="1879066462" name="Поножи из драконьей чешуи"/>
+<item id="1879066463" name="Нагрудник из драконьей чешуи"/>
+<item id="1879066464" name="Наплечники из драконьей чешуи"/>
+<item id="1879066465" name="Шлем из драконьей чешуи"/>
 <bonus nbItems="2">
 <stat name="MIGHT" scaling="1879049945"/>
 </bonus>
 <bonus nbItems="4">
-<stat name="BLADE_LINE_AOE_POWER_COST_PERCENTAGE" operator="SUBSTRACT" descriptionOverride="Reduces the Power cost of all AOE skills by 5%" scaling="1879089174"/>
+<stat name="BLADE_LINE_AOE_POWER_COST_PERCENTAGE" operator="SUBSTRACT" descriptionOverride="Стоимость всех умений с действием на область снижена на 5%" scaling="1879089174"/>
 </bonus>
 <bonus nbItems="6">
-<stat name="EpicSet_ChanceAvoid_BracingAttack" descriptionOverride="Chance to Block or Parry your Bracing Attack is reduced" constant="-350.0"/>
+<stat name="EpicSet_ChanceAvoid_BracingAttack" descriptionOverride="Снижена вероятность того, что враг парирует или заблокирует ваш \qСтойкий удар\q" constant="-350.0"/>
 </bonus>
 </set>
-<set id="1879089944" name="Panthavron's Finery" level="36" description="Panthavron was a wealthy noble of Evendim, best known for throwing elaborate parties.">
-<item id="1879089751" name="Panthavron's Bangle"/>
-<item id="1879089753" name="Panthavron's Gem"/>
-<item id="1879089755" name="Panthavron's Loop"/>
-<item id="1879089757" name="Panthavron's Pendant"/>
-<item id="1879089759" name="Panthavron's Charm"/>
+<set id="1879089944" name="Драгоценности Пантаврона" level="36" description="Пантаврон был эвендимским богачом. Известность ему снискали его роскошные пиры.">
+<item id="1879089751" name="Браслет Пантаврона"/>
+<item id="1879089753" name="Жемчужина Пантаврона"/>
+<item id="1879089755" name="Кольцо Пантаврона"/>
+<item id="1879089757" name="Кулон Пантаврона"/>
+<item id="1879089759" name="Талисман Пантаврона"/>
 <bonus nbItems="2">
 <stat name="VITALITY" scaling="1879049943"/>
 </bonus>
@@ -287,13 +287,13 @@
 <stat name="ICPR" scaling="1879049910"/>
 </bonus>
 </set>
-<set id="1879090936" name="Raiment of the Seven Stars" level="50" description="">
-<item id="1879091481" name="Gloves of the Seven Stars"/>
-<item id="1879091482" name="Shoes of the Seven Stars"/>
-<item id="1879091483" name="Leggings of the Seven Stars"/>
-<item id="1879091484" name="Robe of the Seven Stars"/>
-<item id="1879091485" name="Shoulders of the Seven Stars"/>
-<item id="1879091487" name="Cloak of the Seven Stars"/>
+<set id="1879090936" name="Одеяние Семи Звезд" level="50" description="">
+<item id="1879091481" name="Перчатки Семи Звезд"/>
+<item id="1879091482" name="Башмаки Семи Звезд"/>
+<item id="1879091483" name="Поножи Семи Звезд"/>
+<item id="1879091484" name="Мантия Семи Звезд"/>
+<item id="1879091485" name="Наплечники Семи Звезд"/>
+<item id="1879091487" name="Плащ Семи Звезд"/>
 <bonus nbItems="2">
 <stat name="OCMR" scaling="1879052862"/>
 <stat name="FATE" scaling="1879085574"/>
@@ -316,13 +316,13 @@
 <stat name="FATE" scaling="1879049801"/>
 </bonus>
 </set>
-<set id="1879090937" name="Nenuial’s Vestments" level="50" description="">
-<item id="1879091488" name="Nenuial’s Gauntlets"/>
-<item id="1879091489" name="Nenuial’s Boots"/>
-<item id="1879091490" name="Nenuial’s Leggings"/>
-<item id="1879091491" name="Nenuial’s Jacket"/>
-<item id="1879091492" name="Nenuial’s Shoulders"/>
-<item id="1879091493" name="Nenuial’s Cloak"/>
+<set id="1879090937" name="Одежды Ненуиала" level="50" description="">
+<item id="1879091488" name="Рукавицы Ненуиала"/>
+<item id="1879091489" name="Сапоги Ненуиала"/>
+<item id="1879091490" name="Поножи Ненуиала"/>
+<item id="1879091491" name="Куртка Ненуиала"/>
+<item id="1879091492" name="Наплечники Ненуиала"/>
+<item id="1879091493" name="Плащ Ненуиала"/>
 <bonus nbItems="2">
 <stat name="OCMR" scaling="1879052862"/>
 <stat name="VITALITY" scaling="1879085571"/>
@@ -345,14 +345,14 @@
 <stat name="MORALE" scaling="1879049941"/>
 </bonus>
 </set>
-<set id="1879090938" name="Armour of the West-tower" level="50" description="">
-<item id="1879091494" name="Gauntlets of the West-tower"/>
-<item id="1879091495" name="Boots of the West-tower"/>
-<item id="1879091496" name="Leggings of the West-tower"/>
-<item id="1879091497" name="Breastplate of the West-tower"/>
-<item id="1879091498" name="Shoulders of the West-tower"/>
-<item id="1879093524" name="Cloak of the West-tower"/>
-<item id="1879091500" name="Shield of the West-tower"/>
+<set id="1879090938" name="Доспех Западной башни" level="50" description="">
+<item id="1879091494" name="Рукавицы Западной башни"/>
+<item id="1879091495" name="Сапоги Западной башни"/>
+<item id="1879091496" name="Поножи Западной башни"/>
+<item id="1879091497" name="Нагрудник Западной башни"/>
+<item id="1879091498" name="Наплечники Западной башни"/>
+<item id="1879093524" name="Плащ Западной башни"/>
+<item id="1879091500" name="Щит Западной башни"/>
 <bonus nbItems="2">
 <stat name="OCMR" scaling="1879052862"/>
 <stat name="MIGHT" scaling="1879085570"/>
@@ -375,12 +375,12 @@
 <stat name="POWER" scaling="1879049946"/>
 </bonus>
 </set>
-<set id="1879092331" name="Warden of Annúminas" level="48" description="Renowned defenders of the tombs of Annúminas receive such gifts.">
-<item id="1879092153" name="Warden's Earring"/>
-<item id="1879092143" name="Warden's Wrap"/>
-<item id="1879092158" name="Warden's Signet"/>
-<item id="1879092155" name="Warden's Necklace"/>
-<item id="1879092163" name="Warden's Shield"/>
+<set id="1879092331" name="Страж Аннуминаса" level="48" description="Дар упорному защитнику гробниц Аннуминаса.">
+<item id="1879092153" name="Серьга хранителя"/>
+<item id="1879092143" name="Накидка Стража"/>
+<item id="1879092158" name="Знак хранителя"/>
+<item id="1879092155" name="Ожерелье хранителя"/>
+<item id="1879092163" name="Щит наместника"/>
 <bonus nbItems="2">
 <stat name="Mood_Healing_Modifier" scaling="1879056724"/>
 </bonus>
@@ -388,12 +388,12 @@
 <stat name="Combat_Agent_Armor_Value" constant="125.0"/>
 </bonus>
 </set>
-<set id="1879092332" name="Sage of the Council" level="48" description="The Council grants such prizes to their wisest tacticians.">
-<item id="1879092162" name="Sage's Ring"/>
-<item id="1879092149" name="Sage's Wristlet"/>
-<item id="1879092157" name="Sage's Pendant"/>
-<item id="1879092167" name="Sage's Blade"/>
-<item id="1879092176" name="Sage's Staff"/>
+<set id="1879092332" name="Мудрец Совета" level="48" description="Совет дарует такие награды мудрейшим из своих стратегов.">
+<item id="1879092162" name="Кольцо мудреца"/>
+<item id="1879092149" name="Браслет мудреца"/>
+<item id="1879092157" name="Подвеска мудреца"/>
+<item id="1879092167" name="Клинок мудреца"/>
+<item id="1879092176" name="Посох мудреца"/>
 <bonus nbItems="2">
 <stat name="TACTICAL_CRITICAL_MULTIPLIER" scaling="1879089134"/>
 </bonus>
@@ -401,12 +401,12 @@
 <stat name="CRITICAL_TACTICAL_PERCENTAGE" scaling="1879089130"/>
 </bonus>
 </set>
-<set id="1879092333" name="Healer of Rivendell" level="48" description="Potent healers in Rivendell can expect potent rewards.">
-<item id="1879092146" name="Healer's Bracelet"/>
-<item id="1879092161" name="Healer's Ring"/>
-<item id="1879092159" name="Healer's Locket"/>
-<item id="1879092150" name="Healer's Earring"/>
-<item id="1879092164" name="Healer's Buckler"/>
+<set id="1879092333" name="Целитель из Ривенделла" level="48" description="Умелых целителей в Ривенделле ждут могущественные награды.">
+<item id="1879092146" name="Браслет целителя"/>
+<item id="1879092161" name="Кольцо целителя"/>
+<item id="1879092159" name="Медальон целителя"/>
+<item id="1879092150" name="Серьга целителя"/>
+<item id="1879092164" name="Щит целителя"/>
 <bonus nbItems="2">
 <stat name="POWER" scaling="1879049946"/>
 </bonus>
@@ -414,12 +414,12 @@
 <stat name="ThreatInputModifier_Healing" constant="-5.0"/>
 </bonus>
 </set>
-<set id="1879092334" name="Warrior of Rivendell" level="44" description="Powerful warriors in Rivendell can expect powerful rewards.">
-<item id="1879092148" name="Warrior's Bracer"/>
-<item id="1879092174" name="Warrior's Edge"/>
-<item id="1879092156" name="Warrior's Choker"/>
-<item id="1879092152" name="Warrior's Jewel"/>
-<item id="1879102181" name="Warrior's Blade"/>
+<set id="1879092334" name="Воитель из Ривенделла" level="44" description="В Ривенделле могучих воинов ждет великолепная награда.">
+<item id="1879092148" name="Браслет воина"/>
+<item id="1879092174" name="Лезвие Воина"/>
+<item id="1879092156" name="Короткое ожерелье воина"/>
+<item id="1879092152" name="Украшение воина"/>
+<item id="1879102181" name="Клинок воина"/>
 <bonus nbItems="2">
 <stat name="AGILITY" scaling="1879049909"/>
 </bonus>
@@ -428,23 +428,23 @@
 <stat name="AGILITY" scaling="1879085573"/>
 </bonus>
 </set>
-<set id="1879092335" name="Archer of the Council" level="48" description="The Council grants such prizes to their greatest scouts.">
-<item id="1879092171" name="Archer's Ally"/>
-<item id="1879092145" name="Archer's Cover"/>
-<item id="1879092147" name="Archer's Armlet"/>
-<item id="1879092151" name="Archer's Hoop"/>
-<item id="1879102182" name="Archer's Lance"/>
+<set id="1879092335" name="Лучник Совета" level="48" description="Дар Совета лучшему разведчику.">
+<item id="1879092171" name="Друг лучника"/>
+<item id="1879092145" name="Шлем лучника"/>
+<item id="1879092147" name="Повязка лучника"/>
+<item id="1879092151" name="Серьга лучника"/>
+<item id="1879102182" name="Копье лучника"/>
 <bonus nbItems="2">
 <stat name="AGILITY" scaling="1879049909"/>
 </bonus>
 <bonus nbItems="4">
-<stat name="Skill_ChanceEvade_RangedMod" operator="SUBSTRACT" descriptionOverride="Chance to Block or Evade your ranged attacks are reduced by 2%" constant="5.0"/>
+<stat name="Skill_ChanceEvade_RangedMod" operator="SUBSTRACT" descriptionOverride="Вероятность блокирования или уклонения от вашей дальней атаки снижена на 2%" constant="5.0"/>
 </bonus>
 </set>
-<set id="1879093385" name="Accoutrements of the Sluggard" level="43" description="">
-<item id="1879093384" name="Fellow's Robe"/>
-<item id="1879093382" name="Loafer's Hat"/>
-<item id="1879093321" name="Crest of the Blue Mountains"/>
+<set id="1879093385" name="Снаряжение лентяя" level="43" description="">
+<item id="1879093384" name="Мантия спутника"/>
+<item id="1879093382" name="Шляпа бездельника"/>
+<item id="1879093321" name="Навершие из Синих Гор"/>
 <bonus nbItems="2">
 <stat name="MORALE" scaling="1879051225"/>
 </bonus>
@@ -453,10 +453,10 @@
 <stat name="MORALE" scaling="1879049941"/>
 </bonus>
 </set>
-<set id="1879093480" name="Accessories of a Ranger" level="42" description="The destiny of the Rangers can almost be felt.">
-<item id="1879092154" name="Manadloch"/>
-<item id="1879092160" name="Stories of the Rangers"/>
-<item id="1879092144" name="Manadhgol"/>
+<set id="1879093480" name="Вещи следопыта" level="42" description="Надев этот плащ, вы словно примеряете на себя судьбу следопыта.">
+<item id="1879092154" name="Манадлок"/>
+<item id="1879092160" name="Истории следопытов"/>
+<item id="1879092144" name="Манадгол"/>
 <bonus nbItems="2">
 <stat name="FATE" scaling="1879085574"/>
 </bonus>
@@ -465,174 +465,174 @@
 <stat name="WILL" scaling="1879049503"/>
 </bonus>
 </set>
-<set id="1879094708" name="Elder Days Armour" level="50" description="This armour was granted as a reward for defending Eriador from the terror of Nûrz Gâshu.">
-<item id="1879094666" name="Gloves of the Elder Days"/>
-<item id="1879094667" name="Boots of the Elder Days"/>
-<item id="1879094668" name="Leggings of the Elder Days"/>
-<item id="1879094669" name="Robe of the Elder Days"/>
-<item id="1879094670" name="Shoulders of the Elder Days"/>
-<item id="1879094671" name="Hat of the Elder Days"/>
+<set id="1879094708" name="Одеяния древних времен" level="50" description="Эти доспехи - награда за спасение Эриадора от ужаса, таившегося в Разломе Нурз Гхашу.">
+<item id="1879094666" name="Перчатки древних времен"/>
+<item id="1879094667" name="Сапоги древних времен"/>
+<item id="1879094668" name="Поножи древних времен"/>
+<item id="1879094669" name="Мантия древних времен"/>
+<item id="1879094670" name="Наплечники древних времен"/>
+<item id="1879094671" name="Шляпа древних времен"/>
 <bonus nbItems="2">
-<stat name="Skill_RiftSet_Absorb_Shadow" descriptionOverride="3% Disperse Shadow Chance" constant="2.0"/>
+<stat name="Skill_RiftSet_Absorb_Shadow" descriptionOverride="3% вероятность рассеять Тьму" constant="2.0"/>
 <stat name="WILL" scaling="1879049503"/>
 </bonus>
 <bonus nbItems="4">
-<stat name="Skill_RiftSet_Absorb_Shadow" descriptionOverride="10% Disperse Shadow Chance" constant="7.0"/>
-<stat name="Skill_PowerCost_Stormlore" descriptionOverride="-50% Storm-lore Power Cost" constant="-50.0"/>
+<stat name="Skill_RiftSet_Absorb_Shadow" descriptionOverride="10% вероятность рассеять Тьму" constant="7.0"/>
+<stat name="Skill_PowerCost_Stormlore" descriptionOverride="-50% к стоимости умения \qВласть над громом\q" constant="-50.0"/>
 </bonus>
 <bonus nbItems="6">
-<stat name="Skill_RiftSet_Absorb_Shadow" descriptionOverride="25% Disperse Shadow Chance" constant="15.000001"/>
-<stat name="Skill_LightningBurst_LoreMaster_RecoveryTime" descriptionOverride="-20% Lightning Burst Recovery Time" constant="-60.0"/>
+<stat name="Skill_RiftSet_Absorb_Shadow" descriptionOverride="25% вероятность рассеять Тьму" constant="15.000001"/>
+<stat name="Skill_LightningBurst_LoreMaster_RecoveryTime" descriptionOverride="-20% ко времени восстановления умения \qГрозовая буря\q" constant="-60.0"/>
 </bonus>
 </set>
-<set id="1879094709" name="Armour of the Wandering Bard" level="50" description="This armour was granted as a reward for defending Eriador from the terror of Nûrz Gâshu.">
-<item id="1879094672" name="Wandering Bard's Gloves"/>
-<item id="1879094673" name="Wandering Bard's Boots"/>
-<item id="1879094674" name="Wandering Bard's Leggings"/>
-<item id="1879094675" name="Wandering Bard's Robe"/>
-<item id="1879094676" name="Wandering Bard's Shoulders"/>
-<item id="1879094677" name="Wandering Bard's Helm"/>
+<set id="1879094709" name="Одеяния странствующего барда" level="50" description="Эти доспехи - награда за спасение Эриадора от ужаса, таившегося в Разломе Нурз Гхашу.">
+<item id="1879094672" name="Перчатки странствующего барда"/>
+<item id="1879094673" name="Сапоги странствующего барда"/>
+<item id="1879094674" name="Поножи странствующего барда"/>
+<item id="1879094675" name="Мантия странствующего барда"/>
+<item id="1879094676" name="Наплечники странствующего барда"/>
+<item id="1879094677" name="Шлем странствующего барда"/>
 <bonus nbItems="2">
-<stat name="Skill_RiftSet_Absorb_Shadow" descriptionOverride="3% Disperse Shadow Chance" constant="2.0"/>
+<stat name="Skill_RiftSet_Absorb_Shadow" descriptionOverride="3% вероятность рассеять Тьму" constant="2.0"/>
 <stat name="FATE" scaling="1879049801"/>
 </bonus>
 <bonus nbItems="4">
-<stat name="Skill_RiftSet_Absorb_Shadow" descriptionOverride="10% Disperse Shadow Chance" constant="7.0"/>
-<stat name="Skill_TriumphantSpirit_Minstrel_Threat" descriptionOverride="Triumphant Spirit generates less threat." constant="-50000.0"/>
+<stat name="Skill_RiftSet_Absorb_Shadow" descriptionOverride="10% вероятность рассеять Тьму" constant="7.0"/>
+<stat name="Skill_TriumphantSpirit_Minstrel_Threat" descriptionOverride="Снижена угроза от \qТоржества духа\q" constant="-50000.0"/>
 </bonus>
 <bonus nbItems="6">
-<stat name="Skill_RiftSet_Absorb_Shadow" descriptionOverride="25% Disperse Shadow Chance" constant="15.000001"/>
+<stat name="Skill_RiftSet_Absorb_Shadow" descriptionOverride="25% вероятность рассеять Тьму" constant="15.000001"/>
 </bonus>
 </set>
-<set id="1879094710" name="Doom-hunter's Armour" level="50" description="This armour was granted as a reward for defending Eriador from the terror of Nûrz Gâshu.">
-<item id="1879094678" name="Doom-hunter's Gloves"/>
-<item id="1879094679" name="Doom-hunter's Boots"/>
-<item id="1879094680" name="Doom-hunter's Leggings"/>
-<item id="1879094681" name="Doom-hunter's Breastplate"/>
-<item id="1879094682" name="Doom-hunter's Shoulders"/>
-<item id="1879094683" name="Doom-hunter's Helm"/>
+<set id="1879094710" name="Доспехи охотника рока" level="50" description="Эти доспехи - награда за спасение Эриадора от ужаса, таившегося в Разломе Нурз Гхашу.">
+<item id="1879094678" name="Перчатки охотника рока"/>
+<item id="1879094679" name="Сапоги охотника рока"/>
+<item id="1879094680" name="Поножи охотника рока"/>
+<item id="1879094681" name="Кираса охотника рока"/>
+<item id="1879094682" name="Наплечники охотника рока"/>
+<item id="1879094683" name="Шлем охотника рока"/>
 <bonus nbItems="2">
-<stat name="Skill_RiftSet_Absorb_Shadow" descriptionOverride="3% Disperse Shadow Chance" constant="2.0"/>
+<stat name="Skill_RiftSet_Absorb_Shadow" descriptionOverride="3% вероятность рассеять Тьму" constant="2.0"/>
 <stat name="AGILITY" scaling="1879049909"/>
 </bonus>
 <bonus nbItems="4">
-<stat name="Skill_RiftSet_Absorb_Shadow" descriptionOverride="10% Disperse Shadow Chance" constant="7.0"/>
+<stat name="Skill_RiftSet_Absorb_Shadow" descriptionOverride="10% вероятность рассеять Тьму" constant="7.0"/>
 <stat name="Skill_HeartSeeker_Hunter_PowerCost" constant="-50.0"/>
 </bonus>
 <bonus nbItems="6">
-<stat name="Skill_RiftSet_Absorb_Shadow" descriptionOverride="25% Disperse Shadow Chance" constant="15.000001"/>
+<stat name="Skill_RiftSet_Absorb_Shadow" descriptionOverride="25% вероятность рассеять Тьму" constant="15.000001"/>
 <stat name="Skill_PenetratingShot_Hunter_PowerCost" constant="-18.0"/>
 </bonus>
 </set>
-<set id="1879094711" name="Thrill-seeker's Armour" level="50" description="This armour was granted as a reward for defending Eriador from the terror of Nûrz Gâshu.">
-<item id="1879094684" name="Thrill-seeker's Gloves"/>
-<item id="1879094685" name="Thrill-seeker's Boots"/>
-<item id="1879094686" name="Thrill-seeker's Leggings"/>
-<item id="1879094687" name="Thrill-seeker's Jacket"/>
-<item id="1879094688" name="Thrill-seeker's Shoulders"/>
-<item id="1879094689" name="Thrill-seeker's Helm"/>
+<set id="1879094711" name="Доспехи искателя приключений" level="50" description="Эти доспехи - награда за спасение Эриадора от ужаса, таившегося в Разломе Нурз Гхашу.">
+<item id="1879094684" name="Перчатки искателя приключений"/>
+<item id="1879094685" name="Сапоги искателя приключений"/>
+<item id="1879094686" name="Поножи искателя приключений"/>
+<item id="1879094687" name="Куртка искателя приключений"/>
+<item id="1879094688" name="Наплечники искателя приключений"/>
+<item id="1879094689" name="Шлем искателя приключений"/>
 <bonus nbItems="2">
-<stat name="Skill_RiftSet_Absorb_Shadow" descriptionOverride="3% Disperse Shadow Chance" constant="2.0"/>
+<stat name="Skill_RiftSet_Absorb_Shadow" descriptionOverride="3% вероятность рассеять Тьму" constant="2.0"/>
 <stat name="AGILITY" scaling="1879049909"/>
 </bonus>
 <bonus nbItems="4">
-<stat name="Skill_RiftSet_Absorb_Shadow" descriptionOverride="10% Disperse Shadow Chance" constant="7.0"/>
+<stat name="Skill_RiftSet_Absorb_Shadow" descriptionOverride="10% вероятность рассеять Тьму" constant="7.0"/>
 <stat name="TRICKS_POWER_COST_PERCENTAGE" constant="-50.0"/>
 </bonus>
 <bonus nbItems="6">
-<stat name="Skill_RiftSet_Absorb_Shadow" descriptionOverride="25% Disperse Shadow Chance" constant="15.000001"/>
+<stat name="Skill_RiftSet_Absorb_Shadow" descriptionOverride="25% вероятность рассеять Тьму" constant="15.000001"/>
 <stat name="Skill_CunningStrike_Burglar_CriticalDamage" constant="25.0"/>
 </bonus>
 </set>
-<set id="1879094712" name="Armour of the North Star" level="50" description="This armour was granted as a reward for defending Eriador from the terror of Nûrz Gâshu.">
-<item id="1879094690" name="Gloves of the North Star"/>
-<item id="1879094691" name="Boots of the North Star"/>
-<item id="1879094692" name="Leggings of the North Star"/>
-<item id="1879094693" name="Breastplate of the North Star"/>
-<item id="1879094694" name="Shoulders of the North Star"/>
-<item id="1879094695" name="Helm of the North Star"/>
+<set id="1879094712" name="Доспехи северной звезды" level="50" description="Эти доспехи - награда за спасение Эриадора от ужаса, таившегося в Разломе Нурз Гхашу.">
+<item id="1879094690" name="Перчатки северной звезды"/>
+<item id="1879094691" name="Сапоги северной звезды"/>
+<item id="1879094692" name="Поножи северной звезды"/>
+<item id="1879094693" name="Кираса северной звезды"/>
+<item id="1879094694" name="Наплечники северной звезды"/>
+<item id="1879094695" name="Шлем северной звезды"/>
 <bonus nbItems="2">
-<stat name="Skill_RiftSet_Absorb_Shadow" descriptionOverride="3% Disperse Shadow Chance" constant="2.0"/>
+<stat name="Skill_RiftSet_Absorb_Shadow" descriptionOverride="3% вероятность рассеять Тьму" constant="2.0"/>
 <stat name="MIGHT" scaling="1879049945"/>
 </bonus>
 <bonus nbItems="4">
-<stat name="Skill_RiftSet_Absorb_Shadow" descriptionOverride="10% Disperse Shadow Chance" constant="7.0"/>
-<stat name="Skill_RiftSet_InductionDuration_Captain_CombatRezz" operator="MULTIPLY" descriptionOverride="Escape from Darkness is instant-cast." constant="0.001"/>
+<stat name="Skill_RiftSet_Absorb_Shadow" descriptionOverride="10% вероятность рассеять Тьму" constant="7.0"/>
+<stat name="Skill_RiftSet_InductionDuration_Captain_CombatRezz" operator="MULTIPLY" descriptionOverride="\qПобег от Тьмы\q становится умением мгновенного действия." constant="0.001"/>
 </bonus>
 <bonus nbItems="6">
-<stat name="Skill_RiftSet_Absorb_Shadow" descriptionOverride="25% Disperse Shadow Chance" constant="15.000001"/>
+<stat name="Skill_RiftSet_Absorb_Shadow" descriptionOverride="25% вероятность рассеять Тьму" constant="15.000001"/>
 </bonus>
 </set>
-<set id="1879094713" name="Rift-defender's Armour" level="50" description="This armour was granted as a reward for defending Eriador from the terror of Nûrz Gâshu.">
-<item id="1879094696" name="Rift-defender's Gloves"/>
-<item id="1879094697" name="Rift-defender's Boots"/>
-<item id="1879094698" name="Rift-defender's Leggings"/>
-<item id="1879094699" name="Rift-defender's Breastplate"/>
-<item id="1879094700" name="Rift-defender's Shoulders"/>
-<item id="1879094701" name="Rift-defender's Helm"/>
+<set id="1879094713" name="Доспехи защитника Разлома" level="50" description="Эти доспехи - награда за спасение Эриадора от ужаса, таившегося в Разломе Нурз Гхашу.">
+<item id="1879094696" name="Перчатки защитника Разлома"/>
+<item id="1879094697" name="Сапоги защитника Разлома"/>
+<item id="1879094698" name="Поножи защитника Разлома"/>
+<item id="1879094699" name="Кираса защитника Разлома"/>
+<item id="1879094700" name="Наплечники защитника Разлома"/>
+<item id="1879094701" name="Шлем защитника Разлома"/>
 <bonus nbItems="2">
-<stat name="Skill_RiftSet_Absorb_Shadow" descriptionOverride="3% Disperse Shadow Chance" constant="2.0"/>
+<stat name="Skill_RiftSet_Absorb_Shadow" descriptionOverride="3% вероятность рассеять Тьму" constant="2.0"/>
 <stat name="VITALITY" scaling="1879049943"/>
 </bonus>
 <bonus nbItems="4">
-<stat name="Skill_RiftSet_Absorb_Shadow" descriptionOverride="10% Disperse Shadow Chance" constant="7.0"/>
-<stat name="Skill_CatchBreath_Guardian_PowerCost" descriptionOverride="-15% Catch a Breath Power Cost" constant="-15.000001"/>
+<stat name="Skill_RiftSet_Absorb_Shadow" descriptionOverride="10% вероятность рассеять Тьму" constant="7.0"/>
+<stat name="Skill_CatchBreath_Guardian_PowerCost" descriptionOverride="-15% к стоимости умения \qПередышка\q" constant="-15.000001"/>
 </bonus>
 <bonus nbItems="6">
-<stat name="Skill_RiftSet_Absorb_Shadow" descriptionOverride="25% Disperse Shadow Chance" constant="15.000001"/>
-<stat name="Skill_RecoveryTime_Trait_Guardian_improvedthrill" descriptionOverride="-20% Thrill of Danger Recovery Time" constant="-84.0"/>
+<stat name="Skill_RiftSet_Absorb_Shadow" descriptionOverride="25% вероятность рассеять Тьму" constant="15.000001"/>
+<stat name="Skill_RecoveryTime_Trait_Guardian_improvedthrill" descriptionOverride="-20% к времени восстановления умения \qНаслаждение опасностью\q" constant="-84.0"/>
 </bonus>
 </set>
-<set id="1879094714" name="Armour of the Gloom-bane" level="50" description="This armour was granted as a reward for defending Eriador from the terror of Nûrz Gâshu.">
-<item id="1879094702" name="Gloves of the Gloom-bane"/>
-<item id="1879094703" name="Boots of the Gloom-bane"/>
-<item id="1879094704" name="Leggings of the Gloom-bane"/>
-<item id="1879094705" name="Breastplate of the Gloom-bane"/>
-<item id="1879094706" name="Shoulders of the Gloom-bane"/>
-<item id="1879094707" name="Helm of the Gloom-bane"/>
+<set id="1879094714" name="Доспехи победителя тьмы" level="50" description="Эти доспехи - награда за спасение Эриадора от ужаса, таившегося в Разломе Нурз Гхашу.">
+<item id="1879094702" name="Перчатки победителя Тьмы"/>
+<item id="1879094703" name="Сапоги победителя Тьмы"/>
+<item id="1879094704" name="Поножи победителя Тьмы"/>
+<item id="1879094705" name="Кираса победителя Тьмы"/>
+<item id="1879094706" name="Наплечники победителя Тьмы"/>
+<item id="1879094707" name="Шлем победителя Тьмы"/>
 <bonus nbItems="2">
-<stat name="Skill_RiftSet_Absorb_Shadow" descriptionOverride="3% Disperse Shadow Chance" constant="2.0"/>
+<stat name="Skill_RiftSet_Absorb_Shadow" descriptionOverride="3% вероятность рассеять Тьму" constant="2.0"/>
 <stat name="MIGHT" scaling="1879049945"/>
 </bonus>
 <bonus nbItems="4">
-<stat name="Skill_RiftSet_Absorb_Shadow" descriptionOverride="10% Disperse Shadow Chance" constant="7.0"/>
-<stat name="Skill_Glory_Champion_Threat" descriptionOverride="+10% Glory Threat" constant="10.0"/>
+<stat name="Skill_RiftSet_Absorb_Shadow" descriptionOverride="10% вероятность рассеять Тьму" constant="7.0"/>
+<stat name="Skill_Glory_Champion_Threat" descriptionOverride="+10% к скорости набора угрозы с \qОреолом славы\q" constant="10.0"/>
 </bonus>
 <bonus nbItems="6">
-<stat name="Skill_RiftSet_Absorb_Shadow" descriptionOverride="25% Disperse Shadow Chance" constant="15.000001"/>
-<stat name="Skill_Glory_Champion_Damage" descriptionOverride="+5% Glory Melee Damage" constant="-5.0"/>
+<stat name="Skill_RiftSet_Absorb_Shadow" descriptionOverride="25% вероятность рассеять Тьму" constant="15.000001"/>
+<stat name="Skill_Glory_Champion_Damage" descriptionOverride="+5% к урону с \qОреолом славы\q" constant="-5.0"/>
 </bonus>
 </set>
-<set id="1879099148" name="Amban's Steel" level="50" description="">
-<item id="1879099136" name="Istuigon's Helm"/>
-<item id="1879099137" name="Himhúl's Shoulder"/>
+<set id="1879099148" name="Сталь Амбана" level="50" description="">
+<item id="1879099136" name="Шлем Истуигона"/>
+<item id="1879099137" name="Наплечник Химгула"/>
 <bonus nbItems="2">
 <stat name="MIGHT" scaling="1879049945"/>
 <stat name="VITALITY" scaling="1879049943"/>
 <stat name="MORALE" scaling="1879093525"/>
 </bonus>
 </set>
-<set id="1879099149" name="Will of the Rangers" level="50" description="">
-<item id="1879099145" name="Ranger-make Ring"/>
-<item id="1879099143" name="Ranger-make Earring"/>
+<set id="1879099149" name="Воля следопытов" level="50" description="">
+<item id="1879099145" name="Кольцо следопыта"/>
+<item id="1879099143" name="Серьга следопыта"/>
 <bonus nbItems="2">
 <stat name="VITALITY" scaling="1879049943"/>
 <stat name="FATE" scaling="1879049801"/>
 <stat name="MORALE" scaling="1879093525"/>
 </bonus>
 </set>
-<set id="1879099150" name="Spirit of the Rangers" level="50" description="">
-<item id="1879099142" name="Ranger-make Bracelet"/>
-<item id="1879099144" name="Ranger-make Charm"/>
+<set id="1879099150" name="Дух следопытов" level="50" description="">
+<item id="1879099142" name="Браслет следопыта"/>
+<item id="1879099144" name="Талисман следопыта"/>
 <bonus nbItems="2">
 <stat name="WILL" scaling="1879049503"/>
 <stat name="FATE" scaling="1879049801"/>
 <stat name="POWER" scaling="1879093527"/>
 </bonus>
 </set>
-<set id="1879099151" name="Treasure of the Eldgang" level="50" description="">
-<item id="1879099147" name="Glorfindel’s Band"/>
-<item id="1879099146" name="Soot-covered Ring"/>
+<set id="1879099151" name="Сокровище Эльдгангов" level="50" description="">
+<item id="1879099147" name="Кольцо Глорфиндела"/>
+<item id="1879099146" name="Покрытое копотью кольцо"/>
 <bonus nbItems="2">
 <stat name="VITALITY" scaling="1879051151"/>
 <stat name="WILL" scaling="1879049917"/>
@@ -640,36 +640,36 @@
 <stat name="POWER" scaling="1879049946"/>
 </bonus>
 </set>
-<set id="1879099152" name="Amban's Cloth" level="50" description="">
-<item id="1879099139" name="Arodinnas' Gloves"/>
-<item id="1879099138" name="Faradwon's Robe"/>
+<set id="1879099152" name="Одеяние Амбана" level="50" description="">
+<item id="1879099139" name="Перчатки Ародиннаса"/>
+<item id="1879099138" name="Мантия Фарадвона"/>
 <bonus nbItems="2">
 <stat name="VITALITY" scaling="1879049943"/>
 <stat name="WILL" scaling="1879049503"/>
 <stat name="POWER" scaling="1879093527"/>
 </bonus>
 </set>
-<set id="1879099153" name="Amban's Leather" level="50" description="">
-<item id="1879099141" name="Forgamdir's Leggings"/>
-<item id="1879099140" name="Rudhrod's Boots"/>
+<set id="1879099153" name="Кожаные доспехи Амбана" level="50" description="">
+<item id="1879099141" name="Поножи Форгамдира"/>
+<item id="1879099140" name="Сапоги Рудрода"/>
 <bonus nbItems="2">
 <stat name="AGILITY" scaling="1879049909"/>
 <stat name="VITALITY" scaling="1879049943"/>
 <stat name="MORALE" scaling="1879093525"/>
 </bonus>
 </set>
-<set id="1879102183" name="Tarchathol and Tarnaith" level="48" description="">
-<item id="1879102168" name="Tarnaith"/>
-<item id="1879102156" name="Tarchathol"/>
+<set id="1879102183" name="Тархатол и Тарнайт" level="48" description="">
+<item id="1879102168" name="Тарнайт"/>
+<item id="1879102156" name="Тархатол"/>
 <bonus nbItems="2">
 <stat name="MORALE" scaling="1879049941"/>
 <stat name="VITALITY" scaling="1879051151"/>
 </bonus>
 </set>
-<set id="1879102184" name="Trinkets of Virtue" level="48" description="">
-<item id="1879102128" name="Armlet of Virtue"/>
-<item id="1879102127" name="Bracelet of Virtue"/>
-<item id="1879102136" name="Trinket of Virtue"/>
+<set id="1879102184" name="Украшения добродетели" level="48" description="">
+<item id="1879102128" name="Наруч добродетели"/>
+<item id="1879102127" name="Браслет добродетели"/>
+<item id="1879102136" name="Медальон добродетели"/>
 <bonus nbItems="2">
 <stat name="MORALE" scaling="1879093525"/>
 </bonus>
@@ -678,17 +678,17 @@
 <stat name="VITALITY" scaling="1879049943"/>
 </bonus>
 </set>
-<set id="1879102185" name="Avorhigil and Avorlang" level="48" description="">
-<item id="1879102160" name="Avorlang"/>
-<item id="1879102166" name="Avorhigil"/>
+<set id="1879102185" name="Аворхигил и Аворланг" level="48" description="">
+<item id="1879102160" name="Аворланг"/>
+<item id="1879102166" name="Аворхигил"/>
 <bonus nbItems="2">
 <stat name="CRITICAL_MELEE_PERCENTAGE" scaling="1879052865"/>
 </bonus>
 </set>
-<set id="1879102186" name="Trinkets of Skill" level="48" description="">
-<item id="1879102131" name="Jewel of Skill"/>
-<item id="1879102130" name="Earring of Skill"/>
-<item id="1879102137" name="Trinket of Skill"/>
+<set id="1879102186" name="Подвески мастера" level="48" description="">
+<item id="1879102131" name="Бриллиант мастерства"/>
+<item id="1879102130" name="Серьга мастерства"/>
+<item id="1879102137" name="Медальон мастерства"/>
 <bonus nbItems="2">
 <stat name="POWER" scaling="1879093527"/>
 </bonus>
@@ -697,34 +697,34 @@
 <stat name="AGILITY" scaling="1879049909"/>
 </bonus>
 </set>
-<set id="1879102187" name="Curunam and Mirúr" level="48" description="">
-<item id="1879102163" name="Curunam"/>
-<item id="1879102133" name="Mirúr"/>
+<set id="1879102187" name="Курунам и Мирур" level="48" description="">
+<item id="1879102163" name="Курунам"/>
+<item id="1879102133" name="Мирур"/>
 <bonus nbItems="2">
 <stat name="PARRY_PERCENTAGE" scaling="1879051217"/>
 <stat name="EVADE_PERCENTAGE" scaling="1879052970"/>
 </bonus>
 </set>
-<set id="1879102188" name="Túramath and Brogronn" level="48" description="">
-<item id="1879102193" name="Túramath"/>
-<item id="1879102157" name="Brogronn"/>
+<set id="1879102188" name="Турамат и Брогронн" level="48" description="">
+<item id="1879102193" name="Турамат"/>
+<item id="1879102157" name="Брогронн"/>
 <bonus nbItems="2">
 <stat name="BLOCK_PERCENTAGE" scaling="1879055469"/>
 <stat name="VITALITY" scaling="1879049943"/>
 </bonus>
 </set>
-<set id="1879102189" name="Amarthan and Amarthdram" level="48" description="">
-<item id="1879102194" name="Amarthan"/>
-<item id="1879102158" name="Amarthdram"/>
+<set id="1879102189" name="Амартан и Амартдрам" level="48" description="">
+<item id="1879102194" name="Амартан"/>
+<item id="1879102158" name="Амартдрам"/>
 <bonus nbItems="2">
 <stat name="BLOCK_PERCENTAGE" scaling="1879055469"/>
 <stat name="ICPR" scaling="1879053130"/>
 </bonus>
 </set>
-<set id="1879102190" name="Forest-walker's Apparel" level="45" description="">
-<item id="1879102118" name="Armour of the Forest"/>
-<item id="1879102120" name="Forest-walker"/>
-<item id="1879102146" name="Forest-walker's Ear"/>
+<set id="1879102190" name="Снаряжение лесного странника" level="45" description="">
+<item id="1879102118" name="Доспехи леса"/>
+<item id="1879102120" name="Лесные странники"/>
+<item id="1879102146" name="Серьга лесного странника"/>
 <bonus nbItems="2">
 <stat name="AGILITY" scaling="1879085573"/>
 </bonus>
@@ -732,10 +732,10 @@
 <stat name="MIGHT" scaling="1879051150"/>
 </bonus>
 </set>
-<set id="1879102191" name="Vestment's of the Grove" level="45" description="">
-<item id="1879102121" name="Robe of the Grove"/>
-<item id="1879102122" name="Grove-tender's Gloves"/>
-<item id="1879102151" name="Ring of the Grove"/>
+<set id="1879102191" name="Одеяния рощи" level="45" description="">
+<item id="1879102121" name="Мантия рощи"/>
+<item id="1879102122" name="Перчатки хранителя рощи"/>
+<item id="1879102151" name="Кольцо рощи"/>
 <bonus nbItems="2">
 <stat name="VITALITY" scaling="1879085571"/>
 </bonus>
@@ -743,10 +743,10 @@
 <stat name="FATE" scaling="1879051158"/>
 </bonus>
 </set>
-<set id="1879102192" name="Garb of the Woods" level="45" description="">
-<item id="1879102125" name="Woodlands Jacket"/>
-<item id="1879102126" name="Shoulders of the Woods"/>
-<item id="1879102143" name="Band of the Woods"/>
+<set id="1879102192" name="Одежды леса" level="45" description="">
+<item id="1879102125" name="Куртка леса"/>
+<item id="1879102126" name="Плечи леса"/>
+<item id="1879102143" name="Браслет леса"/>
 <bonus nbItems="2">
 <stat name="MIGHT" scaling="1879085570"/>
 </bonus>

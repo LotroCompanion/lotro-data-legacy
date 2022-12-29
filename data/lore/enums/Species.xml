@@ -1,93 +1,93 @@
 <?xml version="1.0" encoding="UTF-8"?><enum id="587202571" name="Agent_Species">
-<entry code="1" name="Wraith"/>
-<entry code="2" name="PaleFolk"/>
-<entry code="3" name="Decayed"/>
-<entry code="4" name="Dark Wose"/>
-<entry code="5" name="Aurochs"/>
-<entry code="6" name="Uruk"/>
-<entry code="7" name="Orc"/>
-<entry code="8" name="Half-orc"/>
-<entry code="9" name="Dread Turtle"/>
-<entry code="10" name="Bear"/>
-<entry code="11" name="Fell Beast"/>
-<entry code="12" name="Spider"/>
-<entry code="13" name="Cave-claw"/>
-<entry code="14" name="Snatchers"/>
-<entry code="15" name="Darkwater"/>
-<entry code="16" name="Brigand"/>
-<entry code="17" name="Wood Troll"/>
-<entry code="18" name="Bat"/>
-<entry code="19" name="Were-creatures"/>
-<entry code="20" name="Shrew"/>
-<entry code="21" name="Nameless"/>
-<entry code="22" name="Gorthorog"/>
-<entry code="23" name="Man"/>
-<entry code="24" name="Wolf"/>
-<entry code="25" name="Toad"/>
-<entry code="26" name="Rat"/>
-<entry code="27" name="Critter"/>
-<entry code="28" name="Siegecraft"/>
-<entry code="29" name="Roots"/>
-<entry code="30" name="Rogmul"/>
-<entry code="31" name="Raug"/>
-<entry code="32" name="Huorn"/>
-<entry code="33" name="Dwarf Brigand"/>
-<entry code="34" name="Boar"/>
-<entry code="35" name="Snowbeast"/>
-<entry code="36" name="Raven"/>
-<entry code="37" name="Morroval"/>
-<entry code="38" name="Crawler"/>
-<entry code="39" name="Angmarim"/>
-<entry code="40" name="Wolverine"/>
-<entry code="41" name="Wight"/>
-<entry code="42" name="River-maid"/>
-<entry code="43" name="Hendroval"/>
-<entry code="44" name="Drake"/>
-<entry code="45" name="Crafting"/>
-<entry code="46" name="Dragon"/>
-<entry code="47" name="Troll"/>
-<entry code="48" name="Sickle-fly"/>
-<entry code="49" name="Neekerbreeker"/>
-<entry code="50" name="Earth-kin"/>
+<entry code="1" name="Привидение"/>
+<entry code="2" name="Бледнокожий"/>
+<entry code="3" name="Разлагающийся труп"/>
+<entry code="4" name="Темный сгусток"/>
+<entry code="5" name="Тур"/>
+<entry code="6" name="Урук"/>
+<entry code="7" name="Орк"/>
+<entry code="8" name="Полуорк"/>
+<entry code="9" name="Ужасная черепаха"/>
+<entry code="10" name="Медведь"/>
+<entry code="11" name="Создание скверны"/>
+<entry code="12" name="Паук"/>
+<entry code="13" name="Когтерой"/>
+<entry code="14" name="Хват"/>
+<entry code="15" name="Темное изводье"/>
+<entry code="16" name="Разбойник"/>
+<entry code="17" name="Лесной тролль"/>
+<entry code="18" name="Летучая мышь"/>
+<entry code="19" name="Оборотень"/>
+<entry code="20" name="Землеройка"/>
+<entry code="21" name="Безымянный"/>
+<entry code="22" name="Горторог"/>
+<entry code="23" name="Человек"/>
+<entry code="24" name="Волк"/>
+<entry code="25" name="Жаба"/>
+<entry code="26" name="Крыса"/>
+<entry code="27" name="Зверек"/>
+<entry code="28" name="Искусство осады"/>
+<entry code="29" name="Корни"/>
+<entry code="30" name="Рогмул"/>
+<entry code="31" name="Рауг"/>
+<entry code="32" name="Гворн"/>
+<entry code="33" name="Гном-разбойник"/>
+<entry code="34" name="Вепрь"/>
+<entry code="35" name="Снежный хищник"/>
+<entry code="36" name="Ворон"/>
+<entry code="37" name="Морроваль"/>
+<entry code="38" name="Сколопендра"/>
+<entry code="39" name="Ангмарец"/>
+<entry code="40" name="Росомаха"/>
+<entry code="41" name="Умертвие"/>
+<entry code="42" name="Речная Дева"/>
+<entry code="43" name="Эндровал"/>
+<entry code="44" name="Драконид"/>
+<entry code="45" name="Товары для ремесел"/>
+<entry code="46" name="Дракон"/>
+<entry code="47" name="Тролль"/>
+<entry code="48" name="Муха-серпица"/>
+<entry code="49" name="Кровопросец"/>
+<entry code="50" name="Сын земли"/>
 <entry code="51" name="BogLurker"/>
-<entry code="52" name="Warg-rider"/>
-<entry code="53" name="Shade"/>
-<entry code="54" name="Giant"/>
-<entry code="55" name="Gaunt Man"/>
-<entry code="56" name="Corpse-candle"/>
-<entry code="57" name="Barghest"/>
-<entry code="58" name="Siegecraft"/>
-<entry code="59" name="Siegecraft"/>
-<entry code="60" name="Mammoth"/>
-<entry code="61" name="Hill-man"/>
-<entry code="62" name="Hill-man"/>
-<entry code="63" name="Goblin"/>
-<entry code="64" name="Ent"/>
-<entry code="65" name="Elf"/>
-<entry code="66" name="Warg"/>
-<entry code="67" name="Ogre"/>
-<entry code="68" name="Nazgul"/>
-<entry code="69" name="Etten"/>
-<entry code="70" name="Worm"/>
-<entry code="71" name="Insect Clouds"/>
-<entry code="72" name="Badger"/>
-<entry code="73" name="Dwarf"/>
-<entry code="74" name="Ranger"/>
-<entry code="75" name="Lynx"/>
-<entry code="76" name="Elemental Force"/>
-<entry code="77" name="Eagle"/>
-<entry code="78" name="Craban"/>
-<entry code="79" name="Watching-stones"/>
-<entry code="80" name="Slug"/>
-<entry code="81" name="Hobbit"/>
+<entry code="52" name="Наездник на варге"/>
+<entry code="53" name="Тень"/>
+<entry code="54" name="Великан"/>
+<entry code="55" name="Умрун"/>
+<entry code="56" name="Блуждающий огонь"/>
+<entry code="57" name="Баргест"/>
+<entry code="58" name="Искусство осады"/>
+<entry code="59" name="Искусство осады"/>
+<entry code="60" name="Мамонт"/>
+<entry code="61" name="Горец"/>
+<entry code="62" name="Горец"/>
+<entry code="63" name="Гоблин"/>
+<entry code="64" name="Энт"/>
+<entry code="65" name="Эльф"/>
+<entry code="66" name="Варг"/>
+<entry code="67" name="Людоед"/>
+<entry code="68" name="Назгул"/>
+<entry code="69" name="Эттен"/>
+<entry code="70" name="Ящер"/>
+<entry code="71" name="Рой насекомых"/>
+<entry code="72" name="Барсук"/>
+<entry code="73" name="Гном"/>
+<entry code="74" name="Следопыт"/>
+<entry code="75" name="Рысь"/>
+<entry code="76" name="Стихийник"/>
+<entry code="77" name="Орел"/>
+<entry code="78" name="Кребан"/>
+<entry code="79" name="Сторожевой камень"/>
+<entry code="80" name="Слизень"/>
+<entry code="81" name="Хоббит"/>
 <entry code="82" name="PLACEHOLDER"/>
-<entry code="83" name="Ghost"/>
-<entry code="84" name="Wizard"/>
-<entry code="85" name="Earth-kin"/>
-<entry code="86" name="Snake"/>
-<entry code="87" name="Gauradan"/>
-<entry code="88" name="Kergrim"/>
-<entry code="89" name="Salamander"/>
-<entry code="90" name="Elk"/>
-<entry code="92" name="Illusion"/>
+<entry code="83" name="Призрак"/>
+<entry code="84" name="Маг"/>
+<entry code="85" name="Сын земли"/>
+<entry code="86" name="Змея"/>
+<entry code="87" name="Гаурадан"/>
+<entry code="88" name="Кергрим"/>
+<entry code="89" name="Саламандра"/>
+<entry code="90" name="Марал"/>
+<entry code="92" name="Иллюзия"/>
 </enum>
