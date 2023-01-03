@@ -420,6 +420,10 @@
 <consumable identifier="1879068266" name="Greater Fire-oil" iconId="1090532008-1090519041-1090532009" class="17">
 <stat name="ForwardSource_ComboMode_Hunter_DamageType" operator="SET" constant="39.0"/>
 </consumable>
+<consumable identifier="1879068275" name="Basic Caltrops" iconId="1090524206-1090524208-1090524207" class="50">
+<stat name="ForwardSource_Movement_SpeedMultiplier" operator="SUBSTRACT" descriptionOverride="Slows movement speed by 25%" constant="25.0"/>
+<stat name="ForwardSource_Movement_MountSpeedMultiplier" operator="SUBSTRACT" constant="25.0"/>
+</consumable>
 <consumable identifier="1879070102" name="Light-oil" iconId="1090537233-1090519041-1090537234" class="17">
 <stat name="ForwardSource_ComboMode_Hunter_DamageType" operator="SET" constant="1.0"/>
 </consumable>
@@ -432,15 +436,32 @@
 <consumable identifier="1879070113" name="Ancient Dwarf Shield-spike Kit" iconId="1090552932-1090519041-1090552933" class="26">
 <specialEffect label="Set damage type of all skills to Ancient Dwarf-make"/>
 </consumable>
+<consumable identifier="1879070116" name="Improved Caltrops" iconId="1090524206-1090524208-1090524207" class="50">
+<stat name="ForwardSource_Movement_SpeedMultiplier" operator="SUBSTRACT" descriptionOverride="Slows movement speed by 25%" constant="25.0"/>
+<stat name="ForwardSource_Movement_MountSpeedMultiplier" operator="SUBSTRACT" constant="25.0"/>
+</consumable>
 <consumable identifier="1879070435" name="Large Shield-spike Kit" iconId="1090552946-1090519041-1090552947" class="26">
 <stat name="Item_Guardian_ShieldSpikes_Damage" constant="4.0"/>
 </consumable>
 <consumable identifier="1879070438" name="Beleriand Shield-spike Kit" iconId="1090540524-1090519041-1090540525" class="26">
 <specialEffect label="Set damage type of all skills to Beleriand"/>
 </consumable>
+<consumable identifier="1879070441" name="Greater Caltrops" iconId="1090538244-1090524208-1090538245" class="50">
+<stat name="ForwardSource_Movement_SpeedMultiplier" operator="SUBSTRACT" descriptionOverride="Slows movement speed by 25%" constant="25.0"/>
+<stat name="ForwardSource_Movement_MountSpeedMultiplier" operator="SUBSTRACT" constant="25.0"/>
+</consumable>
 <consumable identifier="1879071944" name="Roast of Heroes" iconId="1090530348-1090522692-1090530349" class="55">
 <stat name="OCMR" constant="56.375"/>
 <stat name="OCPR" constant="44.55"/>
+</consumable>
+<consumable identifier="1879074276" name="Gwatham" iconId="1090527435-1090519043-1090527437-1090527436" class="3">
+<stat name="STEALTH_LEVEL" descriptionOverride="-" constant="2.0"/>
+<stat name="RANGED_DAMAGE_PERCENTAGE" descriptionOverride="-" constant="10.0"/>
+<specialEffect label="Your Stealth Level is increased, but you cannot move."/>
+</consumable>
+<consumable identifier="1879075434" name="Flaming Pinecone" iconId="1090557459-1090524208-1090557460" class="55">
+<stat name="ForwardSource_Movement_SpeedMultiplier" operator="SUBSTRACT" descriptionOverride="Slows movement speed by 30%" constant="30.0"/>
+<stat name="ForwardSource_Movement_MountSpeedMultiplier" operator="SUBSTRACT" constant="30.0"/>
 </consumable>
 <consumable identifier="1879077913" name="Thistlebelly Brew" iconId="1090523137-1090522692-1090523138" class="55">
 <stat name="Combat_BaseMissRate" descriptionOverride="-" constant="10.0"/>
@@ -560,6 +581,17 @@
 <stat name="OCMR" constant="94.875"/>
 <stat name="OCPR" constant="72.05"/>
 </consumable>
+<consumable identifier="1879087895" name="Dragon-tooth Shard" iconId="1090648274-1090519044-1090648276-1090648275" class="49">
+<stat name="TACTICAL_DAMAGE_PERCENTAGE" descriptionOverride="You deal ${PERCENTVALUE} more damage." constant="10.0"/>
+<stat name="MELEE_DAMAGE_PERCENTAGE" descriptionOverride="-" constant="10.0"/>
+<stat name="RANGED_DAMAGE_PERCENTAGE" descriptionOverride="-" constant="10.0"/>
+</consumable>
+<consumable identifier="1879087896" name="Gem-encrusted Scale" iconId="1090648277-1090519044-1090648279-1090648278" class="49">
+<stat name="Combat_Agent_Armor_Value" descriptionOverride="+${VALUE} Armour" constant="500.0"/>
+</consumable>
+<consumable identifier="1879087897" name="Dragon-bone Splinter" iconId="1090648280-1090519044-1090648282-1090648281" class="49">
+<stat name="Skill_HealingMultiplier_Item" descriptionOverride="You heal ${PERCENTVALUE} more." constant="15.000001"/>
+</consumable>
 <consumable identifier="1879087898" name="Cram Biscuit" iconId="1090648268-1090522692-1090648270" class="55">
 <stat name="OCMR" constant="94.875"/>
 <stat name="OCPR" constant="72.05"/>
@@ -575,6 +607,27 @@
 </consumable>
 <consumable identifier="1879087902" name="Pot of Ringnen Salve" iconId="1090648286-1090519043-1090648288" class="28">
 <stat name="FIRE_MITIGATION_PERCENTAGE" constant="3.0"/>
+</consumable>
+<consumable identifier="1879087996" name="Nestadgarab" iconId="1090641904-1090519043-1090641911-1090641910" class="7">
+<stat name="OCMR" constant="75.02"/>
+<stat name="OCPR" constant="57.2"/>
+</consumable>
+<consumable identifier="1879087997" name="Nestathol" iconId="1090525875-1090519043-1090525877-1090525876" class="7">
+<stat name="OCMR" constant="75.02"/>
+<stat name="OCPR" constant="57.2"/>
+</consumable>
+<consumable identifier="1879087998" name="Nestathar" iconId="1090526120-1090519043-1090526122-1090526121" class="7">
+<stat name="OCMR" constant="75.02"/>
+<stat name="OCPR" constant="57.2"/>
+</consumable>
+<consumable identifier="1879087999" name="Atli's Cloth Shoes" iconId="1090533966-1090519043-1090533968-1090533967" class="23">
+<stat name="ForwardSource_Movement_SpeedMultiplier" descriptionOverride="+${PERCENTVALUE} Run Speed" constant="25.0"/>
+</consumable>
+<consumable identifier="1879088000" name="Atli's Leather Shoes" iconId="1090537350-1090519043-1090537352-1090537351" class="23">
+<stat name="ForwardSource_Movement_SpeedMultiplier" descriptionOverride="+${PERCENTVALUE} Run Speed" constant="25.0"/>
+</consumable>
+<consumable identifier="1879088001" name="Atli's Scale Shoes" iconId="1090533924-1090519043-1090533926-1090533925" class="23">
+<stat name="ForwardSource_Movement_SpeedMultiplier" descriptionOverride="+${PERCENTVALUE} Run Speed" constant="25.0"/>
 </consumable>
 <consumable identifier="1879088006" name="Scroll of Jeweller Lore" iconId="1090523516-1090519041-1090523517" class="57">
 <stat name="JEWELLER_CRIT_CHANCE_PERCENTAGE" constant="3.5"/>
@@ -647,6 +700,67 @@
 <stat name="OCMR" constant="8.36"/>
 <stat name="OCPR" constant="9.35"/>
 </consumable>
+<consumable identifier="1879088545" name="Mace of the Deep Pool" iconId="1090524709-1090519043-1090524710-1090524711" class="30">
+<stat name="MIGHT" descriptionOverride="+${VALUE} Might" constant="21.0"/>
+</consumable>
+<consumable identifier="1879088546" name="Tarist" iconId="1090523520-1090519043-1090523521-1090525455" class="1">
+<stat name="VITALITY" descriptionOverride="+${VALUE} Vitality" constant="19.0"/>
+</consumable>
+<consumable identifier="1879088547" name="Green-hill Spear" iconId="1090525483-1090519043-1090525484-1090525485" class="46">
+<stat name="AGILITY" descriptionOverride="+${VALUE} Agility" constant="19.0"/>
+</consumable>
+<consumable identifier="1879088551" name="Avorist" iconId="1090520082-1090519043-1090520083-1090520084" class="10">
+<stat name="AGILITY" descriptionOverride="+${VALUE} Agility" constant="21.0"/>
+</consumable>
+<consumable identifier="1879088647" name="Elven Striding Shoes" iconId="1090527474-1090519043-1090527476-1090527475" class="23">
+<stat name="ForwardSource_Movement_SpeedMultiplier" descriptionOverride="+${PERCENTVALUE} Run Speed" constant="15.000001"/>
+</consumable>
+<consumable identifier="1879088648" name="Leather Boots of Striding" iconId="1090520000-1090519043-1090520001-1090526178" class="23">
+<stat name="ForwardSource_Movement_SpeedMultiplier" descriptionOverride="+${PERCENTVALUE} Run Speed" constant="15.000001"/>
+</consumable>
+<consumable identifier="1879088649" name="Steel Boots of Striding" iconId="1090526108-1090519043-1090526110-1090526109" class="23">
+<stat name="ForwardSource_Movement_SpeedMultiplier" descriptionOverride="+${PERCENTVALUE} Run Speed" constant="15.000001"/>
+</consumable>
+<consumable identifier="1879088737" name="Robe of the Moors" iconId="1090527397-1090519043-1090527399-1090527398" class="3">
+<stat name="VITALITY" descriptionOverride="+${VALUE} Vitality" constant="29.0"/>
+</consumable>
+<consumable identifier="1879088738" name="Stonehelm Shield" iconId="1090523247-1090519043-1090523248-1090523249" class="33">
+<stat name="MELEE_DAMAGE_PERCENTAGE" descriptionOverride="-" constant="10.0"/>
+<stat name="RANGED_DAMAGE_PERCENTAGE" descriptionOverride="-" constant="10.0"/>
+</consumable>
+<consumable identifier="1879088772" name="Dagger of the Badger" iconId="1090520082-1090519043-1090520083-1090520084" class="10">
+<stat name="EVADE_PERCENTAGE" descriptionOverride="+3% Evade and Parry Chance" constant="3.0"/>
+<stat name="PARRY_PERCENTAGE" constant="3.0"/>
+</consumable>
+<consumable identifier="1879089299" name="Pot of Crude Honey and Oats" iconId="1091388635-1090524208-1091388622" class="55">
+<stat name="FIRE_MITIGATION_PERCENTAGE" constant="5.0"/>
+<stat name="SHADOW_MITIGATION_PERCENTAGE" constant="5.0"/>
+<stat name="PHYSICAL_MITIGATION_PERCENTAGE" constant="7.0"/>
+<stat name="PERCEIVED_THREAT" constant="5.0"/>
+</consumable>
+<consumable identifier="1879089311" name="Pot of Honey and Oats" iconId="1091388635-1090524208-1091388622" class="55">
+<stat name="FIRE_MITIGATION_PERCENTAGE" constant="10.0"/>
+<stat name="SHADOW_MITIGATION_PERCENTAGE" constant="5.0"/>
+<stat name="PHYSICAL_MITIGATION_PERCENTAGE" constant="10.0"/>
+<stat name="PERCEIVED_THREAT" constant="10.0"/>
+</consumable>
+<consumable identifier="1879089312" name="Pot of Smooth Honey and Oats" iconId="1091388635-1090524208-1091388622" class="55">
+<stat name="FIRE_MITIGATION_PERCENTAGE" constant="15.000001"/>
+<stat name="SHADOW_MITIGATION_PERCENTAGE" constant="5.0"/>
+<stat name="PHYSICAL_MITIGATION_PERCENTAGE" constant="15.000001"/>
+<stat name="PERCEIVED_THREAT" constant="15.000001"/>
+</consumable>
+<consumable identifier="1879089529" name="Pocket Link" iconId="1090540210-1090519043-1090540211" class="49">
+<stat name="TACTICAL_DAMAGE_PERCENTAGE" descriptionOverride="You deal ${PERCENTVALUE} more damage." constant="10.0"/>
+<stat name="MELEE_DAMAGE_PERCENTAGE" descriptionOverride="-" constant="10.0"/>
+<stat name="RANGED_DAMAGE_PERCENTAGE" descriptionOverride="-" constant="10.0"/>
+</consumable>
+<consumable identifier="1879089534" name="Forvengwath's Fragment" iconId="1090649907-1090519044-1090649909-1090649908" class="49">
+<stat name="Combat_Agent_Armor_Value" descriptionOverride="+${VALUE}" constant="350.0"/>
+</consumable>
+<consumable identifier="1879089557" name="Castellan's Robe" iconId="1090527522-1090519043-1090527524-1090527523" class="3">
+<stat name="FATE" descriptionOverride="+${VALUE} Fate" constant="30.0"/>
+</consumable>
 <consumable identifier="1879089569" name="Blue Bock" iconId="1090523137-1090522692-1090523138" class="55">
 <stat name="Combat_BaseMissRate" descriptionOverride="-" constant="5.0"/>
 </consumable>
@@ -677,6 +791,64 @@
 <consumable identifier="1879089610" name="Blackberry Ale" iconId="1090523139-1090522692-1090523140" class="55">
 <stat name="Combat_BaseMissRate" descriptionOverride="-" constant="15.000001"/>
 </consumable>
+<consumable identifier="1879089705" name="Limdail" iconId="1090529919-1090519043-1090529921-1090529920" class="23">
+<stat name="FATE" descriptionOverride="+${VALUE} Fate" constant="12.0"/>
+</consumable>
+<consumable identifier="1879089706" name="Curugarab" iconId="1090641909-1090519043-1090641920-1090641919" class="7">
+<stat name="POWER" descriptionOverride="+${VALUE} Maximum Power" constant="34.0"/>
+</consumable>
+<consumable identifier="1879089711" name="Calatherdir's Boots" iconId="1090526431-1090519042-1090526433-1090526432" class="23">
+<stat name="WILL" descriptionOverride="+${VALUE} Will" constant="11.0"/>
+</consumable>
+<consumable identifier="1879089715" name="Golubadanir" iconId="1090523456-1090519043-1090523458-1090523457" class="15">
+<stat name="POWER" descriptionOverride="+${VALUE} Maximum Power" constant="73.0"/>
+</consumable>
+<consumable identifier="1879089718" name="Defender of Bonedigger Isle" iconId="1090524578-1090519043-1090524580-1090524579" class="7">
+<stat name="MIGHT" descriptionOverride="+${VALUE} Might" constant="12.0"/>
+</consumable>
+<consumable identifier="1879089720" name="Messenger's Cloak" iconId="1090522482-1090519043-1090522484-1090522483" class="45">
+<stat name="MIGHT" descriptionOverride="+${VALUE} Might" constant="22.0"/>
+</consumable>
+<consumable identifier="1879089751" name="Panthavron's Bangle" iconId="1090531632-1090519042-1090531634-1090531633" class="49">
+<stat name="WILL" descriptionOverride="+${VALUE} Will" constant="11.0"/>
+</consumable>
+<consumable identifier="1879089754" name="Elloch" iconId="1090527701-1090519043-1090527703-1090527702" class="49">
+<stat name="AGILITY" descriptionOverride="+${VALUE} Agility" constant="12.0"/>
+</consumable>
+<consumable identifier="1879089756" name="Faerinn" iconId="1090528462-1090519043-1090528464-1090528463" class="49">
+<stat name="FATE" descriptionOverride="+${VALUE} Fate" constant="11.0"/>
+</consumable>
+<consumable identifier="1879089761" name="Calatherdir's Buckler" iconId="1090523245-1090519043-1090523246-1090523330" class="33">
+<stat name="MORALE" descriptionOverride="+${VALUE} Maximum Morale" constant="32.0"/>
+</consumable>
+<consumable identifier="1879089763" name="Calatherdir's Wall" iconId="1090523245-1090519043-1090523246-1090523330" class="33">
+<stat name="FATE" descriptionOverride="+${VALUE} Fate" constant="11.0"/>
+</consumable>
+<consumable identifier="1879089771" name="Gwindeth's Greatsword" iconId="1090523945-1090519043-1090523946-1090523947" class="42">
+<stat name="FATE" descriptionOverride="+${VALUE} Fate" constant="22.0"/>
+</consumable>
+<consumable identifier="1879089774" name="Thief-taker's Bane" iconId="1090520088-1090519043-1090520089-1090520090" class="42">
+<stat name="MIGHT" descriptionOverride="+${VALUE} Might" constant="12.0"/>
+</consumable>
+<consumable identifier="1879089779" name="Steak Tenderizer" iconId="1090524706-1090519043-1090524707-1090524708" class="42">
+<stat name="MORALE" descriptionOverride="+${VALUE} Maximum Morale" constant="29.0"/>
+</consumable>
+<consumable identifier="1879089781" name="Ithilnaith" iconId="1090520848-1090519043-1090520849-1090520850" class="42">
+<stat name="AGILITY" descriptionOverride="+${VALUE} Agility" constant="12.0"/>
+</consumable>
+<consumable identifier="1879089917" name="Sam's Kitchen Knife" iconId="1090520085-1090519042-1090520086-1090520087" class="42">
+<stat name="FATE" descriptionOverride="+${VALUE} Fate" constant="8.0"/>
+</consumable>
+<consumable identifier="1879089927" name="White-warg Hunter" iconId="1090522482-1090519043-1090522484-1090522483" class="45">
+<stat name="MIGHT" descriptionOverride="+${VALUE} Might" constant="22.0"/>
+</consumable>
+<consumable identifier="1879089934" name="Sig-hálm" iconId="1090526120-1090519043-1090526122-1090526121" class="7">
+<stat name="OCMR" constant="75.02"/>
+<stat name="OCPR" constant="57.2"/>
+</consumable>
+<consumable identifier="1879089970" name="William's Doom" iconId="1090525592-1090519042-1090525593-1090525594" class="42">
+<stat name="MIGHT" descriptionOverride="+${VALUE} Might" constant="9.0"/>
+</consumable>
 <consumable identifier="1879090928" name="Simple Fire-oil" iconId="1090532008-1090519041-1090532009" class="17">
 <stat name="ForwardSource_ComboMode_Hunter_DamageType" operator="SET" constant="39.0"/>
 </consumable>
@@ -695,8 +867,32 @@
 <consumable identifier="1879090970" name="Bow Chant: Wind-rider" iconId="1091388836-1090519041-1091388837" class="17">
 <stat name="Skill_VitalCost_RangedMod" operator="SUBSTRACT" descriptionOverride="Your bow skills cost ${PERCENTVALUE} less Power." constant="10.0"/>
 </consumable>
+<consumable identifier="1879091000" name="Armband of Giants" iconId="1090524758-1090519043-1090524759-1090528040" class="49">
+<stat name="MIGHT" descriptionOverride="+${VALUE} Might" constant="30.0"/>
+</consumable>
 <consumable identifier="1879091313" name="Bow Chant: Whisper-draw" iconId="1091388838-1090519041-1091388839" class="17">
 <stat name="Skill_AdditionalThreat_Hunter_AllRangeSkillsMod" descriptionOverride="Your bow skills generate less threat." constant="-1.275"/>
+</consumable>
+<consumable identifier="1879092159" name="Healer's Locket" iconId="1090641632-1091398977-1090641634-1090641633" class="49">
+<stat name="Skill_HealingMultiplier_Item" descriptionOverride="You heal ${PERCENTVALUE} more." constant="10.0"/>
+</consumable>
+<consumable identifier="1879092279" name="Tallos" iconId="1090527701-1090519043-1090527703-1090527702" class="49">
+<stat name="AGILITY" descriptionOverride="+${VALUE} Agility" constant="15.0"/>
+</consumable>
+<consumable identifier="1879096857" name="Lucky Horseshoe" iconId="1091401076-1090519043-1091401077-1091401078" class="49">
+<stat name="FATE" descriptionOverride="+${VALUE} Fate" constant="1.0"/>
+</consumable>
+<consumable identifier="1879096878" name="Scented Candle" iconId="1091401082-1090524208-1091401083" class="28">
+<stat name="HOPE" constant="1.0"/>
+</consumable>
+<consumable identifier="1879097061" name="Cumaen" iconId="1090523520-1090519044-1090523521-1090525455" class="1">
+<stat name="ForwardSource_ComboMode_Hunter_DamageType" operator="SET" constant="39.0"/>
+</consumable>
+<consumable identifier="1879097062" name="Aeglang" iconId="1090539343-1090519044-1090539344-1090539345" class="10">
+<stat name="PARRY_PERCENTAGE" constant="4.0"/>
+</consumable>
+<consumable identifier="1879097063" name="Torchathol" iconId="1090557063-1090519044-1090557064-1090557065" class="36">
+<stat name="HOPE" constant="1.0"/>
 </consumable>
 <consumable identifier="1879098878" name="Pumpkin Ale" iconId="1090640836-1090522692-1090640837" class="55">
 <stat name="Combat_BaseMissRate" descriptionOverride="-" constant="5.0"/>
@@ -735,5 +931,11 @@
 <consumable identifier="1879098888" name="Fall Grouse" iconId="1090640832-1090522692-1090640833" class="55">
 <stat name="OCMR" constant="20.0"/>
 <stat name="OCPR" constant="23.833334"/>
+</consumable>
+<consumable identifier="1879101989" name="The Ranger's Cloak" iconId="1090553567-1090519042-1090553569" class="45">
+<stat name="ForwardSource_Movement_SpeedMultiplier" constant="5.0"/>
+</consumable>
+<consumable identifier="1879102182" name="Archer's Lance" iconId="1090525483-1091398978-1090525484-1090525485" class="42">
+<stat name="AGILITY" descriptionOverride="+${VALUE} Agility" constant="15.0"/>
 </consumable>
 </consumables>
