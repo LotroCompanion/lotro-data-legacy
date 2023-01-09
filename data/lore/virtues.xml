@@ -159,48 +159,4 @@
 </activeStats>
 <passiveStats/>
 </virtue>
-<virtue identifier="1879063892" key="DAMAGE" name="Damage" iconId="0" rankStatKey="Trait_MP_Virtue_Core_Rank_Damage" description="Increases the damage dealt by your attacks.">
-<activeStats>
-<stat name="MELEE_DAMAGE_PERCENTAGE" scaling="1879063899"/>
-<stat name="RANGED_DAMAGE_PERCENTAGE" scaling="1879063900"/>
-<stat name="TACTICAL_DAMAGE_PERCENTAGE" scaling="1879063901"/>
-<stat name="EffectMod_DamageMultiplier_Characteristic_MP_Damage" scaling="1879086283"/>
-</activeStats>
-<passiveStats/>
-</virtue>
-<virtue identifier="1879063894" key="POWER" name="Power" iconId="0" rankStatKey="Trait_MP_Virtue_Core_Rank_Power" description="Increases your maximum power">
-<activeStats>
-<stat name="POWER" operator="MULTIPLY" descriptionOverride="Increases your total power by ${PERCENTVALUE}." scaling="1879063905"/>
-</activeStats>
-<passiveStats/>
-</virtue>
-<virtue identifier="1879063893" key="HEALTH" name="Health" iconId="0" rankStatKey="Trait_MP_Virtue_Core_Rank_Health" description="Increases your maximum health">
-<activeStats>
-<stat name="MORALE" operator="MULTIPLY" descriptionOverride="Increases your total health by ${PERCENTVALUE}." scaling="1879063903"/>
-</activeStats>
-<passiveStats/>
-</virtue>
-<virtue identifier="1879063895" key="ARMOUR" name="Armour" iconId="0" rankStatKey="Trait_MP_Virtue_Core_Rank_Mitigation" description="Increases your armour protection">
-<activeStats>
-<stat name="Combat_Agent_Armor_Value" scaling="1879063907"/>
-</activeStats>
-<passiveStats/>
-</virtue>
-<virtue identifier="1879063896" key="AVOIDANCE" name="Avoidance" iconId="0" rankStatKey="Trait_MP_Virtue_Core_Rank_Avoidance" description="Increases your ability to avoid attacks.">
-<activeStats>
-<stat name="PARRY_PERCENTAGE" scaling="1879063909"/>
-<stat name="EVADE_PERCENTAGE" scaling="1879063910"/>
-<stat name="BLOCK_PERCENTAGE" scaling="1879063911"/>
-</activeStats>
-<passiveStats/>
-</virtue>
-<virtue identifier="1879063897" key="RESISTANCE" name="Resistance" iconId="0" rankStatKey="Trait_MP_Virtue_Core_Rank_Resistance" description="Increases your resistance to certain negative effects.">
-<activeStats>
-<stat name="Resist_Additional_Resistance_Song" scaling="1879063913"/>
-<stat name="Resist_Additional_Resistance_Cry" scaling="1879063914"/>
-<stat name="Resist_Additional_Resistance_Physical" scaling="1879063915"/>
-<stat name="Resist_Additional_Resistance_Magic" scaling="1879063916"/>
-</activeStats>
-<passiveStats/>
-</virtue>
 </virtues>
