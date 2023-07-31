@@ -1,0 +1,1966 @@
+<?xml version="1.0" encoding="UTF-8"?><labels locale="fr">
+<label key="1879048830" value="Attaque sans arme"/>
+<label key="1879048831" value="Attaque arme à un main"/>
+<label key="1879048832" value="Att.arme à 1 main&amp;bouclier"/>
+<label key="1879048833" value="Attaque à deux armes"/>
+<label key="1879048834" value="Attaque arme à deux mains"/>
+<label key="1879048835" value="Attaque à l'arc"/>
+<label key="1879048836" value="Attaque à l'arbalète"/>
+<label key="1879049322" value="Courant min. CàC"/>
+<label key="1879049323" value="CàC ordinaire bas"/>
+<label key="1879049324" value="Courant interm. CàC"/>
+<label key="1879049325" value="Courant min. lancer"/>
+<label key="1879049326" value="Courant lancer bas"/>
+<label key="1879049327" value="Courant interm. lancer"/>
+<label key="1879049328" value="Suppression"/>
+<label key="1879049337" value="Commandement de loup"/>
+<label key="1879049338" value="Invocation de loup"/>
+<label key="1879049458" value="Morsure invalidante"/>
+<label key="1879049462" value="Entorse mineure"/>
+<label key="1879049463" value="Dislocation mineure"/>
+<label key="1879049464" value="Lésion mineure"/>
+<label key="1879049465" value="Entorse"/>
+<label key="1879049466" value="Dislocation"/>
+<label key="1879049467" value="Lésion"/>
+<label key="1879049468" value="Blessure dégradante"/>
+<label key="1879049480" value="Venin mineur"/>
+<label key="1879049481" value="Poison invalidant mineur"/>
+<label key="1879049482" value="Venin"/>
+<label key="1879049483" value="Poison invalidant"/>
+<label key="1879049484" value="Poison latent"/>
+<label key="1879049527" value="Maladie débilitante min."/>
+<label key="1879049528" value="Fragilité maladive min."/>
+<label key="1879049529" value="Maladie débilitante"/>
+<label key="1879049530" value="Fragilité maladive"/>
+<label key="1879049531" value="Maladie purulente"/>
+<label key="1879049732" value="Double CàC"/>
+<label key="1879049733" value="Renversement CàC"/>
+<label key="1879049734" value="Triple CàC"/>
+<label key="1879049739" value="Venin supérieur"/>
+<label key="1879049740" value="Poison invalidant sup."/>
+<label key="1879049811" value="Flaque de vase"/>
+<label key="1879050054" value="Courant min. à distance"/>
+<label key="1879050055" value="Courant à distance bas"/>
+<label key="1879050056" value="Courant interm. à distance"/>
+<label key="1879050057" value="Att. flèches empoisonnées"/>
+<label key="1879050058" value="Att. flèches enflammées"/>
+<label key="1879050127" value="Désarmement CàC"/>
+<label key="1879050128" value="Melee Swipe"/>
+<label key="1879050129" value="Cri de guerre"/>
+<label key="1879050146" value="Entaille sauvage"/>
+<label key="1879050147" value="Réseau de chausse-trappes"/>
+<label key="1879050148" value="Regroup. des serviteurs&#10;près de la cible"/>
+<label key="1879050182" value="Entrer en état :&#10;Discrétion"/>
+<label key="1879050183" value="Entrer en état :&#10;Discrétion"/>
+<label key="1879050203" value="Poussière étourdissante niv.1"/>
+<label key="1879050236" value="Invoc. demi-Etre Galgals"/>
+<label key="1879050237" value="Force sinistre"/>
+<label key="1879050238" value="Vol aux morts"/>
+<label key="1879050250" value="Maladie débilitante sup."/>
+<label key="1879050251" value="Fragilité maladive sup."/>
+<label key="1879050252" value="Maladie sournoise"/>
+<label key="1879050259" value="Entorse majeure"/>
+<label key="1879050260" value="Dislocation majeure"/>
+<label key="1879050261" value="Lésion majeure"/>
+<label key="1879050502" value="Guérison de blessure"/>
+<label key="1879050504" value="Guérison de poison"/>
+<label key="1879050505" value="Guérison de maladie"/>
+<label key="1879050506" value="Guérison de peur"/>
+<label key="1879051254" value="Guérison"/>
+<label key="1879051267" value="Entaille énergique"/>
+<label key="1879051268" value="Frénésie"/>
+<label key="1879051269" value="Rugissement intimidant"/>
+<label key="1879051270" value="Aura de commandement"/>
+<label key="1879051279" value="Perturbation"/>
+<label key="1879051280" value="Effroi mineur"/>
+<label key="1879051281" value="Affolement"/>
+<label key="1879051282" value="Effroi"/>
+<label key="1879051283" value="Traumatisme supprimé"/>
+<label key="1879051299" value="Feu min. CàC"/>
+<label key="1879051300" value="Feu interm. CàC"/>
+<label key="1879051301" value="Saignement interm. feu CàC"/>
+<label key="1879051302" value="Distance pas de mvt lancer"/>
+<label key="1879051303" value="Gourdin lancé"/>
+<label key="1879051304" value="Repoussement CàC"/>
+<label key="1879051305" value="Piétinement"/>
+<label key="1879051306" value="Attaque sauvage"/>
+<label key="1879051307" value="Attaque sauvage"/>
+<label key="1879051390" value="Courant max. lancer"/>
+<label key="1879051391" value="Racine lancer"/>
+<label key="1879051394" value="Saignement interm. CàC"/>
+<label key="1879051395" value="Cri de bataille"/>
+<label key="1879051422" value="Toile d'immobilisation"/>
+<label key="1879051423" value="Appel au ralliement"/>
+<label key="1879051424" value="Morsure vampirique"/>
+<label key="1879051430" value="Sensibilité au poison"/>
+<label key="1879051471" value="Maladie sournoise"/>
+<label key="1879051472" value="Silence"/>
+<label key="1879051480" value="Invoc. Etre des Galgals"/>
+<label key="1879051748" value="Repoussement arc CàC"/>
+<label key="1879051777" value="Etourdissement lancer"/>
+<label key="1879052007" value="Flèche de tireur isolé"/>
+<label key="1879052104" value="Violente entaille"/>
+<label key="1879052105" value="Rugissement terrifiant"/>
+<label key="1879052112" value="Ravage"/>
+<label key="1879052125" value="Lames éclatantes"/>
+<label key="1879052160" value="Gorge exposée"/>
+<label key="1879052199" value="Marche guerrière des Ents"/>
+<label key="1879052210" value="Ami des aigles"/>
+<label key="1879052284" value="CàC rapide ordinaire moyen"/>
+<label key="1879052286" value="Déchirement de bec"/>
+<label key="1879052287" value="Sacrifice"/>
+<label key="1879052288" value="Attisement des flammes"/>
+<label key="1879052289" value="Contournement CàC min."/>
+<label key="1879052434" value="Piège à ours"/>
+<label key="1879052499" value="Flèche de Bard"/>
+<label key="1879052517" value="En avant toute"/>
+<label key="1879052532" value="Pluie d'épines"/>
+<label key="1879052653" value="Emprise de l'ombre"/>
+<label key="1879052654" value="Bouleversement"/>
+<label key="1879052655" value="Cri surnaturel"/>
+<label key="1879052656" value="Menace de châtiment"/>
+<label key="1879052663" value="Ombre double CàC"/>
+<label key="1879052664" value="Ombre triple CàC"/>
+<label key="1879052665" value="Vulnérabilité aux ombres"/>
+<label key="1879052666" value="Silence de la mort"/>
+<label key="1879052667" value="Peur déferlante"/>
+<label key="1879052668" value="Invoquez un esprit cruel"/>
+<label key="1879052669" value="Effroi supérieur"/>
+<label key="1879052670" value="Terrifier"/>
+<label key="1879052676" value="Ombre min. CàC"/>
+<label key="1879052677" value="Ombre CàC bas"/>
+<label key="1879052678" value="Ombre interm. CàC"/>
+<label key="1879052679" value="Déclenchement d'invulnérabilité"/>
+<label key="1879052680" value="Fin d'invulnérabilité"/>
+<label key="1879052681" value="Eclatement d'ombre"/>
+<label key="1879052682" value="Cri de l'ombre"/>
+<label key="1879052683" value="Ombre touchée"/>
+<label key="1879052687" value="Epouvante"/>
+<label key="1879052832" value="Balayage CàC interm."/>
+<label key="1879052833" value="Coup violent de bouclier"/>
+<label key="1879052848" value="Balayage CàC min."/>
+<label key="1879052860" value="Eclaboussement à distance"/>
+<label key="1879052861" value="Double déclenchement à distance"/>
+<label key="1879052881" value="Ralliement !"/>
+<label key="1879052895" value="Chant d'espoir du coeur"/>
+<label key="1879052912" value="Hymne des mages"/>
+<label key="1879052981" value="Invoquez une araignée"/>
+<label key="1879052985" value="Toile d'emmêlement"/>
+<label key="1879053027" value="Protection contre la corruption"/>
+<label key="1879053049" value="Bouclier des Dunedain"/>
+<label key="1879053062" value="Honte du parjure"/>
+<label key="1879053069" value="A la défense de la Terre du Milieu"/>
+<label key="1879053108" value="Hache sanglante"/>
+<label key="1879053184" value="Etourdissement CàC"/>
+<label key="1879053191" value="Vent néfaste"/>
+<label key="1879054063" value="Rugissement maladif"/>
+<label key="1879054402" value="Fierté"/>
+<label key="1879054403" value="Hache tourbillonnante"/>
+<label key="1879054542" value="Balayage CàC max."/>
+<label key="1879054543" value="Coup étourdissant"/>
+<label key="1879054546" value="Charge"/>
+<label key="1879054550" value="Interruption à distance"/>
+<label key="1879054587" value="Balayage CàC bas"/>
+<label key="1879054588" value="Balayage CàC haut"/>
+<label key="1879054589" value="Courant min. à distance"/>
+<label key="1879054590" value="Courant interm. à distance"/>
+<label key="1879054591" value="Double à distance"/>
+<label key="1879054592" value="Missile odieux"/>
+<label key="1879054593" value="Prise"/>
+<label key="1879055302" value="Verre étoilé"/>
+<label key="1879055305" value="Verre des étoiles"/>
+<label key="1879055859" value="Hache de jet"/>
+<label key="1879055861" value="Hache de jet"/>
+<label key="1879056877" value="Regroup. des serviteurs"/>
+<label key="1879056906" value="Force CàC bas"/>
+<label key="1879056907" value="Feu min. à distance"/>
+<label key="1879056908" value="Feu à distance bas"/>
+<label key="1879056909" value="Feu interm. à distance"/>
+<label key="1879056910" value="Feu triple CàC"/>
+<label key="1879056911" value="Balayage caudal"/>
+<label key="1879056912" value="Boule de feu"/>
+<label key="1879056913" value="Souffle de feu"/>
+<label key="1879056914" value="Claquement d'aile"/>
+<label key="1879056977" value="Briser l'armure"/>
+<label key="1879056983" value="Servants ailés"/>
+<label key="1879056984" value="Gloire victorieuse"/>
+<label key="1879056985" value="Résurgence victorieuse"/>
+<label key="1879056986" value="Châtiment"/>
+<label key="1879057290" value="Peur panique"/>
+<label key="1879057291" value="Fuite"/>
+<label key="1879057754" value="Dévast. par écrasement"/>
+<label key="1879057755" value="Dévast. par écrasement"/>
+<label key="1879057756" value="Dévast. par écrasement"/>
+<label key="1879057757" value="Dévast. par écrasement"/>
+<label key="1879057758" value="Renversement long CàC"/>
+<label key="1879057759" value="Guérison"/>
+<label key="1879057803" value="Saignement max. CàC"/>
+<label key="1879057804" value="Hurlement effroyable"/>
+<label key="1879057818" value="Sensibilité à la peur"/>
+<label key="1879057819" value="Donner les déchus en offrande"/>
+<label key="1879057827" value="Ombre min. lancer"/>
+<label key="1879057828" value="Ombre lancer bas"/>
+<label key="1879057829" value="Ombre interm. lancer"/>
+<label key="1879057830" value="Emprise de l'ombre"/>
+<label key="1879057831" value="Affaibliss. de courage"/>
+<label key="1879057832" value="Fissure ouverte"/>
+<label key="1879057858" value="Lance perçante"/>
+<label key="1879057894" value="Ombre min. à distance"/>
+<label key="1879057895" value="Ombre à distance bas"/>
+<label key="1879057896" value="Ombre interm. à distance"/>
+<label key="1879058404" value="Feu purificateur"/>
+<label key="1879058405" value="Feu tourbillonnant"/>
+<label key="1879058879" value="Grondement aérien"/>
+<label key="1879058880" value="Effondrement de plafond"/>
+<label key="1879059056" value="Vague soudaine"/>
+<label key="1879059057" value="Mort aqueuse"/>
+<label key="1879059580" value="Gourde de poison"/>
+<label key="1879059581" value="Gourde de maladie"/>
+<label key="1879059582" value="Acide destructeur"/>
+<label key="1879059583" value="Poison ralentissant"/>
+<label key="1879059584" value="Renouvellement corrompu"/>
+<label key="1879059633" value="Rage"/>
+<label key="1879059644" value="Don de sang"/>
+<label key="1879059657" value="Interruption CàC"/>
+<label key="1879059658" value="Pacte sur le sang"/>
+<label key="1879059699" value="Melee 360"/>
+<label key="1879059700" value="360 CàC étourdissement"/>
+<label key="1879059701" value="Empalement"/>
+<label key="1879059702" value="360 CàC absorption de vie"/>
+<label key="1879059810" value="Entrée en Discrétion&#10;améliorée - au combat"/>
+<label key="1879059811" value="Invoquez des serviteurs"/>
+<label key="1879059812" value="Fin de Discrétion"/>
+<label key="1879059824" value="Assaut auditif"/>
+<label key="1879059827" value="Rugissement maladif"/>
+<label key="1879059853" value="Coups féroces"/>
+<label key="1879059855" value="Coups féroces"/>
+<label key="1879059869" value="Poursuite du combat"/>
+<label key="1879059881" value="Lame déchaînée"/>
+<label key="1879059884" value="Lame déchaînée"/>
+<label key="1879059893" value="Brûlure contrôlée"/>
+<label key="1879059946" value="Uppercut magistral"/>
+<label key="1879059963" value="Pas sismique"/>
+<label key="1879059964" value="Poing levé"/>
+<label key="1879059965" value="Moulinet"/>
+<label key="1879059968" value="Courant max. à distance"/>
+<label key="1879059969" value="Lâcher de pierre"/>
+<label key="1879059979" value="Double Impact"/>
+<label key="1879059980" value="Balayage de nettoyage"/>
+<label key="1879059981" value="Balayage de nettoyage"/>
+<label key="1879059982" value="Coups tourbillonnants"/>
+<label key="1879059985" value="Lâcher de pierre"/>
+<label key="1879059986" value="Renversement lancer"/>
+<label key="1879060028" value="Entrer en état :&#10;Discrétion immobile"/>
+<label key="1879060029" value="Entrer en état :&#10;Discrétion immobile"/>
+<label key="1879060079" value="Hurlement de meute"/>
+<label key="1879060133" value="Au roi"/>
+<label key="1879060149" value="Coup de corne"/>
+<label key="1879060150" value="Charge de la déf. cassée"/>
+<label key="1879060164" value="Ecrasement au bouclier"/>
+<label key="1879060180" value="Menace de gardien"/>
+<label key="1879060191" value="Défi des ténèbres"/>
+<label key="1879060250" value="Appel aux armes :&#10;Héraut de victoire"/>
+<label key="1879060266" value="Héraut d'att. CàC min."/>
+<label key="1879060267" value="Héraut d'att. CàC interm."/>
+<label key="1879060268" value="Héraut d'att. CàC max."/>
+<label key="1879060269" value="Attaque coordonnée"/>
+<label key="1879060270" value="Tactiques énervantes"/>
+<label key="1879060271" value="Prêt de Volonté"/>
+<label key="1879060277" value="Appel aux armes :&#10;Héraut de victoire"/>
+<label key="1879060278" value="Appel aux armes :&#10;Héraut de victoire"/>
+<label key="1879060279" value="Appel aux armes :&#10;Héraut de victoire"/>
+<label key="1879060293" value="Fuite des ténèbres"/>
+<label key="1879060303" value="Cri de ralliement"/>
+<label key="1879060312" value="Cri de guerre"/>
+<label key="1879060321" value="Cri de déroute"/>
+<label key="1879060327" value="Cri de bataille"/>
+<label key="1879060332" value="Cri de fureur"/>
+<label key="1879060339" value="Attaque retenue"/>
+<label key="1879060346" value="Appel aux armes :&#10;Héraut de guerre"/>
+<label key="1879060361" value="Appel aux armes :&#10;Héraut de guerre"/>
+<label key="1879060362" value="Appel aux armes :&#10;Héraut de guerre"/>
+<label key="1879060363" value="Appel aux armes :&#10;Héraut de guerre"/>
+<label key="1879060377" value="Rassemblement de courage"/>
+<label key="1879060399" value="Appel aux armes :&#10;Héraut d'espoir"/>
+<label key="1879060415" value="Appel aux armes :&#10;Héraut d'espoir"/>
+<label key="1879060416" value="Appel aux armes :&#10;Héraut d'espoir"/>
+<label key="1879060417" value="Appel aux armes :&#10;Héraut d'espoir"/>
+<label key="1879060431" value="Coup dévastateur"/>
+<label key="1879060437" value="Cri de menace"/>
+<label key="1879060440" value="Cri d'intimidation"/>
+<label key="1879060495" value="Attaque rapide"/>
+<label key="1879060547" value="Frénésie guerrière"/>
+<label key="1879060551" value="Besoin impérieux"/>
+<label key="1879060568" value="Aiguillon"/>
+<label key="1879060573" value="Balayage au bouclier"/>
+<label key="1879060582" value="Défense de gardien"/>
+<label key="1879060591" value="Coup de bouclier"/>
+<label key="1879060605" value="Reprise de souffle"/>
+<label key="1879060618" value="Coup contrariant"/>
+<label key="1879060621" value="Coup contrariant"/>
+<label key="1879060631" value="Défi"/>
+<label key="1879060634" value="Protection"/>
+<label key="1879060636" value="Protection"/>
+<label key="1879060644" value="Serment de gardien"/>
+<label key="1879060648" value="Inspiration profonde"/>
+<label key="1879060652" value="Coeur de guerrier"/>
+<label key="1879060660" value="Goût du danger"/>
+<label key="1879060663" value="Goût du danger amélioré"/>
+<label key="1879060667" value="Pose de piège"/>
+<label key="1879060702" value="Concentration délibérée"/>
+<label key="1879060716" value="Insignifiance"/>
+<label key="1879060723" value="Hâte nécessaire"/>
+<label key="1879060749" value="Coup de bâton"/>
+<label key="1879060752" value="Coup de bâton amélioré"/>
+<label key="1879060758" value="Puissance du savoir"/>
+<label key="1879060760" value="Puissance du savoir"/>
+<label key="1879060771" value="Lueur d'espoir"/>
+<label key="1879060779" value="Signe sauvage : prot."/>
+<label key="1879060786" value="Absorption des blessures"/>
+<label key="1879060789" value="Absorption des blessures"/>
+<label key="1879060793" value="Signe sauvage : rage"/>
+<label key="1879060803" value="Fissure terrestre"/>
+<label key="1879060811" value="Sagesse du Conseil"/>
+<label key="1879060818" value="Lumière aveuglante"/>
+<label key="1879060824" value="Aide aux malades"/>
+<label key="1879060827" value="Aide aux malades"/>
+<label key="1879060831" value="Sagesse antique"/>
+<label key="1879060837" value="Sagesse antique"/>
+<label key="1879060843" value="Partage du pouvoir"/>
+<label key="1879060863" value="Ballade guerrière"/>
+<label key="1879060868" value="Hymne des Valar"/>
+<label key="1879060871" value="Hymne des Valar"/>
+<label key="1879060876" value="Chant d'assistance"/>
+<label key="1879060878" value="Chant d'assistance"/>
+<label key="1879060904" value="Ballade de résonance"/>
+<label key="1879060909" value="Grâce vivifiante"/>
+<label key="1879060914" value="Cri du choeur"/>
+<label key="1879060919" value="Chant d'adoucissement"/>
+<label key="1879060947" value="Subtilité du poignard"/>
+<label key="1879060952" value="Enigme"/>
+<label key="1879060961" value="Visée"/>
+<label key="1879060967" value="Truc :&#10;poussière dans les yeux"/>
+<label key="1879060972" value="Truc :&#10;poussière dans les yeux"/>
+<label key="1879060981" value="Diversion"/>
+<label key="1879060986" value="Truc : incapacité"/>
+<label key="1879060992" value="Truc : contre-défense"/>
+<label key="1879061005" value="Camouflage"/>
+<label key="1879061010" value="Dissimulation"/>
+<label key="1879061012" value="Traque"/>
+<label key="1879061016" value="Truc : emportement"/>
+<label key="1879061538" value="Attaque souterraine"/>
+<label key="1879061540" value="Abeilles furieuses"/>
+<label key="1879061553" value="Début d'invulnérabilité"/>
+<label key="1879061962" value="Hache de jet"/>
+<label key="1879061963" value="Hache de jet"/>
+<label key="1879062359" value="Crachat goudronneux"/>
+<label key="1879062360" value="Terre roussie"/>
+<label key="1879062572" value="Attaque surprise"/>
+<label key="1879062573" value="CàC ordinaire haut"/>
+<label key="1879062867" value="Repérage minier"/>
+<label key="1879062906" value="Repérage du bois"/>
+<label key="1879063043" value="Repérage de récolte"/>
+<label key="1879064060" value="Attaque sauvage"/>
+<label key="1879064061" value="Mur de lames"/>
+<label key="1879064062" value="Coups sauvages"/>
+<label key="1879064063" value="Ferveur"/>
+<label key="1879064064" value="Rafale"/>
+<label key="1879064065" value="Attaques brutales"/>
+<label key="1879064066" value="Echange de coups"/>
+<label key="1879064067" value="Déluge de lames"/>
+<label key="1879064068" value="Attaque fortifiante"/>
+<label key="1879064069" value="Tranchoir"/>
+<label key="1879064070" value="Défense soudaine"/>
+<label key="1879064071" value="Assaut incessant"/>
+<label key="1879064072" value="Défi du champion"/>
+<label key="1879064073" value="Frappe miséricordieuse"/>
+<label key="1879064074" value="Coup bas"/>
+<label key="1879064075" value="Sprint"/>
+<label key="1879064076" value="Assommoir"/>
+<label key="1879064077" value="A l'assaut !"/>
+<label key="1879064078" value="Coup aux jarrets"/>
+<label key="1879064079" value="Barrière"/>
+<label key="1879064080" value="Esprit de l'étalon"/>
+<label key="1879064081" value="Force des Ents (CàC)"/>
+<label key="1879064082" value="Cri de l'aigle"/>
+<label key="1879064083" value="Ruse d'araignée (CàC)"/>
+<label key="1879064084" value="Tir"/>
+<label key="1879064085" value="Vantardise"/>
+<label key="1879064140" value="Attaque coupante"/>
+<label key="1879064141" value="Marque efficace"/>
+<label key="1879064142" value="Rapidité"/>
+<label key="1879064143" value="Marque des nobles"/>
+<label key="1879064144" value="Attaque pressante"/>
+<label key="1879064145" value="Mots de courage"/>
+<label key="1879064146" value="Discours motivant"/>
+<label key="1879064147" value="Tactique : garde"/>
+<label key="1879064148" value="Dernier combat"/>
+<label key="1879064149" value="Tactique : att. incessante"/>
+<label key="1879064150" value="Marque révélatrice"/>
+<label key="1879064151" value="Cri de vengeance"/>
+<label key="1879064152" value="Exposition au danger"/>
+<label key="1879064153" value="Tactique : concentration"/>
+<label key="1879064154" value="Commande le respect"/>
+<label key="1879064186" value="Attaque du héraut"/>
+<label key="1879064187" value="Augmentation du Moral"/>
+<label key="1879064188" value="Ballade de la vigueur"/>
+<label key="1879064189" value="Cri perçant"/>
+<label key="1879064190" value="Ballade de l'acier"/>
+<label key="1879064191" value="Ballade de la rapidité"/>
+<label key="1879064192" value="Ballade de volonté inéb."/>
+<label key="1879064193" value="Inspiration"/>
+<label key="1879064194" value="Cri des Valar"/>
+<label key="1879064195" value="Ballade de l'équilibre"/>
+<label key="1879064196" value="Noble Cause"/>
+<label key="1879064197" value="Encouragement"/>
+<label key="1879064198" value="Chant de restauration"/>
+<label key="1879064199" value="Chant des morts"/>
+<label key="1879064200" value="Hymne Peuples Libres"/>
+<label key="1879064201" value="Epopée héroïque"/>
+<label key="1879064202" value="Hymne de sympathie"/>
+<label key="1879064203" value="Guérison de la peur"/>
+<label key="1879064204" value="Esprit triomphal"/>
+<label key="1879064205" value="Ballade des flammes"/>
+<label key="1879064206" value="Chant de distraction"/>
+<label key="1879064207" value="Ballade de la robustesse"/>
+<label key="1879064208" value="Immobilité de cadavre"/>
+<label key="1879064209" value="Lai de Poing de Marteau"/>
+<label key="1879064244" value="Braises ardentes"/>
+<label key="1879064245" value="Ami des corbeaux"/>
+<label key="1879064246" value="Feu intérieur"/>
+<label key="1879064247" value="Bourrasque"/>
+<label key="1879064248" value="Ami des ours"/>
+<label key="1879064249" value="Test de Volonté"/>
+<label key="1879064250" value="Signe du pouvoir :&#10;Magie"/>
+<label key="1879064251" value="Signe du pouvoir :&#10;Injonction"/>
+<label key="1879064252" value="Signe du pouvoir :&#10;Intégrité"/>
+<label key="1879064253" value="Signe du pouvoir :&#10;Vigilance"/>
+<label key="1879064254" value="Connaissance du feu"/>
+<label key="1879064255" value="Connaissance du vent"/>
+<label key="1879064256" value="Connaissance des plantes"/>
+<label key="1879064257" value="Appel aux Valar"/>
+<label key="1879064258" value="Lumière de&#10;l'aube naissante"/>
+<label key="1879064286" value="Grand coup de taille"/>
+<label key="1879064287" value="Défense de gardien"/>
+<label key="1879064288" value="Riposte"/>
+<label key="1879064289" value="Coup violent"/>
+<label key="1879064290" value="Déferlement"/>
+<label key="1879064291" value="Parade de gardien"/>
+<label key="1879064292" value="Riposte tourbillonnante"/>
+<label key="1879064293" value="Fente"/>
+<label key="1879064294" value="Provocation au bouclier"/>
+<label key="1879064295" value="Intrusion"/>
+<label key="1879064296" value="Chacun son tour"/>
+<label key="1879064297" value="Promesse du gardien"/>
+<label key="1879064327" value="Croc-en-jambe"/>
+<label key="1879064328" value="Attaque par surprise"/>
+<label key="1879064329" value="Attaque sournoise"/>
+<label key="1879064330" value="Exaspération"/>
+<label key="1879064331" value="Avantage du cambrioleur"/>
+<label key="1879064332" value="Att. à double tranchant"/>
+<label key="1879064333" value="Exploitation d'ouverture"/>
+<label key="1879064334" value="Embrouillement"/>
+<label key="1879064335" value="Manoeuvre saisissante"/>
+<label key="1879064336" value="Jubilation malicieuse"/>
+<label key="1879064337" value="Révélation de faiblesse"/>
+<label key="1879064338" value="Prêt à l'action"/>
+<label key="1879064339" value="Sur un fil"/>
+<label key="1879064340" value="Equilibre"/>
+<label key="1879064341" value="Détection de trésor"/>
+<label key="1879064342" value="Vol à la tire"/>
+<label key="1879064343" value="Guérison du poison"/>
+<label key="1879064370" value="Tir rapide"/>
+<label key="1879064371" value="Flèche barbelée"/>
+<label key="1879064372" value="Arc rapide"/>
+<label key="1879064373" value="Tir pénétrant"/>
+<label key="1879064374" value="Pluie de flèches"/>
+<label key="1879064375" value="Tir miséricordieux"/>
+<label key="1879064376" value="Coup rapide"/>
+<label key="1879064377" value="Coup aux jambes"/>
+<label key="1879064378" value="Attaque punitive"/>
+<label key="1879064379" value="Angle mort"/>
+<label key="1879064380" value="Répartie agile"/>
+<label key="1879064381" value="Orientation"/>
+<label key="1879064382" value="Purge du poison"/>
+<label key="1879064383" value="Grand feu de camp"/>
+<label key="1879064384" value="Fuite éperdue"/>
+<label key="1879064385" value="Guide du Palais de Thorin"/>
+<label key="1879064386" value="Guide de Bree"/>
+<label key="1879064387" value="Guide d'Esteldin"/>
+<label key="1879064388" value="Guide de Fondcombe"/>
+<label key="1879064389" value="Passage d'animal"/>
+<label key="1879064390" value="Passage d'ennemis"/>
+<label key="1879064391" value="Passage d'ombre"/>
+<label key="1879064392" value="Camouflage"/>
+<label key="1879064393" value="Cri du prédateur"/>
+<label key="1879064394" value="Force des Ents (à dist.)"/>
+<label key="1879064395" value="Ruse d'araignée (à dist.)"/>
+<label key="1879064396" value="Concentration"/>
+<label key="1879064397" value="Position : précision"/>
+<label key="1879064398" value="Position : force"/>
+<label key="1879064399" value="Position : endurance"/>
+<label key="1879064493" value="Ruse, x2 (CàC)"/>
+<label key="1879064494" value="Ruse, x2 (à dist.)"/>
+<label key="1879064495" value="Contribution de ruse"/>
+<label key="1879064496" value="Contribution de ruse"/>
+<label key="1879064505" value="Ruse, x3 (CàC)"/>
+<label key="1879064506" value="Ruse, x3 (à dist.)"/>
+<label key="1879064510" value="Ruse, x4 (CàC)"/>
+<label key="1879064511" value="Ruse, x4 (à dist.)"/>
+<label key="1879064515" value="Tactique, x2"/>
+<label key="1879064516" value="Contribution de tactique"/>
+<label key="1879064521" value="Tactique, x3"/>
+<label key="1879064522" value="Tactique, x4"/>
+<label key="1879064523" value="Force, x2"/>
+<label key="1879064524" value="Force, x2"/>
+<label key="1879064525" value="Contribution de force"/>
+<label key="1879064529" value="Force, x3"/>
+<label key="1879064531" value="Force, x4"/>
+<label key="1879064533" value="Conviction, x2"/>
+<label key="1879064534" value="Contrib. de conviction"/>
+<label key="1879064541" value="Conviction, x3"/>
+<label key="1879064544" value="Conviction, x4"/>
+<label key="1879064547" value="Force, x4"/>
+<label key="1879064548" value="Force, x3"/>
+<label key="1879064549" value="Force, x5"/>
+<label key="1879064550" value="Force, x5"/>
+<label key="1879064552" value="Ruse, x5 (CàC)"/>
+<label key="1879064553" value="Ruse, x5 (à dist.)"/>
+<label key="1879064556" value="Tactique, x5"/>
+<label key="1879064559" value="Conviction, x5"/>
+<label key="1879064561" value="Force, x6"/>
+<label key="1879064562" value="Force, x6"/>
+<label key="1879064564" value="Ruse, x6 (CàC)"/>
+<label key="1879064565" value="Ruse, x6 (à dist.)"/>
+<label key="1879064567" value="Tactique, x6"/>
+<label key="1879064568" value="Conviction, x6"/>
+<label key="1879067225" value="Verre étoilé"/>
+<label key="1879067228" value="Verre des étoiles"/>
+<label key="1879068269" value="Piège multiple"/>
+<label key="1879068276" value="Chausse-trappes niv.1"/>
+<label key="1879068283" value="Billes niv.1"/>
+<label key="1879068289" value="Cor"/>
+<label key="1879069467" value="Piège à ours"/>
+<label key="1879069475" value="Verre étoilé"/>
+<label key="1879069478" value="Verre des étoiles"/>
+<label key="1879070107" value="Piège multiple"/>
+<label key="1879070117" value="Chausse-trappes niv.2"/>
+<label key="1879070122" value="Billes niv.2"/>
+<label key="1879070126" value="Poussière étourdissante niv.2"/>
+<label key="1879070146" value="Cor"/>
+<label key="1879070150" value="Verre étoilé"/>
+<label key="1879070153" value="Verre des étoiles"/>
+<label key="1879070251" value="Piège à ours"/>
+<label key="1879070259" value="Verre étoilé"/>
+<label key="1879070262" value="Verre des étoiles"/>
+<label key="1879070442" value="Chausse-trappes niv.3"/>
+<label key="1879070447" value="Billes niv.3"/>
+<label key="1879070451" value="Poussière étourdissante niv.3"/>
+<label key="1879070469" value="Cor"/>
+<label key="1879072413" value="Exécution"/>
+<label key="1879072419" value="Repoussement 360 CàC"/>
+<label key="1879072525" value="Résistance"/>
+<label key="1879072528" value="Désarmement"/>
+<label key="1879072530" value="Coup au jarret"/>
+<label key="1879072533" value="Toiles d'araignée collantes"/>
+<label key="1879072536" value="A l'affût"/>
+<label key="1879072543" value="Pose de piège"/>
+<label key="1879072545" value="Déluge de flèches"/>
+<label key="1879072548" value="Flèche enflammée"/>
+<label key="1879072549" value="On se réveille !"/>
+<label key="1879072550" value="Mobilisation"/>
+<label key="1879072554" value="Arrêtez de vous plaindre et battez-vous !"/>
+<label key="1879072557" value="Hurlement de ralliement"/>
+<label key="1879072563" value="Disparition"/>
+<label key="1879072565" value="Discrétion"/>
+<label key="1879073004" value="Attaque sauvage"/>
+<label key="1879073007" value="Mur de lames"/>
+<label key="1879073010" value="Coups sauvages"/>
+<label key="1879073019" value="Attaques brutales"/>
+<label key="1879073023" value="Déluge de lames"/>
+<label key="1879073027" value="Attaque fortifiante"/>
+<label key="1879073038" value="Assaut incessant"/>
+<label key="1879073095" value="Attaque du héraut"/>
+<label key="1879073113" value="Chant de vigueur"/>
+<label key="1879073116" value="Cri perçant"/>
+<label key="1879073131" value="Chant d'équilibre"/>
+<label key="1879073192" value="CàC rapide ordinaire min."/>
+<label key="1879073193" value="Bénédiction du corbeau"/>
+<label key="1879073196" value="Distraction"/>
+<label key="1879073198" value="Evitement"/>
+<label key="1879073208" value="Ami des ours amélioré"/>
+<label key="1879073216" value="CàC ordinaire min."/>
+<label key="1879073217" value="CàC ordinaire interm."/>
+<label key="1879073218" value="CàC ordinaire max."/>
+<label key="1879073219" value="Défi rugissant"/>
+<label key="1879073221" value="Ecrasement des bras"/>
+<label key="1879073223" value="Prise de l'ours"/>
+<label key="1879073224" value="Violente entaille"/>
+<label key="1879073234" value="Signe du pouvoir :&#10;Intégrité améliorée"/>
+<label key="1879073238" value="Signe du pouvoir :&#10;Vigilance améliorée"/>
+<label key="1879073287" value="Croc-en-jambe"/>
+<label key="1879073289" value="Attaque par surprise"/>
+<label key="1879073293" value="Attaque sournoise"/>
+<label key="1879073298" value="Provocation"/>
+<label key="1879073320" value="Révélation de faiblesse"/>
+<label key="1879073358" value="Tir rapide :&#10;Flèche enflammée"/>
+<label key="1879073359" value="Tir rapide : flèche elfe"/>
+<label key="1879073363" value="Flèche brûlante"/>
+<label key="1879073364" value="Flèche eldarine"/>
+<label key="1879073373" value="Arc rapide : flambée"/>
+<label key="1879073374" value="Arc rapide :&#10;Lumière stellaire"/>
+<label key="1879073378" value="Tir pénétrant :&#10;Brûlure"/>
+<label key="1879073379" value="Tir pénétrant :&#10;Percée des ténèbres"/>
+<label key="1879073381" value="Pluie de flèches :&#10;Déluge de feu"/>
+<label key="1879073382" value="Pluie de flèches :&#10;Lumière céleste"/>
+<label key="1879073386" value="Coup rapide"/>
+<label key="1879073389" value="Coup aux jambes"/>
+<label key="1879073393" value="Attaque punitive"/>
+<label key="1879073402" value="Répartie agile"/>
+<label key="1879073437" value="Position : endurance"/>
+<label key="1879073470" value="Jet de pierre"/>
+<label key="1879073480" value="Retournez dans la Comté"/>
+<label key="1879073486" value="Dureté de Hobbit"/>
+<label key="1879073491" value="Discrétion de hobbit"/>
+<label key="1879073495" value="Silence de hobbit"/>
+<label key="1879073516" value="Uppercut"/>
+<label key="1879073526" value="Retour à Bree"/>
+<label key="1879073530" value="Appel du devoir"/>
+<label key="1879073537" value="Force du Moral"/>
+<label key="1879073559" value="Ombres sylvestres"/>
+<label key="1879073567" value="Retour à Fondcombe"/>
+<label key="1879073571" value="Grâce des Eldar"/>
+<label key="1879073577" value="Puissance des Eldar"/>
+<label key="1879073596" value="Coup de boule"/>
+<label key="1879073606" value="Retour : Porte de Thorin"/>
+<label key="1879073610" value="Endurance de la pierre"/>
+<label key="1879073614" value="Endurance de Nain"/>
+<label key="1879073674" value="Attaques rapides"/>
+<label key="1879073675" value="Coupure irrégulière"/>
+<label key="1879073676" value="Coup destructeur"/>
+<label key="1879073677" value="Frappe dévastatrice"/>
+<label key="1879073678" value="Poussière aveuglante"/>
+<label key="1879073679" value="Gloire dans la douleur"/>
+<label key="1879073680" value="Attaque à deux armes"/>
+<label key="1879073697" value="Forte tirée"/>
+<label key="1879073698" value="Hampes hurlantes"/>
+<label key="1879073699" value="Cible percée"/>
+<label key="1879073700" value="Tir retardant"/>
+<label key="1879073701" value="Coupure"/>
+<label key="1879073702" value="Cible en mouvement"/>
+<label key="1879073703" value="Attaque arme à une main"/>
+<label key="1879073710" value="Cri d'intimidation"/>
+<label key="1879073711" value="Tranchoir"/>
+<label key="1879073712" value="C'est de la comédie !"/>
+<label key="1879073713" value="Debout !"/>
+<label key="1879073714" value="Promotion"/>
+<label key="1879073715" value="Aura de commandement"/>
+<label key="1879073716" value="Att.arme à 1 main&amp;bouclier"/>
+<label key="1879073737" value="Attaque perçante"/>
+<label key="1879073738" value="Baiser contaminant"/>
+<label key="1879073739" value="Poison latent"/>
+<label key="1879073740" value="Toile d'immobilisation"/>
+<label key="1879073741" value="Toile d'emmêlement"/>
+<label key="1879073742" value="Crachat de poison"/>
+<label key="1879073743" value="Sanctuaire"/>
+<label key="1879073750" value="Griffes"/>
+<label key="1879073751" value="Attaque subite"/>
+<label key="1879073752" value="Crocs sauvages"/>
+<label key="1879073753" value="Morsure invalidante"/>
+<label key="1879073754" value="Arrachage de gorge"/>
+<label key="1879073755" value="Sprint"/>
+<label key="1879073757" value="Griffes bestiales"/>
+<label key="1879073758" value="Attaque soudaine"/>
+<label key="1879074084" value="Morsure infectieuse"/>
+<label key="1879074102" value="Basic Test Attack"/>
+<label key="1879074129" value="Eloignement"/>
+<label key="1879075407" value="Arme de jet"/>
+<label key="1879076051" value="Courant max. CàC"/>
+<label key="1879076075" value="Coeur de la communauté"/>
+<label key="1879076087" value="Ombre max. CàC"/>
+<label key="1879076091" value="Feu max. CàC"/>
+<label key="1879076092" value="Feu max. à distance"/>
+<label key="1879076096" value="Ombre max. lancer"/>
+<label key="1879076097" value="Ombre max. à distance"/>
+<label key="1879076098" value="Feu double CàC"/>
+<label key="1879077216" value="Saignement max. lancer"/>
+<label key="1879077393" value="Explosion d'eau"/>
+<label key="1879077434" value="Huile brûlante"/>
+<label key="1879077435" value="Huile brûlante"/>
+<label key="1879077436" value="Gourde de feu"/>
+<label key="1879077450" value="Charge"/>
+<label key="1879077453" value="Saignement min. CàC"/>
+<label key="1879077523" value="Attaque souterraine"/>
+<label key="1879077597" value="Invocation de rampant"/>
+<label key="1879077713" value="Dards aspirants"/>
+<label key="1879077716" value="Léthargie due au poison"/>
+<label key="1879078351" value="Morsure du fléau"/>
+<label key="1879078381" value="Balayage"/>
+<label key="1879078382" value="Claque"/>
+<label key="1879078538" value="Coup de grappin"/>
+<label key="1879078719" value="Explosion sonique"/>
+<label key="1879078720" value="Invocation de rejeton"/>
+<label key="1879078724" value="Guérison"/>
+<label key="1879079857" value="Racine éclatante"/>
+<label key="1879079858" value="Invocation de racine"/>
+<label key="1879079958" value="Lianes étouffantes"/>
+<label key="1879079959" value="Racines pièges"/>
+<label key="1879079960" value="Invocation de racine"/>
+<label key="1879080037" value="Aide mineure"/>
+<label key="1879080038" value="Aide majeure"/>
+<label key="1879080039" value="Abeilles furieuses"/>
+<label key="1879080089" value="Guérison"/>
+<label key="1879080090" value="Guérison"/>
+<label key="1879080091" value="Guérison"/>
+<label key="1879080108" value="Réprimande brutale"/>
+<label key="1879080109" value="Eclatement soudain"/>
+<label key="1879080110" value="Cyclone d'eau"/>
+<label key="1879080111" value="Prison aqueuse"/>
+<label key="1879080112" value="Les eaux sont miennes"/>
+<label key="1879080134" value="Fermeté"/>
+<label key="1879080291" value="Regard circulaire"/>
+<label key="1879080358" value="Attaque subite"/>
+<label key="1879080359" value="Morsure sauvage"/>
+<label key="1879080379" value="Eclat de flammes"/>
+<label key="1879080425" value="Interruption lancer"/>
+<label key="1879080550" value="Repoussement 360 CàC"/>
+<label key="1879081143" value="Aide à l'archer"/>
+<label key="1879081314" value="Saignement min. feu CàC"/>
+<label key="1879081982" value="Pot de goudron"/>
+<label key="1879081983" value="Pot de goudron"/>
+<label key="1879082059" value="Augmentation de l'alarme"/>
+<label key="1879082153" value="Frénésie furieuse"/>
+<label key="1879082155" value="Sonnerie de cor"/>
+<label key="1879082161" value="Reflets illusoires"/>
+<label key="1879082204" value="Couteau de poison ralent."/>
+<label key="1879082205" value="Couteau de poison étourd."/>
+<label key="1879082206" value="Gourde immonde"/>
+<label key="1879082345" value="Geste dédaigneux"/>
+<label key="1879082540" value="Sonnez le cor"/>
+<label key="1879083297" value="Poison fatal"/>
+<label key="1879083298" value="Toile d'immobilisation"/>
+<label key="1879083299" value="Toile d'immobilisation"/>
+<label key="1879083331" value="Invocation d'ours polaire"/>
+<label key="1879083333" value="Rugissement terrible"/>
+<label key="1879083334" value="Souffle volé inférieur"/>
+<label key="1879083335" value="Souffle volé supérieur"/>
+<label key="1879083336" value="Souffle volé final"/>
+<label key="1879083337" value="Oeil sinistre"/>
+<label key="1879083338" value="Morsure de finition"/>
+<label key="1879083339" value="Boule d'ombre fatale"/>
+<label key="1879083351" value="Puissante projection"/>
+<label key="1879083519" value="Rajeunissement surnaturel"/>
+<label key="1879083712" value="Invoquer des&#10;serviteurs gorthorogs"/>
+<label key="1879083727" value="Restaurer la Puissance"/>
+<label key="1879083728" value="Invoquer des corbeaux"/>
+<label key="1879083729" value="Guérison"/>
+<label key="1879083731" value="Guérison"/>
+<label key="1879083732" value="Guérison"/>
+<label key="1879083838" value="Bannière d'espoir"/>
+<label key="1879083845" value="Bannière de victoire"/>
+<label key="1879083848" value="Bannière de guerre"/>
+<label key="1879084053" value="Attaque à l'arc"/>
+<label key="1879084175" value="Terrible coup au corps à corps"/>
+<label key="1879084176" value="Terrible coup à distance"/>
+<label key="1879084247" value="Invoquer un ours polaire"/>
+<label key="1879084334" value="Guérison"/>
+<label key="1879084352" value="Vol odieux"/>
+<label key="1879084409" value="Venin mortel"/>
+<label key="1879084782" value="Ombre CàC interm."/>
+<label key="1879084783" value="Ombre CàC élevée"/>
+<label key="1879084784" value="Ombre CàC max"/>
+<label key="1879084785" value="Double ombre CàC"/>
+<label key="1879084786" value="Triple ombre CàC"/>
+<label key="1879084787" value="Contre-attaque CàC&#10;en arc de cercle"/>
+<label key="1879084789" value="Balayage caudal"/>
+<label key="1879084790" value="Souffle d'ombre"/>
+<label key="1879084791" value="Claquement d'aile"/>
+<label key="1879084792" value="Boule d'ombre"/>
+<label key="1879085063" value="Invocation de disciples archers"/>
+<label key="1879085066" value="Invocation de disciples chasseurs"/>
+<label key="1879085094" value="Piétinement massif"/>
+<label key="1879085097" value="Libération de racines"/>
+<label key="1879085103" value="Racine endurcie"/>
+<label key="1879085106" value="Invocation de la nature"/>
+<label key="1879085107" value="Coupure brutale"/>
+<label key="1879085113" value="Coup de pied circulaire"/>
+<label key="1879085114" value="Cri furieux"/>
+<label key="1879085117" value="Tir (niveau 4)"/>
+<label key="1879085129" value="Attaque de racines"/>
+<label key="1879085142" value="Tranchoir (niveau 4)"/>
+<label key="1879085148" value="Tranche (niveau 3)"/>
+<label key="1879085149" value="Lacération (niveau 1)"/>
+<label key="1879085154" value="Entaille (niveau 2)"/>
+<label key="1879085456" value="Lancer ordinaire haut"/>
+<label key="1879085534" value="Invocations profondes"/>
+<label key="1879085540" value="Coup retourné"/>
+<label key="1879085554" value="Corne"/>
+<label key="1879085555" value="Corne"/>
+<label key="1879085556" value="Corne"/>
+<label key="1879085727" value="Guérison"/>
+<label key="1879085849" value="CàC ordinaire rapide interm."/>
+<label key="1879085850" value="CàC ordinaire rapide max."/>
+<label key="1879085851" value="CàC ordinaire rapide min."/>
+<label key="1879085905" value="Double lancer"/>
+<label key="1879085986" value="Saignement interm. à distance"/>
+<label key="1879086359" value="Saignement interm. lancer"/>
+<label key="1879086508" value="Guérison"/>
+<label key="1879086525" value="Feu max. lancer"/>
+<label key="1879086526" value="Feu min. lancer"/>
+<label key="1879086529" value="Feu lancer bas"/>
+<label key="1879086534" value="Feu interm. lancer"/>
+<label key="1879086712" value="Actes héroïques"/>
+<label key="1879086713" value="Lames bloquantes"/>
+<label key="1879086716" value="Gloire"/>
+<label key="1879086717" value="Brume rouge"/>
+<label key="1879087112" value="Cri plaintif"/>
+<label key="1879087115" value="Appel du troupeau"/>
+<label key="1879087207" value="Repli accéléré"/>
+<label key="1879087213" value="Repli accéléré"/>
+<label key="1879087251" value="Moral concentré réduit"/>
+<label key="1879087252" value="Moral concentré augmenté"/>
+<label key="1879087265" value="Agilité réduite"/>
+<label key="1879087266" value="Agilité augmentée"/>
+<label key="1879087268" value="Vitalité augmentée"/>
+<label key="1879087269" value="Volonté réduite"/>
+<label key="1879087271" value="Destinée réduite"/>
+<label key="1879087272" value="Destinée augmentée"/>
+<label key="1879087289" value="Invoquez une araignée"/>
+<label key="1879087290" value="Invoquez une araignée"/>
+<label key="1879087330" value="Force réduite"/>
+<label key="1879087336" value="Puissance réduite"/>
+<label key="1879087337" value="Puissance augmentée"/>
+<label key="1879087383" value="Invoquez une araignée"/>
+<label key="1879087384" value="Invoquez une araignée"/>
+<label key="1879087440" value="Ignoble vomissure"/>
+<label key="1879087459" value="Crasse puante"/>
+<label key="1879087460" value="Invocation de grifferoche"/>
+<label key="1879087461" value="Invocation de grifferoche"/>
+<label key="1879087466" value="Guérison créat. appriv."/>
+<label key="1879087471" value="Profanation des morts"/>
+<label key="1879087473" value="Crasse pestilentielle"/>
+<label key="1879087522" value="Régulation de Moral"/>
+<label key="1879087523" value="Régulation de Moral"/>
+<label key="1879087524" value="Moral soudain"/>
+<label key="1879087525" value="Moral soudain"/>
+<label key="1879087526" value="Régulation de Puissance"/>
+<label key="1879087527" value="Puissance soudaine"/>
+<label key="1879087528" value="Régulation de Moral"/>
+<label key="1879087529" value="Régulation de Moral"/>
+<label key="1879087530" value="Moral soudain"/>
+<label key="1879087532" value="Régulation de Puissance"/>
+<label key="1879087533" value="Puissance soudaine"/>
+<label key="1879087534" value="Régulation de Moral"/>
+<label key="1879087535" value="Régulation de Moral"/>
+<label key="1879087536" value="Moral soudain"/>
+<label key="1879087537" value="Moral soudain"/>
+<label key="1879087539" value="Puissance soudaine"/>
+<label key="1879087548" value="Profanation des morts"/>
+<label key="1879087615" value="Main de terreur"/>
+<label key="1879087616" value="Attaques sauvages"/>
+<label key="1879087617" value="Attaques sauvages"/>
+<label key="1879087618" value="Attaques sauvages"/>
+<label key="1879087620" value="Bond de prédateur"/>
+<label key="1879087621" value="Lance perçante"/>
+<label key="1879087622" value="Lance empoisonnée"/>
+<label key="1879087623" value="Invocation de loup"/>
+<label key="1879087624" value="Invocation loup revenant"/>
+<label key="1879087625" value="Restauration de meute"/>
+<label key="1879087626" value="Commandement de loup"/>
+<label key="1879087642" value="Invocation de loup"/>
+<label key="1879087691" value="Grande Puissance"/>
+<label key="1879087692" value="Grande persévérance"/>
+<label key="1879087693" value="Grande responsabilité"/>
+<label key="1879087771" value="Grande restauration"/>
+<label key="1879087773" value="Grande restauration"/>
+<label key="1879087873" value="Flamboiement"/>
+<label key="1879087874" value="Vive lueur"/>
+<label key="1879087963" value="Attaque brutale"/>
+<label key="1879087965" value="Invocation de bande"/>
+<label key="1879087966" value="Déséquilibre"/>
+<label key="1879088004" value="Boule de goudron"/>
+<label key="1879088064" value="Coup de tonnerre"/>
+<label key="1879088068" value="Poulet touché"/>
+<label key="1879088084" value="Crachat de venin"/>
+<label key="1879088169" value="Att. sans arme à une main"/>
+<label key="1879088170" value="Att. sans arme à 2 mains"/>
+<label key="1879088680" value="Terrible coup CàC"/>
+<label key="1879088681" value="Terrible coup à distance"/>
+<label key="1879088731" value="Colère atténuée"/>
+<label key="1879088732" value="Colère grandissante"/>
+<label key="1879088745" value="Bouclier de pierre"/>
+<label key="1879088750" value="Coup de pilon"/>
+<label key="1879088751" value="Gémissement sonique"/>
+<label key="1879088770" value="Dague du blaireau"/>
+<label key="1879088809" value="Prison de racines"/>
+<label key="1879088962" value="Vulnérabilité au feu"/>
+<label key="1879088964" value="Invocation de l'Oeil"/>
+<label key="1879088965" value="Terre roussie"/>
+<label key="1879089138" value="Feu des tréfonds"/>
+<label key="1879089176" value="Miel à ours&#10;de moindre qualité"/>
+<label key="1879089201" value="Destruction d'armure"/>
+<label key="1879089293" value="Force par les ombres"/>
+<label key="1879089294" value="Invocation des ombres"/>
+<label key="1879089313" value="Miel à ours"/>
+<label key="1879089315" value="Miel à ours goûteux"/>
+<label key="1879089381" value="Réduction de vie"/>
+<label key="1879089382" value="Don des malfaisants"/>
+<label key="1879089383" value="Appel de l'au-delà"/>
+<label key="1879089384" value="Froid de l'Ombre"/>
+<label key="1879089385" value="Baiser des ombres"/>
+<label key="1879089386" value="Ponction de vie"/>
+<label key="1879089400" value="Bâton des Ombres noires"/>
+<label key="1879089401" value="Parchemin de ruine"/>
+<label key="1879089402" value="Cor d'Anor"/>
+<label key="1879089488" value="Acier brûlant"/>
+<label key="1879089489" value="Flamme abyssale"/>
+<label key="1879089490" value="Etreinte de la terreur"/>
+<label key="1879089491" value="Flammes dévorantes"/>
+<label key="1879089492" value="Affliction de l'Ombre"/>
+<label key="1879089493" value="Affliction du feu"/>
+<label key="1879089494" value="Baiser des l'Ombre"/>
+<label key="1879089495" value="Baiser des Abysses"/>
+<label key="1879089496" value="Caresse du feu"/>
+<label key="1879089497" value="Flamme des Abysses"/>
+<label key="1879089498" value="Feu intérieur"/>
+<label key="1879089621" value="Persévérance réduite"/>
+<label key="1879089623" value="Inspiration"/>
+<label key="1879089624" value="Frère de bouclier"/>
+<label key="1879089656" value="Don du revenant"/>
+<label key="1879089741" value="Attaque à l'arme à une main"/>
+<label key="1879089742" value="Attaque à l'arc"/>
+<label key="1879089788" value="Discrétion"/>
+<label key="1879089789" value="Disparition"/>
+<label key="1879089790" value="Frappe du Dunadan"/>
+<label key="1879089793" value="Sang des Dunedain"/>
+<label key="1879089818" value="Marque des Dunedain"/>
+<label key="1879089819" value="Cible facile"/>
+<label key="1879089857" value="Retour au campement"/>
+<label key="1879089858" value="Guide d'Ost Guruth"/>
+<label key="1879089859" value="Guide de Grand'Cave"/>
+<label key="1879089860" value="Guide d'Evendim"/>
+<label key="1879089861" value="Guide vers l'ouest de l'Angmar"/>
+<label key="1879089862" value="Guide vers l'est de l'Angmar"/>
+<label key="1879089873" value="Jet de dague"/>
+<label key="1879089874" value="Flèche libératrice"/>
+<label key="1879089875" value="Cherche-coeur"/>
+<label key="1879089876" value="Force de la Terre"/>
+<label key="1879090218" value="Ecrasement"/>
+<label key="1879090219" value="Balaiement de la main"/>
+<label key="1879090220" value="Rocher"/>
+<label key="1879090221" value="Attaque à l'arme à une main"/>
+<label key="1879090222" value="Jet de pierre"/>
+<label key="1879090225" value="Ecraser"/>
+<label key="1879090226" value="Piétinement"/>
+<label key="1879090227" value="Gros coup"/>
+<label key="1879090228" value="Saccage"/>
+<label key="1879090245" value="Rugissement"/>
+<label key="1879090790" value="Attraction"/>
+<label key="1879090854" value="Piège efficace"/>
+<label key="1879090856" value="Leurre"/>
+<label key="1879090857" value="Fil de détente"/>
+<label key="1879090859" value="Piège rapide"/>
+<label key="1879090864" value="Cape de poulet"/>
+<label key="1879090865" value="Pose de collet"/>
+<label key="1879091318" value="Conversion"/>
+<label key="1879091725" value="Aux armes !"/>
+<label key="1879091726" value="Coup de pied"/>
+<label key="1879091727" value="Blessure grave"/>
+<label key="1879091728" value="Suppression"/>
+<label key="1879091730" value="Temps de besoin"/>
+<label key="1879092194" value="Sels"/>
+<label key="1879092634" value="Lame d'Elendil"/>
+<label key="1879092681" value="Tarte très recherchée"/>
+<label key="1879092788" value="Fuite des ténèbres"/>
+<label key="1879092795" value="Le mépris de l'eau"/>
+<label key="1879092796" value="Mains trempées"/>
+<label key="1879092797" value="Cyclone noir"/>
+<label key="1879092799" value="Appel aux armes : héraut de victoire amélioré"/>
+<label key="1879092800" value="Appel aux armes : héraut de guerre amélioré"/>
+<label key="1879092801" value="Appel aux armes : héraut d'espoir amélioré"/>
+<label key="1879092809" value="Aura d'espoir"/>
+<label key="1879092810" value="Attaque vengeresse"/>
+<label key="1879092811" value="Désespoir"/>
+<label key="1879092813" value="Gémissement"/>
+<label key="1879092815" value="Présence imposante"/>
+<label key="1879093044" value="Détection d'artefacts"/>
+<label key="1879093057" value="Attaque sans arme à une main"/>
+<label key="1879093058" value="Vive l'esquive"/>
+<label key="1879093059" value="Où est le ver ?"/>
+<label key="1879093060" value="Légèreté de la volaille"/>
+<label key="1879093082" value="Sac postal très recherché"/>
+<label key="1879093313" value="Responsabilité"/>
+<label key="1879093328" value="Feu céleste"/>
+<label key="1879093329" value="Flammes montantes"/>
+<label key="1879093336" value="Volonté"/>
+<label key="1879093367" value="Recherche de flamme"/>
+<label key="1879093398" value="Brasero"/>
+<label key="1879093404" value="Brie des galgals"/>
+<label key="1879093784" value="Lacération majeure"/>
+<label key="1879093785" value="Lacération"/>
+<label key="1879093786" value="Lacération mineure"/>
+<label key="1879093788" value="Dans l'ombre"/>
+<label key="1879093800" value="Invocation de héros tombés"/>
+<label key="1879093813" value="Réplique de hobbit fouineur"/>
+<label key="1879093814" value="Bocal à spécimens : lucioles"/>
+<label key="1879093815" value="Sébile"/>
+<label key="1879093816" value="Réplique de hobbit affamé"/>
+<label key="1879093817" value="Bocal à spécimens : papillons"/>
+<label key="1879093818" value="Bocal à spécimens : mouches"/>
+<label key="1879093819" value="Griffe de l'ours fantôme"/>
+<label key="1879093833" value="Appel aux morts"/>
+<label key="1879093834" value="Explosion finale"/>
+<label key="1879093835" value="Appel aux morts"/>
+<label key="1879093838" value="Dernier éclat"/>
+<label key="1879093860" value="Ombres collantes"/>
+<label key="1879093861" value="Ombre de harcèlement"/>
+<label key="1879093862" value="Terre brûlée"/>
+<label key="1879093928" value="Opossum"/>
+<label key="1879094291" value="Sifflet"/>
+<label key="1879094292" value="Sifflet"/>
+<label key="1879094628" value="Invoquer serviteur ourouk bleu"/>
+<label key="1879094629" value="Invoquer serviteur ourouk rouge"/>
+<label key="1879094716" value="Haute frappe puissante"/>
+<label key="1879094717" value="Ecraser"/>
+<label key="1879094735" value="Brutalité de troll (corps à corps)"/>
+<label key="1879094736" value="Ajout de blessure (corps à corps)"/>
+<label key="1879094742" value="Aura de fureur"/>
+<label key="1879094787" value="Paranoia"/>
+<label key="1879094797" value="Eclat fatal"/>
+<label key="1879094805" value="Protection contre le feu de la faille"/>
+<label key="1879094819" value="Connaissance de la protection : créatures de la nature"/>
+<label key="1879094820" value="Connaissance de la protection : drakes"/>
+<label key="1879094821" value="Connaissance de la protection : morts"/>
+<label key="1879094823" value="Artisanat ancien"/>
+<label key="1879094827" value="Goudron collant"/>
+<label key="1879094844" value="Connaissance de l'orage"/>
+<label key="1879094880" value="Epopée de protection"/>
+<label key="1879094881" value="Epopée de combat"/>
+<label key="1879094935" value="Chant du parjure"/>
+<label key="1879094936" value="Choeur des parjures"/>
+<label key="1879094937" value="Discours de guerre"/>
+<label key="1879094938" value="Appel au Roi Ancien"/>
+<label key="1879094939" value="Appel du Second Age"/>
+<label key="1879094940" value="Appel à la grandeur"/>
+<label key="1879094941" value="Appel à la communauté"/>
+<label key="1879094942" value="Don du Poing de Marteau"/>
+<label key="1879095070" value="Toit éboulé"/>
+<label key="1879095071" value="Combat de Puissance"/>
+<label key="1879095073" value="Balayage pacificateur"/>
+<label key="1879095074" value="Missile"/>
+<label key="1879095075" value="Rugissement dissimulé"/>
+<label key="1879095078" value="Tempête foudroyante"/>
+<label key="1879095103" value="Terreur d'esprit cruel (à distance)"/>
+<label key="1879095134" value="Ajout de maladie (à distance)"/>
+<label key="1879095138" value="Conviction, x2"/>
+<label key="1879095141" value="Peur, x3 (à distance)"/>
+<label key="1879095147" value="Conviction, x6"/>
+<label key="1879095150" value="Blessure, x2 (à distance)"/>
+<label key="1879095152" value="Maladie, x3 (à distance)"/>
+<label key="1879095153" value="Ajout de maladie (corps à corps)"/>
+<label key="1879095155" value="Blessure, x3"/>
+<label key="1879095158" value="Blessure, x2 (corps à corps)"/>
+<label key="1879095163" value="Maladie, x4 (à distance)"/>
+<label key="1879095165" value="Contribution de ruse"/>
+<label key="1879095166" value="Poison, x3 (à distance)"/>
+<label key="1879095167" value="Peur, x5 (à distance)"/>
+<label key="1879095169" value="Maladie, x4 (corps à corps)"/>
+<label key="1879095170" value="Ajout de peur (à distance)"/>
+<label key="1879095171" value="Poison, x2 (corps à corps)"/>
+<label key="1879095172" value="Poison, x6 (corps à corps)"/>
+<label key="1879095174" value="Poison, x6 (à distance)"/>
+<label key="1879095176" value="Contribution de ruse"/>
+<label key="1879095177" value="Ajout de poison (à distance)"/>
+<label key="1879095182" value="Peur, x4 (à distance)"/>
+<label key="1879095186" value="Ruse à distance, x3"/>
+<label key="1879095187" value="Ruse à distance, x5"/>
+<label key="1879095188" value="Poison, x2 (à distance)"/>
+<label key="1879095190" value="Ajout de poison (corps à corps)"/>
+<label key="1879095193" value="Maladie, x3 (à distance)"/>
+<label key="1879095194" value="Blessure, x5 (corps à corps)"/>
+<label key="1879095197" value="Peur, x3 (à distance)"/>
+<label key="1879095200" value="Blessure, x4 (corps à corps)"/>
+<label key="1879095201" value="Poison, x3 (à distance)"/>
+<label key="1879095202" value="Maladie, x5 (corps à corps)"/>
+<label key="1879095205" value="Maladie, x2 (corps à corps)"/>
+<label key="1879095208" value="Blessure, x6 (corps à corps)"/>
+<label key="1879095209" value="Venin d'araignée (corps à corps)"/>
+<label key="1879095210" value="Blessure, x6 (corps à corps)"/>
+<label key="1879095211" value="Blessure, x6 (à distance)"/>
+<label key="1879095213" value="Conviction, x3"/>
+<label key="1879095214" value="Conviction, x5"/>
+<label key="1879095215" value="Brutalité de troll (à distance)"/>
+<label key="1879095219" value="Poison, x6 (corps à corps)"/>
+<label key="1879095225" value="Maladie, x5 (à distance)"/>
+<label key="1879095226" value="Tactique, x3"/>
+<label key="1879095229" value="Poison, x5 (corps à corps)"/>
+<label key="1879095231" value="Force, x6"/>
+<label key="1879095233" value="Poison, x24 (à distance)"/>
+<label key="1879095236" value="Poison, x2 (corps à corps)"/>
+<label key="1879095238" value="Poison, x3 (corps à corps)"/>
+<label key="1879095240" value="Force, x4"/>
+<label key="1879095244" value="Blessure, x5 (corps à corps)"/>
+<label key="1879095245" value="Poison, x3 (corps à corps)"/>
+<label key="1879095248" value="Ruse au corps à corps, x2"/>
+<label key="1879095250" value="Maladie, x2 (à distance)"/>
+<label key="1879095251" value="Poison, x2 (à distance)"/>
+<label key="1879095252" value="Blessure, x3 (à distance)"/>
+<label key="1879095256" value="Poison, x6 (à distance)"/>
+<label key="1879095257" value="Venin d'araignée (à distance)"/>
+<label key="1879095261" value="Blessure, x2 (à distance)"/>
+<label key="1879095265" value="Blessure, x4 (à distance)"/>
+<label key="1879095268" value="Force, x4"/>
+<label key="1879095270" value="Contribution de force"/>
+<label key="1879095273" value="Force, x6"/>
+<label key="1879095275" value="Ruse au corps à corps, x6"/>
+<label key="1879095279" value="Blessure, x3 (corps à corps)"/>
+<label key="1879095282" value="Ajout de blessure (à distance)"/>
+<label key="1879095286" value="Ajout de poison (corps à corps)"/>
+<label key="1879095292" value="Tactique, x5"/>
+<label key="1879095296" value="Tactique, x2"/>
+<label key="1879095298" value="Maladie, x5 (à distance)"/>
+<label key="1879095299" value="Maladie, x6 (corps à corps)"/>
+<label key="1879095301" value="Conviction, x4"/>
+<label key="1879095305" value="Blessure, x4 (à distance)"/>
+<label key="1879095308" value="Blessure, x2 (corps à corps)"/>
+<label key="1879095309" value="Ruse à distance, x2"/>
+<label key="1879095312" value="Peur, x2 (à distance)"/>
+<label key="1879095317" value="Poison, x5 (à distance)"/>
+<label key="1879095322" value="Maladie, x4 (corps à corps)"/>
+<label key="1879095323" value="Maladie, x4 (à distance)"/>
+<label key="1879095326" value="Maladie, x3 (corps à corps)"/>
+<label key="1879095328" value="Ruse à distance, x4"/>
+<label key="1879095329" value="Ruse au corps à corps, x3"/>
+<label key="1879095331" value="Peur, x6 (à distance)"/>
+<label key="1879095333" value="Poison, x4 (corps à corps)"/>
+<label key="1879095337" value="Ajout de maladie (corps à corps)"/>
+<label key="1879095338" value="Blessure, x3 (corps à corps)"/>
+<label key="1879095339" value="Blessure, x4 (corps à corps)"/>
+<label key="1879095340" value="Peur, x6 (à distance)"/>
+<label key="1879095341" value="Force, x3"/>
+<label key="1879095343" value="Contribution de tactique"/>
+<label key="1879095344" value="Peur, x2 (à distance)"/>
+<label key="1879095347" value="Contribution de conviction"/>
+<label key="1879095353" value="Poison, x5 (à distance)"/>
+<label key="1879095354" value="Maladie, x6 (à distance)"/>
+<label key="1879095355" value="Peur, x4 (à distance)"/>
+<label key="1879095356" value="Poison, x4 (corps à corps)"/>
+<label key="1879095357" value="Force, x2"/>
+<label key="1879095359" value="Ruse au corps à corps, x5"/>
+<label key="1879095360" value="Ajout de poison (à distance)"/>
+<label key="1879095361" value="Blessure, x6 (à distance)"/>
+<label key="1879095362" value="Maladie, x2 (à distance)"/>
+<label key="1879095365" value="Force, x5"/>
+<label key="1879095367" value="Force, x2"/>
+<label key="1879095368" value="Maladie, x6 (corps à corps)"/>
+<label key="1879095370" value="Maladie, x6 (à distance)"/>
+<label key="1879095373" value="Poison, x4 (à distance)"/>
+<label key="1879095379" value="Poison, x5 (corps à corps)"/>
+<label key="1879095383" value="Putréfaction d'être spectral (corps à corps)"/>
+<label key="1879095386" value="Ajout de maladie (à distance)"/>
+<label key="1879095390" value="Force, x5"/>
+<label key="1879095392" value="Putréfaction d'être spectral (à distance)"/>
+<label key="1879095397" value="Tactique, x4"/>
+<label key="1879095398" value="Ajout de peur (à distance)"/>
+<label key="1879095400" value="Maladie, x2 (corps à corps)"/>
+<label key="1879095404" value="Ajout de blessure (corps à corps)"/>
+<label key="1879095405" value="Force, x3"/>
+<label key="1879095411" value="Ruse au corps à corps, x4"/>
+<label key="1879095412" value="Ajout de blessure (à distance)"/>
+<label key="1879095413" value="Maladie, x5 (corps à corps)"/>
+<label key="1879095416" value="Ruse à distance, x6"/>
+<label key="1879095417" value="Blessure, x5 (à distance)"/>
+<label key="1879095420" value="Peur, x5 (à distance)"/>
+<label key="1879095422" value="Maladie, x3 (corps à corps)"/>
+<label key="1879095423" value="Blessure, x5 (à distance)"/>
+<label key="1879095424" value="Tactique, x6"/>
+<label key="1879095468" value="Connaissance de l'air"/>
+<label key="1879095489" value="Bougie parfumée"/>
+<label key="1879095507" value="Langue des lynx"/>
+<label key="1879095792" value="Flamme jaillissante"/>
+<label key="1879095793" value="Flammes d'engloutissement"/>
+<label key="1879095794" value="Coup d'aile"/>
+<label key="1879095840" value="Ponction profonde"/>
+<label key="1879095841" value="Mangemonde"/>
+<label key="1879095842" value="Obscurité aveuglante"/>
+<label key="1879095843" value="Appel au vide"/>
+<label key="1879095844" value="Canalisation du vide"/>
+<label key="1879095845" value="Au-delà du monde"/>
+<label key="1879095846" value="Rejet du monde"/>
+<label key="1879096308" value="Don du vide"/>
+<label key="1879096309" value="Etat d'invulnérabilité aux conjonctions"/>
+<label key="1879096310" value="Quitter l'état d'invulnérabilité aux conjonctions"/>
+<label key="1879096311" value="Cuir du drake hivernal"/>
+<label key="1879096312" value="Morsure réflexe"/>
+<label key="1879096321" value="Accord du salut"/>
+<label key="1879096322" value="Mélodie irrésistible"/>
+<label key="1879096481" value="Force explosive"/>
+<label key="1879096482" value="Santé par le sacrifice"/>
+<label key="1879096583" value="Panique !"/>
+<label key="1879096584" value="Déchirement de coeur"/>
+<label key="1879096585" value="Cri terrifiant"/>
+<label key="1879096586" value="Serviteur ailé"/>
+<label key="1879096587" value="Coup de serre"/>
+<label key="1879096588" value="Taillade vicieuse"/>
+<label key="1879096589" value="Coup aux organes vitaux"/>
+<label key="1879096590" value="Lècheflamme"/>
+<label key="1879096591" value="Force de la victime"/>
+<label key="1879096771" value="Guérison de créature apprivoisée"/>
+<label key="1879096836" value="Rédaction de manuel : harpe"/>
+<label key="1879096837" value="Position de scribe"/>
+<label key="1879096866" value="Rédaction de manuel : cornemuse"/>
+<label key="1879096867" value="Rédaction de manuel : clarinette"/>
+<label key="1879096868" value="Rédaction de manuel : cloche de vache"/>
+<label key="1879096869" value="Rédaction de manuel : tambour"/>
+<label key="1879096870" value="Rédaction de manuel : flûte"/>
+<label key="1879096871" value="Rédaction de manuel : cor"/>
+<label key="1879096872" value="Rédaction de manuel : cloche de vache des landes"/>
+<label key="1879096873" value="Rédaction de manuel : théorbe"/>
+<label key="1879096874" value="Attaque bestiale"/>
+<label key="1879096875" value="Griffes cinglantes"/>
+<label key="1879096876" value="Attaque-surprise"/>
+<label key="1879097058" value="Retirer le renfort de limitation"/>
+<label key="1879097069" value="Rift Item Skill"/>
+<label key="1879097091" value="Don de sang"/>
+<label key="1879097092" value="Broyage d'os"/>
+<label key="1879097096" value="Rapidité au corps à corps min. ordinaire"/>
+<label key="1879097097" value="Rapidité au corps à corps inter. ordinaire"/>
+<label key="1879097132" value="Guérison"/>
+<label key="1879097176" value="Rift Item Skill"/>
+<label key="1879097177" value="Rift Item Skill"/>
+<label key="1879097178" value="Rift Item Skill"/>
+<label key="1879097179" value="Rift Item Skill"/>
+<label key="1879097180" value="Rift Item Skill"/>
+<label key="1879097181" value="Rift Item Skill"/>
+<label key="1879097202" value="Langue des oiseaux"/>
+<label key="1879097203" value="Langue des chats"/>
+<label key="1879097204" value="Langue des chiens"/>
+<label key="1879097205" value="Langue des renards"/>
+<label key="1879097206" value="Langue des grenouilles"/>
+<label key="1879097207" value="Langue des lapins"/>
+<label key="1879097208" value="Langue des serpents"/>
+<label key="1879097209" value="Langue des écureuils"/>
+<label key="1879097230" value="Langue des tortues"/>
+<label key="1879097282" value="In extremis"/>
+<label key="1879097349" value="Vieille rancune"/>
+<label key="1879097350" value="Aura de protection"/>
+<label key="1879097351" value="Aura de restauration"/>
+<label key="1879097352" value="Aura de rage"/>
+<label key="1879097353" value="Aura de châtiment"/>
+<label key="1879097354" value="Rugissement menaçant"/>
+<label key="1879097355" value="Lame et chaîne"/>
+<label key="1879097356" value="Canal de lames"/>
+<label key="1879097357" value="Epée brutale"/>
+<label key="1879097358" value="Entrer en mode Enchaînement"/>
+<label key="1879097359" value="Quitter le mode Enchaînement"/>
+<label key="1879097360" value="Coups d'enchaînement"/>
+<label key="1879097361" value="Coups d'enchaînement"/>
+<label key="1879097362" value="Coups d'enchaînement"/>
+<label key="1879097363" value="Attaque d'exposition"/>
+<label key="1879097364" value="Affliction fatale"/>
+<label key="1879097365" value="Grave coupure"/>
+<label key="1879097366" value="Poing d'impact"/>
+<label key="1879097367" value="Proie marquée"/>
+<label key="1879097368" value="Vengeance impitoyable"/>
+<label key="1879097369" value="Réprimande du prisonnier"/>
+<label key="1879097370" value="Chaîne de rappel"/>
+<label key="1879097371" value="Epée sauvage"/>
+<label key="1879097372" value="Attaque d'envoi"/>
+<label key="1879097373" value="Claquement d'acier"/>
+<label key="1879097374" value="Tromperie au soufre"/>
+<label key="1879097375" value="Déluge de soufre"/>
+<label key="1879097376" value="Coup d'épée"/>
+<label key="1879097377" value="Ecrasement caudal"/>
+<label key="1879097378" value="Balayage caudal"/>
+<label key="1879097379" value="Terrible Impact"/>
+<label key="1879097486" value="Invocation de crapauds"/>
+<label key="1879097604" value="Entrer en état :&#10;Discrétion"/>
+<label key="1879097695" value="Rift Item Skill"/>
+<label key="1879097711" value="Sensibilité au feu"/>
+<label key="1879097712" value="Flèche barbelée enflammée"/>
+<label key="1879097713" value="Rage et Furie"/>
+<label key="1879097714" value="Renvoi soudain"/>
+<label key="1879097715" value="Enflammer le sable"/>
+<label key="1879097716" value="Pluie de feu"/>
+<label key="1879097717" value="Protection des bêtes"/>
+<label key="1879097718" value="Concentration des bêtes"/>
+<label key="1879097719" value="Armure fondue"/>
+<label key="1879097723" value="Frappe feu min."/>
+<label key="1879097724" value="Frappe feu inter."/>
+<label key="1879097725" value="Feu 360"/>
+<label key="1879097726" value="Frappe feu"/>
+<label key="1879097727" value="Frappe feu max."/>
+<label key="1879097785" value="Invocation de ver"/>
+<label key="1879097826" value="Boule de feu"/>
+<label key="1879097828" value="Flamme jaillissante"/>
+<label key="1879097878" value="Tendon déchiré"/>
+<label key="1879097879" value="Regard circulaire"/>
+<label key="1879097880" value="A l'attaque !"/>
+<label key="1879097881" value="Coup de poing dans l'estomac"/>
+<label key="1879097883" value="Organes vitaux"/>
+<label key="1879097884" value="Oeil de lynx"/>
+<label key="1879097885" value="Pas de ça"/>
+<label key="1879097887" value="Etendard de terreur"/>
+<label key="1879097888" value="Paroles noires"/>
+<label key="1879097889" value="Poste de commandement"/>
+<label key="1879097894" value="Terre gluante"/>
+<label key="1879097895" value="Toiles étouffantes"/>
+<label key="1879097896" value="Eclosions"/>
+<label key="1879098096" value="Protection contre l'ombre"/>
+<label key="1879098102" value="Feu à distance max."/>
+<label key="1879098104" value="Feu à distance faible"/>
+<label key="1879098105" value="Feu à distance élevé"/>
+<label key="1879098106" value="Feu à distance min."/>
+<label key="1879098107" value="Feu à distance inter."/>
+<label key="1879098150" value="Flottement"/>
+<label key="1879098189" value="Frappe feu faible"/>
+<label key="1879098210" value="Retirer le flottement"/>
+<label key="1879098217" value="Lame trempée"/>
+<label key="1879098218" value="Chant inspirant"/>
+<label key="1879098219" value="Clé de la prison"/>
+<label key="1879098220" value="Parole bénie"/>
+<label key="1879098221" value="Epée éternelle"/>
+<label key="1879098222" value="Paroles des Valar"/>
+<label key="1879098223" value="Volonté renouvelée"/>
+<label key="1879098716" value="Consommation"/>
+<label key="1879098717" value="Yeux de la peur"/>
+<label key="1879098719" value="Explosion épineuse"/>
+<label key="1879098729" value="Frappe ombre élevée"/>
+<label key="1879098730" value="Frappe ombre faible"/>
+<label key="1879098731" value="Frappe ombre max."/>
+<label key="1879098732" value="Frappe ombre inter."/>
+<label key="1879098733" value="Frappe ombre min."/>
+<label key="1879098760" value="Connaissance du maître du savoir"/>
+<label key="1879098799" value="Force explosive"/>
+<label key="1879098800" value="Invocation de flammèche"/>
+<label key="1879099080" value="Professeur : harpe"/>
+<label key="1879099270" value="Professeur : cornemuse"/>
+<label key="1879099271" value="Professeur : clarinette"/>
+<label key="1879099272" value="Professeur : cloche de vache"/>
+<label key="1879099273" value="Professeur : tambour"/>
+<label key="1879099274" value="Professeur : flûte"/>
+<label key="1879099275" value="Professeur : cor"/>
+<label key="1879099276" value="Professeur : cloche de vache des landes"/>
+<label key="1879099277" value="Professeur : théorbe"/>
+<label key="1879099318" value="Guérison de maladie"/>
+<label key="1879099319" value="Guérison de peur"/>
+<label key="1879099320" value="Guérison de poison"/>
+<label key="1879099321" value="Guérison de blessure"/>
+<label key="1879099377" value="Renouvellement du monde"/>
+<label key="1879101510" value="Retour à la maison personnelle"/>
+<label key="1879101511" value="Rendez-vous à la maison de votre confrérie"/>
+<label key="1879101638" value="Flamme protectrice"/>
+<label key="1879101691" value="Coup de bec"/>
+<label key="1879101914" value="Feu max. au corps à corps"/>
+<label key="1879101997" value="Attaque de racine"/>
+<label key="1879101998" value="Racine de rappel"/>
+<label key="1879102040" value="Retraite expéditive"/>
+<label key="1879102222" value="Hurlement des malfaisants"/>
+<label key="1879102223" value="Fléau de maître du savoir"/>
+<label key="1879102224" value="Vengeance de Gurthul"/>
+<label key="1879102439" value="Dernier lancer"/>
+<label key="key:620757890:228830419" value="Cette compétence est une version rapide de discrétion."/>
+<label key="key:620759186:228830419" value="Après avoir utilisé votre Coup à double tranchant, vous pouvez porter une parie d’attaques puissantes contre votre cible."/>
+<label key="key:620759211:228830419" value="Après avoir utilisé Frappe à double tranchant, vous infligez des dégâts importants, tout en vous offrant une fenêtre de 6 s pour utiliser vos compétences de communauté si vous faites partie d'une communauté."/>
+<label key="key:620759243:228830419" value="La terre tremble comme si les Ents eux-mêmes partaient en guerre : vos ennemis subissent des dégâts ou sont paralysés."/>
+<label key="key:620759256:228830419" value="Vous êtes l'ami des aigles et pouvez à présent en invoquer un pour vous aider."/>
+<label key="key:620759291:228830419" value=".."/>
+<label key="key:620759294:228830419" value="Cette compétence inflige des dégâts à certains ennemis et permet à l'aigle de récupérer l’équivalent en Moral."/>
+<label key="key:620759296:228830419" value="Cette compétence a pour effet de faire venir l'aigle à la rescousse de son maître lorsque ce dernier est au bord de la défaite. Elle ne fonctionne que si l'aigle est au combat."/>
+<label key="key:620759299:228830419" value="Cette compétence s'applique à un ennemi déjà sous le coup de Braises ardentes. En avivant les flammes, elle lui inflige des dégâts et provoque sa fuite en pleine panique."/>
+<label key="key:620759302:228830419" value=".."/>
+<label key="key:620759411:228830419" value="Vous tirez avec le même art que Bard en personne, faisant naître la peur chez vos ennemis maléfiques."/>
+<label key="key:620759426:228830419" value="Lorsque le besoin s'en fait grandement sentir, vous êtes capable de vous mettre en marche, même peu reposé, retrouvant toute votre Puissance et votre Moral en quelques secondes."/>
+<label key="key:620759440:228830419" value="Vous faites pleuvoir des flèches à épines sur vos ennemis, ce qui vous permet d'immobiliser plusieurs cibles à la fois."/>
+<label key="key:620759617:228830419" value="Toutes les races n'ont pas oublié les techniques de l'âge des Eldar. Vous pouvez rendre l'inspiration à ceux qui ont perdu tout leur Moral en ressuscitant une cible vaincue au combat."/>
+<label key="key:620759630:228830419" value="Ce chant vous permet de réduire l'effet d'effroi d'une zone pendant un court instant."/>
+<label key="key:620759643:228830419" value="Hymne : Fait appel à un chant puissant pour écraser vos ennemis au moyen d'une lumière à zone d'effet qui ralentit les créatures qu'elle touche. Nécessite des effets de ballade de niveau 3. Remet votre compteur de ballade au niveau 1."/>
+<label key="key:620759751:228830419" value="Vous êtes capable de ressusciter et de protéger un compagnon tombé avec les trois quarts de son Moral et la moitié de sa Puissance."/>
+<label key="key:620759766:228830419" value="Vous avez la possibilité de protéger l'in de vos compagnons, mais cela vous coûte la moitié de votre Puissance."/>
+<label key="key:620759779:228830419" value="Vous jetez une malédiction sur votre ennemi, ce qui augmente fortement les dégâts que vous pouvez lui infliger."/>
+<label key="key:620759792:228830419" value="Votre seule présence pousse votre entourage à mieux se comporter au combat."/>
+<label key="key:620764879:228830419" value="Vous exécutez une triple attaque agressive qui génère de la menace. Cette attaque peut seulement être évitée, elle ne manque jamais son but et ne peut être parée ou arrêtée."/>
+<label key="key:620764880:228830419" value="Vous exécutez une triple attaque agressive qui génère de la menace. Cette attaque peut seulement être évitée, elle ne manque jamais son but et ne peut être parée ou arrêtée."/>
+<label key="key:620764891:228830419" value="Cri de bravade qui prend une partie de leur Puissance aux monstres pour vous la transmettre."/>
+<label key="key:620764903:228830419" value="Vous portez une attaque à zone d'effet totale qui inflige d'importants dégâts et attire l'attention de l'ennemi. Cette attaque ne manque jamais son but."/>
+<label key="key:620764905:228830419" value="Vous portez une attaque à zone d'effet totale qui inflige d'importants dégâts et attire l'attention de l'ennemi. Cette attaque ne manque jamais son but."/>
+<label key="key:620764915:228830419" value="Les dégâts que vous infligez et votre régénération de Puissance augmentent. Cette compétence peut uniquement être exécutée pendant les combats quand votre Moral est supérieur à 20%. Elle ne pourra être conservée que si votre Moral ne descend pas en dessous de 20%."/>
+<label key="key:620765187:228830419" value="Vous êtes capable de porter une puissante attaque contre un ennemi déjà sous le coup de votre Déferlement ou de votre Fente, et potentiellement de le renverser."/>
+<label key="key:620765207:228830419" value="Après avoir réussi un Coup violent ou une Provocation au bouclier sur votre ennemi, vous pouvez à nouveau le frapper avec votre bouclier pour lui infliger plus de dégâts. Cette compétence attire l'attention de l'ennemi sur vous."/>
+<label key="key:620765219:228830419" value="Vous faites tout pour provoquer la rage de vos ennemis."/>
+<label key="key:620765231:228830419" value="Vous savez comment pousser vos ennemis à vous attaquer, laissant le champ libre à vos alliés pour manoeuvrer tout en haussant votre vigilance de gardien."/>
+<label key="key:620765364:228830419" value=".."/>
+<label key="key:620765365:228830419" value=".."/>
+<label key="key:620765366:228830419" value=".."/>
+<label key="key:620765367:228830419" value="Votre héraut a une chance d'étourdir la cible à l'aide d'une attaque au corps à corps s'il se trouve sous l'effet de l'une de vos Marques. De plus, il inflige 50% de dégâts supplémentaires s'il se trouve derrière la cible. Cette compétence a un délai de 60 secondes entre deux utilisations. Vous devez d'abord marquer votre adversaire pour pouvoir utiliser cette compétence."/>
+<label key="key:620765368:228830419" value="Votre héraut provoque la cible à l'aide d'une attaque au corps à corps s'il se trouve sous l'effet de l'une de vos Marques. Cette compétence a un délai de 15 secondes entre deux utilisations. Vous devez d'abord marquer votre adversaire pour pouvoir utiliser cette compétence."/>
+<label key="key:620765369:228830419" value="Votre héraut vous encourage au combat, regonflant ainsi votre Moral au détriment du sien. Cette compétence a un délai de 90 secondes entre deux utilisations."/>
+<label key="key:620765376:228830419" value="Vous engagez un héraut pour porter votre Bannière de victoire au combat. Cette bannière augmente la Puissance maximum et la régénération de Puissance en cours de combat de ceux qui se trouvent à proximité."/>
+<label key="key:620765378:228830419" value="Vous engagez un héraut pour porter votre Bannière de la victoire au combat. Cette bannière augmente la Puissance maximum et la régénération de Puissance en cours de combat de ceux qui se trouvent à proximité."/>
+<label key="key:620765380:228830419" value="Vous engagez un héraut pour porter votre Bannière de la victoire au combat. Cette bannière augmente la Puissance maximum et la régénération de Puissance en cours de combat de ceux qui se trouvent à proximité."/>
+<label key="key:620765382:228830419" value="Vous engagez un héraut pour porter votre Bannière de la victoire au combat. Cette bannière augmente la Puissance maximum et la régénération de Puissance en cours de combat de ceux qui se trouvent à proximité."/>
+<label key="key:620765396:228830419" value="Vous êtes capable de ressusciter un compagnon tombé avec la moitié de son Moral et le quart de sa Puissance."/>
+<label key="key:620765402:228830419" value="Lorsqu'un ennemi est vaincu, votre cri augmente le Moral des compagnons situés près de vous."/>
+<label key="key:620765409:228830419" value="Lorsqu'un ennemi est vaincu, vous poussez un cri qui pousse les compagnons situés près de vous à attaquer avec plus de vitesse et de détermination."/>
+<label key="key:620765414:228830419" value="Lorsqu'un ennemi est vaincu, vous poussez un cri redoutable qui déMoralise légèrement les autres ennemis à proximité."/>
+<label key="key:620765417:228830419" value="Votre cri redoutable frappe vos ennemis de terreur et vous met dans un état favorable à l'affrontement."/>
+<label key="key:620765423:228830419" value="Votre cri redoutable frappe vos ennemis de terreur et vous met dans un état favorable à l'affrontement."/>
+<label key="key:620765426:228830419" value="Vous attaquez défensivement. Lorsque vous réussissez à porter un coup, vous infligez des dégâts légers, mais vous récupérez rapidement afin de vous protéger des contre-attaques."/>
+<label key="key:620765444:228830419" value="Vous engagez un héraut pour porter votre Bannière de guerre au combat. Cette bannière augmente la Force et l'Agilité de ceux qui se trouvent à proximité."/>
+<label key="key:620765446:228830419" value="Vous engagez un héraut pour porter votre Bannière de guerre au combat. Cette bannière augmente la Force et l'Agilité de ceux qui se trouvent à proximité."/>
+<label key="key:620765448:228830419" value="Vous engagez un héraut pour porter votre Bannière de guerre au combat. Cette bannière augmente la Force et l'Agilité de ceux qui se trouvent à proximité."/>
+<label key="key:620765450:228830419" value="Vous engagez un héraut pour porter votre Bannière de guerre au combat. Cette bannière augmente la Force et l'Agilité de ceux qui se trouvent à proximité."/>
+<label key="key:620765462:228830419" value="Vous êtes capable de renouveler le courage de vos compagnons situés près de vous, annulant tout effet de peur qu'ils subissent."/>
+<label key="key:620765492:228830419" value="Vous engagez un héraut pour porter votre Bannière d'espoir au combat. Cette bannière augmente le Moral maximum et la régénération de Moral en cours de combat de ceux qui se trouvent à proximité."/>
+<label key="key:620765494:228830419" value="Vous engagez un héraut pour porter votre Bannière de l'espoir au combat. Cette bannière augmente le Moral maximum et la régénération de Moral en cours de combat de ceux qui se trouvent à proximité."/>
+<label key="key:620765496:228830419" value="Vous engagez un héraut pour porter votre Bannière de l'espoir au combat. Cette bannière augmente le Moral maximum et la régénération de Moral en cours de combat de ceux qui se trouvent à proximité."/>
+<label key="key:620765498:228830419" value="Vous engagez un héraut pour porter votre Bannière de l'espoir au combat. Cette bannière augmente le Moral maximum et la régénération de Moral en cours de combat de ceux qui se trouvent à proximité."/>
+<label key="key:620765508:228830419" value="Si vous réussissez un coup critique, cette attaque inflige des dégâts bonus dévastateurs et permet l'utilisation de compétences de défaite de l'ennemi, et d'entrer dans l'état Endurci au combat. Vous devez vous trouver dans l'état Prêt au combat pour pouvoir utiliser cette compétence."/>
+<label key="key:620765512:228830419" value="Votre cri menace votre ennemi, augmentant les chances qu'il vous attaque."/>
+<label key="key:620765513:228830419" value="Votre cri menace votre ennemi, augmentant les chances qu'il vous attaque."/>
+<label key="key:620765569:228830419" value="Vous exécutez une vive attaque au corps à corps"/>
+<label key="key:620765615:228830419" value="Votre Ferveur augmente instantanément."/>
+<label key="key:620765618:228830419" value="La moitié de votre Puissance est transférée à votre Moral"/>
+<label key="key:620765633:228830419" value="Attaque rapide qui blessera légèrement votre adversaire."/>
+<label key="key:620765636:228830419" value="Après avoir réussi à bloquer le coup d'un ennemi, vous pouvez l'attaquer à la fois avec votre arme et avec votre bouclier. Cette compétence permet d'attirer l'attention de l'ennemi."/>
+<label key="key:620765643:228830419" value="Votre grande compétence vous permet de renforcer votre défense pendant un court laps de temps."/>
+<label key="key:620765646:228830419" value="Vous frappez votre adversaire avec votre bouclier. Cette compétence génère davantage de menace."/>
+<label key="key:620765661:228830419" value="Vous reprenez votre souffle après avoir arrêté l'attaque d'un ennemi, ce qui vous permet de restaurer votre Moral"/>
+<label key="key:620765667:228830419" value="Vous êtes capable d'attirer l'attention de l'ennemi à vous grâce à cette attaque."/>
+<label key="key:620765668:228830419" value="Vous êtes capable d'attirer l'attention de l'ennemi à vous grâce à cette attaque."/>
+<label key="key:620765677:228830419" value="Vous savez comment pousser vos ennemis à vous attaquer, laissant le champ libre à vos alliés pour manoeuvrer."/>
+<label key="key:620765680:228830419" value="Lorsque vous portez un bouclier, vous pouvez protéger un de vos alliés, améliorant ainsi sa défense et vous permettant de réagir aux attaques portées contre lui."/>
+<label key="key:620765681:228830419" value="Lorsque vous portez un bouclier, vous pouvez protéger un de vos alliés, améliorant ainsi sa défense et vous permettant de réagir aux attaques portées contre lui."/>
+<label key="key:620765687:228830419" value="Votre grande compétence vous permet de renforcer votre défense pendant un court laps de temps."/>
+<label key="key:620765691:228830419" value="Vous rassemblez vos esprits et récupérez instantanément une partie de vos compétences."/>
+<label key="key:620765696:228830419" value="Vous êtes temporairement capable de faire passer votre Moral au-dessus de sa valeur maximale normale."/>
+<label key="key:620765702:228830419" value="Le goût du danger vous permet de regagner de la Puissance en proportion du nombre d'ennemis qui vous entoure. Vous ne pouvez utiliser cette compétence qu'en combat."/>
+<label key="key:620765704:228830419" value="Le goût du danger vous permet de regagner de la Puissance en proportion du nombre d'ennemis qui vous entourent. Vous ne pouvez utiliser cette compétence qu'en combat."/>
+<label key="key:620765712:228830419" value="Vos compétences de survie vous permettent de poser des pièges qui immobiliseront vos ennemis. Le piège reste en place pendant 60 secondes après avoir été posé. Cette compétence s'interrompt facilement."/>
+<label key="key:620765742:228830419" value="Dans une situation désespérée, vous atteignez instantanément votre Concentration maximale."/>
+<label key="key:620765755:228830419" value="Vos compétences de survie vous permettent de vous rendre moins menaçant aux yeux de vos ennemis pendant un court laps de temps."/>
+<label key="key:620765759:228830419" value="Vous pouvez sacrifier une partie de votre Concentration pour effectuer plus vite vos attaques à distance."/>
+<label key="key:620765784:228830419" value="Vous levez votre arme pour porter le coup qui abattra votre ennemi."/>
+<label key="key:620765785:228830419" value="Vous soulevez votre arme pour frapper votre ennemi d'un coup surpuissant et l'étourdir. Cumulée au Contournement, cette compétence inflige des dégâts encore plus importants."/>
+<label key="key:620765790:228830419" value="Vous volez la Puissance de votre ennemi pour augmenter la vôtre."/>
+<label key="key:620765791:228830419" value="Vous volez la Puissance de votre ennemi pour augmenter la vôtre."/>
+<label key="key:620765799:228830419" value="Transfère du Moral à un allié ou à un compagnon."/>
+<label key="key:620765804:228830419" value="Ce signe met en garde votre compagnon de manière à ce qu'il évite plus souvent les attaques ennemies et résiste plus efficacement aux dégâts. Vous ne pouvez pas activer plus d'un signe de compagnon à la fois."/>
+<label key="key:620765810:228830419" value="Vous êtes capable de retirer les blessures dont souffre un allié."/>
+<label key="key:620765812:228830419" value="Vous êres capable de faire disparaître les blessures dans une zone d'effet. Vous pouvez utiliser cette compétence en combat."/>
+<label key="key:620765816:228830419" value="Ce signe demande à votre compagnon de se mettre en rage, d'attaquer plus vite et de se rendre le plus menaçante possible. Vous ne pouvez pas activer plus d'un signe de compagnon à la fois."/>
+<label key="key:620765825:228830419" value="La terre s'ouvre sous les pieds de l'ennemi, lui infligeant des dégâts. Au bout de dix secondes, les violentes secousses d'Arda s'apaisent et la cible se retrouve enracinée."/>
+<label key="key:620765831:228830419" value="Votre connaissance du Conseil Blanc vous donne un bonus de Moral en cas de besoin. Elle vous protège également pendant un court laps de temps tout en faisant subir des dégâts aux ennemis qui vous frappent."/>
+<label key="key:620765836:228830419" value="Un éclair aveuglant accompagné d'un bruit retentissant et d'une odeur de poudre fait arrêter toute action à l'ennemi. Tout dégât causé à la cible fera cesser sa stupeur."/>
+<label key="key:620765841:228830419" value="Vous êtes capable de soigner la maladie."/>
+<label key="key:620765843:228830419" value="Vous êtes capable de soigner les maladies dans une zone d'effet."/>
+<label key="key:620765849:228830419" value="Vos recherches sur le savoir perdu font augmenter votre volonté."/>
+<label key="key:620765851:228830419" value="Vos recherches sur le savoir perdu font fortement augmenter votre volonté."/>
+<label key="key:620765856:228830419" value="Vous pouvez transférer une partie de votre Puissance sur un allié ou un compagnon."/>
+<label key="key:620765875:228830419" value="Ballade de niveau 3 : courte ballade qui octroie à votre communauté un bonus de Dégâts au corps à corps. Nécessite des effets de ballade de niveau 2 pour fonctionner."/>
+<label key="key:620765879:228830419" value="Hymne : Fait appel au chant pour terrasser vos ennemis à l'aide d'une zone d'effet de lumière. Nécessite des effets de ballade de niveau 3. Remet votre compteur de ballade au niveau 1."/>
+<label key="key:620765880:228830419" value="Hymne : Fait appel au chant pour terrasser vos ennemis à l'aide d'une zone d'effet de lumière. Nécessite des effets de ballade de niveau 3. Remet votre compteur de ballade au niveau 1."/>
+<label key="key:620765884:228830419" value="Le ménestrel inspire des actions héroïques à ses compagnons : la plupart des classes peuvent ainsi gagner des compétences portail, et les maîtres du savoir obtiennent la possibilité d'utiliser leur Lueur d'espoir plus fréquemment pour un coût moindre en Moral."/>
+<label key="key:620765885:228830419" value="Le ménestrel inspire des actions héroïques à ses compagnons : la plupart des classes peuvent ainsi gagner des compétences portail, et les maîtres du savoir obtiennent la possibilité d'utiliser leur Lueur d'espoir plus fréquemment pour un coût moindre en Moral. La version améliorée dure plus longtemps et nécessite un temps de récupération plus court."/>
+<label key="key:620765911:228830419" value="Ballade de niveau 1 : courte ballade qui octroie un bonus de dégâts à vos attaques tactiques et fait du mal à vos ennemis."/>
+<label key="key:620765915:228830419" value="Redonne de l'espoir à ceux dont le Moral s'est complètement vidé, revigorant un allié vaincu."/>
+<label key="key:620765920:228830419" value="Cette compétence vous permet d'accéder à tous les hymnes et tous les niveaux d'une ballade d'un seul coup. Annule également les effets de silence contre vous."/>
+<label key="key:620765924:228830419" value="Cette compétence apaise dans une zone toutes les cibles qui vous haïssent, ce qui augmente la probabilité que l'ennemi choisisse une autre cible."/>
+<label key="key:620765948:228830419" value="Vous pouvez porter une attaque vive et décisive sur votre ennemi."/>
+<label key="key:620765953:228830419" value="Vous êtes capable de poser des énigmes à vos ennemis, ce qui peut momentanément les distraire ou les hébéter pour un court instant ou jusqu'à ce qu'ils subissent des dégâts. Ceci ne fonctionne pas sur les bêtes, les insectes et autres créatures de la nature."/>
+<label key="key:620765959:228830419" value="Grâce à la précision de votre visée, la prochaine compétence d'attaque qui infligera des dégâts sera critique et aura de bien moindres chances d'échec. L'utilisation de cette compétence ne rompra pas votre discrétion."/>
+<label key="key:620765966:228830419" value="Vous jetez de la poussière dans les yeux de votre ennemi, ce qui diminue les chances de succès de ses attaques. Vous ne pouvez vous servir que d'un Truc par cible à la fois."/>
+<label key="key:620765969:228830419" value="Vous jetez de la poussière dans les yeux de votre ennemi, ce qui diminue les chances de succès de ses attaques. Vous ne pouvez vous servir que d'un Truc par cible à la fois."/>
+<label key="key:620765977:228830419" value="En vous servant de votre discrétion, vous pouvez détourner de vous l'attention de l'ennemi pendant un court laps de temps. L'utilisation de cette compétence n'annule pas la discrétion."/>
+<label key="key:620765983:228830419" value="Vous pouvez frapper un ennemi pour temporairement ralentir ses attaques. Vous ne pouvez vous servir que d'un Truc par cible à la fois."/>
+<label key="key:620765989:228830419" value="Vous portez une attaque qui diminuera temporairement les défenses de votre ennemi. Vous ne pouvez vous servir que d'un Truc par cible à la fois."/>
+<label key="key:620766000:228830419" value="Vous pouvez disparaître de la vue de votre ennemi. Pendant un court moment, votre discrétion est améliorée et subir des dégâts ne vous découvre même pas. L'utilisation de cette compétence ne rompra pas votre discrétion."/>
+<label key="key:620766002:228830419" value="Vous avez la capacité de vous déplacer sans vous faire voir, bien qu'il y ait toujours une chance pour que vos ennemis vous détectent, particulièrement lorsque vous vous trouvez en face d'eux."/>
+<label key="key:620766003:228830419" value="Vous avez la capacité de vous déplacer sans vous faire voir, bien qu'il y ait toujours une chance pour que vos ennemis vous détectent."/>
+<label key="key:620766009:228830419" value="Vous mettez votre ennemi en rage, ce qui le pousse à attaquer tout ce qu'il peut considérer comme une menace. Vous ne pouvez vous servir que d'un Truc par cible à la fois."/>
+<label key="key:620767743:228830419" value="Quand cette option est activée, les dépôts de minerai proches s'affichent sur votre radar."/>
+<label key="key:620767778:228830419" value="Quand cette option est activée, les branches d'arbre proches s'affichent sur votre radar."/>
+<label key="key:620767853:228830419" value="Quand cette option est activée, les champs cultivés proches s'affichent sur votre radar."/>
+<label key="key:620768659:228830419" value="Vous exécutez une attaque automatique lorsque vous portez une arme à une main et un bouclier."/>
+<label key="key:620768660:228830419" value="Vous exécutez une attaque automatique lorsque vous portez deux armes à une main."/>
+<label key="key:620768661:228830419" value="Vous exécutez une attaque automatique lorsque vous portez une arme à deux mains."/>
+<label key="key:620768823:228830419" value="Vous exécutez une attaque automatique en cas de port d'arc."/>
+<label key="key:620768824:228830419" value="Vous exécutez une attaque automatique en cas de port d'arbalète."/>
+<label key="key:620768830:228830419" value="Cette compétence de communauté inflige à votre cible des dégâts directs mineurs au corps à corps, puis davantage de dégâts au fil du temps. Elle vous permet de contribuer aux manoeuvres de communauté."/>
+<label key="key:620768832:228830419" value="Ruse, x2 (CàC)"/>
+<label key="key:620768834:228830419" value="Cette compétence de communauté inflige à votre cible des dégâts directs mineurs à distance, puis davantage de dégâts au fil du temps. Elle vous permet de contribuer aux manoeuvres de communauté."/>
+<label key="key:620768835:228830419" value="Ruse, x2 (à dist.)"/>
+<label key="key:620768836:228830419" value="Contribution de ruse"/>
+<label key="key:620768838:228830419" value="Contribution de ruse"/>
+<label key="key:620768840:228830419" value="Ruse, x3 (CàC)"/>
+<label key="key:620768842:228830419" value="Ruse, x3 (à dist.)"/>
+<label key="key:620768844:228830419" value="Ruse, x4 (CàC)"/>
+<label key="key:620768846:228830419" value="Ruse, x4 (à dist.)"/>
+<label key="key:620768848:228830419" value="Cette compétence de communauté vous redonne toute votre Puissance et vous permet de contribuer aux manoeuvres de communauté."/>
+<label key="key:620768850:228830419" value="Tactique, x2"/>
+<label key="key:620768852:228830419" value="Contribution de tactique"/>
+<label key="key:620768854:228830419" value="Tactique, x3"/>
+<label key="key:620768856:228830419" value="Tactique, x4"/>
+<label key="key:620768858:228830419" value="Cette compétence de communauté inflige des dégâts de corps à corps directs à votre cible et vous permet de contribuer aux manoeuvres de communauté."/>
+<label key="key:620768859:228830419" value="Force, x2"/>
+<label key="key:620768860:228830419" value="Cette compétence de communauté inflige des dégâts à distance directs à votre cible et vous permet de contribuer aux manoeuvres de communauté."/>
+<label key="key:620768861:228830419" value="Force, x2"/>
+<label key="key:620768862:228830419" value="Contribution de force"/>
+<label key="key:620768864:228830419" value="Force, x3"/>
+<label key="key:620768866:228830419" value="Force, x4"/>
+<label key="key:620768868:228830419" value="Cette compétence de communauté vous redonne tout votre Moral et vous permet de contribuer aux manoeuvres de communauté."/>
+<label key="key:620768870:228830419" value="Conviction, x2"/>
+<label key="key:620768873:228830419" value="Contrib. de conviction"/>
+<label key="key:620768875:228830419" value="Conviction, x3"/>
+<label key="key:620768878:228830419" value="Conviction, x4"/>
+<label key="key:620768881:228830419" value="Force, x4"/>
+<label key="key:620768891:228830419" value="Force, x3"/>
+<label key="key:620768915:228830419" value="Force, x5"/>
+<label key="key:620768916:228830419" value="Force, x5"/>
+<label key="key:620768919:228830419" value="Ruse, x5 (CàC)"/>
+<label key="key:620768921:228830419" value="Ruse, x5 (à dist.)"/>
+<label key="key:620768924:228830419" value="Tactique, x5"/>
+<label key="key:620768928:228830419" value="Conviction, x5"/>
+<label key="key:620768932:228830419" value="Force, x6"/>
+<label key="key:620768933:228830419" value="Force, x6"/>
+<label key="key:620768936:228830419" value="Ruse, x6 (CàC)"/>
+<label key="key:620768937:228830419" value="Ruse, x6 (à dist.)"/>
+<label key="key:620768940:228830419" value="Tactique, x6"/>
+<label key="key:620768943:228830419" value="Conviction, x6"/>
+<label key="key:620774676:228830419" value="Vous êtes plus robuste que la plupart des gens, et vous pouvez récupérer lorsque l'on vous assomme ou que l'on vous paralyse."/>
+<label key="key:620774679:228830419" value="D'un éclair d'acier, vous rendez votre cible incapable d'utiliser ses armes pendant quelques instants. Cette compétence ne peut être utilisée que contre les joueurs."/>
+<label key="key:620774681:228830419" value="Vous coupez les jambes de votre ennemi, ce qui a pour effet de ralentir ses mouvements."/>
+<label key="key:620774697:228830419" value="Vous inondez votre cible de toiles d'araignée collantes, réduisant ainsi ses chances d'esquiver ou de s'échapper."/>
+<label key="key:620774700:228830419" value="Lorsque vous ne combattez pas, vous pouvez vous cacher sous le sol, invisible, jusqu'au moment où vous sortez par surprise."/>
+<label key="key:620774720:228830419" value="Vous placez délicatement un piège sur le sol pour piéger vos ennemis."/>
+<label key="key:620774722:228830419" value="Vous lancez plusieurs flèches rapidement et frappez de nombreux ennemis autour de votre cible."/>
+<label key="key:620774724:228830419" value="Flèche enflammée qui continuera à brûler la cible une fois celle-ci touchée."/>
+<label key="key:620774739:228830419" value="Vous pouvez crier sur un allié paralysé ou inconscient pour qu'il commence à récupérer."/>
+<label key="key:620774741:228830419" value="Hors combat, vous et les alliés à proximité pouvez courir plus vite."/>
+<label key="key:620774745:228830419" value="Vous exhortez et raillez vos alliés, ce qui a pour effet de restaurer une partie de leur santé."/>
+<label key="key:620774760:228830419" value="Lorsque vous éliminez un ennemi, vous pouvez hurler pour vous guérir, vous et vos compagnons, au fil du temps."/>
+<label key="key:620774764:228830419" value="Vous disparaissez sous le nez de votre ennemi et pouvez de nouveau bouger sans vous faire repérer. Pendant quelque instants, votre discrétion est presque totale."/>
+<label key="key:620774798:228830419" value="Vous pouvez rôder de façon quasiment invisible pour attaquer le moment venu."/>
+<label key="key:620774869:228830419" value="Simple attaque au corps à corps puissante."/>
+<label key="key:620774870:228830419" value="Vous exécutez une attaque au corps à corps puissante, suivie d'un balayage rapide de la main secondaire."/>
+<label key="key:620774871:228830419" value="Vous exécutez une attaque à zone d'effet frontale."/>
+<label key="key:620774872:228830419" value="Vous exécutez une attaque à zone d'effet frontale."/>
+<label key="key:620774873:228830419" value="Vous exécutez une double attaque sauvage."/>
+<label key="key:620774874:228830419" value="Vous exécutez deux attaques sauvages rapprochées, suivies d'un balayage rapide de la main secondaire."/>
+<label key="key:620774875:228830419" value="Les dégâts que vous infligez et votre régénération de Puissance augmentent au détriment de l'échappement."/>
+<label key="key:620774877:228830419" value="Votre vitesse d'attaque augmente."/>
+<label key="key:620774879:228830419" value="Vous exécutez trois attaques mortelles."/>
+<label key="key:620774880:228830419" value="Vous exécutez trois attaques mortelles."/>
+<label key="key:620774881:228830419" value="Vous répondez à certaines des attaques ennemies par des contre-attaques rapides."/>
+<label key="key:620774883:228830419" value="Vous exécutez une attaque à zone d'effet totale."/>
+<label key="key:620774884:228830419" value="Vous exécutez une attaque à zone d'effet totale."/>
+<label key="key:620774885:228830419" value="Vous exécutez une attaque qui vous permet de rassembler toutes vos forces contre une contre-attaque, augmentant légèrement votre Moral."/>
+<label key="key:620774887:228830419" value="Vous exécutez une attaque qui vous permet de rassembler toutes vos forces contre une contre-attaque, augmentant légèrement votre Moral."/>
+<label key="key:620774888:228830419" value="Vous portez une attaque à zone d'effet totale pouvant infliger des dégâts légers au fil du temps."/>
+<label key="key:620774890:228830419" value="Vous perdez toute Ferveur. Vous passez dans une position défensive qui augmente vos taux de parade et d'esquive mais vous enlève aussi votre ferveur."/>
+<label key="key:620774892:228830419" value="Vous utilisez toute votre Ferveur pour lancer une attaque dévastatrice. Cette attaque peut seulement être évitée, elle ne manque jamais une cible située au même niveau et ne peut être parée ou arrêtée."/>
+<label key="key:620774893:228830419" value="Vous utilisez toute votre Ferveur pour infliger une attaque dévastatrice et un balayage rapide de la main secondaire. Cette attaque primaire peut seulement être évitée, elle ne manque jamais une cible située au même niveau et ne peut être parée ou arrêtée."/>
+<label key="key:620774894:228830419" value="Votre cri de provocation Force votre cible à vous faire face et à vous attaquer pendant quelques secondes."/>
+<label key="key:620774895:228830419" value="Vous exécutez une attaque puissante ne pouvant être utilisée que sur les adversaires dont la santé est inférieure à 20%."/>
+<label key="key:620774896:228830419" value="Vous exécutez une attaque sournoise prenant vos adversaires par surprise, votre compétence de zone d'effet suivante infligera davantage de dégâts. Ne peut être utilisé que sur les adversaires dont la santé est inférieure à 25%."/>
+<label key="key:620774897:228830419" value="Votre vitesse de course augmente."/>
+<label key="key:620774899:228830419" value="Vous portez une attaque rapide au corps à corps qui interrompt toutes les actions à retardement de votre adversaire."/>
+<label key="key:620774900:228830419" value="Vous exécutez une attaque à zone d'effet totale qui étourdit vos adversaires."/>
+<label key="key:620774901:228830419" value="Vous exécutez une attaque qui prend votre adversaire au piège."/>
+<label key="key:620774903:228830419" value="Vous exécutez une attaque au corps à corps qui dissuade votre cible de continuer à vous attaquer. La cible ne s'arrêtera de vous attaquer que si une cible plus menaçante se trouve à proximité."/>
+<label key="key:620774904:228830419" value="Vous attaquez avec votre arme à distance."/>
+<label key="key:620774906:228830419" value="Les récits de vos actes héroïques vous attirent les vivats de la foule."/>
+<label key="key:620774913:228830419" value="Attaque légère causant une perte de sang qui continue d'infliger des dégâts à l'ennemi au fil du temps."/>
+<label key="key:620774915:228830419" value="Vous laissez une marque sur votre ennemi, ce qui augmente les dégâts que vos compagnons et vous lui infligez. Vous ne pouvez pas marquer plus d'une cible à la fois."/>
+<label key="key:620774917:228830419" value="Vous ordonnez à votre communauté d'opérer plus vite, que ce soit hors combat ou au combat."/>
+<label key="key:620774919:228830419" value="Vous laissez une Marque sur votre ennemi, ce qui lui inflige des dégâts au fil du temps. Vous ne pouvez pas marquer plus d'une cible à la fois."/>
+<label key="key:620774921:228830419" value="Vous frappez votre ennemi deux fois, infligeant des dégâts moyens. Si vous obtenez un coup critique à la deuxième attaque, vous pourrez utiliser vos compétences de victoire de l'ennemi et entrer dans l'état Endurci au combat. Vous devez vous trouver dans l'état Prêt au combat pour utiliser cette compétence."/>
+<label key="key:620774922:228830419" value="Vous êtes capable de renouveler progressivement le Moral d'un de vos compagnons."/>
+<label key="key:620774925:228830419" value="Vous êtes capable d'augmenter le Moral des compagnons situés près de vous au moyen d'un discours motivant."/>
+<label key="key:620774927:228830419" value="Vous ordonnez à l'un de vos compagnons d'être sur ses gardes, augmentant ses chances de parer des attaques. Nul ne peut utiliser plus d'une tactique à la fois."/>
+<label key="key:620774929:228830419" value="Vous êtes capable de ne pas succomber pendant un court laps de temps."/>
+<label key="key:620774930:228830419" value="Vous ordonnez à l'un de vos compagnons d'attaquer sans cesse, permettant à ses attaques de blesser plus souvent de manière critique. Nul ne peut donner plus d'un ordre à la fois."/>
+<label key="key:620774932:228830419" value="Vous laissez sur votre ennemi une marque augmentant le Moral de vos compagnons quand ils blessent cet adversaire. Vous ne pouvez pas marquer plus d'une cible à la fois."/>
+<label key="key:620774934:228830419" value="Lorsqu'un de vos compagnons tombe, votre cri l'encourage à retourner au combat et pousse ceux qui sont situés près de vous à défendre chèrement leur peau."/>
+<label key="key:620774938:228830419" value="Vous n'hésitez pas à vous exposer pour défendre les compagnons proches de vous et subissez tous les dégâts qui leur sont infligés."/>
+<label key="key:620774941:228830419" value="Vous ordonnez à l'un de vos compagnons de se concentrer, augmentant sa régénération de Puissance au combat. Nul ne peut utiliser plus d'une tactique à la fois."/>
+<label key="key:620774943:228830419" value="Votre présence vous vaut le respect de votre entourage."/>
+<label key="key:620774949:228830419" value="Cette attaque au corps à corps augmente les effets de la guérison sur vous-même pendant un court laps de temps."/>
+<label key="key:620774951:228830419" value="Cette attaque au corps à corps plus puissante augmente les effets de la guérison sur vous-même pendant un court laps de temps et donne du moral à votre groupe."/>
+<label key="key:620774961:228830419" value="Paroles d'encouragement qui renouvellent votre propre Moral ou celui d'un compagnon."/>
+<label key="key:620774964:228830419" value="Ballade de niveau 1 : courte ballade qui vous donne de l'énergie et fait du mal à vos ennemis."/>
+<label key="key:620774966:228830419" value="Ballade de niveau 1 : ce chant court prend du temps à exécuter et confère un renfort à votre communauté au lieu d'infliger des dégâts à vos ennemis."/>
+<label key="key:620774968:228830419" value="Votre cri inflige de légers dégâts à vos ennemis."/>
+<label key="key:620774969:228830419" value="Votre cri inflige des dégâts légers à l'ennemi. Cette compétence bénéficie désormais de meilleures chances de critique et peut étourdir l'adversaire."/>
+<label key="key:620774970:228830419" value="Ballade de niveau 1 : courte ballade qui octroie un bonus à votre armure et fait du mal à vos ennemis."/>
+<label key="key:620774972:228830419" value="Ballade de niveau 2 : courte ballade qui octroie un bonus à votre vitesse d'attaque et fait du mal à vos ennemis. Nécessite des effets de ballade de niveau 1 pour fonctionner."/>
+<label key="key:620774974:228830419" value="Ballade de niveau 3 : courte ballade qui octroie à votre communauté un bonus à sa résistance à la peur. Nécessite des effets de ballade de niveau 2 pour fonctionner."/>
+<label key="key:620774976:228830419" value="Des paroles d'encouragement viennent renouveler le Moral de votre communauté et augmenter sa vigueur."/>
+<label key="key:620774980:228830419" value="Evoquer les Valar peut faire fuir de terreur certains de vos ennemis maléfiques pendant un court laps de temps."/>
+<label key="key:620774981:228830419" value="Ballade de niveau 2 : courte ballade qui octroie un bonus à votre Esquive et fait du mal à vos ennemis. Nécessite des effets de ballade de niveau 1 pour fonctionner."/>
+<label key="key:620774982:228830419" value="Ballade de niveau 2 : ce chant court prend du temps à exécuter et confère un renfort à votre communauté au lieu d'infliger des dégâts à vos ennemis. Nécessite des effets de ballade de niveau 1 pour fonctionner."/>
+<label key="key:620774985:228830419" value="Les trois prochaines attaques du héraut que vous exécuterez infligeront des dégâts supplémentaires et redonneront à votre groupe une partie de son Moral. Lorsque vous utilisez cette compétence, votre compteur de déclenchement d'Attaque du héraut est réinitialisé."/>
+<label key="key:620774987:228830419" value="Des paroles d'encouragement viennent renouveler votre Moral ou celui d'un compagnon. Cette manoeuvre est plus importante, mais plus lente que l'Augmentation du Moral."/>
+<label key="key:620774990:228830419" value="Chant qui ravive le coeur de vos alliés en faisant disparaître partiellement la peur de la défaite."/>
+<label key="key:620774998:228830419" value="Ce chant a pour effet de terrifier les non-morts."/>
+<label key="key:620775000:228830419" value="Hymne : Augmente la régénération de Moral au combat de votre communauté, tout en générant moins de menace que la guérison directe. Nécessite des effets de ballade de niveau 3. Remet votre compteur de ballade au niveau 1."/>
+<label key="key:620775001:228830419" value="Aura qui augmente la Volonté et la Destinée de votre communauté."/>
+<label key="key:620775005:228830419" value="Hymne : Réduit la menace que vous générez par la guérison. Nécessite des effets de ballade de niveau 3. Remet votre compteur de ballade au niveau 1."/>
+<label key="key:620775007:228830419" value="Votre esprit stimulant peut dissiper la peur qui vous touche ou qui touche autrui."/>
+<label key="key:620775008:228830419" value="Un cri de forcené renouvelle instantanément le Moral de votre communauté mais attire énormément l'attention sur vous."/>
+<label key="key:620775010:228830419" value="Ballade de niveau 3 : courte ballade qui octroie à votre communauté un bonus à sa résistance au le feu. Nécessite des effets de ballade de niveau 2 pour fonctionner."/>
+<label key="key:620775012:228830419" value="Chant qui peut provoquer la somnolence de votre ennemi et l'empêcher de réagir à l'approche de joueurs dans les délais normaux. Ce chant ne fonctionne pas contre des monstres déjà engagés dans un combat."/>
+<label key="key:620775015:228830419" value="Ballade de niveau 2 : courte ballade qui octroie un bonus à toutes vos résistances et fait du mal à vos ennemis. Nécessite des effets de ballade de niveau 1 pour fonctionner."/>
+<label key="key:620775017:228830419" value="Vous êtes ${PLAYERNAME:doué[m]|douée[f]} pour tromper l'ennemi en feignant la mort."/>
+<label key="key:620775020:228830419" value="Lorsqu'il est activé, ce lai vous permet de recevoir des dégâts à la Puissance au lieu du Moral. Le nom vient de la légende selon laquelle ceux qui connaissent cette disposition auraient réussi à encaisser un coup de Helm Poing de Marteau lui-même. Ce lai est interrompu en cas d'étourdissement ou de renversement."/>
+<label key="key:620775024:228830419" value="Des braises rougeoyantes tournoient autour de la cible, lui infligeant des dégâts persistants et ralentissant ses mouvements."/>
+<label key="key:620775027:228830419" value="Votre connaissance de la langue des corbeaux vous permet de faire appel à l'un d'eux pour vous aider dans vos aventures."/>
+<label key="key:620775032:228830419" value=".."/>
+<label key="key:620775033:228830419" value="Cette compétence rend la cible plus vulnérable au feu."/>
+<label key="key:620775036:228830419" value="Cette compétence affaiblit durablement les dégâts d'archer lorsqu'elle est canalisée."/>
+<label key="key:620775038:228830419" value="Cet affaiblissement durable personnel protège le corbeau des attaques de l'ombre et au corps à corps."/>
+<label key="key:620775040:228830419" value="Vous pouvez transférer une partie de votre Puissance sur votre Moral, pour vous-même et votre compagnon. Cette compétence ne fonctionne que si vous avez invoqué un compagnon."/>
+<label key="key:620775043:228830419" value="L'air tourbillonne autour de la cible, faisant voler des débris et d'autres objets pouvant causer des dégâts aux ennemis à proximité et les distraire."/>
+<label key="key:620775046:228830419" value="Votre connaissance de la langue des ours vous permet de faire appel à l'un d'eux pour vous aider dans vos aventures."/>
+<label key="key:620775048:228830419" value="Votre connaissance de la langue des ours vous permet de faire appel à l'un d'eux pour vous aider dans vos aventures."/>
+<label key="key:620775051:228830419" value=".."/>
+<label key="key:620775052:228830419" value="Cette compétence Force la cible à attaquer l'ours."/>
+<label key="key:620775053:228830419" value=".."/>
+<label key="key:620775054:228830419" value=".."/>
+<label key="key:620775055:228830419" value="Cette compétence provoque un affaiblissement durable de l'armure."/>
+<label key="key:620775057:228830419" value="Cette compétence étourdit toute opposition."/>
+<label key="key:620775058:228830419" value="Cette compétence est une attaque brutale."/>
+<label key="key:620775059:228830419" value="Teste la volonté de votre ennemi. En cas de succès, inflige des dégâts et étourdit la cible. Bénéficie d'importants bonus de chance de critique et d'ampleur."/>
+<label key="key:620775061:228830419" value="Une fois l'ennemi contourné par votre compagnon, le signe de la Magie vous confère du Moral et inflige des dégâts à votre adversaire. Utilisé normalement, il inflige des dégâts de lumière au fil du temps."/>
+<label key="key:620775065:228830419" value="Ce signe Force votre ennemi à ralentir ses attaques et à parer moins souvent."/>
+<label key="key:620775067:228830419" value="Ce signe vous soigne lorsque un personnage affecté par le silence, renversé ou assommé et confère une immunité temporaire contre ces effets. Utilisé préventivement, il immunisera contre eux pendant quelque temps."/>
+<label key="key:620775070:228830419" value="Ce signe vous soigne lorsque un personnage affecté par le silence, renversé ou assommé et confère une immunité temporaire contre ces effets. Utilisé préventivement, il immunisera contre eux pendant quelque temps."/>
+<label key="key:620775072:228830419" value="Ce signe accroît votre vigilance contre ceux que votre regard ne perçoit pas."/>
+<label key="key:620775074:228830419" value="Ce signe accroît votre vigilance contre ceux que votre regard ne perçoit pas."/>
+<label key="key:620775076:228830419" value="Votre connaissance de la nature vous permet d'influencer directement l'environnement. Vous êtes capable de faire subtilement augmenter la température, rendant difficile pour la plupart des créatures de vous infliger des dégâts."/>
+<label key="key:620775078:228830419" value="Votre connaissance de la nature vous permet d'influer sur l'air pour ralentir d'un seul coup de nombreux ennemis."/>
+<label key="key:620775080:228830419" value="Votre connaissance de la nature vous permet d'influer sur le sol et les plantes pour enraciner un groupe d'ennemis. Les compétences de savoir ne peuvent pas être mises en attente."/>
+<label key="key:620775082:228830419" value="Vous invoquez la sagesse des Valar pour récupérer certaines de vos compétences."/>
+<label key="key:620775084:228830419" value="Votre sagesse vous permet d'illuminer les endroits les plus sombres, blessant et étourdissant ceux qui entravent votre chemin."/>
+<label key="key:620775094:228830419" value="Grands coups circulaires qui tranchent les ennemis se trouvant devant vous."/>
+<label key="key:620775095:228830419" value="Vous focalisez votre défense pour bloquer les attaques."/>
+<label key="key:620775097:228830419" value="Après avoir paré l'attaque de l'ennemi, vous êtes capable d'enchaîner sur une riposte rapide."/>
+<label key="key:620775100:228830419" value="Après un balayage au bouclier réussi, vous pouvez à nouveau frapper votre adversaire avec votre bouclier pour l'étourdir brièvement. Cette compétence attire l'attention de l'ennemi sur vous."/>
+<label key="key:620775102:228830419" value="Vous êtes capable de porter une puissante attaque contre un ennemi déjà sous le coup de votre Riposte. Cette attaque étourdit la cible sur un coup critique."/>
+<label key="key:620775104:228830419" value="Vous focalisez votre défense sur la parade des attaques."/>
+<label key="key:620775106:228830419" value="Après avoir réussi à riposter, vous pouvez porter une attaque tourbillonnante contre tous les ennemis compris dans un cercle dont vous êtes le centre."/>
+<label key="key:620775107:228830419" value="Faites suivre votre riposte d'un coup dynamique qui provoquera une hémorragie."/>
+<label key="key:620775109:228830419" value="Moquez-vous de vos ennemis après les avoir utilisé le Balayage au bouclier contre eux, pour les provoquer. Cette compétence attire l'attention de l'ennemi sur vous."/>
+<label key="key:620775110:228830419" value="Votre attaque vous permet de briser la concentration de l'ennemi, interrompant ainsi ses actions."/>
+<label key="key:620775111:228830419" value="Lorsque vous êtes en proie à l'hébétement, à l'étourdissement ou lorsque vous êtes inconscient, vous pouvez changer de rôle avec votre ennemi en guérissant des effets infligés pour les lui faire subir à son tour."/>
+<label key="key:620775112:228830419" value="Vous pouvez créer un sifflet à partir d'un gland afin que vos compagnons puissent vous appeler en cas de besoin."/>
+<label key="key:620775115:228830419" value="Vous pouvez assommer un ennemi et offrir une occasion d'utiliser les compétences de communauté si vous appartenez à une communauté. Utilisable uniquement si vous vous servez de votre discrétion."/>
+<label key="key:620775116:228830419" value="Vous pouvez renverser un ennemi et offrir une occasion d'utiliser les compétences de communauté si vous appartenez à une communauté. L'utilisation de cette compétence va toujours de pair avec votre discrétion, mais elle ne rompt pas votre discrétion."/>
+<label key="key:620775117:228830419" value="Vous êtes habile dans l'art de surprendre votre adversaire et lui infligez plus de dégâts lorsque vous l'attaquez par-derrière ou lorsque vous vous servez de votre discrétion. Les coups critiques portés avec Attaque par surprise provoquent davantage de dégâts que la plupart des compétences."/>
+<label key="key:620775118:228830419" value="Vous êtes habile dans l'art de surprendre votre adversaire et lui infligez plus de dégâts lorsque vous l'attaquez par-derrière ou lorsque vous vous servez de votre discrétion. Les coups critiques portés avec Attaque par surprise provoquent davantage de dégâts que la plupart des compétences."/>
+<label key="key:620775119:228830419" value="Votre ruse extraordinaire vous permet de mettre en place une attaque rapide qui continue d'infliger des dégâts après que le coup a été porté. Les dégâts seront encore plus importants si vous utilisez votre discrétion."/>
+<label key="key:620775121:228830419" value="Votre ruse extraordinaire vous permet de mettre en place une attaque rapide qui continue d'infliger des dégâts après que le coup a été porté. Les dégâts seront encore plus importants si vous utilisez votre discrétion."/>
+<label key="key:620775123:228830419" value="Vous pouvez provoquer l'acharnement de votre ennemi sur son adversaire du moment, qu'il s'agisse de vous ou d'un allié."/>
+<label key="key:620775124:228830419" value="Vous pouvez provoquer l'acharnement de votre ennemi sur son adversaire du moment, qu'il s'agisse de vous ou d'un allié."/>
+<label key="key:620775125:228830419" value="Vous êtes capable de porter une attaque supplémentaire après un coup critique et infligez plus de dégâts lorsque vous le faites de derrière."/>
+<label key="key:620775128:228830419" value="Après avoir utilisé votre avantage du cambrioleur, vous pouvez porter deux attaques contre votre cible."/>
+<label key="key:620775130:228830419" value="Vous êtes capable d'étourdir votre cible, ce qui vous offre une occasion d'utiliser les compétences de communauté si vous appartenez à une communauté."/>
+<label key="key:620775132:228830419" value="Vous troublez tellement votre ennemi que toutes ses tentatives en cours échouent et que toutes les suivantes seront plus longues à effectuer pendant un court laps de temps."/>
+<label key="key:620775134:228830419" value="Vous faites sursauter un ennemi en utilisant un Truc actif sur lui, ce qui l'étourdit pendant 8 s et fait disparaître le Truc."/>
+<label key="key:620775137:228830419" value="Vous pouvez surprendre un ennemi à l'aide d'un Truc actif, retirant le Truc et vous restaurant un peu de Moral. Cette attaque ne rate jamais contre les cibles de même niveau. Elle ne peut pas être parée, bloquée ni esquivée."/>
+<label key="key:620775140:228830419" value="Tant que vous conservez cette capacité, vous êtes capable de détecter les faiblesses des défenses de l'ennemi et vous augmentez les dégâts qu'il subit lors de vos attaques. L'utilisation de cette compétence ne rompra pas votre discrétion."/>
+<label key="key:620775141:228830419" value="Tant que vous conservez cette capacité, vous êtes capable de détecter les faiblesses des défenses de l'ennemi et vous augmentez les dégâts qu'il subit lors de vos attaques. L'utilisation de cette compétence ne rompra pas votre discrétion."/>
+<label key="key:620775144:228830419" value="Vous pouvez de nouveau agir, les chronomètres de récupération de nombre de vos compétences étant réinitialisés. L'utilisation de cette compétence ne rompra pas votre discrétion."/>
+<label key="key:620775146:228830419" value="Vous pouvez augmenter votre capacité d'esquive des attaques de vos ennemis pendant un court laps de temps. L'utilisation de cette compétence ne rompra pas votre discrétion."/>
+<label key="key:620775148:228830419" value="Lorsque vous êtes hébété, étourdi, renversé ou assommé, vous récupérez plus rapidement, regagnez du Moral et une amélioration temporaire de votre esquive. L'utilisation de cette compétence ne rompra pas votre discrétion."/>
+<label key="key:620775150:228830419" value="Active le pistage des coffres au trésor et des autres conteneurs d'objets de valeur."/>
+<label key="key:620775152:228830419" value="Tout en traînant, vous pouvez tenter d'alléger les poches de cibles ne se doutant de rien."/>
+<label key="key:620775154:228830419" value="Votre ingéniosité vous permet de purger le poison qui afflige votre cible."/>
+<label key="key:620775158:228830419" value="Vous pouvez décocher une flèche rapidement."/>
+<label key="key:620775159:228830419" value="Vous pouvez décocher une flèche rapidement. Votre connaissance des vertus elfes ou naines permet à vos flèches de créer des dégâts légers."/>
+<label key="key:620775160:228830419" value="Vous pouvez décocher une flèche rapidement. Vous allumez vos flèches imprégnées d'huile, infligeant des dégâts par le feu."/>
+<label key="key:620775161:228830419" value="Votre flèche peut causer une hémorragie et ralentit légèrement votre ennemi."/>
+<label key="key:620775163:228830419" value="Votre connaissance des vertus elfes ou naines permet à vos flèches de créer des dégâts légers mais durables, ainsi que des ralentissements de la vitesse de déplacement de vos adversaires."/>
+<label key="key:620775165:228830419" value="Votre flèche imprégnée d'huile met le feu à votre ennemi et ralentit un peu sa vitesse de déplacement."/>
+<label key="key:620775169:228830419" value="Vous êtes capable de lancer deux projectiles coup sur coup."/>
+<label key="key:620775170:228830419" value="Vous êtes capable de lancer deux projectiles coup sur coup. Votre connaissance des vertus elfes ou naines permet à vos flèches de créer des dégâts légers."/>
+<label key="key:620775171:228830419" value="Vous êtes capable de lancer deux projectiles coup sur coup. Vous allumez vos flèches imprégnées d'huile, infligeant des dégâts par le feu."/>
+<label key="key:620775173:228830419" value="Tir créant énormément de dégâts, capable de percer l'armure de votre ennemi, ignorant 10% de la limitation."/>
+<label key="key:620775174:228830419" value="Tir créant énormément de dégâts, capable de percer l'armure de votre ennemi, ignorant 10% de la limitation. Votre connaissance des vertus elfes ou naines permet à vos flèches de créer des dégâts légers."/>
+<label key="key:620775175:228830419" value="Tir créant énormément de dégâts, capable de percer l'armure de votre ennemi, ignorant 10% de la limitation. Vous allumez vos flèches imprégnées d'huile, infligeant des dégâts par le feu."/>
+<label key="key:620775176:228830419" value="Vous faites pleuvoir des flèches sur vos ennemis, ce qui vous permet d'atteindre plusieurs cibles à la fois."/>
+<label key="key:620775177:228830419" value="Vous faites pleuvoir des flèches sur vos ennemis, ce qui vous permet d'atteindre plusieurs cibles à la fois. Votre connaissance des vertus elfes ou naines permet à vos flèches de créer des dégâts légers."/>
+<label key="key:620775178:228830419" value="Vous faites pleuvoir des flèches sur vos ennemis, ce qui vous permet d'atteindre plusieurs cibles à la fois. Vous allumez vos flèches imprégnées d'huile, infligeant des dégâts par le feu."/>
+<label key="key:620775179:228830419" value="Lorsque votre ennemi tombe à 25% de sa santé ou moins, vous décochez un tir qui inflige des dégâts considérables. Si vous réussissez un coup critique, cette attaque inflige des dégâts bonus exceptionnels."/>
+<label key="key:620775180:228830419" value="Attaque au corps à corps rapide, créatrice de dégâts."/>
+<label key="key:620775181:228830419" value="Attaque au corps à corps rapide, créatrice de dégâts."/>
+<label key="key:620775182:228830419" value="Vous effectuez un coup bas devant vous qui peut ralentir temporairement la vitesse de déplacement de 2 de vos ennemis."/>
+<label key="key:620775184:228830419" value="Vous effectuez un coup bas devant vous qui peut ralentir temporairement la vitesse de déplacement de 3 de vos ennemis."/>
+<label key="key:620775185:228830419" value="Cette attaque blesse votre ennemi, lui infligeant des dégâts supplémentaires s'il souffre de votre Flèche barbelée. L'utilisation de cette compétence n'arrêtera cependant pas le saignement."/>
+<label key="key:620775188:228830419" value="Cette attaque blesse votre ennemi, lui infligeant des dégâts supplémentaires s'il souffre de votre Flèche barbelée. L'utilisation de cette compétence n'arrêtera cependant pas le saignement."/>
+<label key="key:620775189:228830419" value="Vous êtes capable de détourner l'attention de votre ennemi à l'aide d'une seule attaque au corps à corps que vous faites suivre par une attaque à l'arc à courte distance."/>
+<label key="key:620775190:228830419" value="Lorsque vous parez une attaque ennemie, vous pouvez réagir au moyen d'une attaque au corps à corps dévastatrice."/>
+<label key="key:620775191:228830419" value="Lorsque vous parez une attaque ennemie, vous pouvez réagir au moyen d'une attaque au corps à corps dévastatrice."/>
+<label key="key:620775192:228830419" value="Vos dons de traqueur vous permettent d'accélérer la vitesse de déplacement de votre communauté. Le fait d'entrer en combat désactive cette compétence."/>
+<label key="key:620775195:228830419" value="Vos connaissances en matière de survie vous permettent d'utiliser des éléments naturels pour soigner vos alliés des poisons par lesquels ils ont été touchés."/>
+<label key="key:620775197:228830419" value="Votre instinct de survie permet à votre communauté de se sentir à l'aise en milieu naturel hostile, d'augmenter sa faculté de récupération et d'activer certaines de ses compétences artisanales. Le feu de camp dure 3 minutes."/>
+<label key="key:620775202:228830419" value="Vos connaissances de la région et de ses passages secrets vous permettent de fuir le danger et de rejoindre un point de ralliement à proximité. Requiert des rations pouvant être obtenues des approvisionneurs."/>
+<label key="key:620775205:228830419" value="Vos dons de traqueur permettent à votre communauté de trouver facilement le chemin menant au palais de Thorin. Cette compétence s'interrompt facilement. Elle requiert des rations pouvant être fournies par les approvisionneurs."/>
+<label key="key:620775208:228830419" value="Vos aptitudes de pistage vous permettent de trouver un chemin vers Bree pour vous et votre communauté. Cette aptitude s’interrompt facilement. Nécessite des rations qu'il est possible d'obtenir auprès des approvisionneurs."/>
+<label key="key:620775210:228830419" value="Vos dons de traqueur permettent à votre communauté de trouver facilement le chemin menant à Esteldin. Cette compétence s'interrompt facilement. Elle requiert des rations pouvant être fournies par les approvisionneurs."/>
+<label key="key:620775212:228830419" value="Vos dons de traqueur permettent à votre communauté de trouver facilement le chemin menant à Fondcombe. Cette compétence s'interrompt facilement. Elle requiert des rations pouvant être fournies par les approvisionneurs."/>
+<label key="key:620775214:228830419" value="Vos dons de traqueur vous permettent de détecter la présence de bêtes et d'autres créatures à proximité."/>
+<label key="key:620775217:228830419" value="Vos dons de traqueur vous permettent de détecter la présence des Orques, trolls, géants et Hommes ou nains malfaisants à proximité."/>
+<label key="key:620775219:228830419" value="Vos dons de traqueur vous permettent de détecter la présence des morts, de l’invisible et du mal ancestral."/>
+<label key="key:620775221:228830419" value="Vous avez la capacité de vous fondre dans le décor, ce qui fait que vos ennemis ont du mal à vous détecter tant que vous restez immobile."/>
+<label key="key:620775223:228830419" value="Vous imitez le cri d'un prédateur, ce qui a pour effet de faire fuir un monstre ennemi."/>
+<label key="key:620775224:228830419" value="Avant le combat, vous pouvez rapidement augmenter votre Concentration. La Concentration est nécessaire pour utiliser certaines compétences à l'arc et vous la perdez lorsque vous bougez."/>
+<label key="key:620775226:228830419" value="Vous adoptez une position qui diminue les chances pour vos ennemis d'éviter vos tirs. En position de précision, votre compétence Tir rapide a de meilleures chances d'obtenir des coups critiques."/>
+<label key="key:620775228:228830419" value="Vous adoptez une position qui augmente les dégâts de vos tir, tout en augmentant le coût de Puissance et les chances d'attirer l'attention de l'ennemi. En position de force, votre compétence Tir rapide ralentit les déplacements de l'ennemi."/>
+<label key="key:620775232:228830419" value="Vous adoptez une position qui diminue le coût de Puissance et les chances d'attirer l'attention de l'ennemi. En position d'endurance, votre compétence Tir rapide n'attire pas autant l'attention que d'habitude."/>
+<label key="key:620775233:228830419" value="Vous adoptez une position qui diminue le coût de Puissance et les chances d'attirer l'attention de l'ennemi. En position d'endurance, votre compétence Tir rapide n'attire pas autant l'attention que d'habitude."/>
+<label key="key:620775240:228830419" value="Ceci vous octroie une attaque à courte distance."/>
+<label key="key:620775249:228830419" value="Vos aptitudes de hobbit vous permettent de trouver un chemin pour regagner la Comté. Cette aptitude s'interrompt facilement."/>
+<label key="key:620775253:228830419" value="Vous pouvez augmenter l'espoir de votre communauté à la manière traditionnelle des encouragements hobbits. Non cumulable avec les autres renforts d'espoir."/>
+<label key="key:620775258:228830419" value="Même sans entraînement, vous avez l'aptitude naturelle à vous déplacer sans vous faire voir, bien qu'il y ait toujours une chance que vos ennemis vous détectent, particulièrement lorsque vous vous trouvez en face d'eux."/>
+<label key="key:620775262:228830419" value="Vous pouvez vous étendre face contre terre et demeurer silencieux, ce qui pousse les ennemis à vous ignorer."/>
+<label key="key:620775272:228830419" value="Vous infligez un coup de poing à votre ennemi."/>
+<label key="key:620775281:228830419" value="Ceci vous permet de retourner rapidement à Bree. Cette compétence s'interrompt facilement."/>
+<label key="key:620775285:228830419" value="Vous donnez un bonus de Moral à votre communauté."/>
+<label key="key:620775292:228830419" value="Au combat, la race des Hommes est connue pour son courage sans limite. Cette compétence rend le Moral perdu."/>
+<label key="key:620775301:228830419" value="Même sans entraînement, vous avez l'aptitude naturelle à vous déplacer sans vous faire voir, bien qu'il y ait toujours une chance que vos ennemis vous détectent, particulièrement lorsque vous vous trouvez en face d'eux."/>
+<label key="key:620775310:228830419" value="Ceci vous permet de retourner rapidement à Fondcombe. Cette compétence s'interrompt facilement."/>
+<label key="key:620775314:228830419" value="Avec la vitesse et la grâce des Eldar, vous êtes capable d'une forte parade de défense."/>
+<label key="key:620775320:228830419" value="Vous donnez un bonus de Puissance à votre communauté."/>
+<label key="key:620775328:228830419" value="Vous permet de frapper avec votre tête pour infliger des dégâts."/>
+<label key="key:620775337:228830419" value="Ceci vous permet de retourner rapidement à la Porte de Thorin. Cette compétence s'interrompt facilement."/>
+<label key="key:620775341:228830419" value="Pendant un court laps de temps, vous êtes capable de supporter des coups qui réduiraient en miettes le Moral de créatures de race plus faible."/>
+<label key="key:620775345:228830419" value="Vous donnez un bonus de Vitalité à votre communauté."/>
+<label key="key:620775380:228830419" value="Deux attaques rapides portées contre votre cible."/>
+<label key="key:620775381:228830419" value="Grand coup tranchant circulaire qui peut infliger des dégâts à plusieurs cibles se trouvant devant vous."/>
+<label key="key:620775382:228830419" value="Attaque destructrice, affaiblissant l'armure de la cible."/>
+<label key="key:620775383:228830419" value="Lorsque votre cible dispose de moins de la moitié de son moral, vous pouvez lancer une attaque très puissante aux chances de critique augmentées. Cette compétence épuisera toute votre puissance."/>
+<label key="key:620775384:228830419" value="Vous jetez de la poussière dans les airs, ce qui a pour effet d'aveugler les ennemis à proximité."/>
+<label key="key:620775386:228830419" value="La vision de vos adversaires tombant devant vous vous donne un entrain extraordinaire, avec un regain de guérison et une augmentation des dégâts provoqués et subis."/>
+<label key="key:620775389:228830419" value="Attaque automatique déclenchée lorsque vous portez deux armes à une main."/>
+<label key="key:620775396:228830419" value="Vous tirez sur votre arc et lancez une flèche."/>
+<label key="key:620775397:228830419" value="Vous lancez une volée de flèches qui hurlent dans les airs et provoquent des dégâts sur les ombres."/>
+<label key="key:620775398:228830419" value="Flèche à la pointe acérée capable de percer les armures."/>
+<label key="key:620775399:228830419" value="Hampe visant à ralentir les mouvements de votre proie."/>
+<label key="key:620775401:228830419" value="Grand coup tranchant circulaire qui peut infliger des dégâts à plusieurs cibles se trouvant devant vous."/>
+<label key="key:620775402:228830419" value="Vous esquivez mieux les attaques de vos ennemis pendant quelques instants."/>
+<label key="key:620775404:228830419" value="Attaque automatique déclenchée lorsque vous ne portez qu'une arme à une main."/>
+<label key="key:620775406:228830419" value="Cri de bataille féroce et terrifiant, ayant pour objectif de miner la détermination et le moral de votre ennemi."/>
+<label key="key:620775407:228830419" value="Vous agitez votre arme devant votre ennemi."/>
+<label key="key:620775408:228830419" value="Votre sarcasme fait mouche et votre cible récupère de la santé."/>
+<label key="key:620775409:228830419" value="Vous hurlez un ordre qui permet à un maximum de 5 alliés vaincus ou à proximité de se relever, mais avec un niveau de santé très bas."/>
+<label key="key:620775411:228830419" value="Vous choisissez un allié, qui bénéficie d'une immunité temporaire aux dégâts."/>
+<label key="key:620775413:228830419" value="Lorsque le combat commence, votre aura de commandement autorise vos alliés à se battre de façon plus hargneuse."/>
+<label key="key:620775415:228830419" value="Attaque automatique déclenchée lorsque vous portez une arme à une main et un bouclier."/>
+<label key="key:620775417:228830419" value="Vos griffes acérées provoquent des dégâts et font saigner la cible."/>
+<label key="key:620775418:228830419" value="Attaque à distance projetant un douloureux poison de contact qui inflige des dégâts à la victime au fil du temps."/>
+<label key="key:620775419:228830419" value="Morsure injectant un poison qui affaiblit la cible et peut la paralyser si elle ne prend pas d'antidote."/>
+<label key="key:620775420:228830419" value="Attaque à distance qui prend pour cible les jambes de la victime en les bloquant grâce à des toiles d'araignée collantes."/>
+<label key="key:620775422:228830419" value="Vous pouvez couvrir les bras de votre cible de toiles d'araignée collantes qui ralentissent ses attaques."/>
+<label key="key:620775424:228830419" value="Vous pouvez cracher un poison paralysant sur les ennemis qui se trouvent devant vous ou à faible distance de vous. Cette compétence n'est efficace que contre les joueurs."/>
+<label key="key:620775425:228830419" value="Vous pouvez vous enfouir dans le sol, devenant ainsi invulnérable et invisible pendant une durée limitée."/>
+<label key="key:620775427:228830419" value="Vous attaquez avec vos griffes acérées."/>
+<label key="key:620775428:228830419" value="Grâce à l'élément de surprise, votre attaque est encore plus efficace."/>
+<label key="key:620775429:228830419" value="Vous sautez sur votre cible pour la surprendre ; cela a pour effet d'interrompre ce qu'elle était en train de faire. Si la cible avait subi votre morsure invalidante, elle se retrouve inconsciente."/>
+<label key="key:620775432:228830419" value="Vous sautez subitement sur votre cible et la plaquez à terre."/>
+<label key="key:620775433:228830419" value="Vous déchirez la chair de votre cible et ses muscles, ce qui a pour effet de ralentir ses attaques. Si la cible avait subi votre morsure invalidante, elle commence à subir des dégâts au fil du temps."/>
+<label key="key:620775435:228830419" value="D'un coup de dents, vous ralentissez les mouvements de votre cible."/>
+<label key="key:620775436:228830419" value="Vous mordez et déchirez la gorge de la cible, qui ne peut plus rien dire."/>
+<label key="key:620775437:228830419" value="Accélération subite permettant d'attraper une proie ou d'éviter de devenir une proie."/>
+<label key="key:620775712:228830419" value="Attaque automatique déclenchée lorsque vous ne portez pas d'arme dans votre main principale."/>
+<label key="key:620775713:228830419" value="Attaque automatique déclenchée lorsque vous ne portez qu'une arme à une main."/>
+<label key="key:620775802:228830419" value="Eloignez vos amis !"/>
+<label key="key:620777560:228830419" value="Cette brève chanson encourageante supprime les effets de peur et immunise toute votre communauté contre la peur, tout en agissant comme un puissant sort de soin au fil du temps."/>
+<label key="key:620782692:228830419" value="Votre bannière augmente le Moral des compagnons situés près de vous."/>
+<label key="key:620782698:228830419" value="Votre bannière augmente la régénération de Puissance des compagnons situés près de vous."/>
+<label key="key:620782701:228830419" value="Votre bannière stimule la Force et les compétences des compagnons situés près de vous."/>
+<label key="key:620782856:228830419" value="Attaque automatique déclenchée lorsque vous portez un arc."/>
+<label key="key:620788687:228830419" value="Un air chargé d'électricité enveloppe la cible, provoquant des dégâts à quiconque tente de la frapper. Vous ne pouvez pas utiliser cette compétence sur vous-même."/>
+<label key="key:620788755:228830419" value=".."/>
+<label key="key:620788756:228830419" value=".."/>
+<label key="key:620788757:228830419" value=".."/>
+<label key="key:620788773:228830419" value="Attaque qui compense son manque d'élégance par l'efficacité de sa brutalité."/>
+<label key="key:620788775:228830419" value="Attaque élémentaire à distance au moyen d'une arme."/>
+<label key="key:620788782:228830419" value="Grand coup tranchant circulaire qui peut infliger des dégâts à plusieurs cibles se trouvant devant celui qui attaque."/>
+<label key="key:620788803:228830419" value="Attaque tranchante basique mais efficace."/>
+<label key="key:620788806:228830419" value="Deux attaques rapides portées contre votre cible."/>
+<label key="key:620789554:228830419" value="Vos actes héroïques inspirent vos compagnons, ce qui leur rend leur Puissance, tout en vidant de la vôtre. Cette compétence ne peut être utilisée qu'après avoir vaincu un ennemi."/>
+<label key="key:620789555:228830419" value="Augmente votre cadence de parade. Cette compétence ne peut être utilisée qu'après avoir vaincu un ennemi."/>
+<label key="key:620789558:228830419" value="Augmente la génération de Puissance et la génération de menace aux dépens des dégâts."/>
+<label key="key:620789559:228830419" value="Vous confère 1 point de Ferveur quand vous la lancez, plus 1 autre toutes les 15 secondes. Cette compétence ne peut être utilisée qu'après avoir vaincu un ennemi."/>
+<label key="key:620790598:228830419" value="Envoie le poulet dans les airs."/>
+<label key="key:620790614:228830419" value="Attaque automatique à distance pour les tisseuses."/>
+<label key="key:620790667:228830419" value="Attaque automatique en cas de combat sans arme à deux mains."/>
+<label key="key:620790668:228830419" value="Attaque automatique en cas de combat sans arme à une seule main."/>
+<label key="key:620790894:228830419" value="Cette compétence transfère la menace du champion sur un membre de la communauté."/>
+<label key="key:620790895:228830419" value="Cette compétence transfère la menace d'un membre de la communauté sur le champion."/>
+<label key="key:620791512:228830419" value="Cette attaque de mêlée améliore le moral de votre frère de bouclier."/>
+<label key="key:620791515:228830419" value="Cette commande marque l'un de vos compagnons comme votre frère de bouclier ; il devient ainsi la cible de certaines de vos aptitudes."/>
+<label key="key:620791618:228830419" value="Attaque automatique déclenchée lorsque vous ne disposez que d'une seule arme à une main."/>
+<label key="key:620791619:228830419" value="Attaque automatique déclenchée lorsque vous portez un arc."/>
+<label key="key:620791657:228830419" value="Nomades et dispersés, les Rôdeurs du Nord peuvent devenir invisibles quand ils le souhaitent."/>
+<label key="key:620791658:228830419" value="Bien qu'incapables d'invisibilité dans le monde des esprits, les rôdeurs ont pourtant l'habitude de disaparaître à loisir. Pendant quelque temps, votre discrétion est extrêmement efficace."/>
+<label key="key:620791659:228830419" value="Les rôdeurs maîtrisent à la fois l'épée et l'arc. Cette attaque mettra l'adversaire KO."/>
+<label key="key:620791661:228830419" value="La ligne d'Elros peut remonter le moral en cas de besoin. Ceci permettra d'améliorer le moral du rôdeur."/>
+<label key="key:620791672:228830419" value="Si vous êtes la proie de l'un des Dunedain, vous pouvez craindre le pire. Cette compétence est la compétence requise pour bénéficier de Cible facile."/>
+<label key="key:620791673:228830419" value="Ce tir ne peut être utilisé que contre ceux qui portent la Marque des Dunedain ; une fois marqué, l'ennemi encourt des dégâts extrêmement importants. Cette compétence ne peut être utilisée qu'en mode Discrétion. Elle ne rate jamais contre les créatures de même niveau. En cas de coup critique, la cible subit également des dégâts à la Puissance."/>
+<label key="key:620791703:228830419" value="Vos dons de traqueur permettent à votre communauté de trouver facilement le chemin menant vers l'ouest de l'Angmar. Cette compétence s'interrompt facilement. Nécessite des rations pouvant être obtenues auprès d'approvisionneurs."/>
+<label key="key:620791705:228830419" value="Vos dons de traqueur permettent à votre communauté de trouver facilement le chemin menant vers l'est de l'Angmar. Cette compétence s'interrompt facilement. Nécessite des rations pouvant être obtenues auprès d'approvisionneurs."/>
+<label key="key:620791707:228830419" value="Vous pouvez vous rattacher à l'un des nombreux camps dispersés dans le jeu. Cela vous permettra d'utiliser votre connaissance de la terre pour retourner rapidement à ce camp en compagnie de votre communauté. Nécessite des rations pouvant être acquises auprès des approvisionneurs."/>
+<label key="key:620791709:228830419" value="Vos dons de traqueur vous permettent, à vous et à votre communauté, de trouver facilement un chemin menant à Ost Guruth, dans les Terres solitaires. Cette compétence s'interrompt facilement. Nécessite des rations pouvant être acquises auprès des approvisionneurs."/>
+<label key="key:620791711:228830419" value="Vos dons de traqueur vous permettent, à vous et à votre communauté, de trouver facilement un chemin menant à Grand'Cave, dans la Comté. Cette compétence s'interrompt facilement. Nécessite des rations pouvant être acquises auprès des approvisionneurs."/>
+<label key="key:620791713:228830419" value="Vos dons de ${PLAYERNAME:traqueur[m]|traqueuse[f]} vous permettent, à vous et à votre communauté, de trouver les meilleurs chemins dans la région d'Evendim. Cette compétence s'interrompt facilement. Nécessite des rations qu'il est possible d'obtenir auprès des approvisionneurs."/>
+<label key="key:620791716:228830419" value="Couteau bien connu et très efficace."/>
+<label key="key:620791717:228830419" value="Ces flèches feront brûler les serviteurs de l'Œil de Sauron."/>
+<label key="key:620791718:228830419" value="Avec le plus grand soin et la meilleure précision, vous visez le point le plus vital de votre cible. Ce coup ne peut pas échouer et votre cible ne peut pas le parer, le bloquer ni l'éviter."/>
+<label key="key:620791719:228830419" value="La terre vous transmet sa force. En y jetant toute votre attention, vous pouvez retrouver rapidement de la puissance au milieu d'un combat. Cette compétence s'interrompt facilement."/>
+<label key="key:620791968:228830419" value="Ecraser les petites choses agaçantes. Parfois, les étourdir. Parfois, les faire souffrir longtemps."/>
+<label key="key:620791969:228830419" value="Faire déguerpir les petites choses. Parfois, elles vont moins vite ensuite."/>
+<label key="key:620791970:228830419" value="Lancer des rochers aux choses qui se trouvent loin. Blesser les choses à côté. Parfois, les faire saigner ensuite."/>
+<label key="key:620791971:228830419" value="Attaque automatique au gourdin à une main"/>
+<label key="key:620791972:228830419" value="Attaque assez rapide, à la pierre"/>
+<label key="key:620791975:228830419" value="Frapper deux fois les petites choses. Parfois, ralentir les ripostes."/>
+<label key="key:620791976:228830419" value="Lever le pied, reposer le pied, les êtres faibles tombent à la renverse. Parfois, il est plus facile de les éliminer ensuite."/>
+<label key="key:620791977:228830419" value="Ramasser pierre. Laisser tomber pierre. Parfois, faire souffrir énormément les petites choses."/>
+<label key="key:620791978:228830419" value="Se mettre en colère. Frapper plus fort. Frapper plus vite. Ne pas avancer aussi vite."/>
+<label key="key:620791995:228830419" value="Rugissement de rage. Parfois, c'est quand ? Très bientôt."/>
+<label key="key:620792025:228830419" value="Cette compétence attire l'attention des monstres jusqu'au Leurre du Chasseur."/>
+<label key="key:620792096:228830419" value="Votre connaissance de la nature vous permet de préparer un piège qui ralentira vos ennemis et leur infligera des dégâts durables. Le piège reste en place 60 secondes après avoir été posé. Cette compétence s'interrompt facilement."/>
+<label key="key:620792674:228830419" value="Vous augmentez temporairement la force offensive de votre frère de bouclier."/>
+<label key="key:620792675:228830419" value="Vous effectuez une attaque au corps à corps qui interrompt toutes les actions indirectes que tente votre adversaire."/>
+<label key="key:620792676:228830419" value="Vous infligez un coup attirant l'attention sur vous au combat. Lorsque cette attaque est portée à un adversaire saignant suite à une Attaque coupante de votre part, votre menace perçue augmente également."/>
+<label key="key:620792677:228830419" value="Une retraite ordonnée peut permettre à un Capitaine de survivre à un dur combat. Cette compétence diminue votre menace pour les adversaires qui se trouvent autour de vous."/>
+<label key="key:620792679:228830419" value="Vous sacrifiez une partie de votre moral pour obtenir le même effet que si vous aviez vaincu un ennemi et vous retrouver en état prêt au combat."/>
+<label key="key:620793044:228830419" value="Cette attaque de mêlée puissante a plus de chances de porter des coups critiques et permet à vos compagnons d'invoquer la Lumière d'Elendil. Cette compétence ne peut être utilisée que lorsque vous vous trouvez dans un état renforcé par la bataille."/>
+<label key="key:620793162:228830419" value="Vous êtes capable de redonner trois quarts de son Moral et la moitié de sa Puissance à un compagnon tombé, et de le protéger."/>
+<label key="key:620793173:228830419" value="Vous enrôlez un héraut pour porter votre bannière de victoire au combat. Cette bannière augmente la Puissance maximale et la régénération de Puissance au combat de ceux qui se trouvent à proximité."/>
+<label key="key:620793174:228830419" value="Vous enrôlez un héraut pour porter votre bannière de guerre au combat. Cette bannière augmente la Force et l'Agilité de ceux qui se trouvent à proximité."/>
+<label key="key:620793175:228830419" value="Vous enrôlez un héraut pour porter votre bannière d'espoir au combat. Cette bannière augmente le Moral maximal et la régénération de Moral au combat de ceux qui se trouvent à proximité."/>
+<label key="key:620793375:228830419" value="Lorsqu'elle est active, les artefacts les plus proches apparaissent sur le radar."/>
+<label key="key:620793376:228830419" value="Parfois, une poussée de vitesse peut faire toute la différence."/>
+<label key="key:620793377:228830419" value="Parfois, pour survivre, il suffit de ne pas être touché. La plupart du temps, en fait."/>
+<label key="key:620793378:228830419" value="Rien n'échappe à votre oeil de lynx. Aucun ver, en tout cas."/>
+<label key="key:620793379:228830419" value="Attaque automatique déclenchée lors des attaques uniques sans armes."/>
+<label key="key:620793501:228830419" value="Votre présence rassurante augmente la quantité de Moral récupérée par votre frère de bouclier."/>
+<label key="key:620793907:228830419" value="La Terre du Milieu est un endroit dangereux. C'est parfois bon d'être mort."/>
+<label key="key:620794584:228830419" value="Cette compétence de groupe de guerriers inflige à votre cible des dégâts au corps à corps immédiats et peut contribuer aux manoeuvres de groupe de guerriers."/>
+<label key="key:620794613:228830419" value="Quelque chose ne va pas, même si vous ignorez quoi."/>
+<label key="key:620794614:228830419" value="Le maître du savoir projette un orbe luisant qui déclenche une explosion de feux d'artifice. Jusqu'à trois morts seront alors paralysés pendant 5 secondes, puis éblouis pendant 10 secondes."/>
+<label key="key:620794627:228830419" value="Votre connaissance de la protection vous permet de créer une zone qui sera l'enfer de la créature choisie : elle y subira plus de dégâts de la part des compétences tactiques et ses chances d'échec seront augmentées. Cette zone a une durée de vie de 1 minute."/>
+<label key="key:620794630:228830419" value="Votre connaissance de la protection vous permet de créer une zone qui sera l'enfer de la créature choisie : elle y subira plus de dégâts de la part des compétences tactiques et ses chances d'échec seront augmentées. Cette zone a une durée de vie de 1 minute."/>
+<label key="key:620794631:228830419" value="Votre connaissance de la protection vous permet de créer une zone qui sera l'enfer de la créature choisie : elle y subira plus de dégâts de la part des compétences tactiques et ses chances d'échec seront augmentées. Cette zone a une durée de vie de 1 minute."/>
+<label key="key:620794634:228830419" value="Ceci permet au maître du savoir de préparer un alliage de métaux magnétisés et d'autres obscurs matériaux. Ceci complique le port d'armure et irrite les créatures porteuses d'armures lourdes, ce qui a pour effet de rendre leur armure inopérante."/>
+<label key="key:620794638:228830419" value="La langue de la guerre doit être active pour utiliser cette compétence. Vous invoquez le nom du Roi Ancien, chef des Valar, pour frapper un groupe d'ennemis et réduire sa résistance aux attaques suivantes."/>
+<label key="key:620794639:228830419" value="Vous faites appel à un compagnon, l'incitant aux plus grandes prouesses."/>
+<label key="key:620794640:228830419" value="Vous faites appel à vos compagnons, les incitant à une plus grande efficacité lors des manoeuvres de communauté."/>
+<label key="key:620794641:228830419" value="La langue de la guerre doit être active pour utiliser cette compétence. Vos récits enthousiasmants du Second Age découragent les ennemis situés à proximité et allègent le coeur de vos alliés."/>
+<label key="key:620794642:228830419" value="Vous maîtrisez assez bien le lai du Poing de Marteau pour en accorder le bénéfice à un allié."/>
+<label key="key:620794643:228830419" value="Ce chant invoque une Lame du parjure pour harceler votre ennemi. Si vous utilisez Discours de guerre, ce chant est automatiquement transformé en Choeur des parjures."/>
+<label key="key:620794644:228830419" value="Cette aura augmente la Vitalité et la Résistance aux blessures de votre communauté."/>
+<label key="key:620794645:228830419" value="Cette aura augmente l'Espoir de votre communauté et renforce son Armure."/>
+<label key="key:620794646:228830419" value="Votre discours charismatique fait naître la peur dans le coeur de vos ennemis."/>
+<label key="key:620794647:228830419" value="Le maître du savoir jette au sol une fiole de goudron collant nauséabond, créant une zone où le déplacement est réduit de 50 %. Les créatures ennemies sont également plus vulnérables de 10 % aux dégâts de feu. Cette zone a une durée de vie de 1 minute."/>
+<label key="key:620794652:228830419" value="Le maître du savoir peut frapper le sol de son bâton, causant un coup de tonnerre et paralysant les créatures qui l'entourent pendant 3 secondes. De légers dégâts sont également infligés."/>
+<label key="key:620794716:228830419" value="Ce hurlement invoque deux Lames du parjure pour harceler votre ennemi."/>
+<label key="key:620794960:228830419" value="Le maître du savoir provoque un orage qui attire l'énergie électrique sur les cibles ayant été préalablement ointes du mélange d'artisanat ancien. Ce lien avec la nature est difficile pour les races mortelles et très exigeant pour le Moral du maître du savoir."/>
+<label key="key:620794980:228830419" value="Cette compétence de groupe de guerriers inflige à votre cible des dégâts à distance immédiats, puis vous transfère une partie du Moral de la cible et peut contribuer aux manoeuvres de groupe de guerriers."/>
+<label key="key:620795022:228830419" value="Force, x3"/>
+<label key="key:620795027:228830419" value="Conviction, x3"/>
+<label key="key:620795034:228830419" value="Tactique, x2"/>
+<label key="key:620795045:228830419" value="Force, x4"/>
+<label key="key:620795047:228830419" value="Conviction, x5"/>
+<label key="key:620795060:228830419" value="Conviction, x2"/>
+<label key="key:620795063:228830419" value="Ruse à distance, x2"/>
+<label key="key:620795067:228830419" value="Force, x2"/>
+<label key="key:620795079:228830419" value="Tactique, x5"/>
+<label key="key:620795083:228830419" value="Contribution de conviction"/>
+<label key="key:620795084:228830419" value="Contribution de ruse"/>
+<label key="key:620795085:228830419" value="Cette compétence de groupe de guerriers inflige à votre cible des dégâts au corps à corps immédiats, puis fait perdre du Moral à la cible au fil du temps et peut contribuer aux manoeuvres de groupe de guerriers."/>
+<label key="key:620795089:228830419" value="Ruse à distance, x6"/>
+<label key="key:620795096:228830419" value="Tactique, x4"/>
+<label key="key:620795107:228830419" value="Contribution de force"/>
+<label key="key:620795111:228830419" value="Ruse à distance, x3"/>
+<label key="key:620795112:228830419" value="Ruse au corps à corps, x3"/>
+<label key="key:620795113:228830419" value="Ruse à distance, x5"/>
+<label key="key:620795117:228830419" value="Force, x6"/>
+<label key="key:620795126:228830419" value="Cette compétence de groupe de guerriers inflige à votre cible des dégâts au corps à corps immédiats, puis vous transfère une partie de la Puissance de la cible et peut contribuer aux manoeuvres de groupe de guerriers."/>
+<label key="key:620795131:228830419" value="Ruse au corps à corps, x2"/>
+<label key="key:620795134:228830419" value="Tactique, x6"/>
+<label key="key:620795149:228830419" value="Force, x6"/>
+<label key="key:620795167:228830419" value="Cette compétence de groupe de guerriers inflige à votre cible des dégâts à distance immédiats, puis vous transfère une partie de la Puissance de la cible et peut contribuer aux manoeuvres de groupe de guerriers."/>
+<label key="key:620795181:228830419" value="Contribution de tactique"/>
+<label key="key:620795192:228830419" value="Force, x5"/>
+<label key="key:620795222:228830419" value="Ruse au corps à corps, x4"/>
+<label key="key:620795223:228830419" value="Conviction, x4"/>
+<label key="key:620795224:228830419" value="Contribution de ruse"/>
+<label key="key:620795228:228830419" value="Tactique, x3"/>
+<label key="key:620795229:228830419" value="Conviction, x6"/>
+<label key="key:620795233:228830419" value="Force, x2"/>
+<label key="key:620795235:228830419" value="Ruse au corps à corps, x5"/>
+<label key="key:620795243:228830419" value="Ruse au corps à corps, x6"/>
+<label key="key:620795252:228830419" value="Ruse à distance, x4"/>
+<label key="key:620795253:228830419" value="Cette compétence de groupe de guerriers inflige à votre cible des dégâts à distance immédiats, puis fait perdre du Moral à la cible au fil du temps et peut contribuer aux manoeuvres de groupe de guerriers."/>
+<label key="key:620795265:228830419" value="Force, x5"/>
+<label key="key:620795284:228830419" value="Force, x3"/>
+<label key="key:620795288:228830419" value="Cette compétence de groupe de guerriers inflige à votre cible des dégâts à distance immédiats et peut contribuer aux manoeuvres de groupe de guerriers."/>
+<label key="key:620795300:228830419" value="Force, x4"/>
+<label key="key:620795374:228830419" value="Votre connaissance de la langue des lynx vous permet d'en appeler un pour vous aider dans vos aventures."/>
+<label key="key:620795674:228830419" value="Vous jouez un accord simple, mais puissant, qui restaure instantanément le Moral d'un de vos alliés."/>
+<label key="key:620795679:228830419" value="Vous jouez une mélodie si irrésistible qu'aucun membre des Peuples Libres ne peut s'empêcher de danser en l'entendant."/>
+<label key="key:620795817:228830419" value="Rédige un manuel d'enseignement de la harpe, ce qui est bien plus ardu que d'enseigner personnellement la pratique de l'instrument."/>
+<label key="key:620795820:228830419" value="Lorsque vous entrez en position de scribe, vos compétences de professeur deviennent des compétences de scribe vous permettant de rédiger des manuels pour l'enseignement des instruments. Ecrire des manuels est beaucoup plus ardu qu'enseigner en personne. Un manuel de mentor vierge est nécessaire et un temps de récupération de 10 jours est appliqué à toutes les compétences de mentor."/>
+<label key="key:620795840:228830419" value="Rédige un manuel d'enseignement de la cloche de vache, ce qui est bien plus ardu que d'enseigner personnellement la pratique de l'instrument."/>
+<label key="key:620795842:228830419" value="Rédige un manuel d'enseignement du tambour, ce qui est bien plus ardu que d'enseigner personnellement la pratique de l'instrument."/>
+<label key="key:620795845:228830419" value="Rédige un manuel d'enseignement de la flûte, ce qui est bien plus ardu que d'enseigner personnellement la pratique de l'instrument."/>
+<label key="key:620795848:228830419" value="Rédige un manuel d'enseignement du cor, ce qui est bien plus ardu que d'enseigner personnellement la pratique de l'instrument."/>
+<label key="key:620795850:228830419" value="Rédige un manuel d'enseignement de la cloche de vache des landes, ce qui est bien plus ardu que d'enseigner personnellement la pratique de l'instrument."/>
+<label key="key:620795852:228830419" value="Rédige un manuel d'enseignement du théorbe, ce qui est bien plus ardu que d'enseigner personnellement la pratique de l'instrument."/>
+<label key="key:620795854:228830419" value="Rédige un manuel d'enseignement de la cornemuse, ce qui est bien plus ardu que d'enseigner personnellement la pratique de l'instrument. Un manuel de mentor vierge est nécessaire."/>
+<label key="key:620795855:228830419" value="Rédige un manuel d'enseignement de la clarinette, ce qui est bien plus ardu que d'enseigner personnellement la pratique de l'instrument."/>
+<label key="key:620795856:228830419" value="Attaque massive ne fonctionnant qu'en mode Discrétion. Cette compétence a de fortes chances de provoquer une attaque critique. Cette attaque est plus efficace lorsqu'elle est lancée derrière l'ennemi."/>
+<label key="key:620795857:228830419" value="Arrachement d'oeil et entaille. Cette compétence fonctionne dans un arc de cercle de 60 degrés."/>
+<label key="key:620795858:228830419" value="Le lynx agile bondit d'ennemi en ennemi, les frappant de ses griffes dans une zone de 180° devant lui."/>
+<label key="key:620795893:228830419" value=".."/>
+<label key="key:620795895:228830419" value=".."/>
+<label key="key:620795923:228830419" value="Votre connaissance de la langue des oiseaux vous permet d'en appeler un pour vous redonner un peu d'espoir."/>
+<label key="key:620795926:228830419" value="Votre connaissance de la langue des chats vous permet d'en appeler un pour vous redonner un peu d'espoir."/>
+<label key="key:620795928:228830419" value="Votre connaissance de la langue des chiens vous permet d'en appeler un pour vous redonner un peu d'espoir."/>
+<label key="key:620795930:228830419" value="Votre connaissance de la langue des renards vous permet d'en appeler un pour vous redonner un peu d'espoir."/>
+<label key="key:620795932:228830419" value="Votre connaissance de la langue des grenouilles vous permet d'en appeler une pour vous redonner un peu d'espoir."/>
+<label key="key:620795934:228830419" value="Votre connaissance de la langue des lapins vous permet d'en appeler un pour vous redonner un peu d'espoir."/>
+<label key="key:620795936:228830419" value="Votre connaissance de la langue des serpents vous permet d'en appeler un pour vous redonner un peu d'espoir."/>
+<label key="key:620795938:228830419" value="Votre connaissance de la langue des chats vous permet d'en appeler un pour vous redonner un peu d'espoir."/>
+<label key="key:620795997:228830419" value="Votre connaissance de la langue des tortues vous permet d'en appeler une pour vous redonner un peu d'espoir."/>
+<label key="key:620796000:228830419" value="A l'aide de soigneuses pensées, le maître du savoir peut remettre un compagnon tombé en état de se battre, ressuscitant ainsi un allié vaincu au prix modeste de quelques herbes odorantes."/>
+<label key="key:620796467:228830419" value="Vos dents se plantent profondément dans les chairs de l'ennemi, ce qui déchire son tendon et offre ainsi l'opportunité de réaliser une manoeuvre de groupe."/>
+<label key="key:620796468:228830419" value="Un rapide balayage du regard nuit empêche votre adversaire de se concentrer."/>
+<label key="key:620796469:228830419" value="Quand l'heure du combat est venue, c'est aux Orques qu'il incombe de briser les lignes adverses. Vous gagnez une brève immunité contre les effets de racine, d'hébètement et d'étourdissement. Votre vitesse augmente brièvement."/>
+<label key="key:620796471:228830419" value="Lorsque votre cible commence à préparer une attaque, vous lui donnez un bon coup de poing dans le ventre pour l'interrompre."/>
+<label key="key:620796472:228830419" value="Votre connaissance de l'ennemi est si grande que vous pouvez cibler les organes vitaux avec beaucoup d'efficacité."/>
+<label key="key:620796473:228830419" value="Votre vue est si bonne que vous pouvez garder un ennemi à l'oeil sans jamais le perdre de vue."/>
+<label key="key:620796475:228830419" value="Lorsque vous repérez un ennemi à distance en train de préparer une attaque, vous le visez et le déstabilisez."/>
+<label key="key:620796476:228830419" value="Un terrible étendard effraie vos ennemis et réduit leur détermination."/>
+<label key="key:620796478:228830419" value="Vous vomissez des mots sacrés dans la langue exécrable et oubliée des Lugbûrz. La conviction et la terreur inhérentes à vos paroles réduit la détermination de l'ennemi."/>
+<label key="key:620796479:228830419" value="Vous placez un étendard portant le symbole de la tribu orque la plus puissante, les Krahjarn. Tous ceux qui se trouvent près de l'étendard en retirent de la force."/>
+<label key="key:620796481:228830419" value="Vos toiles vous permettent de créer des zones gluantes sur le sol, qui ralentissent le mouvement des ennemis."/>
+<label key="key:620796483:228830419" value="Lorsque vous concentrez toute votre énergie sur une seule cible, vous pouvez l'écraser sous le poids de vos toiles, ce qui vous ouvre ensuite la possibilité d'engager une manoeuvre de confrérie."/>
+<label key="key:620796484:228830419" value="Attaque à distance causant une faible quantité de dégâts et un grand nombre d'oeufs qui pourraient éclore !"/>
+<label key="key:620797239:228830419" value="Cette compétence vous permet d'étudier les forces et faiblesses de certaines créatures."/>
+<label key="key:620797423:228830419" value="Vous pouvez apprendre à quelqu'un à jouer de la harpe."/>
+<label key="key:620797598:228830419" value="Vous pouvez apprendre à quelqu'un à jouer de la cornemuse."/>
+<label key="key:620797599:228830419" value="Vous pouvez apprendre à quelqu'un à jouer de la clarinette."/>
+<label key="key:620797600:228830419" value="Vous pouvez apprendre à quelqu'un à jouer de la cloche de vache."/>
+<label key="key:620797601:228830419" value="Vous pouvez apprendre à quelqu'un à jouer du cor."/>
+<label key="key:620797602:228830419" value="Vous pouvez apprendre à quelqu'un à jouer de la cloche de vache des landes."/>
+<label key="key:620797603:228830419" value="Vous pouvez apprendre à quelqu'un à jouer du théorbe."/>
+<label key="key:620797604:228830419" value="Vous pouvez apprendre à quelqu'un à jouer du tambour."/>
+<label key="key:620797605:228830419" value="Vous pouvez apprendre à quelqu'un à jouer de la flûte."/>
+<label key="key:620799391:228830419" value="Retournez rapidement dans votre maison personnelle. Cette compétence s'interrompt facilement."/>
+<label key="key:620799393:228830419" value="Retournez rapidement à la maison de votre confrérie. Cette compétence s'interrompt facilement."/>
+<label key="key:620799546:228830419" value="Cette compétence permet à l'aigle de faire échouer la tentative de la cible qu'il combat."/>
+</labels>

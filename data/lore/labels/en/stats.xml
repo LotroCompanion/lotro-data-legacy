@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="UTF-8"?><labels locale="en">
+<label key="-1000" value="Devastate chance (melee)"/>
+<label key="-1001" value="Devastate chance (ranged)"/>
+<label key="-1002" value="Devastate chance (tactical)"/>
+<label key="-1003" value="Critical/Devastate Magnitude (melee)"/>
+<label key="-1004" value="Critical/Devastate Magnitude (ranged)"/>
+<label key="-1005" value="Critical/Devastate Magnitude (tactical)"/>
+<label key="-1006" value="Finesse (%)"/>
+<label key="-1007" value="Resistance (%)"/>
+<label key="-1008" value="Armour"/>
+<label key="-1009" value="DPS"/>
+<label key="-1010" value="Shield Use Rank"/>
+<label key="268435463" value="Pip"/>
+<label key="268435464" value="Minimum Pips"/>
+<label key="268435465" value="Healing Skills Induction Time"/>
+<label key="268435466" value="Retaliate Response Time"/>
+<label key="268435468" value="Loremaster Sign of the Wild Power Cost"/>
+<label key="268435469" value="Subtle Stab Damage"/>
+<label key="268435470" value="Fervour Damage Bonus"/>
+<label key="268435471" value="Deep Strikes"/>
+<label key="268435472" value="Loremaster Knowledge of The Past Trait"/>
+<label key="268435487" value="Cry Resistance"/>
+<label key="268435504" value="Threat Input Modifier for Taunt"/>
+<label key="268435510" value="Conjunction Initiation Chance"/>
+<label key="268435516" value="Mount Speed"/>
+<label key="268435577" value="non-Combat Power Regen"/>
+<label key="268435608" value="Light Immunity"/>
+<label key="268435629" value="Two-handed Axe Damage"/>
+<label key="268435636" value="Can Block"/>
+<label key="268435640" value="North Downs Discount"/>
+<label key="268435666" value="Movement Frozen"/>
+<label key="268435680" value="Skill Reset Time"/>
+<label key="268435681" value="Block Response Duration Modifier"/>
+<label key="268435682" value="Damage Increase"/>
+<label key="268435683" value="Threat"/>
+<label key="268435684" value="Burglar Disabled Attack Trait"/>
+<label key="268435710" value="Combat Event Reactions"/>
+<label key="268435712" value="Increases the Idealism virtue's rank."/>
+<label key="268435732" value="Run Speed"/>
+<label key="268435744" value="Focus"/>
+<label key="268435749" value="Completed Mastery"/>
+<label key="268435752" value="Completed Mastery"/>
+<label key="268435801" value="in-Combat Power Regen"/>
+<label key="268435844" value="Can Respond"/>
+<label key="268435871" value="Angmar Discount"/>
+<label key="268435914" value="Auto-attack Block Chance"/>
+<label key="268435915" value="Induction Duration"/>
+<label key="268435917" value="Signs of the Wild Durations"/>
+<label key="268435918" value="Song Power Cost"/>
+<label key="268435920" value="Improved Blade Wall"/>
+<label key="268435921" value="Eye For Vulnerability"/>
+<label key="268435922" value="Improved Words of Courage"/>
+<label key="268435923" value="Captain Empowering Triumph Trait"/>
+<label key="268435981" value="Will"/>
+<label key="268435993" value="Critical Chance"/>
+<label key="268435994" value="Completed Proficiency"/>
+<label key="268435995" value="Completed Proficiency"/>
+<label key="268435996" value="Completed Mastery"/>
+<label key="268436040" value="Amount of healing your skills provide"/>
+<label key="268436041" value="Allows immunity to knockaway effects."/>
+<label key="268436045" value="Mood_Intended_Dread_Level"/>
+<label key="268436087" value="One-handed Club Damage"/>
+<label key="268436090" value="Current Trait Combo"/>
+<label key="268436092" value="Block Chance"/>
+<label key="268436095" value="Melee Vulnerability"/>
+<label key="268436097" value="Attack Duration"/>
+<label key="268436124" value="Allowed Equipment Categories"/>
+<label key="268436147" value="Recovery Time for Sprint"/>
+<label key="268436148" value="Seconds"/>
+<label key="268436149" value="Skill Reset Timer"/>
+<label key="268436150" value="Effect Duration"/>
+<label key="268436151" value="Power Cost"/>
+<label key="268436152" value="Improved Tracking of Foes"/>
+<label key="268436153" value="Improved Swift Strike"/>
+<label key="268436154" value="Improved Flurry"/>
+<label key="268436155" value="Champion Instant Risposte Trait"/>
+<label key="268436167" value="Resist Immunity"/>
+<label key="268436185" value="Increases the Valor virtue's rank."/>
+<label key="268436215" value="Stealth Break Resist"/>
+<label key="268436331" value="Can Attack"/>
+<label key="268436350" value="Current Trait Combo"/>
+<label key="268436351" value="Parry Chance"/>
+<label key="268436352" value="Ranged Evade Chance"/>
+<label key="268436354" value="Tactical Critical Chance"/>
+<label key="268436393" value="Fervour"/>
+<label key="268436395" value="Skill Reset"/>
+<label key="268436396" value="Wood Harvesting Time"/>
+<label key="268436397" value="Quick Shot Critical Chance"/>
+<label key="268436435" value="Threat Input Modifier for Damage"/>
+<label key="268436447" value="Movement Freeze"/>
+<label key="268436462" value="Critical Chance"/>
+<label key="268436524" value="Incoming Healing"/>
+<label key="268436578" value="Current Trait Combo"/>
+<label key="268436581" value="Light Mitigation"/>
+<label key="268436582" value="Shadow Mitigation"/>
+<label key="268436583" value="Can Parry"/>
+<label key="268436633" value="Improved Enlivening Grace"/>
+<label key="268436634" value="Swift Bow induction time"/>
+<label key="268436635" value="Critical Chance for Rain of Arrows"/>
+<label key="268436636" value="Ranged Critical Chance"/>
+<label key="268436637" value="Herald's Strike"/>
+<label key="268436638" value="Improved Routing Cry"/>
+<label key="268436639" value="Captain Herald Appearance"/>
+<label key="268436640" value="Improved Banner of Hope"/>
+<label key="268436662" value="Tactical Resistance"/>
+<label key="268436663" value="Fear Resistance"/>
+<label key="268436686" value="Increases the Tolerant virtue's rank."/>
+<label key="268436706" value="Completed Mastery"/>
+<label key="268436709" value="Critical Chance"/>
+<label key="268436764" value="Increase Healing Per Interval Change"/>
+<label key="268436768" value="Power"/>
+<label key="268436789" value="Override Desire"/>
+<label key="268436813" value="Guardian Damage Combo Mode"/>
+<label key="268436815" value="Current Trait Combo"/>
+<label key="268436816" value="Miss Chance"/>
+<label key="268436817" value="Miss Chance"/>
+<label key="268436861" value="damage type of all skills"/>
+<label key="268436862" value="Fervour"/>
+<label key="268436863" value="Fervour"/>
+<label key="268436864" value="Minimum Pips"/>
+<label key="268436865" value="Skill Reset Time"/>
+<label key="268436866" value="Critical Chance"/>
+<label key="268436867" value="Magic Cost"/>
+<label key="268436868" value="Morale Cost"/>
+<label key="268436869" value="Loremaster Lore Power Cost"/>
+<label key="268436870" value="Champion Call of the Wild Trait"/>
+<label key="268436871" value="Pet Trait Mod"/>
+<label key="268436872" value="Improved Banner of Defence"/>
+<label key="268436873" value="Captain Herald Appearance"/>
+<label key="268436893" value="Wound Resistance"/>
+<label key="268436911" value="Conjunction Event Reactions"/>
+<label key="268436925" value="Movement Acceleration Multiplier"/>
+<label key="268436928" value="Might"/>
+<label key="268436938" value="Completed Proficiency"/>
+<label key="268436939" value="Completed Mastery"/>
+<label key="268436996" value="Damage Vulnerability when enraged."/>
+<label key="268437033" value="Ancient Dwarf Immunity"/>
+<label key="268437059" value="One-handed Axe Damage"/>
+<label key="268437064" value="Ered Luin Discount"/>
+<label key="268437083" value="Usage Action"/>
+<label key="268437109" value="Fervour"/>
+<label key="268437110" value="Dire Need Skill Reset Time"/>
+<label key="268437111" value="Beacon of Hope Morale Cost"/>
+<label key="268437112" value="Power Cost of Sign Skills"/>
+<label key="268437113" value="Swift Bow Damage"/>
+<label key="268437114" value="Damage of Fire Based Skills"/>
+<label key="268437115" value="Stealthy Shot"/>
+<label key="268437116" value="CenterCentreing Self"/>
+<label key="268437117" value="Pet Trait Mod2"/>
+<label key="268437118" value="Complex Riddle Trait"/>
+<label key="268437119" value="Improved Rallying Cry"/>
+<label key="268437120" value="Captain Herald Appearance"/>
+<label key="268437121" value="Thrill Reaction User Overide"/>
+<label key="268437160" value="Increases the Determination virtue's rank."/>
+<label key="268437161" value="Increases the Honesty virtue's rank."/>
+<label key="268437185" value="Completed Proficiency"/>
+<label key="268437186" value="Critical Chance"/>
+<label key="268437238" value="Revive Power Total"/>
+<label key="268437290" value="Bow Damage"/>
+<label key="268437292" value="Ranged Vulnerability"/>
+<label key="268437328" value="Pip"/>
+<label key="268437329" value="Miss Chance Improvement"/>
+<label key="268437330" value="Guardian's Challenge Skill Reset"/>
+<label key="268437331" value="Skill Reset Time"/>
+<label key="268437332" value="Critical Chance Modifier for All Strike Skills"/>
+<label key="268437333" value="Improved Banner of War"/>
+<label key="268437334" value="Captain Improved Courage Trait"/>
+<label key="268437335" value="Heart Reaction User Overide"/>
+<label key="268437369" value="Increases the Merciful virtue's rank."/>
+<label key="268437402" value="Completed Mastery"/>
+<label key="268437492" value="Shadow Immunity"/>
+<label key="268437494" value="Common Immunity"/>
+<label key="268437496" value="Ignore Threat"/>
+<label key="268437569" value="Skill Reset Time"/>
+<label key="268437570" value="All Enemy Defence Chances"/>
+<label key="268437571" value="Mining Time"/>
+<label key="268437572" value="Induction time of your bow attacks"/>
+<label key="268437601" value="Increases the Patience virtue's rank."/>
+<label key="268437606" value="Combat Immunities"/>
+<label key="268437610" value="Post-Conjunction Immunity"/>
+<label key="268437619" value="Fate"/>
+<label key="268437631" value="Critical Chance"/>
+<label key="268437633" value="Completed Mastery"/>
+<label key="268437647" value="Feigned Death Resist Chance Modifier"/>
+<label key="268437687" value="Stealth Level"/>
+<label key="268437691" value="Morale"/>
+<label key="268437722" value="Perception Radius"/>
+<label key="268437747" value="Current Combo"/>
+<label key="268437752" value="Ancient Dwarf Mitigation"/>
+<label key="268437755" value="Bree-land Discount"/>
+<label key="268437804" value="Quick Shot target effect override"/>
+<label key="268437805" value="Max distance of ranged auto-attack"/>
+<label key="268437806" value="Ranged Skill Damage Mitigation Modifier"/>
+<label key="268437807" value="Recovery Time for On Your Feet!"/>
+<label key="268437808" value="Farming Time"/>
+<label key="268437809" value="All Overt Magic Induction Time"/>
+<label key="268437810" value="Pulse Modifier"/>
+<label key="268437812" value="Threat Modifier"/>
+<label key="268437813" value="Improved Branching Attack"/>
+<label key="268437849" value="Increases the Zeal virtue's rank."/>
+<label key="268437884" value="Feigned Death"/>
+<label key="268437931" value="Duration of Field Promotion buff"/>
+<label key="268437934" value="non-Combat Morale Regen"/>
+<label key="268438033" value="Pip"/>
+<label key="268438034" value="Auto-attack Critical Hit Chance"/>
+<label key="268438035" value="Critical Buff"/>
+<label key="268438036" value="Effect Duration"/>
+<label key="268438037" value="Adds Power Heal to Tricks"/>
+<label key="268438038" value="Bleeding Vitals"/>
+<label key="268438039" value="Improved Warcy"/>
+<label key="268438040" value="Captain Herald Appearance"/>
+<label key="268438077" value="Increases the Innocence virtue's rank."/>
+<label key="268438078" value="Increases the Loyalty virtue's rank."/>
+<label key="268438099" value="Completed Proficiency"/>
+<label key="268438188" value="Beleriand Mitigation"/>
+<label key="268438189" value="Melee Critical Chance"/>
+<label key="268438236" value="Seconds"/>
+<label key="268438237" value="Skill Reset Time"/>
+<label key="268438238" value="Sting Skill Reset"/>
+<label key="268438239" value="Barbed Arrow induction time"/>
+<label key="268438240" value="Monster Induction Duration Modifier"/>
+<label key="268438241" value="Parry Response Duration Modifier"/>
+<label key="268438242" value="Power Cost"/>
+<label key="268438243" value="Anthem Power Cost"/>
+<label key="268438244" value="Power Cost"/>
+<label key="268438245" value="Tricks Power Cost"/>
+<label key="268438246" value="Ballad Damage"/>
+<label key="268438247" value="Acts on a Fellowship Maneuver Event"/>
+<label key="268438248" value="Captain Herald Appearance"/>
+<label key="268438316" value="Completed Proficiency"/>
+<label key="268438365" value="Increase Healing Initial Change"/>
+<label key="268438406" value="Melee Immunity"/>
+<label key="268438407" value="Melee Damage"/>
+<label key="268438422" value="Minimum Usage Distance"/>
+<label key="268438448" value="Increased Pulse Duration"/>
+<label key="268438449" value="Fellowship Maneuver Morale Healing Multiplier from Conviction"/>
+<label key="268438450" value="Fellowship Maneuver Damage from Might"/>
+<label key="268438451" value="Deadly Precision"/>
+<label key="268438452" value="Champion Endless Sprint Trait"/>
+<label key="268438453" value="Bleeding Vitals from Stealth"/>
+<label key="268438454" value="Defiant"/>
+<label key="268438455" value="Captain Herald Appearance"/>
+<label key="268438502" value="Agility"/>
+<label key="268438584" value="in-Combat Morale Regen"/>
+<label key="268438623" value="Test Enchantable Property"/>
+<label key="268438634" value="Magic Immunity"/>
+<label key="268438635" value="Ranged Damage"/>
+<label key="268438683" value="Number of Targets"/>
+<label key="268438684" value="Fervour Mitigation"/>
+<label key="268438685" value="Bleed Pulse Count Increase"/>
+<label key="268438686" value="Ranged Vital Cost Modifier"/>
+<label key="268438687" value="Melee Vital Cost Modifier"/>
+<label key="268438688" value="Improved Tracking of Shadow"/>
+<label key="268438689" value="Shield Attack Critical Chance"/>
+<label key="268438735" value="Increases the Compassionate virtue's rank."/>
+<label key="268438736" value="Increases the Fortitude virtue's rank."/>
+<label key="268438741" value="Perceived Threat"/>
+<label key="268438757" value="Stealth Level"/>
+<label key="268438763" value="Critical Chance"/>
+<label key="268438830" value="Safe Mode State"/>
+<label key="268438881" value="Guardian Shield Damage Increase"/>
+<label key="268438882" value="One-handed Sword Damage"/>
+<label key="268438887" value="Ranged Immunity"/>
+<label key="268438940" value="Target's mitigation to this attack"/>
+<label key="268438941" value="Faster Aim Recovery"/>
+<label key="268438942" value="Increased Crit Chance"/>
+<label key="268438944" value="Fellowship Maneuver Damage from Guile"/>
+<label key="268438945" value="Bow Shots Gain Power"/>
+<label key="268438946" value="Improved Catch Breath"/>
+<label key="268438947" value="Reactive Blocks"/>
+<label key="268438948" value="Engergizing Parry"/>
+<label key="268438982" value="Threat from Healing"/>
+<label key="268438992" value="Turn Speed Modifier"/>
+<label key="268439066" value="Revive Morale Total"/>
+<label key="268439103" value="Is AI Active"/>
+<label key="268439129" value="Lone-lands Discount"/>
+<label key="268439183" value="Skill Reset"/>
+<label key="268439184" value="Beacon of Hope Induction Time"/>
+<label key="268439185" value="Critical Damage Multiplier for Rain of Arrows"/>
+<label key="268439186" value="Critical Chance with Burglar Skills"/>
+<label key="268439188" value="Area of Effect Skill Damage"/>
+<label key="268439189" value="Hindering Shot can Root"/>
+<label key="268439216" value="Physical Resistance"/>
+<label key="268439237" value="Increases the Charity virtue's rank."/>
+<label key="268439267" value="Critical Chance"/>
+<label key="268439269" value="Completed Proficiency"/>
+<label key="268439270" value="Critical Chance"/>
+<label key="268439350" value="Tracking Resource"/>
+<label key="268439365" value="Beleriand Immunity"/>
+<label key="268439366" value="Westernesse Immunity"/>
+<label key="268439395" value="Fire Mitigation"/>
+<label key="268439396" value="Melee Critical Vulnerability"/>
+<label key="268439397" value="Trollshaws Discount"/>
+<label key="268439425" value="Allow Secondary Weapon"/>
+<label key="268439443" value="Fervour"/>
+<label key="268439444" value="Skill Reset Time"/>
+<label key="268439445" value="Shield Swipe Response Time"/>
+<label key="268439446" value="Duration Modifier"/>
+<label key="268439447" value="Cries Cost"/>
+<label key="268439448" value="Fellowship Maneuver Power Healing Multiplier from Tactics"/>
+<label key="268439449" value="Ranged Threat"/>
+<label key="268439450" value="Bow Bane"/>
+<label key="268439482" value="Increases the Fidelity virtue's rank."/>
+<label key="268439483" value="Increases the Wisdom virtue's rank."/>
+<label key="268439496" value="Stealth Detection"/>
+<label key="268439501" value="Critical Chance"/>
+<label key="268439502" value="Completed Proficiency"/>
+<label key="268439562" value="Hope"/>
+<label key="268439563" value="Experience Modifier"/>
+<label key="268439608" value="Hunter Ranged Combo Mode"/>
+<label key="268439610" value="Tactical Vulnerability"/>
+<label key="268439611" value="Tactical Damage"/>
+<label key="268439614" value="Can Evade"/>
+<label key="268439616" value="Tactical Critical Multiplier"/>
+<label key="268439659" value="Number of Targets for AOE Lore Skills"/>
+<label key="268439660" value="Off-Hand Damage Multiplier"/>
+<label key="268439680" value="Disease Resistance"/>
+<label key="268439728" value="Critical Chance Add Modifier"/>
+<label key="268439729" value="Completed Proficiency"/>
+<label key="268439731" value="Completed Mastery"/>
+<label key="268439859" value="Common Mitigation"/>
+<label key="268439900" value="Ranged Skill Parry Chance Modifier"/>
+<label key="268439901" value="Ranged Skill Evade Chance Modifier"/>
+<label key="268439902" value="Positional Damage Multiplier"/>
+<label key="268439904" value="Captain Herald Appearance"/>
+<label key="268439946" value="Vitality"/>
+<label key="268439955" value="Completed Mastery"/>
+<label key="268440059" value="Two-handed Sword Damage"/>
+<label key="268440061" value="Current Trait Combo"/>
+<label key="268440063" value="Westernesse Mitigation"/>
+<label key="268440065" value="Shire Discount"/>
+<label key="268440116" value="Burglar Aim Miss Chance Modifier"/>
+<label key="268440117" value="Target's chance to block your bow attacks"/>
+<label key="268440118" value="Pulse Modifier"/>
+<label key="268440119" value="Quick Shot Detaunt"/>
+<label key="268440120" value="Sturdy Trap: Improved Trap"/>
+<label key="268440121" value="Improved Wild Attack"/>
+<label key="268440123" value="Captain Herald Appearance"/>
+<label key="268440124" value="Hunter Improved Dual Wield Trait"/>
+<label key="268440125" value="Engergizing Block"/>
+<label key="268440138" value="Appearance"/>
+<label key="268440166" value="Increases the Just virtue's rank."/>
+<label key="268440167" value="Increases the Empathy virtue's rank."/>
+<label key="268440211" value="Completed Mastery"/>
+<label key="268440220" value="Defeat Immunity"/>
+<label key="268440270" value="Duration of Web debuffs"/>
+<label key="268440378" value="Fervour Cost Minimum"/>
+<label key="268440379" value="Deep Breath Skill Reset"/>
+<label key="268440380" value="Skill Reset Time"/>
+<label key="268440381" value="Ranged Skill Block Chance Modifier"/>
+<label key="268440382" value="Critical Damage Modifier for All Strike Skills"/>
+<label key="268440383" value="Critical Chance"/>
+<label key="268440384" value="Raises Duration of Loremaster Cure Effects"/>
+<label key="268440385" value="Power Cost"/>
+<label key="268440386" value="Power Cost"/>
+<label key="268440387" value="Loremaster Sign of Power Cost"/>
+<label key="268440388" value="Ballad Power Cost"/>
+<label key="268440389" value="Damage Increase"/>
+<label key="268440390" value="Damage Multiplier to Sting Damage"/>
+<label key="268440391" value="Jagged Cut will sometimes cause damage over time"/>
+<label key="268440392" value="Patience"/>
+<label key="268440393" value="Captain Herald Appearance"/>
+<label key="268440419" value="Poison Resistance"/>
+<label key="268440448" value="Increases the Discipline virtue's rank."/>
+<label key="268440449" value="Increases the Honour virtue's rank."/>
+<label key="268440525" value="Damage dealt by Tainted Bite's poison"/>
+<label key="268440569" value="Fire Immunity"/>
+<label key="268440594" value="Two-handed Club Damage"/>
+<label key="268440595" value="Evade Chance"/>
+<label key="268440642" value="Recovery Time for Devastating Strike"/>
+<label key="268440643" value="Song Skill Recharge"/>
+<label key="268440644" value="Induction Duration"/>
+<label key="268440645" value="Chance to Critical when attacking from Stealth"/>
+<label key="268440646" value="Effect Duration"/>
+<label key="268440647" value="Power Cost"/>
+<label key="268440648" value="Damage dealt by Piercing Attack"/>
+<label key="268440649" value="Threat Modifier"/>
+<label key="268440650" value="Threat"/>
+<label key="268440651" value="Improved Tracking of Nature"/>
+<label key="268440652" value="Applies Tricks Improvements"/>
+<label key="268440653" value="Improved Guardian's Ward"/>
+<label key="268440667" value="Song Resistance"/>
+<label key="268440685" value="Increases the Confidence virtue's rank."/>
+<label key="268440702" value="Completed Proficiency"/>
+<label key="268440768" value="Movement Speed while stealthed"/>
+<label key="268440777" value="Not Attackable"/>
+<label key="268440802" value="Is AI Active"/>
+<label key="268440804" value="Threat Mod Table Override"/>
+<label key="268440829" value="Captain Herald Appearance Combo Mode"/>
+<label key="268440831" value="Armour Value"/>
+<label key="268440862" value="Blade Line Area of Effect Power Cost"/>
+<label key="268440875" value="Strikes Line Power Cost"/>
+<label key="268440885" value="Bringing back fellows from defeat induction"/>
+<label key="268440889" value="Is Combat Movement Interruptable"/>
+<label key="268441081" value="Auto-attack Critical Hit Chance"/>
+<label key="268441090" value="Damage dealt"/>
+<label key="268441154" value="Melee Skill Power Cost"/>
+<label key="268441155" value="Damage Multiplier"/>
+<label key="268441211" value="Combat-only Effect Removal Delay"/>
+<label key="268441222" value="Tactical Critical Chance"/>
+<label key="268441224" value="Tactical Critical Vulnerability"/>
+<label key="268441226" value="Ranged Critical Vulnerability"/>
+<label key="268441230" value="Ranged Critical Chance"/>
+<label key="268441250" value="Healing Output Increase"/>
+<label key="268441251" value="Threat Reduction for Healing"/>
+<label key="268441332" value="All Captain's Cry Skill Reset"/>
+<label key="268441333" value="Swiftbow Cooldown"/>
+<label key="268441334" value="Penetrating Shot Cooldown"/>
+<label key="268441335" value="Guardian's Challenge the Darkness Skill Reset"/>
+<label key="268441336" value="Captain's Escape from Darkness Cooldown"/>
+<label key="268441337" value="Blinding Flash Resistance"/>
+<label key="268441483" value="Max distance of ranged skills"/>
+<label key="268441489" value="Share Tracked Target"/>
+<label key="268441535" value="Allow Heralds"/>
+<label key="268441536" value="Allow Banner Standards"/>
+<label key="268441644" value="Override for herald pet effects"/>
+<label key="268441646" value="Fellowship Maneuver Damage from Guile"/>
+<label key="268441647" value="Out of Combat Run Speed"/>
+<label key="268441648" value="in-Combat Run Speed"/>
+<label key="268441669" value="Melee Weapon Proc Effect"/>
+<label key="268441670" value="Ranged Weapon Proc Effect"/>
+<label key="268441671" value="Tactical Weapon Proc Effect"/>
+<label key="268441673" value="Override for victory herald pet effects"/>
+<label key="268441674" value="Override for hope herald pet effects"/>
+<label key="268441829" value="Improved Standard of War"/>
+<label key="268441830" value="Improved Standard of Defence"/>
+<label key="268441831" value="Improved Standard of Hope"/>
+<label key="268441927" value="Captain's Escape Skills Induction Time"/>
+<label key="268441958" value="Cry of Vengeance Max Targets"/>
+<label key="268441968" value="Position Surprise Strike from Stealth"/>
+<label key="268441969" value="Challenge Resistance"/>
+<label key="268441970" value="Skill Reset Time"/>
+<label key="268441971" value="Bracing Attack Avoided Chance Modifier"/>
+<label key="268442009" value="Rift Armour Fire Absorption"/>
+<label key="268442021" value="Captain's Escape Skills Induction Time"/>
+<label key="268442022" value="Power Cost of Catch A Breath"/>
+<label key="268442023" value="Glory Damage"/>
+<label key="268442024" value="Critical Damage with Cunning Strike"/>
+<label key="268442025" value="Glory Threat"/>
+<label key="268442040" value="Heart Seeker Power Cost"/>
+<label key="268442041" value="Penetrating Shot Power Cost"/>
+<label key="268442042" value="Triumphant Spirit Threat"/>
+<label key="268442046" value="Gift of the Hammerhand Fire Protection"/>
+<label key="268442048" value="Search Speed"/>
+<label key="268442065" value="Words of Power Damage Increase"/>
+<label key="268442066" value="Words of Power Usage Cost Increase"/>
+<label key="268442067" value="Chant of the Oathbreaker damage type"/>
+<label key="268442120" value="Current Trait Combo"/>
+<label key="268442247" value="Override for Bear Loremaster APR pet effects"/>
+<label key="268442248" value="Override for Loremaster Raven APR pet effects"/>
+<label key="268442249" value="Override for Eagle Loremaster APR pet effects"/>
+<label key="268442250" value="Override for Lynx Loremaster APR pet effects"/>
+<label key="268442264" value="Critical chance of piercing cry"/>
+<label key="268442283" value="Rift Armour Shadow Absorption"/>
+<label key="268442296" value="Hovering"/>
+<label key="268442338" value="Test Pet Effect Aura Override"/>
+<label key="268442363" value="Gift of the Hammerhand Shadow Protection"/>
+<label key="268442368" value="Storm-lore Cooldown"/>
+<label key="268442369" value="Lightning Storm Power Cost"/>
+<label key="268442381" value="Camera X Offset"/>
+<label key="268442382" value="Camera Y Offset"/>
+<label key="268442383" value="Camera Z Offset"/>
+<label key="268442391" value="Current Trait Combo"/>
+<label key="268442396" value="Rift Armour Pet Upgrade"/>
+<label key="268442397" value="Rift Armour Pet Upgrade"/>
+<label key="268442398" value="Rift Armour Pet Upgrade"/>
+<label key="268442399" value="Rift Armour Pet Upgrade"/>
+<label key="268442400" value="Rift Armour Pet Upgrade"/>
+<label key="268442401" value="Rift Armour Pet Upgrade"/>
+<label key="268442402" value="Rift Armour Pet Upgrade"/>
+<label key="268442403" value="Rift Armour Pet Upgrade"/>
+<label key="268442404" value="Rift Armour Pet Upgrade"/>
+<label key="268442405" value="Rift Armour Pet Upgrade"/>
+<label key="268442406" value="Rift Armour Pet Upgrade"/>
+<label key="268442407" value="Rift Armour Pet Upgrade"/>
+<label key="268442419" value="Storm-lore power cost"/>
+<label key="268442420" value="Lightning Storm Recovery Time"/>
+<label key="268442467" value="Ered Luin Homestead Discount"/>
+<label key="268442468" value="Bree-land Homestead Discount"/>
+<label key="268442469" value="Rivendell Homestead Discount"/>
+<label key="268442470" value="Shire Homestead Discount"/>
+<label key="268442486" value="Song Skill Recharge"/>
+<label key="268442487" value="Song Skill Recharge"/>
+<label key="268442488" value="Song Skill Recharge"/>
+<label key="268442489" value="Rally Skill Recharger"/>
+<label key="268442490" value="Song Skill Recharge"/>
+<label key="268442491" value="Song Skill Recharge"/>
+<label key="legacy:268435993" value="Cook Critical Chance"/>
+<label key="legacy:268436396" value="Forester Chopping Duration (s)"/>
+<label key="legacy:268436462" value="Weaponsmith Critical Chance"/>
+<label key="legacy:268436582" value="Shadow Mitigation (%)"/>
+<label key="legacy:268436709" value="Woodworker Critical Chance"/>
+<label key="legacy:268437186" value="Jeweller Critical Chance"/>
+<label key="legacy:268437571" value="Prospector Mining Duration (s)"/>
+<label key="legacy:268437631" value="Metalsmith Critical Chance"/>
+<label key="legacy:268437808" value="Farmer Harvesting Duration (s)"/>
+<label key="legacy:268438763" value="Scholar Critical Chance"/>
+<label key="legacy:268439267" value="Tailor Critical Chance"/>
+<label key="legacy:268439395" value="Fire Mitigation (%)"/>
+<label key="legacy:268439859" value="Physical Mitigation (%)"/>
+</labels>

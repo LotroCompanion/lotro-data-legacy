@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="UTF-8"?><landmarks>
+<landmark id="1879048232" name="Brigand Cave"/>
+<landmark id="1879048316" name="Thorin's Hall - The Great Hall"/>
+<landmark id="1879048317" name="Thorin's Hall - The Forging Hall"/>
+<landmark id="1879048637" name="Bûrzum Pushdug"/>
+<landmark id="1879048639" name="Morfil"/>
+<landmark id="1879049751" name="Goldberry's Spring"/>
+<landmark id="1879049794" name="Old Sweetgrass Farm"/>
+<landmark id="1879051682" name="Puddifoot's Fields"/>
+<landmark id="1879054247" name="Norbury Gates"/>
+<landmark id="1879054457" name="Gatson's South Fields"/>
+<landmark id="1879054464" name="Gurzlum"/>
+<landmark id="1879061169" name="Tham Gelair"/>
+<landmark id="1879061192" name="Wolf Den"/>
+<landmark id="1879063052" name="Landmark Test"/>
+<landmark id="1879063053" name="Landmark Test 2"/>
+<landmark id="1879063327" name="Seamia Test Landblock"/>
+<landmark id="1879063333" name="Rivergate Watch"/>
+<landmark id="1879063336" name="Mirkstone Tunnels"/>
+<landmark id="1879063339" name="Thrushstones"/>
+<landmark id="1879063340" name="Frerin's Court"/>
+<landmark id="1879063342" name="Thorin's Gates"/>
+<landmark id="1879063345" name="Orodost"/>
+<landmark id="1879063346" name="The Berghold"/>
+<landmark id="1879063347" name="Winterheight"/>
+<landmark id="1879063353" name="Silver Deep Mine"/>
+<landmark id="1879063357" name="Noglond"/>
+<landmark id="1879063359" name="Hunter's Notch"/>
+<landmark id="1879063361" name="Crookdell"/>
+<landmark id="1879063362" name="Clovenvale"/>
+<landmark id="1879063363" name="Southern Barricade"/>
+<landmark id="1879063364" name="Amon Thanc"/>
+<landmark id="1879063365" name="Northern Barricade"/>
+<landmark id="1879063369" name="Gondamon"/>
+<landmark id="1879063374" name="Limael's Vineyard"/>
+<landmark id="1879063375" name="Tum Agor"/>
+<landmark id="1879063376" name="Ringdale"/>
+<landmark id="1879063377" name="Dol Ringwest"/>
+<landmark id="1879063378" name="Nen Hilith"/>
+<landmark id="1879063379" name="Thrasi's Lodge"/>
+<landmark id="1879063380" name="The Grimwater"/>
+<landmark id="1879063381" name="Celondim"/>
+<landmark id="1879063387" name="Duillond"/>
+<landmark id="1879063390" name="Emyn Hoedh"/>
+<landmark id="1879063394" name="Kheledûl"/>
+<landmark id="1879063395" name="Kheledûl Docks"/>
+<landmark id="1879063396" name="Talath Ondren"/>
+<landmark id="1879063397" name="The Wardspire"/>
+<landmark id="1879063398" name="The Eastway"/>
+<landmark id="1879063399" name="The Rushock Gate"/>
+<landmark id="1879063400" name="Little Delving"/>
+<landmark id="1879063402" name="Downs Gate"/>
+<landmark id="1879063403" name="Needlehole"/>
+<landmark id="1879063410" name="Michel Delving"/>
+<landmark id="1879063413" name="Mathom-house"/>
+<landmark id="1879063416" name="South Fields"/>
+<landmark id="1879063418" name="Troll's Knoll"/>
+<landmark id="1879063419" name="Pinglade"/>
+<landmark id="1879063420" name="Southfarthing Gate"/>
+<landmark id="1879063421" name="Waymeet"/>
+<landmark id="1879063422" name="Dora Brownlock's Farm"/>
+<landmark id="1879063423" name="Lob's Grove"/>
+<landmark id="1879063424" name="Appledores"/>
+<landmark id="1879063426" name="Tuckborough"/>
+<landmark id="1879063428" name="Hobbiton"/>
+<landmark id="1879063429" name="Bywater Bridge"/>
+<landmark id="1879063431" name="The Grange"/>
+<landmark id="1879063432" name="Bag End"/>
+<landmark id="1879063433" name="The Party Tree"/>
+<landmark id="1879063435" name="Bear Dens"/>
+<landmark id="1879063436" name="The Great Willow"/>
+<landmark id="1879063438" name="Overhill"/>
+<landmark id="1879063439" name="Overhill Yards"/>
+<landmark id="1879063441" name="Bolestones"/>
+<landmark id="1879063442" name="Methel-stage"/>
+<landmark id="1879063443" name="Bywater"/>
+<landmark id="1879063444" name="Three Farthing Stone"/>
+<landmark id="1879063445" name="Tom Cotton's Farm"/>
+<landmark id="1879063447" name="Golfimbul's Hole"/>
+<landmark id="1879063448" name="Old Odo's Leaf-farm"/>
+<landmark id="1879063449" name="Frogmorton"/>
+<landmark id="1879063450" name="The Frogmoors"/>
+<landmark id="1879063452" name="Brockenborings"/>
+<landmark id="1879063454" name="Wellbridge"/>
+<landmark id="1879063455" name="Narrowcleeve"/>
+<landmark id="1879063459" name="Scary"/>
+<landmark id="1879063460" name="The Scrag-dells"/>
+<landmark id="1879063461" name="Woodhall"/>
+<landmark id="1879063462" name="Budgeford"/>
+<landmark id="1879063463" name="The Quarry"/>
+<landmark id="1879063464" name="Bamfurlong"/>
+<landmark id="1879063465" name="The Yale-height"/>
+<landmark id="1879063467" name="Stock"/>
+<landmark id="1879063468" name="Bridgefields Wall"/>
+<landmark id="1879063469" name="Bucklebury Ferry"/>
+<landmark id="1879063470" name="Stocktower"/>
+<landmark id="1879063471" name="Brandywine Bridge"/>
+<landmark id="1879063472" name="Girdley Island"/>
+<landmark id="1879063473" name="Brandy Hall"/>
+<landmark id="1879063474" name="Buckland Faire"/>
+<landmark id="1879063476" name="Crickhollow"/>
+<landmark id="1879063477" name="Newbury"/>
+<landmark id="1879063478" name="Buckland Gate"/>
+<landmark id="1879063479" name="Svalfang's Hut"/>
+<landmark id="1879063480" name="Toad Marsh"/>
+<landmark id="1879063482" name="Old Forest Tunnel"/>
+<landmark id="1879063483" name="Bonfire Glade"/>
+<landmark id="1879063484" name="Dire Glade"/>
+<landmark id="1879063485" name="Withywindle Crossing"/>
+<landmark id="1879063486" name="Old Muddyfoot's Hill"/>
+<landmark id="1879063487" name="Dark-paw Vale"/>
+<landmark id="1879063488" name="The Shifting Wood"/>
+<landmark id="1879063489" name="Bald Hill"/>
+<landmark id="1879063490" name="Outlaw's Haven"/>
+<landmark id="1879063491" name="Ost Barandor"/>
+<landmark id="1879063492" name="Tham Lorn"/>
+<landmark id="1879063493" name="The Evendim Gate"/>
+<landmark id="1879063494" name="Glírost"/>
+<landmark id="1879063495" name="Willow Glade"/>
+<landmark id="1879063496" name="The Shade Pool"/>
+<landmark id="1879063497" name="Abandoned Cottage"/>
+<landmark id="1879063498" name="The Broken Heart"/>
+<landmark id="1879063499" name="Old Man Willow"/>
+<landmark id="1879063500" name="Hillshire Ruins"/>
+<landmark id="1879063501" name="The Weaver's Den"/>
+<landmark id="1879063502" name="The Forlorn Glade"/>
+<landmark id="1879063504" name="Tom Bombadil's House"/>
+<landmark id="1879063505" name="Creaking Vale"/>
+<landmark id="1879063506" name="Angerwood"/>
+<landmark id="1879063507" name="Tomnoddy Corner"/>
+<landmark id="1879063508" name="Weeping Water"/>
+<landmark id="1879063509" name="Old Barrows Road"/>
+<landmark id="1879063510" name="East Forest Road"/>
+<landmark id="1879063512" name="Adso's Camp"/>
+<landmark id="1879063513" name="Haudh Eglan"/>
+<landmark id="1879063514" name="The Old Oak's Grave"/>
+<landmark id="1879063516" name="The Great Barrow"/>
+<landmark id="1879063517" name="Northern Barrows"/>
+<landmark id="1879063518" name="Brigand's Watch"/>
+<landmark id="1879063519" name="The Dead Spire"/>
+<landmark id="1879063520" name="The Barrow of Taradan"/>
+<landmark id="1879063521" name="Haudh Methernil"/>
+<landmark id="1879063522" name="Northern Barrows Pass"/>
+<landmark id="1879063523" name="Snarling Hollow"/>
+<landmark id="1879063524" name="Cirith Nûr Encampment"/>
+<landmark id="1879063525" name="Mincham's Camp"/>
+<landmark id="1879063527" name="The Barrow of Orron"/>
+<landmark id="1879063528" name="The Barrow of Ringdor"/>
+<landmark id="1879063529" name="The Quince Farmstead"/>
+<landmark id="1879063531" name="Ost Gorthad"/>
+<landmark id="1879063532" name="The Dead Man's Perch"/>
+<landmark id="1879063533" name="Greenway Crossing"/>
+<landmark id="1879063535" name="Dogwood's Farm"/>
+<landmark id="1879063536" name="Thornley's Work Site"/>
+<landmark id="1879063537" name="Trestlebridge Gate"/>
+<landmark id="1879063540" name="The Trestlespan"/>
+<landmark id="1879063541" name="Oldstones Gate"/>
+<landmark id="1879063542" name="Beggar's Alley"/>
+<landmark id="1879063543" name="Oldstone Ruins"/>
+<landmark id="1879063545" name="West Gate"/>
+<landmark id="1879063546" name="Windview Estate"/>
+<landmark id="1879063547" name="The Abandoned Graveyard"/>
+<landmark id="1879063548" name="Saeradan's Cabin"/>
+<landmark id="1879063549" name="The Old Greenway Fort"/>
+<landmark id="1879063550" name="Amon Raith"/>
+<landmark id="1879063552" name="Amon Amrûn"/>
+<landmark id="1879063553" name="Ost Nuaran"/>
+<landmark id="1879063554" name="Falconer's Tower"/>
+<landmark id="1879063555" name="Halecatch Lake"/>
+<landmark id="1879063556" name="The Stone Quarter"/>
+<landmark id="1879063557" name="Jasmine's Garden"/>
+<landmark id="1879063558" name="Mud Gate"/>
+<landmark id="1879063559" name="High Stair"/>
+<landmark id="1879063560" name="Scholar's Walk"/>
+<landmark id="1879063561" name="Ironmonger's Gate"/>
+<landmark id="1879063562" name="High Bridge"/>
+<landmark id="1879063563" name="Bree-town"/>
+<landmark id="1879063564" name="Inn Gate"/>
+<landmark id="1879063565" name="Scholar's Stair"/>
+<landmark id="1879063566" name="North Gate"/>
+<landmark id="1879063569" name="South-guard Ruins"/>
+<landmark id="1879063570" name="Bree-town Jail"/>
+<landmark id="1879063573" name="Bree-town Hall"/>
+<landmark id="1879063575" name="Market Square"/>
+<landmark id="1879063576" name="Trader's Gate"/>
+<landmark id="1879063577" name="Market Gate"/>
+<landmark id="1879063578" name="Low Gate"/>
+<landmark id="1879063579" name="The Prancing Pony"/>
+<landmark id="1879063580" name="Minas Vrûn"/>
+<landmark id="1879063581" name="Pierson's Farm"/>
+<landmark id="1879063582" name="South Gate"/>
+<landmark id="1879063583" name="Bill Ferny's House"/>
+<landmark id="1879063584" name="Woodsmen's Gate"/>
+<landmark id="1879063585" name="Combe Gate"/>
+<landmark id="1879063586" name="Nan Wathren Western Pass"/>
+<landmark id="1879063587" name="William Peake's Farm"/>
+<landmark id="1879063589" name="Staddle Gate"/>
+<landmark id="1879063590" name="Little Staddlemere"/>
+<landmark id="1879063591" name="Staddle"/>
+<landmark id="1879063592" name="Cartwell's House"/>
+<landmark id="1879063593" name="The Comb and Wattle Inn"/>
+<landmark id="1879063594" name="Combe"/>
+<landmark id="1879063598" name="Ost Baranor"/>
+<landmark id="1879063599" name="The Crumbled Court"/>
+<landmark id="1879063601" name="Combe North Gate"/>
+<landmark id="1879063602" name="Archet Gate"/>
+<landmark id="1879063603" name="Archet Jailyard"/>
+<landmark id="1879063604" name="Archet East Gate"/>
+<landmark id="1879063605" name="Archet"/>
+<landmark id="1879063607" name="Amlaith's Scar"/>
+<landmark id="1879063608" name="The Yellow Tree"/>
+<landmark id="1879063609" name="Gammy Boggs' Farm"/>
+<landmark id="1879063610" name="Widow Froghorn's Farm"/>
+<landmark id="1879063611" name="Big Staddlemere"/>
+<landmark id="1879063612" name="Staddle Falls"/>
+<landmark id="1879063613" name="Stump Field"/>
+<landmark id="1879063614" name="Sprigley's Farm"/>
+<landmark id="1879063615" name="Bronwe's Folly"/>
+<landmark id="1879063616" name="Old East Path"/>
+<landmark id="1879063617" name="Silverwell"/>
+<landmark id="1879063618" name="Eldo Swatmidge's Farm"/>
+<landmark id="1879063619" name="Combe Lumber Camp"/>
+<landmark id="1879063621" name="Hunting Lodge"/>
+<landmark id="1879063622" name="Nan Wathren"/>
+<landmark id="1879063623" name="Nathan Hodge's Farm"/>
+<landmark id="1879063624" name="Ost Lagoros"/>
+<landmark id="1879063625" name="Ost Galumar"/>
+<landmark id="1879063626" name="Hrizgur"/>
+<landmark id="1879063627" name="Wolf Den"/>
+<landmark id="1879063628" name="Blackwold's Roost"/>
+<landmark id="1879063629" name="Hîgropor"/>
+<landmark id="1879063630" name="Torthanns Camp"/>
+<landmark id="1879063631" name="Sunken Stones"/>
+<landmark id="1879063632" name="Woodsedge Ruins"/>
+<landmark id="1879063633" name="Nan Wathren Eastern Pass"/>
+<landmark id="1879063634" name="Gatson's Farm"/>
+<landmark id="1879063635" name="Thurûm"/>
+<landmark id="1879063636" name="Marshwater Fort"/>
+<landmark id="1879063637" name="Blackwold Headquarters"/>
+<landmark id="1879063639" name="Lin Giliath"/>
+<landmark id="1879063640" name="Kingsfell"/>
+<landmark id="1879063641" name="Othrikar"/>
+<landmark id="1879063643" name="Old Bauman's Farm"/>
+<landmark id="1879063644" name="Meluinen"/>
+<landmark id="1879063645" name="Goblinhole Ruins"/>
+<landmark id="1879063646" name="Merenost"/>
+<landmark id="1879063647" name="Kamskut"/>
+<landmark id="1879063648" name="Bindbale's Rest"/>
+<landmark id="1879063649" name="The Mustering Cave"/>
+<landmark id="1879063650" name="Midgewater Pass"/>
+<landmark id="1879063651" name="Dol Nendír"/>
+<landmark id="1879063652" name="The Snares"/>
+<landmark id="1879063656" name="Weatherway"/>
+<landmark id="1879063657" name="Esteldin"/>
+<landmark id="1879063660" name="The Forsaken Inn"/>
+<landmark id="1879063661" name="Ost Alagos"/>
+<landmark id="1879063667" name="Rusfold"/>
+<landmark id="1879063668" name="Aughaire"/>
+<landmark id="1879063669" name="Gondrinn"/>
+<landmark id="1879063670" name="Lehmä-koti"/>
+<landmark id="1879063674" name="Nád Nathair"/>
+<landmark id="1879063675" name="Barad Iachiant"/>
+<landmark id="1879063676" name="Weatherfoot"/>
+<landmark id="1879063677" name="Glumhallow"/>
+<landmark id="1879063678" name="Bleakrift"/>
+<landmark id="1879063679" name="Ost Laden"/>
+<landmark id="1879063680" name="Dol Dinen"/>
+<landmark id="1879063681" name="Fail-á-Khro"/>
+<landmark id="1879063682" name="Dûn Covád"/>
+<landmark id="1879063684" name="Weathertop"/>
+<landmark id="1879063685" name="Echad Sûl"/>
+<landmark id="1879063686" name="Hîsuk"/>
+<landmark id="1879063687" name="Skathmúr"/>
+<landmark id="1879063688" name="Duvairë"/>
+<landmark id="1879063689" name="Cairn of Honour"/>
+<landmark id="1879063690" name="Tûmat"/>
+<landmark id="1879063691" name="The Lornspan"/>
+<landmark id="1879063692" name="Rhunenlad"/>
+<landmark id="1879063693" name="Ost Crithlanc"/>
+<landmark id="1879063695" name="Mithrenost"/>
+<landmark id="1879063696" name="Bail Róva"/>
+<landmark id="1879063697" name="Tór Gailvin"/>
+<landmark id="1879063698" name="Donnvail"/>
+<landmark id="1879063701" name="Naerost"/>
+<landmark id="1879063702" name="Kar Lak"/>
+<landmark id="1879063703" name="Fashat Laug"/>
+<landmark id="1879063704" name="Tyrn Lhuig"/>
+<landmark id="1879063705" name="Thandobel"/>
+<landmark id="1879063706" name="Amon Ros"/>
+<landmark id="1879063707" name="Ost Cyrn"/>
+<landmark id="1879063708" name="Sálgaitë"/>
+<landmark id="1879063709" name="Bail Boglakh"/>
+<landmark id="1879063710" name="Ram Taltorth"/>
+<landmark id="1879063711" name="Anglanthir"/>
+<landmark id="1879063712" name="Nindor"/>
+<landmark id="1879063714" name="Ost Guruth"/>
+<landmark id="1879063716" name="Rammas Deluon"/>
+<landmark id="1879063717" name="Gurthlin"/>
+<landmark id="1879063718" name="Tornstones"/>
+<landmark id="1879063719" name="Bar Gorog"/>
+<landmark id="1879063720" name="Gwambar"/>
+<landmark id="1879063721" name="Bail Grundail"/>
+<landmark id="1879063722" name="Ost Haer"/>
+<landmark id="1879063723" name="Mor Maudhúl"/>
+<landmark id="1879063724" name="Gorthbar"/>
+<landmark id="1879063725" name="Bail Dílas"/>
+<landmark id="1879063726" name="Grimfens"/>
+<landmark id="1879063727" name="The Circle of Blood"/>
+<landmark id="1879063728" name="Barad Dhorn"/>
+<landmark id="1879063730" name="Agamaur"/>
+<landmark id="1879063731" name="Fervar"/>
+<landmark id="1879063732" name="Bail Cátharnakh"/>
+<landmark id="1879063733" name="Dol Vaeg"/>
+<landmark id="1879063734" name="Gabilshathûr"/>
+<landmark id="1879063735" name="The Outer Gates"/>
+<landmark id="1879063736" name="Ongbishúk"/>
+<landmark id="1879063737" name="Torech-i-Bogbereth"/>
+<landmark id="1879063738" name="Grishbalt"/>
+<landmark id="1879063739" name="Garth Agarwen"/>
+<landmark id="1879063740" name="Garth Agarwen Gate"/>
+<landmark id="1879063741" name="Gath Forthnír"/>
+<landmark id="1879063743" name="The Last Bridge"/>
+<landmark id="1879063744" name="Spring of the Red Maid"/>
+<landmark id="1879063745" name="Ivar's Crypt"/>
+<landmark id="1879063746" name="Fane of the Seven Sentinels"/>
+<landmark id="1879063747" name="Minas Maur"/>
+<landmark id="1879063748" name="Minas Agar"/>
+<landmark id="1879063749" name="Minas Caul"/>
+<landmark id="1879063750" name="Dâr-gazag"/>
+<landmark id="1879063753" name="Minas Angos"/>
+<landmark id="1879063754" name="Minas Dhem"/>
+<landmark id="1879063756" name="Dolroth"/>
+<landmark id="1879063757" name="Minas Deloth"/>
+<landmark id="1879063758" name="Minas Gularan"/>
+<landmark id="1879063759" name="Minas Nîr"/>
+<landmark id="1879063760" name="Ost Dúrgonn"/>
+<landmark id="1879063761" name="Gramsfoot"/>
+<landmark id="1879063764" name="Barachen's Camp"/>
+<landmark id="1879063765" name="Ost Belegram"/>
+<landmark id="1879063766" name="Hoarhallow"/>
+<landmark id="1879063767" name="Lugazag"/>
+<landmark id="1879063768" name="Minas Agor"/>
+<landmark id="1879063769" name="Barad Remmellad"/>
+<landmark id="1879063770" name="The Wovenvales"/>
+<landmark id="1879063771" name="Gate of Gath Uior"/>
+<landmark id="1879063772" name="The Stone-trolls' Glade"/>
+<landmark id="1879063773" name="Trapdoor Lair"/>
+<landmark id="1879063774" name="Grimwood Lumber Camp"/>
+<landmark id="1879063775" name="Tol Ascarnen"/>
+<landmark id="1879063776" name="Gladdalf"/>
+<landmark id="1879063777" name="Thorenhad"/>
+<landmark id="1879063780" name="Amon Varadh"/>
+<landmark id="1879063781" name="Isendeep"/>
+<landmark id="1879063782" name="Barad Glamgil"/>
+<landmark id="1879063783" name="Minas Ciliant"/>
+<landmark id="1879063784" name="Ost Chall"/>
+<landmark id="1879063785" name="Tirith Rhaw"/>
+<landmark id="1879063786" name="Drauglad"/>
+<landmark id="1879063787" name="Ost Thondol"/>
+<landmark id="1879063788" name="The Glamgil Falls"/>
+<landmark id="1879063789" name="Ost Brandras"/>
+<landmark id="1879063791" name="Glân Vraig"/>
+<landmark id="1879063794" name="Grothum"/>
+<landmark id="1879063795" name="Ost Ringdyr"/>
+<landmark id="1879063796" name="The Blooming Fens"/>
+<landmark id="1879063797" name="The Ford of Bruinen"/>
+<landmark id="1879063798" name="Taur Ornolf"/>
+<landmark id="1879063799" name="Amon Nendir"/>
+<landmark id="1879063800" name="The Gates of Imladris"/>
+<landmark id="1879063801" name="Elrond's Stables"/>
+<landmark id="1879063804" name="The Forges of Rivendell"/>
+<landmark id="1879063807" name="The Stonemere"/>
+<landmark id="1879063808" name="The Bridge of Rivendell"/>
+<landmark id="1879063809" name="The Market of Rivendell"/>
+<landmark id="1879063810" name="Imdolen"/>
+<landmark id="1879063811" name="The Spire of Meeting"/>
+<landmark id="1879063812" name="Hidhuinen"/>
+<landmark id="1879063813" name="Snárskrith Dell"/>
+<landmark id="1879063814" name="Iskeld's Lookout"/>
+<landmark id="1879063815" name="The Falls of Imladris"/>
+<landmark id="1879063818" name="The Haven of Orladion"/>
+<landmark id="1879063820" name="Glóin's Camp"/>
+<landmark id="1879063821" name="Stonecaller's Circle"/>
+<landmark id="1879063822" name="The Last Homely House"/>
+<landmark id="1879063825" name="Cirith Imladris"/>
+<landmark id="1879063826" name="The Bitter Stair"/>
+<landmark id="1879063827" name="Frosthyle Pond"/>
+<landmark id="1879063828" name="Nan Gongarag"/>
+<landmark id="1879063829" name="Whitcleft"/>
+<landmark id="1879063830" name="Imlad Norn"/>
+<landmark id="1879063831" name="Orod Laden"/>
+<landmark id="1879063832" name="Gabilazan"/>
+<landmark id="1879063833" name="Hríthur's Haven"/>
+<landmark id="1879063834" name="Caldwell Pool"/>
+<landmark id="1879063835" name="The Lornstone"/>
+<landmark id="1879063836" name="Rakhâs-bizar"/>
+<landmark id="1879063837" name="Eikhall Dale"/>
+<landmark id="1879063838" name="Pinnath Fenui"/>
+<landmark id="1879063839" name="Bergel's Notch"/>
+<landmark id="1879063840" name="Greybough End"/>
+<landmark id="1879063841" name="The Giant's Needle"/>
+<landmark id="1879063842" name="Iorbar"/>
+<landmark id="1879071966" name="Spire of Kheledûl"/>
+<landmark id="1879071975" name="Nan Dhelu"/>
+<landmark id="1879076119" name="Festival Grounds"/>
+<landmark id="1879078681" name="Everclear Lakes"/>
+<landmark id="1879079454" name="Skunkwoods Farm"/>
+<landmark id="1879084498" name="Free People's Camp"/>
+<landmark id="1879084532" name="Abandoned Elf-camp"/>
+<landmark id="1879084533" name="Sandson's Farm"/>
+<landmark id="1879084539" name="Longo Burrow's Farm"/>
+<landmark id="1879085053" name="Gate of Shadows"/>
+<landmark id="1879085541" name="Thorin's Hall - The Maker's Hall"/>
+<landmark id="1879085892" name="Thorin's Hall"/>
+<landmark id="1879086568" name="Candaith's Encampment"/>
+<landmark id="1879088174" name="Pearlina Gamgee's Residence"/>
+<landmark id="1879088900" name="Annúminas"/>
+<landmark id="1879088903" name="Tham Nambarth"/>
+<landmark id="1879088904" name="Tham Varan"/>
+<landmark id="1879088905" name="Ost Heryn"/>
+<landmark id="1879088906" name="Tham Andalath"/>
+<landmark id="1879088907" name="Tham Ornen"/>
+<landmark id="1879088908" name="Canadiach"/>
+<landmark id="1879088910" name="Tinnudir"/>
+<landmark id="1879088911" name="Tollobel"/>
+<landmark id="1879088912" name="The Bleakleaf Crest"/>
+<landmark id="1879088913" name="Stonecrop Tor"/>
+<landmark id="1879088914" name="Dwaling"/>
+<landmark id="1879088915" name="Oatbarton"/>
+<landmark id="1879088916" name="Bullroarer's Throat"/>
+<landmark id="1879088917" name="Whitshards"/>
+<landmark id="1879088918" name="Barad Tharsír"/>
+<landmark id="1879088919" name="The Sand-mounds"/>
+<landmark id="1879088920" name="Lithost"/>
+<landmark id="1879088921" name="High King's Crossing"/>
+<landmark id="1879088922" name="The Gloaming Falls"/>
+<landmark id="1879088923" name="Dol Haedír"/>
+<landmark id="1879088924" name="The Even-rills"/>
+<landmark id="1879088925" name="Swiftbrook"/>
+<landmark id="1879088926" name="The Eave-mere"/>
+<landmark id="1879088927" name="Barad Rath"/>
+<landmark id="1879088928" name="Nan Orngon"/>
+<landmark id="1879088929" name="Rantost"/>
+<landmark id="1879088930" name="Tûm Fuin"/>
+<landmark id="1879088931" name="Ost Forod"/>
+<landmark id="1879088932" name="Cirith Rhîw"/>
+<landmark id="1879088933" name="The Duskencleft"/>
+<landmark id="1879088934" name="Tham Habad"/>
+<landmark id="1879088935" name="Amon Môth"/>
+<landmark id="1879088936" name="The Twisted Grove"/>
+<landmark id="1879088937" name="The Eavespires"/>
+<landmark id="1879088938" name="Rushingdale"/>
+<landmark id="1879088939" name="Tham Sarch"/>
+<landmark id="1879088940" name="Tham Laegamon"/>
+<landmark id="1879088941" name="Arthobel"/>
+<landmark id="1879088943" name="Haudh Eärendur"/>
+<landmark id="1879088944" name="Haudh Elendur"/>
+<landmark id="1879088945" name="Haudh Valandur"/>
+<landmark id="1879088946" name="Haudh Elendil"/>
+<landmark id="1879088947" name="Haudh Tarondor"/>
+<landmark id="1879088948" name="Haudh Eldacar"/>
+<landmark id="1879088949" name="Haudh Tarcil"/>
+<landmark id="1879088950" name="Haudh Arantar"/>
+<landmark id="1879089179" name="Gorthost"/>
+<landmark id="1879090223" name="House Brumbar"/>
+<landmark id="1879092645" name="Adannon"/>
+<landmark id="1879092646" name="Ariant"/>
+<landmark id="1879092647" name="Port of Annúminas"/>
+<landmark id="1879092648" name="Gwaelband"/>
+<landmark id="1879092649" name="Clorhir"/>
+<landmark id="1879092650" name="Gaerannon"/>
+<landmark id="1879092651" name="Minathranc"/>
+<landmark id="1879092653" name="Echad Garthadir"/>
+<landmark id="1879092654" name="Menelband"/>
+<landmark id="1879092655" name="Tirband"/>
+<landmark id="1879093296" name="Imlad Gelair"/>
+<landmark id="1879093333" name="Sarnúr"/>
+<landmark id="1879096330" name="Crumbled Cellar"/>
+<landmark id="1879096331" name="Echad Candelleth"/>
+<landmark id="1879096332" name="Delossad"/>
+<landmark id="1879096333" name="Garbert's Cottage"/>
+<landmark id="1879096334" name="Echad Gauradan"/>
+<landmark id="1879096335" name="Cirith Ulunn"/>
+<landmark id="1879096336" name="Torech Ullug"/>
+<landmark id="1879096337" name="Eryn Singor"/>
+<landmark id="1879097609" name="War Steadings"/>
+<landmark id="1879097610" name="Eglanúr"/>
+<landmark id="1879097611" name="Thundergrot"/>
+<landmark id="1879097612" name="Slave Pens"/>
+<landmark id="1879097613" name="Gollum's Cave"/>
+<landmark id="1879097614" name="The Great Goblin's Den"/>
+<landmark id="1879097615" name="The Deep-fires"/>
+<landmark id="1879097616" name="Ghâshru"/>
+<landmark id="1879097617" name="Akûltot"/>
+<landmark id="1879097619" name="Writhenbores"/>
+<landmark id="1879097620" name="Dómstoll"/>
+<landmark id="1879097621" name="The Black Crack"/>
+<landmark id="1879097622" name="The Mountain's Throat"/>
+<landmark id="1879097623" name="Northtarn"/>
+<landmark id="1879097624" name="Erforgh Cleft"/>
+<landmark id="1879097625" name="Cirith Daur"/>
+<landmark id="1879097626" name="Men Helch"/>
+<landmark id="1879097627" name="Ceber Los"/>
+<landmark id="1879097628" name="Vindurhal"/>
+<landmark id="1879097629" name="Starkhath"/>
+<landmark id="1879097630" name="Hrimbarg"/>
+<landmark id="1879101655" name="Forgotten Monument"/>
+<landmark id="1879102216" name="Thorin's Hall Homesteads"/>
+<landmark id="1879102217" name="Shire Homesteads"/>
+<landmark id="1879102218" name="Falathlorn Homesteads"/>
+<landmark id="1879102219" name="Festival Grounds"/>
+<landmark id="1879102226" name="Iorelen's Camp"/>
+</landmarks>

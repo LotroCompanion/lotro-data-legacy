@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><labels locale="fr">
+<label key="1879053032" value="A la défense de la Terre du Milieu"/>
+<label key="1879060192" value="Défense de gardien"/>
+<label key="1879060866" value="Ballade guerrière"/>
+<label key="1879073072" value="Motivation"/>
+<label key="1879073120" value="Ballade de la rapidité"/>
+<label key="1879073122" value="Ballade de la volonté inébranlable"/>
+<label key="1879073616" value="Endurance des nains"/>
+<label key="1879077245" value="Force d'âme du vétéran"/>
+<label key="1879084065" value="Devoir impérieux"/>
+<label key="1879095617" value="Discours de guerre"/>
+<label key="key:620774926:106251889" value="Moral maximum +5 %"/>
+<label key="key:620784436:106251889" value="Augmente votre Moral total de ${PERCENTVALUE}."/>
+<label key="key:620795454:106251890" value="-10 s de temps de récupération du Cri perçant"/>
+<label key="key:620795454:106251891" value="+25 % de chance critique du Cri perçant"/>
+</labels>

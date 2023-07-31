@@ -1,0 +1,1966 @@
+<?xml version="1.0" encoding="UTF-8"?><labels locale="en">
+<label key="1879048830" value="Unarmed Attack"/>
+<label key="1879048831" value="1H Weapon Attack"/>
+<label key="1879048832" value="1H Weapon/Shield Attack"/>
+<label key="1879048833" value="Dual-wield Attack"/>
+<label key="1879048834" value="2H Weapon Attack"/>
+<label key="1879048835" value="Bow Attack"/>
+<label key="1879048836" value="Crossbow Attack"/>
+<label key="1879049322" value="Melee Common Min"/>
+<label key="1879049323" value="Melee Common Low"/>
+<label key="1879049324" value="Melee Common Med"/>
+<label key="1879049325" value="Thrown Common Min"/>
+<label key="1879049326" value="Thrown Common Low"/>
+<label key="1879049327" value="Thrown Common Med"/>
+<label key="1879049328" value="Withdraw"/>
+<label key="1879049337" value="Command Wolf"/>
+<label key="1879049338" value="Summon Wolf"/>
+<label key="1879049458" value="Crippling Bite"/>
+<label key="1879049462" value="Minor Sprain"/>
+<label key="1879049463" value="Minor Dislocation"/>
+<label key="1879049464" value="Minor Injury"/>
+<label key="1879049465" value="Sprain"/>
+<label key="1879049466" value="Dislocation"/>
+<label key="1879049467" value="Injury"/>
+<label key="1879049468" value="Degrading Wound"/>
+<label key="1879049480" value="Lesser Venom"/>
+<label key="1879049481" value="Lesser Crippling Poison"/>
+<label key="1879049482" value="Venom"/>
+<label key="1879049483" value="Crippling Poison"/>
+<label key="1879049484" value="Latent Poison"/>
+<label key="1879049527" value="Lesser Wasting Sickness"/>
+<label key="1879049528" value="Lesser Diseased Frailty"/>
+<label key="1879049529" value="Wasting Sickness"/>
+<label key="1879049530" value="Diseased Frailty"/>
+<label key="1879049531" value="Festering disease"/>
+<label key="1879049732" value="Melee Double"/>
+<label key="1879049733" value="Melee Knockdown"/>
+<label key="1879049734" value="Melee Triple"/>
+<label key="1879049739" value="Greater Venom"/>
+<label key="1879049740" value="Greater Crippling Poison"/>
+<label key="1879049811" value="Slime Puddle"/>
+<label key="1879050054" value="Ranged Common Min"/>
+<label key="1879050055" value="Ranged Common Low"/>
+<label key="1879050056" value="Ranged Common Med"/>
+<label key="1879050057" value="Poison Arrow Attack"/>
+<label key="1879050058" value="Fire Arrow Attack"/>
+<label key="1879050127" value="Melee Disarm"/>
+<label key="1879050128" value="Melee Swipe"/>
+<label key="1879050129" value="War Cry"/>
+<label key="1879050146" value="Wild Slash"/>
+<label key="1879050147" value="Caltrop Scatter"/>
+<label key="1879050148" value="Rally Minions Near Target"/>
+<label key="1879050182" value="Enter Stealthed State"/>
+<label key="1879050183" value="Enter Stealthed State"/>
+<label key="1879050203" value="Stun Dust Tier 1"/>
+<label key="1879050236" value="Summon Split-wight"/>
+<label key="1879050237" value="Baleful Force"/>
+<label key="1879050238" value="Stealing from the Dead"/>
+<label key="1879050250" value="Greater Wasting Sickness"/>
+<label key="1879050251" value="Greater Diseased Frailty"/>
+<label key="1879050252" value="Lurking Sickness"/>
+<label key="1879050259" value="Major Sprain"/>
+<label key="1879050260" value="Major Dislocation"/>
+<label key="1879050261" value="Major Injury"/>
+<label key="1879050502" value="Cure Wound"/>
+<label key="1879050504" value="Cure Poison"/>
+<label key="1879050505" value="Cure Disease"/>
+<label key="1879050506" value="Cure Fear"/>
+<label key="1879051254" value="Healing"/>
+<label key="1879051267" value="Forceful Slash"/>
+<label key="1879051268" value="Frenzy"/>
+<label key="1879051269" value="Intimidating Roar"/>
+<label key="1879051270" value="Aura of Command"/>
+<label key="1879051279" value="Unsettled"/>
+<label key="1879051280" value="Lesser Dread"/>
+<label key="1879051281" value="Chilled"/>
+<label key="1879051282" value="Dread"/>
+<label key="1879051283" value="Suppressed Trauma"/>
+<label key="1879051299" value="Melee Fire Min"/>
+<label key="1879051300" value="Melee Fire Med"/>
+<label key="1879051301" value="Melee Fire Med Bleed"/>
+<label key="1879051302" value="Thrown Distance No Move"/>
+<label key="1879051303" value="Hurled Club"/>
+<label key="1879051304" value="Melee Knockback"/>
+<label key="1879051305" value="Stomp"/>
+<label key="1879051306" value="Wild Attack"/>
+<label key="1879051307" value="Wild Attack"/>
+<label key="1879051390" value="Thrown Common Max"/>
+<label key="1879051391" value="Thrown Root"/>
+<label key="1879051394" value="Melee Med Bleed"/>
+<label key="1879051395" value="Battle Cry"/>
+<label key="1879051422" value="Snaring Web"/>
+<label key="1879051423" value="Rallying Call"/>
+<label key="1879051424" value="Vampiric Bite"/>
+<label key="1879051430" value="Susceptibility to poison"/>
+<label key="1879051471" value="Lurking Sickness"/>
+<label key="1879051472" value="Silence"/>
+<label key="1879051480" value="Summon Wight"/>
+<label key="1879051748" value="Melee Arc Knockback"/>
+<label key="1879051777" value="Thrown Stun"/>
+<label key="1879052007" value="Sniper Arrow"/>
+<label key="1879052104" value="Brutal Slash"/>
+<label key="1879052105" value="Terrifying Roar"/>
+<label key="1879052112" value="Ravage"/>
+<label key="1879052125" value="Flashing Blades"/>
+<label key="1879052160" value="Exposed Throat"/>
+<label key="1879052199" value="Ents go to War"/>
+<label key="1879052210" value="Eagle-Friend"/>
+<label key="1879052284" value="Melee Fast Common Med"/>
+<label key="1879052286" value="Beak Rend"/>
+<label key="1879052287" value="Sacrifice"/>
+<label key="1879052288" value="Fan the Flames"/>
+<label key="1879052289" value="Melee Flanked Min"/>
+<label key="1879052434" value="Bear Trap"/>
+<label key="1879052499" value="Bard's Arrow"/>
+<label key="1879052517" value="Press Onward"/>
+<label key="1879052532" value="Rain of Thorns"/>
+<label key="1879052653" value="Shadow Grip"/>
+<label key="1879052654" value="Shaken"/>
+<label key="1879052655" value="Unnatural Scream"/>
+<label key="1879052656" value="Threat of Retribution"/>
+<label key="1879052663" value="Melee Shadow Double"/>
+<label key="1879052664" value="Melee Shadow Triple"/>
+<label key="1879052665" value="Vulnerability to Shadow"/>
+<label key="1879052666" value="Silence of Death"/>
+<label key="1879052667" value="Rolling Fear"/>
+<label key="1879052668" value="Summon Fell Spirit"/>
+<label key="1879052669" value="Greater Dread"/>
+<label key="1879052670" value="Terrify"/>
+<label key="1879052676" value="Melee Shadow Min"/>
+<label key="1879052677" value="Melee Shadow Low"/>
+<label key="1879052678" value="Melee Shadow Med"/>
+<label key="1879052679" value="Induction Enter Invulnerability State"/>
+<label key="1879052680" value="Exit Invulnerability State"/>
+<label key="1879052681" value="Shadow Burst"/>
+<label key="1879052682" value="Shadow Scream"/>
+<label key="1879052683" value="Shadow Touched"/>
+<label key="1879052687" value="Distraught"/>
+<label key="1879052832" value="Melee Swipe Med"/>
+<label key="1879052833" value="Shield Bash"/>
+<label key="1879052848" value="Melee Swipe Min"/>
+<label key="1879052860" value="Ranged Splash"/>
+<label key="1879052861" value="Induction Ranged Double"/>
+<label key="1879052881" value="Rally!"/>
+<label key="1879052895" value="Song of the Hopeful Heart"/>
+<label key="1879052912" value="Anthem of the Wizards"/>
+<label key="1879052981" value="Summon Spider"/>
+<label key="1879052985" value="Entangling Web"/>
+<label key="1879053027" value="Escape from Corruption"/>
+<label key="1879053049" value="Shield of the Dúnedain"/>
+<label key="1879053062" value="Oathbreaker's Shame"/>
+<label key="1879053069" value="In Defence of Middle-earth"/>
+<label key="1879053108" value="Bleeding Axe"/>
+<label key="1879053184" value="Melee Stun"/>
+<label key="1879053191" value="Ill Wind"/>
+<label key="1879054063" value="Diseased Roar"/>
+<label key="1879054402" value="Pride"/>
+<label key="1879054403" value="Whirling Axe"/>
+<label key="1879054542" value="Melee Swipe Max"/>
+<label key="1879054543" value="Stunning Sweep"/>
+<label key="1879054546" value="Charge"/>
+<label key="1879054550" value="Ranged Interruption"/>
+<label key="1879054587" value="Melee Swipe Low"/>
+<label key="1879054588" value="Melee Swipe High"/>
+<label key="1879054589" value="Ranged Common Min"/>
+<label key="1879054590" value="Ranged Common Med"/>
+<label key="1879054591" value="Ranged Double"/>
+<label key="1879054592" value="Vile Missile"/>
+<label key="1879054593" value="Grab"/>
+<label key="1879055302" value="Star-glass"/>
+<label key="1879055305" value="Star-glass"/>
+<label key="1879055859" value="Thrown Axe"/>
+<label key="1879055861" value="Thrown Axe"/>
+<label key="1879056877" value="Rally Minions"/>
+<label key="1879056906" value="Melee Fire Low"/>
+<label key="1879056907" value="Ranged Fire Min"/>
+<label key="1879056908" value="Ranged Fire Low"/>
+<label key="1879056909" value="Ranged Fire Med"/>
+<label key="1879056910" value="Melee Fire Triple"/>
+<label key="1879056911" value="Tail Swipe"/>
+<label key="1879056912" value="Fire Ball"/>
+<label key="1879056913" value="Breath of Fire"/>
+<label key="1879056914" value="Wing Flap"/>
+<label key="1879056977" value="Breach Armour"/>
+<label key="1879056983" value="Winged Servants"/>
+<label key="1879056984" value="Glory In Victory"/>
+<label key="1879056985" value="Victorious Resurgence"/>
+<label key="1879056986" value="Retribution"/>
+<label key="1879057290" value="Cower"/>
+<label key="1879057291" value="Run Away"/>
+<label key="1879057754" value="Crushing Devastation"/>
+<label key="1879057755" value="Crushing Devastation"/>
+<label key="1879057756" value="Crushing Devastation"/>
+<label key="1879057757" value="Crushing Devastation"/>
+<label key="1879057758" value="Melee Knockdown Long"/>
+<label key="1879057759" value="Healing"/>
+<label key="1879057803" value="Melee Max Bleed"/>
+<label key="1879057804" value="Dread Howl"/>
+<label key="1879057818" value="Susceptibility to fear"/>
+<label key="1879057819" value="Offer Up The Fallen"/>
+<label key="1879057827" value="Thrown Shadow Min"/>
+<label key="1879057828" value="Thrown Shadow Low"/>
+<label key="1879057829" value="Thrown Shadow Med"/>
+<label key="1879057830" value="Shadow Grip"/>
+<label key="1879057831" value="Weaken Courage"/>
+<label key="1879057832" value="Open Fissure"/>
+<label key="1879057858" value="Piercing Spear"/>
+<label key="1879057894" value="Ranged Shadow Min"/>
+<label key="1879057895" value="Ranged Shadow Low"/>
+<label key="1879057896" value="Ranged Shadow Med"/>
+<label key="1879058404" value="Cleansing Fire"/>
+<label key="1879058405" value="Swirling Fire"/>
+<label key="1879058879" value="Rumbling Above"/>
+<label key="1879058880" value="Collapsing Ceiling"/>
+<label key="1879059056" value="Sudden Wave"/>
+<label key="1879059057" value="Watery Death"/>
+<label key="1879059580" value="Poison Gourd"/>
+<label key="1879059581" value="Disease Gourd"/>
+<label key="1879059582" value="Destroying Acid"/>
+<label key="1879059583" value="Slowing Poison"/>
+<label key="1879059584" value="Corrupt Renewal"/>
+<label key="1879059633" value="Rage"/>
+<label key="1879059644" value="Blood Gift"/>
+<label key="1879059657" value="Melee Interruption"/>
+<label key="1879059658" value="Bloodsworn Pact"/>
+<label key="1879059699" value="Melee 360"/>
+<label key="1879059700" value="Melee 360 Stun"/>
+<label key="1879059701" value="Impale"/>
+<label key="1879059702" value="Melee 360 Drain Life"/>
+<label key="1879059810" value="Enter Improved Stealth - In Combat"/>
+<label key="1879059811" value="Summon Minions"/>
+<label key="1879059812" value="Exit Stealthed State"/>
+<label key="1879059824" value="Aural Assault"/>
+<label key="1879059827" value="Diseased Roar"/>
+<label key="1879059853" value="Ferocious Strikes"/>
+<label key="1879059855" value="Ferocious Strikes"/>
+<label key="1879059869" value="Fight On"/>
+<label key="1879059881" value="Raging Blade"/>
+<label key="1879059884" value="Raging Blade"/>
+<label key="1879059893" value="Controlled Burn"/>
+<label key="1879059946" value="Haymaker Uppercut"/>
+<label key="1879059963" value="Earth-shaking Step"/>
+<label key="1879059964" value="Overhead Fist"/>
+<label key="1879059965" value="Windmill Punch"/>
+<label key="1879059968" value="Ranged Common Max"/>
+<label key="1879059969" value="Drop The Stone"/>
+<label key="1879059979" value="Double Impact"/>
+<label key="1879059980" value="Clearing Sweep"/>
+<label key="1879059981" value="Clearing Sweep"/>
+<label key="1879059982" value="Spinning Blows"/>
+<label key="1879059985" value="Drop The Stone"/>
+<label key="1879059986" value="Thrown Knockdown"/>
+<label key="1879060028" value="Enter Immobile Stealthed State"/>
+<label key="1879060029" value="Enter Immobile Stealthed State"/>
+<label key="1879060079" value="Pack Howl"/>
+<label key="1879060133" value="To the King"/>
+<label key="1879060149" value="Tusker Gore"/>
+<label key="1879060150" value="Broken Tusk Charge"/>
+<label key="1879060164" value="Shield-smash"/>
+<label key="1879060180" value="Guardian's Threat"/>
+<label key="1879060191" value="Challenge the Darkness"/>
+<label key="1879060250" value="Call to Arms: Herald of Victory"/>
+<label key="1879060266" value="Herald Melee Attack Min"/>
+<label key="1879060267" value="Herald Melee Attack Med"/>
+<label key="1879060268" value="Herald Melee Attack Max"/>
+<label key="1879060269" value="Coordinated Attack"/>
+<label key="1879060270" value="Infuriating Tactics"/>
+<label key="1879060271" value="Lend Will"/>
+<label key="1879060277" value="Call to Arms: Herald of Victory"/>
+<label key="1879060278" value="Call to Arms: Herald of Victory"/>
+<label key="1879060279" value="Call to Arms: Herald of Victory"/>
+<label key="1879060293" value="Escape from Darkness"/>
+<label key="1879060303" value="Rallying Cry"/>
+<label key="1879060312" value="War-cry"/>
+<label key="1879060321" value="Routing Cry"/>
+<label key="1879060327" value="Battle-shout"/>
+<label key="1879060332" value="Enraged Shout"/>
+<label key="1879060339" value="Defensive Strike"/>
+<label key="1879060346" value="Call to Arms: Herald of War"/>
+<label key="1879060361" value="Call to Arms: Herald of War"/>
+<label key="1879060362" value="Call to Arms: Herald of War"/>
+<label key="1879060363" value="Call to Arms: Herald of War"/>
+<label key="1879060377" value="Muster Courage"/>
+<label key="1879060399" value="Call to Arms: Herald of Hope"/>
+<label key="1879060415" value="Call to Arms: Herald of Hope"/>
+<label key="1879060416" value="Call to Arms: Herald of Hope"/>
+<label key="1879060417" value="Call to Arms: Herald of Hope"/>
+<label key="1879060431" value="Devastating Blow"/>
+<label key="1879060437" value="Threatening Shout"/>
+<label key="1879060440" value="Intimidating Shout"/>
+<label key="1879060495" value="Swift Strike"/>
+<label key="1879060547" value="Battle-frenzy"/>
+<label key="1879060551" value="Dire Need"/>
+<label key="1879060568" value="Sting"/>
+<label key="1879060573" value="Shield-swipe"/>
+<label key="1879060582" value="Guardian's Ward"/>
+<label key="1879060591" value="Shield-blow"/>
+<label key="1879060605" value="Catch a Breath"/>
+<label key="1879060618" value="Vexing Blow"/>
+<label key="1879060621" value="Vexing Blow"/>
+<label key="1879060631" value="Challenge"/>
+<label key="1879060634" value="Protection"/>
+<label key="1879060636" value="Protection"/>
+<label key="1879060644" value="Guardian's Pledge"/>
+<label key="1879060648" value="Deep Breath"/>
+<label key="1879060652" value="Warrior's Heart"/>
+<label key="1879060660" value="Thrill of Danger"/>
+<label key="1879060663" value="Improved Thrill of Danger"/>
+<label key="1879060667" value="Set Trap"/>
+<label key="1879060702" value="Intent Concentration"/>
+<label key="1879060716" value="Beneath Notice"/>
+<label key="1879060723" value="Needful Haste"/>
+<label key="1879060749" value="Staff-strike"/>
+<label key="1879060752" value="Improved Staff-strike"/>
+<label key="1879060758" value="Power of Knowledge"/>
+<label key="1879060760" value="Power of Knowledge"/>
+<label key="1879060771" value="Beacon of Hope"/>
+<label key="1879060779" value="Sign of the Wild: Protection"/>
+<label key="1879060786" value="Leechcraft"/>
+<label key="1879060789" value="Leechcraft"/>
+<label key="1879060793" value="Sign of the Wild: Rage"/>
+<label key="1879060803" value="Cracked Earth"/>
+<label key="1879060811" value="Wisdom of the Council"/>
+<label key="1879060818" value="Blinding Flash"/>
+<label key="1879060824" value="Tend the Sick"/>
+<label key="1879060827" value="Tend the Sick"/>
+<label key="1879060831" value="Ancient Wisdom"/>
+<label key="1879060837" value="Ancient Wisdom"/>
+<label key="1879060843" value="Share the Power"/>
+<label key="1879060863" value="Ballad of War"/>
+<label key="1879060868" value="Anthem of the Valar"/>
+<label key="1879060871" value="Anthem of the Valar"/>
+<label key="1879060876" value="Song of Aid"/>
+<label key="1879060878" value="Song of Aid"/>
+<label key="1879060904" value="Ballad of Resonance"/>
+<label key="1879060909" value="Enlivening Grace"/>
+<label key="1879060914" value="Cry of the Chorus"/>
+<label key="1879060919" value="Song of Soothing"/>
+<label key="1879060947" value="Subtle Stab"/>
+<label key="1879060952" value="Riddle"/>
+<label key="1879060961" value="Aim"/>
+<label key="1879060967" value="Trick: Dust in the Eyes"/>
+<label key="1879060972" value="Trick: Dust in the Eyes"/>
+<label key="1879060981" value="Diversion"/>
+<label key="1879060986" value="Trick: Disable"/>
+<label key="1879060992" value="Trick: Counter Defence"/>
+<label key="1879061005" value="Hide in Plain Sight"/>
+<label key="1879061010" value="Sneak"/>
+<label key="1879061012" value="Stalk"/>
+<label key="1879061016" value="Trick: Enrage"/>
+<label key="1879061538" value="Burrowed Attack"/>
+<label key="1879061540" value="Angry Bees"/>
+<label key="1879061553" value="Enter Invulnerability State"/>
+<label key="1879061962" value="Thrown Axe"/>
+<label key="1879061963" value="Thrown Axe"/>
+<label key="1879062359" value="Tar Spit"/>
+<label key="1879062360" value="Scorched Earth"/>
+<label key="1879062572" value="Surprise Attack"/>
+<label key="1879062573" value="Melee Common High"/>
+<label key="1879062867" value="Track Mines"/>
+<label key="1879062906" value="Track Wood"/>
+<label key="1879063043" value="Track Crops"/>
+<label key="1879064060" value="Wild Attack"/>
+<label key="1879064061" value="Blade-wall"/>
+<label key="1879064062" value="Savage Strikes"/>
+<label key="1879064063" value="Fervour"/>
+<label key="1879064064" value="Flurry"/>
+<label key="1879064065" value="Brutal Strikes"/>
+<label key="1879064066" value="Exchange of Blows"/>
+<label key="1879064067" value="Blade-storm"/>
+<label key="1879064068" value="Bracing Attack"/>
+<label key="1879064069" value="Cleave"/>
+<label key="1879064070" value="Sudden Defence"/>
+<label key="1879064071" value="Relentless Strike"/>
+<label key="1879064072" value="Champion's Challenge"/>
+<label key="1879064073" value="Merciful Strike"/>
+<label key="1879064074" value="Fighting Dirty"/>
+<label key="1879064075" value="Sprint"/>
+<label key="1879064076" value="Clobber"/>
+<label key="1879064077" value="Sound the Attack"/>
+<label key="1879064078" value="Hamstring"/>
+<label key="1879064079" value="Hedge"/>
+<label key="1879064080" value="Stallion's Spirit"/>
+<label key="1879064081" value="Ent's Strength (Melee)"/>
+<label key="1879064082" value="Eagle's Cry"/>
+<label key="1879064083" value="Spider's Guile (Melee)"/>
+<label key="1879064084" value="Shoot"/>
+<label key="1879064085" value="Boast"/>
+<label key="1879064140" value="Cutting Attack"/>
+<label key="1879064141" value="Telling Mark"/>
+<label key="1879064142" value="Make Haste"/>
+<label key="1879064143" value="Noble Mark"/>
+<label key="1879064144" value="Pressing Attack"/>
+<label key="1879064145" value="Words of Courage"/>
+<label key="1879064146" value="Motivating Speech"/>
+<label key="1879064147" value="Tactic: On Guard"/>
+<label key="1879064148" value="Last Stand"/>
+<label key="1879064149" value="Tactic: Relentless Attack"/>
+<label key="1879064150" value="Revealing Mark"/>
+<label key="1879064151" value="Cry of Vengeance"/>
+<label key="1879064152" value="In Harm's Way"/>
+<label key="1879064153" value="Tactic: Focus"/>
+<label key="1879064154" value="Command Respect"/>
+<label key="1879064186" value="Herald's Strike"/>
+<label key="1879064187" value="Raise the Spirit"/>
+<label key="1879064188" value="Ballad of Vigour"/>
+<label key="1879064189" value="Piercing Cry"/>
+<label key="1879064190" value="Ballad of Steel"/>
+<label key="1879064191" value="Ballad of Swiftness"/>
+<label key="1879064192" value="Ballad of Unshakeable Will"/>
+<label key="1879064193" value="Inspire Fellows"/>
+<label key="1879064194" value="Cry of the Valar"/>
+<label key="1879064195" value="Ballad of Balance"/>
+<label key="1879064196" value="Noble Cause"/>
+<label key="1879064197" value="Bolster Courage"/>
+<label key="1879064198" value="Song of Restoration"/>
+<label key="1879064199" value="Song of the Dead"/>
+<label key="1879064200" value="Anthem of the Free Peoples"/>
+<label key="1879064201" value="Tale of Heroism"/>
+<label key="1879064202" value="Anthem of Compassion"/>
+<label key="1879064203" value="Cure Fear"/>
+<label key="1879064204" value="Triumphant Spirit"/>
+<label key="1879064205" value="Ballad of Flame"/>
+<label key="1879064206" value="Song of Distraction"/>
+<label key="1879064207" value="Ballad of the Stout"/>
+<label key="1879064208" value="Still As Death"/>
+<label key="1879064209" value="Lay of the Hammerhand"/>
+<label key="1879064244" value="Burning Embers"/>
+<label key="1879064245" value="Raven-lore"/>
+<label key="1879064246" value="Inner Flame"/>
+<label key="1879064247" value="Gust of Wind"/>
+<label key="1879064248" value="Friend of Bears"/>
+<label key="1879064249" value="Test of Will"/>
+<label key="1879064250" value="Sign of Power: Wizardry"/>
+<label key="1879064251" value="Sign of Power: Command"/>
+<label key="1879064252" value="Sign of Power: Righteousness"/>
+<label key="1879064253" value="Sign of Power: Vigilance"/>
+<label key="1879064254" value="Fire-lore"/>
+<label key="1879064255" value="Wind-lore"/>
+<label key="1879064256" value="Herb-lore"/>
+<label key="1879064257" value="Call to the Valar"/>
+<label key="1879064258" value="Light of the Rising Dawn"/>
+<label key="1879064286" value="Sweeping Cut"/>
+<label key="1879064287" value="Guardian's Defence"/>
+<label key="1879064288" value="Retaliation"/>
+<label key="1879064289" value="Bash"/>
+<label key="1879064290" value="Overwhelm"/>
+<label key="1879064291" value="Guardian's Parry"/>
+<label key="1879064292" value="Whirling Retaliation"/>
+<label key="1879064293" value="Thrust"/>
+<label key="1879064294" value="Shield-taunt"/>
+<label key="1879064295" value="Stamp"/>
+<label key="1879064296" value="Turn the Tables"/>
+<label key="1879064297" value="Guardian's Promise"/>
+<label key="1879064327" value="Trip"/>
+<label key="1879064328" value="Surprise Strike"/>
+<label key="1879064329" value="Cunning Attack"/>
+<label key="1879064330" value="Provoke"/>
+<label key="1879064331" value="Burglar's Advantage"/>
+<label key="1879064332" value="Double-edged Strike"/>
+<label key="1879064333" value="Exploit Opening"/>
+<label key="1879064334" value="Addle"/>
+<label key="1879064335" value="Startling Twist"/>
+<label key="1879064336" value="Mischievous Glee"/>
+<label key="1879064337" value="Reveal Weakness"/>
+<label key="1879064338" value="Ready and Able"/>
+<label key="1879064339" value="Touch and Go"/>
+<label key="1879064340" value="Find Footing"/>
+<label key="1879064341" value="Track Treasure"/>
+<label key="1879064342" value="Burgle"/>
+<label key="1879064343" value="Cure Poison"/>
+<label key="1879064370" value="Quick Shot"/>
+<label key="1879064371" value="Barbed Arrow"/>
+<label key="1879064372" value="Swift Bow"/>
+<label key="1879064373" value="Penetrating Shot"/>
+<label key="1879064374" value="Rain of Arrows"/>
+<label key="1879064375" value="Merciful Shot"/>
+<label key="1879064376" value="Swift Stroke"/>
+<label key="1879064377" value="Low Cut"/>
+<label key="1879064378" value="Scourging Blow"/>
+<label key="1879064379" value="Blindside"/>
+<label key="1879064380" value="Agile Rejoinder"/>
+<label key="1879064381" value="Find the Path"/>
+<label key="1879064382" value="Purge Poison"/>
+<label key="1879064383" value="Bright Campfire"/>
+<label key="1879064384" value="Desperate Flight"/>
+<label key="1879064385" value="Guide to Thorin's Hall"/>
+<label key="1879064386" value="Guide to Bree"/>
+<label key="1879064387" value="Guide to Esteldín"/>
+<label key="1879064388" value="Guide to Rivendell"/>
+<label key="1879064389" value="Passage of Nature"/>
+<label key="1879064390" value="Passage of Foes"/>
+<label key="1879064391" value="Passage of Shadow"/>
+<label key="1879064392" value="Camouflage"/>
+<label key="1879064393" value="Cry of the Predator"/>
+<label key="1879064394" value="Ent's Strength (Ranged)"/>
+<label key="1879064395" value="Spider's Guile (Ranged)"/>
+<label key="1879064396" value="Focus"/>
+<label key="1879064397" value="Stance: Precision"/>
+<label key="1879064398" value="Stance: Strength"/>
+<label key="1879064399" value="Stance: Endurance"/>
+<label key="1879064493" value="Guile Melee Pair"/>
+<label key="1879064494" value="Guile Ranged Pair"/>
+<label key="1879064495" value="Guile Contribution"/>
+<label key="1879064496" value="Guile Contribution"/>
+<label key="1879064505" value="Guile Melee Triplet"/>
+<label key="1879064506" value="Guile Ranged Triplet"/>
+<label key="1879064510" value="Guile Melee Quad"/>
+<label key="1879064511" value="Guile Ranged Quad"/>
+<label key="1879064515" value="Tactics Pair"/>
+<label key="1879064516" value="Tactics Contribution"/>
+<label key="1879064521" value="Tactics Triplet"/>
+<label key="1879064522" value="Tactics Quad"/>
+<label key="1879064523" value="Strength Pair"/>
+<label key="1879064524" value="Strength Pair"/>
+<label key="1879064525" value="Strength Contribution"/>
+<label key="1879064529" value="Strength Triplet"/>
+<label key="1879064531" value="Strength Quad"/>
+<label key="1879064533" value="Conviction Pair"/>
+<label key="1879064534" value="Conviction Contribution"/>
+<label key="1879064541" value="Conviction Triplet"/>
+<label key="1879064544" value="Conviction Quad"/>
+<label key="1879064547" value="Strength Quad"/>
+<label key="1879064548" value="Strength Triplet"/>
+<label key="1879064549" value="Strength Quintuplet"/>
+<label key="1879064550" value="Strength Quintuplet"/>
+<label key="1879064552" value="Guile Melee Quintuplet"/>
+<label key="1879064553" value="Guile Ranged Quintuplet"/>
+<label key="1879064556" value="Tactics Quituplet"/>
+<label key="1879064559" value="Conviction Quintuplet"/>
+<label key="1879064561" value="Strength Sextuplet"/>
+<label key="1879064562" value="Strength Sextuplet"/>
+<label key="1879064564" value="Guile Melee Sextuplet"/>
+<label key="1879064565" value="Guile Ranged Sextuplet"/>
+<label key="1879064567" value="Tactics Sextuplet"/>
+<label key="1879064568" value="Conviction Sextuplet"/>
+<label key="1879067225" value="Star-glass"/>
+<label key="1879067228" value="Star-glass"/>
+<label key="1879068269" value="Multi-Trap"/>
+<label key="1879068276" value="Caltrops Tier 1"/>
+<label key="1879068283" value="Marbles Tier 1"/>
+<label key="1879068289" value="Horn"/>
+<label key="1879069467" value="Bear Trap"/>
+<label key="1879069475" value="Star-glass"/>
+<label key="1879069478" value="Star-glass"/>
+<label key="1879070107" value="Multi-Trap"/>
+<label key="1879070117" value="Caltrops Tier 2"/>
+<label key="1879070122" value="Marbles Tier 2"/>
+<label key="1879070126" value="Stun Dust Tier 2"/>
+<label key="1879070146" value="Horn"/>
+<label key="1879070150" value="Star-glass"/>
+<label key="1879070153" value="Star-glass"/>
+<label key="1879070251" value="Bear Trap"/>
+<label key="1879070259" value="Star-glass"/>
+<label key="1879070262" value="Star-glass"/>
+<label key="1879070442" value="Caltrops Tier 3"/>
+<label key="1879070447" value="Marbles Tier 3"/>
+<label key="1879070451" value="Stun Dust Tier 3"/>
+<label key="1879070469" value="Horn"/>
+<label key="1879072413" value="Execute"/>
+<label key="1879072419" value="Melee 360 Knockback"/>
+<label key="1879072525" value="Resilience"/>
+<label key="1879072528" value="Disarm"/>
+<label key="1879072530" value="Hamstring"/>
+<label key="1879072533" value="Clinging Webs"/>
+<label key="1879072536" value="Lie In Wait"/>
+<label key="1879072543" value="Set Trap"/>
+<label key="1879072545" value="Death Blossom"/>
+<label key="1879072548" value="Flaming Arrow"/>
+<label key="1879072549" value="Snap Out of It!"/>
+<label key="1879072550" value="Mobilize"/>
+<label key="1879072554" value="Quit Whining and Fight!"/>
+<label key="1879072557" value="Rallying Howl"/>
+<label key="1879072563" value="Disappear"/>
+<label key="1879072565" value="Stealth"/>
+<label key="1879073004" value="Wild Attack"/>
+<label key="1879073007" value="Blade-wall"/>
+<label key="1879073010" value="Savage Strikes"/>
+<label key="1879073019" value="Brutal Strikes"/>
+<label key="1879073023" value="Blade-storm"/>
+<label key="1879073027" value="Bracing Attack"/>
+<label key="1879073038" value="Relentless Strike"/>
+<label key="1879073095" value="Herald's Strike"/>
+<label key="1879073113" value="Song of Vigour"/>
+<label key="1879073116" value="Piercing Cry"/>
+<label key="1879073131" value="Song of Balance"/>
+<label key="1879073192" value="Melee Fast Common Min"/>
+<label key="1879073193" value="Benediction of the Raven"/>
+<label key="1879073196" value="Distraction"/>
+<label key="1879073198" value="Evasion"/>
+<label key="1879073208" value="Improved Friend of Bears"/>
+<label key="1879073216" value="Melee Common Min"/>
+<label key="1879073217" value="Melee Common Med"/>
+<label key="1879073218" value="Melee Common Max"/>
+<label key="1879073219" value="Roaring Challenge"/>
+<label key="1879073221" value="Shatter Arms"/>
+<label key="1879073223" value="Bear Hug"/>
+<label key="1879073224" value="Brutal Slash"/>
+<label key="1879073234" value="Sign of Power: Improved Righteousness"/>
+<label key="1879073238" value="Sign of Power: Improved Vigilance"/>
+<label key="1879073287" value="Tangle-foot"/>
+<label key="1879073289" value="Surprise Strike"/>
+<label key="1879073293" value="Cunning Attack"/>
+<label key="1879073298" value="Provoke"/>
+<label key="1879073320" value="Reveal Weakness"/>
+<label key="1879073358" value="Quick Shot: Flaming Arrow"/>
+<label key="1879073359" value="Quick Shot: Elvish Arrow"/>
+<label key="1879073363" value="Burning Arrow"/>
+<label key="1879073364" value="Eldarin Arrow"/>
+<label key="1879073373" value="Swift Bow: Ablaze"/>
+<label key="1879073374" value="Swift Bow: Star-light"/>
+<label key="1879073378" value="Penetrating Shot: Burn Through"/>
+<label key="1879073379" value="Penetrating Shot: Pierce the Darkness"/>
+<label key="1879073381" value="Rain of Arrows: Fire-storm"/>
+<label key="1879073382" value="Rain of Arrows: Light From The Sky"/>
+<label key="1879073386" value="Swift Stroke"/>
+<label key="1879073389" value="Low Cut"/>
+<label key="1879073393" value="Scourging Blow"/>
+<label key="1879073402" value="Agile Rejoinder"/>
+<label key="1879073437" value="Stance: Endurance"/>
+<label key="1879073470" value="Throw Stone"/>
+<label key="1879073480" value="Return to the Shire"/>
+<label key="1879073486" value="Hobbit-resilience"/>
+<label key="1879073491" value="Hobbit-stealth"/>
+<label key="1879073495" value="Hobbit-silence"/>
+<label key="1879073516" value="Upper-cut"/>
+<label key="1879073526" value="Return to Bree"/>
+<label key="1879073530" value="Duty-bound"/>
+<label key="1879073537" value="Strength of Morale"/>
+<label key="1879073559" value="Sylvan Shadows"/>
+<label key="1879073567" value="Return to Rivendell"/>
+<label key="1879073571" value="Eldar's Grace"/>
+<label key="1879073577" value="Power of the Eldar"/>
+<label key="1879073596" value="Head-butt"/>
+<label key="1879073606" value="Return to Thorin's Gate"/>
+<label key="1879073610" value="Endurance of Stone"/>
+<label key="1879073614" value="Dwarf-endurance"/>
+<label key="1879073674" value="Sudden Strikes"/>
+<label key="1879073675" value="Jagged Cut"/>
+<label key="1879073676" value="Sundering Blow"/>
+<label key="1879073677" value="Devastating Strike"/>
+<label key="1879073678" value="Blinding Dust"/>
+<label key="1879073679" value="Glory in Victory"/>
+<label key="1879073680" value="Dual-wield Attack"/>
+<label key="1879073697" value="Strong Pull"/>
+<label key="1879073698" value="Screaming Shafts"/>
+<label key="1879073699" value="Punctured Target"/>
+<label key="1879073700" value="Hindering Shot"/>
+<label key="1879073701" value="Cut"/>
+<label key="1879073702" value="Moving Target"/>
+<label key="1879073703" value="1H Weapon Attack"/>
+<label key="1879073710" value="Initimdating Shout"/>
+<label key="1879073711" value="Cleave"/>
+<label key="1879073712" value="Crack The Whip"/>
+<label key="1879073713" value="On Your Feet!"/>
+<label key="1879073714" value="Field Promotion"/>
+<label key="1879073715" value="Aura of Command"/>
+<label key="1879073716" value="1H Weapon/Shield Attack"/>
+<label key="1879073737" value="Piercing Attack"/>
+<label key="1879073738" value="Tainted Kiss"/>
+<label key="1879073739" value="Latent Poison"/>
+<label key="1879073740" value="Snaring Web"/>
+<label key="1879073741" value="Entangling Web"/>
+<label key="1879073742" value="Poison Spray"/>
+<label key="1879073743" value="Trapdoor Sanctuary"/>
+<label key="1879073750" value="Claws"/>
+<label key="1879073751" value="Pounce"/>
+<label key="1879073752" value="Savage Fangs"/>
+<label key="1879073753" value="Crippling Bite"/>
+<label key="1879073754" value="Throat Rip"/>
+<label key="1879073755" value="Sprint"/>
+<label key="1879073757" value="Bestial Claws"/>
+<label key="1879073758" value="Sudden Pounce"/>
+<label key="1879074084" value="Diseased Bite"/>
+<label key="1879074102" value="Basic Test Attack"/>
+<label key="1879074129" value="Swing Away"/>
+<label key="1879075407" value="Thrown Weapon"/>
+<label key="1879076051" value="Melee Common Max"/>
+<label key="1879076075" value="Fellowship's Heart"/>
+<label key="1879076087" value="Melee Shadow Max"/>
+<label key="1879076091" value="Melee Fire Max"/>
+<label key="1879076092" value="Ranged Fire Max"/>
+<label key="1879076096" value="Thrown Shadow Max"/>
+<label key="1879076097" value="Ranged Shadow Max"/>
+<label key="1879076098" value="Melee Fire Double"/>
+<label key="1879077216" value="Thrown Max Bleed"/>
+<label key="1879077393" value="Water Burst"/>
+<label key="1879077434" value="Burning Oil"/>
+<label key="1879077435" value="Burning Oil"/>
+<label key="1879077436" value="Fire Gourd"/>
+<label key="1879077450" value="Charge"/>
+<label key="1879077453" value="Melee Min Bleed"/>
+<label key="1879077523" value="Burrowed Attack"/>
+<label key="1879077597" value="Summon Crawler"/>
+<label key="1879077713" value="Draining Stings"/>
+<label key="1879077716" value="Poison Lethargy"/>
+<label key="1879078351" value="Plague Bite"/>
+<label key="1879078381" value="Sweep"/>
+<label key="1879078382" value="Slap"/>
+<label key="1879078538" value="Grappling Bite"/>
+<label key="1879078719" value="Sonic Blast"/>
+<label key="1879078720" value="Summon Broodling"/>
+<label key="1879078724" value="Healing"/>
+<label key="1879079857" value="Bursting Root"/>
+<label key="1879079858" value="Summon Root"/>
+<label key="1879079958" value="Choking Vines"/>
+<label key="1879079959" value="Snaring Roots"/>
+<label key="1879079960" value="Summon Root"/>
+<label key="1879080037" value="Minor Aid"/>
+<label key="1879080038" value="Major Aid"/>
+<label key="1879080039" value="Angry Bees"/>
+<label key="1879080089" value="Healing"/>
+<label key="1879080090" value="Healing"/>
+<label key="1879080091" value="Healing"/>
+<label key="1879080108" value="Vicious Rebuke"/>
+<label key="1879080109" value="Sudden Burst"/>
+<label key="1879080110" value="Water Cyclone"/>
+<label key="1879080111" value="Watery Prison"/>
+<label key="1879080112" value="The Waters Are Mine"/>
+<label key="1879080134" value="Stand Fast"/>
+<label key="1879080291" value="Eye Rake"/>
+<label key="1879080358" value="Pounce"/>
+<label key="1879080359" value="Feral Bite"/>
+<label key="1879080379" value="Flame Burst"/>
+<label key="1879080425" value="Thrown Interruption"/>
+<label key="1879080550" value="Melee 360 Knockback"/>
+<label key="1879081143" value="Aid Archer"/>
+<label key="1879081314" value="Melee Fire Min Bleed"/>
+<label key="1879081982" value="Tar Pot"/>
+<label key="1879081983" value="Tar Pot"/>
+<label key="1879082059" value="Raise The Alarm"/>
+<label key="1879082153" value="Mad Frenzy"/>
+<label key="1879082155" value="Blow The Horn"/>
+<label key="1879082161" value="Illusory Reflections"/>
+<label key="1879082204" value="Slowing Poison Knife"/>
+<label key="1879082205" value="Stunning Poison Knife"/>
+<label key="1879082206" value="Foul Gourd"/>
+<label key="1879082345" value="Dismissive Gesture"/>
+<label key="1879082540" value="Blow The Horn"/>
+<label key="1879083297" value="Fatal Poison"/>
+<label key="1879083298" value="Snaring Web"/>
+<label key="1879083299" value="Snaring Web"/>
+<label key="1879083331" value="Summon Polar Bear"/>
+<label key="1879083333" value="Terrible Roar"/>
+<label key="1879083334" value="Lesser Stolen Breath"/>
+<label key="1879083335" value="Greater Stolen Breath"/>
+<label key="1879083336" value="Final Stolen Breath"/>
+<label key="1879083337" value="Baleful Eye"/>
+<label key="1879083338" value="Finishing Bite"/>
+<label key="1879083339" value="Deadly Shadow Ball"/>
+<label key="1879083351" value="Strong Arm Throw"/>
+<label key="1879083519" value="Eldricht Rejuvination"/>
+<label key="1879083712" value="Summon Gorthorog Minions"/>
+<label key="1879083727" value="Restore Power"/>
+<label key="1879083728" value="Summon Ravens"/>
+<label key="1879083729" value="Healing"/>
+<label key="1879083731" value="Healing"/>
+<label key="1879083732" value="Healing"/>
+<label key="1879083838" value="Banner of Hope"/>
+<label key="1879083845" value="Banner of Victory"/>
+<label key="1879083848" value="Banner of War"/>
+<label key="1879084053" value="Bow Attack"/>
+<label key="1879084175" value="Melee Smite"/>
+<label key="1879084176" value="Ranged Smite"/>
+<label key="1879084247" value="Summon Polar Bear"/>
+<label key="1879084334" value="Healing"/>
+<label key="1879084352" value="Vile Theft"/>
+<label key="1879084409" value="Deadly Venom"/>
+<label key="1879084782" value="Melee Shadow Med"/>
+<label key="1879084783" value="Melee Shadow High"/>
+<label key="1879084784" value="Melee Shadow Max"/>
+<label key="1879084785" value="Melee Shadow Double"/>
+<label key="1879084786" value="Melee Shadow Triple"/>
+<label key="1879084787" value="Melee Arc Knockback"/>
+<label key="1879084789" value="Tail Swipe"/>
+<label key="1879084790" value="Breath of Shadow"/>
+<label key="1879084791" value="Wing Flap"/>
+<label key="1879084792" value="Shadow Ball"/>
+<label key="1879085063" value="Summon Archer Followers"/>
+<label key="1879085066" value="Summon Hunter Followers"/>
+<label key="1879085094" value="Massive Stomp"/>
+<label key="1879085097" value="Unleash the Roots"/>
+<label key="1879085103" value="Hardening Root"/>
+<label key="1879085106" value="Call On Nature"/>
+<label key="1879085107" value="Vicious Cut"/>
+<label key="1879085113" value="Swinging Dropkick"/>
+<label key="1879085114" value="Enraging Scream"/>
+<label key="1879085117" value="Fire (Rank 4)"/>
+<label key="1879085129" value="Sending Root Attack"/>
+<label key="1879085142" value="Cleave (Rank 4)"/>
+<label key="1879085148" value="Slice (Rank 3)"/>
+<label key="1879085149" value="Rend (Rank 1)"/>
+<label key="1879085154" value="Slash (Rank 2)"/>
+<label key="1879085456" value="Thrown Common High"/>
+<label key="1879085534" value="Deep Summons"/>
+<label key="1879085540" value="Flip Kick"/>
+<label key="1879085554" value="Horn"/>
+<label key="1879085555" value="Horn"/>
+<label key="1879085556" value="Horn"/>
+<label key="1879085727" value="Healing"/>
+<label key="1879085849" value="Melee Fast Common Med"/>
+<label key="1879085850" value="Melee Fast Common Max"/>
+<label key="1879085851" value="Melee Fast Common Min"/>
+<label key="1879085905" value="Thrown Double"/>
+<label key="1879085986" value="Ranged Med Bleed"/>
+<label key="1879086359" value="Thrown Med Bleed"/>
+<label key="1879086508" value="Healing"/>
+<label key="1879086525" value="Thrown Fire Max"/>
+<label key="1879086526" value="Thrown Fire Min"/>
+<label key="1879086529" value="Thrown Fire Low"/>
+<label key="1879086534" value="Thrown Fire Med"/>
+<label key="1879086712" value="Heroics"/>
+<label key="1879086713" value="Blocking Blades"/>
+<label key="1879086716" value="Glory"/>
+<label key="1879086717" value="Red Haze"/>
+<label key="1879087112" value="Plaintive Plea"/>
+<label key="1879087115" value="Call the Herd"/>
+<label key="1879087207" value="Hasty Retreat"/>
+<label key="1879087213" value="Hasty Retreat"/>
+<label key="1879087251" value="Lesser Might"/>
+<label key="1879087252" value="Greater Might"/>
+<label key="1879087265" value="Lesser Agility"/>
+<label key="1879087266" value="Greater Agility"/>
+<label key="1879087268" value="Greater Vitality"/>
+<label key="1879087269" value="Lesser Will"/>
+<label key="1879087271" value="Lesser Fate"/>
+<label key="1879087272" value="Greater Fate"/>
+<label key="1879087289" value="Summon Spider"/>
+<label key="1879087290" value="Summon Spider"/>
+<label key="1879087330" value="Lesser Morale"/>
+<label key="1879087336" value="Lesser Power"/>
+<label key="1879087337" value="Greater Power"/>
+<label key="1879087383" value="Summon Spider"/>
+<label key="1879087384" value="Summon Spider"/>
+<label key="1879087440" value="Foul Spew"/>
+<label key="1879087459" value="Stinking Filth"/>
+<label key="1879087460" value="Summon Caveclaw"/>
+<label key="1879087461" value="Summon Caveclaw"/>
+<label key="1879087466" value="Mend Minions"/>
+<label key="1879087471" value="Despoil the Dead"/>
+<label key="1879087473" value="Pestilent Filth"/>
+<label key="1879087522" value="Steady Morale"/>
+<label key="1879087523" value="Steady Morale"/>
+<label key="1879087524" value="Sudden Morale"/>
+<label key="1879087525" value="Sudden Morale"/>
+<label key="1879087526" value="Steady Power"/>
+<label key="1879087527" value="Sudden Power"/>
+<label key="1879087528" value="Steady Morale"/>
+<label key="1879087529" value="Steady Morale"/>
+<label key="1879087530" value="Sudden Morale"/>
+<label key="1879087532" value="Steady Power"/>
+<label key="1879087533" value="Sudden Power"/>
+<label key="1879087534" value="Steady Morale"/>
+<label key="1879087535" value="Steady Morale"/>
+<label key="1879087536" value="Sudden Morale"/>
+<label key="1879087537" value="Sudden Morale"/>
+<label key="1879087539" value="Sudden Power"/>
+<label key="1879087548" value="Despoil the Dead"/>
+<label key="1879087615" value="Hand of Fear"/>
+<label key="1879087616" value="Feral Strikes"/>
+<label key="1879087617" value="Feral Strikes"/>
+<label key="1879087618" value="Feral Strikes"/>
+<label key="1879087620" value="Predator Lunge"/>
+<label key="1879087621" value="Piercing Spear"/>
+<label key="1879087622" value="Envenomed Spear"/>
+<label key="1879087623" value="Summon Wolf"/>
+<label key="1879087624" value="Summon Risen Wolf"/>
+<label key="1879087625" value="Restore Pack"/>
+<label key="1879087626" value="Command Wolf"/>
+<label key="1879087642" value="Summon Wolf"/>
+<label key="1879087691" value="Great Power"/>
+<label key="1879087692" value="Great Persistence"/>
+<label key="1879087693" value="Great Responsibility"/>
+<label key="1879087771" value="Great Restoration"/>
+<label key="1879087773" value="Great Restoration"/>
+<label key="1879087873" value="Flare"/>
+<label key="1879087874" value="Bright Glow"/>
+<label key="1879087963" value="Vicious Stab"/>
+<label key="1879087965" value="Summon Gang"/>
+<label key="1879087966" value="Underfoot"/>
+<label key="1879088004" value="Tar Ball"/>
+<label key="1879088064" value="Thunder Clap"/>
+<label key="1879088068" value="Chicken Hit"/>
+<label key="1879088084" value="Poison Spit"/>
+<label key="1879088169" value="1H Unarmed Attack"/>
+<label key="1879088170" value="Dual Unarmed Attack"/>
+<label key="1879088680" value="Melee Smite"/>
+<label key="1879088681" value="Ranged Smite"/>
+<label key="1879088731" value="Ebbing Ire"/>
+<label key="1879088732" value="Rising Ire"/>
+<label key="1879088745" value="Shield of Stone"/>
+<label key="1879088750" value="Ground Pound"/>
+<label key="1879088751" value="Sonic Wail"/>
+<label key="1879088770" value="Dagger of the Badger"/>
+<label key="1879088809" value="Root Prison"/>
+<label key="1879088962" value="Vulnerability to Fire"/>
+<label key="1879088964" value="Invoke The Eye"/>
+<label key="1879088965" value="Scorched Earth"/>
+<label key="1879089138" value="Fire from the Deep"/>
+<label key="1879089176" value="Crude Bear Honey"/>
+<label key="1879089201" value="Sunder Armor"/>
+<label key="1879089293" value="Strength through Shadow"/>
+<label key="1879089294" value="Shadow Summons"/>
+<label key="1879089313" value="Bear Honey"/>
+<label key="1879089315" value="Tasty Bear Honey"/>
+<label key="1879089381" value="Ebb of Life"/>
+<label key="1879089382" value="Gift of the Wicked"/>
+<label key="1879089383" value="Call to the Beyond"/>
+<label key="1879089384" value="Shadow's Chill"/>
+<label key="1879089385" value="Shadow's Touch"/>
+<label key="1879089386" value="Siphon Life"/>
+<label key="1879089400" value="Staff of Dark Shadows"/>
+<label key="1879089401" value="Scroll of Ruin"/>
+<label key="1879089402" value="Horn of Anor"/>
+<label key="1879089488" value="Burning Steel"/>
+<label key="1879089489" value="Abyssal Flame"/>
+<label key="1879089490" value="Grip of Terror"/>
+<label key="1879089491" value="Consuming Flames"/>
+<label key="1879089492" value="Affliction through Shadow"/>
+<label key="1879089493" value="Affliction through Flame"/>
+<label key="1879089494" value="Shadow's Kiss"/>
+<label key="1879089495" value="Kiss of the Abyss"/>
+<label key="1879089496" value="Flame's Caress"/>
+<label key="1879089497" value="Flame of the Abyss"/>
+<label key="1879089498" value="Fire Within"/>
+<label key="1879089621" value="Lesser Persistence"/>
+<label key="1879089623" value="Inspire"/>
+<label key="1879089624" value="Shield-brother"/>
+<label key="1879089656" value="Gift of the Risen"/>
+<label key="1879089741" value="1H Weapon Attack"/>
+<label key="1879089742" value="Bow Attack"/>
+<label key="1879089788" value="Stealth"/>
+<label key="1879089789" value="Misdirection"/>
+<label key="1879089790" value="Dúnadan’s Strike"/>
+<label key="1879089793" value="Blood of the Dúnedain"/>
+<label key="1879089818" value="Dúnedain Mark"/>
+<label key="1879089819" value="Fly True"/>
+<label key="1879089857" value="Return to Camp"/>
+<label key="1879089858" value="Guide to Ost Guruth"/>
+<label key="1879089859" value="Guide to Michel Delving"/>
+<label key="1879089860" value="Guide to Evendim"/>
+<label key="1879089861" value="Guide to West Angmar"/>
+<label key="1879089862" value="Guide to East Angmar"/>
+<label key="1879089873" value="Dagger Throw"/>
+<label key="1879089874" value="Righteousness Arrow"/>
+<label key="1879089875" value="Heart Seeker"/>
+<label key="1879089876" value="Strength of the Earth"/>
+<label key="1879090218" value="Crush"/>
+<label key="1879090219" value="Swat"/>
+<label key="1879090220" value="Rock"/>
+<label key="1879090221" value="1H Weapon Attack"/>
+<label key="1879090222" value="Throw Rock"/>
+<label key="1879090225" value="Smash"/>
+<label key="1879090226" value="Stomp"/>
+<label key="1879090227" value="Thud"/>
+<label key="1879090228" value="Rampage"/>
+<label key="1879090245" value="Roar"/>
+<label key="1879090790" value="Draw Attention"/>
+<label key="1879090854" value="Strong Trap"/>
+<label key="1879090856" value="Lure Trap"/>
+<label key="1879090857" value="Tripwire"/>
+<label key="1879090859" value="Quick Trap"/>
+<label key="1879090864" value="Chicken Cloak"/>
+<label key="1879090865" value="Set Snare"/>
+<label key="1879091318" value="Conversion"/>
+<label key="1879091725" value="To Arms"/>
+<label key="1879091726" value="Kick"/>
+<label key="1879091727" value="Grave Wound"/>
+<label key="1879091728" value="Withdraw"/>
+<label key="1879091730" value="Time of Need"/>
+<label key="1879092194" value="Using Smelling Salts"/>
+<label key="1879092634" value="Blade of Elendil"/>
+<label key="1879092681" value="Prized Pie"/>
+<label key="1879092788" value="Escape from Darkness"/>
+<label key="1879092795" value="The Water's Scorn"/>
+<label key="1879092796" value="Dripping Hands"/>
+<label key="1879092797" value="Dark Cyclone"/>
+<label key="1879092799" value="Call to Arms: Improved Herald of Victory"/>
+<label key="1879092800" value="Call to Arms: Improved Herald of War"/>
+<label key="1879092801" value="Call to Arms: Improved Herald of Hope"/>
+<label key="1879092809" value="Aura of Hope"/>
+<label key="1879092810" value="Vengeful Strike"/>
+<label key="1879092811" value="Hopelessness"/>
+<label key="1879092813" value="Wail"/>
+<label key="1879092815" value="Imposing Presence"/>
+<label key="1879093044" value="Track Artifacts"/>
+<label key="1879093057" value="1H Unarmed Attack"/>
+<label key="1879093058" value="Bob and Weave"/>
+<label key="1879093059" value="Seek The Worm"/>
+<label key="1879093060" value="Fowl Fleetness"/>
+<label key="1879093082" value="Prized Mailbag"/>
+<label key="1879093313" value="Responsibility"/>
+<label key="1879093328" value="Fire From The Sky"/>
+<label key="1879093329" value="Growing Fire"/>
+<label key="1879093336" value="Strength of Will"/>
+<label key="1879093367" value="Seeking Flame"/>
+<label key="1879093398" value="Fire Pot"/>
+<label key="1879093404" value="Barrow-bree"/>
+<label key="1879093784" value="Major Laceration"/>
+<label key="1879093785" value="Laceration"/>
+<label key="1879093786" value="Minor Laceration"/>
+<label key="1879093788" value="Into the Shadows"/>
+<label key="1879093800" value="Summon Fallen Heroes"/>
+<label key="1879093813" value="Nosey Hobbit Replicant"/>
+<label key="1879093814" value="Specimen Jar: Fireflies"/>
+<label key="1879093815" value="Begging Cup"/>
+<label key="1879093816" value="Hungy Hobbit Replicant"/>
+<label key="1879093817" value="Specimen Jar: Butterflies"/>
+<label key="1879093818" value="Specimen Jar: Flies"/>
+<label key="1879093819" value="Ghost-bear Claw"/>
+<label key="1879093833" value="Call to the Dead"/>
+<label key="1879093834" value="Expiring Burst"/>
+<label key="1879093835" value="Call to the Dead"/>
+<label key="1879093838" value="Final Flare"/>
+<label key="1879093860" value="Grasping Shadows"/>
+<label key="1879093861" value="Harrying Shade"/>
+<label key="1879093862" value="Ultimate Scorched Earth"/>
+<label key="1879093928" value="Possum Impersonation"/>
+<label key="1879094291" value="Whistle"/>
+<label key="1879094292" value="Whistle"/>
+<label key="1879094628" value="Summon Blue Uruk Minion"/>
+<label key="1879094629" value="Summon Red Uruk Minion"/>
+<label key="1879094716" value="Powerful Strike High"/>
+<label key="1879094717" value="Smash"/>
+<label key="1879094735" value="Troll's Brutality (Melee)"/>
+<label key="1879094736" value="Wound Add (Melee)"/>
+<label key="1879094742" value="Aura of Fury"/>
+<label key="1879094787" value="Paranoia"/>
+<label key="1879094797" value="Bane Flare"/>
+<label key="1879094805" value="Rift Fire Guard"/>
+<label key="1879094819" value="Warding Knowledge: Creatures of Nature"/>
+<label key="1879094820" value="Warding Knowledge: Drakes"/>
+<label key="1879094821" value="Warding Knowledge: Dead"/>
+<label key="1879094823" value="Ancient Craft"/>
+<label key="1879094827" value="Sticky Tar"/>
+<label key="1879094844" value="Storm-lore"/>
+<label key="1879094880" value="Tale of Warding"/>
+<label key="1879094881" value="Tale of Battle"/>
+<label key="1879094935" value="Chant of the Oathbreaker"/>
+<label key="1879094936" value="Chorus of the Oathbreakers"/>
+<label key="1879094937" value="War-speech"/>
+<label key="1879094938" value="Call to the Elder King"/>
+<label key="1879094939" value="Call of the Second Age"/>
+<label key="1879094940" value="Call to Greatness"/>
+<label key="1879094941" value="Call to the Fellowship"/>
+<label key="1879094942" value="Gift of the Hammerhand"/>
+<label key="1879095070" value="Collapsing Ceiling"/>
+<label key="1879095071" value="Power Struggle"/>
+<label key="1879095073" value="Pacifying Swipe"/>
+<label key="1879095074" value="Missile"/>
+<label key="1879095075" value="Cowering Roar"/>
+<label key="1879095078" value="Lightning Storm"/>
+<label key="1879095103" value="Fell Spirit's Terror (Ranged)"/>
+<label key="1879095134" value="Disease Add (Ranged)"/>
+<label key="1879095138" value="Conviction Pair"/>
+<label key="1879095141" value="Fear Trio (Ranged)"/>
+<label key="1879095147" value="Conviction Sextuplet"/>
+<label key="1879095150" value="Wound Pair (Ranged)"/>
+<label key="1879095152" value="Disease Trio (Ranged)"/>
+<label key="1879095153" value="Disease Add (Melee)"/>
+<label key="1879095155" value="Wound Trio (Ranged)"/>
+<label key="1879095158" value="Wound Pair (Melee)"/>
+<label key="1879095163" value="Disease Quad (Ranged)"/>
+<label key="1879095165" value="Guile Contribution"/>
+<label key="1879095166" value="Poison Trio (Ranged)"/>
+<label key="1879095167" value="Fear Quintuplet (Ranged)"/>
+<label key="1879095169" value="Disease Quad (Melee)"/>
+<label key="1879095170" value="Fear Add (Ranged)"/>
+<label key="1879095171" value="Poison Pair (Melee)"/>
+<label key="1879095172" value="Poison Sextuplet (Melee)"/>
+<label key="1879095174" value="Poison Sextuplet (Ranged)"/>
+<label key="1879095176" value="Guile Contribution"/>
+<label key="1879095177" value="Poison Add (Ranged)"/>
+<label key="1879095182" value="Fear Quad (Ranged)"/>
+<label key="1879095186" value="Guile Ranged Triplet"/>
+<label key="1879095187" value="Guile Ranged Quintuplet"/>
+<label key="1879095188" value="Poison Pair (Ranged)"/>
+<label key="1879095190" value="Poison Add (Melee)"/>
+<label key="1879095193" value="Disease Trio (Ranged)"/>
+<label key="1879095194" value="Wound Quintuplet (Melee)"/>
+<label key="1879095197" value="Fear Trio (Ranged)"/>
+<label key="1879095200" value="Wound Quad (Melee)"/>
+<label key="1879095201" value="Poison Trio (Ranged)"/>
+<label key="1879095202" value="Disease Quintuplet (Melee)"/>
+<label key="1879095205" value="Disease Pair (Melee)"/>
+<label key="1879095208" value="Wound Sextuplet (Melee)"/>
+<label key="1879095209" value="Spider's Venom (Melee)"/>
+<label key="1879095210" value="Wound Sextuplet (Melee)"/>
+<label key="1879095211" value="Wound Sextuplet (Ranged)"/>
+<label key="1879095213" value="Conviction Triplet"/>
+<label key="1879095214" value="Conviction Quintuplet"/>
+<label key="1879095215" value="Troll's Brutality (Ranged)"/>
+<label key="1879095219" value="Poison Sextuplet (Melee)"/>
+<label key="1879095225" value="Disease Quintuplet (Ranged)"/>
+<label key="1879095226" value="Tactics Triplet"/>
+<label key="1879095229" value="Poison Quintuplet (Melee)"/>
+<label key="1879095231" value="Strength Sextuplet"/>
+<label key="1879095233" value="Poison Quad (Ranged)"/>
+<label key="1879095236" value="Poison Pair (Melee)"/>
+<label key="1879095238" value="Poison Trio (Melee)"/>
+<label key="1879095240" value="Strength Quad"/>
+<label key="1879095244" value="Wound Quintuplet (Melee)"/>
+<label key="1879095245" value="Poison Trio (Melee)"/>
+<label key="1879095248" value="Guile Melee Pair"/>
+<label key="1879095250" value="Disease Pair (Ranged)"/>
+<label key="1879095251" value="Poison Pair (Ranged)"/>
+<label key="1879095252" value="Wound Trio (Ranged)"/>
+<label key="1879095256" value="Poison Sextuplet (Ranged)"/>
+<label key="1879095257" value="Spider's Venom (Ranged)"/>
+<label key="1879095261" value="Wound Pair (Ranged)"/>
+<label key="1879095265" value="Wound Quad (Ranged)"/>
+<label key="1879095268" value="Strength Quad"/>
+<label key="1879095270" value="Strength Contribution"/>
+<label key="1879095273" value="Strength Sextuplet"/>
+<label key="1879095275" value="Guile Melee Sextuplet"/>
+<label key="1879095279" value="Wound Trio (Melee)"/>
+<label key="1879095282" value="Wound Add (Ranged)"/>
+<label key="1879095286" value="Poison Add (Melee)"/>
+<label key="1879095292" value="Tactics Quituplet"/>
+<label key="1879095296" value="Tactics Pair"/>
+<label key="1879095298" value="Disease Quintuplet (Ranged)"/>
+<label key="1879095299" value="Disease Sextuplet (Melee)"/>
+<label key="1879095301" value="Conviction Quad"/>
+<label key="1879095305" value="Wound Quad (Ranged)"/>
+<label key="1879095308" value="Wound Pair (Melee)"/>
+<label key="1879095309" value="Guile Ranged Pair"/>
+<label key="1879095312" value="Fear Pair (Ranged)"/>
+<label key="1879095317" value="Poison Quintuplet (Ranged)"/>
+<label key="1879095322" value="Disease Quad (Melee)"/>
+<label key="1879095323" value="Disease Quad (Ranged)"/>
+<label key="1879095326" value="Disease Trio (Melee)"/>
+<label key="1879095328" value="Guile Ranged Quad"/>
+<label key="1879095329" value="Guile Melee Triplet"/>
+<label key="1879095331" value="Fear Sextuplet (Ranged)"/>
+<label key="1879095333" value="Poison Quad (Melee)"/>
+<label key="1879095337" value="Disease Add (Melee)"/>
+<label key="1879095338" value="Wound Trio (Melee)"/>
+<label key="1879095339" value="Wound Quad (Melee)"/>
+<label key="1879095340" value="Fear Sextuplet (Ranged)"/>
+<label key="1879095341" value="Strength Triplet"/>
+<label key="1879095343" value="Tactics Contribution"/>
+<label key="1879095344" value="Fear Pair (Ranged)"/>
+<label key="1879095347" value="Conviction Contribution"/>
+<label key="1879095353" value="Poison Quintuplet (Ranged)"/>
+<label key="1879095354" value="Disease Sextuplet (Ranged)"/>
+<label key="1879095355" value="Fear Quad (Ranged)"/>
+<label key="1879095356" value="Poison Quad (Melee)"/>
+<label key="1879095357" value="Strength Pair"/>
+<label key="1879095359" value="Guile Melee Quintuplet"/>
+<label key="1879095360" value="Poison Add (Ranged)"/>
+<label key="1879095361" value="Wound Sextuplet (Ranged)"/>
+<label key="1879095362" value="Disease Pair (Ranged)"/>
+<label key="1879095365" value="Strength Quintuplet"/>
+<label key="1879095367" value="Strength Pair"/>
+<label key="1879095368" value="Disease Sextuplet (Melee)"/>
+<label key="1879095370" value="Disease Sextuplet (Ranged)"/>
+<label key="1879095373" value="Poison Quad (Ranged)"/>
+<label key="1879095379" value="Poison Quintuplet (Melee)"/>
+<label key="1879095383" value="Wight's Rot (Melee)"/>
+<label key="1879095386" value="Disease Add (Ranged)"/>
+<label key="1879095390" value="Strength Quintuplet"/>
+<label key="1879095392" value="Wight's Rot (Ranged)"/>
+<label key="1879095397" value="Tactics Quad"/>
+<label key="1879095398" value="Fear Add (Ranged)"/>
+<label key="1879095400" value="Disease Pair (Melee)"/>
+<label key="1879095404" value="Wound Add (Melee)"/>
+<label key="1879095405" value="Strength Triplet"/>
+<label key="1879095411" value="Guile Melee Quad"/>
+<label key="1879095412" value="Wound Add (Ranged)"/>
+<label key="1879095413" value="Disease Quintuplet (Melee)"/>
+<label key="1879095416" value="Guile Ranged Sextuplet"/>
+<label key="1879095417" value="Wound Quintuplet (Ranged)"/>
+<label key="1879095420" value="Fear Quintuplet (Ranged)"/>
+<label key="1879095422" value="Disease Trio (Melee)"/>
+<label key="1879095423" value="Wound Quintuplet (Ranged)"/>
+<label key="1879095424" value="Tactics Sextuplet"/>
+<label key="1879095468" value="Air-lore"/>
+<label key="1879095489" value="Scented Candle"/>
+<label key="1879095507" value="Lynx-speech"/>
+<label key="1879095792" value="Bursting Flame"/>
+<label key="1879095793" value="Engulfing Flames"/>
+<label key="1879095794" value="Wing Buffet"/>
+<label key="1879095840" value="Deep Puncture"/>
+<label key="1879095841" value="Eat The World"/>
+<label key="1879095842" value="Blinding Dark"/>
+<label key="1879095843" value="Call To The Void"/>
+<label key="1879095844" value="Channelling The Void"/>
+<label key="1879095845" value="Beyond This World"/>
+<label key="1879095846" value="The World Rejected"/>
+<label key="1879096308" value="Gift of the Void"/>
+<label key="1879096309" value="Conjunction Invulnerability State"/>
+<label key="1879096310" value="ExitConjunction Invulnerability State"/>
+<label key="1879096311" value="Hide of the Wintersebb"/>
+<label key="1879096312" value="Reflexive Bite"/>
+<label key="1879096321" value="Chord of Salvation"/>
+<label key="1879096322" value="Irresistible Melody"/>
+<label key="1879096481" value="Explosive Force"/>
+<label key="1879096482" value="Health through Sacrifice"/>
+<label key="1879096583" value="Panic!"/>
+<label key="1879096584" value="Heart Rend"/>
+<label key="1879096585" value="Terrifying Screech"/>
+<label key="1879096586" value="Winged Servant"/>
+<label key="1879096587" value="Talon Rake"/>
+<label key="1879096588" value="Vicious Slice"/>
+<label key="1879096589" value="Vital Strike"/>
+<label key="1879096590" value="Lick of Flame"/>
+<label key="1879096591" value="Strength of the Victim"/>
+<label key="1879096771" value="Mend Pet"/>
+<label key="1879096836" value="Scribe Manual : Harp"/>
+<label key="1879096837" value="Scribe Stance"/>
+<label key="1879096866" value="Scribe Manual : Bagpipes"/>
+<label key="1879096867" value="Scribe Manual : Clarinet"/>
+<label key="1879096868" value="Scribe Manual : Cowbell"/>
+<label key="1879096869" value="Scribe Manual : Drums"/>
+<label key="1879096870" value="Scribe Manual : Flute"/>
+<label key="1879096871" value="Scribe Manual : Horn"/>
+<label key="1879096872" value="Scribe Manual : Moor Cowbell"/>
+<label key="1879096873" value="Scribe Manual : Theorbo"/>
+<label key="1879096874" value="Feral Strike"/>
+<label key="1879096875" value="Slashing Claws"/>
+<label key="1879096876" value="Surprise Attack"/>
+<label key="1879097058" value="Remove Mitigation Buff"/>
+<label key="1879097069" value="Rift Item Skill"/>
+<label key="1879097091" value="Blood Gift"/>
+<label key="1879097092" value="Bone Grind"/>
+<label key="1879097096" value="Melee Fast Common Min"/>
+<label key="1879097097" value="Melee Fast Common Med"/>
+<label key="1879097132" value="Healing"/>
+<label key="1879097176" value="Rift Item Skill"/>
+<label key="1879097177" value="Rift Item Skill"/>
+<label key="1879097178" value="Rift Item Skill"/>
+<label key="1879097179" value="Rift Item Skill"/>
+<label key="1879097180" value="Rift Item Skill"/>
+<label key="1879097181" value="Rift Item Skill"/>
+<label key="1879097202" value="Bird-speech"/>
+<label key="1879097203" value="Cat-speech"/>
+<label key="1879097204" value="Dog-speech"/>
+<label key="1879097205" value="Fox-speech"/>
+<label key="1879097206" value="Frog-speech"/>
+<label key="1879097207" value="Rabbit-speech"/>
+<label key="1879097208" value="Snake-speech"/>
+<label key="1879097209" value="Squirrel-speech"/>
+<label key="1879097230" value="Turtle-speech"/>
+<label key="1879097282" value="Back from the Brink"/>
+<label key="1879097349" value="Ancient Grudge"/>
+<label key="1879097350" value="Aura of Protection"/>
+<label key="1879097351" value="Aura of Restoration"/>
+<label key="1879097352" value="Aura of Rage"/>
+<label key="1879097353" value="Aura of Retribution"/>
+<label key="1879097354" value="Baleful Roar"/>
+<label key="1879097355" value="Blade and Chain"/>
+<label key="1879097356" value="Blade Channel"/>
+<label key="1879097357" value="Brutal Sword"/>
+<label key="1879097358" value="Enter Chain Mode"/>
+<label key="1879097359" value="Exit Chain Mode"/>
+<label key="1879097360" value="Chain Strikes"/>
+<label key="1879097361" value="Chain Strikes"/>
+<label key="1879097362" value="Chain Strikes"/>
+<label key="1879097363" value="Exposing Strike"/>
+<label key="1879097364" value="Fatal Affliction"/>
+<label key="1879097365" value="Grave Cut"/>
+<label key="1879097366" value="Impact Fist"/>
+<label key="1879097367" value="Marked Prey"/>
+<label key="1879097368" value="Pitiless Vindiction"/>
+<label key="1879097369" value="Prisoner's Rebuke"/>
+<label key="1879097370" value="Recalling Chain"/>
+<label key="1879097371" value="Savage Sword"/>
+<label key="1879097372" value="Sending Strike"/>
+<label key="1879097373" value="Snap of Steel"/>
+<label key="1879097374" value="Sulfur Deception"/>
+<label key="1879097375" value="Sulfrous Deluge"/>
+<label key="1879097376" value="Sword Strike"/>
+<label key="1879097377" value="Tail Crush"/>
+<label key="1879097378" value="Tail Sweep"/>
+<label key="1879097379" value="Terrible Impact"/>
+<label key="1879097486" value="Summon Toads"/>
+<label key="1879097604" value="Enter Stealthed State"/>
+<label key="1879097695" value="Rift Item Skill"/>
+<label key="1879097711" value="Weakness to Fire"/>
+<label key="1879097712" value="Burning Barbed Arrow"/>
+<label key="1879097713" value="Rage and Fury"/>
+<label key="1879097714" value="Sudden Dismissal"/>
+<label key="1879097715" value="Torching the Sands"/>
+<label key="1879097716" value="Rain of Fire"/>
+<label key="1879097717" value="Protecting the Beasts"/>
+<label key="1879097718" value="Focusing the Beasts"/>
+<label key="1879097719" value="Melted Armor"/>
+<label key="1879097723" value="Fire Swipe Min"/>
+<label key="1879097724" value="Fire Swipe Med"/>
+<label key="1879097725" value="Fire 360"/>
+<label key="1879097726" value="Fire Swipe"/>
+<label key="1879097727" value="Fire Swipe Max"/>
+<label key="1879097785" value="Summon Worm"/>
+<label key="1879097826" value="Fire Ball"/>
+<label key="1879097828" value="Bursting Flame"/>
+<label key="1879097878" value="Tendon Shred"/>
+<label key="1879097879" value="Eye Rake"/>
+<label key="1879097880" value="Charge!"/>
+<label key="1879097881" value="Gut Punch"/>
+<label key="1879097883" value="Vital Target"/>
+<label key="1879097884" value="I See You!"/>
+<label key="1879097885" value="No You Don't"/>
+<label key="1879097887" value="Banner of Terror"/>
+<label key="1879097888" value="Black Speech"/>
+<label key="1879097889" value="Command Post"/>
+<label key="1879097894" value="Web the Earth"/>
+<label key="1879097895" value="Smothering Web"/>
+<label key="1879097896" value="Hatchlings"/>
+<label key="1879098096" value="Shadow Guard"/>
+<label key="1879098102" value="Ranged Fire Max"/>
+<label key="1879098104" value="Ranged Fire Low"/>
+<label key="1879098105" value="Ranged Fire High"/>
+<label key="1879098106" value="Ranged Fire Min"/>
+<label key="1879098107" value="Ranged Fire Med"/>
+<label key="1879098150" value="Hovering"/>
+<label key="1879098189" value="Fire Swipe Low"/>
+<label key="1879098210" value="Remove Hovering"/>
+<label key="1879098217" value="Tempered Blade"/>
+<label key="1879098218" value="Inspiring Song"/>
+<label key="1879098219" value="Key to the Prison"/>
+<label key="1879098220" value="Blessed Word"/>
+<label key="1879098221" value="Ageless Sword"/>
+<label key="1879098222" value="Word of the Valar"/>
+<label key="1879098223" value="Renewed Will"/>
+<label key="1879098716" value="Consumption"/>
+<label key="1879098717" value="Eyes of Fear"/>
+<label key="1879098719" value="Thorn Explosion"/>
+<label key="1879098729" value="Shadow Swipe High"/>
+<label key="1879098730" value="Shadow Swipe Low"/>
+<label key="1879098731" value="Shadow Swipe Max"/>
+<label key="1879098732" value="Shadow Swipe Med"/>
+<label key="1879098733" value="Shadow Swipe Min"/>
+<label key="1879098760" value="Knowledge of the Lore-master"/>
+<label key="1879098799" value="Explosive Force"/>
+<label key="1879098800" value="Summon Fire-wisp"/>
+<label key="1879099080" value="Mentor : Harp"/>
+<label key="1879099270" value="Mentor : Bagpipes"/>
+<label key="1879099271" value="Mentor : Clarinet"/>
+<label key="1879099272" value="Mentor : Cowbell"/>
+<label key="1879099273" value="Mentor : Drums"/>
+<label key="1879099274" value="Mentor : Flute"/>
+<label key="1879099275" value="Mentor : Horn"/>
+<label key="1879099276" value="Mentor : Moor Cowbell"/>
+<label key="1879099277" value="Mentor : Theorbo"/>
+<label key="1879099318" value="Cure Disease"/>
+<label key="1879099319" value="Cure Fear"/>
+<label key="1879099320" value="Cure Poison"/>
+<label key="1879099321" value="Cure Wound"/>
+<label key="1879099377" value="Renew the World"/>
+<label key="1879101510" value="Travel to Personal House"/>
+<label key="1879101511" value="Travel to Kinship House"/>
+<label key="1879101638" value="Protective Flame"/>
+<label key="1879101691" value="Eyepeck"/>
+<label key="1879101914" value="Melee Fire Max"/>
+<label key="1879101997" value="Root Strike"/>
+<label key="1879101998" value="Recalling Root"/>
+<label key="1879102040" value="Hasty Retreat"/>
+<label key="1879102222" value="Scream of the Wicked"/>
+<label key="1879102223" value="Lore-master's Bane"/>
+<label key="1879102224" value="Gurthul's Retribution"/>
+<label key="1879102439" value="Final Throw"/>
+<label key="key:620757890:228830419" value="This skill is a fast version of stealth."/>
+<label key="key:620759186:228830419" value="After using your Double-edged Strike, you can make a pair of powerful attack against your target."/>
+<label key="key:620759211:228830419" value="After using your Double-edged Strike, you make an attack which inflicts high damage, with a chance of creating a 6s opportunity to use Fellowship skills if you are in a Fellowship."/>
+<label key="key:620759243:228830419" value="The ground shakes as if the Ents themselves were marching to war causing damage and stunning your enemies."/>
+<label key="key:620759256:228830419" value="You are a friend of the Eagles and may now summon one to aid you."/>
+<label key="key:620759291:228830419" value=".."/>
+<label key="key:620759294:228830419" value="This skill deals damage to some of the enemies and returns that as morale to the Eagle."/>
+<label key="key:620759296:228830419" value="This skill will cause the Eagle to bring his master back from the brink of defeat.  This skill only functions if the Eagle is in combat."/>
+<label key="key:620759299:228830419" value="This skill takes advantage of an enemy who is under Burning Embers and hurts them grievously by stirring up the flames causing them to run in panic."/>
+<label key="key:620759302:228830419" value=".."/>
+<label key="key:620759411:228830419" value="You fire with the skill of Bard himself, driving fear into evil enemies."/>
+<label key="key:620759426:228830419" value="When the need is high, you can move on with little rest, restoring all Power and Morale in only a few seconds."/>
+<label key="key:620759440:228830419" value="You rain thorn arrows down upon your enemies, allowing you to pin multiple targets."/>
+<label key="key:620759617:228830419" value="The ways of the elder age are not lost to all races yet, you may bring new inspiration to those whose Morale has been entirely depleted, reviving a defeated target in combat."/>
+<label key="key:620759630:228830419" value="This song enables you to temporarily reduce the Dread of an area for a short time."/>
+<label key="key:620759643:228830419" value="Anthem: Call upon a powerful song to blast your enemies with an area-of-effect of light that will slow the creatures who are hit by it.  Requires a recent Tier 3 ballad and resets your ballad counter."/>
+<label key="key:620759751:228830419" value="You are able to revive and protect a fallen companion with three quarters of their Morale and half of their Power."/>
+<label key="key:620759766:228830419" value="You are able to afford protection to one of your companions, but at the cost of half your Power."/>
+<label key="key:620759779:228830419" value="You levy a curse upon your foe which greatly increases the damage your companions can do to it."/>
+<label key="key:620759792:228830419" value="Your very presence inspires those around you to perform better in combat."/>
+<label key="key:620764879:228830419" value="You make an aggressive triple attack that engenders threat. This attack can only be evaded, it will never miss, and cannot be parried or blocked."/>
+<label key="key:620764880:228830419" value="You make an aggressive triple attack that engenders threat. This attack can only be evaded, it will never miss, and cannot be parried or blocked."/>
+<label key="key:620764891:228830419" value="A cry of defiance that robs the monsters of some of their Power and gives it to you."/>
+<label key="key:620764903:228830419" value="You make a full area-of-effect attack, inflicting heavy damage, drawing the enemies' attention to yourself. This attack never misses."/>
+<label key="key:620764905:228830419" value="You make a full area-of-effect attack, inflicting heavy damage, drawing the enemies' attention to yourself. This attack never misses."/>
+<label key="key:620764915:228830419" value="Your damage and Power regeneration are increased. This skill can only be executed during combat when you have greater than 20% Morale. It can only be maintained if your Morale does not drop below 20%."/>
+<label key="key:620765187:228830419" value="You are able to make a powerful attack against an enemy who has suffered from Overwhelm or Thrust, potentially knocking it down."/>
+<label key="key:620765207:228830419" value="After a successful Bash or Shield-taunt, you may bash him again with your shield for greater damage. This skill draws the enemy's attention to yourself."/>
+<label key="key:620765219:228830419" value="You focus yourself on enraging your enemies."/>
+<label key="key:620765231:228830419" value="You know how to goad your enemies into attacking you, leaving your allies free to maneuver, as well as raising your Guardian's Ward."/>
+<label key="key:620765364:228830419" value=".."/>
+<label key="key:620765365:228830419" value=".."/>
+<label key="key:620765366:228830419" value=".."/>
+<label key="key:620765367:228830419" value="Your Herald has a chance to stun the target with a melee attack if it is under the affect of one of your Marks. Additionally, your Herald will do 50% more damage if he is behind the target.  This skill has a 60 second cooldown. You must first Mark your opponent before this skill can be used."/>
+<label key="key:620765368:228830419" value="Your Herald will taunt the target with a melee attack if it is under the affect of one of your Marks. This skill has a 15 second cooldown. You must first Mark your opponent before this skill can be used."/>
+<label key="key:620765369:228830419" value="Your Herald encourages you in times of battle, raising your morale at the cost of his own. This skill has a 90 second cooldown."/>
+<label key="key:620765376:228830419" value="You enlist a Herald to carry your Banner of Victory into battle. This banner increases the maximum Power and in-combat Power regeneration of those around it."/>
+<label key="key:620765378:228830419" value="You enlist a Herald to carry your Banner of Victory into battle. This banner increases the maximum Power and in-combat Power regeneration of those around it."/>
+<label key="key:620765380:228830419" value="You enlist a Herald to carry your Banner of Victory into battle. This banner increases the maximum Power and in-combat Power regeneration of those around it."/>
+<label key="key:620765382:228830419" value="You enlist a Herald to carry your Banner of Victory into battle. This banner increases the maximum Power and in-combat Power regeneration of those around it."/>
+<label key="key:620765396:228830419" value="You are able to revive a fallen companion with half of their Morale and a quarter of their Power."/>
+<label key="key:620765402:228830419" value="When an enemy is defeated, your Cry rallies the Morale of your nearby fellows."/>
+<label key="key:620765409:228830419" value="When an enemy is defeated, you let out a Cry which rallies your nearby fellows to attack with greater speed and determination."/>
+<label key="key:620765414:228830419" value="When an enemy is defeated, you let out a fearsome Cry which slightly demoralizes all other foes nearby."/>
+<label key="key:620765417:228830419" value="Your fearsome Shout strikes terror into the hearts of your enemies and puts you into a Battle-readied State."/>
+<label key="key:620765423:228830419" value="Your fearsome Shout strikes terror into the hearts of your enemies and puts you into a Battle-readied State."/>
+<label key="key:620765426:228830419" value="You attack defensively. On a successful strike you cause light damage, but recover quickly to protect yourself from returned attacks."/>
+<label key="key:620765444:228830419" value="You enlist a Herald to carry your Banner of War into battle. This banner increases the Might and Agility of those around it."/>
+<label key="key:620765446:228830419" value="You enlist a Herald to carry your Banner of War into battle. This banner increases the might and agility of those around it."/>
+<label key="key:620765448:228830419" value="You enlist a Herald to carry your Banner of War into battle. This banner increases the might and agility of those around it."/>
+<label key="key:620765450:228830419" value="You enlist a Herald to carry your Banner of War into battle. This banner increases the might and agility of those around it."/>
+<label key="key:620765462:228830419" value="You are able to renew the courage of your nearby companions, removing all existing fear effects from them."/>
+<label key="key:620765492:228830419" value="You enlist a Herald to carry your Banner of Hope into battle. This banner increases the maximum Morale and in-combat Morale regeneration of those around it."/>
+<label key="key:620765494:228830419" value="You enlist a Herald to carry your Banner of Hope into battle. This banner increases the maximum Morale and in-combat Morale regeneration of those around it."/>
+<label key="key:620765496:228830419" value="You enlist a Herald to carry your Banner of Hope into battle. This banner increases the maximum Morale and in-combat Morale regeneration of those around it."/>
+<label key="key:620765498:228830419" value="You enlist a Herald to carry your Banner of Hope into battle. This banner increases the maximum Morale and in-combat Morale regeneration of those around it."/>
+<label key="key:620765508:228830419" value="If you land a Critical Hit, this attack will deal devastating bonus damage and allow the usage of enemy defeat skills, as well as allowing you to enter into the Battle-hardened state. You must be in a Battle-readied State to use this skill."/>
+<label key="key:620765512:228830419" value="Your Shout threatens your enemy, increasing the chance that it will attack you."/>
+<label key="key:620765513:228830419" value="Your Shout threatens your enemy, increasing the chance that it will attack you."/>
+<label key="key:620765569:228830419" value="You make a swift melee attack."/>
+<label key="key:620765615:228830419" value="Your Fervour is instantly increased."/>
+<label key="key:620765618:228830419" value="Half of your Power is transferred to Morale."/>
+<label key="key:620765633:228830419" value="A quick attack that will lightly wound your opponent."/>
+<label key="key:620765636:228830419" value="After successfully blocking an enemy's blow, you may attack with both your weapon and shield. This skill draws the enemy's attention to yourself."/>
+<label key="key:620765643:228830419" value="Your great skill enables you to strengthen your defences for a short time."/>
+<label key="key:620765646:228830419" value="You strike your opponent with your shield. This skill generates additional threat."/>
+<label key="key:620765661:228830419" value="You catch your breath after blocking an enemy's attack, restoring Morale"/>
+<label key="key:620765667:228830419" value="You are capable of drawing an enemy's attention to yourself with this attack."/>
+<label key="key:620765668:228830419" value="You are capable of drawing an enemy's attention to yourself with this attack."/>
+<label key="key:620765677:228830419" value="You know how to goad your enemies into attacking you, leaving your allies free to maneuver."/>
+<label key="key:620765680:228830419" value="When wielding a shield, you may protect one of your allies, improving his defence and allowing you to react to attacks made against him."/>
+<label key="key:620765681:228830419" value="When wielding a shield, you may protect one of your allies, improving his defence and allowing you to react to attacks made against him."/>
+<label key="key:620765687:228830419" value="Your great skill enables you to strengthen your defences for a short time."/>
+<label key="key:620765691:228830419" value="You gather your wits and instantly recover some of your skills."/>
+<label key="key:620765696:228830419" value="You have the ability to improve your Morale for a time, even above its normal maximum."/>
+<label key="key:620765702:228830419" value="The thrill of danger allows you to regain Power, increasing with every enemy near you.  This skill works in combat only."/>
+<label key="key:620765704:228830419" value="The thrill of danger allows you to regain Power, increasing with every enemy near you. This skill opens up other skills for use.  This skill works in combat only."/>
+<label key="key:620765712:228830419" value="Your survival skills enable you to lay traps for enemies which can hold them in place. The trap remains for 60 seconds after being placed. This skill is easily interrupted."/>
+<label key="key:620765742:228830419" value="In a desperate time, you can instantly reach full Focus."/>
+<label key="key:620765755:228830419" value="Your survival-skills allow you to make yourself appear less threatening to enemies for a short time."/>
+<label key="key:620765759:228830419" value="You can sacrifice some of your Focus to make ranged attacks at a faster rate."/>
+<label key="key:620765784:228830419" value="With a mighty blow, you raise your weapon to fell your enemy."/>
+<label key="key:620765785:228830419" value="With a mighty blow, you raise your weapon to fell your enemy with a chance of stunning.  When used on a flanked enemy, this ability does even greater damage."/>
+<label key="key:620765790:228830419" value="You steal the Power of your enemy, slowly increasing your own."/>
+<label key="key:620765791:228830419" value="You steal the Power of your enemy, slowly increasing your own."/>
+<label key="key:620765799:228830419" value="Transfers Morale to an ally or companion."/>
+<label key="key:620765804:228830419" value="This sign wards your animal friend so that it may parry enemy attacks more frequently and resists damage more effectively. You cannot have more than one sign active on your companion at a time."/>
+<label key="key:620765810:228830419" value="You are able to remove wounds suffered by an ally."/>
+<label key="key:620765812:228830419" value="You are able to remove wounds in an area-of-effect. This can be used in combat."/>
+<label key="key:620765816:228830419" value="This sign asks your animal friend to go into a rage, attacking faster and making itself look as threatening as possible. You cannot have more than one sign active on your companion at a time."/>
+<label key="key:620765825:228830419" value="The ground cracks beneath the enemy's feet, inflicting damage and after ten seconds the great upheavels in Arda, roots the target."/>
+<label key="key:620765831:228830419" value="Your knowledge of the White Council gives your Morale a boost in times of need. For a short time, it will also protect you and damage enemies who strike you."/>
+<label key="key:620765836:228830419" value="A blinding flash accompanied by a loud crack and the smell of blasting powder causes the foe to stop all action. Any damage inflicted on the target will break its stupour."/>
+<label key="key:620765841:228830419" value="You are able to cure disease."/>
+<label key="key:620765843:228830419" value="You are able to cure disease in an area-of-effect."/>
+<label key="key:620765849:228830419" value="Your research into lost knowledge increases your Will."/>
+<label key="key:620765851:228830419" value="Your research into lost knowledge greatly increases your Will."/>
+<label key="key:620765856:228830419" value="You can transfer a portion of your Power to an ally or companion."/>
+<label key="key:620765875:228830419" value="Tier 3 Ballad: A quick ballad that gives your fellowship a bonus to their melee damage.  Requires a recent Tier 2 ballad."/>
+<label key="key:620765879:228830419" value="Anthem: Call upon a song to blast your enemies with an area-of-effect of light.  Requires a recent Tier 3 ballad and resets your ballad counter."/>
+<label key="key:620765880:228830419" value="Anthem: Call upon a song to blast your enemies with an area-of-effect of light.  Requires a recent Tier 3 ballad and resets your ballad counter."/>
+<label key="key:620765884:228830419" value="The minstrel inspires his fellows to heroic feats, opening up gated skills to most classes, and enables Lore-masters to use Beacon of Hope more frequently at a lower Morale cost."/>
+<label key="key:620765885:228830419" value="The minstrel inspires his fellows to heroic feats, opening up gated skills to most classes, and enables Lore-masters to use Beacon of Hope more frequently at a lower Morale cost.  This improved version has a longer duration and shorter recovery time."/>
+<label key="key:620765911:228830419" value="Tier 1 Ballad: A quick ballad that gives you a bonus to Tactical attacks and harms your foe."/>
+<label key="key:620765915:228830419" value="Brings hope to those whose Morale has been entirely depleted, reviving a defeated ally."/>
+<label key="key:620765920:228830419" value="This skill enables you to access every Ballad Tier and Anthem at once.  It also breaks any silence effects on you."/>
+<label key="key:620765924:228830419" value="This skill soothes targets in an area who already have hate for you.  This increases the likelyhood of the enemy choosing another target."/>
+<label key="key:620765948:228830419" value="You may make a quick, sharp attack against your foe."/>
+<label key="key:620765953:228830419" value="You are capable of posing riddles to your enemies, which may momentarily distract them, dazing them for a short time or until damaged. This will not work on Beasts, Insects, or Creatures of Nature."/>
+<label key="key:620765959:228830419" value="Your careful aim ensures the next damage-dealing attack skill will result in a Critical Hit and has much lower chance of missing. Using this skill will not break Stealth."/>
+<label key="key:620765966:228830419" value="You throw dust in your enemy's eyes, making it more difficult for your enemy to hit. You can only have one Trick on a target at once."/>
+<label key="key:620765969:228830419" value="You throw dust in your enemy's eyes, making it more difficult for your enemy to hit. You can only have one Trick on a target at once."/>
+<label key="key:620765977:228830419" value="When in Stealth, you can divert an enemy's attention away from yourself for a short time. Using this skill will not break Stealth."/>
+<label key="key:620765983:228830419" value="You can strike a foe to slow their attacks for a short while. You can only have one Trick on a target at once."/>
+<label key="key:620765989:228830419" value="You execute an attack that will lower your enemy's defences for a short time. You can only have one Trick on a target at once."/>
+<label key="key:620766000:228830419" value="You can disappear from before your enemy's eyes. For a little while, your Stealth is improved, and even taking damage will not break your cover. Using this skill will not break Stealth."/>
+<label key="key:620766002:228830419" value="You have the ability to move about unseen, though there is a chance enemies may detect you, especially when moving in front of them."/>
+<label key="key:620766003:228830419" value="You have the ability to move about unseen, though there is a chance enemies may detect you."/>
+<label key="key:620766009:228830419" value="You enrage your foe, causing him to flail around at any target he considers a threat. You can only have one Trick on a target at once."/>
+<label key="key:620767743:228830419" value="When active, nearby ore deposits are displayed on the radar."/>
+<label key="key:620767778:228830419" value="When active, nearby tree branches are displayed on the radar."/>
+<label key="key:620767853:228830419" value="When active, nearby crops are displayed on the radar."/>
+<label key="key:620768659:228830419" value="You auto-attack when wielding a one-handed weapon with a shield."/>
+<label key="key:620768660:228830419" value="You auto-attack when dual-wielding one-handed weapons."/>
+<label key="key:620768661:228830419" value="You auto-attack when wielding a two-handed weapon."/>
+<label key="key:620768823:228830419" value="You auto-attack when wielding a bow."/>
+<label key="key:620768824:228830419" value="You auto-attack when wielding a crossbow."/>
+<label key="key:620768830:228830419" value="This fellowship skill does minor direct melee damage to your target, then more damage over time and can contribute to fellowship manoeuvres."/>
+<label key="key:620768832:228830419" value="Guile Melee Pair"/>
+<label key="key:620768834:228830419" value="This fellowship skill does minor direct ranged damage to your target, then more damage over time and can contribute to fellowship manoeuvres."/>
+<label key="key:620768835:228830419" value="Guile Ranged Pair"/>
+<label key="key:620768836:228830419" value="Guile Contribution"/>
+<label key="key:620768838:228830419" value="Guile Contribution"/>
+<label key="key:620768840:228830419" value="Guile Melee Triplet"/>
+<label key="key:620768842:228830419" value="Guile Ranged Triplet"/>
+<label key="key:620768844:228830419" value="Guile Melee Quad"/>
+<label key="key:620768846:228830419" value="Guile Ranged Quad"/>
+<label key="key:620768848:228830419" value="This fellowship skill replenishes your power and can contribute to fellowship manoeuvres."/>
+<label key="key:620768850:228830419" value="Tactics Pair"/>
+<label key="key:620768852:228830419" value="Tactics Contribution"/>
+<label key="key:620768854:228830419" value="Tactics Triplet"/>
+<label key="key:620768856:228830419" value="Tactics Quad"/>
+<label key="key:620768858:228830419" value="This fellowship skill does direct melee damage to your target and can contribute to fellowship manoeuvres."/>
+<label key="key:620768859:228830419" value="Strength Pair"/>
+<label key="key:620768860:228830419" value="This fellowship skill does direct ranged damage to your target and can contribute to fellowship manoeuvres."/>
+<label key="key:620768861:228830419" value="Strength Pair"/>
+<label key="key:620768862:228830419" value="Strength Contribution"/>
+<label key="key:620768864:228830419" value="Strength Triplet"/>
+<label key="key:620768866:228830419" value="Strength Quad"/>
+<label key="key:620768868:228830419" value="This fellowship skill replenishes your morale and can contribute to fellowship manoeuvres."/>
+<label key="key:620768870:228830419" value="Conviction Pair"/>
+<label key="key:620768873:228830419" value="Conviction Contribution"/>
+<label key="key:620768875:228830419" value="Conviction Triplet"/>
+<label key="key:620768878:228830419" value="Conviction Quad"/>
+<label key="key:620768881:228830419" value="Strength Quad"/>
+<label key="key:620768891:228830419" value="Strength Triplet"/>
+<label key="key:620768915:228830419" value="Strength Quintuplet"/>
+<label key="key:620768916:228830419" value="Strength Quintuplet"/>
+<label key="key:620768919:228830419" value="Guile Melee Quintuplet"/>
+<label key="key:620768921:228830419" value="Guile Ranged Quintuplet"/>
+<label key="key:620768924:228830419" value="Tactics Quituplet"/>
+<label key="key:620768928:228830419" value="Conviction Quintuplet"/>
+<label key="key:620768932:228830419" value="Strength Sextuplet"/>
+<label key="key:620768933:228830419" value="Strength Sextuplet"/>
+<label key="key:620768936:228830419" value="Guile Melee Sextuplet"/>
+<label key="key:620768937:228830419" value="Guile Ranged Sextuplet"/>
+<label key="key:620768940:228830419" value="Tactics Sextuplet"/>
+<label key="key:620768943:228830419" value="Conviction Sextuplet"/>
+<label key="key:620774676:228830419" value="You are hardier than most and can recover from being knocked down and stunned."/>
+<label key="key:620774679:228830419" value="With a flash of steel you render your target unable to use their weapons for a short while. This skill can only be used against players."/>
+<label key="key:620774681:228830419" value="You cut the legs of your foe, slowing their movement."/>
+<label key="key:620774697:228830419" value="You spray your target with clinging, sticky webs, reducing their chance to Parry or Evade."/>
+<label key="key:620774700:228830419" value="When not in combat, you can hide beneath the ground, unseen by foes, until you burst from the ground."/>
+<label key="key:620774720:228830419" value="You carefully place a snare on the ground to trap your foes."/>
+<label key="key:620774722:228830419" value="You release several arrows in quick succession hitting multiple foes around your target."/>
+<label key="key:620774724:228830419" value="A fire tipped arrow which will continue to burn the target after landing."/>
+<label key="key:620774739:228830419" value="You can shout at an ally who is stunned or knocked down and they will begin to recover."/>
+<label key="key:620774741:228830419" value="While not in combat, you and your nearby allies can run faster."/>
+<label key="key:620774745:228830419" value="You exhort and deride your allies, restoring some of their health."/>
+<label key="key:620774760:228830419" value="When you defeat an enemy, you can howl to heal yourself and your fellows over time."/>
+<label key="key:620774764:228830419" value="From beneath the very nose of your foe, you can disappear and prowl unseen once more. For a shortwhile your stealth is extremely effective."/>
+<label key="key:620774798:228830419" value="You can prowl beneath the notice of all but the keenest eyes, waiting to strike."/>
+<label key="key:620774869:228830419" value="A single powerful melee attack."/>
+<label key="key:620774870:228830419" value="You make a powerful melee attack, followed by a quick off-hand swipe."/>
+<label key="key:620774871:228830419" value="You make a frontal area-of-effect attack."/>
+<label key="key:620774872:228830419" value="You make a frontal area-of-effect attack."/>
+<label key="key:620774873:228830419" value="You make a savage double attack."/>
+<label key="key:620774874:228830419" value="You make a pair of savage attacks, followed by a quick off-hand swipe."/>
+<label key="key:620774875:228830419" value="Your damage and Power regeneration are increased at the expense of avoidance."/>
+<label key="key:620774877:228830419" value="Your attack speed is increased."/>
+<label key="key:620774879:228830419" value="You make three deadly attacks."/>
+<label key="key:620774880:228830419" value="You make three deadly attacks."/>
+<label key="key:620774881:228830419" value="You respond to some of your opponents attacks with swift counter-attacks."/>
+<label key="key:620774883:228830419" value="You make a full area-of-effect attack."/>
+<label key="key:620774884:228830419" value="You make a full area-of-effect attack."/>
+<label key="key:620774885:228830419" value="You make an attack which allows you to brace yourself against counterattack, increasing your Morale by a small amount."/>
+<label key="key:620774887:228830419" value="You make an attack which allows you to brace yourself against counterattack, increasing your Morale by a small amount."/>
+<label key="key:620774888:228830419" value="You make a full area-of-effect attack, which can cause light damage over time."/>
+<label key="key:620774890:228830419" value="You lose all Fervour and enter a defensive stance, which increases your parry and evade rates, but also removes fervour."/>
+<label key="key:620774892:228830419" value="You use all of your Fervour to deal a devastating attack. This attack can only be evaded, it will never miss against on level targets, and cannot be parried or blocked."/>
+<label key="key:620774893:228830419" value="You use all of your Fervour to deal a devastating attack and a quick off-hand swipe. The primary attack can only be evaded, it will never miss against on level targets and cannot be parried or blocked."/>
+<label key="key:620774894:228830419" value="Your taunting cry forces your target to face and attack you for a few seconds."/>
+<label key="key:620774895:228830419" value="You make a powerful attack that can only be used on opponents under 20% health."/>
+<label key="key:620774896:228830419" value="You make a cunning attack that catches your opponents off-guard. Your next area-of-effect attack will cause more damage. It can only be used on opponents below 25% health."/>
+<label key="key:620774897:228830419" value="Your run speed is increased."/>
+<label key="key:620774899:228830419" value="You make a swift melee attack, which interrupts any time-delayed actions your opponent is attempting."/>
+<label key="key:620774900:228830419" value="You make a full area-of-effect attack, which stuns your opponents."/>
+<label key="key:620774901:228830419" value="You make an attack which snares your opponent."/>
+<label key="key:620774903:228830419" value="You make a melee attack that dissuades your target from continuing to attack you. The target will only stop attacking you if there is another more threatening target nearby."/>
+<label key="key:620774904:228830419" value="You attack with your ranged weapon."/>
+<label key="key:620774906:228830419" value="Tales of your heroic acts draw cheers from the crowd."/>
+<label key="key:620774913:228830419" value="A light, bleeding attack, which causes your foe damage over time."/>
+<label key="key:620774915:228830419" value="You leave a Mark on your enemy that increases the amount of damage that you and your companions will deal to it.  You may only mark one target at a time."/>
+<label key="key:620774917:228830419" value="You command your Fellowship to make better speed, both in and out of battle."/>
+<label key="key:620774919:228830419" value="You leave a Mark on your enemy, damaging your foe over time. You may only mark one target at a time."/>
+<label key="key:620774921:228830419" value="You swing twice at your enemy, inflicting medium damage. If you land a Critical Hit on the second attack, you will be able to use your enemy defeat skills, as well as allowing you to enter into the Battle-hardened state.  You must be in a Battle-readied State to use this skill."/>
+<label key="key:620774922:228830419" value="You are able to renew one of your companions' Morale over time."/>
+<label key="key:620774925:228830419" value="You are able to raise the Morale of your nearby companions with a motivating speech."/>
+<label key="key:620774927:228830419" value="Your tactic is to be on guard, increasing chances of parrying attacks.  No one can have more then one Tactic on at a time."/>
+<label key="key:620774929:228830419" value="You are able to resist succumbing to defeat for a short time."/>
+<label key="key:620774930:228830419" value="Your tactic is to attack relentlessly, increasing Critical Hit chance. No one can have more then one Tactic on at a time."/>
+<label key="key:620774932:228830419" value="You leave a Mark on your enemy that will renew the Morale of your companions when they wound the target.  You may only mark one target at a time."/>
+<label key="key:620774934:228830419" value="When one of your companions falls, your Cry will return a nearby fellow back to battle and inspire those around you to greater feats of skill."/>
+<label key="key:620774938:228830419" value="You put yourself in harm's way to defend your nearby companions, taking all damage dealt to them upon yourself."/>
+<label key="key:620774941:228830419" value="Your tactic is to focus, increasing power regeneration while in combat. No one can have more then one Tactic on at a time."/>
+<label key="key:620774943:228830419" value="Your presence commands respect from those around you."/>
+<label key="key:620774949:228830419" value="This melee attack increases the effects of healing on yourself for a short time."/>
+<label key="key:620774951:228830419" value="This stronger melee attack increases the effects of healing on yourself for a short time and gives Morale to your group."/>
+<label key="key:620774961:228830419" value="Words of encouragement that renew the Morale of a companion or yourself."/>
+<label key="key:620774964:228830419" value="Tier 1 Ballad: A quick ballad that gives you Vitality and harms your foe."/>
+<label key="key:620774966:228830419" value="Tier 1 Ballad: This short song takes time to execute, and instead of dealing damages to your foes, it distributes the buff to your Fellowship."/>
+<label key="key:620774968:228830419" value="Your shout does light damage to your enemies."/>
+<label key="key:620774969:228830419" value="Your shout does light damage to your enemies.  This skill now has a higher critical chance and can stun an opponent."/>
+<label key="key:620774970:228830419" value="Tier 1 Ballad: A quick ballad that gives you an armour bonus and harms your foe."/>
+<label key="key:620774972:228830419" value="Tier 2 Ballad: A quick ballad that gives you a bonus to your attack speed and harms your foe.  Requires a recent Tier 1 ballad."/>
+<label key="key:620774974:228830419" value="Tier 3 Ballad: A quick ballad that gives your fellowship a bonus to their resistance to fear.  Requires a recent Tier 2 ballad."/>
+<label key="key:620774976:228830419" value="Words of encouragement renew the Morale of your fellowship and increase its vigour."/>
+<label key="key:620774980:228830419" value="Calling upon the Valar can send certain evil foes fleeing in terror for a short time."/>
+<label key="key:620774981:228830419" value="Tier 2 Ballad: A quick ballad that gives you a bonus to your Evade and harms your foe.  Requires a recent Tier 1 ballad."/>
+<label key="key:620774982:228830419" value="Tier 2 Ballad: This short song takes time to execute, and instead of dealing damages to your foes, it distributes the buff to your Fellowship.  Requires a recent Tier 1 ballad."/>
+<label key="key:620774985:228830419" value="The next three Herald's Strikes you execute do extra damage and return part of that as Morale to your group.  When you invoke this skill your reset timer of Herald's Strike is reset."/>
+<label key="key:620774987:228830419" value="Words of encouragement renew the Morale of a companion or yourself. This maneuver is larger but slower than Raise the Spirit."/>
+<label key="key:620774990:228830419" value="A song that makes an allies' hearts glad again, removing some of the oppression of defeat."/>
+<label key="key:620774998:228830419" value="This song causes undead to freeze in fear."/>
+<label key="key:620775000:228830419" value="Anthem: Increases Morale regeneration in combat for you and your Fellowship and generates less threat then direct healing.  Requires a recent Tier 3 ballad and resets your ballad counter."/>
+<label key="key:620775001:228830419" value="This aura increases the Will and Fate of your Fellowship."/>
+<label key="key:620775005:228830419" value="Anthem: Decreases the amount of threat you generate from healing.  Requires a recent Tier 3 ballad and resets your ballad counter."/>
+<label key="key:620775007:228830419" value="Your inspirational spirit can dispel fear afflicting yourself or others."/>
+<label key="key:620775008:228830419" value="A desperate cry instantly renews the Morale of your fellowship, but draws a large amount of attention to yourself."/>
+<label key="key:620775010:228830419" value="Tier 3 Ballad: A quick ballad that gives your fellowship a bonus to their resistance to fire.  Requires a recent Tier 2 ballad."/>
+<label key="key:620775012:228830419" value="A song that can make your enemy become drowsy and not detect players until they are much closer than normal. This does not work against monsters already engaged in combat."/>
+<label key="key:620775015:228830419" value="Tier 2 Ballad: A quick ballad that gives you a bonus to all your resistances and harms your foe.  Requires a recent Tier 1 ballad."/>
+<label key="key:620775017:228830419" value="You are talented at feigning death, causing enemies to ignore you completely."/>
+<label key="key:620775020:228830419" value="This lay enables you to take damage from your Power instead of Morale when toggled. The name comes from the adage that those who know this lay were said to have been able to take a blow from Helm Hammerhand himself.  Stuns and Knockdowns will interupt the lay."/>
+<label key="key:620775024:228830419" value="Red-hot embers swirl around the target, causing damage over time and slowing movement."/>
+<label key="key:620775027:228830419" value="Your understanding of the speech of ravens allows you to call one to assist in your adventures."/>
+<label key="key:620775032:228830419" value=".."/>
+<label key="key:620775033:228830419" value="This skill makes the target more vulnerable to fire."/>
+<label key="key:620775036:228830419" value="This channeled skill debuffs archers' damage."/>
+<label key="key:620775038:228830419" value="This self buff protects the raven from shadow and melee attacks."/>
+<label key="key:620775040:228830419" value="You can transfer some of your Power to Morale for both yourself and your companion.  This skill only works if you have a companion summoned."/>
+<label key="key:620775043:228830419" value="Air swirls around the target kicking up debris and other objects that causes damage and distracts nearby enemies."/>
+<label key="key:620775046:228830419" value="Your understanding of the speech of bears allows you to call one to assist in your adventures."/>
+<label key="key:620775048:228830419" value="Your understanding of the speech of bears allows you to call one to assist in your adventures."/>
+<label key="key:620775051:228830419" value=".."/>
+<label key="key:620775052:228830419" value="This skill forces the target to attack the bear."/>
+<label key="key:620775053:228830419" value=".."/>
+<label key="key:620775054:228830419" value=".."/>
+<label key="key:620775055:228830419" value="This skill applies an armour debuff."/>
+<label key="key:620775057:228830419" value="This skill stuns the opposition."/>
+<label key="key:620775058:228830419" value="This skill is a brutal attack."/>
+<label key="key:620775059:228830419" value="You test the will of your enemy. When successful, it will damage and stun the target.  This skill has a large bonus to it's critical chance and magnitude."/>
+<label key="key:620775061:228830419" value="When your companion has flanked your enemy, the sign of Wizardry shall provide you with Morale and deals damage to your enemy. Used normally, it deals light-based damage over time."/>
+<label key="key:620775065:228830419" value="This sign causes your enemy to pause so it attacks slower and parries less often."/>
+<label key="key:620775067:228830419" value="This sign will cure silence, knockdown, and knock-out effects, and then will provide temporary immunity to knockdown and knock-out effects. Used preventively, it will make you immune to these effects for a period of time."/>
+<label key="key:620775070:228830419" value="This sign will cure silence, knockdown, and knock-out effects, and then will provide temporary immunity to knockdown and knock-out effects. Used preventively, it will make you immune to these effects for a period of time."/>
+<label key="key:620775072:228830419" value="This sign provides you with a heightened vigilance against those who would hide from your gaze."/>
+<label key="key:620775074:228830419" value="This sign provides you with a heightened vigilance against those who would hide from your gaze."/>
+<label key="key:620775076:228830419" value="Your knowledge of things natural gives you influence over the very environment itself. You are able to subtly raise the temperature, making it difficult for most creatures to deal damage to you."/>
+<label key="key:620775078:228830419" value="Your knowledge of things natural gives you influence over the air itself, allowing you to slow many of your enemies at once."/>
+<label key="key:620775080:228830419" value="Your knowledge of things natural gives you influence over the ground and plants, allowing you to root a group of enemies in place."/>
+<label key="key:620775082:228830419" value="You call upon the wisdom of the Valar, recovering some of your skills."/>
+<label key="key:620775084:228830419" value="Your wisdom can light even the darkest of places, harming and stunning those that are in opposition to your purpose."/>
+<label key="key:620775094:228830419" value="Large sweeping strokes cut into all of your foes standing before you."/>
+<label key="key:620775095:228830419" value="You focus your defences on blocking attacks."/>
+<label key="key:620775097:228830419" value="You are skilled at swiftly retaliating after parrying an enemy's attack."/>
+<label key="key:620775100:228830419" value="After a successful Shield-swipe, you may bash him again with your shield, stunning him briefly. This skill draws the enemy's attention to yourself."/>
+<label key="key:620775102:228830419" value="You are able to make a powerful attack against an enemy who has suffered your Retaliation. This attack will stun the target on a critical hit."/>
+<label key="key:620775104:228830419" value="You focus your defences on parrying attacks."/>
+<label key="key:620775106:228830419" value="After successfully retaliating, you may make a whirling attack against all enemies in a circle around you."/>
+<label key="key:620775107:228830419" value="Follow-up your Retaliation with a thrusting blow, which will open a bleeding wound."/>
+<label key="key:620775109:228830419" value="Laugh at your enemies after bashing them with your Shield-swipe, taunting them. This skill draws the enemy's attention to yourself."/>
+<label key="key:620775110:228830419" value="Your attack enables you to break your enemy's concentration, interrupting his actions."/>
+<label key="key:620775111:228830419" value="When dazed, stunned, knocked down, or knocked out you may turn the tables on your enemy, recovering from the effects and instilling them in your enemy."/>
+<label key="key:620775112:228830419" value="You can create a whistle out of an acorn that will allow your fellows to call you to them when they are in need."/>
+<label key="key:620775115:228830419" value="You can knock an enemy down, opening up an opportunity to use Fellowship skills if you are in a Fellowship. Only useable while in Stealth."/>
+<label key="key:620775116:228830419" value="You can knock an enemy down, opening up an opportunity to use Fellowship skills if you are in a Fellowship. Only useable while in Stealth, but it does not break your Stealth."/>
+<label key="key:620775117:228830419" value="You are skilled at surprising your enemy in battle, inflicting more damage when attacking from behind or while in Stealth. Critical hits with Surprise Strike are more damaging than most skills."/>
+<label key="key:620775118:228830419" value="You are skilled at surprising your enemy in battle, inflicting more damage when attacking from behind or while in Stealth. Critical hits with Surprise Strike are more damaging than most skills."/>
+<label key="key:620775119:228830419" value="Your formidable cunning allows a darting attack which continues to deal damage after you strike, dealing even more damage if the attack is made while in Stealth."/>
+<label key="key:620775121:228830419" value="Your formidable cunning allows a darting attack which continues to deal damage after you strike, dealing even more damage if the attack is made while in Stealth."/>
+<label key="key:620775123:228830419" value="You can cause your enemy to focus his aggression on his current opponent, whether that is yourself or an ally."/>
+<label key="key:620775124:228830419" value="You can cause your enemy to focus his aggression on his current opponent, whether that is yourself or an ally."/>
+<label key="key:620775125:228830419" value="You are able to make another attack after a Critical Hit, inflicting more damage when attacking from behind."/>
+<label key="key:620775128:228830419" value="After using your Burglar's Advantage, you can make two attacks against your target."/>
+<label key="key:620775130:228830419" value="You are able to stun your target, creating an opportunity to use Fellowship skills if you are in a Fellowship."/>
+<label key="key:620775132:228830419" value="You confuse your enemy so thoroughly that he fails any skill attempts in process, and any subsequent skill attempts for a short time take much longer to execute."/>
+<label key="key:620775134:228830419" value="You startle an enemy with an active Trick on them, stunning them for 8s and removing the Trick."/>
+<label key="key:620775137:228830419" value="You can surprise a foe with an active Trick on them, removing the Trick and restoring some of your Morale. This will never miss against on level targets, nor can it be parried, blocked, or evaded."/>
+<label key="key:620775140:228830419" value="While you maintain this ability, you are able to point out weaknesses in your enemy's defences, increasing the damage taken from attacks. Using this skill will not break Stealth."/>
+<label key="key:620775141:228830419" value="While you maintain this ability, you are able to point out weaknesses in your enemy's defences, increasing the damage taken from attacks. Using this skill will not break Stealth."/>
+<label key="key:620775144:228830419" value="You are ready for action again, resetting the recovery timers on many of your skills. Using this skill will not break Stealth."/>
+<label key="key:620775146:228830419" value="You can improve your ability to evade your enemy's attacks for a short time. Using this skill will not break Stealth."/>
+<label key="key:620775148:228830419" value="When dazed, stunned, knocked down, or knocked out you may quickly recover, gaining Morale and a temporary improvement to your evasion. Using this skill will not break Stealth."/>
+<label key="key:620775150:228830419" value="Turns on tracking for treasure chests and other value-laden containers."/>
+<label key="key:620775152:228830419" value="While sneaking about, you can attempt to lighten the pockets of unsuspecting targets."/>
+<label key="key:620775154:228830419" value="Your resourcefulness allows you to purge poisons ailing an ally."/>
+<label key="key:620775158:228830419" value="You can nock and loose an arrow quickly."/>
+<label key="key:620775159:228830419" value="You can nock and loose an arrow quickly. Your knowledge of Elvish or dwarf-virtues allows your arrows to inflict light damage."/>
+<label key="key:620775160:228830419" value="You can nock and loose an arrow quickly. You set your oil-soaked arrows alight, inflicting fire damage."/>
+<label key="key:620775161:228830419" value="Your arrow can cause a wound that bleeds and slightly slows movement speed."/>
+<label key="key:620775163:228830419" value="Through your knowledge of Elvish or dwarf-virtues, your arrow causes light damage over time and slightly slows movement speed."/>
+<label key="key:620775165:228830419" value="Your oil-soaked arrow sets your enemy aflame and causes it to burn and slightly slows movement speed."/>
+<label key="key:620775169:228830419" value="You are able to loose two missiles in rapid succession."/>
+<label key="key:620775170:228830419" value="You are able to loose two missiles in rapid succession.  Your knowledge of Elvish or dwarf-virtues allows your arrows to inflict light damage."/>
+<label key="key:620775171:228830419" value="You are able to loose two missiles in rapid succession.  You set your oil-soaked arrows alight, inflicting fire damage."/>
+<label key="key:620775173:228830419" value="An extremely damaging shot that pierces the armour of your enemy, ignoring 10% mitigation."/>
+<label key="key:620775174:228830419" value="An extremely damaging shot that pierces the armour of your enemy, ignoring 10% mitigation.  Your knowledge of Elvish or dwarf-virtues allows your arrows to inflict light damage."/>
+<label key="key:620775175:228830419" value="An extremely damaging shot that pierces the armour of your enemy, ignoring 10% mitigation.  You set your oil-soaked arrows alight, inflicting fire damage."/>
+<label key="key:620775176:228830419" value="You rain arrows down upon your enemies, allowing you to hit multiple targets."/>
+<label key="key:620775177:228830419" value="You rain arrows down upon your enemies, allowing you to hit multiple targets.  Your knowledge of Elvish or dwarf-virtues allows your arrows to inflict light damage."/>
+<label key="key:620775178:228830419" value="You rain arrows down upon your enemies, allowing you to hit multiple targets.  You set your oil-soaked arrows alight, inflicting fire damage."/>
+<label key="key:620775179:228830419" value="When your enemy falls below 25% of its health, you may make a shot which inflicts massive damage. If you land a Critical Hit, this attack will deal exceptional bonus damage."/>
+<label key="key:620775180:228830419" value="A fast, damaging melee attack."/>
+<label key="key:620775181:228830419" value="A fast, damaging melee attack."/>
+<label key="key:620775182:228830419" value="You can make a low cut in front of you which can temporarily slow the movement speed of up to 2 of your enemies."/>
+<label key="key:620775184:228830419" value="You can make a low cut in front of you which can temporarily slow the movement speed of up to 3 of your enemies."/>
+<label key="key:620775185:228830419" value="This attack wounds your foe, dealing additional damage if the enemy is suffering from your Barbed Arrow. However, using this skill will stop the bleeding."/>
+<label key="key:620775188:228830419" value="This attack wounds your foe, dealing additional damage if the enemy is suffering from your Barbed Arrow. However, using this skill will stop the bleeding."/>
+<label key="key:620775189:228830419" value="You are able to divert your enemy's attention with a single melee strike and follow it with a single bow-attack at close range."/>
+<label key="key:620775190:228830419" value="When you parry an enemy's attack, you can respond with a highly damaging melee attack."/>
+<label key="key:620775191:228830419" value="When you parry an enemy's attack, you can respond with a highly damaging melee attack."/>
+<label key="key:620775192:228830419" value="Your skill as a tracker allows you to increase the speed with which your Fellowship can move across terrain. Entering combat disables this ability."/>
+<label key="key:620775195:228830419" value="Your survival-lore allows you to use naturally-occurring medicines to purge poisons from an ally."/>
+<label key="key:620775197:228830419" value="Your survival-skills enable you to make your Fellowship comfortable in the wild, increasing their recovery and enabling some crafting skills. The campfire lasts for 3 minutes."/>
+<label key="key:620775202:228830419" value="Your knowledge of the land and of its many secret ways allows you to escape from danger and travel to a nearby rally point. Requires rations which may be acquired from Provisioners."/>
+<label key="key:620775205:228830419" value="Your skill as a tracker allows you to find a path for you and your Fellowship to Thorin's Halls. This skill is easily interrupted. Requires rations which may be acquired from Provisioners."/>
+<label key="key:620775208:228830419" value="Your skill as a tracker allows you to find a path for you and your Fellowship to Bree. This skill is easily interrupted. Requires rations which may be acquired from Provisioners."/>
+<label key="key:620775210:228830419" value="Your skill as a tracker allows you to find a path for you and your Fellowship to Esteldin. This skill is easily interrupted. Requires rations which may be acquired from Provisioners."/>
+<label key="key:620775212:228830419" value="Your skill as a tracker allows you to find a path for you and your Fellowship to Rivendell. This skill is easily interrupted. Requires rations which may be acquired from Provisioners."/>
+<label key="key:620775214:228830419" value="Your skill as a tracker allows you to detect the presence of nearby beasts and other natural creatures."/>
+<label key="key:620775217:228830419" value="Your skill as a tracker allows you to detect the presence of nearby orcs, trolls, giants, and evil men or dwarves."/>
+<label key="key:620775219:228830419" value="Your skill as a tracker allows you to detect the presence of the dead, the unseen, and ancient evil."/>
+<label key="key:620775221:228830419" value="You have the ability to blend into your surroundings, making it difficult for your foes to detect you so long as you remain still."/>
+<label key="key:620775223:228830419" value="You mimic the cry of a predatory animal, causing an enemy beast to run in fear."/>
+<label key="key:620775224:228830419" value="Before combat, you may rapidly increase your Focus. Focus is required to use some bow skills and is lost if you move."/>
+<label key="key:620775226:228830419" value="You take a stance which decreases the possibility that your enemies will avoid your shots. While in Precision Stance, your Quick Shot has an increased chance to score Critical Hits."/>
+<label key="key:620775228:228830419" value="You take a stance which increases the damage of your shots, while increasing the Power cost and draws the enemy's attention to yourself. While in Strength Stance, your Quick Shot will slow your enemy's movement."/>
+<label key="key:620775232:228830419" value="You take a stance which decreases the Power cost and reduces the chance that your enemy's attention will turn to you. While in Endurance Stance, your Quick Shot does not draw as much attention as it normally does."/>
+<label key="key:620775233:228830419" value="You take a stance which decreases the Power cost and reduces the chance that your enemy's attention will turn to you. While in Endurance Stance, your Quick Shot does not draw as much attention as it normally does."/>
+<label key="key:620775240:228830419" value="This grants you a short ranged attack."/>
+<label key="key:620775249:228830419" value="Your skill as a hobbit allows you to find a path back to The Shire. This skill is easily interrupted."/>
+<label key="key:620775253:228830419" value="You can raise your Fellowship's Hope value through good old-fashioned hobbit-cheer. This does not stack with other Hope buffs."/>
+<label key="key:620775258:228830419" value="Although untrained, you have the natural ability to move about unseen, though there is a chance enemies may detect you, especially when moving in front of them."/>
+<label key="key:620775262:228830419" value="You can lie prone in complete silence, causing enemies to ignore you."/>
+<label key="key:620775272:228830419" value="You make a stiff punch at your enemy."/>
+<label key="key:620775281:228830419" value="This enables you to quickly return to Bree. This skill is easily interrupted."/>
+<label key="key:620775285:228830419" value="You provide a bonus to your Fellowship's Morale."/>
+<label key="key:620775292:228830419" value="In combat, the Race of Man is known for its unquenchable spirit.  This skill restores lost morale."/>
+<label key="key:620775301:228830419" value="Although untrained, you have the natural ability to move about unseen, though there is a chance enemies may detect you, especially when moving in front of them."/>
+<label key="key:620775310:228830419" value="This enables you to quickly return to Rivendell. This skill is easily interrupted."/>
+<label key="key:620775314:228830419" value="With the speed and grace of the Eldar, you can put up a strong parry defence."/>
+<label key="key:620775320:228830419" value="You provide a bonus to your Fellowship's Power."/>
+<label key="key:620775328:228830419" value="Allows you to smash an enemy with your head for damage."/>
+<label key="key:620775337:228830419" value="This enables you to quickly return to Thorin's Gate. This skill is easily interrupted."/>
+<label key="key:620775341:228830419" value="For a short amount of time, you can withstand blows that would batter a weaker race's Morale into dust."/>
+<label key="key:620775345:228830419" value="You provide a bonus to your Fellowship's Vitality."/>
+<label key="key:620775380:228830419" value="Two fast attacks on your target."/>
+<label key="key:620775381:228830419" value="A sweeping cut that can damage multiple targets in front of you."/>
+<label key="key:620775382:228830419" value="A destructive attack, weakening the target's armour."/>
+<label key="key:620775383:228830419" value="When your target has less than half of their morale, you can make an extremely damaging attack with an increased chance to critical. This skill will consume all your remaining power."/>
+<label key="key:620775384:228830419" value="You throw dust into the air around, blinding nearby foes."/>
+<label key="key:620775386:228830419" value="The sight of your opponents falling before you catapults you into an empowering rage, giving you burst of healing and increasing damage dealt and taken."/>
+<label key="key:620775389:228830419" value="Auto-attack when dual-wielding one-handed weapons."/>
+<label key="key:620775396:228830419" value="You pull on your bow and loose an arrow."/>
+<label key="key:620775397:228830419" value="You loose several arrows, carved and crafted to howl as they fly through the air, dealing shadow damage."/>
+<label key="key:620775398:228830419" value="A sharpened arrow that can pierce armour."/>
+<label key="key:620775399:228830419" value="A shaft aimed to slow the movement of your quarry."/>
+<label key="key:620775401:228830419" value="A sweeping cut that can damage multiple targets in front of you."/>
+<label key="key:620775402:228830419" value="You can better evade the attacks of your foes for a short period of time."/>
+<label key="key:620775404:228830419" value="Auto-attack when wielding only a single one-handed weapon."/>
+<label key="key:620775406:228830419" value="A ferocious and terrifying battle roar to weaken the certainty and morale of your foe."/>
+<label key="key:620775407:228830419" value="You swing your weapon at your foe."/>
+<label key="key:620775408:228830419" value="Your blistering derision shames your target to higher health."/>
+<label key="key:620775409:228830419" value="You bellow a harsh command, enabling up to 5 nearby and defeated allies to rise, albeit at very low health."/>
+<label key="key:620775411:228830419" value="You single out an ally to support and protect them in the midst of battle."/>
+<label key="key:620775413:228830419" value="When the fight has begun, your commanding aura allows your allies to fight more viciously."/>
+<label key="key:620775415:228830419" value="Auto-attack when wielding a one-handed weapon with a shield."/>
+<label key="key:620775417:228830419" value="An attack with your sharp talons deals damage and causes the target to bleed."/>
+<label key="key:620775418:228830419" value="A ranged attack which flings a painful contact poison at the target causing damage over time."/>
+<label key="key:620775419:228830419" value="A bite injecting a poison which weakens the target and can stun them if not cured."/>
+<label key="key:620775420:228830419" value="A ranged attack that targets the victim's legs with sticky webs, rooting them in place."/>
+<label key="key:620775422:228830419" value="You can cover your target's arms with sticky webbing, slowing their attacks."/>
+<label key="key:620775424:228830419" value="You can spit a crippling poison in a spray, hitting enemies in front of you up to a short distance away. This skill is only effective against players."/>
+<label key="key:620775425:228830419" value="You can burrow into the ground becoming invulnerable and hidden for a limited time."/>
+<label key="key:620775427:228830419" value="You attack with your sharp and piercing claws."/>
+<label key="key:620775428:228830419" value="With the element of surprise, your clawing attack is even more damaging."/>
+<label key="key:620775429:228830419" value="You leap at your target to distract them, interrupting actions they were performing. If the target was suffering from your crippling bite he is knocked down."/>
+<label key="key:620775432:228830419" value="Unseen till the last moment, you leap at your target and knock them down to the ground."/>
+<label key="key:620775433:228830419" value="You rip at your target's flesh, tearing muscle and slowing his attacks. If the target was suffering from your crippling bite he begins taking damage over time."/>
+<label key="key:620775435:228830419" value="A sharp snap of your jaws and your target's movement is slowed."/>
+<label key="key:620775436:228830419" value="You sink your teeth and rip, your target is silenced."/>
+<label key="key:620775437:228830419" value="A sudden burst of speed for catching prey, or to avoid becoming it."/>
+<label key="key:620775712:228830419" value="Auto-attack when not wielding a weapon in the primary hand."/>
+<label key="key:620775713:228830419" value="Auto-attack when wielding only a single one-handed weapon."/>
+<label key="key:620775802:228830419" value="Send your friends away!"/>
+<label key="key:620777560:228830419" value="A short song of courage removes fear effects and grants fear immunity to your entire Fellowship, as well as acting as a powerful heal over time."/>
+<label key="key:620782692:228830419" value="Your banner rallies the morale of your nearby companions."/>
+<label key="key:620782698:228830419" value="Your banner increases the power regeneration your nearby companions."/>
+<label key="key:620782701:228830419" value="Your banner inspires your nearby companions to greater feats of skill and strength."/>
+<label key="key:620782856:228830419" value="Auto-attack when wielding a bow."/>
+<label key="key:620788687:228830419" value="Empowered air swirls around your target, inflicting damage on any who strike it.  This skill cannot be used on yourself."/>
+<label key="key:620788755:228830419" value=".."/>
+<label key="key:620788756:228830419" value=".."/>
+<label key="key:620788757:228830419" value=".."/>
+<label key="key:620788773:228830419" value="An attack that makes up for a lack of elegance with brutal effectiveness."/>
+<label key="key:620788775:228830419" value="A basic ranged weapon attack."/>
+<label key="key:620788782:228830419" value="A sweeping cut that can damage multiple targets in front of the attacker."/>
+<label key="key:620788803:228830419" value="A basic, but effective cutting attack."/>
+<label key="key:620788806:228830419" value="Two quick attacks on your target."/>
+<label key="key:620789554:228830419" value="Your heroic actions inspire your fellows restoring their power, while sapping yours. This skill can only be played after defeating an enemy."/>
+<label key="key:620789555:228830419" value="Increases your parry rate.  This skill can only be played after defeating an enemy."/>
+<label key="key:620789558:228830419" value="Your threat generation and Power regeneration are increased at the expense of damage output."/>
+<label key="key:620789559:228830419" value="Adds a fervour pip when cast, and an additional fervour pip every 15 seconds. This skill can only be played after defeating an enemy."/>
+<label key="key:620790598:228830419" value="Send the chicken flying."/>
+<label key="key:620790614:228830419" value="Ranged auto-attack for Spider Weaver."/>
+<label key="key:620790667:228830419" value="Auto-attack when dual-unarmed attacking."/>
+<label key="key:620790668:228830419" value="Auto-attack when attacking with single unarmed attacks."/>
+<label key="key:620790894:228830419" value="This skill takes threat away from the Champion and gives it to a fellowship member."/>
+<label key="key:620790895:228830419" value="This skill takes threat away from a fellowship member and gives it to the Champion."/>
+<label key="key:620791512:228830419" value="This melee attack raises the Morale of your Shield-brother."/>
+<label key="key:620791515:228830419" value="This toggle marks one of your fellows as your Shield-brother, making them the target of some of your abilities."/>
+<label key="key:620791618:228830419" value="Auto-attack when wielding only a single one-handed weapon."/>
+<label key="key:620791619:228830419" value="Auto-attack when wielding a bow."/>
+<label key="key:620791657:228830419" value="A scattered people, the Rangers of the North are skilled at becoming unseen when they wish it."/>
+<label key="key:620791658:228830419" value="Although not capable of being invisible in the spirit world, Rangers are still known for disappearing from sight. For a short while your stealth is extremely effective."/>
+<label key="key:620791659:228830419" value="A ranger is both master of blade and bow.  This attack will knock down the opponent."/>
+<label key="key:620791661:228830419" value="Strength of morale can be called from the line of Elros even still in this dark time.  This will restore morale to the Ranger."/>
+<label key="key:620791672:228830419" value="When marked as a prey of one of the Dúnedain, their wrath is terrible.  This skill is the prerequisite of Fly True."/>
+<label key="key:620791673:228830419" value="This shot can only be used against those that bear the Dunedain Mark, but once marked, the enemy takes devastating damage.  This skill can only be used from stealth.  It will never miss against on-level creatures.  On a critical the target will take power damage as well."/>
+<label key="key:620791703:228830419" value="Your skill as a tracker allows you to find a path for you and your Fellowship to West Angmar. This skill is easily interrupted. Requires rations which may be acquired from Provisioners."/>
+<label key="key:620791705:228830419" value="Your skill as a tracker allows you to find a path for you and your Fellowship to East Angmar. This skill is easily interrupted. Requires rations which may be acquired from Provisioners."/>
+<label key="key:620791707:228830419" value="You can bind yourself to one of many camp sites scattered across the world. Then you can use your knowledge of the land to travel with your fellowship back to your current camp site. Requires rations which may be acquired from Provisioners."/>
+<label key="key:620791709:228830419" value="Your skill as a tracker allows you to find a path for you and your Fellowship to Ost Guruth in the Lonelands. This skill is easily interrupted. Requires rations which may be acquired from Provisioners."/>
+<label key="key:620791711:228830419" value="Your skill as a tracker allows you to find a path for you and your Fellowship to Michel Delving in the Shire. This skill is easily interrupted. Requires rations which may be acquired from Provisioners."/>
+<label key="key:620791713:228830419" value="Your skill as a tracker allows you to find a path for you and your Fellowship to Evendim. This skill is easily interrupted. Requires rations which may be acquired from Provisioners."/>
+<label key="key:620791716:228830419" value="This well thrown knife will root an in-bound target."/>
+<label key="key:620791717:228830419" value="These arrows will make the servant of the Eye burn."/>
+<label key="key:620791718:228830419" value="Taking great care and practiced aim, you prepare a shot to strike at your target's most vital weak spot. This shot will not miss, nor can your target parry, block, or evade it."/>
+<label key="key:620791719:228830419" value="You find strength in the land; devoting all your attention you can recover power swiftly in the midst of conflict. This skill is easily interrupted."/>
+<label key="key:620791968:228830419" value="Crush little annoying things. Sometimes, stun them. Sometimes, make them hurt long time."/>
+<label key="key:620791969:228830419" value="Swat the whiny little things so they fly away. Sometimes, they run slow after."/>
+<label key="key:620791970:228830419" value="Throw rock at far away things. Hurt things near far thing. Sometimes, make things bleed after."/>
+<label key="key:620791971:228830419" value="Quick 1h club auto-attack"/>
+<label key="key:620791972:228830419" value="Quick-ish stone from the ground attack"/>
+<label key="key:620791975:228830419" value="Hit small things twice. Sometimes, make things hit back slow."/>
+<label key="key:620791976:228830419" value="Bring foot up, put foot down, puny things fall over. Sometimes, things get hurt easier after."/>
+<label key="key:620791977:228830419" value="Pick up rock. Drop rock. Sometimes, hurt little things extra lots."/>
+<label key="key:620791978:228830419" value="Get angry. Hit harder. Hit faster. Not move so fast."/>
+<label key="key:620791995:228830419" value="Roar of rage. When is sometimes? Sometimes is next."/>
+<label key="key:620792025:228830419" value="This skill draws the attention of nearby monsters to the Hunter's Lure trap."/>
+<label key="key:620792096:228830419" value="Your wilderness knowledge allows you to prepare a snare for enemies which will slow them and cause them damage over time. The trap remains for 60 seconds after being placed. This skill is easily interrupted."/>
+<label key="key:620792674:228830419" value="You temporarily increase the offensive strength of your Shield-brother."/>
+<label key="key:620792675:228830419" value="You make a melee attack that interrupts any time-delayed actions your opponent is attempting."/>
+<label key="key:620792676:228830419" value="You inflict a blow that calls attention to yourself in battle.  When dealt to a foe bleeding from your Cutting Attack, your perceived threat is also raised."/>
+<label key="key:620792677:228830419" value="A well ordered withdrawal can aid the Captain in living through a harsh battle.  This skill lowers your threat to your opponents around you."/>
+<label key="key:620792679:228830419" value="You sacrifice some of your morale to gain the same effect as defeating an enemy and to put yourself in a Battle-readied State."/>
+<label key="key:620793044:228830419" value="This powerful melee attack has an increased chance to critical and inspires your fellows to invoke the Light of Elendil.  This skill can only be executed when you are in a Battle-hardened State."/>
+<label key="key:620793162:228830419" value="You are able to revive and protect a fallen companion with three quarters of their Morale and half of their Power."/>
+<label key="key:620793173:228830419" value="You enlist a Herald to carry your Banner of Victory into battle. This banner increases the maximum Power and in-combat Power regeneration of those around it."/>
+<label key="key:620793174:228830419" value="You enlist a Herald to carry your Banner of War into battle. This banner increases the Might and Agility of those around it."/>
+<label key="key:620793175:228830419" value="You enlist a Herald to carry your Banner of Hope into battle. This banner increases the maximum Morale and in-combat Morale regeneration of those around it."/>
+<label key="key:620793375:228830419" value="When active, nearby artifacts are displayed on the radar."/>
+<label key="key:620793376:228830419" value="A burst of speed can make the difference between freedom and flattened."/>
+<label key="key:620793377:228830419" value="Sometimes survival comes down to not being hit. Actually, most times."/>
+<label key="key:620793378:228830419" value="Nothing can escape your searching gaze. So long as it is a worm."/>
+<label key="key:620793379:228830419" value="Auto-attack when attacking with single unarmed attacks."/>
+<label key="key:620793501:228830419" value="Your reassuring presence increases the amount of Morale your Shield-brother recovers."/>
+<label key="key:620793907:228830419" value="Middle-Earth is a dangerous place. Sometimes it is good to be dead."/>
+<label key="key:620794584:228830419" value="This warband skill does direct melee damage to your target and can contribute to warband manoeuvres."/>
+<label key="key:620794613:228830419" value="You're not sure what, but something isn't right."/>
+<label key="key:620794614:228830419" value="The Lore-master heaves a glowing orb into the sky that detonates into an explosion of fireworks.  Up to three of the dead will then be stunned for 5 seconds and then mezzed for 10 seconds."/>
+<label key="key:620794627:228830419" value="Your knowledge of warding lore, enables you to create an area that is the bane of the chosen creature, creating a sanctified area where they will take more damage from tactical skills and have an increased miss chance.  This lasts for one minute."/>
+<label key="key:620794630:228830419" value="Your knowledge of warding lore, enables you to create an area that is the bane of the chosen creature, creating a sanctified area where they will take more damage from tactical skills and have an increased miss chance.  This lasts for one minute."/>
+<label key="key:620794631:228830419" value="Your knowledge of warding lore, enables you to create an area that is the bane of the chosen creature, creating a sanctified area where they will take more damage from tactical skills and have an increased miss chance.  This lasts for one minute."/>
+<label key="key:620794634:228830419" value="This allows the Lore-master to prepare a concoction of magnetized metal fillings and other obscure materials.  This makes wearing armor more difficult and heavily armored creatures irritated thereby rendering their armor ineffective."/>
+<label key="key:620794638:228830419" value="War-speech must be active to use this skill. You invoke the name of the Elder King, chief of the Valar, blasting a group of your foes and reducing their resistance to further attacks."/>
+<label key="key:620794639:228830419" value="You call out to a fellow, inspiring him to greatness."/>
+<label key="key:620794640:228830419" value="You call out to your fellows, encouraging them to greater effectiveness during Fellowship Manoeuvres."/>
+<label key="key:620794641:228830419" value="War-speech must be active to use this skill. Your rousing tales of the Second Age dishearten nearby foes and lighten the footsteps of your allies."/>
+<label key="key:620794642:228830419" value="You have mastered Lay of the Hammerhand well enough to bestow a lesser benefit upon an ally."/>
+<label key="key:620794643:228830419" value="This chant summons an Oathbreaker Blade to harry your foe.  When in War-speech, this chant is upgraded to Chorus of the Oathbreakers."/>
+<label key="key:620794644:228830419" value="This aura increases the Vitality and Wound Resistance of your Fellowship."/>
+<label key="key:620794645:228830419" value="This aura increases the Hope and Armour of your Fellowship."/>
+<label key="key:620794646:228830419" value="Your charismatic speech drives fear into the hearts of your enemies."/>
+<label key="key:620794647:228830419" value="The Lore-master smashes a vial of foul smelling sticky tar onto the ground causing an area that is 50% harder to move through, as well as making enemy creatures 10% more vulnerable to fire.  This area lasts for one minute."/>
+<label key="key:620794652:228830419" value="The Lore-master can smash his staff upon the ground, causing a thunderclap stunning creatures around him for 3 seconds and causing weak damage."/>
+<label key="key:620794716:228830419" value="This howl summons a pair of Oathbreaker Blades to harry your foe."/>
+<label key="key:620794960:228830419" value="The Lore-master summons a storm which attracts electrical energy to targets that have already been coated with the mixture of materials from Ancient Craft.  This bond of nature is difficult for the mortal races and is very demanding on the Lore-master's morale."/>
+<label key="key:620794980:228830419" value="This warband skill does direct ranged damage to your target, then transfers morale to you from your target and can contribute to warband manoeuvres."/>
+<label key="key:620795022:228830419" value="Strength Triplet"/>
+<label key="key:620795027:228830419" value="Conviction Triplet"/>
+<label key="key:620795034:228830419" value="Tactics Pair"/>
+<label key="key:620795045:228830419" value="Strength Quad"/>
+<label key="key:620795047:228830419" value="Conviction Quintuplet"/>
+<label key="key:620795060:228830419" value="Conviction Pair"/>
+<label key="key:620795063:228830419" value="Guile Ranged Pair"/>
+<label key="key:620795067:228830419" value="Strength Pair"/>
+<label key="key:620795079:228830419" value="Tactics Quituplet"/>
+<label key="key:620795083:228830419" value="Conviction Contribution"/>
+<label key="key:620795084:228830419" value="Guile Contribution"/>
+<label key="key:620795085:228830419" value="This warband skill does direct melee damage to your target, then morale over time and can contribute to warband manoeuvres."/>
+<label key="key:620795089:228830419" value="Guile Ranged Sextuplet"/>
+<label key="key:620795096:228830419" value="Tactics Quad"/>
+<label key="key:620795107:228830419" value="Strength Contribution"/>
+<label key="key:620795111:228830419" value="Guile Ranged Triplet"/>
+<label key="key:620795112:228830419" value="Guile Melee Triplet"/>
+<label key="key:620795113:228830419" value="Guile Ranged Quintuplet"/>
+<label key="key:620795117:228830419" value="Strength Sextuplet"/>
+<label key="key:620795126:228830419" value="This warband skill does direct melee damage to your target, then transfers power to you from your target and can contribute to warband manoeuvres."/>
+<label key="key:620795131:228830419" value="Guile Melee Pair"/>
+<label key="key:620795134:228830419" value="Tactics Sextuplet"/>
+<label key="key:620795149:228830419" value="Strength Sextuplet"/>
+<label key="key:620795167:228830419" value="This warband skill does direct ranged damage to your target, then transfers power to you from your target and can contribute to warband manoeuvres."/>
+<label key="key:620795181:228830419" value="Tactics Contribution"/>
+<label key="key:620795192:228830419" value="Strength Quintuplet"/>
+<label key="key:620795222:228830419" value="Guile Melee Quad"/>
+<label key="key:620795223:228830419" value="Conviction Quad"/>
+<label key="key:620795224:228830419" value="Guile Contribution"/>
+<label key="key:620795228:228830419" value="Tactics Triplet"/>
+<label key="key:620795229:228830419" value="Conviction Sextuplet"/>
+<label key="key:620795233:228830419" value="Strength Pair"/>
+<label key="key:620795235:228830419" value="Guile Melee Quintuplet"/>
+<label key="key:620795243:228830419" value="Guile Melee Sextuplet"/>
+<label key="key:620795252:228830419" value="Guile Ranged Quad"/>
+<label key="key:620795253:228830419" value="This warband skill does direct ranged damage to your target, then morale over time and can contribute to warband manoeuvres."/>
+<label key="key:620795265:228830419" value="Strength Quintuplet"/>
+<label key="key:620795284:228830419" value="Strength Triplet"/>
+<label key="key:620795288:228830419" value="This warband skill does direct ranged damage to your target and can contribute to warband manoeuvres."/>
+<label key="key:620795300:228830419" value="Strength Quad"/>
+<label key="key:620795374:228830419" value="Your understanding of the speech of lynx allows you to call one to assist in your adventures."/>
+<label key="key:620795674:228830419" value="You strike a quick but potent chord, instantly recovering an ally's Morale."/>
+<label key="key:620795679:228830419" value="You perform a melody so irresistable that all Free Peoples who hear it cannot help but dance."/>
+<label key="key:620795817:228830419" value="This will scribe a manual to teach others to play the harp.  Doing so is much more taxing then training in person and requires a Blank Mentor Manual."/>
+<label key="key:620795820:228830419" value="When you enter Scribe Stance, you change your Mentor skills into Scribe Manual skills, allowing you to create manuals to teach instruments.  Scribing manuals is much more taxing then teaching in person, requires a Blank Mentor Manual, and will apply a 10 day cooldown to all Mentor skills."/>
+<label key="key:620795840:228830419" value="This will scribe a manual to teach others to play the cowbell.  Doing so is much more taxing then training in person and requires a Blank Mentor Manual."/>
+<label key="key:620795842:228830419" value="This will scribe a manual to teach others to play the drum.  Doing so is much more taxing then training in person and requires a Blank Mentor Manual."/>
+<label key="key:620795845:228830419" value="This will scribe a manual to teach others to play the flute.  Doing so is much more taxing then training in person and requires a Blank Mentor Manual."/>
+<label key="key:620795848:228830419" value="This will scribe a manual to teach others to play the horn.  Doing so is much more taxing then training in person and requires a Blank Mentor Manual."/>
+<label key="key:620795850:228830419" value="This will scribe a manual to teach others to play Moor cowbell.  Doing so is much more taxing then training in person and requires a Blank Mentor Manual."/>
+<label key="key:620795852:228830419" value="This will scribe a manual to teach others to play the theorbo.  Doing so is much more taxing then training in person and requires a Blank Mentor Manual."/>
+<label key="key:620795854:228830419" value="This will scribe a manual to teach others to play the  bagpipes.  Doing so is much more taxing then training in person and requires a Blank Mentor Manual."/>
+<label key="key:620795855:228830419" value="This will scribe a manual to teach others to play the clarinet.  Doing so is much more taxing then training in person and requires a Blank Mentor Manual."/>
+<label key="key:620795856:228830419" value="A massive attack that works only from stealth.  This skill has a high chance scoring a critical attack.  When attacking from behind this attack delivers more damage."/>
+<label key="key:620795857:228830419" value="An eye gouge and slash.  This skill works in a 60 degree front arc."/>
+<label key="key:620795858:228830419" value="The agile lynx darts from enemy to enemy slashing them with its claws in a forward 180 arc."/>
+<label key="key:620795893:228830419" value=".."/>
+<label key="key:620795895:228830419" value=".."/>
+<label key="key:620795923:228830419" value="Your understanding of the speech of bird allows you to call one to make the dark times a little brighter."/>
+<label key="key:620795926:228830419" value="Your understanding of the speech of cat allows you to call one to make the dark times a little brighter."/>
+<label key="key:620795928:228830419" value="Your understanding of the speech of dog allows you to call one to make the dark times a little brighter."/>
+<label key="key:620795930:228830419" value="Your understanding of the speech of fox allows you to call one to make the dark times a little brighter."/>
+<label key="key:620795932:228830419" value="Your understanding of the speech of frog allows you to call one to make the dark times a little brighter."/>
+<label key="key:620795934:228830419" value="Your understanding of the speech of rabbit allows you to call one to make the dark times a little brighter."/>
+<label key="key:620795936:228830419" value="Your understanding of the speech of snake allows you to call one to make the dark times a little brighter."/>
+<label key="key:620795938:228830419" value="Your understanding of the speech of cat allows you to call one to make the dark times a little brighter."/>
+<label key="key:620795997:228830419" value="Your understanding of the speech of turtle allows you to call one to make the dark times a little brighter."/>
+<label key="key:620796000:228830419" value="With some careful thought, the Lore-master can restore a fallen comrade to fighting trim, reviving a defeated ally at a small cost of fragrant herbs."/>
+<label key="key:620796467:228830419" value="Your teeth bite deeply of your foe, tearing a tendon and opening a chance for a warband manoeuver."/>
+<label key="key:620796468:228830419" value="A swift swipe meant for the eyes breaks your opponent's concentration."/>
+<label key="key:620796469:228830419" value="When the time comes to enter the fray it falls to the orcs to break battle lines. You gain a short immunity to root, stun and daze effects. Your speed increases for a brief period of time."/>
+<label key="key:620796471:228830419" value="When your target begins preparing an attack, you give them a swift punch to the gut to interrupt their preparation."/>
+<label key="key:620796472:228830419" value="Your knowledge of the enemy is so great that you can target vital organs with great efficacy."/>
+<label key="key:620796473:228830419" value="Your sight is so keen that you can keep a close eye on an enemy and never lose sight of them."/>
+<label key="key:620796475:228830419" value="Seeing a ranged opponent preparing an assault, you take careful aim and disrupt their attempts."/>
+<label key="key:620796476:228830419" value="A terrible banner strikes fear into your enemies and weakens their resolve."/>
+<label key="key:620796478:228830419" value="You spew soul words in the forgotten and vile language of Lugbûrz. The conviction and terror inherent in this speech weakens the heart of your enemy."/>
+<label key="key:620796479:228830419" value="You place a banner bearing the symbol of the mightiest orc tribe, the Krahjarn. All who stand near the banner draw strength from the symbol."/>
+<label key="key:620796481:228830419" value="Your webs can be used to create sticky areas on the ground that slow the movement of any enemy who dares cross them."/>
+<label key="key:620796483:228830419" value="Focusing all your energy on a single target you are able to overwhelm them beneath the weight of your webs opening the possibility of a fellowship manoeuver."/>
+<label key="key:620796484:228830419" value="A ranged attack delivering a small amount of damage and a host of eggs that could hatch!"/>
+<label key="key:620797239:228830419" value="This skill enables you to examine the weaknesses and strengths of certain creatures."/>
+<label key="key:620797423:228830419" value="You can instruct someone how to play the harp."/>
+<label key="key:620797598:228830419" value="You can instruct someone how to play the  bagpipes."/>
+<label key="key:620797599:228830419" value="You can instruct someone how to play the clarinet."/>
+<label key="key:620797600:228830419" value="You can instruct someone how to play the cowbell."/>
+<label key="key:620797601:228830419" value="You can instruct someone how to play the horn."/>
+<label key="key:620797602:228830419" value="You can instruct someone how to play Moor cowbell."/>
+<label key="key:620797603:228830419" value="You can instruct someone how to play the theorbo."/>
+<label key="key:620797604:228830419" value="You can instruct someone how to play the drum."/>
+<label key="key:620797605:228830419" value="You can instruct someone how to play the flute."/>
+<label key="key:620799391:228830419" value="Return quickly to your personal home. This skill is easily interrupted."/>
+<label key="key:620799393:228830419" value="Return quickly to your kinship's house. This skill is easily interrupted."/>
+<label key="key:620799546:228830419" value="This skill will cause the Eagle to break the induction of a target, they are fighting."/>
+</labels>

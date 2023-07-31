@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="UTF-8"?><labels locale="en">
+<label key="1879048232" value="Brigand Cave"/>
+<label key="1879048316" value="Thorin's Hall - The Great Hall"/>
+<label key="1879048317" value="Thorin's Hall - The Forging Hall"/>
+<label key="1879048637" value="Bûrzum Pushdug"/>
+<label key="1879048639" value="Morfil"/>
+<label key="1879049751" value="Goldberry's Spring"/>
+<label key="1879049794" value="Old Sweetgrass Farm"/>
+<label key="1879051682" value="Puddifoot's Fields"/>
+<label key="1879054247" value="Norbury Gates"/>
+<label key="1879054457" value="Gatson's South Fields"/>
+<label key="1879054464" value="Gurzlum"/>
+<label key="1879061169" value="Tham Gelair"/>
+<label key="1879061192" value="Wolf Den"/>
+<label key="1879063052" value="Landmark Test"/>
+<label key="1879063053" value="Landmark Test 2"/>
+<label key="1879063327" value="Seamia Test Landblock"/>
+<label key="1879063333" value="Rivergate Watch"/>
+<label key="1879063336" value="Mirkstone Tunnels"/>
+<label key="1879063339" value="Thrushstones"/>
+<label key="1879063340" value="Frerin's Court"/>
+<label key="1879063342" value="Thorin's Gates"/>
+<label key="1879063345" value="Orodost"/>
+<label key="1879063346" value="The Berghold"/>
+<label key="1879063347" value="Winterheight"/>
+<label key="1879063353" value="Silver Deep Mine"/>
+<label key="1879063357" value="Noglond"/>
+<label key="1879063359" value="Hunter's Notch"/>
+<label key="1879063361" value="Crookdell"/>
+<label key="1879063362" value="Clovenvale"/>
+<label key="1879063363" value="Southern Barricade"/>
+<label key="1879063364" value="Amon Thanc"/>
+<label key="1879063365" value="Northern Barricade"/>
+<label key="1879063369" value="Gondamon"/>
+<label key="1879063374" value="Limael's Vineyard"/>
+<label key="1879063375" value="Tum Agor"/>
+<label key="1879063376" value="Ringdale"/>
+<label key="1879063377" value="Dol Ringwest"/>
+<label key="1879063378" value="Nen Hilith"/>
+<label key="1879063379" value="Thrasi's Lodge"/>
+<label key="1879063380" value="The Grimwater"/>
+<label key="1879063381" value="Celondim"/>
+<label key="1879063387" value="Duillond"/>
+<label key="1879063390" value="Emyn Hoedh"/>
+<label key="1879063394" value="Kheledûl"/>
+<label key="1879063395" value="Kheledûl Docks"/>
+<label key="1879063396" value="Talath Ondren"/>
+<label key="1879063397" value="The Wardspire"/>
+<label key="1879063398" value="The Eastway"/>
+<label key="1879063399" value="The Rushock Gate"/>
+<label key="1879063400" value="Little Delving"/>
+<label key="1879063402" value="Downs Gate"/>
+<label key="1879063403" value="Needlehole"/>
+<label key="1879063410" value="Michel Delving"/>
+<label key="1879063413" value="Mathom-house"/>
+<label key="1879063416" value="South Fields"/>
+<label key="1879063418" value="Troll's Knoll"/>
+<label key="1879063419" value="Pinglade"/>
+<label key="1879063420" value="Southfarthing Gate"/>
+<label key="1879063421" value="Waymeet"/>
+<label key="1879063422" value="Dora Brownlock's Farm"/>
+<label key="1879063423" value="Lob's Grove"/>
+<label key="1879063424" value="Appledores"/>
+<label key="1879063426" value="Tuckborough"/>
+<label key="1879063428" value="Hobbiton"/>
+<label key="1879063429" value="Bywater Bridge"/>
+<label key="1879063431" value="The Grange"/>
+<label key="1879063432" value="Bag End"/>
+<label key="1879063433" value="The Party Tree"/>
+<label key="1879063435" value="Bear Dens"/>
+<label key="1879063436" value="The Great Willow"/>
+<label key="1879063438" value="Overhill"/>
+<label key="1879063439" value="Overhill Yards"/>
+<label key="1879063441" value="Bolestones"/>
+<label key="1879063442" value="Methel-stage"/>
+<label key="1879063443" value="Bywater"/>
+<label key="1879063444" value="Three Farthing Stone"/>
+<label key="1879063445" value="Tom Cotton's Farm"/>
+<label key="1879063447" value="Golfimbul's Hole"/>
+<label key="1879063448" value="Old Odo's Leaf-farm"/>
+<label key="1879063449" value="Frogmorton"/>
+<label key="1879063450" value="The Frogmoors"/>
+<label key="1879063452" value="Brockenborings"/>
+<label key="1879063454" value="Wellbridge"/>
+<label key="1879063455" value="Narrowcleeve"/>
+<label key="1879063459" value="Scary"/>
+<label key="1879063460" value="The Scrag-dells"/>
+<label key="1879063461" value="Woodhall"/>
+<label key="1879063462" value="Budgeford"/>
+<label key="1879063463" value="The Quarry"/>
+<label key="1879063464" value="Bamfurlong"/>
+<label key="1879063465" value="The Yale-height"/>
+<label key="1879063467" value="Stock"/>
+<label key="1879063468" value="Bridgefields Wall"/>
+<label key="1879063469" value="Bucklebury Ferry"/>
+<label key="1879063470" value="Stocktower"/>
+<label key="1879063471" value="Brandywine Bridge"/>
+<label key="1879063472" value="Girdley Island"/>
+<label key="1879063473" value="Brandy Hall"/>
+<label key="1879063474" value="Buckland Faire"/>
+<label key="1879063476" value="Crickhollow"/>
+<label key="1879063477" value="Newbury"/>
+<label key="1879063478" value="Buckland Gate"/>
+<label key="1879063479" value="Svalfang's Hut"/>
+<label key="1879063480" value="Toad Marsh"/>
+<label key="1879063482" value="Old Forest Tunnel"/>
+<label key="1879063483" value="Bonfire Glade"/>
+<label key="1879063484" value="Dire Glade"/>
+<label key="1879063485" value="Withywindle Crossing"/>
+<label key="1879063486" value="Old Muddyfoot's Hill"/>
+<label key="1879063487" value="Dark-paw Vale"/>
+<label key="1879063488" value="The Shifting Wood"/>
+<label key="1879063489" value="Bald Hill"/>
+<label key="1879063490" value="Outlaw's Haven"/>
+<label key="1879063491" value="Ost Barandor"/>
+<label key="1879063492" value="Tham Lorn"/>
+<label key="1879063493" value="The Evendim Gate"/>
+<label key="1879063494" value="Glírost"/>
+<label key="1879063495" value="Willow Glade"/>
+<label key="1879063496" value="The Shade Pool"/>
+<label key="1879063497" value="Abandoned Cottage"/>
+<label key="1879063498" value="The Broken Heart"/>
+<label key="1879063499" value="Old Man Willow"/>
+<label key="1879063500" value="Hillshire Ruins"/>
+<label key="1879063501" value="The Weaver's Den"/>
+<label key="1879063502" value="The Forlorn Glade"/>
+<label key="1879063504" value="Tom Bombadil's House"/>
+<label key="1879063505" value="Creaking Vale"/>
+<label key="1879063506" value="Angerwood"/>
+<label key="1879063507" value="Tomnoddy Corner"/>
+<label key="1879063508" value="Weeping Water"/>
+<label key="1879063509" value="Old Barrows Road"/>
+<label key="1879063510" value="East Forest Road"/>
+<label key="1879063512" value="Adso's Camp"/>
+<label key="1879063513" value="Haudh Eglan"/>
+<label key="1879063514" value="The Old Oak's Grave"/>
+<label key="1879063516" value="The Great Barrow"/>
+<label key="1879063517" value="Northern Barrows"/>
+<label key="1879063518" value="Brigand's Watch"/>
+<label key="1879063519" value="The Dead Spire"/>
+<label key="1879063520" value="The Barrow of Taradan"/>
+<label key="1879063521" value="Haudh Methernil"/>
+<label key="1879063522" value="Northern Barrows Pass"/>
+<label key="1879063523" value="Snarling Hollow"/>
+<label key="1879063524" value="Cirith Nûr Encampment"/>
+<label key="1879063525" value="Mincham's Camp"/>
+<label key="1879063527" value="The Barrow of Orron"/>
+<label key="1879063528" value="The Barrow of Ringdor"/>
+<label key="1879063529" value="The Quince Farmstead"/>
+<label key="1879063531" value="Ost Gorthad"/>
+<label key="1879063532" value="The Dead Man's Perch"/>
+<label key="1879063533" value="Greenway Crossing"/>
+<label key="1879063535" value="Dogwood's Farm"/>
+<label key="1879063536" value="Thornley's Work Site"/>
+<label key="1879063537" value="Trestlebridge Gate"/>
+<label key="1879063540" value="The Trestlespan"/>
+<label key="1879063541" value="Oldstones Gate"/>
+<label key="1879063542" value="Beggar's Alley"/>
+<label key="1879063543" value="Oldstone Ruins"/>
+<label key="1879063545" value="West Gate"/>
+<label key="1879063546" value="Windview Estate"/>
+<label key="1879063547" value="The Abandoned Graveyard"/>
+<label key="1879063548" value="Saeradan's Cabin"/>
+<label key="1879063549" value="The Old Greenway Fort"/>
+<label key="1879063550" value="Amon Raith"/>
+<label key="1879063552" value="Amon Amrûn"/>
+<label key="1879063553" value="Ost Nuaran"/>
+<label key="1879063554" value="Falconer's Tower"/>
+<label key="1879063555" value="Halecatch Lake"/>
+<label key="1879063556" value="The Stone Quarter"/>
+<label key="1879063557" value="Jasmine's Garden"/>
+<label key="1879063558" value="Mud Gate"/>
+<label key="1879063559" value="High Stair"/>
+<label key="1879063560" value="Scholar's Walk"/>
+<label key="1879063561" value="Ironmonger's Gate"/>
+<label key="1879063562" value="High Bridge"/>
+<label key="1879063563" value="Bree-town"/>
+<label key="1879063564" value="Inn Gate"/>
+<label key="1879063565" value="Scholar's Stair"/>
+<label key="1879063566" value="North Gate"/>
+<label key="1879063569" value="South-guard Ruins"/>
+<label key="1879063570" value="Bree-town Jail"/>
+<label key="1879063573" value="Bree-town Hall"/>
+<label key="1879063575" value="Market Square"/>
+<label key="1879063576" value="Trader's Gate"/>
+<label key="1879063577" value="Market Gate"/>
+<label key="1879063578" value="Low Gate"/>
+<label key="1879063579" value="The Prancing Pony"/>
+<label key="1879063580" value="Minas Vrûn"/>
+<label key="1879063581" value="Pierson's Farm"/>
+<label key="1879063582" value="South Gate"/>
+<label key="1879063583" value="Bill Ferny's House"/>
+<label key="1879063584" value="Woodsmen's Gate"/>
+<label key="1879063585" value="Combe Gate"/>
+<label key="1879063586" value="Nan Wathren Western Pass"/>
+<label key="1879063587" value="William Peake's Farm"/>
+<label key="1879063589" value="Staddle Gate"/>
+<label key="1879063590" value="Little Staddlemere"/>
+<label key="1879063591" value="Staddle"/>
+<label key="1879063592" value="Cartwell's House"/>
+<label key="1879063593" value="The Comb and Wattle Inn"/>
+<label key="1879063594" value="Combe"/>
+<label key="1879063598" value="Ost Baranor"/>
+<label key="1879063599" value="The Crumbled Court"/>
+<label key="1879063601" value="Combe North Gate"/>
+<label key="1879063602" value="Archet Gate"/>
+<label key="1879063603" value="Archet Jailyard"/>
+<label key="1879063604" value="Archet East Gate"/>
+<label key="1879063605" value="Archet"/>
+<label key="1879063607" value="Amlaith's Scar"/>
+<label key="1879063608" value="The Yellow Tree"/>
+<label key="1879063609" value="Gammy Boggs' Farm"/>
+<label key="1879063610" value="Widow Froghorn's Farm"/>
+<label key="1879063611" value="Big Staddlemere"/>
+<label key="1879063612" value="Staddle Falls"/>
+<label key="1879063613" value="Stump Field"/>
+<label key="1879063614" value="Sprigley's Farm"/>
+<label key="1879063615" value="Bronwe's Folly"/>
+<label key="1879063616" value="Old East Path"/>
+<label key="1879063617" value="Silverwell"/>
+<label key="1879063618" value="Eldo Swatmidge's Farm"/>
+<label key="1879063619" value="Combe Lumber Camp"/>
+<label key="1879063621" value="Hunting Lodge"/>
+<label key="1879063622" value="Nan Wathren"/>
+<label key="1879063623" value="Nathan Hodge's Farm"/>
+<label key="1879063624" value="Ost Lagoros"/>
+<label key="1879063625" value="Ost Galumar"/>
+<label key="1879063626" value="Hrizgur"/>
+<label key="1879063627" value="Wolf Den"/>
+<label key="1879063628" value="Blackwold's Roost"/>
+<label key="1879063629" value="Hîgropor"/>
+<label key="1879063630" value="Torthanns Camp"/>
+<label key="1879063631" value="Sunken Stones"/>
+<label key="1879063632" value="Woodsedge Ruins"/>
+<label key="1879063633" value="Nan Wathren Eastern Pass"/>
+<label key="1879063634" value="Gatson's Farm"/>
+<label key="1879063635" value="Thurûm"/>
+<label key="1879063636" value="Marshwater Fort"/>
+<label key="1879063637" value="Blackwold Headquarters"/>
+<label key="1879063639" value="Lin Giliath"/>
+<label key="1879063640" value="Kingsfell"/>
+<label key="1879063641" value="Othrikar"/>
+<label key="1879063643" value="Old Bauman's Farm"/>
+<label key="1879063644" value="Meluinen"/>
+<label key="1879063645" value="Goblinhole Ruins"/>
+<label key="1879063646" value="Merenost"/>
+<label key="1879063647" value="Kamskut"/>
+<label key="1879063648" value="Bindbale's Rest"/>
+<label key="1879063649" value="The Mustering Cave"/>
+<label key="1879063650" value="Midgewater Pass"/>
+<label key="1879063651" value="Dol Nendír"/>
+<label key="1879063652" value="The Snares"/>
+<label key="1879063656" value="Weatherway"/>
+<label key="1879063657" value="Esteldin"/>
+<label key="1879063660" value="The Forsaken Inn"/>
+<label key="1879063661" value="Ost Alagos"/>
+<label key="1879063667" value="Rusfold"/>
+<label key="1879063668" value="Aughaire"/>
+<label key="1879063669" value="Gondrinn"/>
+<label key="1879063670" value="Lehmä-koti"/>
+<label key="1879063674" value="Nád Nathair"/>
+<label key="1879063675" value="Barad Iachiant"/>
+<label key="1879063676" value="Weatherfoot"/>
+<label key="1879063677" value="Glumhallow"/>
+<label key="1879063678" value="Bleakrift"/>
+<label key="1879063679" value="Ost Laden"/>
+<label key="1879063680" value="Dol Dinen"/>
+<label key="1879063681" value="Fail-á-Khro"/>
+<label key="1879063682" value="Dûn Covád"/>
+<label key="1879063684" value="Weathertop"/>
+<label key="1879063685" value="Echad Sûl"/>
+<label key="1879063686" value="Hîsuk"/>
+<label key="1879063687" value="Skathmúr"/>
+<label key="1879063688" value="Duvairë"/>
+<label key="1879063689" value="Cairn of Honour"/>
+<label key="1879063690" value="Tûmat"/>
+<label key="1879063691" value="The Lornspan"/>
+<label key="1879063692" value="Rhunenlad"/>
+<label key="1879063693" value="Ost Crithlanc"/>
+<label key="1879063695" value="Mithrenost"/>
+<label key="1879063696" value="Bail Róva"/>
+<label key="1879063697" value="Tór Gailvin"/>
+<label key="1879063698" value="Donnvail"/>
+<label key="1879063701" value="Naerost"/>
+<label key="1879063702" value="Kar Lak"/>
+<label key="1879063703" value="Fashat Laug"/>
+<label key="1879063704" value="Tyrn Lhuig"/>
+<label key="1879063705" value="Thandobel"/>
+<label key="1879063706" value="Amon Ros"/>
+<label key="1879063707" value="Ost Cyrn"/>
+<label key="1879063708" value="Sálgaitë"/>
+<label key="1879063709" value="Bail Boglakh"/>
+<label key="1879063710" value="Ram Taltorth"/>
+<label key="1879063711" value="Anglanthir"/>
+<label key="1879063712" value="Nindor"/>
+<label key="1879063714" value="Ost Guruth"/>
+<label key="1879063716" value="Rammas Deluon"/>
+<label key="1879063717" value="Gurthlin"/>
+<label key="1879063718" value="Tornstones"/>
+<label key="1879063719" value="Bar Gorog"/>
+<label key="1879063720" value="Gwambar"/>
+<label key="1879063721" value="Bail Grundail"/>
+<label key="1879063722" value="Ost Haer"/>
+<label key="1879063723" value="Mor Maudhúl"/>
+<label key="1879063724" value="Gorthbar"/>
+<label key="1879063725" value="Bail Dílas"/>
+<label key="1879063726" value="Grimfens"/>
+<label key="1879063727" value="The Circle of Blood"/>
+<label key="1879063728" value="Barad Dhorn"/>
+<label key="1879063730" value="Agamaur"/>
+<label key="1879063731" value="Fervar"/>
+<label key="1879063732" value="Bail Cátharnakh"/>
+<label key="1879063733" value="Dol Vaeg"/>
+<label key="1879063734" value="Gabilshathûr"/>
+<label key="1879063735" value="The Outer Gates"/>
+<label key="1879063736" value="Ongbishúk"/>
+<label key="1879063737" value="Torech-i-Bogbereth"/>
+<label key="1879063738" value="Grishbalt"/>
+<label key="1879063739" value="Garth Agarwen"/>
+<label key="1879063740" value="Garth Agarwen Gate"/>
+<label key="1879063741" value="Gath Forthnír"/>
+<label key="1879063743" value="The Last Bridge"/>
+<label key="1879063744" value="Spring of the Red Maid"/>
+<label key="1879063745" value="Ivar's Crypt"/>
+<label key="1879063746" value="Fane of the Seven Sentinels"/>
+<label key="1879063747" value="Minas Maur"/>
+<label key="1879063748" value="Minas Agar"/>
+<label key="1879063749" value="Minas Caul"/>
+<label key="1879063750" value="Dâr-gazag"/>
+<label key="1879063753" value="Minas Angos"/>
+<label key="1879063754" value="Minas Dhem"/>
+<label key="1879063756" value="Dolroth"/>
+<label key="1879063757" value="Minas Deloth"/>
+<label key="1879063758" value="Minas Gularan"/>
+<label key="1879063759" value="Minas Nîr"/>
+<label key="1879063760" value="Ost Dúrgonn"/>
+<label key="1879063761" value="Gramsfoot"/>
+<label key="1879063764" value="Barachen's Camp"/>
+<label key="1879063765" value="Ost Belegram"/>
+<label key="1879063766" value="Hoarhallow"/>
+<label key="1879063767" value="Lugazag"/>
+<label key="1879063768" value="Minas Agor"/>
+<label key="1879063769" value="Barad Remmellad"/>
+<label key="1879063770" value="The Wovenvales"/>
+<label key="1879063771" value="Gate of Gath Uior"/>
+<label key="1879063772" value="The Stone-trolls' Glade"/>
+<label key="1879063773" value="Trapdoor Lair"/>
+<label key="1879063774" value="Grimwood Lumber Camp"/>
+<label key="1879063775" value="Tol Ascarnen"/>
+<label key="1879063776" value="Gladdalf"/>
+<label key="1879063777" value="Thorenhad"/>
+<label key="1879063780" value="Amon Varadh"/>
+<label key="1879063781" value="Isendeep"/>
+<label key="1879063782" value="Barad Glamgil"/>
+<label key="1879063783" value="Minas Ciliant"/>
+<label key="1879063784" value="Ost Chall"/>
+<label key="1879063785" value="Tirith Rhaw"/>
+<label key="1879063786" value="Drauglad"/>
+<label key="1879063787" value="Ost Thondol"/>
+<label key="1879063788" value="The Glamgil Falls"/>
+<label key="1879063789" value="Ost Brandras"/>
+<label key="1879063791" value="Glân Vraig"/>
+<label key="1879063794" value="Grothum"/>
+<label key="1879063795" value="Ost Ringdyr"/>
+<label key="1879063796" value="The Blooming Fens"/>
+<label key="1879063797" value="The Ford of Bruinen"/>
+<label key="1879063798" value="Taur Ornolf"/>
+<label key="1879063799" value="Amon Nendir"/>
+<label key="1879063800" value="The Gates of Imladris"/>
+<label key="1879063801" value="Elrond's Stables"/>
+<label key="1879063804" value="The Forges of Rivendell"/>
+<label key="1879063807" value="The Stonemere"/>
+<label key="1879063808" value="The Bridge of Rivendell"/>
+<label key="1879063809" value="The Market of Rivendell"/>
+<label key="1879063810" value="Imdolen"/>
+<label key="1879063811" value="The Spire of Meeting"/>
+<label key="1879063812" value="Hidhuinen"/>
+<label key="1879063813" value="Snárskrith Dell"/>
+<label key="1879063814" value="Iskeld's Lookout"/>
+<label key="1879063815" value="The Falls of Imladris"/>
+<label key="1879063818" value="The Haven of Orladion"/>
+<label key="1879063820" value="Glóin's Camp"/>
+<label key="1879063821" value="Stonecaller's Circle"/>
+<label key="1879063822" value="The Last Homely House"/>
+<label key="1879063825" value="Cirith Imladris"/>
+<label key="1879063826" value="The Bitter Stair"/>
+<label key="1879063827" value="Frosthyle Pond"/>
+<label key="1879063828" value="Nan Gongarag"/>
+<label key="1879063829" value="Whitcleft"/>
+<label key="1879063830" value="Imlad Norn"/>
+<label key="1879063831" value="Orod Laden"/>
+<label key="1879063832" value="Gabilazan"/>
+<label key="1879063833" value="Hríthur's Haven"/>
+<label key="1879063834" value="Caldwell Pool"/>
+<label key="1879063835" value="The Lornstone"/>
+<label key="1879063836" value="Rakhâs-bizar"/>
+<label key="1879063837" value="Eikhall Dale"/>
+<label key="1879063838" value="Pinnath Fenui"/>
+<label key="1879063839" value="Bergel's Notch"/>
+<label key="1879063840" value="Greybough End"/>
+<label key="1879063841" value="The Giant's Needle"/>
+<label key="1879063842" value="Iorbar"/>
+<label key="1879071966" value="Spire of Kheledûl"/>
+<label key="1879071975" value="Nan Dhelu"/>
+<label key="1879076119" value="Festival Grounds"/>
+<label key="1879078681" value="Everclear Lakes"/>
+<label key="1879079454" value="Skunkwoods Farm"/>
+<label key="1879084498" value="Free People's Camp"/>
+<label key="1879084532" value="Abandoned Elf-camp"/>
+<label key="1879084533" value="Sandson's Farm"/>
+<label key="1879084539" value="Longo Burrow's Farm"/>
+<label key="1879085053" value="Gate of Shadows"/>
+<label key="1879085541" value="Thorin's Hall - The Maker's Hall"/>
+<label key="1879085892" value="Thorin's Hall"/>
+<label key="1879086568" value="Candaith's Encampment"/>
+<label key="1879088174" value="Pearlina Gamgee's Residence"/>
+<label key="1879088900" value="Annúminas"/>
+<label key="1879088903" value="Tham Nambarth"/>
+<label key="1879088904" value="Tham Varan"/>
+<label key="1879088905" value="Ost Heryn"/>
+<label key="1879088906" value="Tham Andalath"/>
+<label key="1879088907" value="Tham Ornen"/>
+<label key="1879088908" value="Canadiach"/>
+<label key="1879088910" value="Tinnudir"/>
+<label key="1879088911" value="Tollobel"/>
+<label key="1879088912" value="The Bleakleaf Crest"/>
+<label key="1879088913" value="Stonecrop Tor"/>
+<label key="1879088914" value="Dwaling"/>
+<label key="1879088915" value="Oatbarton"/>
+<label key="1879088916" value="Bullroarer's Throat"/>
+<label key="1879088917" value="Whitshards"/>
+<label key="1879088918" value="Barad Tharsír"/>
+<label key="1879088919" value="The Sand-mounds"/>
+<label key="1879088920" value="Lithost"/>
+<label key="1879088921" value="High King's Crossing"/>
+<label key="1879088922" value="The Gloaming Falls"/>
+<label key="1879088923" value="Dol Haedír"/>
+<label key="1879088924" value="The Even-rills"/>
+<label key="1879088925" value="Swiftbrook"/>
+<label key="1879088926" value="The Eave-mere"/>
+<label key="1879088927" value="Barad Rath"/>
+<label key="1879088928" value="Nan Orngon"/>
+<label key="1879088929" value="Rantost"/>
+<label key="1879088930" value="Tûm Fuin"/>
+<label key="1879088931" value="Ost Forod"/>
+<label key="1879088932" value="Cirith Rhîw"/>
+<label key="1879088933" value="The Duskencleft"/>
+<label key="1879088934" value="Tham Habad"/>
+<label key="1879088935" value="Amon Môth"/>
+<label key="1879088936" value="The Twisted Grove"/>
+<label key="1879088937" value="The Eavespires"/>
+<label key="1879088938" value="Rushingdale"/>
+<label key="1879088939" value="Tham Sarch"/>
+<label key="1879088940" value="Tham Laegamon"/>
+<label key="1879088941" value="Arthobel"/>
+<label key="1879088943" value="Haudh Eärendur"/>
+<label key="1879088944" value="Haudh Elendur"/>
+<label key="1879088945" value="Haudh Valandur"/>
+<label key="1879088946" value="Haudh Elendil"/>
+<label key="1879088947" value="Haudh Tarondor"/>
+<label key="1879088948" value="Haudh Eldacar"/>
+<label key="1879088949" value="Haudh Tarcil"/>
+<label key="1879088950" value="Haudh Arantar"/>
+<label key="1879089179" value="Gorthost"/>
+<label key="1879090223" value="House Brumbar"/>
+<label key="1879092645" value="Adannon"/>
+<label key="1879092646" value="Ariant"/>
+<label key="1879092647" value="Port of Annúminas"/>
+<label key="1879092648" value="Gwaelband"/>
+<label key="1879092649" value="Clorhir"/>
+<label key="1879092650" value="Gaerannon"/>
+<label key="1879092651" value="Minathranc"/>
+<label key="1879092653" value="Echad Garthadir"/>
+<label key="1879092654" value="Menelband"/>
+<label key="1879092655" value="Tirband"/>
+<label key="1879093296" value="Imlad Gelair"/>
+<label key="1879093333" value="Sarnúr"/>
+<label key="1879096330" value="Crumbled Cellar"/>
+<label key="1879096331" value="Echad Candelleth"/>
+<label key="1879096332" value="Delossad"/>
+<label key="1879096333" value="Garbert's Cottage"/>
+<label key="1879096334" value="Echad Gauradan"/>
+<label key="1879096335" value="Cirith Ulunn"/>
+<label key="1879096336" value="Torech Ullug"/>
+<label key="1879096337" value="Eryn Singor"/>
+<label key="1879097609" value="War Steadings"/>
+<label key="1879097610" value="Eglanúr"/>
+<label key="1879097611" value="Thundergrot"/>
+<label key="1879097612" value="Slave Pens"/>
+<label key="1879097613" value="Gollum's Cave"/>
+<label key="1879097614" value="The Great Goblin's Den"/>
+<label key="1879097615" value="The Deep-fires"/>
+<label key="1879097616" value="Ghâshru"/>
+<label key="1879097617" value="Akûltot"/>
+<label key="1879097619" value="Writhenbores"/>
+<label key="1879097620" value="Dómstoll"/>
+<label key="1879097621" value="The Black Crack"/>
+<label key="1879097622" value="The Mountain's Throat"/>
+<label key="1879097623" value="Northtarn"/>
+<label key="1879097624" value="Erforgh Cleft"/>
+<label key="1879097625" value="Cirith Daur"/>
+<label key="1879097626" value="Men Helch"/>
+<label key="1879097627" value="Ceber Los"/>
+<label key="1879097628" value="Vindurhal"/>
+<label key="1879097629" value="Starkhath"/>
+<label key="1879097630" value="Hrimbarg"/>
+<label key="1879101655" value="Forgotten Monument"/>
+<label key="1879102216" value="Thorin's Hall Homesteads"/>
+<label key="1879102217" value="Shire Homesteads"/>
+<label key="1879102218" value="Falathlorn Homesteads"/>
+<label key="1879102219" value="Festival Grounds"/>
+<label key="1879102226" value="Iorelen's Camp"/>
+</labels>

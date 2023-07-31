@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><labels locale="en">
+<label key="1879054946" value="Scholar"/>
+<label key="1879055079" value="Metalsmith"/>
+<label key="1879055299" value="Jeweller"/>
+<label key="1879055477" value="Tailor"/>
+<label key="1879055778" value="Weaponsmith"/>
+<label key="1879055941" value="Woodworker"/>
+<label key="1879061252" value="Cook"/>
+<label key="1879062809" value="Armourer"/>
+<label key="1879062810" value="Explorer"/>
+<label key="1879062811" value="Armsman"/>
+<label key="1879062812" value="Tinker"/>
+<label key="1879062813" value="Yeoman"/>
+<label key="1879062814" value="Woodsman"/>
+<label key="1879062815" value="Historian"/>
+<label key="1879062816" value="Farmer"/>
+<label key="1879062817" value="Forester"/>
+<label key="1879062818" value="Prospector"/>
+<label key="key:620761097:54354734" value="Able to decipher long lost lore"/>
+<label key="key:620761183:54354734" value="Crafter of metal armours and shields."/>
+<label key="key:620761355:54354734" value="Creates rings and necklaces"/>
+<label key="key:620761490:54354734" value="Crafter of leather and other light armour"/>
+<label key="key:620761693:54354734" value="Crafter of fine metal weapons"/>
+<label key="key:620761812:54354734" value="Crafter of fine hafted weapons and bows"/>
+<label key="key:620766247:54354734" value="Cooks food and prepares beverages"/>
+<label key="key:620767730:54354734" value="An Armourer knows that all that stands between a good soul and the grave is often a thin sheet of metal."/>
+<label key="key:620767731:54354734" value="Miner and smelter of raw metals"/>
+<label key="key:620767765:54354734" value="These canny travellers know much of the lands of Middle-Earth and its resources."/>
+<label key="key:620767766:54354734" value="Gatherer of workable wood and treater of raw hides"/>
+<label key="key:620767796:54354734" value="An Armsman knows the many secrets of weaponry, and can craft almost any weapon imaginable."/>
+<label key="key:620767797:54354734" value="Fascinated by things intricate and beautiful, the Tinker seeks to create great things."/>
+<label key="key:620767798:54354734" value="Hard-working and knowledgeable about the land, a Yeoman is well versed in farming, cooking, and forestry."/>
+<label key="key:620767799:54354734" value="Farms fruits, vegetables and pipeweed."/>
+<label key="key:620767897:54354734" value="A Woodsman is trained to survive off the land, and make weapons from natural materials."/>
+<label key="key:620767898:54354734" value="Historians are the caretakers of lore and legend that the forces of light dare not forget."/>
+</labels>

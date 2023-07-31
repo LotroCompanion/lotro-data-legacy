@@ -1,0 +1,2943 @@
+<?xml version="1.0" encoding="UTF-8"?><labels locale="en">
+<label key="1879048290" value="Golodir"/>
+<label key="1879048413" value="Dwalin"/>
+<label key="1879048458" value="Reniolind"/>
+<label key="1879048485" value="Severin Wheeler"/>
+<label key="1879048487" value="Leland Underhill"/>
+<label key="1879048514" value="Sambrog"/>
+<label key="1879048549" value="Amdir"/>
+<label key="1879048550" value="Sara Oakheart"/>
+<label key="1879048551" value="Blackwold Guard"/>
+<label key="1879048552" value="Constable Underhill"/>
+<label key="1879048553" value="Blackwold Leader"/>
+<label key="1879048556" value="William Skunkwood"/>
+<label key="1879048578" value="Bounder Primstone"/>
+<label key="1879048579" value="Halros"/>
+<label key="1879049265" value="Skunkwood's Den-mother"/>
+<label key="1879049284" value="Jagger Jack"/>
+<label key="1879049343" value="Wolfhound"/>
+<label key="1879049566" value="Calder Cob"/>
+<label key="1879049567" value="Prisoner"/>
+<label key="1879049726" value="Durharna"/>
+<label key="1879049759" value="Grimbark"/>
+<label key="1879049786" value="Gnawing Rat"/>
+<label key="1879049787" value="Slimy River-slug"/>
+<label key="1879049841" value="Morin"/>
+<label key="1879049872" value="Gaunt War-singer"/>
+<label key="1879049895" value="Dour-root"/>
+<label key="1879049896" value="Neven"/>
+<label key="1879049897" value="Fearsome Murk-water"/>
+<label key="1879049934" value="Créoth Disciple"/>
+<label key="1879049954" value="Brudhraw"/>
+<label key="1879049964" value="Gloomleaf"/>
+<label key="1879050001" value="Bûb-hosh"/>
+<label key="1879050002" value="Muz"/>
+<label key="1879050003" value="Rigul"/>
+<label key="1879050004" value="Mountain-troll"/>
+<label key="1879050014" value="White Hand Messenger"/>
+<label key="1879050017" value="White Hand Archer"/>
+<label key="1879050020" value="White Hand Pillager"/>
+<label key="1879050021" value="Foul-arrow White Hand"/>
+<label key="1879050023" value="War-master Uzorr"/>
+<label key="1879050085" value="Tarkrîp Chieftain"/>
+<label key="1879050088" value="Tarkrîp Grunt"/>
+<label key="1879050089" value="Tarkrîp Prowler"/>
+<label key="1879050090" value="Tarkrîp Killer"/>
+<label key="1879050095" value="Southern Lieutenant"/>
+<label key="1879050096" value="Southern Leader"/>
+<label key="1879050107" value="Sharkey's Lieutenant"/>
+<label key="1879050111" value="Ivar the Blood-hand"/>
+<label key="1879050176" value="Howling Yellowfang"/>
+<label key="1879050177" value="Lurking Yellowfang"/>
+<label key="1879050191" value="Pengail"/>
+<label key="1879050241" value="Summoned Servant"/>
+<label key="1879051336" value="Angered Tarkrîp"/>
+<label key="1879051337" value="Dreadful Tarkrîp"/>
+<label key="1879051340" value="Tarkrîp Slaughterer"/>
+<label key="1879051371" value="White Hand Guard"/>
+<label key="1879051372" value="White Hand Spear-thrower"/>
+<label key="1879051373" value="White Hand Thrasher"/>
+<label key="1879051398" value="Leofwenna"/>
+<label key="1879051412" value="Vile Moor-web"/>
+<label key="1879051413" value="Moor-web Weaver"/>
+<label key="1879051455" value="Gaunt Protector"/>
+<label key="1879051458" value="Reykur"/>
+<label key="1879051482" value="Summoned Wight"/>
+<label key="1879051673" value="Big Black-bear"/>
+<label key="1879051719" value="Walking-tree"/>
+<label key="1879051736" value="Polo Proudfoot"/>
+<label key="1879051773" value="Stone-troll"/>
+<label key="1879051788" value="Nos Grimsong"/>
+<label key="1879051797" value="Faerdamil"/>
+<label key="1879051985" value="Blackwold Spy"/>
+<label key="1879052059" value="Blackwold Mushroom-thief"/>
+<label key="1879052080" value="Driftclaw"/>
+<label key="1879052095" value="Narglup"/>
+<label key="1879052214" value="Lesser Giant Eagle"/>
+<label key="1879052250" value="Nazgûl"/>
+<label key="1879052271" value="Thunder Lord"/>
+<label key="1879052310" value="Grimgore"/>
+<label key="1879052402" value="Goblin Prowler"/>
+<label key="1879052462" value="Yellowfang"/>
+<label key="1879052470" value="Zorrgolug"/>
+<label key="1879052543" value="Caller of the Bog"/>
+<label key="1879052544" value="Taushakh"/>
+<label key="1879052580" value="Kalsak"/>
+<label key="1879052581" value="Trapdoor-spider Queen"/>
+<label key="1879052586" value="Trapdoor-spider"/>
+<label key="1879052587" value="Trapdoor-spider Lurker"/>
+<label key="1879052588" value="Trapdoor-spider Watcher"/>
+<label key="1879052612" value="Gurzmat"/>
+<label key="1879052630" value="Oathsworn Caller"/>
+<label key="1879052631" value="Oathsworn Archer"/>
+<label key="1879052632" value="Putrefied Oathsworn"/>
+<label key="1879052637" value="Snow-troll Mauler"/>
+<label key="1879052638" value="Snow-troll Heaver"/>
+<label key="1879052673" value="Desecrated Spirit"/>
+<label key="1879052740" value="Braigiar"/>
+<label key="1879052751" value="Champion of Minas Caul"/>
+<label key="1879052757" value="Champion of Minas Agar"/>
+<label key="1879052764" value="Champion of Minas Maur"/>
+<label key="1879052771" value="Champion of Minas Angos"/>
+<label key="1879052784" value="Garthamendir"/>
+<label key="1879052790" value="Commander Gisur"/>
+<label key="1879052799" value="Iron Crown Warrior"/>
+<label key="1879052800" value="Iron Crown Marksman"/>
+<label key="1879052811" value="Kol"/>
+<label key="1879052814" value="Catapult"/>
+<label key="1879052815" value="Siege Engine"/>
+<label key="1879052831" value="Avar"/>
+<label key="1879052983" value="Wood Ambusher"/>
+<label key="1879053076" value="Hogni Cleave-shank"/>
+<label key="1879053093" value="Fakhthal"/>
+<label key="1879053124" value="Aldis Oatbearer"/>
+<label key="1879053154" value="Ironbound Giant"/>
+<label key="1879053161" value="Iron Crown Messenger"/>
+<label key="1879053162" value="Iron Crown Runner"/>
+<label key="1879053164" value="The Keeper of Books"/>
+<label key="1879053169" value="Ferndúr the Virulent"/>
+<label key="1879053175" value="Ironbound Avenger"/>
+<label key="1879054113" value="Sorcerer Tath"/>
+<label key="1879054119" value="Enraged Fell-spirit"/>
+<label key="1879054128" value="The Beast"/>
+<label key="1879054149" value="Captain Shum-batar"/>
+<label key="1879054150" value="Captain Thorgal"/>
+<label key="1879054151" value="Captain Dombrî"/>
+<label key="1879054154" value="Hillmen Bondsman"/>
+<label key="1879054155" value="Hillmen Oathsworn"/>
+<label key="1879054163" value="Zanthrug"/>
+<label key="1879054169" value="Zaukîl"/>
+<label key="1879054174" value="Ongbúrz Combatant"/>
+<label key="1879054175" value="Ongbúrz Man-slayer"/>
+<label key="1879054176" value="Ongbúrz Battle-master"/>
+<label key="1879054180" value="Hillmen Plague-bearer"/>
+<label key="1879054189" value="Ongbúrz Skirmisher"/>
+<label key="1879054272" value="Crazed Stonehold"/>
+<label key="1879054273" value="Stonehold Spear-hurler"/>
+<label key="1879054276" value="Stonehold Chief"/>
+<label key="1879054331" value="Remmenaeg"/>
+<label key="1879054332" value="Brogadan"/>
+<label key="1879054333" value="Rhavameldir"/>
+<label key="1879054334" value="Megoriath"/>
+<label key="1879054350" value="Drukordh"/>
+<label key="1879054362" value="Dourhand Falconer"/>
+<label key="1879054363" value="Falconer Brúni"/>
+<label key="1879054373" value="Torfi Hammerhorn"/>
+<label key="1879054379" value="Dourhand Scout"/>
+<label key="1879054429" value="Ongbúrz Chieftain"/>
+<label key="1879054436" value="Kingsfell Spider-queen"/>
+<label key="1879054460" value="Alwin Walker"/>
+<label key="1879054463" value="Dead-aim Ongbúrz"/>
+<label key="1879054465" value="Grim Ongbúrz"/>
+<label key="1879054514" value="Juvenile Hoar-mantle"/>
+<label key="1879054515" value="Roving Hoar-mantle"/>
+<label key="1879054516" value="Strong Hoar-Mantle"/>
+<label key="1879054517" value="Docile Hoar-mantle"/>
+<label key="1879054518" value="Wandering Hoar-mantle"/>
+<label key="1879054519" value="Hoar-mantle Bull"/>
+<label key="1879054520" value="Young Hoar-mantle"/>
+<label key="1879054521" value="Defiant Hoar-mantle"/>
+<label key="1879054522" value="Fearsome Hoar-mantle"/>
+<label key="1879054524" value="Jarrko"/>
+<label key="1879054576" value="Helchgam"/>
+<label key="1879056864" value="Bogbereth"/>
+<label key="1879056870" value="Iron Crown Tamer"/>
+<label key="1879056893" value="Lhugrien"/>
+<label key="1879056929" value="Lagmâs"/>
+<label key="1879056947" value="War-master Ranghâsh"/>
+<label key="1879056952" value="Chieftain Nûlthauk"/>
+<label key="1879056964" value="Ongbúrz Warrior"/>
+<label key="1879056965" value="Ongbúrz Skirmisher"/>
+<label key="1879056966" value="Ongbúrz Captain"/>
+<label key="1879056968" value="Wicked Ongbúrz"/>
+<label key="1879056970" value="Ongbúrz Captain"/>
+<label key="1879057277" value="Dírdrë"/>
+<label key="1879057294" value="Dushkâl"/>
+<label key="1879057298" value="Barashal"/>
+<label key="1879057305" value="Hwati"/>
+<label key="1879057773" value="Great Gorthorog Champion"/>
+<label key="1879057774" value="Mighty Gorthorog Champion"/>
+<label key="1879057775" value="Deadly Gorthorog Champion"/>
+<label key="1879057777" value="Gorthorog Felwarden"/>
+<label key="1879057781" value="Khurrákh"/>
+<label key="1879057796" value="Lâmkarn"/>
+<label key="1879057809" value="Rauta-lehmä Warrior"/>
+<label key="1879057810" value="Rauta-lehmä Hunter"/>
+<label key="1879059570" value="Tarkrîp Defiler"/>
+<label key="1879059610" value="Lugbas"/>
+<label key="1879059669" value="Iron Crown Commander"/>
+<label key="1879059676" value="Mistress of Darkness"/>
+<label key="1879059682" value="Blogmal Fighter"/>
+<label key="1879059683" value="Blogmal Skirmisher"/>
+<label key="1879059696" value="Morroval"/>
+<label key="1879059738" value="Hillmen Scout"/>
+<label key="1879059739" value="Hillmen Raider"/>
+<label key="1879059740" value="Corcur Blood-vowed"/>
+<label key="1879059741" value="Hillmen Blood-dancer"/>
+<label key="1879059742" value="Hillmen Berserker"/>
+<label key="1879059743" value="Hillmen Sentry"/>
+<label key="1879059747" value="Chief Walraig"/>
+<label key="1879059758" value="Aidan"/>
+<label key="1879059804" value="Azgoth"/>
+<label key="1879059806" value="Wild Bloodfang"/>
+<label key="1879059815" value="Morroval Minion"/>
+<label key="1879059902" value="Raillug"/>
+<label key="1879059919" value="Tramug"/>
+<label key="1879059938" value="Zhurpukh of the Deeps"/>
+<label key="1879059939" value="Fair Sherman"/>
+<label key="1879059940" value="Morley the Fierce"/>
+<label key="1879059959" value="Giant Stone-breaker"/>
+<label key="1879059960" value="Giant Rock-thrower"/>
+<label key="1879059961" value="Giant Head-smasher"/>
+<label key="1879060009" value="Flesh-gnawer Spider"/>
+<label key="1879060010" value="Flesh-gnawer Watcher"/>
+<label key="1879060011" value="Flesh-gnawer Lurker"/>
+<label key="1879060040" value="Blighted Mountain-bear"/>
+<label key="1879060044" value="Gúrdring"/>
+<label key="1879060144" value="Shataz"/>
+<label key="1879060259" value="Commoner Herald"/>
+<label key="1879060272" value="Improved Herald of Victory"/>
+<label key="1879060273" value="Improved Herald of Victory"/>
+<label key="1879060274" value="Improved Herald of Victory"/>
+<label key="1879060281" value="Commoner Herald"/>
+<label key="1879060283" value="Herald of Victory"/>
+<label key="1879060285" value="Herald of Victory"/>
+<label key="1879060287" value="Herald of Victory"/>
+<label key="1879060353" value="Commoner Herald"/>
+<label key="1879060358" value="Improved Herald of War"/>
+<label key="1879060359" value="Improved Herald of War"/>
+<label key="1879060360" value="Improved Herald of War"/>
+<label key="1879060365" value="Commoner Herald"/>
+<label key="1879060367" value="Squire Herald"/>
+<label key="1879060369" value="Pilgrim Herald"/>
+<label key="1879060371" value="Man-at-arms Herald"/>
+<label key="1879060406" value="Commoner Herald"/>
+<label key="1879060412" value="Improved Herald of Hope"/>
+<label key="1879060413" value="Improved Herald of Hope"/>
+<label key="1879060414" value="Improved Herald of Hope"/>
+<label key="1879060419" value="Commoner Herald"/>
+<label key="1879060421" value="Herald of Hope"/>
+<label key="1879060423" value="Pilgrim Herald"/>
+<label key="1879060425" value="Herald of Hope"/>
+<label key="1879061049" value="Pampraush"/>
+<label key="1879061078" value="Master Mound-wight"/>
+<label key="1879061087" value="Madfurr"/>
+<label key="1879061088" value="Sukdyr"/>
+<label key="1879061089" value="Kulgurz"/>
+<label key="1879061110" value="Avorthal"/>
+<label key="1879061140" value="Dourhand Burglar"/>
+<label key="1879061152" value="Mound-wight"/>
+<label key="1879061153" value="Mound-wight Archer"/>
+<label key="1879061191" value="Jolly Smallburrow"/>
+<label key="1879061432" value="Greenfields Biter"/>
+<label key="1879061433" value="Greenfields Tree-weaver"/>
+<label key="1879061434" value="Greenfields Queen"/>
+<label key="1879061446" value="Laugfût"/>
+<label key="1879061484" value="Skíthi Blackhand"/>
+<label key="1879061487" value="Bersi"/>
+<label key="1879061494" value="Barrow-wight Slave"/>
+<label key="1879061497" value="Bone Man"/>
+<label key="1879061574" value="Rampaging Bristlehide"/>
+<label key="1879062055" value="Snagabash"/>
+<label key="1879062292" value="Old Bloodtusk"/>
+<label key="1879062323" value="Iornaith"/>
+<label key="1879062354" value="Dread Flame-worm"/>
+<label key="1879062355" value="Ulkrank"/>
+<label key="1879062371" value="Shadepaw"/>
+<label key="1879062442" value="Bárthr Dourhand"/>
+<label key="1879062491" value="Silent Yellowfang"/>
+<label key="1879062492" value="Yellowfang Leader"/>
+<label key="1879062493" value="Tense Yellowfang"/>
+<label key="1879062533" value="Blue-crag Spoiler"/>
+<label key="1879062534" value="Blue-crag Novice"/>
+<label key="1879062535" value="Blue-crag Trapper"/>
+<label key="1879062548" value="Vale Wildcat"/>
+<label key="1879062549" value="Vale Prowler"/>
+<label key="1879062554" value="Dourhand Warrior"/>
+<label key="1879062555" value="Sturdy Dourhand"/>
+<label key="1879062561" value="Lone Grey-wolf"/>
+<label key="1879062562" value="Grey-wolf Leader"/>
+<label key="1879062566" value="Menacing Thickjaw"/>
+<label key="1879062567" value="Young Thickjaw"/>
+<label key="1879062580" value="Hjortur"/>
+<label key="1879062675" value="Harmon Rushes"/>
+<label key="1879062798" value="Trampletusk"/>
+<label key="1879063046" value="Lalia"/>
+<label key="1879064558" value="Noble Spirit"/>
+<label key="1879072339" value="Chieftain Zabúrz"/>
+<label key="1879072340" value="Chieftain Arshu"/>
+<label key="1879072341" value="Chieftain Gádhup"/>
+<label key="1879072342" value="Chieftain Numhokarul"/>
+<label key="1879072345" value="Chieftain Taun"/>
+<label key="1879072346" value="Chieftain Pushi"/>
+<label key="1879072347" value="Chieftain Durflaguz"/>
+<label key="1879072348" value="Chieftain Karnbugúl"/>
+<label key="1879072351" value="Chieftain Fimfash"/>
+<label key="1879072352" value="Chieftain Shatog"/>
+<label key="1879072353" value="Chieftain Grazthluk"/>
+<label key="1879072354" value="Chieftain Gukhnúrz"/>
+<label key="1879072357" value="Tyrant Tharbîl"/>
+<label key="1879072358" value="Tyrant Barashish"/>
+<label key="1879072359" value="Tyrant Gundzor"/>
+<label key="1879072360" value="Tyrant Bûrzgoth"/>
+<label key="1879072361" value="Tyrant Trintrû"/>
+<label key="1879072362" value="Tyrant Durgrat"/>
+<label key="1879073184" value="Raven"/>
+<label key="1879073210" value="Bear"/>
+<label key="1879074051" value="DELETE ME"/>
+<label key="1879074081" value="Foraging Brown-bear"/>
+<label key="1879074093" value="Unmitigated Test Toad"/>
+<label key="1879074096" value="Mitigated Test Toad"/>
+<label key="1879074097" value="Flat Attacking Test Toad"/>
+<label key="1879074099" value="Swarm"/>
+<label key="1879074103" value="Normal"/>
+<label key="1879074104" value="Signature"/>
+<label key="1879074105" value="Elite"/>
+<label key="1879074106" value="Elite Master"/>
+<label key="1879074107" value="Nemesis"/>
+<label key="1879074108" value="PDFW Thematic"/>
+<label key="1879074109" value="PDFW Capable"/>
+<label key="1879074110" value="Thematic Poison Monster"/>
+<label key="1879074111" value="Thematic Disease Monster"/>
+<label key="1879074112" value="Thematic Fear Monster"/>
+<label key="1879074113" value="Thematic Wounds Monster"/>
+<label key="1879074114" value="Capable Poison Monster"/>
+<label key="1879074115" value="Capable Disease Monster"/>
+<label key="1879074116" value="Capable Fear Monster"/>
+<label key="1879074117" value="Capable Wounds Monster"/>
+<label key="1879074118" value="Loot-tastic"/>
+<label key="1879074119" value="LOS Detect Tester"/>
+<label key="1879074121" value="Test Guard"/>
+<label key="1879074135" value="Cat"/>
+<label key="1879074139" value="Fox"/>
+<label key="1879074142" value="Shrew"/>
+<label key="1879074145" value="Frog"/>
+<label key="1879074148" value="Sparrow"/>
+<label key="1879074151" value="Badger"/>
+<label key="1879074154" value="Squirrel"/>
+<label key="1879074157" value="Dog"/>
+<label key="1879074160" value="Puppy"/>
+<label key="1879074163" value="Snake"/>
+<label key="1879074166" value="Rat"/>
+<label key="1879074169" value="Hare"/>
+<label key="1879074172" value="Chicken"/>
+<label key="1879074175" value="Chicken"/>
+<label key="1879074178" value="Chicken"/>
+<label key="1879076094" value="Krithmog"/>
+<label key="1879076363" value="Escort Rat"/>
+<label key="1879076368" value="Warg Hunter"/>
+<label key="1879076369" value="Dire Warg"/>
+<label key="1879076370" value="Warg Stalker"/>
+<label key="1879076386" value="Giant Grey Stonehoof"/>
+<label key="1879076794" value="Frostmantle"/>
+<label key="1879076912" value="Drake Matron"/>
+<label key="1879076914" value="Cold-worm"/>
+<label key="1879076938" value="Hontimûrz"/>
+<label key="1879076939" value="Hontimûrz Guard"/>
+<label key="1879077030" value="Guardsman"/>
+<label key="1879077031" value="Dwarf-warrior"/>
+<label key="1879077032" value="Ranger"/>
+<label key="1879077119" value="Captain-General Harvestgain"/>
+<label key="1879077120" value="Captain-General Verdantine"/>
+<label key="1879077121" value="Captain-General Mákan"/>
+<label key="1879077122" value="Captain-General Meldún"/>
+<label key="1879077123" value="Captain-General Bordagor"/>
+<label key="1879077124" value="Captain-General Lainedhel"/>
+<label key="1879077127" value="First Marshal Morór"/>
+<label key="1879077128" value="First Marshal Dembent"/>
+<label key="1879077129" value="First Marshal Gorinn"/>
+<label key="1879077130" value="First Marshal Osmod"/>
+<label key="1879077246" value="Jarn-olog Ripper"/>
+<label key="1879077247" value="DELETE ME"/>
+<label key="1879077248" value="Tarkrîp Curse-hurler"/>
+<label key="1879077249" value="Tarkrîp Field-captain"/>
+<label key="1879077250" value="Tarkrîp Scourger"/>
+<label key="1879077251" value="Tarkrîp Berserker"/>
+<label key="1879077252" value="Tarkrîp Emissary"/>
+<label key="1879077286" value="Shornbeard Chief"/>
+<label key="1879077287" value="Shornbeard Outlaw"/>
+<label key="1879077288" value="Shornbeard Warrior"/>
+<label key="1879077291" value="Dourhand Overseer"/>
+<label key="1879077336" value="Chetwood Spinner"/>
+<label key="1879077339" value="Crazed Broadtooth"/>
+<label key="1879077340" value="Great Corpse-crawler"/>
+<label key="1879077341" value="Writhing Corpse-crawler"/>
+<label key="1879077342" value="Vatar"/>
+<label key="1879077349" value="Creeping Muck-crawler"/>
+<label key="1879077355" value="Blackwold Bowman"/>
+<label key="1879077356" value="Blackwold"/>
+<label key="1879077359" value="Blogmal Raider"/>
+<label key="1879077360" value="Blogmal Pillager"/>
+<label key="1879077361" value="Blogmal Warlord"/>
+<label key="1879077362" value="Warg Ruins-howler"/>
+<label key="1879077363" value="Warg Ruins-breaker"/>
+<label key="1879077364" value="Wrathful Dread-mist"/>
+<label key="1879077365" value="Horrid Dread-mist"/>
+<label key="1879077390" value="Cruel-beak Shrieker"/>
+<label key="1879077400" value="Deer"/>
+<label key="1879077403" value="White Hand Conscript"/>
+<label key="1879077418" value="Gramsfoot Waylayer"/>
+<label key="1879077419" value="Gramsfoot Scout"/>
+<label key="1879077420" value="Gramsfoot Hurler"/>
+<label key="1879077421" value="Stout Gramsfoot"/>
+<label key="1879077439" value="DELETE ME"/>
+<label key="1879077442" value="Twisted Bog-fly"/>
+<label key="1879077454" value="Fierce Black-bear"/>
+<label key="1879077460" value="Blue-crag Defender"/>
+<label key="1879077461" value="Blue-crag Stinger"/>
+<label key="1879077462" value="Blue-crag Goblin"/>
+<label key="1879077464" value="Blue-crag Slicer"/>
+<label key="1879077465" value="Blue-crag Hurler"/>
+<label key="1879077466" value="Blue-crag Shielder"/>
+<label key="1879077467" value="Blue-crag Demolisher"/>
+<label key="1879077468" value="Blue-crag Chief"/>
+<label key="1879077482" value="Sara Oakheart"/>
+<label key="1879077483" value="Cardavor"/>
+<label key="1879077486" value="Blue-crag Scrapper"/>
+<label key="1879077487" value="Blue-crag Sapper"/>
+<label key="1879077496" value="Gailthin"/>
+<label key="1879077497" value="Elf-hunter"/>
+<label key="1879077498" value="Longbeard"/>
+<label key="1879077499" value="Mathi Stouthand"/>
+<label key="1879077501" value="Elf-champion"/>
+<label key="1879077504" value="Athal"/>
+<label key="1879077516" value="Foul Milkeye"/>
+<label key="1879077517" value="Milkeye Burrower"/>
+<label key="1879077518" value="Biting Snow-spinner"/>
+<label key="1879077519" value="Snow-spinner Lurker"/>
+<label key="1879077520" value="Snow-spinner Queen"/>
+<label key="1879077521" value="Diseased Chill-wind"/>
+<label key="1879077525" value="Zanvras"/>
+<label key="1879077527" value="Naegarch"/>
+<label key="1879077531" value="Guard"/>
+<label key="1879077552" value="Blue-crag Defiler"/>
+<label key="1879077559" value="Wild Grey-wolf"/>
+<label key="1879077560" value="Restless Thicktusk"/>
+<label key="1879077561" value="Roaming Thicktusk"/>
+<label key="1879077562" value="Blue-crag Sentinel"/>
+<label key="1879077563" value="Blue-crag Gouger"/>
+<label key="1879077575" value="Howling Grey-wolf"/>
+<label key="1879077576" value="Vale-fly Pest"/>
+<label key="1879077577" value="Scurrying Harbour-rat"/>
+<label key="1879077582" value="Grey Hill Doe"/>
+<label key="1879077583" value="Black-footed Fox"/>
+<label key="1879077584" value="Mottled Hare"/>
+<label key="1879077585" value="Grey Hill Buck"/>
+<label key="1879077586" value="Bleakwind"/>
+<label key="1879077587" value="Decaying Barrow-wight"/>
+<label key="1879077588" value="Shambling Wight"/>
+<label key="1879077600" value="Foul Wriggler"/>
+<label key="1879077603" value="Foul Thicktusk"/>
+<label key="1879077604" value="Thicktusk Sow"/>
+<label key="1879077605" value="Troublesome Vale-fly"/>
+<label key="1879077641" value="Sentinel"/>
+<label key="1879077648" value="Sentinel"/>
+<label key="1879077661" value="Starkath"/>
+<label key="1879077664" value="Gryttur"/>
+<label key="1879077703" value="Buzzing Gnats"/>
+<label key="1879077704" value="Putrid Bog-slug"/>
+<label key="1879077705" value="Bog-toad"/>
+<label key="1879077719" value="Bounder"/>
+<label key="1879077759" value="Snarling Wolf"/>
+<label key="1879077760" value="Wolf Leader"/>
+<label key="1879077761" value="Biting Shrew"/>
+<label key="1879077762" value="Wild Tusker"/>
+<label key="1879077763" value="Angry Tusker"/>
+<label key="1879077774" value="Shire White-tail Doe"/>
+<label key="1879077775" value="Red Fox"/>
+<label key="1879077776" value="Red Squirrel"/>
+<label key="1879077778" value="Shire White-tail Buck"/>
+<label key="1879077790" value="Coney"/>
+<label key="1879077795" value="Thieving Shrew"/>
+<label key="1879077803" value="Scarred Wolf-leader"/>
+<label key="1879077804" value="Grim Maw"/>
+<label key="1879077808" value="Biting Gnats"/>
+<label key="1879077809" value="Reeking Bog-slug"/>
+<label key="1879077810" value="Dourhand Hunter"/>
+<label key="1879077811" value="Dourhand Trapper"/>
+<label key="1879077812" value="Dourhand Tracker"/>
+<label key="1879077824" value="Fibur Foul-heart"/>
+<label key="1879077825" value="Kranklúk"/>
+<label key="1879077826" value="Bogbull"/>
+<label key="1879077832" value="Ulfar"/>
+<label key="1879077837" value="Olwir"/>
+<label key="1879077848" value="Tawny Wood-bear"/>
+<label key="1879077849" value="Wood-bear Yearling"/>
+<label key="1879077850" value="Wild Broadtooth"/>
+<label key="1879077851" value="Restless Broadtooth"/>
+<label key="1879077852" value="Bindbole Spinner"/>
+<label key="1879077853" value="Bindbole Weaver"/>
+<label key="1879077855" value="Young Wood-bear"/>
+<label key="1879077856" value="Foraging Wood-bear"/>
+<label key="1879077858" value="Newborn Spider Hatchling"/>
+<label key="1879077863" value="Hill Tusker"/>
+<label key="1879077864" value="Prowling Wolf"/>
+<label key="1879077865" value="Mature Hill-bear"/>
+<label key="1879077866" value="Small Hill-bear"/>
+<label key="1879077867" value="Brigand Waylayer"/>
+<label key="1879077883" value="Zanshík"/>
+<label key="1879077884" value="Grishskum"/>
+<label key="1879077885" value="Old Broadpaw"/>
+<label key="1879077892" value="Rabbit"/>
+<label key="1879077894" value="Foraging Shrew"/>
+<label key="1879077895" value="Stinging Gnats"/>
+<label key="1879077896" value="Wild Hill-toad"/>
+<label key="1879077919" value="Angry Broadtooth"/>
+<label key="1879077920" value="Gramsfoot Piercer"/>
+<label key="1879077921" value="Gramsfoot Advancer"/>
+<label key="1879077926" value="Imbert Took"/>
+<label key="1879077927" value="Isembard Took II"/>
+<label key="1879077928" value="Angry Bees"/>
+<label key="1879077931" value="Old Sally"/>
+<label key="1879077932" value="Burrowing Shrew"/>
+<label key="1879077940" value="Gytha Lainey"/>
+<label key="1879077944" value="Roaming Warg"/>
+<label key="1879077945" value="Prowling Warg"/>
+<label key="1879077946" value="Laugzok"/>
+<label key="1879077948" value="Wood-bear Cub"/>
+<label key="1879077949" value="Wood-bear Mother"/>
+<label key="1879077994" value="Wild Gramsfoot"/>
+<label key="1879077996" value="Gramsfoot Hurler"/>
+<label key="1879077997" value="Gramsfoot Guard"/>
+<label key="1879077999" value="Gramsfoot Battler"/>
+<label key="1879078001" value="Gib Hawthorn"/>
+<label key="1879078003" value="Old Croaker"/>
+<label key="1879078005" value="Big Tom"/>
+<label key="1879078016" value="Brigand Knave"/>
+<label key="1879078023" value="Athglok"/>
+<label key="1879078025" value="Murúk"/>
+<label key="1879078028" value="Gramsfoot Defiler"/>
+<label key="1879078029" value="Gerebert Took"/>
+<label key="1879078030" value="Brigand Boss"/>
+<label key="1879078031" value="Brigand Robber"/>
+<label key="1879078032" value="Brigand Poacher"/>
+<label key="1879078042" value="Wood Spider"/>
+<label key="1879078043" value="Wood Weaver"/>
+<label key="1879078075" value="Lobelia the Toad"/>
+<label key="1879078076" value="Angry Hill-toad"/>
+<label key="1879078077" value="Pond Frog"/>
+<label key="1879078078" value="Ribbon Snake"/>
+<label key="1879078082" value="Long-grass Tusker"/>
+<label key="1879078083" value="Long-grass Swine"/>
+<label key="1879078084" value="Flitting Bat"/>
+<label key="1879078107" value="Badger"/>
+<label key="1879078108" value="Young Black-bear"/>
+<label key="1879078109" value="Mature Black-bear"/>
+<label key="1879078110" value="Elder Wolf"/>
+<label key="1879078111" value="Wolf Hunter"/>
+<label key="1879078116" value="Half-orc Trapper"/>
+<label key="1879078117" value="Half-orc Scoundrel"/>
+<label key="1879078118" value="Half-orc Leader"/>
+<label key="1879078142" value="Great Brown Bat"/>
+<label key="1879078144" value="Long-tooth Shrew"/>
+<label key="1879078148" value="Black-bear Cub"/>
+<label key="1879078149" value="Grass-stalker Tracker"/>
+<label key="1879078150" value="Dire Grass-stalker"/>
+<label key="1879078151" value="Bird"/>
+<label key="1879078152" value="Fox"/>
+<label key="1879078153" value="Squirrel"/>
+<label key="1879078160" value="Violet Underhill"/>
+<label key="1879078162" value="Small Harvest-fly"/>
+<label key="1879078163" value="Slippery Marish-slug"/>
+<label key="1879078166" value="Harvest-fly"/>
+<label key="1879078167" value="Wolf"/>
+<label key="1879078168" value="Bold Wolf"/>
+<label key="1879078190" value="Stolen Sheep"/>
+<label key="1879078210" value="Muck-glutton"/>
+<label key="1879078211" value="Crop-scourge"/>
+<label key="1879078216" value="Blackwold Provisioner"/>
+<label key="1879078234" value="Spotted Field Doe"/>
+<label key="1879078235" value="Red Squirrel"/>
+<label key="1879078236" value="Brown Fox"/>
+<label key="1879078238" value="Spotted Field Buck"/>
+<label key="1879078239" value="Brandy-hills Swine"/>
+<label key="1879078240" value="Splintertusk Mauler"/>
+<label key="1879078241" value="Brandy-hills Cub"/>
+<label key="1879078242" value="Brandy-hills Matron"/>
+<label key="1879078243" value="Brandy-hills Bear"/>
+<label key="1879078248" value="Brandy-woods Swine"/>
+<label key="1879078249" value="Roth the Ragged"/>
+<label key="1879078250" value="Brandy-woods Tusker"/>
+<label key="1879078251" value="Brandy-wood Cub"/>
+<label key="1879078252" value="Brandy-wood Matron"/>
+<label key="1879078253" value="Brandy-wood Bear"/>
+<label key="1879078303" value="Foul Field-slug"/>
+<label key="1879078305" value="Field Hare"/>
+<label key="1879078319" value="Slimy River-toad"/>
+<label key="1879078320" value="Large River-toad"/>
+<label key="1879078321" value="Burrowing River-toad"/>
+<label key="1879078338" value="Haunted Barren-Oak"/>
+<label key="1879078340" value="Fredegar Bolger"/>
+<label key="1879078341" value="Craban"/>
+<label key="1879078349" value="Scavenging Rat"/>
+<label key="1879078358" value="Knotwood"/>
+<label key="1879078360" value="Minnie Applegarth"/>
+<label key="1879078365" value="Barkshredder Sentinel"/>
+<label key="1879078366" value="Barkshredder Cub"/>
+<label key="1879078367" value="Barkshredder Yearling"/>
+<label key="1879078368" value="Barkshredder Mother"/>
+<label key="1879078373" value="Snarling Forest-hunter"/>
+<label key="1879078374" value="Elder Forest-hunter"/>
+<label key="1879078375" value="Flittering Gloom-wing"/>
+<label key="1879078376" value="Broken Oak-root"/>
+<label key="1879078388" value="Enraged Splintertusk"/>
+<label key="1879078389" value="Juvenile Bear"/>
+<label key="1879078390" value="Bear Mother"/>
+<label key="1879078391" value="Curious Bear"/>
+<label key="1879078394" value="Agitated Barkshredder"/>
+<label key="1879078395" value="Gloom-gaze"/>
+<label key="1879078396" value="Slimy Leaf-crawler"/>
+<label key="1879078397" value="Great Leaf-crawler"/>
+<label key="1879078402" value="Forest Web-weaver"/>
+<label key="1879078403" value="Forest Tree-spinner"/>
+<label key="1879078413" value="Shadowfoot"/>
+<label key="1879078422" value="Warped Oak"/>
+<label key="1879078423" value="Shrieking Gloom-wing"/>
+<label key="1879078424" value="Outcast Forest-hunter"/>
+<label key="1879078425" value="Large Forest-hunter"/>
+<label key="1879078426" value="Creeping Oak-root"/>
+<label key="1879078434" value="Southern Attacker"/>
+<label key="1879078435" value="Southern Poacher"/>
+<label key="1879078436" value="Southern Scout"/>
+<label key="1879078438" value="Southern Warrior"/>
+<label key="1879078439" value="Southern Bowman"/>
+<label key="1879078440" value="Southern Robber"/>
+<label key="1879078441" value="Southern Ruffian"/>
+<label key="1879078448" value="Chittering Gloom-wing"/>
+<label key="1879078453" value="Wildthorn"/>
+<label key="1879078455" value="Eitor-kalsak"/>
+<label key="1879078458" value="Grim Barren-oak"/>
+<label key="1879078469" value="Baleful Willow-root"/>
+<label key="1879078472" value="Gil Goatleaf"/>
+<label key="1879078474" value="Forest Biter"/>
+<label key="1879078475" value="Forest Trapper"/>
+<label key="1879078478" value="Lakes Bear"/>
+<label key="1879078479" value="Lakes Yearling"/>
+<label key="1879078480" value="Lakes Swine"/>
+<label key="1879078481" value="Lakes Tusker"/>
+<label key="1879078482" value="Lakes Wolf"/>
+<label key="1879078483" value="Lakes Packleader"/>
+<label key="1879078484" value="Blághorsha"/>
+<label key="1879078489" value="Fell Oak-root"/>
+<label key="1879078490" value="Twisted Barren-oak"/>
+<label key="1879078493" value="Forest Web-crawler"/>
+<label key="1879078494" value="Forest Shadow-queen"/>
+<label key="1879078495" value="Forest Tree-stalker"/>
+<label key="1879078505" value="Limbgirth"/>
+<label key="1879078508" value="Lakes Toad"/>
+<label key="1879078511" value="Twisted Dead-root"/>
+<label key="1879078522" value="Accursed Fell-spirit"/>
+<label key="1879078527" value="Vile Barghest"/>
+<label key="1879078528" value="Strong-grip Barghest"/>
+<label key="1879078529" value="Slimy Barrow-crawler"/>
+<label key="1879078530" value="Creeping Barrow-crawler"/>
+<label key="1879078531" value="Biting Field-rat"/>
+<label key="1879078532" value="Barrow-wight Warrior"/>
+<label key="1879078533" value="Barrow-wight Archer"/>
+<label key="1879078544" value="Angry Bear"/>
+<label key="1879078545" value="Large Barrow-crawler"/>
+<label key="1879078546" value="Great Barrow-crawler"/>
+<label key="1879078547" value="Wretched Barrow-maple"/>
+<label key="1879078548" value="Dreadful Barrow-maple"/>
+<label key="1879078555" value="Dourhand Rebel"/>
+<label key="1879078556" value="Dourhand Firebrand"/>
+<label key="1879078560" value="Andraste"/>
+<label key="1879078561" value="Craban Scout"/>
+<label key="1879078566" value="Noxious Barrow-wight"/>
+<label key="1879078568" value="Maribell Thistleway"/>
+<label key="1879078569" value="Blake"/>
+<label key="1879078616" value="Sambrog"/>
+<label key="1879078618" value="Gaerdring"/>
+<label key="1879078619" value="Thadúr the Ravager"/>
+<label key="1879078631" value="Eilert Crampbark"/>
+<label key="1879078633" value="Southern Footpad"/>
+<label key="1879078634" value="Southern Harridan"/>
+<label key="1879078635" value="Yellowtusk"/>
+<label key="1879078643" value="Adult Bear"/>
+<label key="1879078644" value="Young Bear"/>
+<label key="1879078645" value="Splintertusk Sow"/>
+<label key="1879078646" value="Fly-ridden Splintertusk"/>
+<label key="1879078647" value="Dusk-wolf Scavenger"/>
+<label key="1879078648" value="Bold Dusk-wolf"/>
+<label key="1879078658" value="Moringol"/>
+<label key="1879078660" value="Blackclaw"/>
+<label key="1879078666" value="Malin"/>
+<label key="1879078667" value="Foul Barghest"/>
+<label key="1879078668" value="Stout-grip Barghest"/>
+<label key="1879078669" value="Tainted Field-rat"/>
+<label key="1879078670" value="Barrow-wight"/>
+<label key="1879078671" value="Barrow-wight Marksman"/>
+<label key="1879078673" value="Wight-prince"/>
+<label key="1879078676" value="Foraging Bear"/>
+<label key="1879078677" value="Bear Yearling"/>
+<label key="1879078678" value="Rabid Splintertusk"/>
+<label key="1879078679" value="Angry Splintertusk"/>
+<label key="1879078684" value="Hungry Bear"/>
+<label key="1879078685" value="Bear Cub"/>
+<label key="1879078686" value="Young Dusk-wolf"/>
+<label key="1879078687" value="Dusk-wolf Leader"/>
+<label key="1879078694" value="Corintur"/>
+<label key="1879078698" value="Southern Hoodlum"/>
+<label key="1879078707" value="Restless Longtooth"/>
+<label key="1879078708" value="Frenzied Longtooth"/>
+<label key="1879078709" value="Southern Raider"/>
+<label key="1879078710" value="Southern Bowman"/>
+<label key="1879078711" value="Neeker-breeker Queen"/>
+<label key="1879078712" value="Biting Neeker-breeker"/>
+<label key="1879078713" value="Marsh Neeker-breeker"/>
+<label key="1879078722" value="Broodling"/>
+<label key="1879078729" value="Hilton Harper"/>
+<label key="1879078732" value="Blackwold Miscreant"/>
+<label key="1879078738" value="Robb Thornley"/>
+<label key="1879078740" value="Red Reaver"/>
+<label key="1879078743" value="Snagabur"/>
+<label key="1879078767" value="Guard"/>
+<label key="1879078770" value="Half-orc Ruffian"/>
+<label key="1879078771" value="Southern Blade-bearer"/>
+<label key="1879078772" value="Half-orc Bruiser"/>
+<label key="1879078775" value="Southern Archer"/>
+<label key="1879078776" value="Southern Brawler"/>
+<label key="1879078778" value="Southern Knave"/>
+<label key="1879078779" value="Southern Captain"/>
+<label key="1879078782" value="Southern Archer"/>
+<label key="1879078783" value="Half-orc-boss"/>
+<label key="1879078784" value="Half-orc Sentry"/>
+<label key="1879078785" value="Half-orc Fighter"/>
+<label key="1879078791" value="Patric Bilberry"/>
+<label key="1879078793" value="Snarler"/>
+<label key="1879078813" value="Brigand-informer"/>
+<label key="1879078859" value="Snapper Turtle"/>
+<label key="1879078896" value="Midgewater Sapper"/>
+<label key="1879078898" value="Gurzstâz"/>
+<label key="1879078899" value="Gurzrum"/>
+<label key="1879078929" value="Constable Bolger"/>
+<label key="1879078931" value="Blackwold Thief"/>
+<label key="1879078932" value="Vance Waithman"/>
+<label key="1879078965" value="Jasper Mudbottom"/>
+<label key="1879079013" value="Burle Pierson"/>
+<label key="1879079014" value="Blackwold Raider"/>
+<label key="1879079015" value="Blackwold Archer"/>
+<label key="1879079016" value="Cole Culvert"/>
+<label key="1879079021" value="Guard"/>
+<label key="1879079030" value="Blackwold Lookout"/>
+<label key="1879079043" value="Marsh Brood-watcher"/>
+<label key="1879079044" value="Marsh Queen"/>
+<label key="1879079045" value="Marsh Spider"/>
+<label key="1879079049" value="Rabid Bristlehide"/>
+<label key="1879079050" value="Adolescent Brown-bear"/>
+<label key="1879079051" value="Feral Brown-bear"/>
+<label key="1879079052" value="Masked Badger"/>
+<label key="1879079053" value="Mad Badger"/>
+<label key="1879079059" value="Chicken"/>
+<label key="1879079075" value="Sergeant Applewood"/>
+<label key="1879079078" value="Blackwold Supervisor"/>
+<label key="1879079097" value="Nazgûl"/>
+<label key="1879079098" value="Amdir"/>
+<label key="1879079099" value="Éogan"/>
+<label key="1879079103" value="Torthann"/>
+<label key="1879079108" value="Barrow-wight"/>
+<label key="1879079112" value="Blackwold Scout"/>
+<label key="1879079113" value="Blackwold Poacher"/>
+<label key="1879079114" value="Otto"/>
+<label key="1879079115" value="Thrashing Barrow-rat"/>
+<label key="1879079116" value="Blackwold Guard"/>
+<label key="1879079118" value="Blackwold Fighter"/>
+<label key="1879079119" value="Blackwold Cutthroat"/>
+<label key="1879079120" value="Blackwold Cutthroat"/>
+<label key="1879079121" value="Blackwold Enforcer"/>
+<label key="1879079122" value="Blackwold Guard"/>
+<label key="1879079123" value="Blackwold Fighter"/>
+<label key="1879079131" value="Blackwold Chieftain"/>
+<label key="1879079132" value="Blackwold Scout"/>
+<label key="1879079133" value="Blackwold Outlaw"/>
+<label key="1879079158" value="Blackwold Sergeant"/>
+<label key="1879079170" value="Mad Bristlehide"/>
+<label key="1879079171" value="Bristlehide Piglet"/>
+<label key="1879079175" value="Howling Dusk-wolf"/>
+<label key="1879079176" value="Maddened Dusk-wolf"/>
+<label key="1879079177" value="Diseased Bristlehide"/>
+<label key="1879079181" value="Sheep"/>
+<label key="1879079182" value="Archet Recruit"/>
+<label key="1879079183" value="Archet Recruit"/>
+<label key="1879079184" value="Dusk-wolf Runt"/>
+<label key="1879079186" value="Growling Dusk-wolf"/>
+<label key="1879079199" value="Blackwold Striker"/>
+<label key="1879079202" value="Tawny Brown-bear"/>
+<label key="1879079203" value="Chetwood Ambusher"/>
+<label key="1879079204" value="Chetwood Web-queen"/>
+<label key="1879079218" value="Otto"/>
+<label key="1879079220" value="Éogan"/>
+<label key="1879079243" value="Rat"/>
+<label key="1879079272" value="Blackwold Marksman"/>
+<label key="1879079273" value="Blackwold Lieutenant"/>
+<label key="1879079274" value="Blackwold Ruffian"/>
+<label key="1879079275" value="Blackwold Knave"/>
+<label key="1879079281" value="Mistpaw"/>
+<label key="1879079282" value="William Redcastle"/>
+<label key="1879079291" value="Brood Lurker"/>
+<label key="1879079292" value="Brood Weaver"/>
+<label key="1879079298" value="Brood Watcher"/>
+<label key="1879079301" value="Brood Hatchling"/>
+<label key="1879079302" value="Brood Ambusher"/>
+<label key="1879079305" value="Dun Neeker-breeker"/>
+<label key="1879079306" value="Neeker-breeker Burrower"/>
+<label key="1879079307" value="Greater Sickle-fly"/>
+<label key="1879079309" value="Midgewater Defender"/>
+<label key="1879079311" value="Midgewater Warrior"/>
+<label key="1879079312" value="Midgewater Scout"/>
+<label key="1879079313" value="Midgewater Frog"/>
+<label key="1879079314" value="Midgewater Snake"/>
+<label key="1879079335" value="Cole Sickleleaf"/>
+<label key="1879079360" value="Blackwold Hoodlum"/>
+<label key="1879079361" value="Blackwold Cutthroat"/>
+<label key="1879079386" value="Green Neeker-breeker"/>
+<label key="1879079387" value="Eye-biter"/>
+<label key="1879079388" value="Midge Swarm"/>
+<label key="1879079398" value="Feral Dusk-wolf"/>
+<label key="1879079399" value="Monstrous Dusk-wolf"/>
+<label key="1879079400" value="Blackwold Raider"/>
+<label key="1879079401" value="Chetwood Spider"/>
+<label key="1879079407" value="Blackwold Trapper"/>
+<label key="1879079408" value="Brigand-lieutenant"/>
+<label key="1879079410" value="Wolverine"/>
+<label key="1879079411" value="Craban Spy"/>
+<label key="1879079412" value="Sickle-fly"/>
+<label key="1879079413" value="Tarkrîp Sentinel"/>
+<label key="1879079414" value="Tarkrîp Scout"/>
+<label key="1879079415" value="Tarkrîp Invader"/>
+<label key="1879079429" value="Zau-gûjâb"/>
+<label key="1879079438" value="Captain Dogwood"/>
+<label key="1879079439" value="Blackwold Wolfhound"/>
+<label key="1879079440" value="Large Blackwold Wolfhound"/>
+<label key="1879079441" value="Broken-tusk Bristlehide"/>
+<label key="1879079443" value="Covell Woodwright"/>
+<label key="1879079448" value="Midgewater Chief"/>
+<label key="1879079451" value="Sickle-fly"/>
+<label key="1879079457" value="Skunkwood's Wolfhound"/>
+<label key="1879079460" value="Blackwold Wolf-keeper"/>
+<label key="1879079461" value="Baugarch"/>
+<label key="1879079462" value="Angmarim Warrior"/>
+<label key="1879079465" value="Warg Bone-chewer"/>
+<label key="1879079467" value="Broken-tusk Scrubrunner"/>
+<label key="1879079468" value="Long-tusk Scrubrunner"/>
+<label key="1879079480" value="Pecking Craban"/>
+<label key="1879079481" value="Chetwood Hunter"/>
+<label key="1879079482" value="Chetwood Stalker"/>
+<label key="1879079483" value="Half-orc Robber"/>
+<label key="1879079484" value="Half-orc Outlaw"/>
+<label key="1879079485" value="White Hand Invader"/>
+<label key="1879079489" value="Snagpaw"/>
+<label key="1879079491" value="Silt-toad"/>
+<label key="1879079492" value="Black Fly"/>
+<label key="1879079501" value="Chittering Rock-claw"/>
+<label key="1879079502" value="White Hand Grunt"/>
+<label key="1879079503" value="White Hand Warchief"/>
+<label key="1879079505" value="Alert White Hand"/>
+<label key="1879079519" value="Silver-neck Doe"/>
+<label key="1879079520" value="Lone-lands Fox"/>
+<label key="1879079521" value="Coney"/>
+<label key="1879079523" value="Silver-neck Buck"/>
+<label key="1879079545" value="Nishrûk"/>
+<label key="1879079550" value="Vicious Shattertusk"/>
+<label key="1879079553" value="Fugitive Captain"/>
+<label key="1879079554" value="Fugitive Bruiser"/>
+<label key="1879079555" value="Fugitive Ruffian"/>
+<label key="1879079556" value="Fugitive Scout"/>
+<label key="1879079560" value="Thorn-talon Sentry"/>
+<label key="1879079561" value="Thorn-talon Scout"/>
+<label key="1879079562" value="Maddened Shattertusk"/>
+<label key="1879079570" value="Moor-web Spinner"/>
+<label key="1879079571" value="White Hand Lobber"/>
+<label key="1879079577" value="Sharp-eye Lookout"/>
+<label key="1879079584" value="Warg Man-Flayer"/>
+<label key="1879079585" value="Warg Howler"/>
+<label key="1879079586" value="Moor-web Hunter"/>
+<label key="1879079587" value="White Hand Crusher"/>
+<label key="1879079588" value="White Hand Spearer"/>
+<label key="1879079589" value="White Hand Sapper"/>
+<label key="1879079590" value="White Hand Defender"/>
+<label key="1879079592" value="White Hand Chief"/>
+<label key="1879079593" value="Warg Blood-seeker"/>
+<label key="1879079594" value="Scrub-hunter Warg"/>
+<label key="1879079596" value="White Hand Ridge-fighter"/>
+<label key="1879079597" value="White Hand Strong-arm"/>
+<label key="1879079598" value="White Hand Fire-thrower"/>
+<label key="1879079599" value="White Hand Battler"/>
+<label key="1879079601" value="White Hand War-bringer"/>
+<label key="1879079610" value="White Hand Blademaster"/>
+<label key="1879079611" value="White Hand Sniper"/>
+<label key="1879079612" value="White Hand Orc"/>
+<label key="1879079615" value="Shapogatar"/>
+<label key="1879079617" value="Ironhide"/>
+<label key="1879079620" value="Tarkrîp Outrider"/>
+<label key="1879079621" value="Tarkrîp Battler"/>
+<label key="1879079625" value="Gorothrin"/>
+<label key="1879079627" value="Nurzúrz"/>
+<label key="1879079629" value="Asht"/>
+<label key="1879079638" value="Mangy Yellowfang"/>
+<label key="1879079639" value="Yellowfang Pack-leader"/>
+<label key="1879079641" value="Warg Foe-stalker"/>
+<label key="1879079642" value="White Hand Fire-thrower"/>
+<label key="1879079644" value="White Hand Warg-keeper"/>
+<label key="1879079647" value="Half-orc Fighter"/>
+<label key="1879079648" value="Half-orc Duster"/>
+<label key="1879079649" value="Half-orc Marksman"/>
+<label key="1879079650" value="Sharp-eye Scout"/>
+<label key="1879079653" value="Candaith"/>
+<label key="1879079655" value="Striped Squirrel"/>
+<label key="1879079660" value="White Hand Gourger"/>
+<label key="1879079663" value="White Hand Lookout"/>
+<label key="1879079664" value="White Hand Bow-master"/>
+<label key="1879079665" value="Throk-goth"/>
+<label key="1879079672" value="Candaith"/>
+<label key="1879079673" value="Sharp-eye Sentinel"/>
+<label key="1879079676" value="Sharp-eye  Watcher"/>
+<label key="1879079678" value="Gore-crow Lookout"/>
+<label key="1879079679" value="Gore-crow Watcher"/>
+<label key="1879079680" value="Brush Prowler"/>
+<label key="1879079681" value="Brush Hunter"/>
+<label key="1879079682" value="Half-orc Brute"/>
+<label key="1879079683" value="Half-orc Watchman"/>
+<label key="1879079701" value="Achathrin"/>
+<label key="1879079703" value="Shauk"/>
+<label key="1879079705" value="Skávarr"/>
+<label key="1879079707" value="Blugasht"/>
+<label key="1879079710" value="Skittering Ruin-web"/>
+<label key="1879079711" value="Half-orc Bandit"/>
+<label key="1879079713" value="Shornbeard Fighter"/>
+<label key="1879079714" value="Shornbeard Render"/>
+<label key="1879079715" value="Warg Scrub-stalker"/>
+<label key="1879079717" value="Half-orc Ruffian"/>
+<label key="1879079718" value="Half-orc Bruiser"/>
+<label key="1879079720" value="Half-orc Boss"/>
+<label key="1879079721" value="Half-orc Guard"/>
+<label key="1879079723" value="Half-orc Sentry"/>
+<label key="1879079726" value="Ruin-Web Hunter"/>
+<label key="1879079735" value="Ruin-web Weaver"/>
+<label key="1879079736" value="Ruin-web Spinner"/>
+<label key="1879079737" value="Ruin-web Ambusher"/>
+<label key="1879079738" value="Ruin-web Mother"/>
+<label key="1879079744" value="Tarkrîp Berserker"/>
+<label key="1879079751" value="Nasty Tarkrîp"/>
+<label key="1879079768" value="Ruin-web Trapper"/>
+<label key="1879079769" value="Tarkrîp Brawler"/>
+<label key="1879079770" value="Mosal-ruk's Enforcer"/>
+<label key="1879079771" value="Mosal-ruk"/>
+<label key="1879079772" value="Tarkrîp Fighter"/>
+<label key="1879079773" value="Mosal-ruk's Protector"/>
+<label key="1879079777" value="Slade Ransford"/>
+<label key="1879079781" value="Noxious Bog-warden"/>
+<label key="1879079782" value="Ancient Bog-warden"/>
+<label key="1879079784" value="Arthedain Guard"/>
+<label key="1879079785" value="Arthedain Soldier"/>
+<label key="1879079800" value="Bog-warden Archer"/>
+<label key="1879079801" value="Bog-lord"/>
+<label key="1879079802" value="Slimy Muck-crawler"/>
+<label key="1879079803" value="Bloated Muck-crawler"/>
+<label key="1879079806" value="Morfuin"/>
+<label key="1879079808" value="Kútotaz"/>
+<label key="1879079810" value="Balt-olog Heaver"/>
+<label key="1879079833" value="Sullen Wight"/>
+<label key="1879079834" value="Wailing Wight"/>
+<label key="1879079835" value="Grim Wight"/>
+<label key="1879079837" value="Gaunt War-singer"/>
+<label key="1879079838" value="Gaunt Blight-caller"/>
+<label key="1879079839" value="Malicious Gloom-water"/>
+<label key="1879079847" value="Corrupted Blood-maple"/>
+<label key="1879079848" value="Twisted Blood-oak"/>
+<label key="1879079850" value="Fell Bog-prowler"/>
+<label key="1879079851" value="Camouflaged Bog-prowler"/>
+<label key="1879079852" value="Creeping Red-root"/>
+<label key="1879079860" value="Summoned Root"/>
+<label key="1879079865" value="Bog-fly Hatcher"/>
+<label key="1879079867" value="Copper-back Bullfrog"/>
+<label key="1879079868" value="Bog Snake"/>
+<label key="1879079871" value="Earth-kin"/>
+<label key="1879079874" value="Foul Warg"/>
+<label key="1879079875" value="Gore-crow Sentinel"/>
+<label key="1879079876" value="Gore-crow Spotter"/>
+<label key="1879079877" value="Lethal Tarkrîp"/>
+<label key="1879079878" value="Tarkrîp Seeker"/>
+<label key="1879079884" value="Arthedain Guard"/>
+<label key="1879079885" value="Arthedain Soldier"/>
+<label key="1879079896" value="Vile Bog-prowler"/>
+<label key="1879079897" value="Bog-prowler Ambusher"/>
+<label key="1879079898" value="Twisted Swamp-norbog"/>
+<label key="1879079899" value="Swamp-norbog Burrower"/>
+<label key="1879079900" value="Ancient Bile-spewer"/>
+<label key="1879079901" value="Bile-spewer Marksman"/>
+<label key="1879079902" value="Deadly Bile-spewer"/>
+<label key="1879079906" value="Darkheart"/>
+<label key="1879079908" value="Naegradhir"/>
+<label key="1879079910" value="Styggur"/>
+<label key="1879079912" value="Joan Darkhand"/>
+<label key="1879079927" value="Wretched Gloom-water"/>
+<label key="1879079928" value="Créoth Faithful"/>
+<label key="1879079942" value="Balt-olog Crusher"/>
+<label key="1879079943" value="Balt-olog Master"/>
+<label key="1879079945" value="Bog-fly Hatchling"/>
+<label key="1879079946" value="Vicious Bog-neeker"/>
+<label key="1879079947" value="Bog-neeker Burrower"/>
+<label key="1879079948" value="Tarkrîp Bog-warrior"/>
+<label key="1879079949" value="Tarkrîp Servant"/>
+<label key="1879079953" value="Moss-back"/>
+<label key="1879079955" value="Klakki"/>
+<label key="1879079965" value="Vile Wight"/>
+<label key="1879079966" value="Wretched Wight"/>
+<label key="1879079967" value="Twisted Blood-maple"/>
+<label key="1879079968" value="Warped Blood-oak"/>
+<label key="1879079969" value="Defender of Ost Guruth"/>
+<label key="1879079970" value="Defender of Ost Guruth"/>
+<label key="1879079971" value="Grasping Hand"/>
+<label key="1879079977" value="Kraur"/>
+<label key="1879079979" value="Mosal-gurz"/>
+<label key="1879079983" value="Gaunt Blight-caller"/>
+<label key="1879079986" value="Fallen Red-soldier"/>
+<label key="1879079990" value="Créoth Novice"/>
+<label key="1879079991" value="Créoth Elder"/>
+<label key="1879079992" value="Dreadful Gloom-water"/>
+<label key="1879080010" value="Sturdy Long-tusk"/>
+<label key="1879080020" value="Maddened Beehive"/>
+<label key="1879080027" value="Fell Bog-prowler"/>
+<label key="1879080028" value="Lurking Bog-prowler"/>
+<label key="1879080029" value="Severed Arm"/>
+<label key="1879080030" value="Wretched Gloom-water"/>
+<label key="1879080031" value="Dreadful Gloom-water"/>
+<label key="1879080032" value="Thrashing Red-root"/>
+<label key="1879080033" value="Deadly Wight"/>
+<label key="1879080034" value="Twisted Wight"/>
+<label key="1879080044" value="Créoth Chieftain"/>
+<label key="1879080045" value="Dúnlang"/>
+<label key="1879080047" value="Raugzdrok"/>
+<label key="1879080049" value="Rot-heart"/>
+<label key="1879080051" value="Fell Wight"/>
+<label key="1879080052" value="Blogkritar"/>
+<label key="1879080055" value="Dreadful Gloom-water"/>
+<label key="1879080056" value="Malicious Gloom-water"/>
+<label key="1879080057" value="Créoth Initiate"/>
+<label key="1879080059" value="Créoth Leader"/>
+<label key="1879080060" value="Temair the Devoted"/>
+<label key="1879080061" value="Créoth Devout"/>
+<label key="1879080062" value="Wretched Gloom-water"/>
+<label key="1879080065" value="Créoth Warden"/>
+<label key="1879080066" value="Créoth Apprentice"/>
+<label key="1879080067" value="Créoth Servant"/>
+<label key="1879080078" value="Deadly Wight"/>
+<label key="1879080079" value="Twisted Wight"/>
+<label key="1879080080" value="Edan"/>
+<label key="1879080081" value="Esyld"/>
+<label key="1879080082" value="Grim Créoth"/>
+<label key="1879080096" value="Twisted Arm"/>
+<label key="1879080097" value="Twisted Wight"/>
+<label key="1879080098" value="Naruhel"/>
+<label key="1879080122" value="Twisted Wight"/>
+<label key="1879080123" value="Fell Wight"/>
+<label key="1879080124" value="Fallen Red-guard"/>
+<label key="1879080125" value="Despaired Banner-wight"/>
+<label key="1879080126" value="Wrathful Banner-wight"/>
+<label key="1879080127" value="Sara Oakheart"/>
+<label key="1879080140" value="Whiskerback Scavenger"/>
+<label key="1879080141" value="Elder Stonehoof"/>
+<label key="1879080142" value="Moor-fly Hatcher"/>
+<label key="1879080143" value="Whiskerback Digger"/>
+<label key="1879080147" value="Moor-stalker Scavenger"/>
+<label key="1879080148" value="Corrupt Darkclaw"/>
+<label key="1879080149" value="Snow-mantle Maverick"/>
+<label key="1879080150" value="Snow-mantle Cow"/>
+<label key="1879080151" value="Young Snow-mantle"/>
+<label key="1879080164" value="Curr-olog Scourge"/>
+<label key="1879080165" value="Curr-olog Hurler"/>
+<label key="1879080166" value="Corcur Blood-sworn"/>
+<label key="1879080167" value="Corcur Archer"/>
+<label key="1879080171" value="Tóki Whitebeard"/>
+<label key="1879080172" value="Monstrous Whiskerback"/>
+<label key="1879080184" value="Curr-olog Basher"/>
+<label key="1879080185" value="Blight-worm"/>
+<label key="1879080186" value="Burrowing Whiskerback"/>
+<label key="1879080187" value="Woodland Curr-olog"/>
+<label key="1879080188" value="Corrupt Wood-troll"/>
+<label key="1879080190" value="Curr-olog Hurler"/>
+<label key="1879080191" value="Curr-olog Mangler"/>
+<label key="1879080192" value="Curr-olog Ancient"/>
+<label key="1879080193" value="Stone-troll Brawler"/>
+<label key="1879080194" value="Stone-troll Lobber"/>
+<label key="1879080204" value="Stone-troll Chief"/>
+<label key="1879080215" value="Baushat"/>
+<label key="1879080216" value="Umling"/>
+<label key="1879080222" value="Bent Ash"/>
+<label key="1879080223" value="Bent Undergrowth"/>
+<label key="1879080224" value="Lukring Flesh-gnaw"/>
+<label key="1879080225" value="Hunting Vile-filth"/>
+<label key="1879080226" value="Hungry Mountain-bear"/>
+<label key="1879080227" value="Stinging Moor-fly"/>
+<label key="1879080228" value="Fell Wood-troll"/>
+<label key="1879080229" value="Mere-lurker Ambusher"/>
+<label key="1879080235" value="Vátair Grim-crow"/>
+<label key="1879080236" value="Stone-troll Bonegrinder"/>
+<label key="1879080237" value="Búth"/>
+<label key="1879080239" value="Stone-troll Wildarm"/>
+<label key="1879080242" value="Ongbúrz Bruiser"/>
+<label key="1879080246" value="Deadly Blight-worm"/>
+<label key="1879080247" value="Vile Corpse-rat"/>
+<label key="1879080248" value="Wight Dread-warrior"/>
+<label key="1879080249" value="Stone-crawler Devourer"/>
+<label key="1879080251" value="Twisted Wood-troll"/>
+<label key="1879080252" value="Peat-crawler"/>
+<label key="1879080258" value="Curr-olog Murderer"/>
+<label key="1879080259" value="Curr-olog Slaughterer"/>
+<label key="1879080260" value="Biting Corpse-rat"/>
+<label key="1879080261" value="Dark Mere-lurker"/>
+<label key="1879080262" value="Mangy Moor-stalker"/>
+<label key="1879080263" value="Moor-stalker Leader"/>
+<label key="1879080264" value="Skulking Corpse-rat"/>
+<label key="1879080265" value="Fierce Wood-troll"/>
+<label key="1879080266" value="Corrupted Fen-crawler"/>
+<label key="1879080267" value="Corrupted Undergrowth"/>
+<label key="1879080268" value="Blood-ash Sentinel"/>
+<label key="1879080276" value="Stone-troll Hurler"/>
+<label key="1879080277" value="Mountain-bear"/>
+<label key="1879080278" value="Writhing Stone-crawler"/>
+<label key="1879080279" value="Mountain-bear Protector"/>
+<label key="1879080281" value="Silent Moor-stalker"/>
+<label key="1879080282" value="Strong Snow-mantle"/>
+<label key="1879080283" value="Swift Crag-hawk"/>
+<label key="1879080284" value="Elder Moor-stalker"/>
+<label key="1879080285" value="Wandering Snow-mantle"/>
+<label key="1879080296" value="Steelmaw"/>
+<label key="1879080298" value="Gorthír"/>
+<label key="1879080299" value="Legolas"/>
+<label key="1879080302" value="Mountain-bear Whelp"/>
+<label key="1879080306" value="Spooked Moor-stalker"/>
+<label key="1879080308" value="Malloval"/>
+<label key="1879080309" value="Corcur Skirmisher"/>
+<label key="1879080310" value="Corcur Poisoner"/>
+<label key="1879080311" value="Wight Blight-caller"/>
+<label key="1879080313" value="Nazgûl"/>
+<label key="1879080315" value="Mountain Stalker"/>
+<label key="1879080318" value="Stone-troll Blighter"/>
+<label key="1879080319" value="Stone-troll Sentinel"/>
+<label key="1879080323" value="Karnasht"/>
+<label key="1879080325" value="Stone-troll Marrowbiter"/>
+<label key="1879080327" value="Stone-troll Flesheater"/>
+<label key="1879080330" value="Fen-crawler Binder"/>
+<label key="1879080331" value="Fen-crawler Stalker"/>
+<label key="1879080332" value="Undergrowth Tangler"/>
+<label key="1879080337" value="Vicious Mountain-bear"/>
+<label key="1879080338" value="Buzzing Moor-fly"/>
+<label key="1879080339" value="Moor Hunter"/>
+<label key="1879080341" value="Moor Prowler"/>
+<label key="1879080342" value="Great Stonehoof"/>
+<label key="1879080343" value="High-moor Badger"/>
+<label key="1879080355" value="Moor Stalker"/>
+<label key="1879080363" value="Windscreamer"/>
+<label key="1879080365" value="Galin"/>
+<label key="1879080367" value="Blighted Wood-troll"/>
+<label key="1879080368" value="Taushakh Sapling"/>
+<label key="1879080369" value="Curr-olog Thrower"/>
+<label key="1879080372" value="Arifael"/>
+<label key="1879080374" value="Chittering Darkclaw"/>
+<label key="1879080375" value="Clawing Rock-worm"/>
+<label key="1879080376" value="Maddened Mountain-drake"/>
+<label key="1879080380" value="Onodrim"/>
+<label key="1879080421" value="Snow-beast Hurler"/>
+<label key="1879080422" value="Elusive Snow-beast"/>
+<label key="1879080447" value="Large Snow-bear"/>
+<label key="1879080448" value="Snow-lurker"/>
+<label key="1879080449" value="Snowy Lynx"/>
+<label key="1879080450" value="Snow-mantle Bull"/>
+<label key="1879080451" value="Snow-mantle Matron"/>
+<label key="1879080453" value="Frodo"/>
+<label key="1879080467" value="Northern Plains Doe"/>
+<label key="1879080468" value="White-footed Fox"/>
+<label key="1879080469" value="Northern Squirrel"/>
+<label key="1879080470" value="Northern Plains Buck"/>
+<label key="1879080474" value="Snow-beast Rock-thrower"/>
+<label key="1879080475" value="Savage Snow-beast"/>
+<label key="1879080476" value="Wretched Rock-worm"/>
+<label key="1879080477" value="Corcur Blood-sworn"/>
+<label key="1879080478" value="Corcur Bowman"/>
+<label key="1879080480" value="White-footed Hare"/>
+<label key="1879080483" value="Driftmane"/>
+<label key="1879080492" value="Huge Snow-bear"/>
+<label key="1879080493" value="Deadly Crag-hawk"/>
+<label key="1879080494" value="Snowy Mammoth"/>
+<label key="1879080495" value="Mammoth Elder"/>
+<label key="1879080497" value="Gabilazan Guard"/>
+<label key="1879080498" value="Gabilazan Defender"/>
+<label key="1879080501" value="Curr-olog"/>
+<label key="1879080506" value="Frost-giant Elder"/>
+<label key="1879080507" value="Frost-giant Rockhurler"/>
+<label key="1879080508" value="Giant Snow-bear"/>
+<label key="1879080509" value="Mammoth Bull"/>
+<label key="1879080510" value="Frost Mammoth"/>
+<label key="1879080516" value="Gabilazan Lieutenant"/>
+<label key="1879080519" value="Gabilazan Captain"/>
+<label key="1879080520" value="Gimli"/>
+<label key="1879080523" value="Gabilazan Foreman"/>
+<label key="1879080530" value="Snowreap Shield-bearer"/>
+<label key="1879080531" value="Snowreap Skirmisher"/>
+<label key="1879080532" value="Snowreap Berserker"/>
+<label key="1879080533" value="Mountain Warg"/>
+<label key="1879080536" value="Shaggy Snow-mantle"/>
+<label key="1879080537" value="Rime Snow-mantle"/>
+<label key="1879080538" value="Mountain Pack-warg"/>
+<label key="1879080543" value="Skorgrím Dourhand"/>
+<label key="1879080545" value="Gabilazan Champion"/>
+<label key="1879080546" value="Fell-spirit"/>
+<label key="1879080560" value="Gundrágh"/>
+<label key="1879080561" value="Vindsval"/>
+<label key="1879080565" value="Bisil Blood-axe"/>
+<label key="1879080566" value="Hoartusk"/>
+<label key="1879080575" value="Kindle-maw"/>
+<label key="1879080587" value="Edward Putnam"/>
+<label key="1879080588" value="Tarkrîp Raider"/>
+<label key="1879080589" value="Tarkrîp Pillager"/>
+<label key="1879080590" value="Tarkrîp Raid-leader"/>
+<label key="1879080595" value="Goblin Scout"/>
+<label key="1879080596" value="Goblin Warrior"/>
+<label key="1879080598" value="Thieving Blackwold"/>
+<label key="1879080599" value="Tough Thieving Blackwold"/>
+<label key="1879080600" value="Holt Adderson"/>
+<label key="1879080601" value="Deadly Stone-crawler"/>
+<label key="1879080602" value="Fallen Champion"/>
+<label key="1879080603" value="Fallen Warrior"/>
+<label key="1879080618" value="Goblin Champion"/>
+<label key="1879080628" value="Kasak"/>
+<label key="1879080630" value="Sawtooth"/>
+<label key="1879080636" value="Reindeer"/>
+<label key="1879080637" value="Winter Fox"/>
+<label key="1879080638" value="Winter Squirrel"/>
+<label key="1879080639" value="Reindeer"/>
+<label key="1879080640" value="Winter Hare"/>
+<label key="1879080645" value="Soldier Súmtharb"/>
+<label key="1879080646" value="Soldier Dalgumthak"/>
+<label key="1879080647" value="Soldier Bagfra"/>
+<label key="1879080648" value="Soldier Dahámab"/>
+<label key="1879080649" value="Taskmaster Krul"/>
+<label key="1879080650" value="Taskmaster Kúf"/>
+<label key="1879080651" value="War-tyrant Akúlhun"/>
+<label key="1879080658" value="Goblin"/>
+<label key="1879080659" value="Goblin Scout"/>
+<label key="1879080660" value="Goblin Warrior"/>
+<label key="1879080661" value="Goblin Chief"/>
+<label key="1879080662" value="Young Aurochs"/>
+<label key="1879080666" value="Highland Cub"/>
+<label key="1879080667" value="Highland Prowler"/>
+<label key="1879080668" value="Young Cave-claw"/>
+<label key="1879080669" value="Juvenile Cave-claw"/>
+<label key="1879080671" value="Foul Blue-crag"/>
+<label key="1879080672" value="Blue-crag Crusher"/>
+<label key="1879080673" value="Blue-crag Stabber"/>
+<label key="1879080674" value="Blue-crag Warlord"/>
+<label key="1879080675" value="Young Aurochs"/>
+<label key="1879080678" value="Highland Wildcat"/>
+<label key="1879080679" value="Highland Hunter"/>
+<label key="1879080684" value="Grey Hill Doe"/>
+<label key="1879080685" value="Winter Fox"/>
+<label key="1879080686" value="Winter Squirrel"/>
+<label key="1879080687" value="Grey Hill Buck"/>
+<label key="1879080690" value="Dourhand Guard"/>
+<label key="1879080700" value="Mature Thickjaw"/>
+<label key="1879080701" value="Young Vale-bear"/>
+<label key="1879080702" value="Thickjaw Cub"/>
+<label key="1879080703" value="Vale-bear Mother"/>
+<label key="1879080704" value="Peaks Hendroval"/>
+<label key="1879080744" value="Wild Blue-crag"/>
+<label key="1879080745" value="Parzot"/>
+<label key="1879080748" value="Blue-crag Piercer"/>
+<label key="1879080749" value="Blue-crag Outrider"/>
+<label key="1879080750" value="Vale Hendroval"/>
+<label key="1879080754" value="Blue-crag Chieftain"/>
+<label key="1879080759" value="Silverclaw"/>
+<label key="1879080761" value="Vokvras"/>
+<label key="1879080789" value="Cave-claw Burrower"/>
+<label key="1879080821" value="Goblin-warrior"/>
+<label key="1879080834" value="Goblin-scout"/>
+<label key="1879080835" value="Goblin-guard"/>
+<label key="1879080836" value="Dourhand Dwarf"/>
+<label key="1879080863" value="Grimclaw Chill-wind"/>
+<label key="1879080869" value="Swiftfang"/>
+<label key="1879080871" value="Dour Ingo"/>
+<label key="1879080877" value="Dourhand Chief"/>
+<label key="1879080878" value="Shrieking Chill-wind"/>
+<label key="1879080904" value="Aglarchen"/>
+<label key="1879080909" value="Dourhand Armsman"/>
+<label key="1879080910" value="Stout Dourhand"/>
+<label key="1879080911" value="Dourhand Commander"/>
+<label key="1879080912" value="Large Hill-bear"/>
+<label key="1879080913" value="Hill-bear Cub"/>
+<label key="1879080914" value="Cliff Hendroval"/>
+<label key="1879080916" value="Grey Squirrel"/>
+<label key="1879080921" value="Langlas"/>
+<label key="1879080923" value="Hendroval Canopy-darter"/>
+<label key="1879080946" value="Lynx-mother"/>
+<label key="1879080957" value="Hakon Ironfist"/>
+<label key="1879080961" value="Great Hill-bear"/>
+<label key="1879080962" value="Young Hill-bear"/>
+<label key="1879080963" value="Snow-spinner Hunter"/>
+<label key="1879080964" value="Snow-spinner Trapper"/>
+<label key="1879080968" value="Skittering Snow-spinner"/>
+<label key="1879080969" value="Snow-spinner Ambusher"/>
+<label key="1879080970" value="Snow-spinner Mother"/>
+<label key="1879080971" value="Vicious Hill-bear"/>
+<label key="1879080972" value="Quicksilver Cave-crawler"/>
+<label key="1879080974" value="Umthul"/>
+<label key="1879080976" value="Azuzol"/>
+<label key="1879080990" value="Burzrít"/>
+<label key="1879080993" value="Dourhand Night-watch"/>
+<label key="1879080994" value="Murderous Dourhand"/>
+<label key="1879080995" value="Dourhand Strong-arm"/>
+<label key="1879080996" value="Dourhand Seafarer"/>
+<label key="1879081005" value="Avorthal"/>
+<label key="1879081006" value="Captain Volund"/>
+<label key="1879081011" value="Great River-toad"/>
+<label key="1879081012" value="Sickle-fly Queen"/>
+<label key="1879081017" value="Cruel-grip Barghest"/>
+<label key="1879081018" value="Dread Barghest"/>
+<label key="1879081019" value="Oath-breaker Marksman"/>
+<label key="1879081020" value="Villainous Oath-breaker"/>
+<label key="1879081021" value="Oath-breaker Chieftain"/>
+<label key="1879081022" value="Baleful Shadow-wing"/>
+<label key="1879081026" value="Olnathron"/>
+<label key="1879081028" value="Gaelos"/>
+<label key="1879081030" value="Durphadir"/>
+<label key="1879081043" value="Gaunt Shade-caller"/>
+<label key="1879081055" value="Idalene"/>
+<label key="1879081057" value="Sickly Doe"/>
+<label key="1879081058" value="Sickly Fox"/>
+<label key="1879081059" value="Sickly Rabbit"/>
+<label key="1879081060" value="Sickly Buck"/>
+<label key="1879081086" value="Blogmal Warlord"/>
+<label key="1879081090" value="Gajarpan"/>
+<label key="1879081092" value="Fearsome Rock-worm"/>
+<label key="1879081098" value="Riamul"/>
+<label key="1879081104" value="Blogmal Defiler"/>
+<label key="1879081118" value="Field-bear Cub"/>
+<label key="1879081119" value="Ancient Field-bear"/>
+<label key="1879081120" value="Ancient Hoar-Mantle"/>
+<label key="1879081121" value="Great Hoar-mantle"/>
+<label key="1879081122" value="Sickly Razortooth"/>
+<label key="1879081125" value="Violent Tarkrîp"/>
+<label key="1879081126" value="Tarkrîp Scrapper"/>
+<label key="1879081133" value="Wild Razortooth"/>
+<label key="1879081134" value="Maddened Razortooth"/>
+<label key="1879081135" value="Moor-stalker Scavenger"/>
+<label key="1879081136" value="Cruel-beak Sentry"/>
+<label key="1879081137" value="Wandering Cruel-beak"/>
+<label key="1879081138" value="Tarkrîp Raider"/>
+<label key="1879081139" value="Tarkrîp Picket"/>
+<label key="1879081153" value="Fell-grip Barghest"/>
+<label key="1879081154" value="Clawing Barghest"/>
+<label key="1879081155" value="Oath-breaker Archer"/>
+<label key="1879081156" value="Oath-breaker Coward"/>
+<label key="1879081157" value="Deadly Field-bear"/>
+<label key="1879081160" value="Dreadful Field-bear"/>
+<label key="1879081161" value="Maddened Field-bear"/>
+<label key="1879081162" value="Warg Stalker"/>
+<label key="1879081163" value="Ongbúrz Ravager"/>
+<label key="1879081164" value="Ongbúrz Warrior"/>
+<label key="1879081165" value="Warg Scavenger"/>
+<label key="1879081166" value="Ongbúrz Grunt"/>
+<label key="1879081167" value="Ongbúrz Scout"/>
+<label key="1879081170" value="Sara Oakheart"/>
+<label key="1879081171" value="Dwarf Prisoner"/>
+<label key="1879081172" value="Ranger Prisoner"/>
+<label key="1879081173" value="Elf Prisoner"/>
+<label key="1879081174" value="Elf Prisoner"/>
+<label key="1879081175" value="Man Prisoner"/>
+<label key="1879081176" value="Man Prisoner"/>
+<label key="1879081188" value="Blogmal Reaver"/>
+<label key="1879081189" value="Blogmal Pillager"/>
+<label key="1879081194" value="Gurat-kafak"/>
+<label key="1879081217" value="Durthlún"/>
+<label key="1879081219" value="Nodmor"/>
+<label key="1879081220" value="Blogmal Raider"/>
+<label key="1879081221" value="Blogmal Pillager"/>
+<label key="1879081224" value="Blogmal Spear-master"/>
+<label key="1879081225" value="Blogmal Sapper"/>
+<label key="1879081226" value="Blogmal Guard"/>
+<label key="1879081227" value="Warchief Búrzghâsh"/>
+<label key="1879081228" value="Blogmal Guard"/>
+<label key="1879081230" value="Jarn-olog Warrior"/>
+<label key="1879081231" value="Gurkâmâb"/>
+<label key="1879081232" value="Blogmal Spear-hurler"/>
+<label key="1879081233" value="Jarn-olog"/>
+<label key="1879081238" value="Blogmal Warlord"/>
+<label key="1879081239" value="Twisted Fell-spirit"/>
+<label key="1879081240" value="Mournful Fell-spirit"/>
+<label key="1879081241" value="Blogmal Ward"/>
+<label key="1879081242" value="Blogmal Spear-tosser"/>
+<label key="1879081243" value="Blogmal Sapper"/>
+<label key="1879081245" value="Twisted Fell-spirit"/>
+<label key="1879081246" value="Fearsome Barghest"/>
+<label key="1879081250" value="Shiruk"/>
+<label key="1879081251" value="Kamordî"/>
+<label key="1879081252" value="Terrible Fell-spirit"/>
+<label key="1879081253" value="Horrid Barghest"/>
+<label key="1879081254" value="Blighted Shadow-wing"/>
+<label key="1879081268" value="Nellie Boskins"/>
+<label key="1879081269" value="Halbarad"/>
+<label key="1879081289" value="Ongbúrz Battle-lord"/>
+<label key="1879081291" value="Ongbúrz Blade-master"/>
+<label key="1879081292" value="Ongbúrz Champion"/>
+<label key="1879081293" value="Ongbúrz Thrasher"/>
+<label key="1879081295" value="Fierce Ongbúrz"/>
+<label key="1879081296" value="Killer Ongbúrz"/>
+<label key="1879081297" value="Ongbúrz Pillager"/>
+<label key="1879081302" value="Burle Pierson"/>
+<label key="1879081303" value="Pierson's Son"/>
+<label key="1879081304" value="Hilton Harper"/>
+<label key="1879081305" value="Tarkrîp Raider"/>
+<label key="1879081306" value="Tarkrîp Fire-eater"/>
+<label key="1879081307" value="Tarkrîp Pillager"/>
+<label key="1879081308" value="Tarkrîp Raid-leader"/>
+<label key="1879081315" value="Blogmal Lieutenant"/>
+<label key="1879081316" value="Accursed Fell-spirit"/>
+<label key="1879081324" value="Trínduf"/>
+<label key="1879081349" value="Oath-breaker Captain"/>
+<label key="1879081360" value="Zhurmat"/>
+<label key="1879081364" value="Warg Ruins-stalker"/>
+<label key="1879081365" value="Warg Ruins-leader"/>
+<label key="1879081366" value="Tûm"/>
+<label key="1879081367" value="Mîgul"/>
+<label key="1879081368" value="Ryk"/>
+<label key="1879081369" value="Einiora"/>
+<label key="1879081385" value="Angry Razortooth"/>
+<label key="1879081386" value="Enraged Razortooth"/>
+<label key="1879081387" value="Snarling Moor-stalker"/>
+<label key="1879081388" value="Elder Moor-stalker"/>
+<label key="1879081392" value="Foraging Downs-bear"/>
+<label key="1879081393" value="Downs-bear Cub"/>
+<label key="1879081394" value="Warg Pack-mate"/>
+<label key="1879081395" value="Warg Pack-leader"/>
+<label key="1879081398" value="Tarkrîp Render"/>
+<label key="1879081399" value="Tarkrîp Shooter"/>
+<label key="1879081400" value="Cruel-beak Watcher"/>
+<label key="1879081421" value="Thaukoth"/>
+<label key="1879081423" value="Ulural"/>
+<label key="1879081430" value="Vicious Tarkrîp"/>
+<label key="1879081431" value="Tarkrîp Sharp-eye"/>
+<label key="1879081432" value="Tarkrîp Taskmaster"/>
+<label key="1879081433" value="Tarkrîp Thrasher"/>
+<label key="1879081434" value="Warg Ravager"/>
+<label key="1879081436" value="Sharshat"/>
+<label key="1879081442" value="Raging Tarkrîp"/>
+<label key="1879081443" value="Tarkrîp Marksman"/>
+<label key="1879081444" value="Tarkrîp Fight-master"/>
+<label key="1879081445" value="Cruel-beak Spy"/>
+<label key="1879081446" value="Violent Tarkrîp"/>
+<label key="1879081448" value="Hurshát"/>
+<label key="1879081450" value="Tarkrîp Brawler"/>
+<label key="1879081451" value="Tarkrîp Shanker"/>
+<label key="1879081452" value="Revolting Tarkrîp"/>
+<label key="1879081453" value="Tarkrîp Siege-engineer"/>
+<label key="1879081455" value="Thrángdaul"/>
+<label key="1879081465" value="Downs Wildcat"/>
+<label key="1879081466" value="Downs Hunter"/>
+<label key="1879081467" value="Hunting North-hawk"/>
+<label key="1879081468" value="Hungry Downs-bear"/>
+<label key="1879081469" value="Young Downs-bear"/>
+<label key="1879081477" value="Grazing Hoar-mantle"/>
+<label key="1879081478" value="Hoar-mantle Calf"/>
+<label key="1879081479" value="Threatening Hoar-mantle"/>
+<label key="1879081480" value="War-captain Ongbúrz"/>
+<label key="1879081481" value="Kingsfell Spinner"/>
+<label key="1879081487" value="Dori"/>
+<label key="1879081488" value="Stout Dourhand"/>
+<label key="1879081489" value="Dourhand Fighter"/>
+<label key="1879081493" value="Downs Lynx"/>
+<label key="1879081494" value="Downs Stalker"/>
+<label key="1879081495" value="Darting North-hawk"/>
+<label key="1879081496" value="Dourhand Miner"/>
+<label key="1879081497" value="Dourhand Ruffian"/>
+<label key="1879081498" value="Dourhand Foreman"/>
+<label key="1879081501" value="Biting North-hawk"/>
+<label key="1879081502" value="Dourhand Standard-bearer"/>
+<label key="1879081512" value="Tarkrîp Ransacker"/>
+<label key="1879081513" value="Tarkrîp Skirmisher"/>
+<label key="1879081514" value="Tarkrîp Fight-caller"/>
+<label key="1879081515" value="Cruel-beak Scout"/>
+<label key="1879081519" value="Writhing Marsh-strider"/>
+<label key="1879081520" value="Marsh-strider Ambusher"/>
+<label key="1879081521" value="Marsh-strider Trapper"/>
+<label key="1879081522" value="Buzzing Sickle-fly"/>
+<label key="1879081523" value="Quick Silt-toad"/>
+<label key="1879081524" value="Ongbúrz Tracker"/>
+<label key="1879081525" value="Hateful Ongbúrz"/>
+<label key="1879081527" value="Lakes Peeper"/>
+<label key="1879081528" value="Marsh Snake"/>
+<label key="1879081532" value="Dumúlak"/>
+<label key="1879081534" value="Khurshat"/>
+<label key="1879081536" value="Roving Warg"/>
+<label key="1879081540" value="Bog Guardian"/>
+<label key="1879081543" value="Skrithmoz"/>
+<label key="1879081545" value="Skulkmire"/>
+<label key="1879081547" value="Bartás"/>
+<label key="1879081549" value="Marsh-strider Creeper"/>
+<label key="1879081550" value="Tarbám"/>
+<label key="1879081557" value="Aurochs Yearling"/>
+<label key="1879081559" value="Cow"/>
+<label key="1879081561" value="Placid Hoar-mantle"/>
+<label key="1879081562" value="Young Hoar-mantle"/>
+<label key="1879081563" value="Menacing Hoar-mantle"/>
+<label key="1879081564" value="Kingsfell Creeper"/>
+<label key="1879081565" value="Kingsfell Spider"/>
+<label key="1879081568" value="Bodil Dark-eye"/>
+<label key="1879081575" value="Foreman Nyrad"/>
+<label key="1879081576" value="Torfi's Guard"/>
+<label key="1879081605" value="Lagorlam"/>
+<label key="1879081608" value="Gurmagath"/>
+<label key="1879081611" value="Favargair Troll-keeper"/>
+<label key="1879081620" value="Ongbúrz Defiler"/>
+<label key="1879081660" value="Hillmen Armourer"/>
+<label key="1879081665" value="Fearsome Marsh-strider"/>
+<label key="1879081666" value="Binding Marsh-strider"/>
+<label key="1879081667" value="Stinging Sickle-fly"/>
+<label key="1879081668" value="Revolting Silt-toad"/>
+<label key="1879081673" value="Rock-troll Brawler"/>
+<label key="1879081674" value="Rock-troll Hurler"/>
+<label key="1879081687" value="Ongbúrz Bone-speaker"/>
+<label key="1879081696" value="Pakonka, Siege-master"/>
+<label key="1879081714" value="Natkam"/>
+<label key="1879081723" value="Raugzok"/>
+<label key="1879081732" value="Skittering Downs-spider"/>
+<label key="1879081733" value="Rock-worm"/>
+<label key="1879081738" value="Young Drake"/>
+<label key="1879081739" value="Drake"/>
+<label key="1879081749" value="Ongbúrz Slicer"/>
+<label key="1879081750" value="Ongbúrz Spear-tosser"/>
+<label key="1879081751" value="Roaming Warg"/>
+<label key="1879081753" value="Málglok"/>
+<label key="1879081759" value="Longhar"/>
+<label key="1879081762" value="Glangonn"/>
+<label key="1879081763" value="Bloodwing"/>
+<label key="1879081766" value="Ongbúrz Warg-keeper"/>
+<label key="1879081767" value="Ongbúrz Sharp-eye"/>
+<label key="1879081768" value="Ongbúrz Berserker"/>
+<label key="1879081770" value="Grish"/>
+<label key="1879081794" value="GUARD"/>
+<label key="1879081810" value="Beast-lord"/>
+<label key="1879081814" value="Beast-mother"/>
+<label key="1879081832" value="Ancient Ironscale"/>
+<label key="1879081838" value="Withering Fire-drake"/>
+<label key="1879081839" value="Maddened Hill-beast"/>
+<label key="1879081842" value="Wretched Gouge-horn"/>
+<label key="1879081843" value="Corrupt Gouge-horn"/>
+<label key="1879081844" value="Deadly Ash-crawler"/>
+<label key="1879081855" value="Ongbúrz Bone-smasher"/>
+<label key="1879081856" value="Ongbúrz Rock-heaver"/>
+<label key="1879081858" value="Grat"/>
+<label key="1879081860" value="Ploshat"/>
+<label key="1879081888" value="Silent Judge"/>
+<label key="1879081898" value="Lord of the Western Marches"/>
+<label key="1879081904" value="Great Ironhoof"/>
+<label key="1879081905" value="Scara Hunter"/>
+<label key="1879081906" value="Scara Corpse-ravenger"/>
+<label key="1879081907" value="Scara Skulker"/>
+<label key="1879081913" value="Iron Crown Fighter"/>
+<label key="1879081914" value="Iron Crown Scout"/>
+<label key="1879081915" value="Strangle-web Queen"/>
+<label key="1879081916" value="Strangle-web Ambusher"/>
+<label key="1879081917" value="Ongbúrz Curse-shouter"/>
+<label key="1879081924" value="Rauta-lehmä Fighter"/>
+<label key="1879081925" value="Rauta-lehmä Tracker"/>
+<label key="1879081926" value="Rauta-lehmä Leader"/>
+<label key="1879081927" value="Deadly Shadow-wing"/>
+<label key="1879081932" value="Skittering Strangle-web"/>
+<label key="1879081933" value="Strangle-web Mother"/>
+<label key="1879081934" value="Strangle-web Hunter"/>
+<label key="1879081935" value="Blade-beak Ravager"/>
+<label key="1879081936" value="Searing Fire-drake"/>
+<label key="1879081938" value="Donakh"/>
+<label key="1879081939" value="Iron Crown Fighter"/>
+<label key="1879081949" value="Iron Crown Warrior"/>
+<label key="1879081950" value="Iron Crown Keeper"/>
+<label key="1879081951" value="Iron Crown Crossbowman"/>
+<label key="1879081953" value="Ongbúrz Iron-fist"/>
+<label key="1879081955" value="Nulnákh"/>
+<label key="1879081956" value="Hillmen Archer"/>
+<label key="1879081957" value="Hillmen Oath-caller"/>
+<label key="1879081958" value="Talon"/>
+<label key="1879081986" value="Iron Crown Sentinel"/>
+<label key="1879081987" value="Blogmal Captain"/>
+<label key="1879081988" value="Deadly Jarn-olog"/>
+<label key="1879081989" value="Mungan"/>
+<label key="1879081990" value="Uthagan"/>
+<label key="1879081991" value="Donnan"/>
+<label key="1879081992" value="Master of Wargs"/>
+<label key="1879081998" value="Iron Crown Stauncher"/>
+<label key="1879082004" value="Núrzum"/>
+<label key="1879082007" value="Catapult"/>
+<label key="1879082012" value="Hillmen Blood-guard"/>
+<label key="1879082013" value="Deadly Scara"/>
+<label key="1879082014" value="Scara Shadow-stalker"/>
+<label key="1879082018" value="Siege Engine"/>
+<label key="1879082021" value="Hillmen Skirmisher"/>
+<label key="1879082022" value="Hillmen Chieftain"/>
+<label key="1879082026" value="Corrupted Norboglir"/>
+<label key="1879082027" value="Bloated Brimstone-leech"/>
+<label key="1879082028" value="Tarkrîp Spear-hurler"/>
+<label key="1879082029" value="Tarkrîp Basher"/>
+<label key="1879082030" value="Tarkrîp Fire-thrower"/>
+<label key="1879082031" value="Iron Crown Fighter"/>
+<label key="1879082032" value="Iron Crown Bowman"/>
+<label key="1879082041" value="Fell-spirit"/>
+<label key="1879082045" value="Hillmen Blood-seeker"/>
+<label key="1879082046" value="Hillmen Bow-master"/>
+<label key="1879082047" value="Hillmen Seer"/>
+<label key="1879082048" value="Enslaved Pale-folk"/>
+<label key="1879082049" value="Gorthorog Slave"/>
+<label key="1879082064" value="Alerted Orc Berserker"/>
+<label key="1879082065" value="Alerted Orc Archer"/>
+<label key="1879082067" value="Angmarim Citizen"/>
+<label key="1879082068" value="Angmarim Citizen"/>
+<label key="1879082069" value="Angmarim Lookout"/>
+<label key="1879082070" value="Angmarim High-Priest"/>
+<label key="1879082071" value="Angmarim Silkspinner"/>
+<label key="1879082072" value="Giant Bloodfang"/>
+<label key="1879082073" value="Leatherwing Bloodfang"/>
+<label key="1879082074" value="Swift-talon Morroval"/>
+<label key="1879082075" value="Gorthorog Warrior"/>
+<label key="1879082076" value="Cargûl"/>
+<label key="1879082077" value="Gúrthul"/>
+<label key="1879082078" value="Rodakhan"/>
+<label key="1879082079" value="Múra"/>
+<label key="1879082080" value="Mormoz"/>
+<label key="1879082081" value="Târlug"/>
+<label key="1879082082" value="Angmarim High-Priest"/>
+<label key="1879082083" value="Hillmen Blood-guard"/>
+<label key="1879082084" value="Enraged Pale-folk"/>
+<label key="1879082085" value="Krahjarn Lieutenant"/>
+<label key="1879082086" value="Krahjarn Sentry"/>
+<label key="1879082087" value="Krahjarn Warrior"/>
+<label key="1879082088" value="Pale-folk Hornblower"/>
+<label key="1879082090" value="Twisted Fell-spirit"/>
+<label key="1879082091" value="Terrible Fell-spirit"/>
+<label key="1879082093" value="Ironbound Slave"/>
+<label key="1879082094" value="Ghostly Arm"/>
+<label key="1879082097" value="Cruel Wood-troll"/>
+<label key="1879082098" value="Terrible Wood-troll"/>
+<label key="1879082099" value="Mordirith"/>
+<label key="1879082100" value="Mordirith"/>
+<label key="1879082101" value="Mordirith"/>
+<label key="1879082102" value="Mordirith"/>
+<label key="1879082103" value="Stone-giant Guard"/>
+<label key="1879082104" value="Mordirith"/>
+<label key="1879082105" value="Mordirith"/>
+<label key="1879082106" value="Mordirith"/>
+<label key="1879082107" value="Mordirith"/>
+<label key="1879082108" value="Mordirith"/>
+<label key="1879082109" value="Mordirith"/>
+<label key="1879082110" value="Mordirith"/>
+<label key="1879082159" value="Alerted Warrior"/>
+<label key="1879082160" value="Alerted Archer"/>
+<label key="1879082167" value="Iron Crown Commander"/>
+<label key="1879082169" value="Ushtum"/>
+<label key="1879082171" value="Swale-singer"/>
+<label key="1879082173" value="Dread-jaw"/>
+<label key="1879082176" value="Deadly Ironscale"/>
+<label key="1879082185" value="Uthagan"/>
+<label key="1879082209" value="Battle-crazed Blogmal"/>
+<label key="1879082210" value="Blogmal Bow-master"/>
+<label key="1879082211" value="Krahjarn Thrasher"/>
+<label key="1879082212" value="Enslaved Pale-folk"/>
+<label key="1879082213" value="Angmarim Doom-spinner"/>
+<label key="1879082215" value="Ongbúrz Berserker"/>
+<label key="1879082216" value="Krahjarn Warrior"/>
+<label key="1879082217" value="Enslaved Pale-folk"/>
+<label key="1879082218" value="Hillmen Raider"/>
+<label key="1879082219" value="Hillmen Venom-master"/>
+<label key="1879082220" value="Hillmen Blood-guard"/>
+<label key="1879082221" value="Hillmen Blood-dancer"/>
+<label key="1879082222" value="Hillmen Scout"/>
+<label key="1879082229" value="Angmarim Silkspinner"/>
+<label key="1879082230" value="Angmarim Lookout"/>
+<label key="1879082231" value="Erscin"/>
+<label key="1879082232" value="Hill-woman"/>
+<label key="1879082237" value="Angmarim High-Priest"/>
+<label key="1879082246" value="Rauta-lehmä Warden"/>
+<label key="1879082247" value="Rauta-lehmä Archer"/>
+<label key="1879082250" value="Rauta-lehmä Chieftain"/>
+<label key="1879082261" value="Searing Flame-worm"/>
+<label key="1879082265" value="Buzzing Swamp-fly"/>
+<label key="1879082267" value="Machan"/>
+<label key="1879082270" value="Blogmal Slave"/>
+<label key="1879082271" value="Blogmal Scout"/>
+<label key="1879082272" value="Scara War-beast"/>
+<label key="1879082273" value="Blogmal Warmonger"/>
+<label key="1879082274" value="Blogmal Arrow-master"/>
+<label key="1879082275" value="Blogmal War-master"/>
+<label key="1879082276" value="Armoured Krahjarn"/>
+<label key="1879082278" value="Urro"/>
+<label key="1879082279" value="Brimstone-leech"/>
+<label key="1879082284" value="Gorthorog Guardian"/>
+<label key="1879082286" value="Krahjarn Heaver"/>
+<label key="1879082287" value="Krahjarn Bruiser"/>
+<label key="1879082289" value="Zûrtith"/>
+<label key="1879082290" value="Tarbâm"/>
+<label key="1879082291" value="Bolgrukh"/>
+<label key="1879082293" value="Tentacle"/>
+<label key="1879082294" value="Giant Brimstone-leech"/>
+<label key="1879082295" value="Sálvakh"/>
+<label key="1879082303" value="Armoured Krahjarn"/>
+<label key="1879082304" value="Krahjarn Shield-host"/>
+<label key="1879082305" value="Krahjarn Bruiser"/>
+<label key="1879082306" value="Krahjarn Heaver"/>
+<label key="1879082307" value="Kughûrz"/>
+<label key="1879082308" value="Dafrim"/>
+<label key="1879082309" value="Krahjarn Will-breaker"/>
+<label key="1879082310" value="Krahjarn Leader"/>
+<label key="1879082311" value="Krahjarn Lieutenant"/>
+<label key="1879082312" value="Gríshakrum"/>
+<label key="1879082326" value="Krahjarn Blood-fury"/>
+<label key="1879082327" value="Krahjarn Fell-shot"/>
+<label key="1879082329" value="Warg War-beast"/>
+<label key="1879082330" value="Athpukh"/>
+<label key="1879082331" value="Warg Pack-elder"/>
+<label key="1879082332" value="Warg Den-warden"/>
+<label key="1879082333" value="Krahjarn Flame-sworn"/>
+<label key="1879082334" value="Krahjarn Shield-master"/>
+<label key="1879082339" value="Akrûr"/>
+<label key="1879082340" value="Krahjarn Sentry"/>
+<label key="1879082341" value="Ongbúrz Berserker"/>
+<label key="1879082347" value="Iron-beak Warden"/>
+<label key="1879082349" value="Krahjarn Assassin"/>
+<label key="1879082350" value="Sorkrank"/>
+<label key="1879082351" value="Burzfîl"/>
+<label key="1879082358" value="Gorthorog Flayer"/>
+<label key="1879082362" value="Hillmen Protector"/>
+<label key="1879082363" value="Hillmen Blood-seer"/>
+<label key="1879082364" value="Screeching Cargûl"/>
+<label key="1879082366" value="Strangle-web Stalker"/>
+<label key="1879082367" value="Silk Lady"/>
+<label key="1879082370" value="Ironbound Warrior"/>
+<label key="1879082371" value="Ironbound Arrowmaster"/>
+<label key="1879082373" value="Bellowing Ironbound"/>
+<label key="1879082374" value="Wrathful Fell-spirit"/>
+<label key="1879082375" value="Merciless Fell-spirit"/>
+<label key="1879082376" value="Decaying Hand"/>
+<label key="1879082378" value="Ironbound Slave"/>
+<label key="1879082379" value="Ironbound Archer"/>
+<label key="1879082380" value="Wailing Ironbound"/>
+<label key="1879082381" value="Bale-fang Barghest"/>
+<label key="1879082382" value="Terrible Dread-mist"/>
+<label key="1879082385" value="Balchorth"/>
+<label key="1879082387" value="Hewn Giant-arm"/>
+<label key="1879082389" value="Dannengil"/>
+<label key="1879082391" value="Akhan Scorn-eyer"/>
+<label key="1879082397" value="Ironbound Marksman"/>
+<label key="1879082398" value="Caraneg"/>
+<label key="1879082403" value="Iron Crown Necromancer"/>
+<label key="1879082407" value="Fire-drake Warden"/>
+<label key="1879082408" value="Fire-drake Hatchling"/>
+<label key="1879082409" value="Brízrip"/>
+<label key="1879082410" value="Thordragh"/>
+<label key="1879082411" value="Morthrâng"/>
+<label key="1879082412" value="Iron-beak Minion"/>
+<label key="1879082424" value="Gruglok"/>
+<label key="1879082434" value="Blogmal Warrior"/>
+<label key="1879082435" value="Blogmal Skirmisher"/>
+<label key="1879082436" value="Dire Ironscale"/>
+<label key="1879082437" value="Swamp-lurker"/>
+<label key="1879082440" value="Krahjarn Slayer"/>
+<label key="1879082441" value="Krahjarn Dark-arrow"/>
+<label key="1879082442" value="Krahjarn Captain"/>
+<label key="1879082445" value="Deluches"/>
+<label key="1879082446" value="Iron Crown Spirit-master"/>
+<label key="1879082451" value="Banfuir"/>
+<label key="1879082455" value="Fell-spirit"/>
+<label key="1879082456" value="Enraged Fell-spirit"/>
+<label key="1879082500" value="Ruithfaer"/>
+<label key="1879082505" value="Unbound Spirit"/>
+<label key="1879082506" value="Mordirith"/>
+<label key="1879082509" value="Krahjarn Warrior"/>
+<label key="1879082510" value="Krahjarn Captain"/>
+<label key="1879082511" value="Krahjarn Curse-shouter"/>
+<label key="1879082512" value="Krahjarn Skirmisher"/>
+<label key="1879082521" value="Weak Pale-folk"/>
+<label key="1879082522" value="Lorniel"/>
+<label key="1879082523" value="Angmarim Lookout"/>
+<label key="1879082524" value="Angmarim Citizen"/>
+<label key="1879082525" value="Angmarim Citizen"/>
+<label key="1879082526" value="Angmarim Lookout"/>
+<label key="1879082527" value="Angmarim High-Priest"/>
+<label key="1879082528" value="Enslaved Pale-folk"/>
+<label key="1879082529" value="Angmarim High-Priest"/>
+<label key="1879082532" value="Achathling"/>
+<label key="1879082535" value="Dugald Storm-fist"/>
+<label key="1879082537" value="Koth"/>
+<label key="1879082539" value="Bogbereth Lurker"/>
+<label key="1879082544" value="Angmarim Warrior"/>
+<label key="1879082545" value="Angmarim High-Priest"/>
+<label key="1879082546" value="Angmarim Crossbowman"/>
+<label key="1879082547" value="Enraged Giant"/>
+<label key="1879082551" value="Tarkrîp Slasher"/>
+<label key="1879082552" value="Tarkrîp Spear-thrower"/>
+<label key="1879082556" value="Durbskút"/>
+<label key="1879082558" value="Mamar"/>
+<label key="1879082564" value="Iron Crown Priestess"/>
+<label key="1879082566" value="Arngrim"/>
+<label key="1879082567" value="The Tempter"/>
+<label key="1879082574" value="Morroval"/>
+<label key="1879082575" value="Bogbereth Creeper"/>
+<label key="1879082576" value="Bogbereth Egg-tender"/>
+<label key="1879082577" value="Iron Crown Crossbowman"/>
+<label key="1879082578" value="Morroval Flayer"/>
+<label key="1879082585" value="Iron Crown Priest"/>
+<label key="1879082589" value="Bogbereth Broodling"/>
+<label key="1879082590" value="Dwarf Miner"/>
+<label key="1879082591" value="Bothwar"/>
+<label key="1879082604" value="Gabilshathûr Guard"/>
+<label key="1879082611" value="Ongbúrz Warrior"/>
+<label key="1879082612" value="Ongbúrz Captain"/>
+<label key="1879082613" value="Ongbúrz Curse-shouter"/>
+<label key="1879082614" value="Ongbúrz Skirmisher"/>
+<label key="1879082617" value="Crawling Fire-worm"/>
+<label key="1879082618" value="Tarkrîp Bladesnapper"/>
+<label key="1879082619" value="Tarkrîp Archer"/>
+<label key="1879082620" value="Scara Rakeclaw"/>
+<label key="1879082621" value="Scara Pack-master"/>
+<label key="1879082622" value="Stonehold Warg-keeper"/>
+<label key="1879082625" value="Blogmal Captain"/>
+<label key="1879082626" value="Blogmal Curse-shouter"/>
+<label key="1879082627" value="Jarn-olog Thrasher"/>
+<label key="1879082630" value="Rift-crawler Creeper"/>
+<label key="1879082631" value="Rift-crawler Lurker"/>
+<label key="1879082632" value="Krahjarn Shadow-skulker"/>
+<label key="1879082633" value="Krahjarn Lobber"/>
+<label key="1879082634" value="Foul Blade-beak"/>
+<label key="1879082635" value="Hillmen Blood-sworn"/>
+<label key="1879082636" value="Hillmen Death-wind"/>
+<label key="1879082642" value="Blade-beak Burrower"/>
+<label key="1879082643" value="Blade-beak Tunneler"/>
+<label key="1879082646" value="Rift-crawler Queen"/>
+<label key="1879082647" value="Iron Crown Spiderward"/>
+<label key="1879082650" value="Enslaved Pale-folk"/>
+<label key="1879082651" value="Krahjarn Slave-leader"/>
+<label key="1879082653" value="Hillmen Death-seer"/>
+<label key="1879082654" value="Hillmen War-chief"/>
+<label key="1879082665" value="Muiladan"/>
+<label key="1879082666" value="Bogbereth Matron"/>
+<label key="1879082667" value="Bogbereth Broodling"/>
+<label key="1879082668" value="Jarn-olog Ripper"/>
+<label key="1879082669" value="Gaeruan"/>
+<label key="1879082673" value="Fire-drake Matron"/>
+<label key="1879082678" value="Scara Pack-hunter"/>
+<label key="1879082679" value="Scara Pack-lord"/>
+<label key="1879082680" value="Krahjarn Bladesnapper"/>
+<label key="1879082681" value="Krahjarn Archer"/>
+<label key="1879082682" value="Krahjarn Stormcaller"/>
+<label key="1879082683" value="Krahjarn War-monger"/>
+<label key="1879082685" value="War-scarred Dourhand"/>
+<label key="1879082686" value="Dourhand Shield-render"/>
+<label key="1879082687" value="Dourhand War-lord"/>
+<label key="1879082689" value="Rampaging Fire-drake"/>
+<label key="1879082692" value="Gorthorog Hewer"/>
+<label key="1879082693" value="Jarn-olog Smasher"/>
+<label key="1879082694" value="Arena Fire-worm"/>
+<label key="1879082695" value="Blade-beak Scythe"/>
+<label key="1879082698" value="Ash-weaver Creeper"/>
+<label key="1879082699" value="Ash-weaver Lurker"/>
+<label key="1879082700" value="Ash-weaver Queen"/>
+<label key="1879082701" value="Blade-beak Digger"/>
+<label key="1879082702" value="Deadly Fire-drake"/>
+<label key="1879082703" value="Battle-scarred Krahjarn"/>
+<label key="1879082704" value="Krahjarn Arrow-master"/>
+<label key="1879082705" value="Krahjarn Deathseer"/>
+<label key="1879082706" value="Iron Crown Bloodcaller"/>
+<label key="1879082709" value="Colnor"/>
+<label key="1879082710" value="Gashan"/>
+<label key="1879082712" value="Morkár"/>
+<label key="1879082713" value="Garnait Iron-tongue"/>
+<label key="1879082715" value="Guldurvul"/>
+<label key="1879082720" value="Darktide Scrapper"/>
+<label key="1879082721" value="Darktide Leader"/>
+<label key="1879082722" value="Thistledown Charger"/>
+<label key="1879082723" value="Thistledown Grazer"/>
+<label key="1879082728" value="Leafcull Bramblethorn"/>
+<label key="1879082729" value="Leafcull Shade-lurker"/>
+<label key="1879082730" value="Grimfang Weaver"/>
+<label key="1879082731" value="Grimfang Lurker"/>
+<label key="1879082739" value="Shadowmaw Howler"/>
+<label key="1879082740" value="Shadowmaw Ravager"/>
+<label key="1879082741" value="Cragstone Blight-fang"/>
+<label key="1879082742" value="Cragstone Trapper"/>
+<label key="1879082744" value="Bloodlust Leech"/>
+<label key="1879082766" value="Ironbound Dread-sword"/>
+<label key="1879082767" value="Ironbound Dread-archer"/>
+<label key="1879082768" value="Strangling Arm"/>
+<label key="1879082769" value="Gaunt Death-lord"/>
+<label key="1879082771" value="Treacherous Fell-spirit"/>
+<label key="1879082772" value="Foul Fell-spirit"/>
+<label key="1879082773" value="Deadly Lithûl"/>
+<label key="1879082775" value="Stone-giant Skullsmasher"/>
+<label key="1879082776" value="Stone-giant Earthrender"/>
+<label key="1879082777" value="Terrible Fire-worm"/>
+<label key="1879082792" value="Coldeve Stone-hewer"/>
+<label key="1879082793" value="Coldeve Stone-heaver"/>
+<label key="1879082798" value="Ongbûrz Tracker"/>
+<label key="1879082799" value="Ongbûrz Skirmisher"/>
+<label key="1879082800" value="Ongbúrz Archer"/>
+<label key="1879082807" value="Soldier Quilbúb"/>
+<label key="1879082808" value="Soldier Narfikskúm"/>
+<label key="1879082809" value="Soldier Fimúzhorn"/>
+<label key="1879082810" value="Soldier Olozer"/>
+<label key="1879082811" value="Soldier Nurzúrzfim"/>
+<label key="1879082812" value="Soldier Mogúrzgor"/>
+<label key="1879082813" value="Taskmaster Zimarp"/>
+<label key="1879082814" value="Taskmaster Radsripsh"/>
+<label key="1879082815" value="Soldier Búrzdargum"/>
+<label key="1879082816" value="Soldier Azri"/>
+<label key="1879082817" value="Taskmaster Ishdágalur"/>
+<label key="1879082818" value="Taskmaster Hindulug"/>
+<label key="1879082819" value="Taskmaster Fikdag"/>
+<label key="1879082820" value="Taskmaster Gukthor"/>
+<label key="1879082821" value="Taskmaster Gazgortag"/>
+<label key="1879082822" value="Chieftain Durulkum"/>
+<label key="1879082823" value="Taskmaster Galinzarza"/>
+<label key="1879082824" value="Fim the Worm"/>
+<label key="1879082841" value="Hoarhallow Farmer"/>
+<label key="1879082842" value="Hoarhallow Gardener"/>
+<label key="1879082843" value="Mayor Wat Mudbottom"/>
+<label key="1879082849" value="Soldier Graus"/>
+<label key="1879082859" value="Bok"/>
+<label key="1879082860" value="Soldier Gazlup"/>
+<label key="1879082863" value="Frostfell Fel-talon"/>
+<label key="1879082864" value="Frostfell Earth-mover"/>
+<label key="1879082870" value="Shakop"/>
+<label key="1879082872" value="Ghámbugh"/>
+<label key="1879082875" value="Young Fire-drake"/>
+<label key="1879082876" value="Iron Crown Warrior"/>
+<label key="1879082877" value="Iron Crown Lookout"/>
+<label key="1879082878" value="Gorthorog Crusher"/>
+<label key="1879082879" value="Morroval Blood-talon"/>
+<label key="1879082887" value="Skybreaker"/>
+<label key="1879082889" value="Gnashmaw"/>
+<label key="1879082891" value="Sadauk"/>
+<label key="1879082895" value="Gorthorog Flesh-render"/>
+<label key="1879082896" value="Gorthorog Ruin-smasher"/>
+<label key="1879082899" value="Wailing Lithûl"/>
+<label key="1879082903" value="Bruigon"/>
+<label key="1879082904" value="Thrasir"/>
+<label key="1879082906" value="Sulluith"/>
+<label key="1879082908" value="Gháshrip"/>
+<label key="1879082909" value="Ailsa Red-hands"/>
+<label key="1879082914" value="Mazauk"/>
+<label key="1879082993" value="Coldfells Hunter"/>
+<label key="1879082994" value="Coldfells Hunter"/>
+<label key="1879082996" value="Ned Claybrick"/>
+<label key="1879083000" value="Snowreap Sapper"/>
+<label key="1879083001" value="Snowreap Guard"/>
+<label key="1879083005" value="Emerald Twospade"/>
+<label key="1879083006" value="Marigold Winterdown"/>
+<label key="1879083008" value="Ranger of Esteldín"/>
+<label key="1879083009" value="Krahjarn Iron-defender"/>
+<label key="1879083011" value="First Marshal Ari"/>
+<label key="1879083012" value="First Marshal Barathír"/>
+<label key="1879083013" value="Lieutenant Án"/>
+<label key="1879083014" value="Sergeant-at-Arms Gomiriell"/>
+<label key="1879083015" value="Lieutenant Elswith"/>
+<label key="1879083016" value="Sergeant-at-Arms Benstan"/>
+<label key="1879083017" value="Sergeant-at-Arms Cwen"/>
+<label key="1879083018" value="Sergeant-at-Arms Athelhild"/>
+<label key="1879083019" value="Coldfells Hunter"/>
+<label key="1879083020" value="Coldfells Champion"/>
+<label key="1879083021" value="Coldfells Guardian"/>
+<label key="1879083022" value="Soldier Ufrant"/>
+<label key="1879083023" value="Soldier Apsduf"/>
+<label key="1879083024" value="Taskmaster Pizdur"/>
+<label key="1879083025" value="Taskmaster Snagfigú"/>
+<label key="1879083026" value="Soldier Kúrub"/>
+<label key="1879083027" value="Soldier Mugsh"/>
+<label key="1879083028" value="Lieutenant Sturla"/>
+<label key="1879083029" value="Sergeant-at-Arms Ambeng"/>
+<label key="1879083031" value="Taskmaster Fash"/>
+<label key="1879083050" value="Snowreap Ice-fist"/>
+<label key="1879083051" value="Snowreap Ice-hurler"/>
+<label key="1879083052" value="Frenzied Fell-maw"/>
+<label key="1879083053" value="Wintersebb Drake"/>
+<label key="1879083054" value="Wintersebb Drakeling"/>
+<label key="1879083060" value="Leafcull Fell-maple"/>
+<label key="1879083061" value="Leafcull Fell-oak"/>
+<label key="1879083065" value="Gorgoris"/>
+<label key="1879083068" value="Grimfang Queen"/>
+<label key="1879083069" value="Tyrant Uzulthrang"/>
+<label key="1879083075" value="Hoardale Burrower"/>
+<label key="1879083076" value="Hoardale Norbog"/>
+<label key="1879083080" value="Monstrous Stinger"/>
+<label key="1879083084" value="Coldfells Scout"/>
+<label key="1879083085" value="Coldfells Scout"/>
+<label key="1879083086" value="Taskmaster Ghamp"/>
+<label key="1879083087" value="Chieftain Torbok"/>
+<label key="1879083088" value="First Marshal Núrdram"/>
+<label key="1879083089" value="Lieutenant Swithulf"/>
+<label key="1879083101" value="Soldier Kúrub"/>
+<label key="1879083102" value="Ongbûrz Iron-troll"/>
+<label key="1879083103" value="Soldier Thrak"/>
+<label key="1879083104" value="Taskmaster Glok"/>
+<label key="1879083105" value="TaskmasterBroshan"/>
+<label key="1879083106" value="Lieutenant Olheryn"/>
+<label key="1879083107" value="Lieutenant Cyneth"/>
+<label key="1879083108" value="Sergeant-at-Arms Théodhild"/>
+<label key="1879083109" value="Coldfells Sergeant"/>
+<label key="1879083110" value="Sergeant-at-Arms Winflad"/>
+<label key="1879083111" value="Sergeant-at-Arms Kolvi"/>
+<label key="1879083112" value="Lieutenant Kern"/>
+<label key="1879083115" value="Lieutenant Solvi"/>
+<label key="1879083116" value="Quartermaster Cynwiss"/>
+<label key="1879083117" value="Quartermaster Apsduf"/>
+<label key="1879083118" value="Taskmaster Raulik"/>
+<label key="1879083119" value="Soldier Krulzhontu"/>
+<label key="1879083120" value="Soldier Rukul"/>
+<label key="1879083121" value="Soldier Gogán"/>
+<label key="1879083122" value="Soldier Hush"/>
+<label key="1879083123" value="Lieutenant Gaeldoron"/>
+<label key="1879083124" value="Sergeant-at-Arms Irminric"/>
+<label key="1879083135" value="Coldfells Woodsman"/>
+<label key="1879083136" value="Soldier Gorúrz"/>
+<label key="1879083137" value="Soldier Labnúrzum"/>
+<label key="1879083138" value="Taskmaster Talum"/>
+<label key="1879083139" value="Taskmaster Lárzmaugoth"/>
+<label key="1879083140" value="Taskmaster Globluk"/>
+<label key="1879083141" value="Soldier Grak"/>
+<label key="1879083142" value="Sergeant-at-Arms Milred"/>
+<label key="1879083143" value="Lieutenant Alfswith"/>
+<label key="1879083144" value="Lieutenant Bregros"/>
+<label key="1879083145" value="Lieutenant Máni"/>
+<label key="1879083146" value="Taskmaster Dulug"/>
+<label key="1879083147" value="Sun-touched Eagle"/>
+<label key="1879083151" value="Morningthaw Warden"/>
+<label key="1879083157" value="Snowreap Miner"/>
+<label key="1879083158" value="Isendeep Miner"/>
+<label key="1879083160" value="Lieutenant Osur"/>
+<label key="1879083161" value="Lieutenant Octa"/>
+<label key="1879083162" value="Taskmaster Bárzqhosh"/>
+<label key="1879083163" value="Taskmaster Izubuzri"/>
+<label key="1879083164" value="Coldfells Woodsman"/>
+<label key="1879083169" value="Golloval"/>
+<label key="1879083171" value="Lieutenant Libbi"/>
+<label key="1879083172" value="Sergeant-at-Arms Mibrethil"/>
+<label key="1879083173" value="Soldier Fandmau"/>
+<label key="1879083174" value="Taskmaster Kúfolog"/>
+<label key="1879083175" value="Taskmaster Tarbúrzshra"/>
+<label key="1879083176" value="Soldier Drîiflágit"/>
+<label key="1879083177" value="Soldier Atishgor"/>
+<label key="1879083178" value="Soldier Ghaurbúb"/>
+<label key="1879083179" value="Soldier Kúfbag"/>
+<label key="1879083180" value="Taskmaster Núrsufum"/>
+<label key="1879083181" value="Sergeant-at-Arms Inwar"/>
+<label key="1879083182" value="Sergeant-at-Arms Maerchoniel"/>
+<label key="1879083183" value="Sergeant-at-Arms Selethryth"/>
+<label key="1879083184" value="Sergeant-at-Arms Hareld"/>
+<label key="1879083185" value="Lieutenant Brun"/>
+<label key="1879083186" value="Lieutenant Cadda"/>
+<label key="1879083187" value="First Marshal Egil"/>
+<label key="1879083188" value="First Marshal Laegon"/>
+<label key="1879083196" value="Old Goldhead"/>
+<label key="1879083197" value="Sergeant-at-Arms Hafthor"/>
+<label key="1879083198" value="Sergeant-at-Arms Thurimbent"/>
+<label key="1879083199" value="Sergeant-at-Arms Hesten"/>
+<label key="1879083200" value="First Marshal Fádi"/>
+<label key="1879083201" value="First Marshal Túllinn"/>
+<label key="1879083202" value="First Marshal Léodwald"/>
+<label key="1879083204" value="Quartermaster Ash"/>
+<label key="1879083222" value="Snowreap Overseer"/>
+<label key="1879083226" value="Gasham"/>
+<label key="1879083229" value="Sergeant-at-Arms Edald"/>
+<label key="1879083230" value="Sergeant-at-Arms Léfgifu"/>
+<label key="1879083231" value="Sergeant-at-Arms Denulf"/>
+<label key="1879083232" value="Sergeant-at-Arms Heregyth"/>
+<label key="1879083233" value="Sergeant-at-Arms Himthul"/>
+<label key="1879083234" value="Sergeant-at-Arms Gwendis"/>
+<label key="1879083235" value="Sergeant-at-Arms Finni"/>
+<label key="1879083236" value="First Marshal Ern"/>
+<label key="1879083237" value="Lieutenant Ingi"/>
+<label key="1879083238" value="Lieutenant Ovorestel"/>
+<label key="1879083239" value="Emissary Pip Diggins"/>
+<label key="1879083240" value="Lieutenant Unferth"/>
+<label key="1879083241" value="First Marshal Sathryth"/>
+<label key="1879083242" value="First Marshal Gríss"/>
+<label key="1879083243" value="First Marshal Grimbeld"/>
+<label key="1879083244" value="Lieutenant Mildburg"/>
+<label key="1879083245" value="Lieutenant Grani"/>
+<label key="1879083246" value="Lieutenant Frithogar"/>
+<label key="1879083247" value="Lieutenant Estabal"/>
+<label key="1879083248" value="Lieutenant Lorneleth"/>
+<label key="1879083249" value="Lieutenant Flóki"/>
+<label key="1879083263" value="Corcur Blood-singer"/>
+<label key="1879083269" value="Deadly Krahjarn"/>
+<label key="1879083270" value="Krahjarn Spearmaster"/>
+<label key="1879083272" value="Krahjarn Drummer"/>
+<label key="1879083273" value="Krahjarn Scourger"/>
+<label key="1879083275" value="Zaudru"/>
+<label key="1879083276" value="Breosal"/>
+<label key="1879083277" value="Angmarim Silkspinner"/>
+<label key="1879083278" value="Shadow-brood Spider"/>
+<label key="1879083279" value="Shadow-brood Lurker"/>
+<label key="1879083280" value="Shadow-brood Hatchling"/>
+<label key="1879083281" value="Shadow-brood Queen"/>
+<label key="1879083282" value="Corcur Plague-bringer"/>
+<label key="1879083283" value="Shadow-brood Ambusher"/>
+<label key="1879083307" value="Adhargal"/>
+<label key="1879083308" value="Grisgart"/>
+<label key="1879083309" value="Drugoth the Death-monger"/>
+<label key="1879083310" value="Stone-giant Scout"/>
+<label key="1879083311" value="Angmarim Lookout"/>
+<label key="1879083312" value="Angmarim High-Priest"/>
+<label key="1879083313" value="Corcur Scout"/>
+<label key="1879083314" value="Wild Corcur"/>
+<label key="1879083315" value="Corcur Seer"/>
+<label key="1879083316" value="Elder Wight-lord"/>
+<label key="1879083317" value="Wight Servant"/>
+<label key="1879083318" value="Thorog"/>
+<label key="1879083319" value="Ice hatchling"/>
+<label key="1879083323" value="Twisted Fell-spirit"/>
+<label key="1879083324" value="Terrible Fell-spirit"/>
+<label key="1879083347" value="Ancient Snow-beast"/>
+<label key="1879083348" value="Stone-giant Guard"/>
+<label key="1879083349" value="Stone-giant Warrior"/>
+<label key="1879083352" value="Storvâgûn"/>
+<label key="1879083354" value="Ice-drake Guard"/>
+<label key="1879083355" value="Rêmgoj"/>
+<label key="1879083356" value="Praunk-goj"/>
+<label key="1879083357" value="Burzgost"/>
+<label key="1879083358" value="Burzdyr"/>
+<label key="1879083359" value="Flame-worm"/>
+<label key="1879083437" value="Blackwold Lackey"/>
+<label key="1879083438" value="Blackwold Ruffian"/>
+<label key="1879083439" value="Edric"/>
+<label key="1879083461" value="Weak Cave-claw"/>
+<label key="1879083478" value="Gormr Dourhand"/>
+<label key="1879083482" value="Goblin Spoiler"/>
+<label key="1879083484" value="Goblin Sapper"/>
+<label key="1879083486" value="Dourhand Dwarf"/>
+<label key="1879083487" value="Dourhand Fighter"/>
+<label key="1879083488" value="Marrec"/>
+<label key="1879083490" value="Tomb-wight"/>
+<label key="1879083491" value="Cursed Tomb-wight"/>
+<label key="1879083492" value="Horrid Tomb-wight"/>
+<label key="1879083493" value="Accursed Fell-spirit"/>
+<label key="1879083494" value="Twisted Fell-spirit"/>
+<label key="1879083495" value="Shambling Tomb-wight"/>
+<label key="1879083496" value="Creeping Arm"/>
+<label key="1879083498" value="Bellowing Tomb-wight"/>
+<label key="1879083506" value="Slimy Marsh-crawler"/>
+<label key="1879083515" value="Gurthand"/>
+<label key="1879083521" value="Wriggling Corpse-crawler"/>
+<label key="1879083522" value="Gramsfoot Warrior"/>
+<label key="1879083523" value="Gramsfoot Lobber"/>
+<label key="1879083524" value="Wild Gramsfoot"/>
+<label key="1879083526" value="Brown Bat"/>
+<label key="1879083528" value="Black Rat"/>
+<label key="1879083529" value="Hill Shrew"/>
+<label key="1879083530" value="Slimy Field-slug"/>
+<label key="1879083531" value="Wood Creeper"/>
+<label key="1879083533" value="DELETE ME"/>
+<label key="1879083534" value="DELETE ME"/>
+<label key="1879083535" value="Black-bear Whelp"/>
+<label key="1879083544" value="Rock-troll Wildarm"/>
+<label key="1879083545" value="Hillmen Defender"/>
+<label key="1879083549" value="Rock-troll Flesheater"/>
+<label key="1879083550" value="Rock-troll Lobber"/>
+<label key="1879083555" value="Dourhand Captain"/>
+<label key="1879083557" value="Deadly Barrow-wight"/>
+<label key="1879083558" value="Putrefied Barrow-wight"/>
+<label key="1879083560" value="Cursed Barrow-wight"/>
+<label key="1879083561" value="Deadly Tomb-wight"/>
+<label key="1879083562" value="Creeping Arm"/>
+<label key="1879083564" value="Rotting Barrow-wight"/>
+<label key="1879083565" value="Dourhand Traitor"/>
+<label key="1879083567" value="Dourhand Deserter"/>
+<label key="1879083568" value="Barrow Queen"/>
+<label key="1879083569" value="Barrow Spider"/>
+<label key="1879083570" value="Gaerthel"/>
+<label key="1879083571" value="Barrow-wight Bowman"/>
+<label key="1879083572" value="Gaunt Battle-caller"/>
+<label key="1879083573" value="Barrow-wight Caller"/>
+<label key="1879083574" value="Barrow-wight Bowlord"/>
+<label key="1879083575" value="Barrow-hound"/>
+<label key="1879083576" value="Consuming Barrow-crawler"/>
+<label key="1879083577" value="Ancient Barrow-wight"/>
+<label key="1879083578" value="Deathly Barrow-wight"/>
+<label key="1879083579" value="Grim Tomb-wight"/>
+<label key="1879083580" value="Crawling Arm"/>
+<label key="1879083581" value="Diseased Plague-rat"/>
+<label key="1879083582" value="Devouring Barrow-crawler"/>
+<label key="1879083583" value="Foul Barrow-wight"/>
+<label key="1879083585" value="Grim Tomb-wight"/>
+<label key="1879083594" value="Bellowing Barrow-wight"/>
+<label key="1879083595" value="Diseased Field-rat"/>
+<label key="1879083601" value="Scavenging Rat"/>
+<label key="1879083605" value="Brood Webber"/>
+<label key="1879083606" value="Brood Hunter"/>
+<label key="1879083607" value="Brood Trapper"/>
+<label key="1879083612" value="Skunkwood's Wolfhound"/>
+<label key="1879083618" value="Blackwold Archer"/>
+<label key="1879083619" value="Dourhand Sentry"/>
+<label key="1879083620" value="Cave Neeker-breeker"/>
+<label key="1879083621" value="Relentless Neeker-breeker"/>
+<label key="1879083622" value="Dourhand Turncoat"/>
+<label key="1879083639" value="Lubach"/>
+<label key="1879083644" value="Putrefied Oathsworn"/>
+<label key="1879083645" value="Oathsworn Caller"/>
+<label key="1879083646" value="Oathsworn Archer"/>
+<label key="1879083647" value="Twisted Fell-spirit"/>
+<label key="1879083648" value="Terrible Fell-spirit"/>
+<label key="1879083649" value="Angmarim Silkspinner"/>
+<label key="1879083650" value="Angmarim High-Priest"/>
+<label key="1879083651" value="Angmarim Lookout"/>
+<label key="1879083653" value="Corcur Blood-vowed"/>
+<label key="1879083654" value="Ulkrank's Guard"/>
+<label key="1879083655" value="Killer Brimstone-leech"/>
+<label key="1879083657" value="Monstrous Cave-rat"/>
+<label key="1879083670" value="Kort the Emissary"/>
+<label key="1879083671" value="Frost Troll Chieftan"/>
+<label key="1879083672" value="Frost Troll"/>
+<label key="1879083673" value="Frost Troll Hurler"/>
+<label key="1879083674" value="Armoured Frost Troll"/>
+<label key="1879083675" value="Frost Troll Crusher"/>
+<label key="1879083676" value="Helegarch"/>
+<label key="1879083677" value="Brutal Frost Troll"/>
+<label key="1879083678" value="DELETE ME"/>
+<label key="1879083707" value="Snowbear Patriarch"/>
+<label key="1879083708" value="Snowbear Cub"/>
+<label key="1879083709" value="Snowbear Matron"/>
+<label key="1879083710" value="Gorthorog Defender"/>
+<label key="1879083716" value="Krahjarn Healer"/>
+<label key="1879083717" value="Coldbear"/>
+<label key="1879083718" value="Ansach"/>
+<label key="1879083722" value="Radagast"/>
+<label key="1879083841" value="Banner of Hope"/>
+<label key="1879083847" value="Banner of Victory"/>
+<label key="1879083850" value="Banner of War"/>
+<label key="1879084123" value="Coldfells Elite"/>
+<label key="1879084124" value="Krahjarn Felarrow"/>
+<label key="1879084131" value="Coldfells Lieutenant"/>
+<label key="1879084132" value="Captain-General Tordúr"/>
+<label key="1879084133" value="First Marshal Osthryth"/>
+<label key="1879084134" value="First Marshal Helegmir"/>
+<label key="1879084144" value="Alf Earthenway"/>
+<label key="1879084161" value="Fettered Spirit"/>
+<label key="1879084420" value="Tarkrîp Warrior"/>
+<label key="1879084421" value="Tarkrîp Captain"/>
+<label key="1879084422" value="Tarkrîp Curse-shouter"/>
+<label key="1879084423" value="Tarkrîp Skirmisher"/>
+<label key="1879084429" value="Doldagnir"/>
+<label key="1879084437" value="Snowback"/>
+<label key="1879084446" value="Danghal"/>
+<label key="1879084448" value="Chillgrip"/>
+<label key="1879084450" value="Caitir Adder-kiss"/>
+<label key="1879084455" value="Kurth"/>
+<label key="1879084457" value="Akharn"/>
+<label key="1879084917" value="Golodir"/>
+<label key="1879084976" value="Rogue Fire-drake"/>
+<label key="1879085060" value="Ongbúrz Soldier"/>
+<label key="1879085061" value="Coldfells Sergeant"/>
+<label key="1879085072" value="Rabid Shadow-wing"/>
+<label key="1879085179" value="Tarkrîp Captain"/>
+<label key="1879085185" value="Wicked Tarkrîp"/>
+<label key="1879085208" value="Svalfang"/>
+<label key="1879085210" value="Greater Noble Spirit"/>
+<label key="1879085217" value="Naglangon"/>
+<label key="1879085247" value="Malicious Gloom-water"/>
+<label key="1879085248" value="Dreadful Gloom-water"/>
+<label key="1879085249" value="Créoth Initiate"/>
+<label key="1879085654" value="Thorog"/>
+<label key="1879085679" value="Oathsworn Caller"/>
+<label key="1879085680" value="Oathsworn Archer"/>
+<label key="1879085681" value="Putrefied Oathsworn"/>
+<label key="1879085741" value="Ironbound Warden"/>
+<label key="1879085749" value="Fell-spirit"/>
+<label key="1879085750" value="Enraged Fell-spirit"/>
+<label key="1879085983" value="Small Kynmap"/>
+<label key="1879086010" value="Tasgall"/>
+<label key="1879086280" value="Large Kynmap"/>
+<label key="1879086281" value="Medium Kynmap"/>
+<label key="1879086304" value="Angmarim Guard"/>
+<label key="1879086361" value="Terrible Wood-troll"/>
+<label key="1879086362" value="Corrupted Fen-binder"/>
+<label key="1879086365" value="Dourhand Gem-thief"/>
+<label key="1879086468" value="Mudhun"/>
+<label key="1879086503" value="Tarbúrz"/>
+<label key="1879086572" value="Field Hare"/>
+<label key="1879086588" value="Dune Frog"/>
+<label key="1879086591" value="Red Squirrel"/>
+<label key="1879086592" value="Thicket Coney"/>
+<label key="1879086593" value="Hill Fox"/>
+<label key="1879086600" value="Red Fox"/>
+<label key="1879086602" value="Silver Squirrel"/>
+<label key="1879086603" value="Winter Hare"/>
+<label key="1879086605" value="Dune Snake"/>
+<label key="1879086682" value="Brutal Hill-beast"/>
+<label key="1879086720" value="Angmarim Expeditionary"/>
+<label key="1879086721" value="Dead-eye Angmarim"/>
+<label key="1879086722" value="Angmarim Hymn-chanter"/>
+<label key="1879086723" value="Greensward-hind"/>
+<label key="1879086724" value="Greensward-hart"/>
+<label key="1879086725" value="Young Greensward-hind"/>
+<label key="1879086726" value="Wild Greensward-hart"/>
+<label key="1879086727" value="Hill-hind"/>
+<label key="1879086728" value="Hill-buck"/>
+<label key="1879086729" value="Elk-cow"/>
+<label key="1879086730" value="Enraged Elk-bull"/>
+<label key="1879086731" value="Fearsome Barghest"/>
+<label key="1879086732" value="Stone-grip Barghest"/>
+<label key="1879086733" value="Splinterjaw"/>
+<label key="1879086734" value="Malevolent Shadow-wing"/>
+<label key="1879086735" value="Formidable Forest-shambler"/>
+<label key="1879086736" value="Hardy Forest-shambler"/>
+<label key="1879086737" value="Elder Forest-shambler"/>
+<label key="1879086738" value="Forest-shambler Matron"/>
+<label key="1879086739" value="Young Forest-shambler"/>
+<label key="1879086740" value="Grizzule"/>
+<label key="1879086741" value="Grasping Sand-lurker"/>
+<label key="1879086742" value="Creeping Sand-lurker"/>
+<label key="1879086743" value="Fugitive Tomb-robber"/>
+<label key="1879086744" value="Wary Tomb-robber"/>
+<label key="1879086745" value="Tomb-robber Ambusher"/>
+<label key="1879086746" value="Scruffy Tomb-robber"/>
+<label key="1879086747" value="Desperate Tomb-robber"/>
+<label key="1879086748" value="Tomb-robber Captain"/>
+<label key="1879086749" value="Veteran Tomb-robber"/>
+<label key="1879086750" value="Scouting Tomb-robber"/>
+<label key="1879086751" value="Master Tomb-robber"/>
+<label key="1879086752" value="Hardened Tomb-robber"/>
+<label key="1879086753" value="Deadly Tomb-robber"/>
+<label key="1879086754" value="Rycroft the Wretched"/>
+<label key="1879086755" value="Flickering Limrafn"/>
+<label key="1879086756" value="Glimmering Limrafn"/>
+<label key="1879086757" value="Tomb-crawler"/>
+<label key="1879086758" value="Crawling Rock-shell"/>
+<label key="1879086759" value="Gonflad"/>
+<label key="1879086760" value="Stone-giant Chieftan"/>
+<label key="1879086761" value="Stone-giant Warrior"/>
+<label key="1879086762" value="Stone-giant Lobber"/>
+<label key="1879086763" value="Hlóthwer"/>
+<label key="1879086764" value="Cowardly Boggart"/>
+<label key="1879086765" value="Gramsfoot Slasher"/>
+<label key="1879086766" value="Gramsfoot Spear-flinger"/>
+<label key="1879086767" value="Gazatbag"/>
+<label key="1879086770" value="Lake-skimmer"/>
+<label key="1879086771" value="Screeching Lake-skimmer"/>
+<label key="1879086772" value="Burrowing Sand-norbog"/>
+<label key="1879086773" value="Huge Sand-norbog"/>
+<label key="1879086774" value="Oath-breaker Soldier"/>
+<label key="1879086775" value="Oath-breaker Archer"/>
+<label key="1879086776" value="Glowing Fire-fly"/>
+<label key="1879086777" value="Luminous Fire-fly"/>
+<label key="1879086782" value="Vile Kergrim"/>
+<label key="1879086783" value="Kergrim Scavenger"/>
+<label key="1879086784" value="Grave-stalker"/>
+<label key="1879086785" value="Tomb-scratcher"/>
+<label key="1879086786" value="Wood-web Hunter"/>
+<label key="1879086787" value="Wood-web Mother"/>
+<label key="1879086788" value="Wood-web Spinner"/>
+<label key="1879086789" value="Ravenous Twilight-howler"/>
+<label key="1879086790" value="Flanking Twilight-howler"/>
+<label key="1879086791" value="Sagrurz"/>
+<label key="1879086792" value="Whitemane-leader"/>
+<label key="1879086793" value="Whitemane Wolf"/>
+<label key="1879086794" value="Vicious Shadowfang"/>
+<label key="1879086795" value="Wild Shadowfang"/>
+<label key="1879086803" value="Barkskin Wood-troll"/>
+<label key="1879086805" value="Island Salamander"/>
+<label key="1879086806" value="Salamander"/>
+<label key="1879086807" value="Ruillug"/>
+<label key="1879086823" value="Gauradan Soothsayer"/>
+<label key="1879086824" value="Gauradan Tribesman"/>
+<label key="1879086825" value="Gauradan Gorge-stalker"/>
+<label key="1879086826" value="Gauradan Weald-master"/>
+<label key="1879086827" value="Gauradan Warrior"/>
+<label key="1879086828" value="Gauradan Weald-hunter"/>
+<label key="1879086829" value="Valtteri"/>
+<label key="1879086830" value="Swarming Locusts"/>
+<label key="1879086954" value="Jabe Grimshaw"/>
+<label key="1879086955" value="Pantescal"/>
+<label key="1879086965" value="Salamander-sire"/>
+<label key="1879086966" value="Salamander-dam"/>
+<label key="1879087042" value="Gúlaran Caretaker"/>
+<label key="1879087043" value="Gúlaran Caretaker"/>
+<label key="1879087044" value="Múlvuirë, High Sorceress"/>
+<label key="1879087045" value="Afraig, Gúlaran Sorceress"/>
+<label key="1879087046" value="Coblaith, Gúlaran Sorceress"/>
+<label key="1879087047" value="Udúnion"/>
+<label key="1879087048" value="Gularan Protector"/>
+<label key="1879087049" value="Wracked Horror"/>
+<label key="1879087050" value="Tormented Horror"/>
+<label key="1879087051" value="Doom-bringer"/>
+<label key="1879087052" value="Doom-singer"/>
+<label key="1879087053" value="Forvengwath"/>
+<label key="1879087054" value="Gúlaran Warrior"/>
+<label key="1879087055" value="Gúlaran Guard"/>
+<label key="1879087056" value="Gúlaran Defender"/>
+<label key="1879087057" value="Agent of Forvengwath"/>
+<label key="1879087058" value="Castellan Wisdán"/>
+<label key="1879087180" value="Guiding Tomb-robber"/>
+<label key="1879087181" value="Idella Crypt-breaker"/>
+<label key="1879087182" value="Tomb-robbing Archer"/>
+<label key="1879087183" value="Tomb-robbing Sneak"/>
+<label key="1879087184" value="Greedy Tomb-robber"/>
+<label key="1879087185" value="Prowling Tomb-robber"/>
+<label key="1879087186" value="Kergrim Rampager"/>
+<label key="1879087187" value="Enraged Kergrim"/>
+<label key="1879087188" value="Kergrim Prowler"/>
+<label key="1879087189" value="Great Tomb-crawler"/>
+<label key="1879087190" value="Nengon"/>
+<label key="1879087191" value="Nenuial's Tormentor"/>
+<label key="1879087192" value="Nenuial's Scourge"/>
+<label key="1879087193" value="Nornagol"/>
+<label key="1879087219" value="Villainous Tomb-robber"/>
+<label key="1879087287" value="Summoned Spinner"/>
+<label key="1879087288" value="Summoned Lurker"/>
+<label key="1879087453" value="Tasgall"/>
+<label key="1879087463" value="Crypt Digger"/>
+<label key="1879087484" value="Glirion"/>
+<label key="1879087540" value="The Twisted Heart"/>
+<label key="1879087541" value="Rotting Wood-troll"/>
+<label key="1879087542" value="Heart-rot"/>
+<label key="1879087572" value="Chief's Hunter"/>
+<label key="1879087573" value="Chief's Stalker"/>
+<label key="1879087574" value="Chief's Worker"/>
+<label key="1879087575" value="Will Tuffin"/>
+<label key="1879087576" value="Chief's Man"/>
+<label key="1879087577" value="Chief's Watcher"/>
+<label key="1879087578" value="Chief's Captain"/>
+<label key="1879087595" value="Bill Tripper"/>
+<label key="1879087596" value="Harry Hinchcliffe"/>
+<label key="1879087597" value="Andy Idden"/>
+<label key="1879087599" value="Thauk"/>
+<label key="1879087612" value="Fierce Wolf"/>
+<label key="1879087613" value="Risen Wolf"/>
+<label key="1879087650" value="Nornagol's Spawn"/>
+<label key="1879087861" value="Locust Queen"/>
+<label key="1879087862" value="Starving Whitemane"/>
+<label key="1879087863" value="Bonefang"/>
+<label key="1879087881" value="Hill-crawler"/>
+<label key="1879087882" value="Mouldcreeper"/>
+<label key="1879087883" value="Whitemane Scavenger"/>
+<label key="1879087884" value="Chief Tomb-robber"/>
+<label key="1879087885" value="Silt-crawler"/>
+<label key="1879087886" value="Rattleclaw"/>
+<label key="1879087887" value="Rotting Pine-Lord"/>
+<label key="1879087888" value="Cleft-crawler"/>
+<label key="1879087889" value="Mangetail"/>
+<label key="1879087890" value="Avice Twynam"/>
+<label key="1879087947" value="Glimmertail"/>
+<label key="1879087961" value="Cowardly Boggart"/>
+<label key="1879088065" value="Brychan the Bald"/>
+<label key="1879088067" value="Game Hen"/>
+<label key="1879088544" value="Longbough"/>
+<label key="1879088562" value="Chief's Lackey"/>
+<label key="1879088563" value="Chief's Wolf-keeper"/>
+<label key="1879088564" value="Diseased Rat"/>
+<label key="1879088566" value="Chief's Guard"/>
+<label key="1879088567" value="Dwaling Chief"/>
+<label key="1879088571" value="Sergeant-at-Arms Ascwyn"/>
+<label key="1879088599" value="Twisted Heart's Root"/>
+<label key="1879088614" value="Successful Tomb-robber"/>
+<label key="1879088615" value="Raging Twilight-howler"/>
+<label key="1879088617" value="Cunning Tomb-robber"/>
+<label key="1879088618" value="Boss Tomb-robber"/>
+<label key="1879088619" value="Murderous Twilight-howler"/>
+<label key="1879088620" value="Elusive Tomb-robber"/>
+<label key="1879088621" value="Ranger Defender"/>
+<label key="1879088656" value="Ned Leggett"/>
+<label key="1879088684" value="Heart-rot"/>
+<label key="1879088806" value="Weak Boggart"/>
+<label key="1879088823" value="Bhaltair"/>
+<label key="1879088824" value="Kevoca"/>
+<label key="1879088825" value="Morguldur"/>
+<label key="1879088826" value="Neacal"/>
+<label key="1879088827" value="Siridean"/>
+<label key="1879088855" value="Sara Oakheart"/>
+<label key="1879088868" value="Sullen Treasure-hunter"/>
+<label key="1879088869" value="Treasure-hunter Captain"/>
+<label key="1879088956" value="Ranger Defender"/>
+<label key="1879088957" value="Ranger Guardian"/>
+<label key="1879089024" value="Merciless Tomb-robber"/>
+<label key="1879089175" value="Ranger Protector"/>
+<label key="1879089181" value="Young Forest-shambler"/>
+<label key="1879089182" value="Forest-shambler Matron"/>
+<label key="1879089183" value="Deadly Boggart"/>
+<label key="1879089184" value="Gramsfoot Leader"/>
+<label key="1879089185" value="Gramsfoot Slasher"/>
+<label key="1879089186" value="Gramsfoot Spear-flinger"/>
+<label key="1879089211" value="Ranger"/>
+<label key="1879089218" value="Enforcer"/>
+<label key="1879089219" value="Enforcer"/>
+<label key="1879089280" value="Forvengwath's Pledge"/>
+<label key="1879089422" value="Ansley Atwood"/>
+<label key="1879089423" value="Ogden Oakes"/>
+<label key="1879089532" value="Biting Sand-flies"/>
+<label key="1879089533" value="Buzzing Lake-flies"/>
+<label key="1879089636" value="Gramsfoot Harrier"/>
+<label key="1879089638" value="Angry Boggart"/>
+<label key="1879089639" value="Gramsfoot Gouger"/>
+<label key="1879089668" value="Bog Guardian"/>
+<label key="1879089670" value="Miluidir"/>
+<label key="1879089671" value="Gramsfoot Hobgoblin"/>
+<label key="1879089680" value="Bound Corpse"/>
+<label key="1879089792" value="Curr-olog Heaver"/>
+<label key="1879089945" value="Prowling Tomb-robber"/>
+<label key="1879090791" value="Lure Trap"/>
+<label key="1879090794" value="Obscuring Darkwater"/>
+<label key="1879090795" value="Suppressing Darkwater"/>
+<label key="1879090796" value="Nengon"/>
+<label key="1879090797" value="Weakening Darkwater"/>
+<label key="1879090798" value="Draining Darkwater"/>
+<label key="1879090799" value="Slowing Darkwater"/>
+<label key="1879090800" value="Caustic Darkwater"/>
+<label key="1879090807" value="Stagnant Oak"/>
+<label key="1879090811" value="Guldurchir"/>
+<label key="1879090812" value="High Sorceress"/>
+<label key="1879090813" value="Balhest"/>
+<label key="1879090814" value="Dolvaethor"/>
+<label key="1879090815" value="Agarochir"/>
+<label key="1879090889" value="Gwonil"/>
+<label key="1879090890" value="Torchirion"/>
+<label key="1879090891" value="Calenglad"/>
+<label key="1879090892" value="Laerdan"/>
+<label key="1879090893" value="Tadan"/>
+<label key="1879090972" value="Mól Choluim"/>
+<label key="1879090973" value="Roibárd"/>
+<label key="1879090974" value="Cailin"/>
+<label key="1879090975" value="Mordrambor"/>
+<label key="1879090979" value="Lozudurkh"/>
+<label key="1879091536" value="Howling Barrow-hound"/>
+<label key="1879091537" value="Brishzel"/>
+<label key="1879091538" value="Barrow-bat"/>
+<label key="1879091539" value="Barrow-candle"/>
+<label key="1879091540" value="Writhing Barrow-crawler"/>
+<label key="1879091541" value="Putrid Darkwater"/>
+<label key="1879091542" value="Umnen"/>
+<label key="1879091543" value="Creeping Hand"/>
+<label key="1879091544" value="Gaunt Plague-bearer"/>
+<label key="1879091545" value="Fergandir"/>
+<label key="1879091546" value="Barrow-spider"/>
+<label key="1879091548" value="Gwigon"/>
+<label key="1879091549" value="Decaying Barrow-wight"/>
+<label key="1879091550" value="Barrow-warden"/>
+<label key="1879091551" value="Noxious Barrow-warden"/>
+<label key="1879091573" value="Scavenging Cave-claw"/>
+<label key="1879091574" value="Brúllug"/>
+<label key="1879091577" value="Dourhand Excavator"/>
+<label key="1879091578" value="Dourhand Gem-seeker"/>
+<label key="1879091579" value="Glúmir"/>
+<label key="1879091581" value="Blue-crag Warg-keeper"/>
+<label key="1879091582" value="Latub"/>
+<label key="1879091583" value="Cave Hendroval"/>
+<label key="1879091585" value="Northpaw"/>
+<label key="1879091586" value="Barrow-spirit"/>
+<label key="1879091587" value="Faegfaer"/>
+<label key="1879091588" value="Marrow"/>
+<label key="1879091589" value="Icerender"/>
+<label key="1879091590" value="Snow-troll Bruiser"/>
+<label key="1879091591" value="Snow-troll Hurler"/>
+<label key="1879091592" value="Gâdhûp"/>
+<label key="1879091593" value="Cave-worm"/>
+<label key="1879091703" value="Uirnen"/>
+<label key="1879091704" value="Tortmund Cliffside"/>
+<label key="1879091705" value="Sergeant-at-Arms Aeglas"/>
+<label key="1879091706" value="Sergeant-at-Arms Santelleth"/>
+<label key="1879091708" value="Sergeant-at-Arms Thorfinn"/>
+<label key="1879091709" value="Tyrfing, Mine Foreman"/>
+<label key="1879091710" value="Sergeant-at-Arms Herecyne"/>
+<label key="1879091711" value="Gaelvithiel"/>
+<label key="1879091712" value="Aefaron"/>
+<label key="1879091713" value="Sergeant-at-Arms Kolr"/>
+<label key="1879091714" value="Sergeant-at-Arms Oswythe"/>
+<label key="1879091716" value="Sergeant-at-Arms Malhathel"/>
+<label key="1879091717" value="Sergeant-at-Arms Haliggyr"/>
+<label key="1879091718" value="First Marshal Án"/>
+<label key="1879091719" value="Sergeant-at-Arms Inuelen"/>
+<label key="1879091720" value="Sergeant-at-Arms Gautr"/>
+<label key="1879091721" value="Sergeant-at-Arms Iafileg"/>
+<label key="1879091722" value="Sergeant-at-Arms Caddafrith"/>
+<label key="1879091723" value="Gelbes"/>
+<label key="1879092067" value="Ancient Fel-talon"/>
+<label key="1879092068" value="Ancient Burrower"/>
+<label key="1879092069" value="Fel-talon"/>
+<label key="1879092070" value="Shining Limrafn"/>
+<label key="1879092071" value="Shingrinder"/>
+<label key="1879092072" value="Crypt-ravager"/>
+<label key="1879092073" value="Crypt-stalker"/>
+<label key="1879092074" value="Crypt-invoker"/>
+<label key="1879092075" value="Valandil of Arnor"/>
+<label key="1879092084" value="Soldier Golb"/>
+<label key="1879092085" value="Soldier Golb"/>
+<label key="1879092086" value="Soldier Kafaaz"/>
+<label key="1879092087" value="Soldier Paashum"/>
+<label key="1879092088" value="Soldier Kaasak"/>
+<label key="1879092090" value="Taskmaster Dromdas"/>
+<label key="1879092091" value="Taskmaster Glothrok"/>
+<label key="1879092092" value="Taskmaster Kala"/>
+<label key="1879092093" value="Taskmaster Dromdas"/>
+<label key="1879092094" value="Taskmaster Gropor"/>
+<label key="1879092095" value="Taskmaster Sharkúlob"/>
+<label key="1879092096" value="Soldier Kraibag"/>
+<label key="1879092097" value="Soldier Baush"/>
+<label key="1879092098" value="Soldier Dumûl"/>
+<label key="1879092099" value="Soldier Gozad"/>
+<label key="1879092100" value="Soldier Gaath"/>
+<label key="1879092101" value="Soldier Glat"/>
+<label key="1879092190" value="Cave Snow-beast"/>
+<label key="1879092289" value="Rockwithers"/>
+<label key="1879092295" value="Rotting Barrow-wight"/>
+<label key="1879092623" value="Lorniel"/>
+<label key="1879092625" value="Mordirith"/>
+<label key="1879092663" value="Kergrim Barrow-prowler"/>
+<label key="1879092674" value="Mordrambor's Servant"/>
+<label key="1879092675" value="Gauradan Negotiator"/>
+<label key="1879092676" value="Gauradan Ritualist"/>
+<label key="1879092789" value="Rantost Tomb-robber"/>
+<label key="1879092791" value="Rantost Mariner"/>
+<label key="1879092792" value="Rantost Captain"/>
+<label key="1879092794" value="Rantost Arrow-for-hire"/>
+<label key="1879092867" value="Angmarim"/>
+<label key="1879092868" value="Angmarim Lookout"/>
+<label key="1879092869" value="High Sorceress"/>
+<label key="1879092870" value="Flashing Limrafn"/>
+<label key="1879092871" value="Tormented Spirit"/>
+<label key="1879092872" value="Morelendil Guard"/>
+<label key="1879092873" value="Elder Morelendil Guard"/>
+<label key="1879093222" value="Guloth"/>
+<label key="1879093236" value="Fallen Hero"/>
+<label key="1879093237" value="Fallen Hero"/>
+<label key="1879093238" value="Fallen Hero"/>
+<label key="1879093241" value="Fallen Hero"/>
+<label key="1879093242" value="Fallen Hero"/>
+<label key="1879093279" value="Fallen Hero"/>
+<label key="1879093408" value="Angmarim Venom-master"/>
+<label key="1879093409" value="Angmarim Warrior"/>
+<label key="1879093410" value="Angmarim Marksman"/>
+<label key="1879093411" value="Angmarim Illusionist"/>
+<label key="1879093412" value="Angmarim Spider-tamer"/>
+<label key="1879093413" value="Angmarim Soldier"/>
+<label key="1879093414" value="Angmarim Bowman"/>
+<label key="1879093416" value="Angmarim Overseer"/>
+<label key="1879093417" value="Angmarim Web-caller"/>
+<label key="1879093418" value="Angmarim Captain"/>
+<label key="1879093419" value="Angmarim Sharpeye"/>
+<label key="1879093420" value="Angmarim Ritualist"/>
+<label key="1879093421" value="Angmarim Lookout"/>
+<label key="1879093422" value="Angmarim Torturer"/>
+<label key="1879093423" value="Valtair"/>
+<label key="1879093424" value="Elder Angmarim Venom-master"/>
+<label key="1879093425" value="Elder Angmarim Warrior"/>
+<label key="1879093426" value="Elder Angmarim Marksman"/>
+<label key="1879093427" value="Elder Angmarim Sorceror"/>
+<label key="1879093428" value="Angmarim Lookout"/>
+<label key="1879093429" value="Elder Angmarim Summoner"/>
+<label key="1879093430" value="Elder Angmarim Brawler"/>
+<label key="1879093431" value="Elder Angmarim Archer"/>
+<label key="1879093432" value="Elder Angmarim High-Priest"/>
+<label key="1879093433" value="Siridán"/>
+<label key="1879093434" value="Unagh"/>
+<label key="1879093436" value="Elder Angmarim Soldier"/>
+<label key="1879093440" value="Elder Angmarim Captain"/>
+<label key="1879093441" value="Elder Angmarim Sharpeye"/>
+<label key="1879093442" value="Elder Angmarim Ritualist"/>
+<label key="1879093443" value="Dúnedain"/>
+<label key="1879093445" value="Dúnedain"/>
+<label key="1879093446" value="Dúnedain"/>
+<label key="1879093447" value="Dúnedain"/>
+<label key="1879093448" value="Captain-General Daerdan"/>
+<label key="1879093449" value="Marshall Túdang"/>
+<label key="1879093450" value="Marshall Ambadanir"/>
+<label key="1879093451" value="Marshall Fimdir"/>
+<label key="1879093452" value="Dúnedain"/>
+<label key="1879093453" value="Dúnedain"/>
+<label key="1879093454" value="Dúnedain"/>
+<label key="1879093455" value="Dúnedain"/>
+<label key="1879093484" value="Gorthorog Warrior"/>
+<label key="1879093485" value="Hooktooth"/>
+<label key="1879093737" value="Tarkrîp Berserker"/>
+<label key="1879093738" value="Tarkrîp Skirmisher"/>
+<label key="1879093739" value="Tarkrîp Ransacker"/>
+<label key="1879093740" value="Tarkrîp Berserker"/>
+<label key="1879093741" value="Tarkrîp Skirmisher"/>
+<label key="1879093742" value="Tarkrîp Ransacker"/>
+<label key="1879093757" value="Champion Sharkúlob"/>
+<label key="1879093758" value="Champion Kala"/>
+<label key="1879093773" value="Blue-crag Worker"/>
+<label key="1879093774" value="Blue-crag Blaster"/>
+<label key="1879093775" value="Dourhand Mine-overseer"/>
+<label key="1879093776" value="Cave Warg"/>
+<label key="1879093777" value="Dourhand Blaster"/>
+<label key="1879093778" value="Snow-troll Ripper"/>
+<label key="1879093779" value="Formidable Snowbear"/>
+<label key="1879093780" value="Snow-beast Hurler"/>
+<label key="1879093826" value="Burning Limrafn"/>
+<label key="1879093839" value="Spectral Warrior"/>
+<label key="1879093840" value="Spectral Champion"/>
+<label key="1879093847" value="Cuthbert Sprunt"/>
+<label key="1879093848" value="Graham Hinchcliffe"/>
+<label key="1879093849" value="Sprunt's Archer"/>
+<label key="1879093850" value="Sprunt's Brigand"/>
+<label key="1879093851" value="Thomas Idden"/>
+<label key="1879093852" value="Will Tripper"/>
+<label key="1879093853" value="Basil Gummidge"/>
+<label key="1879093914" value="Carn Dûm Gatekeeper"/>
+<label key="1879093915" value="Urugarth Gatekeeper"/>
+<label key="1879093917" value="Fiery Morelendil Guard"/>
+<label key="1879093918" value="Arnorian Wight"/>
+<label key="1879094003" value="Shield-maiden Herald"/>
+<label key="1879094008" value="Footsoldier Herald"/>
+<label key="1879094204" value="Swordswoman Herald"/>
+<label key="1879094205" value="Maid-at-arms Herald"/>
+<label key="1879094206" value="Warden Herald"/>
+<label key="1879094207" value="Defender Herald"/>
+<label key="1879094599" value="Barz"/>
+<label key="1879094600" value="Zurm"/>
+<label key="1879094601" value="Hillmen Worker"/>
+<label key="1879094602" value="Hillmen Slave"/>
+<label key="1879094603" value="Hillmen Guard"/>
+<label key="1879094604" value="Hillmen Worker"/>
+<label key="1879094605" value="Hillmen Slave"/>
+<label key="1879094606" value="Hillmen Guard"/>
+<label key="1879094607" value="Pale-folk Miner"/>
+<label key="1879094608" value="Pale-folk Miner"/>
+<label key="1879094609" value="Blogmal Cave-troll"/>
+<label key="1879094610" value="Tarkrîp Cave-troll"/>
+<label key="1879094611" value="Blogmal Troll-keeper"/>
+<label key="1879094612" value="Tarkrîp Troll-keeper"/>
+<label key="1879094738" value="Blogmal Slave-master"/>
+<label key="1879094739" value="Tarkrîp Slave-master"/>
+<label key="1879094750" value="Caragdal"/>
+<label key="1879094902" value="Elder Fettered Spirit"/>
+<label key="1879094904" value="Longhorn"/>
+<label key="1879094905" value="Mammoth Bull"/>
+<label key="1879094906" value="Frost-mammoth Bull"/>
+<label key="1879094907" value="Mammoth"/>
+<label key="1879094908" value="Frost-mammoth"/>
+<label key="1879094909" value="The Antlered King"/>
+<label key="1879094911" value="Gauradan Wolf-born"/>
+<label key="1879094912" value="Gauradan Wind-master"/>
+<label key="1879094913" value="Gauradan Spirit-caller"/>
+<label key="1879094914" value="Jakka"/>
+<label key="1879094915" value="Malgen"/>
+<label key="1879094917" value="Overland Overseer"/>
+<label key="1879094918" value="Overland  Guard"/>
+<label key="1879094919" value="Overland  Stabber"/>
+<label key="1879094920" value="Overland  Bomber"/>
+<label key="1879094921" value="Tempest Warg"/>
+<label key="1879094922" value="Tempest Stalker"/>
+<label key="1879094923" value="Blackfang"/>
+<label key="1879094924" value="Sulmog"/>
+<label key="1879094925" value="Totemic Pack-leader"/>
+<label key="1879094926" value="Totemic Wolf"/>
+<label key="1879094927" value="Burning Fissure-worm"/>
+<label key="1879094928" value="Rending Fissure-worm"/>
+<label key="1879094929" value="Ruinuan"/>
+<label key="1879094930" value="Rodlúg"/>
+<label key="1879094998" value="Thaurlach"/>
+<label key="1879094999" value="The Ever-seer"/>
+<label key="1879095000" value="Darkling"/>
+<label key="1879095001" value="World-eater"/>
+<label key="1879095002" value="Darkling World-eater"/>
+<label key="1879095003" value="Glathlírel"/>
+<label key="1879095030" value="Slimebiter"/>
+<label key="1879095031" value="Ornery Longhorn"/>
+<label key="1879095032" value="Docile Longhorn"/>
+<label key="1879095033" value="Grasping Pond-lurker"/>
+<label key="1879095034" value="Pond-lurker"/>
+<label key="1879095035" value="Root-crawler"/>
+<label key="1879095036" value="Wandering Stone-troll"/>
+<label key="1879095037" value="Gauradan Ritualist"/>
+<label key="1879095038" value="Gauradan Forest-walker"/>
+<label key="1879095039" value="Gauradan Far-seer"/>
+<label key="1879095040" value="Fûthurz"/>
+<label key="1879095041" value="Green River-toad"/>
+<label key="1879095042" value="Bullcroaker"/>
+<label key="1879095043" value="Ferocious Pack-leader"/>
+<label key="1879095044" value="Snarling Forest-stalker"/>
+<label key="1879095045" value="Young Wood-troll Leader"/>
+<label key="1879095046" value="Young Wood-troll Warrior"/>
+<label key="1879095047" value="Young Wood-troll Lobber"/>
+<label key="1879095048" value="Dâg Taushakh"/>
+<label key="1879095049" value="Crawling Rock-worm"/>
+<label key="1879095050" value="Sarnemil's Hatchling"/>
+<label key="1879095051" value="Sarlug"/>
+<label key="1879095052" value="Sarnemil"/>
+<label key="1879095128" value="Angmarim Scout"/>
+<label key="1879095129" value="Angmarim Searcher"/>
+<label key="1879095130" value="Mordrambor"/>
+<label key="1879095131" value="Udulug"/>
+<label key="1879095477" value="Asmólf"/>
+<label key="1879095478" value="Hillmen Worker"/>
+<label key="1879095480" value="Hillmen Worker"/>
+<label key="1879095482" value="Pale-folk Miner"/>
+<label key="1879095483" value="Pale-folk Miner"/>
+<label key="1879095484" value="Blogmal Slave-master"/>
+<label key="1879095485" value="Tarkrîp Slave-master"/>
+<label key="1879095496" value="Rift-crawler Creeper"/>
+<label key="1879095497" value="Rift-crawler Creeper"/>
+<label key="1879095508" value="Lynx"/>
+<label key="1879095538" value="Felwing Bilefang"/>
+<label key="1879095539" value="Felwing Screecher"/>
+<label key="1879095540" value="Searing Úrfon"/>
+<label key="1879095541" value="Bound Úrfon"/>
+<label key="1879095542" value="Searing Úrfon"/>
+<label key="1879095543" value="Grodris, Matron of the Wintersebb"/>
+<label key="1879095545" value="Rottenroot"/>
+<label key="1879095546" value="Active Fumarole"/>
+<label key="1879095547" value="Iarwen"/>
+<label key="1879095548" value="Rimgurthil"/>
+<label key="1879095549" value="Morroval Lurker"/>
+<label key="1879095550" value="Morroval Stalker"/>
+<label key="1879095551" value="Morroval Wing-keeper"/>
+<label key="1879095552" value="Gaergoth, the Unbound"/>
+<label key="1879095553" value="Moss-patch Tangler"/>
+<label key="1879095554" value="Rottenroot's Root"/>
+<label key="1879095556" value="Uidhelos"/>
+<label key="1879095557" value="Gortheblin"/>
+<label key="1879095558" value="Penumbral Horror"/>
+<label key="1879095559" value="Umbral Horror"/>
+<label key="1879095560" value="Bearer of Gelid Resolve"/>
+<label key="1879095561" value="Bearer of Gelid Fortitude"/>
+<label key="1879095562" value="Bearer of Gelid Fury"/>
+<label key="1879095563" value="Gworvaethor"/>
+<label key="1879095564" value="Thorliw"/>
+<label key="1879095565" value="Forgotten Champion"/>
+<label key="1879095566" value="Foetid Corpse"/>
+<label key="1879095567" value="Malembor"/>
+<label key="1879095568" value="Boldirith"/>
+<label key="1879095569" value="Gúrhardron"/>
+<label key="1879095570" value="Raingorth"/>
+<label key="1879095571" value="Nemornion"/>
+<label key="1879095572" value="Iachador"/>
+<label key="1879095573" value="Unbound Warrior"/>
+<label key="1879095574" value="Gâth"/>
+<label key="1879095575" value="Moss-patch Lure"/>
+<label key="1879095576" value="Moss-patch Hewer"/>
+<label key="1879095577" value="Flame-tongue Salamander"/>
+<label key="1879095578" value="Lava-born Salamander"/>
+<label key="1879095579" value="Húrlug"/>
+<label key="1879095580" value="Núrlug"/>
+<label key="1879095581" value="Wintersebb Bile-worm"/>
+<label key="1879095582" value="Munglug, The Egg-keeper"/>
+<label key="1879096484" value="Summoned Darkling"/>
+<label key="1879096485" value="Summoned World-eater"/>
+<label key="1879097081" value="Ghâshfra Fighter"/>
+<label key="1879097082" value="Frûz"/>
+<label key="1879097233" value="Turtle"/>
+<label key="1879097309" value="Thrâng"/>
+<label key="1879097312" value="Narnûlubat"/>
+<label key="1879097429" value="Ghâshfra Fighter"/>
+<label key="1879097430" value="Zogtark"/>
+<label key="1879097432" value="Fire-drake Elder"/>
+<label key="1879097434" value="Ghâshfra Shaman"/>
+<label key="1879097436" value="Ghâshfra Scrapper"/>
+<label key="1879097439" value="Stone-biter"/>
+<label key="1879097440" value="Fire-drakeling"/>
+<label key="1879097441" value="Fire-drake"/>
+<label key="1879097442" value="Ghâshfra Summoner"/>
+<label key="1879097443" value="Ghâshfra Defender"/>
+<label key="1879097444" value="Fire-worm"/>
+<label key="1879097446" value="Fire-worm"/>
+<label key="1879097447" value="Ghâshfra Seer"/>
+<label key="1879097448" value="Fumarole"/>
+<label key="1879097449" value="Shadow-eater"/>
+<label key="1879097451" value="Ghâshfra Butcher"/>
+<label key="1879097482" value="Red River-toad"/>
+<label key="1879097523" value="Blood-raven"/>
+<label key="1879097524" value="Polar Bear"/>
+<label key="1879097525" value="Frost-raven"/>
+<label key="1879097526" value="Black Bear"/>
+<label key="1879097527" value="Lesser Giant Snowcrest-eagle"/>
+<label key="1879097528" value="Lesser Giant Ashen Eagle"/>
+<label key="1879097529" value="Snow-lynx"/>
+<label key="1879097530" value="Spotted Lynx"/>
+<label key="1879097642" value="Goblin-town Drudger"/>
+<label key="1879097644" value="Rakothúrz Horm's Handler"/>
+<label key="1879097645" value="Goblin-town Cook"/>
+<label key="1879097646" value="Goblin-town Delver"/>
+<label key="1879097647" value="Kaushar The Drum-mender"/>
+<label key="1879097648" value="Goblin-town Guard"/>
+<label key="1879097649" value="Zagh Master of the Guard"/>
+<label key="1879097650" value="Aklash Leader of Soldiers"/>
+<label key="1879097651" value="Goblin-town Jailor"/>
+<label key="1879097652" value="Goblin-town Lasher"/>
+<label key="1879097653" value="Takhborkh Master of the Lash"/>
+<label key="1879097654" value="Farmak The Best Runner"/>
+<label key="1879097655" value="Goblin-town Lickspittle"/>
+<label key="1879097656" value="Dâgal The Observer"/>
+<label key="1879097657" value="Goblin-town Runner"/>
+<label key="1879097658" value="Goblin-town Smith"/>
+<label key="1879097659" value="Goblin-town Soldier"/>
+<label key="1879097660" value="Matuga Torturer"/>
+<label key="1879097661" value="Goblin-town Keeper"/>
+<label key="1879097662" value="Goblin-town Worker"/>
+<label key="1879097663" value="Oghûk the Hooligan"/>
+<label key="1879097664" value="Ashûrz the Great Goblin"/>
+<label key="1879097667" value="Narash, Bhoghad's Champion"/>
+<label key="1879097668" value="Blogmal Defender"/>
+<label key="1879097669" value="Blogmal Fighter"/>
+<label key="1879097670" value="Blogmal Scout"/>
+<label key="1879097671" value="Goblin-town Warrior"/>
+<label key="1879097672" value="Horm, The Pit Beast"/>
+<label key="1879097673" value="Cave-troll Drummer"/>
+<label key="1879097674" value="Bhoghad, Emissary to Goblin-town"/>
+<label key="1879097675" value="Blogmal Overseer"/>
+<label key="1879097676" value="Izkâl, Ashûrz's Beast"/>
+<label key="1879097677" value="Lobûrz, the Pack-leader"/>
+<label key="1879097678" value="Goblin-town Ravager"/>
+<label key="1879097679" value="Goblin-town Stalker"/>
+<label key="1879097680" value="Stonehide Salamander"/>
+<label key="1879097708" value="Eimyr"/>
+<label key="1879097825" value="Hatchling"/>
+<label key="1879098178" value="Aeglas"/>
+<label key="1879098181" value="Wildpaw-bear"/>
+<label key="1879098182" value="Lesser Giant Ember-eagle"/>
+<label key="1879098183" value="Dark Lynx"/>
+<label key="1879098184" value="Mottled-raven"/>
+<label key="1879098199" value="Tortrygg"/>
+<label key="1879098200" value="Hyrrokkin"/>
+<label key="1879098201" value="Asmólf"/>
+<label key="1879098758" value="Sithad Blade-beak"/>
+<label key="1879098759" value="Sithad root-crawler"/>
+<label key="1879098796" value="Fumarole"/>
+<label key="1879098827" value="Searing Úrfon"/>
+<label key="1879099240" value="Hillmen Laborer"/>
+<label key="1879099241" value="Hillmen Servant"/>
+<label key="1879099242" value="Hillmen Protector"/>
+<label key="1879099243" value="Tarkrîp Mountain-troll"/>
+<label key="1879099244" value="Tarkrîp Overseer"/>
+<label key="1879099245" value="Hillmen Servant"/>
+<label key="1879099246" value="Hillmen Laborer"/>
+<label key="1879099247" value="Hillmen Protector"/>
+<label key="1879099248" value="Blogmal Overseer"/>
+<label key="1879099249" value="Blogmal Mountain-troll"/>
+<label key="1879101487" value="Ranger"/>
+<label key="1879101488" value="Ranger"/>
+<label key="1879101646" value="Darkling World-eater"/>
+<label key="1879101692" value="Unearthed Crawler"/>
+<label key="1879101730" value="Command Post"/>
+<label key="1879101731" value="Banner of Terror"/>
+<label key="1879102256" value="Gúrthul"/>
+<label key="1879102257" value="Gúrthul"/>
+<label key="1879102258" value="Gúrthul"/>
+<label key="1879102259" value="Gúrthul"/>
+<label key="1879102260" value="Gúrthul"/>
+<label key="1879102261" value="Gúrthul"/>
+</labels>

@@ -1,0 +1,1966 @@
+<?xml version="1.0" encoding="UTF-8"?><labels locale="de">
+<label key="1879048830" value="Waffenloser Angriff"/>
+<label key="1879048831" value="1H-Waffen-Angriff"/>
+<label key="1879048832" value="1H-Waffen-/Schild-Angriff"/>
+<label key="1879048833" value="Doppelangriff"/>
+<label key="1879048834" value="2H-Waffen-Angriff"/>
+<label key="1879048835" value="Bogenangriff"/>
+<label key="1879048836" value="Armbrustangriff"/>
+<label key="1879049322" value="Minimaler allgemeiner Schaden (Nahkampf)"/>
+<label key="1879049323" value="Niedriger allgemeiner Schaden (Nahkampf)"/>
+<label key="1879049324" value="Mittlerer allgemeiner Schaden (Nahkampf)"/>
+<label key="1879049325" value="Minimaler allgemeiner Schaden (Wurfgeschosse)"/>
+<label key="1879049326" value="Niederger allgemeiner Schaden (Wurfgeschosse)"/>
+<label key="1879049327" value="Mittlerer allgemeiner Schaden (Wurfgeschosse)"/>
+<label key="1879049328" value="Zurückziehen"/>
+<label key="1879049337" value="Wolfsgebieter"/>
+<label key="1879049338" value="Wolf beschwören"/>
+<label key="1879049458" value="Lähmender Biss"/>
+<label key="1879049462" value="Geringe Verstauchung"/>
+<label key="1879049463" value="Leichte Verrenkung"/>
+<label key="1879049464" value="Leichte Verletzung"/>
+<label key="1879049465" value="Verstauchung"/>
+<label key="1879049466" value="Verrenkung"/>
+<label key="1879049467" value="Verletzung"/>
+<label key="1879049468" value="Verschlimmernde Wunde"/>
+<label key="1879049480" value="Kleines Gift"/>
+<label key="1879049481" value="Schwaches lähmendes Gift"/>
+<label key="1879049482" value="Gift"/>
+<label key="1879049483" value="Lähmendes Gift"/>
+<label key="1879049484" value="Latentes Gift"/>
+<label key="1879049527" value="Lcht. auszehrende Krankh."/>
+<label key="1879049528" value="Lcht. krankh. Gebrechl."/>
+<label key="1879049529" value="Auszehrende Krankheit"/>
+<label key="1879049530" value="Krankhafte Gebrechlichkeit"/>
+<label key="1879049531" value="Schwärende Krankheit"/>
+<label key="1879049732" value="Doppelter Schaden (Nahkampf)"/>
+<label key="1879049733" value="Zu Boden schlagen (Nahkampf)"/>
+<label key="1879049734" value="Dreifacher Schaden (Nahkampf)"/>
+<label key="1879049739" value="Großes Gift"/>
+<label key="1879049740" value="Starkes lähmendes Gift"/>
+<label key="1879049811" value="Schleimpfütze"/>
+<label key="1879050054" value="Minimaler allgemeiner Schaden (Fernkampf)"/>
+<label key="1879050055" value="Hoher allgemeiner Schaden (Fernkampf)"/>
+<label key="1879050056" value="Mittlerer allgemeiner Schaden (Fernkampf)"/>
+<label key="1879050057" value="Giftpfeil-Angriff"/>
+<label key="1879050058" value="Feuerpfeil-Angriff"/>
+<label key="1879050127" value="Entwaffnen (Nahkampf)"/>
+<label key="1879050128" value="Streichschaden (Nahkampf)"/>
+<label key="1879050129" value="Kriegsschrei"/>
+<label key="1879050146" value="Wilder Schnitt"/>
+<label key="1879050147" value="Caltrop Scatter"/>
+<label key="1879050148" value="Helfer zum Ziel rufen"/>
+<label key="1879050182" value="Enter Stealthed State"/>
+<label key="1879050183" value="Enter Stealthed State"/>
+<label key="1879050203" value="Betäubungsstaub (St. 1)"/>
+<label key="1879050236" value="Spalt-Unhold beschwören"/>
+<label key="1879050237" value="Kraft des Bösen"/>
+<label key="1879050238" value="Die Toten bestehlen"/>
+<label key="1879050250" value="St. auszehrende Krankheit"/>
+<label key="1879050251" value="Schw. krankh. Gebrechl."/>
+<label key="1879050252" value="Nagende Krankheit"/>
+<label key="1879050259" value="Schwere Verstauchung"/>
+<label key="1879050260" value="Schwere Verrenkung"/>
+<label key="1879050261" value="Schwere Verletzung"/>
+<label key="1879050502" value="Wunde heilen"/>
+<label key="1879050504" value="Gift neutralisieren"/>
+<label key="1879050505" value="Krankheit heilen"/>
+<label key="1879050506" value="Furcht heilen"/>
+<label key="1879051254" value="Heilung"/>
+<label key="1879051267" value="Kraftvoller Schnitt"/>
+<label key="1879051268" value="Raserei"/>
+<label key="1879051269" value="Bedrohliches Brüllen"/>
+<label key="1879051270" value="Aura des Machtworts"/>
+<label key="1879051279" value="Unsicher"/>
+<label key="1879051280" value="Geringes Grauen"/>
+<label key="1879051281" value="Fröstelnd"/>
+<label key="1879051282" value="Grauen"/>
+<label key="1879051283" value="Unterdrücktes Trauma"/>
+<label key="1879051299" value="Mittlerer Feuerschaden (Nahkampf)"/>
+<label key="1879051300" value="Minimaler Feuerschaden (Nahkampf)"/>
+<label key="1879051301" value="Mittelstarke Feuerschaden-Blutung (Nahkampf)"/>
+<label key="1879051302" value="Thrown Distance No Move"/>
+<label key="1879051303" value="Keulenwurf"/>
+<label key="1879051304" value="Rückstoß (Nahkampf)"/>
+<label key="1879051305" value="Stampfen"/>
+<label key="1879051306" value="Wilder Angriff"/>
+<label key="1879051307" value="Wilder Angriff"/>
+<label key="1879051390" value="Maximaler allgemeiner Schaden (Wurfgeschosse)"/>
+<label key="1879051391" value="Angewurzelt (Wurfgeschosse)"/>
+<label key="1879051394" value="Mittlerer Blutungsschaden (Nahkampf)"/>
+<label key="1879051395" value="Kampfschrei"/>
+<label key="1879051422" value="Netz der Umklammerung"/>
+<label key="1879051423" value="Schlachtsignal"/>
+<label key="1879051424" value="Vampirbiss"/>
+<label key="1879051430" value="Anfälligkeit für Gift"/>
+<label key="1879051471" value="Nagende Krankheit"/>
+<label key="1879051472" value="Stille"/>
+<label key="1879051480" value="Unhold beschwören"/>
+<label key="1879051748" value="Bogen-Rundumschlag (Nahkampf)"/>
+<label key="1879051777" value="Lähmen (Wurfgeschosse)"/>
+<label key="1879052007" value="Heimtückischer Pfeil"/>
+<label key="1879052104" value="Brutaler Schnitt"/>
+<label key="1879052105" value="Grässliches Brüllen"/>
+<label key="1879052112" value="Verheerung"/>
+<label key="1879052125" value="Blitzende Klingen"/>
+<label key="1879052160" value="Ungeschützte Kehle"/>
+<label key="1879052199" value="Kriegszug der Ents"/>
+<label key="1879052210" value="Adlerfreund"/>
+<label key="1879052284" value="Mittlerer gewöhnlicher Schaden durch schnellen Nahkampf"/>
+<label key="1879052286" value="Schnabelreißer"/>
+<label key="1879052287" value="Aufopferung"/>
+<label key="1879052288" value="Facht das Feuer an."/>
+<label key="1879052289" value="Minimaler Schaden aus der Flanke (Nahkampf)"/>
+<label key="1879052434" value="Bärenfalle"/>
+<label key="1879052499" value="Bards Pfeil"/>
+<label key="1879052517" value="Unterwegs"/>
+<label key="1879052532" value="Dornenregen"/>
+<label key="1879052653" value="Schattengriff"/>
+<label key="1879052654" value="Erschütterung"/>
+<label key="1879052655" value="Unnatürliches Kreischen"/>
+<label key="1879052656" value="Gefahr der Ahndung"/>
+<label key="1879052663" value="Doppelter Schattenschaden (Nahkampf)"/>
+<label key="1879052664" value="Dreifacher Schattenschaden (Nahkampf)"/>
+<label key="1879052665" value="Verwundbar (Schatten)"/>
+<label key="1879052666" value="Todesstille"/>
+<label key="1879052667" value="Umlaufende Furcht"/>
+<label key="1879052668" value="Grausamen Geist herbeirufen."/>
+<label key="1879052669" value="Großes Grauen"/>
+<label key="1879052670" value="In Schrecken versetzen"/>
+<label key="1879052676" value="Minimaler Schattenschaden (Nahkampf)"/>
+<label key="1879052677" value="Niedriger Schattenschaden (Nahkampf)"/>
+<label key="1879052678" value="Mittlerer Schattenschaden (Nahkampf)"/>
+<label key="1879052679" value="Induction Enter Invulnerability State"/>
+<label key="1879052680" value="Unverwundbarkeit beenden"/>
+<label key="1879052681" value="Schattensalve"/>
+<label key="1879052682" value="Schattenschrei"/>
+<label key="1879052683" value="Berührung der Schatten"/>
+<label key="1879052687" value="Große Bestürzung"/>
+<label key="1879052832" value="Mittlerer Streichschaden (Nahkampf)"/>
+<label key="1879052833" value="Heftiger Schildschlag"/>
+<label key="1879052848" value="Minimaler Streichschaden (Nahkampf)"/>
+<label key="1879052860" value="Bereichsschaden (Fernkampf)"/>
+<label key="1879052861" value="Induction Ranged Double"/>
+<label key="1879052881" value="Anmut der Eldar"/>
+<label key="1879052895" value="Lied des hoffnungsvollen Herzens"/>
+<label key="1879052912" value="Hymne der Zauberer"/>
+<label key="1879052981" value="Spinne herbeirufen."/>
+<label key="1879052985" value="Hemmendes Netz"/>
+<label key="1879053027" value="Flucht v. d. Verderbtheit"/>
+<label key="1879053049" value="Schild der Dúnedain"/>
+<label key="1879053062" value="Eidbrechers Schande"/>
+<label key="1879053069" value="Verteidigung von Mittelerde"/>
+<label key="1879053108" value="Blutende Axt"/>
+<label key="1879053184" value="Lähmen (Nahkampf)"/>
+<label key="1879053191" value="Wind des Verderbens"/>
+<label key="1879054063" value="Krankes Brüllen"/>
+<label key="1879054402" value="Stolz"/>
+<label key="1879054403" value="Wirbelnde Axt"/>
+<label key="1879054542" value="Maximaler Streichschaden (Nahkampf)"/>
+<label key="1879054543" value="Lähmender Streich"/>
+<label key="1879054546" value="Angreifen"/>
+<label key="1879054550" value="Unterbrechung (Fernkampf)"/>
+<label key="1879054587" value="Niedriger Streichschaden (Nahkampf)"/>
+<label key="1879054588" value="Hoher Streichschaden (Nahkampf)"/>
+<label key="1879054589" value="Minimaler allgemeiner Schaden (Fernkampf)"/>
+<label key="1879054590" value="Mittlerer allgemeiner Schaden (Fernkampf)"/>
+<label key="1879054591" value="Doppelter Schaden (Fernkampf)"/>
+<label key="1879054592" value="Schändliches Geschoss"/>
+<label key="1879054593" value="Ergreifen"/>
+<label key="1879055302" value="Sternenglas"/>
+<label key="1879055305" value="Sternenglas"/>
+<label key="1879055859" value="Ausbalancierte Wurfaxt"/>
+<label key="1879055861" value="Ausbalancierte Wurfaxt"/>
+<label key="1879056877" value="Helfer herbeirufen"/>
+<label key="1879056906" value="Niedriger Feuerschaden (Nahkampf)"/>
+<label key="1879056907" value="Minimaler Feuerschaden (Fernkampf)"/>
+<label key="1879056908" value="Niedriger Feuerschaden (Fernkampf)"/>
+<label key="1879056909" value="Mittlerer Feuerschaden (Fernkampf)"/>
+<label key="1879056910" value="Dreifacher Feuerschaden (Nahkampf)"/>
+<label key="1879056911" value="Schwanzstreich"/>
+<label key="1879056912" value="Feuerball"/>
+<label key="1879056913" value="Feuerhauch"/>
+<label key="1879056914" value="Flügelschlag"/>
+<label key="1879056977" value="Rüstung beschädigen"/>
+<label key="1879056983" value="Geflügelte Diener"/>
+<label key="1879056984" value="Ruhm durch Sieg"/>
+<label key="1879056985" value="Siegreiches Wiedererwachen"/>
+<label key="1879056986" value="Ahndung"/>
+<label key="1879057290" value="Kauern"/>
+<label key="1879057291" value="Weglaufen"/>
+<label key="1879057754" value="Vernichtende Verwüstung"/>
+<label key="1879057755" value="Vernichtende Verwüstung"/>
+<label key="1879057756" value="Vernichtende Verwüstung"/>
+<label key="1879057757" value="Vernichtende Verwüstung"/>
+<label key="1879057758" value="Zu Boden schlagen, lang (Nahkampf)"/>
+<label key="1879057759" value="Heilung"/>
+<label key="1879057803" value="Maximaler Blutungsschaden (Nahkampf)"/>
+<label key="1879057804" value="Geheul des Grauens"/>
+<label key="1879057818" value="Anfälligkeit für Furcht"/>
+<label key="1879057819" value="Die Gefallenen opfern."/>
+<label key="1879057827" value="Minimaler Schattenschaden (Wurfgeschosse)"/>
+<label key="1879057828" value="Niedriger Schattenschaden (Wurfgeschosse)"/>
+<label key="1879057829" value="Mittlerer Schattenschaden (Wurfgeschosse)"/>
+<label key="1879057830" value="Schattengriff"/>
+<label key="1879057831" value="Mut aufzehren"/>
+<label key="1879057832" value="Offene Wunde"/>
+<label key="1879057858" value="Nadelspitzer Speer"/>
+<label key="1879057894" value="Minimaler Schattenschaden (Fernkampf)"/>
+<label key="1879057895" value="Niedriger Schattenschaden (Fernkampf)"/>
+<label key="1879057896" value="Mittlerer Schattenschaden (Fernkampf)"/>
+<label key="1879058404" value="Reinigendes Feuer"/>
+<label key="1879058405" value="Wirbelndes Feuer"/>
+<label key="1879058879" value="Rumbling Above"/>
+<label key="1879058880" value="Collapsing Ceiling"/>
+<label key="1879059056" value="Plötzliche Woge"/>
+<label key="1879059057" value="Nasser Tod"/>
+<label key="1879059580" value="Kalebasse des Gifts"/>
+<label key="1879059581" value="Kalebasse des Siechtums"/>
+<label key="1879059582" value="Säurefraß"/>
+<label key="1879059583" value="Hemmendes Gift"/>
+<label key="1879059584" value="Verderbte Erneuerung"/>
+<label key="1879059633" value="Wut"/>
+<label key="1879059644" value="Blutgeschenk"/>
+<label key="1879059657" value="Unterbrechen (Nahkampf)"/>
+<label key="1879059658" value="Blutschwur-Pakt"/>
+<label key="1879059699" value="Rundumschlag (Nahkampf)"/>
+<label key="1879059700" value="Rundumschlag 'Lähmen' (Nahkampf)"/>
+<label key="1879059701" value="Aufspießen"/>
+<label key="1879059702" value="Rundumschlag 'Leben entziehen' (Nahkampf)"/>
+<label key="1879059810" value="Enter Improved Stealth - In Combat"/>
+<label key="1879059811" value="Helfer herbeirufen."/>
+<label key="1879059812" value="Exit Stealthed State"/>
+<label key="1879059824" value="Lärmattacke"/>
+<label key="1879059827" value="Krankes Brüllen"/>
+<label key="1879059853" value="Grimmige Schläge"/>
+<label key="1879059855" value="Grimmige Schläge"/>
+<label key="1879059869" value="Kämpft weiter."/>
+<label key="1879059881" value="Rasende Klinge"/>
+<label key="1879059884" value="Rasende Klinge"/>
+<label key="1879059893" value="Kontrolliertes Verbrennen"/>
+<label key="1879059946" value="Haymaker Uppercut"/>
+<label key="1879059963" value="Erschütternder Schritt"/>
+<label key="1879059964" value="Erhobene Faust"/>
+<label key="1879059965" value="Windmühlenschlag"/>
+<label key="1879059968" value="Maximaler allgemeiner Schaden (Fernkampf)"/>
+<label key="1879059969" value="Steinlawine"/>
+<label key="1879059979" value="Doppelter Einschlag"/>
+<label key="1879059980" value="Befreiender Schlag"/>
+<label key="1879059981" value="Befreiender Schlag"/>
+<label key="1879059982" value="Wirbelnder Schlag"/>
+<label key="1879059985" value="Steinlawine"/>
+<label key="1879059986" value="Zu Boden schlagen (Wurfgeschosse)"/>
+<label key="1879060028" value="Enter Immobile Stealthed State"/>
+<label key="1879060029" value="Enter Immobile Stealthed State"/>
+<label key="1879060079" value="Rudelheulen"/>
+<label key="1879060133" value="Für den König"/>
+<label key="1879060149" value="Tödlicher Keilerhauer"/>
+<label key="1879060150" value="Bruchhauer-Angriff"/>
+<label key="1879060164" value="Schildhieb"/>
+<label key="1879060180" value="Bedrohung des Wächters"/>
+<label key="1879060191" value="Kampfansage an Dunkelh."/>
+<label key="1879060250" value="Rekrutierung: Siegesherold"/>
+<label key="1879060266" value="Minimaler Herold-Angriff (Nahkampf)"/>
+<label key="1879060267" value="Mittlerer Herold-Angriff (Nahkampf)"/>
+<label key="1879060268" value="Maximaler Herold-Angriff (Nahkampf)"/>
+<label key="1879060269" value="Koordinierter Angriff"/>
+<label key="1879060270" value="Erzürnende Taktik"/>
+<label key="1879060271" value="Willen spenden"/>
+<label key="1879060277" value="Rekrutierung: Siegesherold"/>
+<label key="1879060278" value="Rekrutierung: Siegesherold"/>
+<label key="1879060279" value="Rekrutierung: Siegesherold"/>
+<label key="1879060293" value="Flucht aus der Dunkelheit"/>
+<label key="1879060303" value="Schlachtruf"/>
+<label key="1879060312" value="Kriegsschrei"/>
+<label key="1879060321" value="Spottruf"/>
+<label key="1879060327" value="Kampfschrei"/>
+<label key="1879060332" value="Wütender Schrei"/>
+<label key="1879060339" value="Defensiver Schlag"/>
+<label key="1879060346" value="Rekrutierung: Kriegsherold"/>
+<label key="1879060361" value="Rekrutierung: Kriegsherold"/>
+<label key="1879060362" value="Rekrutierung: Kriegsherold"/>
+<label key="1879060363" value="Rekrutierung: Kriegsherold"/>
+<label key="1879060377" value="Mut fassen"/>
+<label key="1879060399" value="Rekrut.: Hoffnungsherold"/>
+<label key="1879060415" value="Rekrut.: Hoffnungsherold"/>
+<label key="1879060416" value="Rekrut.: Hoffnungsherold"/>
+<label key="1879060417" value="Rekrut.: Hoffnungsherold"/>
+<label key="1879060431" value="Zerstörerischer Schlag"/>
+<label key="1879060437" value="Drohruf"/>
+<label key="1879060440" value="Abschreckender Schrei"/>
+<label key="1879060495" value="Schneller Schlag"/>
+<label key="1879060547" value="Kampfrausch"/>
+<label key="1879060551" value="Verzweiflung"/>
+<label key="1879060568" value="Stechen"/>
+<label key="1879060573" value="Schildstreich"/>
+<label key="1879060582" value="Wächterschild"/>
+<label key="1879060591" value="Schildschlag"/>
+<label key="1879060605" value="Luft holen"/>
+<label key="1879060618" value="Irritierender Schlag"/>
+<label key="1879060621" value="Irritierender Schlag"/>
+<label key="1879060631" value="Herausforderung"/>
+<label key="1879060634" value="Schutz"/>
+<label key="1879060636" value="Schutz"/>
+<label key="1879060644" value="Gelöbnis des Wächters"/>
+<label key="1879060648" value="Tiefer Atemzug"/>
+<label key="1879060652" value="Kriegerherz"/>
+<label key="1879060660" value="Erregende Gefahr"/>
+<label key="1879060663" value="Verbess. erregende Gefahr"/>
+<label key="1879060667" value="Falle stellen"/>
+<label key="1879060702" value="Gespannte Konzentration"/>
+<label key="1879060716" value="Unscheinbar"/>
+<label key="1879060723" value="Nötige Hast"/>
+<label key="1879060749" value="Stabschlag"/>
+<label key="1879060752" value="Verbesserter Stabschlag"/>
+<label key="1879060758" value="Macht des Wissens"/>
+<label key="1879060760" value="Macht des Wissens"/>
+<label key="1879060771" value="Signalfeuer der Hoffnung"/>
+<label key="1879060779" value="Z. d. Wildnis: Schutz"/>
+<label key="1879060786" value="Heilkunde"/>
+<label key="1879060789" value="Heilkunde"/>
+<label key="1879060793" value="Zeichen der Wildnis: Wut"/>
+<label key="1879060803" value="Rissige Erde"/>
+<label key="1879060811" value="Weisheit des Rats"/>
+<label key="1879060818" value="Blendender Blitz"/>
+<label key="1879060824" value="Kranke versorgen"/>
+<label key="1879060827" value="Kranke versorgen"/>
+<label key="1879060831" value="Uralte Weisheit"/>
+<label key="1879060837" value="Uralte Weisheit"/>
+<label key="1879060843" value="Teilung der Macht"/>
+<label key="1879060863" value="Ballade des Krieges"/>
+<label key="1879060868" value="Hymne der Valar"/>
+<label key="1879060871" value="Hymne der Valar"/>
+<label key="1879060876" value="Lied der Hilfe"/>
+<label key="1879060878" value="Lied der Hilfe"/>
+<label key="1879060904" value="Ballade der Resonanz"/>
+<label key="1879060909" value="Beseelende Anmut"/>
+<label key="1879060914" value="Schrei des Chors"/>
+<label key="1879060919" value="Lied der Besänftigung"/>
+<label key="1879060947" value="Raffinierter Stich"/>
+<label key="1879060952" value="Rätsel"/>
+<label key="1879060961" value="Zielen"/>
+<label key="1879060967" value="Trick: Staub in die Augen"/>
+<label key="1879060972" value="Trick: Staub in die Augen"/>
+<label key="1879060981" value="Ablenkung"/>
+<label key="1879060986" value="Trick: Behindern"/>
+<label key="1879060992" value="Trick: Abwehr reduzieren"/>
+<label key="1879061005" value="In Luft auflösen"/>
+<label key="1879061010" value="Schleichen"/>
+<label key="1879061012" value="Pirschen"/>
+<label key="1879061016" value="Trick: Erzürnt"/>
+<label key="1879061538" value="Angriff aus dem Hinterhalt"/>
+<label key="1879061540" value="Zornige Bienen"/>
+<label key="1879061553" value="Unverwundbarkeit beginnen"/>
+<label key="1879061962" value="Ausbalancierte Wurfaxt"/>
+<label key="1879061963" value="Ausbalancierte Wurfaxt"/>
+<label key="1879062359" value="Teerspeichel"/>
+<label key="1879062360" value="Verbrannte Erde"/>
+<label key="1879062572" value="Überraschungsangriff"/>
+<label key="1879062573" value="Hoher allgemeiner Schaden (Nahkampf)"/>
+<label key="1879062867" value="Minen aufspüren"/>
+<label key="1879062906" value="Holz aufspüren"/>
+<label key="1879063043" value="Feldfrüchte aufspüren"/>
+<label key="1879064060" value="Wilder Angriff"/>
+<label key="1879064061" value="Klingenwand"/>
+<label key="1879064062" value="Wilde Schläge"/>
+<label key="1879064063" value="Leidenschaft"/>
+<label key="1879064064" value="Wirbel"/>
+<label key="1879064065" value="Brutale Schläge"/>
+<label key="1879064066" value="Schlagabtausch"/>
+<label key="1879064067" value="Klingensturm"/>
+<label key="1879064068" value="Stärkender Angriff"/>
+<label key="1879064069" value="Spalten"/>
+<label key="1879064070" value="Plötzliche Verteidigung"/>
+<label key="1879064071" value="Unerbittlicher Schlag"/>
+<label key="1879064072" value="Herausf. d. Waffenm."/>
+<label key="1879064073" value="Barmherziger Schlag"/>
+<label key="1879064074" value="Heimtückischer Kampf"/>
+<label key="1879064075" value="Sprint"/>
+<label key="1879064076" value="Verprügeln"/>
+<label key="1879064077" value="Sturmangriff"/>
+<label key="1879064078" value="Achillessehne"/>
+<label key="1879064079" value="Absichern"/>
+<label key="1879064080" value="Geist des Hengstes"/>
+<label key="1879064081" value="Stärke der Ents (Nahkampf)"/>
+<label key="1879064082" value="Schrei des Adlers"/>
+<label key="1879064083" value="Spinnenlist (Nahkampf)"/>
+<label key="1879064084" value="Schießen"/>
+<label key="1879064085" value="Prahlerei"/>
+<label key="1879064140" value="Schneidiger Angriff"/>
+<label key="1879064141" value="Verräterisches Zeichen"/>
+<label key="1879064142" value="Beeilung"/>
+<label key="1879064143" value="Edles Zeichen"/>
+<label key="1879064144" value="Doppelschlag"/>
+<label key="1879064145" value="Worte der Ermutigung"/>
+<label key="1879064146" value="Motivierende Rede"/>
+<label key="1879064147" value="Taktik: In Bereitschaft"/>
+<label key="1879064148" value="Letztes Gefecht"/>
+<label key="1879064149" value="Taktik: Gnadenl. Angriff"/>
+<label key="1879064150" value="Zeichen setzen"/>
+<label key="1879064151" value="Racheschrei"/>
+<label key="1879064152" value="In den Weg werfen"/>
+<label key="1879064153" value="Taktik: Fokus"/>
+<label key="1879064154" value="Befehl: Respekt"/>
+<label key="1879064186" value="Schlag des Herolds"/>
+<label key="1879064187" value="Auferstehung der Seele"/>
+<label key="1879064188" value="Ballade der Lebenskraft"/>
+<label key="1879064189" value="Durchdringender Schrei"/>
+<label key="1879064190" value="Ballade des Stahls"/>
+<label key="1879064191" value="Ballade der Schnelligkeit"/>
+<label key="1879064192" value="Ballade der Willenskraft"/>
+<label key="1879064193" value="Gefährten inspirieren"/>
+<label key="1879064194" value="Schrei der Valar"/>
+<label key="1879064195" value="Ballade der Balance"/>
+<label key="1879064196" value="Edler Beweggrund"/>
+<label key="1879064197" value="Ermutigung"/>
+<label key="1879064198" value="Lied der Wiederherstellung"/>
+<label key="1879064199" value="Lied der Toten"/>
+<label key="1879064200" value="Hymne der freien Völker"/>
+<label key="1879064201" value="Heldensage"/>
+<label key="1879064202" value="Hymne des Mitgefühls"/>
+<label key="1879064203" value="Furcht heilen"/>
+<label key="1879064204" value="Triumphierender Geist"/>
+<label key="1879064205" value="Ballade der Flamme"/>
+<label key="1879064206" value="Lied der Ablenkung"/>
+<label key="1879064207" value="Ballade der Starken"/>
+<label key="1879064208" value="Todesstarre"/>
+<label key="1879064209" value="Hammerhand-Lied"/>
+<label key="1879064244" value="Glühende Asche"/>
+<label key="1879064245" value="Rabenkunde"/>
+<label key="1879064246" value="Innere Flamme"/>
+<label key="1879064247" value="Windstoß"/>
+<label key="1879064248" value="Bärenfreund"/>
+<label key="1879064249" value="Prüfung des Willens"/>
+<label key="1879064250" value="Z. d. Macht: Zauberei"/>
+<label key="1879064251" value="Zeichen der Macht: Befehl"/>
+<label key="1879064252" value="Z.d.M.: Rechtschaffenheit"/>
+<label key="1879064253" value="Z. d. Macht: Wachsamkeit"/>
+<label key="1879064254" value="Feuerkunde"/>
+<label key="1879064255" value="Windkunde"/>
+<label key="1879064256" value="Kräuterkunde"/>
+<label key="1879064257" value="Appell an die Valar"/>
+<label key="1879064258" value="Licht d. aufst. Dämmerung"/>
+<label key="1879064286" value="Fegender Schnitt"/>
+<label key="1879064287" value="Verteidigung des Wächters"/>
+<label key="1879064288" value="Vergeltung"/>
+<label key="1879064289" value="Heftiger Schlag"/>
+<label key="1879064290" value="Überwältigen"/>
+<label key="1879064291" value="Parade des Wächters"/>
+<label key="1879064292" value="Wirbelnde Vergeltung"/>
+<label key="1879064293" value="Stoß"/>
+<label key="1879064294" value="Schildspott"/>
+<label key="1879064295" value="Stampfen"/>
+<label key="1879064296" value="Spieß umdrehen"/>
+<label key="1879064297" value="Versprechen des Wächters"/>
+<label key="1879064327" value="Zu Fall bringen"/>
+<label key="1879064328" value="Überraschungsschlag"/>
+<label key="1879064329" value="Täuschender Angriff"/>
+<label key="1879064330" value="Provozieren"/>
+<label key="1879064331" value="Schurkenvorteil"/>
+<label key="1879064332" value="Zweischneidiger Schlag"/>
+<label key="1879064333" value="Möglichkeit ausnutzen"/>
+<label key="1879064334" value="Tumult"/>
+<label key="1879064335" value="Überraschende Wende"/>
+<label key="1879064336" value="Bösartige Schadenfreude"/>
+<label key="1879064337" value="Schwächen aufspüren"/>
+<label key="1879064338" value="Bereit und befähigt"/>
+<label key="1879064339" value="Gewandtheit"/>
+<label key="1879064340" value="Halt finden"/>
+<label key="1879064341" value="Schatz aufspüren"/>
+<label key="1879064342" value="Stehlen"/>
+<label key="1879064343" value="Gift neutralisieren"/>
+<label key="1879064370" value="Schneller Schuss"/>
+<label key="1879064371" value="Stachelpfeil"/>
+<label key="1879064372" value="Schneller Bogen"/>
+<label key="1879064373" value="Durchdringender Schuss"/>
+<label key="1879064374" value="Pfeilregen"/>
+<label key="1879064375" value="Gnadenschuss"/>
+<label key="1879064376" value="Schneller Hieb"/>
+<label key="1879064377" value="Niedriger Schnitt"/>
+<label key="1879064378" value="Geißelnder Hieb"/>
+<label key="1879064379" value="Schwache Seite"/>
+<label key="1879064380" value="Gewandte Erwiderung"/>
+<label key="1879064381" value="Weg finden"/>
+<label key="1879064382" value="Gift neutralisieren"/>
+<label key="1879064383" value="Helles Lagerfeuer"/>
+<label key="1879064384" value="Verzweifelte Flucht"/>
+<label key="1879064385" value="Führer zu Thorins Halle"/>
+<label key="1879064386" value="Führer nach Bree"/>
+<label key="1879064387" value="Führer nach Esteldín"/>
+<label key="1879064388" value="Führer nach Bruchtal"/>
+<label key="1879064389" value="Passage der Natur"/>
+<label key="1879064390" value="Weg der Feinde"/>
+<label key="1879064391" value="Passage des Schattens"/>
+<label key="1879064392" value="Tarnung"/>
+<label key="1879064393" value="Ruf des Raubtiers"/>
+<label key="1879064394" value="Stärke der Ents (Fernk.)"/>
+<label key="1879064395" value="Spinnenlist (Fernkampf)"/>
+<label key="1879064396" value="Fokus"/>
+<label key="1879064397" value="Haltung: Präzision"/>
+<label key="1879064398" value="Haltung: Stärke"/>
+<label key="1879064399" value="Haltung: Ausdauer"/>
+<label key="1879064493" value="Doppeleffekt 'List' (Nahkampf)"/>
+<label key="1879064494" value="Doppeleffekt 'List' (Fernkampf)"/>
+<label key="1879064495" value="Listbeitrag"/>
+<label key="1879064496" value="Listbeitrag"/>
+<label key="1879064505" value="Dreifacheffekt 'List' (Nahkampf)"/>
+<label key="1879064506" value="Dreifacheffekt 'List' (Fernkampf)"/>
+<label key="1879064510" value="Vierfacheffekt 'List' (Nahkampf)"/>
+<label key="1879064511" value="Vierfacheffekt 'List' (Fernkampf)"/>
+<label key="1879064515" value="Doppeleffekt 'Taktik'"/>
+<label key="1879064516" value="Taktikbeitrag"/>
+<label key="1879064521" value="Dreifacheffekt 'Taktik'"/>
+<label key="1879064522" value="Vierfacheffekt 'Taktik'"/>
+<label key="1879064523" value="Doppeleffekt 'Stärke'"/>
+<label key="1879064524" value="Doppeleffekt 'Stärke'"/>
+<label key="1879064525" value="Stärkebeitrag"/>
+<label key="1879064529" value="Dreifacheffekt 'Stärke'"/>
+<label key="1879064531" value="Vierfacheffekt 'Stärke'"/>
+<label key="1879064533" value="Doppeleffekt 'Überzeugung'"/>
+<label key="1879064534" value="Überzeugungsbeitrag"/>
+<label key="1879064541" value="Dreifacheffekt 'Überzeugung'"/>
+<label key="1879064544" value="Vierfacheffekt 'Überzeugung'"/>
+<label key="1879064547" value="Vierfacheffekt 'Stärke'"/>
+<label key="1879064548" value="Dreifacheffekt 'Stärke'"/>
+<label key="1879064549" value="Fünffacheffekt 'Stärke'"/>
+<label key="1879064550" value="Fünffacheffekt 'Stärke'"/>
+<label key="1879064552" value="Fünffacheffekt 'List' (Nahkampf)"/>
+<label key="1879064553" value="Fünffacheffekt 'List' (Fernkampf)"/>
+<label key="1879064556" value="Fünffacheffekt 'Taktik'"/>
+<label key="1879064559" value="Fünffacheffekt 'Überzeugung'"/>
+<label key="1879064561" value="Sechsfacheffekt 'Stärke'"/>
+<label key="1879064562" value="Sechsfacheffekt 'Stärke'"/>
+<label key="1879064564" value="Sechsfacheffekt 'List' (Nahkampf)"/>
+<label key="1879064565" value="Sechsfacheffekt 'List' (Fernkampf)"/>
+<label key="1879064567" value="Sechsfacheffekt 'Taktik'"/>
+<label key="1879064568" value="Sechsfacheffekt 'Überzeugung'"/>
+<label key="1879067225" value="Sternenglas"/>
+<label key="1879067228" value="Sternenglas"/>
+<label key="1879068269" value="Mehrfachfalle"/>
+<label key="1879068276" value="Fußangeln (Stufe 1)"/>
+<label key="1879068283" value="Murmeln (Stufe 1)"/>
+<label key="1879068289" value="Horn"/>
+<label key="1879069467" value="Bärenfalle"/>
+<label key="1879069475" value="Sternenglas"/>
+<label key="1879069478" value="Sternenglas"/>
+<label key="1879070107" value="Mehrfachfalle"/>
+<label key="1879070117" value="Fußangeln (Stufe 2)"/>
+<label key="1879070122" value="Murmeln (Stufe 2)"/>
+<label key="1879070126" value="Betäubungsstaub (St. 2)"/>
+<label key="1879070146" value="Horn"/>
+<label key="1879070150" value="Sternenglas"/>
+<label key="1879070153" value="Sternenglas"/>
+<label key="1879070251" value="Bärenfalle"/>
+<label key="1879070259" value="Sternenglas"/>
+<label key="1879070262" value="Sternenglas"/>
+<label key="1879070442" value="Fußangeln (Stufe 3)"/>
+<label key="1879070447" value="Murmeln (Stufe 3)"/>
+<label key="1879070451" value="Betäubungsstaub (St. 3)"/>
+<label key="1879070469" value="Horn"/>
+<label key="1879072413" value="Ausführen"/>
+<label key="1879072419" value="Rundum-Rückstoß (Nahkampf)"/>
+<label key="1879072525" value="Unverwüstlichkeit"/>
+<label key="1879072528" value="Entwaffnen"/>
+<label key="1879072530" value="Achillessehne"/>
+<label key="1879072533" value="Klebrige Netze"/>
+<label key="1879072536" value="Belauern"/>
+<label key="1879072543" value="Falle stellen"/>
+<label key="1879072545" value="Todesblüte"/>
+<label key="1879072548" value="Flammenpfeil"/>
+<label key="1879072549" value="Rührt Euch!"/>
+<label key="1879072550" value="Die Horde mobilisieren"/>
+<label key="1879072554" value="Hört auf zu winseln und kämpft!"/>
+<label key="1879072557" value="Schlachtgeheul"/>
+<label key="1879072563" value="Verschwinden"/>
+<label key="1879072565" value="Schleichen"/>
+<label key="1879073004" value="Wilder Angriff"/>
+<label key="1879073007" value="Klingenwand"/>
+<label key="1879073010" value="Wilde Schläge"/>
+<label key="1879073019" value="Brutale Schläge"/>
+<label key="1879073023" value="Klingensturm"/>
+<label key="1879073027" value="Stärkender Angriff"/>
+<label key="1879073038" value="Unerbittlicher Schlag"/>
+<label key="1879073095" value="Schlag des Herolds"/>
+<label key="1879073113" value="Lied der Lebenskraft"/>
+<label key="1879073116" value="Durchdringender Schrei"/>
+<label key="1879073131" value="Lied der Balance"/>
+<label key="1879073192" value="Minimaler gewöhnlicher Schaden durch schnellen Nahkampf"/>
+<label key="1879073193" value="Segnung des Raben"/>
+<label key="1879073196" value="Ablenkung"/>
+<label key="1879073198" value="Ausweichen"/>
+<label key="1879073208" value="Verbesserter Bärenfreund"/>
+<label key="1879073216" value="Minimaler allgemeiner Schaden (Nahkampf)"/>
+<label key="1879073217" value="Mittelstarker allgemeiner Schaden (Nahkampf)"/>
+<label key="1879073218" value="Maximaler allgemeiner Schaden (Nahkampf)"/>
+<label key="1879073219" value="Stürmische Herausforderung"/>
+<label key="1879073221" value="Waffen zerschmettern"/>
+<label key="1879073223" value="Bärenumarmung"/>
+<label key="1879073224" value="Brutaler Schnitt"/>
+<label key="1879073234" value="Z.d.M.: Verb. Rechtsch't"/>
+<label key="1879073238" value="Z.d.M.: Verb. Wachsamkeit"/>
+<label key="1879073287" value="Fußfalle"/>
+<label key="1879073289" value="Überraschungsschlag"/>
+<label key="1879073293" value="Täuschender Angriff"/>
+<label key="1879073298" value="Provozieren"/>
+<label key="1879073320" value="Schwächen aufspüren"/>
+<label key="1879073358" value="Flammenpfeil"/>
+<label key="1879073359" value="Schn. Schuss: Elbenpfeil"/>
+<label key="1879073363" value="Feuerpfeil"/>
+<label key="1879073364" value="Eldar-Pfeil"/>
+<label key="1879073373" value="Schn. Bogen: Flammenmeer"/>
+<label key="1879073374" value="Schn. Bog.: Sternenlicht"/>
+<label key="1879073378" value="Verzehrendes Feuer"/>
+<label key="1879073379" value="Stachel der Dunkelheit"/>
+<label key="1879073381" value="Pfeilregen: Feuersturm"/>
+<label key="1879073382" value="Pfeilregen: Himml. Licht"/>
+<label key="1879073386" value="Schneller Hieb"/>
+<label key="1879073389" value="Niedriger Schnitt"/>
+<label key="1879073393" value="Geißelnder Hieb"/>
+<label key="1879073402" value="Gewandte Erwiderung"/>
+<label key="1879073437" value="Haltung: Ausdauer"/>
+<label key="1879073470" value="Stein werfen."/>
+<label key="1879073480" value="Rückkehr ins Auenland"/>
+<label key="1879073486" value="Widerstandsfähigkeit des Hobbits"/>
+<label key="1879073491" value="Hobbit-Schleichen"/>
+<label key="1879073495" value="Hobbit-Stille"/>
+<label key="1879073516" value="Aufwärtshaken"/>
+<label key="1879073526" value="Kehrt nach Bree zurück."/>
+<label key="1879073530" value="Verpflichtet"/>
+<label key="1879073537" value="Stärke der Moral"/>
+<label key="1879073559" value="Schatten der Silvan"/>
+<label key="1879073567" value="Rückkehr nach Bruchtal"/>
+<label key="1879073571" value="Anmut der Eldar"/>
+<label key="1879073577" value="Kraft der Eldar"/>
+<label key="1879073596" value="Kopfstoß"/>
+<label key="1879073606" value="Rückkehr zu Thorins Tor"/>
+<label key="1879073610" value="Steinerne Ausdauer"/>
+<label key="1879073614" value="Zwergenausdauer"/>
+<label key="1879073674" value="Jähe Schläge"/>
+<label key="1879073675" value="Zerfurchter Schnitt"/>
+<label key="1879073676" value="Spaltender Schlag"/>
+<label key="1879073677" value="Verheerender Schlag"/>
+<label key="1879073678" value="Blendender Staub"/>
+<label key="1879073679" value="Ruhm durch Sieg"/>
+<label key="1879073680" value="Doppelangriff"/>
+<label key="1879073697" value="Starke Spannkraft"/>
+<label key="1879073698" value="Schreiender Schaft"/>
+<label key="1879073699" value="Perforiertes Ziel"/>
+<label key="1879073700" value="Behindernder Schuss"/>
+<label key="1879073701" value="Schnitt"/>
+<label key="1879073702" value="Bewegliches Ziel"/>
+<label key="1879073703" value="1H-Waffen-Angriff"/>
+<label key="1879073710" value="Abschreckender Schrei"/>
+<label key="1879073711" value="Spalten"/>
+<label key="1879073712" value="Peitschenknall"/>
+<label key="1879073713" value="Auf die Füße!"/>
+<label key="1879073714" value="Beförderung auf dem Feld."/>
+<label key="1879073715" value="Aura des Machtworts"/>
+<label key="1879073716" value="1H-Waffen-/Schild-Angriff"/>
+<label key="1879073737" value="Durchbohrender Angriff"/>
+<label key="1879073738" value="Unreiner Kuss"/>
+<label key="1879073739" value="Latentes Gift"/>
+<label key="1879073740" value="Netz der Umklammerung"/>
+<label key="1879073741" value="Hemmendes Netz"/>
+<label key="1879073742" value="Giftregen"/>
+<label key="1879073743" value="Zufluchtsort mit Falltür"/>
+<label key="1879073750" value="Klauen"/>
+<label key="1879073751" value="Losstürzen"/>
+<label key="1879073752" value="Scharfe Reißzähne"/>
+<label key="1879073753" value="Lähmender Biss"/>
+<label key="1879073754" value="Kehlenbiss"/>
+<label key="1879073755" value="Sprint"/>
+<label key="1879073757" value="Bestialische Klauen"/>
+<label key="1879073758" value="Jäher Sprung"/>
+<label key="1879074084" value="Kranker Biss"/>
+<label key="1879074102" value="Basic Test Attack"/>
+<label key="1879074129" value="Wegstoßen"/>
+<label key="1879075407" value="Wurfwaffe"/>
+<label key="1879076051" value="Maximaler allgemeiner Schaden (Nahkampf)"/>
+<label key="1879076075" value="Herz der Gefährten"/>
+<label key="1879076087" value="Maximaler Schattenschaden (Nahkampf)"/>
+<label key="1879076091" value="Maximaler Feuerschaden (Nahkampf)"/>
+<label key="1879076092" value="Maximaler Feuerschaden (Fernkampf)"/>
+<label key="1879076096" value="Maximaler Schattenschaden (Wurfgeschosse)"/>
+<label key="1879076097" value="Maximaler Schattenschaden (Fernkampf)"/>
+<label key="1879076098" value="Doppelter Feuerschaden (Nahkampf)"/>
+<label key="1879077216" value="Maximaler Blutungsschaden (Wurfgeschosse)"/>
+<label key="1879077393" value="Wasserguss"/>
+<label key="1879077434" value="Brennendes Öl"/>
+<label key="1879077435" value="Brennendes Öl"/>
+<label key="1879077436" value="Kalebasse des Feuers"/>
+<label key="1879077450" value="Angreifen"/>
+<label key="1879077453" value="Minimaler Blutungsschaden (Nahkampf)"/>
+<label key="1879077523" value="Angriff aus dem Hinterhalt"/>
+<label key="1879077597" value="Kriecher beschwören"/>
+<label key="1879077713" value="Schwächende Stiche"/>
+<label key="1879077716" value="Giftlethargie"/>
+<label key="1879078351" value="Pestbiss"/>
+<label key="1879078381" value="Streich"/>
+<label key="1879078382" value="Ohrfeige"/>
+<label key="1879078538" value="Klammernder Biss"/>
+<label key="1879078719" value="Donnerstoß"/>
+<label key="1879078720" value="Brutling herbeirufen"/>
+<label key="1879078724" value="Heilung"/>
+<label key="1879079857" value="Wuchernde Wurzel"/>
+<label key="1879079858" value="Wurzel beschwören"/>
+<label key="1879079958" value="Würgende Reben"/>
+<label key="1879079959" value="Wurzelschlingen"/>
+<label key="1879079960" value="Wurzel beschwören"/>
+<label key="1879080037" value="Kleine Hilfe"/>
+<label key="1879080038" value="Große Hilfe"/>
+<label key="1879080039" value="Zornige Bienen"/>
+<label key="1879080089" value="Heilung"/>
+<label key="1879080090" value="Heilung"/>
+<label key="1879080091" value="Heilung"/>
+<label key="1879080108" value="Grausamer Tadel"/>
+<label key="1879080109" value="Plötzlicher Ausbruch"/>
+<label key="1879080110" value="Wasserzyklon"/>
+<label key="1879080111" value="Nasses Verlies"/>
+<label key="1879080112" value="Die Gewässer sind mein."/>
+<label key="1879080134" value="Stehen bleiben"/>
+<label key="1879080291" value="Augen auskratzen"/>
+<label key="1879080358" value="Losstürzen"/>
+<label key="1879080359" value="Wilder Biss"/>
+<label key="1879080379" value="Flammenstoß"/>
+<label key="1879080425" value="Unterbrechen (Wurfgeschosse)"/>
+<label key="1879080550" value="Rundum-Rückstoß (Nahkampf)"/>
+<label key="1879081143" value="Hilfe für Bogenschützen"/>
+<label key="1879081314" value="Minimale Feuerschaden-Blutung (Nahkampf)"/>
+<label key="1879081982" value="Teertopf"/>
+<label key="1879081983" value="Teertopf"/>
+<label key="1879082059" value="Alarm geben"/>
+<label key="1879082153" value="Wahnsinniger Rausch"/>
+<label key="1879082155" value="Ins Horn blasen"/>
+<label key="1879082161" value="Trugbilder"/>
+<label key="1879082204" value="Hemmendes Giftmesser"/>
+<label key="1879082205" value="Lähmendes Giftmesser"/>
+<label key="1879082206" value="Kalebasse der Fäulnis"/>
+<label key="1879082345" value="Abweisende Geste"/>
+<label key="1879082540" value="Ins Horn blasen."/>
+<label key="1879083297" value="Letales Gift"/>
+<label key="1879083298" value="Netz der Umklammerung"/>
+<label key="1879083299" value="Netz der Umklammerung"/>
+<label key="1879083331" value="Eisbären beschwören"/>
+<label key="1879083333" value="Schreckliches Brüllen"/>
+<label key="1879083334" value="Gering. gestohlener Atem"/>
+<label key="1879083335" value="Größerer gestohlener Atem"/>
+<label key="1879083336" value="Letzter gestohlener Atem"/>
+<label key="1879083337" value="Blick des Bösen"/>
+<label key="1879083338" value="Biss des Verderbens"/>
+<label key="1879083339" value="Tödliche Schattenkugel"/>
+<label key="1879083351" value="Starker Wurf"/>
+<label key="1879083519" value="Eldritchs Erquickung"/>
+<label key="1879083712" value="Gorthorog-Helfer beschw."/>
+<label key="1879083727" value="Kraft wiederherstellen"/>
+<label key="1879083728" value="Raben beschwören"/>
+<label key="1879083729" value="Heilung"/>
+<label key="1879083731" value="Heilung"/>
+<label key="1879083732" value="Heilung"/>
+<label key="1879083838" value="Banner der Hoffnung"/>
+<label key="1879083845" value="Banner des Sieges"/>
+<label key="1879083848" value="Kriegsbanner"/>
+<label key="1879084053" value="Bogenangriff"/>
+<label key="1879084175" value="Melee Smite"/>
+<label key="1879084176" value="Ranged Smite"/>
+<label key="1879084247" value="Eisbär beschwören"/>
+<label key="1879084334" value="Heilen"/>
+<label key="1879084352" value="Schändlicher Diebstahl"/>
+<label key="1879084409" value="Tödliches Gift"/>
+<label key="1879084782" value="Mittlerer Schattenschaden (Nahkampf)"/>
+<label key="1879084783" value="Hoher Schattenschaden (Nahkampf)"/>
+<label key="1879084784" value="Maximaler Schattenschaden (Nahkampf)"/>
+<label key="1879084785" value="Doppelter Schattenschaden (Nahkampf)"/>
+<label key="1879084786" value="Dreifacher Schattenschaden (Nahkampf)"/>
+<label key="1879084787" value="Bogen-Rundumschlag (Nahkampf)"/>
+<label key="1879084789" value="Schwanzstreich"/>
+<label key="1879084790" value="Odem des Schattens"/>
+<label key="1879084791" value="Flügelschlag"/>
+<label key="1879084792" value="Schattenkugel"/>
+<label key="1879085063" value="Beschwört Bogenschützen-Gefolgsleute"/>
+<label key="1879085066" value="Beschwört Jäger-Gefolgsleute"/>
+<label key="1879085094" value="Gewaltiges Stampfen"/>
+<label key="1879085097" value="Entfesselt die Wurzeln"/>
+<label key="1879085103" value="Härtende Wurzel"/>
+<label key="1879085106" value="Anrufung der Natur"/>
+<label key="1879085107" value="Grausamer Schnitt"/>
+<label key="1879085113" value="Schwungvoller Prellstoß"/>
+<label key="1879085114" value="Erzürnender Schrei"/>
+<label key="1879085117" value="Schießen (Stufe 4)"/>
+<label key="1879085129" value="Sending Root Attack"/>
+<label key="1879085142" value="Spalten (Stufe 4)"/>
+<label key="1879085148" value="Schlitzen (Stufe 3)"/>
+<label key="1879085149" value="Zerreißen (Stufe 1)"/>
+<label key="1879085154" value="Hieb (Stufe 2)"/>
+<label key="1879085456" value="Hoher Feuerschaden (Wurfgeschosse)"/>
+<label key="1879085534" value="Deep Summons"/>
+<label key="1879085540" value="Flip Kick"/>
+<label key="1879085554" value="Horn"/>
+<label key="1879085555" value="Horn"/>
+<label key="1879085556" value="Horn"/>
+<label key="1879085727" value="Heilung"/>
+<label key="1879085849" value="Mittlerer gewöhnlicher Schaden durch schnellen Nahkampf"/>
+<label key="1879085850" value="Maximaler gewöhnlicher Schaden durch schnellen Nahkampf"/>
+<label key="1879085851" value="Minimaler gewöhnlicher Schaden durch schnellen Nahkampf"/>
+<label key="1879085905" value="Doppelter Schaden (Wurfgeschosse)"/>
+<label key="1879085986" value="Mittlerer Blutungsschaden (Fernkampf)"/>
+<label key="1879086359" value="Mittlerer Blutungsschaden (Wurfgeschosse)"/>
+<label key="1879086508" value="Heilung"/>
+<label key="1879086525" value="Maximaler Feuerschaden (Wurfgeschosse)"/>
+<label key="1879086526" value="Minimaler Feuerschaden (Wurfgeschosse)"/>
+<label key="1879086529" value="Niedriger Feuerschaden (Wurfgeschosse)"/>
+<label key="1879086534" value="Mittlerer Feuerschaden (Wurfgeschosse)"/>
+<label key="1879086712" value="Heldentaten"/>
+<label key="1879086713" value="Blockende Klingen"/>
+<label key="1879086716" value="Ruhm"/>
+<label key="1879086717" value="Roter Nebel"/>
+<label key="1879087112" value="Klagende Bitte"/>
+<label key="1879087115" value="Die Herde rufen"/>
+<label key="1879087207" value="Schneller Abzug"/>
+<label key="1879087213" value="Schneller Abzug"/>
+<label key="1879087251" value="Geringere Macht"/>
+<label key="1879087252" value="Größere Macht"/>
+<label key="1879087265" value="Geringere Beweglichkeit"/>
+<label key="1879087266" value="Größere Beweglichkeit"/>
+<label key="1879087268" value="Erhöhte Vitalität"/>
+<label key="1879087269" value="Geringerer Wille"/>
+<label key="1879087271" value="Geringeres Schicksal"/>
+<label key="1879087272" value="Größeres Schicksal"/>
+<label key="1879087289" value="Spinne herbeirufen."/>
+<label key="1879087290" value="Spinne herbeirufen."/>
+<label key="1879087330" value="Geringere Moral"/>
+<label key="1879087336" value="Geringere Kraft"/>
+<label key="1879087337" value="Größere Kraft"/>
+<label key="1879087383" value="Spinne herbeirufen."/>
+<label key="1879087384" value="Spinne herbeirufen."/>
+<label key="1879087440" value="Widerwärtiges Spucken"/>
+<label key="1879087459" value="Stinkender Unflat"/>
+<label key="1879087460" value="Höhlenklaue beschwören"/>
+<label key="1879087461" value="Höhlenklaue beschwören"/>
+<label key="1879087466" value="Helfer heilen"/>
+<label key="1879087471" value="Die Toten plündern"/>
+<label key="1879087473" value="Abscheulicher Unflat"/>
+<label key="1879087522" value="Beständige Moral"/>
+<label key="1879087523" value="Beständige Moral"/>
+<label key="1879087524" value="Plötzliche Moral"/>
+<label key="1879087525" value="Plötzliche Moral"/>
+<label key="1879087526" value="Beständige Kraft"/>
+<label key="1879087527" value="Plötzliche Kraft"/>
+<label key="1879087528" value="Beständige Moral"/>
+<label key="1879087529" value="Beständige Moral"/>
+<label key="1879087530" value="Plötzliche Moral"/>
+<label key="1879087532" value="Beständige Kraft"/>
+<label key="1879087533" value="Plötzliche Kraft"/>
+<label key="1879087534" value="Beständige Moral"/>
+<label key="1879087535" value="Beständige Moral"/>
+<label key="1879087536" value="Plötzliche Moral"/>
+<label key="1879087537" value="Plötzliche Moral"/>
+<label key="1879087539" value="Plötzliche Kraft"/>
+<label key="1879087548" value="Die Toten plündern"/>
+<label key="1879087615" value="Hand der Furcht"/>
+<label key="1879087616" value="Wilde Schläge"/>
+<label key="1879087617" value="Wilde Schläge"/>
+<label key="1879087618" value="Wilde Schläge"/>
+<label key="1879087620" value="Raubtierartiger Sprung"/>
+<label key="1879087621" value="Nadelspitzer Speer"/>
+<label key="1879087622" value="Giftspeer"/>
+<label key="1879087623" value="Wolf beschwören"/>
+<label key="1879087624" value="Auferst. Wolf beschwören"/>
+<label key="1879087625" value="Rudel wiederherstellen"/>
+<label key="1879087626" value="Wolfsgebieter"/>
+<label key="1879087642" value="Wolf beschwören"/>
+<label key="1879087691" value="Große Kraft"/>
+<label key="1879087692" value="Große Beharrlichkeit"/>
+<label key="1879087693" value="Große Verantwortung"/>
+<label key="1879087771" value="Große Wiederherstellung"/>
+<label key="1879087773" value="Große Wiederherstellung"/>
+<label key="1879087873" value="Glühen"/>
+<label key="1879087874" value="Leuchtende Glut"/>
+<label key="1879087963" value="Grausamer Stich"/>
+<label key="1879087965" value="Bande beschwören"/>
+<label key="1879087966" value="Am Boden"/>
+<label key="1879088004" value="Teerball"/>
+<label key="1879088064" value="Donnerschlag"/>
+<label key="1879088068" value="Hühnerhieb"/>
+<label key="1879088084" value="Giftspucke"/>
+<label key="1879088169" value="1-händ. waffenl. Angriff"/>
+<label key="1879088170" value="2-händ. waffenl. Angriff"/>
+<label key="1879088680" value="Peinigen (Nahkampf)"/>
+<label key="1879088681" value="Peinigen (Fernkampf)"/>
+<label key="1879088731" value="Zorn verkleinern"/>
+<label key="1879088732" value="Zorn vergrößern"/>
+<label key="1879088745" value="Steinschild"/>
+<label key="1879088750" value="Bodenschlag"/>
+<label key="1879088751" value="Schall-Wehklage"/>
+<label key="1879088770" value="Dolch des Dachses"/>
+<label key="1879088809" value="Wurzelgefängnis"/>
+<label key="1879088962" value="Verwundbar (Feuer)"/>
+<label key="1879088964" value="Anrufung des Auges"/>
+<label key="1879088965" value="Verbrannte Erde"/>
+<label key="1879089138" value="Feuer aus der Tiefe"/>
+<label key="1879089176" value="Wilder Bärenhonig"/>
+<label key="1879089201" value="Rüstung zerteilen"/>
+<label key="1879089293" value="Stärke durch Schatten"/>
+<label key="1879089294" value="Schattenbeschworene"/>
+<label key="1879089313" value="Bärenhonig"/>
+<label key="1879089315" value="Schmackhafter Bärenhonig"/>
+<label key="1879089381" value="Abgesang des Lebens"/>
+<label key="1879089382" value="Geschenk des Bösen"/>
+<label key="1879089383" value="Ruf ins Jenseits"/>
+<label key="1879089384" value="Kalter Hauch des Schattens"/>
+<label key="1879089385" value="Berührung des Schattens"/>
+<label key="1879089386" value="Gestohlenes Leben"/>
+<label key="1879089400" value="Stab der dunklen Schatten"/>
+<label key="1879089401" value="Schriftrolle d. Verwüstung"/>
+<label key="1879089402" value="Horn von Anor"/>
+<label key="1879089488" value="Brennender Stahl"/>
+<label key="1879089489" value="Abgründige Flammen"/>
+<label key="1879089490" value="Griff des Schreckens"/>
+<label key="1879089491" value="Verzehrende Flammen"/>
+<label key="1879089492" value="Quälende Schatten"/>
+<label key="1879089493" value="Quälende Flammen"/>
+<label key="1879089494" value="Kuss des Schattens"/>
+<label key="1879089495" value="Kuss des Abgrunds"/>
+<label key="1879089496" value="Umarmung der Flammen"/>
+<label key="1879089497" value="Flammen des Abgrunds"/>
+<label key="1879089498" value="Inneres Feuer"/>
+<label key="1879089621" value="Kleine Beharrlichkeit"/>
+<label key="1879089623" value="Inspirieren"/>
+<label key="1879089624" value="Schildbruder"/>
+<label key="1879089656" value="Geschenk d. Auferstandenen"/>
+<label key="1879089741" value="1H-Waffen-Angriff"/>
+<label key="1879089742" value="Bogenangriff"/>
+<label key="1879089788" value="Schleichen"/>
+<label key="1879089789" value="Fehlleitung"/>
+<label key="1879089790" value="Dúnedain-Schlag"/>
+<label key="1879089793" value="Blut der Dúnedain"/>
+<label key="1879089818" value="Dúnedain-Zeichen"/>
+<label key="1879089819" value="Präziser Flug"/>
+<label key="1879089857" value="Zurück zum Lager"/>
+<label key="1879089858" value="Führer zur Feste Guruth"/>
+<label key="1879089859" value="Führer nach Michelbinge"/>
+<label key="1879089860" value="Führer nach Evendim"/>
+<label key="1879089861" value="Führer nach West-Angmar"/>
+<label key="1879089862" value="Führer nach Ost-Angmar"/>
+<label key="1879089873" value="Dolchwurf"/>
+<label key="1879089874" value="Pfeil der Rechtschaffenheit"/>
+<label key="1879089875" value="Herzsucher"/>
+<label key="1879089876" value="Stärke der Erde"/>
+<label key="1879090218" value="Vernichtungsschlag"/>
+<label key="1879090219" value="Zerquetschen"/>
+<label key="1879090220" value="Fels"/>
+<label key="1879090221" value="1H-Waffen-Angriff"/>
+<label key="1879090222" value="Stein werfen"/>
+<label key="1879090225" value="Zermalmen"/>
+<label key="1879090226" value="Stampfen"/>
+<label key="1879090227" value="Dumpfer Schlag"/>
+<label key="1879090228" value="Das große Wüten"/>
+<label key="1879090245" value="Brüllen"/>
+<label key="1879090790" value="Aufmerksamkeit erwecken"/>
+<label key="1879090854" value="Stabile Falle"/>
+<label key="1879090856" value="Köderfalle"/>
+<label key="1879090857" value="Stolperdraht"/>
+<label key="1879090859" value="Schnellfalle"/>
+<label key="1879090864" value="Hühnerumhang"/>
+<label key="1879090865" value="Schlingfalle legen"/>
+<label key="1879091318" value="Umtausch"/>
+<label key="1879091725" value="Zu den Waffen"/>
+<label key="1879091726" value="Treten"/>
+<label key="1879091727" value="Ernsthafte Wunde"/>
+<label key="1879091728" value="Zurückziehen"/>
+<label key="1879091730" value="Große Verzweiflung"/>
+<label key="1879092194" value="Riechsalz verwenden"/>
+<label key="1879092634" value="Klinge Elendils"/>
+<label key="1879092681" value="Begehrter Kuchen"/>
+<label key="1879092788" value="Flucht aus der Dunkelheit"/>
+<label key="1879092795" value="Höhnendes Wasser"/>
+<label key="1879092796" value="Triefende Hände"/>
+<label key="1879092797" value="Dunkler Zyklon"/>
+<label key="1879092799" value="Rekrutierung: Verbesserter Siegesherold"/>
+<label key="1879092800" value="Rekrutierung: Verbesserter Kriegsherold"/>
+<label key="1879092801" value="Rekrutierung: Verbesserter Hoffnungsherold"/>
+<label key="1879092809" value="Aura der Hoffnung"/>
+<label key="1879092810" value="Rachsüchtiger Hieb"/>
+<label key="1879092811" value="Hoffnungslosigkeit"/>
+<label key="1879092813" value="Wehklage"/>
+<label key="1879092815" value="Eindrucksvolle Gegenwart"/>
+<label key="1879093044" value="Artefakte aufspüren"/>
+<label key="1879093057" value="Einhändiger waffenloser Angriff"/>
+<label key="1879093058" value="Pendeln"/>
+<label key="1879093059" value="Wurmsuche"/>
+<label key="1879093060" value="Beflügeltes Geflügel"/>
+<label key="1879093082" value="Begehrter Postsack"/>
+<label key="1879093313" value="Verantwortlichkeit"/>
+<label key="1879093328" value="Feuer aus dem Himmel"/>
+<label key="1879093329" value="Anwachsendes Feuer"/>
+<label key="1879093336" value="Willenskraft"/>
+<label key="1879093367" value="Suchende Flamme"/>
+<label key="1879093398" value="Feuertopf"/>
+<label key="1879093404" value="Hügelgräber-Brie"/>
+<label key="1879093784" value="Bedeutende Fleischwunde"/>
+<label key="1879093785" value="Fleischwunde"/>
+<label key="1879093786" value="Geringfügige Fleischwunde"/>
+<label key="1879093788" value="In die Schatten"/>
+<label key="1879093800" value="Gefallene Helden beschwören"/>
+<label key="1879093813" value="Neugieriger Hobbit-Replikant"/>
+<label key="1879093814" value="Probengefäß: Glühwürmchen"/>
+<label key="1879093815" value="Betteltasse"/>
+<label key="1879093816" value="Hungriger Hobbit-Replikant"/>
+<label key="1879093817" value="Probengefäß: Schmetterlinge"/>
+<label key="1879093818" value="Probengefäß: Fliegen"/>
+<label key="1879093819" value="Geisterbärenklaue"/>
+<label key="1879093833" value="Aufruf an die Toten"/>
+<label key="1879093834" value="Erlöschender Schub"/>
+<label key="1879093835" value="Aufruf an die Toten"/>
+<label key="1879093838" value="Letztes Glühen"/>
+<label key="1879093860" value="Greifende Schatten"/>
+<label key="1879093861" value="Peinigender Schatten"/>
+<label key="1879093862" value="Unwiederbringlich verbrannte Erde"/>
+<label key="1879093928" value="Tot stellen"/>
+<label key="1879094291" value="Pfeife"/>
+<label key="1879094292" value="Pfeife"/>
+<label key="1879094628" value="Blauen Uruk-Helfer beschwören"/>
+<label key="1879094629" value="Roten Uruk-Helfer beschwören"/>
+<label key="1879094716" value="Kraftvoller hoher Schlag"/>
+<label key="1879094717" value="Zermalmen"/>
+<label key="1879094735" value="Brutalität des Trolls (Nahkampf)"/>
+<label key="1879094736" value="Wunde hinzufügen (Nahkampf)"/>
+<label key="1879094742" value="Aura der Wut"/>
+<label key="1879094787" value="Paranoia"/>
+<label key="1879094797" value="Bannglühen"/>
+<label key="1879094805" value="Spalt-Feuerabwehr"/>
+<label key="1879094819" value="Wissen über die Schutzkunde: Kreaturen der Natur"/>
+<label key="1879094820" value="Wissen über die Schutzkunde: Drachen"/>
+<label key="1879094821" value="Wissen über die Schutzkunde: Tote"/>
+<label key="1879094823" value="Uraltes Handwerk"/>
+<label key="1879094827" value="Klebriger Teer"/>
+<label key="1879094844" value="Sturmkunde"/>
+<label key="1879094880" value="Geschichte der Bewachung"/>
+<label key="1879094881" value="Geschichte des Gefechts"/>
+<label key="1879094935" value="Gesang der Eidbrecher"/>
+<label key="1879094936" value="Chor der Eidbrecher"/>
+<label key="1879094937" value="Kriegsrede"/>
+<label key="1879094938" value="Beschwörung des Altvorderen Königs"/>
+<label key="1879094939" value="Ruf des Zweiten Zeitalters"/>
+<label key="1879094940" value="Ruf zu Größe"/>
+<label key="1879094941" value="Ruf an die Gefährten"/>
+<label key="1879094942" value="Gabe der Hammerhand"/>
+<label key="1879095070" value="Deckeneinsturz"/>
+<label key="1879095071" value="Machtkampf"/>
+<label key="1879095073" value="Beruhigender Streich"/>
+<label key="1879095074" value="Geschoss"/>
+<label key="1879095075" value="Einschüchterndes Brüllen"/>
+<label key="1879095078" value="Blitzsturm"/>
+<label key="1879095103" value="Schrecken des Grausamen Geistes (Fernkampf)"/>
+<label key="1879095134" value="Krankheit hinzufügen (Fernkampf)"/>
+<label key="1879095138" value="Doppeleffekt ‘Überzeugung’"/>
+<label key="1879095141" value="Dreifacheffekt ’Furcht’ (Fernkampf)"/>
+<label key="1879095147" value="Sechsfacheffekt ‘Überzeugung’"/>
+<label key="1879095150" value="Doppeleffekt ’Wunde’ (Fernkampf)"/>
+<label key="1879095152" value="Dreifacheffekt ‘Krankheit’ (Fernkampf)"/>
+<label key="1879095153" value="Krankheit hinzufügen (Nahkampf)"/>
+<label key="1879095155" value="Dreifacheffekt ‘Wunde’ (Fernkampf)"/>
+<label key="1879095158" value="Doppeleffekt ’Wunde’ (Nahkampf)"/>
+<label key="1879095163" value="Vierfacheffekt ’Krankheit’ (Fernkampf)"/>
+<label key="1879095165" value="Listbeitrag"/>
+<label key="1879095166" value="Dreifacheffekt ’Gift’ (Fernkampf)"/>
+<label key="1879095167" value="Fünffacheffekt ’Furcht’ (Fernkampf)"/>
+<label key="1879095169" value="Vierfacheffekt ’Krankheit’ (Nahkampf)"/>
+<label key="1879095170" value="Furcht hinzufügen (Fernkampf)"/>
+<label key="1879095171" value="Doppeleffekt ‘Gift’ (Nahkampf)"/>
+<label key="1879095172" value="Sechsfacheffekt ‘Gift’ (Nahkampf)"/>
+<label key="1879095174" value="Sechsfacheffekt ‘Gift’ (Fernkampf)"/>
+<label key="1879095176" value="Listbeitrag"/>
+<label key="1879095177" value="Gift hinzufügen (Fernkampf)"/>
+<label key="1879095182" value="Vierfacheffekt ‘Furcht’ (Fernkampf)"/>
+<label key="1879095186" value="Dreifacheffekt ‘List’ (Fernkampf)"/>
+<label key="1879095187" value="Fünffacheffekt ’List’ (Fernkampf)"/>
+<label key="1879095188" value="Doppeleffekt ‘Gift’ (Fernkampf)"/>
+<label key="1879095190" value="Gift hinzufügen (Nahkampf)"/>
+<label key="1879095193" value="Dreifacheffekt ’Krankheit’ (Fernkampf)"/>
+<label key="1879095194" value="Fünffacheffekt ’Wunde’ (Nahkampf)"/>
+<label key="1879095197" value="Dreifacheffekt ‘Furcht’ (Fernkampf)"/>
+<label key="1879095200" value="Vierfacheffekt ’Wunde’ (Nahkampf)"/>
+<label key="1879095201" value="Dreifacheffekt ‘Gift’ (Fernkampf)"/>
+<label key="1879095202" value="Fünffacheffekt ’Krankheit’ (Nahkampf)"/>
+<label key="1879095205" value="Doppeleffekt ’Krankheit’ (Nahkampf)"/>
+<label key="1879095208" value="Sechsfacheffekt ‘Wunde’ (Nahkampf)"/>
+<label key="1879095209" value="Gift der Spinne (Nahkampf)"/>
+<label key="1879095210" value="Sechsfacheffekt ’Wunde’ (Nahkampf)"/>
+<label key="1879095211" value="Sechsfacheffekt ‘Wunde’ (Fernkampf)"/>
+<label key="1879095213" value="Dreifacheffekt ‘Überzeugung’"/>
+<label key="1879095214" value="Fünffacheffekt ‘Überzeugung’"/>
+<label key="1879095215" value="Brutalität des Trolls (Fernkampf)"/>
+<label key="1879095219" value="Sechsfacheffekt ’Gift’ (Nahkampf)"/>
+<label key="1879095225" value="Fünffacheffekt ’Krankheit’ (Fernkampf)"/>
+<label key="1879095226" value="Dreifacheffekt ’Taktik’"/>
+<label key="1879095229" value="Fünffacheffekt ’Gift’ (Nahkampf)"/>
+<label key="1879095231" value="Sechsfacheffekt ’Stärke’"/>
+<label key="1879095233" value="Vierfacheffekt ’Gift’ (Fernkampf)"/>
+<label key="1879095236" value="Doppeleffekt ’Gift’ (Nahkampf)"/>
+<label key="1879095238" value="Dreifacheffekt ‘Gift’ (Nahkampf)"/>
+<label key="1879095240" value="Vierfacheffekt ’Stärke’"/>
+<label key="1879095244" value="Fünffacheffekt ‘Wunde’ (Nahkampf)"/>
+<label key="1879095245" value="Dreifacheffekt ’Gift’ (Nahkampf)"/>
+<label key="1879095248" value="Doppeleffekt ‘List’ (Nahkampf)"/>
+<label key="1879095250" value="Doppeleffekt ’Krankheit’ (Fernkampf)"/>
+<label key="1879095251" value="Doppeleffekt ’Gift’ (Fernkampf)"/>
+<label key="1879095252" value="Dreifacheffekt ’Wunde’ (Fernkampf)"/>
+<label key="1879095256" value="Sechsfacheffekt ’Gift’ (Fernkampf)"/>
+<label key="1879095257" value="Gift der Spinne (Fernkampf)"/>
+<label key="1879095261" value="Doppeleffekt ‘Wunde’ (Fernkampf)"/>
+<label key="1879095265" value="Vierfacheffekt ’Wunde’ (Fernkampf)"/>
+<label key="1879095268" value="Vierfacheffekt ’Stärke’"/>
+<label key="1879095270" value="Stärkebeitrag"/>
+<label key="1879095273" value="Sechsfacheffekt ’Stärke’"/>
+<label key="1879095275" value="Sechsfacheffekt ’List’ (Nahkampf)"/>
+<label key="1879095279" value="Dreifacheffekt ’Wunde’ (Nahkampf)"/>
+<label key="1879095282" value="Wunde hinzufügen (Fernkampf)"/>
+<label key="1879095286" value="Gift hinzufügen (Nahkampf)"/>
+<label key="1879095292" value="Fünffacheffekt ’Taktik’"/>
+<label key="1879095296" value="Doppeleffekt ’Taktik’"/>
+<label key="1879095298" value="Fünffacheffekt ’Krankheit’ (Fernkampf)"/>
+<label key="1879095299" value="Sechsfacheffekt ’Krankheit’ (Nahkampf)"/>
+<label key="1879095301" value="Vierfacheffekt ‘Überzeugung’"/>
+<label key="1879095305" value="Vierfacheffekt ‘Wunde’ (Fernkampf)"/>
+<label key="1879095308" value="Doppeleffekt ‘Wunde’ (Nahkampf)"/>
+<label key="1879095309" value="Doppeleffekt ‘List’ (Fernkampf)"/>
+<label key="1879095312" value="Doppeleffekt ‘Furcht’ (Fernkampf)"/>
+<label key="1879095317" value="Fünffacheffekt ‘Gift’ (Fernkampf)"/>
+<label key="1879095322" value="Vierfacheffekt ’Krankheit’ (Nahkampf)"/>
+<label key="1879095323" value="Vierfacheffekt ’Krankheit’ (Fernkampf)"/>
+<label key="1879095326" value="Dreifacheffekt ‘Krankheit’ (Nahkampf)"/>
+<label key="1879095328" value="Vierfacheffekt ‘List’ (Fernkampf)"/>
+<label key="1879095329" value="Dreifacheffekt ‘List’ (Nahkampf)"/>
+<label key="1879095331" value="Sechsfacheffekt ’Furcht’ (Fernkampf)"/>
+<label key="1879095333" value="Vierfacheffekt ‘Gift’ (Nahkampf)"/>
+<label key="1879095337" value="Krankheit hinzufügen (Nahkampf)"/>
+<label key="1879095338" value="Dreifacheffekt ‘Wunde’ (Nahkampf)"/>
+<label key="1879095339" value="Vierfacheffekt ‘Wunde’ (Nahkampf)"/>
+<label key="1879095340" value="Sechsfacheffekt ‘Furcht’ (Fernkampf)"/>
+<label key="1879095341" value="Dreifacheffekt ’Stärke’"/>
+<label key="1879095343" value="Taktikbeitrag"/>
+<label key="1879095344" value="Doppeleffekt ’Furcht’ (Fernkampf)"/>
+<label key="1879095347" value="Überzeugungsbeitrag"/>
+<label key="1879095353" value="Fünffacheffekt ’Gift’ (Fernkampf)"/>
+<label key="1879095354" value="Sechsfacheffekt ’Krankheit’ (Fernkampf)"/>
+<label key="1879095355" value="Vierfacheffekt ’Furcht’ (Fernkampf)"/>
+<label key="1879095356" value="Vierfacheffekt ’Gift’ (Nahkampf)"/>
+<label key="1879095357" value="Doppeleffekt ’Stärke’"/>
+<label key="1879095359" value="Fünffacheffekt ’List’ (Nahkampf)"/>
+<label key="1879095360" value="Gift hinzufügen (Fernkampf)"/>
+<label key="1879095361" value="Sechsfacheffekt ’Wunde’ (Fernkampf)"/>
+<label key="1879095362" value="Doppeleffekt ’Krankheit’ (Fernkampf)"/>
+<label key="1879095365" value="Fünffacheffekt ’Stärke’"/>
+<label key="1879095367" value="Doppeleffekt ’Stärke’"/>
+<label key="1879095368" value="Sechsfacheffekt ’Krankheit’ (Nahkampf)"/>
+<label key="1879095370" value="Sechsfacheffekt ’Krankheit’ (Fernkampf)"/>
+<label key="1879095373" value="Vierfacheffekt ‘Gift’ (Fernkampf)"/>
+<label key="1879095379" value="Fünffacheffekt ‘Gift’ (Nahkampf)"/>
+<label key="1879095383" value="Fäulnis des Unholds (Nahkampf)"/>
+<label key="1879095386" value="Krankheit hinzufügen (Fernkampf)"/>
+<label key="1879095390" value="Fünffacheffekt ’Stärke’"/>
+<label key="1879095392" value="Fäulnis des Unholds (Fernkampf)"/>
+<label key="1879095397" value="Vierfacheffekt ’Taktik’"/>
+<label key="1879095398" value="Furcht hinzufügen (Fernkampf)"/>
+<label key="1879095400" value="Doppeleffekt ’Krankheit’ (Nahkampf)"/>
+<label key="1879095404" value="Wunde hinzufügen (Nahkampf)"/>
+<label key="1879095405" value="Dreifacheffekt ’Stärke’"/>
+<label key="1879095411" value="Vierfacheffekt ‘List’ (Nahkampf)"/>
+<label key="1879095412" value="Wunde hinzufügen (Fernkampf)"/>
+<label key="1879095413" value="Fünffacheffekt ’Krankheit’ (Nahkampf)"/>
+<label key="1879095416" value="Sechsfacheffekt ’List’ (Fernkampf)"/>
+<label key="1879095417" value="Fünffacheffekt ’Wunde’ (Fernkampf)"/>
+<label key="1879095420" value="Fünffacheffekt ‘Furcht’ (Fernkampf)"/>
+<label key="1879095422" value="Dreifacheffekt ’Krankheit’ (Nahkampf)"/>
+<label key="1879095423" value="Fünffacheffekt ‘Wunde’ (Fernkampf)"/>
+<label key="1879095424" value="Sechsfacheffekt ’Taktik’"/>
+<label key="1879095468" value="Luftkunde"/>
+<label key="1879095489" value="Duftkerze"/>
+<label key="1879095507" value="Luchssprache"/>
+<label key="1879095792" value="Flammenexplosion"/>
+<label key="1879095793" value="Verschlingende Flammen"/>
+<label key="1879095794" value="Flügelschlag"/>
+<label key="1879095840" value="Tiefer Einstich"/>
+<label key="1879095841" value="Die Welt aufzehren"/>
+<label key="1879095842" value="Blendende Finsternis"/>
+<label key="1879095843" value="Ruf an die Leere"/>
+<label key="1879095844" value="Bündelung der Leere"/>
+<label key="1879095845" value="Jenseits dieser Welt"/>
+<label key="1879095846" value="Zurückweisen der Welt"/>
+<label key="1879096308" value="Geschenk der Leere"/>
+<label key="1879096309" value="Zustand ’Unverwundbarkeit bei Kombination’"/>
+<label key="1879096310" value="’Unverwundbarkeit bei Kombination’ beenden"/>
+<label key="1879096311" value="Haut der Winterebbe"/>
+<label key="1879096312" value="Reflexbiss"/>
+<label key="1879096321" value="Akkord der Erlösung"/>
+<label key="1879096322" value="Unwiderstehliche Melodie"/>
+<label key="1879096481" value="Explosive Kraft"/>
+<label key="1879096482" value="Lebensenergie durch Opfer"/>
+<label key="1879096583" value="Panik!"/>
+<label key="1879096584" value="Herzspalter"/>
+<label key="1879096585" value="Grässliches Kreischen"/>
+<label key="1879096586" value="Geflügelter Diener"/>
+<label key="1879096587" value="Krallenriss"/>
+<label key="1879096588" value="Grausamer Schnitt"/>
+<label key="1879096589" value="Kritischer Schlag"/>
+<label key="1879096590" value="Züngelnde Flamme"/>
+<label key="1879096591" value="Stärke des Opfers"/>
+<label key="1879096771" value="Begleiter heilen"/>
+<label key="1879096836" value="Lehrbuch verfassen: Harfe"/>
+<label key="1879096837" value="Haltung ’Schreiber’"/>
+<label key="1879096866" value="Lehrbuch verfassen: Dudelsack"/>
+<label key="1879096867" value="Lehrbuch verfassen: Klarinette"/>
+<label key="1879096868" value="Lehrbuch verfassen: Kuhglocke"/>
+<label key="1879096869" value="Lehrbuch verfassen: Trommel"/>
+<label key="1879096870" value="Lehrbuch verfassen: Flöte"/>
+<label key="1879096871" value="Lehrbuch verfassen: Horn"/>
+<label key="1879096872" value="Lehrbuch verfassen: Moorkuh-Glocke"/>
+<label key="1879096873" value="Lehrbuch verfassen: Theorbe"/>
+<label key="1879096874" value="Wilder Schlag"/>
+<label key="1879096875" value="Schlitzende Klauen"/>
+<label key="1879096876" value="Überraschungsangriff"/>
+<label key="1879097058" value="'Schadensminderung' entfernen"/>
+<label key="1879097069" value="Rift Item Skill"/>
+<label key="1879097091" value="Blutgeschenk"/>
+<label key="1879097092" value="Knochenmahler"/>
+<label key="1879097096" value="Minimaler gewöhnlicher Schaden durch schnellen Nahkampf"/>
+<label key="1879097097" value="Mittlerer gewöhnlicher Schaden durch schnellen Nahkampf"/>
+<label key="1879097132" value="Heilung"/>
+<label key="1879097176" value="Rift Item Skill"/>
+<label key="1879097177" value="Rift Item Skill"/>
+<label key="1879097178" value="Rift Item Skill"/>
+<label key="1879097179" value="Rift Item Skill"/>
+<label key="1879097180" value="Rift Item Skill"/>
+<label key="1879097181" value="Rift Item Skill"/>
+<label key="1879097202" value="Vogelsprache"/>
+<label key="1879097203" value="Katzensprache"/>
+<label key="1879097204" value="Hundesprache"/>
+<label key="1879097205" value="Fuchssprache"/>
+<label key="1879097206" value="Froschsprache"/>
+<label key="1879097207" value="Kaninchensprache"/>
+<label key="1879097208" value="Schlangensprache"/>
+<label key="1879097209" value="Eichhörnchensprache"/>
+<label key="1879097230" value="Schildkrötensprache"/>
+<label key="1879097282" value="Um Haaresbreite"/>
+<label key="1879097349" value="Uralter Groll"/>
+<label key="1879097350" value="Aura des Schutzes"/>
+<label key="1879097351" value="Aura der Wiederherstellung"/>
+<label key="1879097352" value="Aura der Wut"/>
+<label key="1879097353" value="Aura der Vergeltung"/>
+<label key="1879097354" value="Unheilvolles Gebrüll"/>
+<label key="1879097355" value="Klinge und Kette"/>
+<label key="1879097356" value="Klingenbündelung"/>
+<label key="1879097357" value="Brutales Schwert"/>
+<label key="1879097358" value="’Kettenmodus’beginnen"/>
+<label key="1879097359" value="’Kettenmodus’ beenden"/>
+<label key="1879097360" value="Kettenschläge"/>
+<label key="1879097361" value="Kettenschläge"/>
+<label key="1879097362" value="Kettenschläge"/>
+<label key="1879097363" value="Enthüllender Schlag"/>
+<label key="1879097364" value="Verhängnisvolle Krankheit"/>
+<label key="1879097365" value="Schwerwiegender Schnitt"/>
+<label key="1879097366" value="Gewaltige Faust"/>
+<label key="1879097367" value="Markierte Beute"/>
+<label key="1879097368" value="Unbarmherzige Strafe"/>
+<label key="1879097369" value="Zurechtweisung des Gefangenen"/>
+<label key="1879097370" value="Kette zurückrufen"/>
+<label key="1879097371" value="Wildes Schwert"/>
+<label key="1879097372" value="Übermittelnder Schlag"/>
+<label key="1879097373" value="Stahlpeitsche"/>
+<label key="1879097374" value="Schwefeltäuschung"/>
+<label key="1879097375" value="Schwefelflut"/>
+<label key="1879097376" value="Schwertschlag"/>
+<label key="1879097377" value="Schweifbrecher"/>
+<label key="1879097378" value="Schweifschlag"/>
+<label key="1879097379" value="Schrecklicher Aufprall"/>
+<label key="1879097486" value="Kröten beschwören"/>
+<label key="1879097604" value="Enter Stealthed State"/>
+<label key="1879097695" value="Rift Item Skill"/>
+<label key="1879097711" value="Feuerschwäche"/>
+<label key="1879097712" value="Brennender Stachelpfeil"/>
+<label key="1879097713" value="Raserei und Wut"/>
+<label key="1879097714" value="Plötzliche Entlassung"/>
+<label key="1879097715" value="Sand brennen"/>
+<label key="1879097716" value="Feuerregen"/>
+<label key="1879097717" value="Schutz für die Kreaturen"/>
+<label key="1879097718" value="Ausrichten der Kreaturen"/>
+<label key="1879097719" value="Geschmolzene Rüstung"/>
+<label key="1879097723" value="Minimaler Feuerstreichschaden"/>
+<label key="1879097724" value="Mittlerer Feuerstreichschaden"/>
+<label key="1879097725" value="Feuer-Rundumschlag"/>
+<label key="1879097726" value="Feuerstreich"/>
+<label key="1879097727" value="Maximaler Feuerstreichschaden"/>
+<label key="1879097785" value="Wurm beschwören"/>
+<label key="1879097826" value="Feuerball"/>
+<label key="1879097828" value="Flammenexplosion"/>
+<label key="1879097878" value="Sehnenfetzen"/>
+<label key="1879097879" value="Augen auskratzen"/>
+<label key="1879097880" value="Angriff!"/>
+<label key="1879097881" value="Magenhieb"/>
+<label key="1879097883" value="Empfindliches Ziel"/>
+<label key="1879097884" value="Ich sehe Euch!"/>
+<label key="1879097885" value="Vergesst es!"/>
+<label key="1879097887" value="Banner des Schreckens"/>
+<label key="1879097888" value="Schwarze Sprache"/>
+<label key="1879097889" value="Befehlsstand"/>
+<label key="1879097894" value="Bodennetz"/>
+<label key="1879097895" value="Erstickendes Netz"/>
+<label key="1879097896" value="Brutlinge"/>
+<label key="1879098096" value="Schattenabwehr"/>
+<label key="1879098102" value="Maximaler Feuerschaden (Fernkampf)"/>
+<label key="1879098104" value="Niedriger Feuerschaden (Fernkampf)"/>
+<label key="1879098105" value="Hoher Feuerschaden (Fernkampf)"/>
+<label key="1879098106" value="Minimaler Feuerschaden (Fernkampf)"/>
+<label key="1879098107" value="Mittlerer Feuerschaden (Fernkampf)"/>
+<label key="1879098150" value="Schweben"/>
+<label key="1879098189" value="Niedriger Feuerstreichschaden"/>
+<label key="1879098210" value="'Schweben' neutralisieren"/>
+<label key="1879098217" value="Verstärkte Klinge"/>
+<label key="1879098218" value="Inspirierendes Lied"/>
+<label key="1879098219" value="Schlüssel zum Gefängnis"/>
+<label key="1879098220" value="Gesegnetes Wort"/>
+<label key="1879098221" value="Altersloses Schwert"/>
+<label key="1879098222" value="Wort der Valar"/>
+<label key="1879098223" value="Neuer Wille"/>
+<label key="1879098716" value="Verschlingung"/>
+<label key="1879098717" value="Augen der Furcht"/>
+<label key="1879098719" value="Dornenexplosion"/>
+<label key="1879098729" value="Hoher Schattenstreichschaden"/>
+<label key="1879098730" value="Niedriger Schattenstreichschaden"/>
+<label key="1879098731" value="Maximaler Schattenstreichschaden"/>
+<label key="1879098732" value="Mittlerer Schattenstreichschaden"/>
+<label key="1879098733" value="Minimaler Schattenstreichschaden"/>
+<label key="1879098760" value="Wissen des Kundigen"/>
+<label key="1879098799" value="Explosive Kraft"/>
+<label key="1879098800" value="Feuerhauch beschwören"/>
+<label key="1879099080" value="Mentor: Harfe"/>
+<label key="1879099270" value="Mentor: Dudelsack"/>
+<label key="1879099271" value="Mentor: Klarinette"/>
+<label key="1879099272" value="Mentor: Kuhglocke"/>
+<label key="1879099273" value="Mentor: Trommeln"/>
+<label key="1879099274" value="Mentor: Flöte"/>
+<label key="1879099275" value="Mentor: Horn"/>
+<label key="1879099276" value="Mentor: Moorkuh-Glocke"/>
+<label key="1879099277" value="Mentor: Theorbe"/>
+<label key="1879099318" value="Krankheit heilen"/>
+<label key="1879099319" value="Furcht heilen"/>
+<label key="1879099320" value="Gift neutralisieren"/>
+<label key="1879099321" value="Wunde heilen"/>
+<label key="1879099377" value="Die Welt erneuern"/>
+<label key="1879101510" value="Reist zu Eurem eigenen Heim."/>
+<label key="1879101511" value="Reist zum Haus Eurer Sippe."/>
+<label key="1879101638" value="Schützende Flamme"/>
+<label key="1879101691" value="Augen auspicken"/>
+<label key="1879101914" value="Maximaler Feuerschaden (Nahkampf)"/>
+<label key="1879101997" value="Wurzelschlag"/>
+<label key="1879101998" value="Wurzel zurückrufen"/>
+<label key="1879102040" value="Schneller Abzug"/>
+<label key="1879102222" value="Schrei des Bösen"/>
+<label key="1879102223" value="Fluch des Kundigen"/>
+<label key="1879102224" value="Gurthuls Rache"/>
+<label key="1879102439" value="Finaler Wurf"/>
+<label key="key:620757890:228830419" value="Diese Fertigkeit ist eine schnelle Version von 'Schleichen'."/>
+<label key="key:620759186:228830419" value="Nachdem Ihr 'Zweischneidiger Schlag' eingesetzt habt, könnt Ihr ein paar sehr wirkungsvollen Angriff gegen das Ziel führen."/>
+<label key="key:620759211:228830419" value="Nachdem Ihr den 'Zweischneidigen Schlag' eingesetzt habt, führt Ihr einen Angriff aus, der großen Schaden verursacht und außerdem eine gewisse Wahrscheinlichkeit besitzt, 6 Sek. lang Gefährten-Fertigkeiten einzusetzen, falls Ihr Euch in einer Gefährten-Gruppe befinden solltet."/>
+<label key="key:620759243:228830419" value="Die Erde bebt, als würden die Ents höchstpersönlich in den Krieg ziehen, wodurch Schaden verursacht wird und Eure Feinde zu Boden geworfen werden."/>
+<label key="key:620759256:228830419" value="Ihr seid ein Freund der Adler und könnt jetzt einen von ihnen zu Eurem Beistand herbeirufen."/>
+<label key="key:620759291:228830419" value=".."/>
+<label key="key:620759294:228830419" value="Diese Fertigkeit fügt einigen in der Nähe befindlichen Gegnern Schaden und wandelt es für den Adler in Moral um."/>
+<label key="key:620759296:228830419" value="Diese Fertigkeit bringt den Adler dazu, die drohende Niederlage seines Meisters abzuwenden. Diese Fertigkeit funktioniert nur, wenn sich der Adler im Kampf befindet."/>
+<label key="key:620759299:228830419" value="Diese Fertigkeit richtet sich gegen einen Gegner, der unter dem Einfluss von 'Glühende Asche' steht, und verursacht starke Verletzungen, indem sie das Feuer anfacht und den Gegner dazu bringt, voller Panik davonzulaufen."/>
+<label key="key:620759302:228830419" value=".."/>
+<label key="key:620759411:228830419" value="Ihr schießt mit der Fertigkeit Bards und lasst Eure bösen Feinde vor Angst erzittern."/>
+<label key="key:620759426:228830419" value="Wenn die Not groß ist, könnt Ihr weiterreisen, ohne lange gerastet zu haben. Kraft und Moral werden dann in wenigen Sekunden wiederhergestellt."/>
+<label key="key:620759440:228830419" value="Ihr lasst Dornenpfeile auf Eure Gegner regnen und nagelt so mehrere Ziele fest."/>
+<label key="key:620759617:228830419" value="Die Künste der Altvorderen sind noch nicht allen Rassen verloren. Ihr könnt denjenigen Hoffnung bringen, deren Moral vollkommen am Boden ist und holt jemanden, der im Kampf besiegt wurde, ins Leben zurück."/>
+<label key="key:620759630:228830419" value="Mit diesem Lied verringert Ihr kurzzeitig das Grauen Eurer Gefährten."/>
+<label key="key:620759643:228830419" value="Hymne: Ein Lied erklingt, wodurch Eure Gegner mit einem Licht-Wirkungsbereich angegriffen werden, der alle verlangsamt, die getroffen werden. Voraussetzung: Ballade der Stufe 3. Der Balladenzähler wird zurückgesetzt."/>
+<label key="key:620759751:228830419" value="Ihr könnt einen gefallenen Gefährten mit halber Moral und einem Viertel seiner Kraft wiederbeleben und beschützen."/>
+<label key="key:620759766:228830419" value="Ihr könnt es Euch leisten, einen Eurer Gefährten zu beschützen, doch dies kostet Euch die Hälfte Eurer Kraft."/>
+<label key="key:620759779:228830419" value="Ihr belegt Euren Feind mit einem Fluch, der den Schaden erheblich erhöht, den Eure Gefährten verursachen."/>
+<label key="key:620759792:228830419" value="Eure Anwesenheit allein genügt, um diejenigen, die sich in Eurer Nähe befinden, zu besseren Leistungen im Kampf anzutreiben."/>
+<label key="key:620764879:228830419" value="Ihr führt einen aggressiven Dreifach-Angriff aus, der Euch zur Bedrohung macht. Dieser Angriff verfehlt sein Ziel nie und kann nicht pariert oder geblockt werden. Man kann ihm nur ausweichen."/>
+<label key="key:620764880:228830419" value="Ihr führt einen aggressiven Dreifach-Angriff aus, der Euch zur Bedrohung macht. Dieser Angriff verfehlt sein Ziel nie und kann nicht pariert oder geblockt werden. Man kann ihm nur ausweichen."/>
+<label key="key:620764891:228830419" value="Ein Schrei des Trotzes, der Monstern einen Teil ihrer Kraft raubt und sie stattdessen auf Euch überträgt."/>
+<label key="key:620764903:228830419" value="Ihr führt einen Bereichsangriff aus, der großen Schaden verursacht und die Aufmerksamkeit der Gegner auf Euch zieht. Dieser Angriff verfehlt sein Ziel nie."/>
+<label key="key:620764905:228830419" value="Ihr führt einen Bereichsangriff aus, der großen Schaden verursacht und die Aufmerksamkeit der Gegner auf Euch zieht. Dieser Angriff verfehlt sein Ziel nie."/>
+<label key="key:620764915:228830419" value="Eure Schadens- und Kraftregeneration werden erhöht. Diese Fertigkeit kann nur im Kampf eingesetzt werden, vorausgesetzt Eure Moral beträgt mehr als 20 %. Sie wird nur aufrechterhalten, solange Eure Moral nicht unter 20 % absinkt."/>
+<label key="key:620765187:228830419" value="Ihr seid in der Lage, gegen einen Feind, der unter 'Überwältigen' oder 'Stoß' zu leiden hatte, einen sehr wirkungsvollen Angriff auszuführen, der ihn möglicherweise sogar zu Boden schlägt."/>
+<label key="key:620765207:228830419" value="Nach einem erfolgreichen heftigen Schlag oder Schildspott könnt Ihr erneut zuschlagen, um größeren Schaden anzurichten. Mit dieser Fertigkeit zieht Ihr die Aufmerksamkeit des Gegners auf Euch."/>
+<label key="key:620765219:228830419" value="Ihr konzentriert Euch darauf, Eure Gegner zu erzürnen."/>
+<label key="key:620765231:228830419" value="Ihr wisst, wie Ihr Eure Feinde dazu bringt, Euch anzugreifen, damit sich Eure Verbündeten frei bewegen können und Euer Wächterschild erhöht wird."/>
+<label key="key:620765364:228830419" value=".."/>
+<label key="key:620765365:228830419" value=".."/>
+<label key="key:620765366:228830419" value=".."/>
+<label key="key:620765367:228830419" value="Es besteht eine gewisse Wahrscheinlichkeit, dass Euer Herold das Ziel mit einem Nahkampfangriff lähmen kann, falls es sich unter dem Einfluss eines Eurer Zeichen befindet. Außerdem verursacht Euer Herold 50 % mehr Schaden, wenn er sich hinter dem Ziel befindet. Diese Fertigkeit kann nach 60 Sekunden erneut verwendet werden. Ihr müsst erst Euren Gegner markieren, bevor diese Fertigkeit angewendet werden kann."/>
+<label key="key:620765368:228830419" value="Wirkt eines Eurer Zeichen auf das Ziel, reizt Euer Herold es mit einem Nahkampfangriff. Diese Fertigkeit kann nach 15 Sekunden erneut verwendet werden. Ihr müsst erst Euren Gegner markieren, bevor diese Fertigkeit angewendet werden kann."/>
+<label key="key:620765369:228830419" value="Euer Herold spricht Euch in der Schlacht Mut zu und hebt Eure Moral auf Kosten seiner eigenen. Diese Fertigkeit kann nach 90 Sekunden erneut verwendet werden."/>
+<label key="key:620765376:228830419" value="Ihr werbt einen Herold an, der in der Schlacht Euer Banner des Sieges trägt. Dieses Banner erhöht bei allen, die in seiner Nähe sind, die maximale Kraft und die Kraftregeneration im Kampf."/>
+<label key="key:620765378:228830419" value="Ihr werbt einen Herold an, der in der Schlacht Euer Banner des Sieges trägt. Dieses Banner erhöht bei allen, die in seiner Nähe sind, die maximale Kraft und die Kraftregeneration im Kampf."/>
+<label key="key:620765380:228830419" value="Ihr werbt einen Herold an, der in der Schlacht Euer Banner des Sieges trägt. Dieses Banner erhöht bei allen, die in seiner Nähe sind, die maximale Kraft und die Kraftregeneration im Kampf."/>
+<label key="key:620765382:228830419" value="Ihr werbt einen Herold an, der in der Schlacht Euer Banner des Sieges trägt. Dieses Banner erhöht bei allen, die in seiner Nähe sind, die maximale Kraft und die Kraftregeneration im Kampf."/>
+<label key="key:620765396:228830419" value="Ihr könnt einen gefallenen Gefährten mit drei Viertel seiner Moral und halber Kraft wiederbeleben und beschützen.."/>
+<label key="key:620765402:228830419" value="Sobald ein würdiger Gegner besiegt ist, stärkt Euer Schrei die Moral der in Eurer Nähe befindlichen Gefährten."/>
+<label key="key:620765409:228830419" value="Sobald ein würdiger Gegner besiegt ist, lasst Ihr einen Schrei erklingen, der die Gefährten in Eurer Nähe schneller und beherzter angreifen lässt."/>
+<label key="key:620765414:228830419" value="Sobald ein würdiger Gegner besiegt ist, lasst Ihr einen furchterregenden Schrei ertönen, der alle Feinde in der Nähe geringfügig demoralisiert."/>
+<label key="key:620765417:228830419" value="Euer furchterregender Schrei löst Panik in den Herzen Eurer Feinde aus und versetzt Euch in einen kampfbereiten Zustand."/>
+<label key="key:620765423:228830419" value="Euer furchterregender Schrei löst Panik in den Herzen Eurer Feinde aus und versetzt Euch in einen kampfbereiten Zustand."/>
+<label key="key:620765426:228830419" value="Ihr greift defensiv an. Bei einem erfolgreichen Schlag verursacht Ihr nur leichten Schaden, erholt Euch aber schnell wieder, um Euch vor Gegenangriffen zu schützen."/>
+<label key="key:620765444:228830419" value="Ihr werbt einen Herold an, der in der Schlacht Euer Kriegsbanner trägt. Dieses Banner erhöht bei allen, die in seiner Nähe sind, Macht und Beweglichkeit."/>
+<label key="key:620765446:228830419" value="Ihr werbt einen Herold an, der in der Schlacht Euer Kriegsbanner trägt. Dieses Banner erhöht bei allen, die in seiner Nähe sind, Macht und Beweglichkeit."/>
+<label key="key:620765448:228830419" value="Ihr werbt einen Herold an, der in der Schlacht Euer Kriegsbanner trägt. Dieses Banner erhöht bei allen, die in seiner Nähe sind, Macht und Beweglichkeit."/>
+<label key="key:620765450:228830419" value="Ihr werbt einen Herold an, der in der Schlacht Euer Kriegsbanner trägt. Dieses Banner erhöht bei allen, die in seiner Nähe sind, Macht und Beweglichkeit."/>
+<label key="key:620765462:228830419" value="Ihr seid in der Lage, den Mut von Gefährten in Eurer Nähe zu stärken, und neutralisiert so existierende Furcht-Effekte."/>
+<label key="key:620765492:228830419" value="Ihr werbt einen Herold an, der in der Schlacht Euer Banner der Hoffnung trägt. Dieses Banner erhöht bei allen, die in seiner Nähe sind, die maximale Moral und die Moralregeneration im Kampf."/>
+<label key="key:620765494:228830419" value="Ihr werbt einen Herold an, der in der Schlacht Euer Banner der Hoffnung trägt. Dieses Banner erhöht bei allen, die in seiner Nähe sind, die maximale Moral und die Moralregeneration im Kampf."/>
+<label key="key:620765496:228830419" value="Ihr werbt einen Herold an, der in der Schlacht Euer Banner der Hoffnung trägt. Dieses Banner erhöht bei allen, die in seiner Nähe sind, die maximale Moral und die Moralregeneration im Kampf."/>
+<label key="key:620765498:228830419" value="Ihr werbt einen Herold an, der in der Schlacht Euer Banner der Hoffnung trägt. Dieses Banner erhöht bei allen, die in seiner Nähe sind, die maximale Moral und die Moralregeneration im Kampf."/>
+<label key="key:620765508:228830419" value="Wenn Ihr einen kritischen Treffer erzielt, so verursacht dieser zusätzlichen vernichtenden Schaden und ermöglicht Euch, Verteidigungs-Fertigkeiten Eures Gegners zu verwenden, sowie kampfgestählt zu sein. Ihr müsst in einem kampfbereiten Zustand sein, um diese Fertigkeit einzusetzen."/>
+<label key="key:620765512:228830419" value="Euer Ruf bedroht Euren Feind, wodurch sich die Chance erhöht, dass er Euch angreift."/>
+<label key="key:620765513:228830419" value="Euer Ruf bedroht Euren Feind, wodurch sich die Chance erhöht, dass er Euch angreift."/>
+<label key="key:620765569:228830419" value="Ihr führt einen schnellen Nahkampfangriff aus."/>
+<label key="key:620765615:228830419" value="Eure Leidenschaft wird augenblicklich erhöht."/>
+<label key="key:620765618:228830419" value="Die Hälfte Eurer Kraft wird in Moral umgewandelt."/>
+<label key="key:620765633:228830419" value="Dieser schnelle Angriff verursacht leichte Wunden bei Eurem Gegner."/>
+<label key="key:620765636:228830419" value="Nachdem Ihr den Schlag eines Feindes erfolgreich geblockt habt, könnt Ihr sowohl mit Eurer Waffe als auch mit dem Schild angreifen. Mit dieser Fertigkeit zieht Ihr die Aufmerksamkeit des Gegners auf Euch."/>
+<label key="key:620765643:228830419" value="Eure außergewöhnliche Kunstfertigkeit versetzt Euch in die Lage, Eure Verteidigung für kurze Zeit zu stärken."/>
+<label key="key:620765646:228830419" value="Ihr versetzt Eurem Gegner einen Schlag mit Eurem Schild. Diese Fertigkeit erzeugt eine zusätzliche Bedrohung."/>
+<label key="key:620765661:228830419" value="Ihr holt nach dem Blocken eines feindlichen Angriffs Luft und stellt so die Moral wieder her."/>
+<label key="key:620765667:228830419" value="Mit diesem Angriff seid Ihr in der Lage, die Aufmerksamkeit eines Gegners auf Euch zu ziehen."/>
+<label key="key:620765668:228830419" value="Mit diesem Angriff könnt Ihr die Aufmerksamkeit eines Feindes auf Euch lenken."/>
+<label key="key:620765677:228830419" value="Ihr wisst, wie Ihr Eure Feinde dazu bringt, Euch anzugreifen, damit sich Eure Verbündeten frei bewegen können."/>
+<label key="key:620765680:228830419" value="Wenn Ihr einen Schild führt, könnt Ihr vielleicht einen Eurer Verbündeten schützen und seine Verteidigung verbessern, indem Ihr Angriffe auf ihn abwehrt."/>
+<label key="key:620765681:228830419" value="Wenn Ihr einen Schild führt, könnt Ihr vielleicht einen Eurer Verbündeten schützen und seine Verteidigung verbessern, indem Ihr Angriffe auf ihn abwehrt."/>
+<label key="key:620765687:228830419" value="Diese Fertigkeit stärkt kurzzeitig Eure Verteidigung."/>
+<label key="key:620765691:228830419" value="Ihr seid in der Lage, Euch geistig zu sammeln und sofort einige Eurer Fertigkeiten einzusetzen."/>
+<label key="key:620765696:228830419" value="Ihr habt die Fähigkeit, Eure Moral für eine gewisse Zeit über ihren gewöhnlichen Wert hinaus zu steigern."/>
+<label key="key:620765702:228830419" value="Die erregende Gefahr versetzt Euch in die Lage, durch jeden in der Nähe befindlichen Gegner Kraft zurückzugewinnen. Diese Fertigkeit kann nur im Kampf eingesetzt werden."/>
+<label key="key:620765704:228830419" value="Die 'Erregende Gefahr' versetzt Euch in die Lage, durch jeden in der Nähe befindlichen Gegner, Kraft zurückzugewinnen. Diese Fertigkeit macht weitere Fertigkeiten zugänglich. Diese Fertigkeit kann nur im Kampf eingesetzt werden."/>
+<label key="key:620765712:228830419" value="Eure Überlebenskünste versetzen Euch in die Lage, Fallen zu stellen, in denen sich Eure Gegner verfangen. Die Falle ist, nachdem sie gestellt wurde, 60 Sekunden lang aktiv. Diese Fertigkeit kann leicht unterbrochen werden."/>
+<label key="key:620765742:228830419" value="In Zeiten der Verzweiflung könnt Ihr umgehend vollen Fokus erreichen."/>
+<label key="key:620765755:228830419" value="Dank Eurer Überlebenskünste erscheint Ihr Feinden gegenüber kurzzeitig weniger bedrohlich."/>
+<label key="key:620765759:228830419" value="Ihr könnt einen Teil Eures Fokus' opfern, um Fernkampfangriffe schneller durchführen zu können."/>
+<label key="key:620765784:228830419" value="Mit einem mächtigen Schlag hebt Ihr Eure Waffe, um Euren Gegner zu Fall zu bringen."/>
+<label key="key:620765785:228830419" value="Ihr erhebt Eure Waffe zu einem mächtigen Schlag, um Euren Gegner niederzustrecken und ihn eventuell dabei noch zu betäuben. Wird diese Fähigkeit auf in die Flanke gefallenen Gegnern angewendet, verursacht sie sogar noch größeren Schaden."/>
+<label key="key:620765790:228830419" value="Ihr entzieht Eurem Gegner Kraft und stärkt langsam Eure eigene."/>
+<label key="key:620765791:228830419" value="Ihr entzieht Eurem Gegner Kraft und stärkt langsam Eure eigene."/>
+<label key="key:620765799:228830419" value="Überträgt Moral an einen Verbündeten oder Gefährten."/>
+<label key="key:620765804:228830419" value="Dieses Zeichen wacht über Euer Begleittier, sodass es feindliche Angriffe häufiger parieren und Schaden besser widerstehen kann. Für Euren Begleiter kann zu einem beliebigen Zeitpunkt nur jeweils ein Zeichen aktiv sein."/>
+<label key="key:620765810:228830419" value="Ihr könnt die Wunden eines Verbündeten heilen."/>
+<label key="key:620765812:228830419" value="Ihr könnt innerhalb eines gewissen Wirkungsbereichs Wunden heilen. Dies kann auch während des Kampfes eingesetzt werden."/>
+<label key="key:620765816:228830419" value="Dieses Zeichen versetzt Euer Begleittier in Rage, so dass es schneller angreift und somit bedrohlicher wirkt. Für Euren Gefährten kann zu einem beliebigen Zeitpunkt nur jeweils ein Zeichen aktiv sein."/>
+<label key="key:620765825:228830419" value="Der Erdboden unter den Füßen des Gegners birst, verursacht Schaden und hemmt die Bewegungen des Gegners und nach zehn Sekunden wird das Ziel durch die Bodenumwälzungen in Arda festgesetzt."/>
+<label key="key:620765831:228830419" value="Euer Wissen über den Weißen Rat stärkt in Notzeiten Eure Moral. Außerdem werdet Ihr eine Zeit lang geschützt und Eure Feinde werden geschädigt."/>
+<label key="key:620765836:228830419" value="Ein blendender Blitz, begleitet von einem lauten Donnerschlag und dem Geruch von Schießpulver, lässt den Feind innehalten und alle Aktionen unterbrechen. Ein dem Ziel zugefügter Schaden beendet dessen Benommenheit."/>
+<label key="key:620765841:228830419" value="Ihr könnt Krankheiten heilen."/>
+<label key="key:620765843:228830419" value="Ihr könnt innerhalb eines gewissen Wirkungsbereichs Krankheiten heilen."/>
+<label key="key:620765849:228830419" value="Eure Erforschung verlorenen Wissens erhöht Euren Willen immens."/>
+<label key="key:620765851:228830419" value="Eure Erforschung verlorenen Wissens erhöht Euren Willen immens."/>
+<label key="key:620765856:228830419" value="Ihr könnt einen Teil Eurer Kraft auf einen Verbündeten oder Gefährten übertragen."/>
+<label key="key:620765875:228830419" value="Stufe-3-Ballade: Eine schnelle Ballade, die Euren Gefährten einen Bonus auf ihren Nahkampfschaden verleiht. Voraussetzung: Ballade der Stufe 2."/>
+<label key="key:620765879:228830419" value="Hymne: Ein Lied erklingt, wodurch Eure Gegner mit einem Licht-Wirkungsbereich angegriffen werden. Voraussetzung: Ballade der Stufe 3. Der Balladenzähler wird zurückgesetzt."/>
+<label key="key:620765880:228830419" value="Hymne: Ein Lied erklingt, wodurch Eure Gegner mit einem Licht-Wirkungsbereich angegriffen werden. Voraussetzung: Lied der Stufe 3. Der Balladenzähler wird zurückgesetzt."/>
+<label key="key:620765884:228830419" value="Der Barden inspiriert seine Gefährten zu heroischen Taten, indem es den meisten Klassen Fertigkeiten zugänglich macht und Kundige dazu befähigt, ihre Signalfeuer der Hoffnung häufiger und mit geringeren Moralverlusten einzusetzen."/>
+<label key="key:620765885:228830419" value="Der Barden inspiriert seine Gefährten zu heroischen Taten, indem er den meisten Klassen abhängige Fertigkeiten zugänglich macht und Kundige dazu befähigt, ihre Signalfeuer der Hoffnung häufiger und mit geringeren Moralverlusten einzusetzen. Diese verbesserte Version dauert länger und ist schneller wiederzuverwenden."/>
+<label key="key:620765911:228830419" value="Stufe-1-Ballade: Eine schnelle Ballade, die Euren taktischen Angriffen einen Schadensbonus verleiht und Euren Gegner schädigt."/>
+<label key="key:620765915:228830419" value="Schenkt jenen Hoffnung, deren Moral vollständig erschöpft ist, und kann so einen bereits gefallenen Verbündeten wiederbeleben."/>
+<label key="key:620765920:228830419" value="Dank dieser Fertigkeit könnt auf alle Balladenstufen und Hymnen zugreifen. Außerdem werden sämtliche Stille-Effekte neutralisiert."/>
+<label key="key:620765924:228830419" value="Diese Fertigkeit besänftigt in der Nähe befindliche Ziele, die Euch hassen, wodurch die Wahrscheinlichkeit steigt, dass sie jemand anderen angreifen"/>
+<label key="key:620765948:228830419" value="Ihr könnt einen schnellen, heftigen Angriff gegen Euren Feind führen."/>
+<label key="key:620765953:228830419" value="Ihr könnt Euren Feinden Rätsel stellen, die sie durch momentane Ablenkung kurzzeitig (oder bis sie Schaden erleiden) betäuben. Erweist sich bei wilden Tieren, Insekten und Kreaturen der Natur als wirkungslos."/>
+<label key="key:620765959:228830419" value="Euer sorgfältiges Zielen lässt den nächsten Angriff, mit dem Ihr Schaden verursacht, zu einem kritischen Treffer werden. Das Einsetzen dieser Fertigkeit beendet das Schleichen nicht."/>
+<label key="key:620765966:228830419" value="Ihr schleudert Eurem Gegner Staub in die Augen, wodurch es ihm schwerer fällt, sein Ziel zu treffen. Ihr könnt immer nur einen Trick auf einmal auf Euer Ziel anwenden."/>
+<label key="key:620765969:228830419" value="Ihr schleudert Eurem Gegner Staub in die Augen, wodurch es ihm schwerer fällt, sein Ziel zu treffen. Ihr könnt immer nur einen Trick auf einmal auf Euer Ziel anwenden."/>
+<label key="key:620765977:228830419" value="Wenn Ihr Euch verbergt, könnt Ihr die Aufmerksamkeit Eures Feindes eine gewisse Zeit lang von Euch ablenken. Das Einsetzen dieser Fertigkeit beendet das Schleichen nicht."/>
+<label key="key:620765983:228830419" value="Wenn Ihr einen Feind trefft, könnt Ihr seinen Angriff kurzzeitig verlangsamen. Ihr könnt immer nur einen Trick auf einmal auf Euer Ziel anwenden."/>
+<label key="key:620765989:228830419" value="Ihr führt einen Angriff aus, der die Verteidigung Eures Feindes kurzzeitig senkt. Ihr könnt immer nur einen Trick auf einmal auf Euer Ziel anwenden."/>
+<label key="key:620766000:228830419" value="Ihr könnt vor den Augen Eures Gegners verschwinden. Euer Schleichen wird kurzzeitig verbessert und Eure Tarnung wird selbst dann nicht aufgehoben, wenn Ihr Schaden nehmt. Das Einsetzen dieser Fertigkeit beendet das Schleichen nicht."/>
+<label key="key:620766002:228830419" value="Ihr habt die Fähigkeit, Euch ungesehen zu bewegen, dennoch besteht eine gewisse Gefahr, dass Feinde Euch entdecken, besonders wenn Ihr Euch direkt vor ihnen bewegt."/>
+<label key="key:620766003:228830419" value="Ihr habt die Fähigkeit, Euch ungesehen zu bewegen, dennoch besteht eine gewisse Gefahr, dass Feinde Euch entdecken."/>
+<label key="key:620766009:228830419" value="Ihr reizt Euren Gegner, so dass er auf jedes Ziel einschlägt, das er als Bedrohung ansieht. Ihr könnt immer nur einen Trick auf einmal auf Euer Ziel anwenden."/>
+<label key="key:620767743:228830419" value="Wenn aktiviert, werden in der Nähe befindliche Erzlagerstätten auf dem Radar angezeigt."/>
+<label key="key:620767778:228830419" value="Wenn aktiviert, werden in der Nähe befindliche Äste auf dem Radar angezeigt."/>
+<label key="key:620767853:228830419" value="Wenn aktiviert, werden in der Nähe befindliche Feldfrüchte auf dem Radar angezeigt."/>
+<label key="key:620768659:228830419" value="Ihr führt einen automatischen Angriff aus, wenn Ihr eine einhändige Waffe und einen Schild führt."/>
+<label key="key:620768660:228830419" value="Ihr führt einen automatischen Angriff aus, wenn Ihr zwei einhändige Waffen führt."/>
+<label key="key:620768661:228830419" value="Ihr führt einen automatischen Angriff aus, wenn Ihr eine zweihändige Waffe führt."/>
+<label key="key:620768823:228830419" value="Ihr führt einen automatischen Angriff aus, wenn Ihr einen Bogen benutzt."/>
+<label key="key:620768824:228830419" value="Ihr führt einen automatischen Angriff aus, wenn Ihr eine Armbrust benutzt."/>
+<label key="key:620768830:228830419" value="Diese Gefährten-Fertigkeit fügt Eurem Ziel leichten direkten Nahkampfschaden und dann zusätzlichen Schaden über Zeit zu und kann einen Beitrag zu Gefährten-Manövern leisten."/>
+<label key="key:620768832:228830419" value="Doppeleffekt 'List' (Nahkampf)"/>
+<label key="key:620768834:228830419" value="Diese Gefährten-Fertigkeit fügt Eurem Ziel leichten direkten Fernkampfschaden und dann zusätzlichen Schaden über Zeit zu und kann einen Beitrag zu Gefährten-Manövern leisten."/>
+<label key="key:620768835:228830419" value="Doppeleffekt 'List' (Fernkampf)"/>
+<label key="key:620768836:228830419" value="Listbeitrag"/>
+<label key="key:620768838:228830419" value="Listbeitrag"/>
+<label key="key:620768840:228830419" value="Dreifacheffekt 'List' (Nahkampf)"/>
+<label key="key:620768842:228830419" value="Dreifacheffekt 'List' (Fernkampf)"/>
+<label key="key:620768844:228830419" value="Vierfacheffekt 'List' (Nahkampf)"/>
+<label key="key:620768846:228830419" value="Vierfacheffekt 'List' (Fernkampf)"/>
+<label key="key:620768848:228830419" value="Diese Gefährten-Fertigkeit erneuert Eure Kraft und kann einen Beitrag zu Gefährten-Manövern leisten."/>
+<label key="key:620768850:228830419" value="Doppeleffekt 'Taktik'"/>
+<label key="key:620768852:228830419" value="Taktikbeitrag"/>
+<label key="key:620768854:228830419" value="Dreifacheffekt 'Taktik'"/>
+<label key="key:620768856:228830419" value="Vierfacheffekt 'Taktik'"/>
+<label key="key:620768858:228830419" value="Diese Fertigkeit fügt Eurem Ziel direkten Nahkampfschaden zu und kann einen Beitrag zu Gefährten-Manövern leisten."/>
+<label key="key:620768859:228830419" value="Doppeleffekt 'Stärke'"/>
+<label key="key:620768860:228830419" value="Diese Gefährten-Fertigkeit fügt Eurem Ziel direkten Fernkampfschaden zu und kann einen Beitrag zu Gefährten-Manövern leisten."/>
+<label key="key:620768861:228830419" value="Doppeleffekt 'Stärke'"/>
+<label key="key:620768862:228830419" value="Stärkebeitrag"/>
+<label key="key:620768864:228830419" value="Dreifacheffekt 'Stärke'"/>
+<label key="key:620768866:228830419" value="Vierfacheffekt 'Stärke'"/>
+<label key="key:620768868:228830419" value="Diese Gefährten-Fertigkeit erneuert Eure Moral und kann einen Beitrag zu Gefährten-Manövern leisten."/>
+<label key="key:620768870:228830419" value="Doppeleffekt 'Überzeugung'"/>
+<label key="key:620768873:228830419" value="Überzeugungsbeitrag"/>
+<label key="key:620768875:228830419" value="Dreifacheffekt 'Überzeugung'"/>
+<label key="key:620768878:228830419" value="Vierfacheffekt 'Überzeugung'"/>
+<label key="key:620768881:228830419" value="Vierfacheffekt 'Stärke'"/>
+<label key="key:620768891:228830419" value="Dreifacheffekt 'Stärke'"/>
+<label key="key:620768915:228830419" value="Fünffacheffekt 'Stärke'"/>
+<label key="key:620768916:228830419" value="Fünffacheffekt 'Stärke'"/>
+<label key="key:620768919:228830419" value="Fünffacheffekt 'List' (Nahkampf)"/>
+<label key="key:620768921:228830419" value="Fünffacheffekt 'List' (Fernkampf)"/>
+<label key="key:620768924:228830419" value="Fünffacheffekt 'Taktik'"/>
+<label key="key:620768928:228830419" value="Fünffacheffekt 'Überzeugung'"/>
+<label key="key:620768932:228830419" value="Sechsfacheffekt 'Stärke'"/>
+<label key="key:620768933:228830419" value="Sechsfacheffekt 'Stärke'"/>
+<label key="key:620768936:228830419" value="Sechsfacheffekt 'List' (Nahkampf)"/>
+<label key="key:620768937:228830419" value="Sechsfacheffekt 'List' (Fernkampf)"/>
+<label key="key:620768940:228830419" value="Sechsfacheffekt 'Taktik'"/>
+<label key="key:620768943:228830419" value="Sechsfacheffekt 'Überzeugung'"/>
+<label key="key:620774676:228830419" value="Ihr seid zäher als die meisten und könnt Euch schnell erholen wenn Ihr zu Boden geschlagen und betäubt werdet."/>
+<label key="key:620774679:228830419" value="Mit einem Aufblitzen von Stahl sorgt Ihr dafür, dass Euer Ziel kurzzeitig seine Waffen nicht einsetzen kann. Die Fertigkeit kann nur bei Spielern angewendet werden."/>
+<label key="key:620774681:228830419" value="Ihr verletzt die Beine Eurer Gegner und verlangsamt so Ihre Bewegungen."/>
+<label key="key:620774697:228830419" value="Ihr besprüht Euer Ziel mit klebrigen Spinnweben und verringert so seine Chance, zu parieren oder auszuweichen."/>
+<label key="key:620774700:228830419" value="Wenn Ihr Euch nicht in einem Kampf befindet, könnt Ihr Euch ungesehen von Feinden am Boden verstecken, um dann hervorzuschnellen."/>
+<label key="key:620774720:228830419" value="Ihr platziert vorsichtig eine Schlingfalle am Boden, um Eure Gegner zu fangen."/>
+<label key="key:620774722:228830419" value="Ihr schießt eine Reihe Pfeile in schneller Folge ab, wodurch Ihr mehrere Feinde um Euer Ziel herum treffen könnt."/>
+<label key="key:620774724:228830419" value="Ein Pfeil mit brennender Spitze, der das Ziel auch nach dem Auftreffen verbrennt."/>
+<label key="key:620774739:228830419" value="Ihr könnt einen betäubten und zu Boden geschlagenen Verbündeten anschreien, so dass dieser sich langsam zu erholen beginnt."/>
+<label key="key:620774741:228830419" value="Wenn Ihr Euch nicht in einem Kampf befindet, könnt Ihr und jeder nahe Verbündete schneller rennen."/>
+<label key="key:620774745:228830419" value="Ihr ermahnt und verlacht Eure Verbündeten und stellt so einen Teil ihrer Lebensenergie wieder her."/>
+<label key="key:620774760:228830419" value="Wenn Ihr einen Feind besiegt, könnt Ihr heulen, um Euch und Eure Gefährten über Zeit zu heilen."/>
+<label key="key:620774764:228830419" value="Ihr könnt vor den Augen Eures Feindes verschwinden und dann ungesehen zu bleiben. Für eine kurze Zeit seid Ihr extrem gut darin, zu schleichen."/>
+<label key="key:620774798:228830419" value="Ihr könnt, selbst für das schärfste Auge ungesehen, umherschleichen, um auf den richtigen Angriffsmoment zu warten."/>
+<label key="key:620774869:228830419" value="Ein einzelner, wirkungsvoller Nahkampfangriff."/>
+<label key="key:620774870:228830419" value="Ihr führt einen wirkungsvollen Nahkampfangriff aus, gefolgt von einem schnellen Streich mit der zweiten Hand."/>
+<label key="key:620774871:228830419" value="Ihr führt einen frontalen Bereichsangriff aus."/>
+<label key="key:620774872:228830419" value="Ihr führt einen frontalen Bereichsangriff aus."/>
+<label key="key:620774873:228830419" value="Ihr führt einen ungestümen Doppel-Angriff aus."/>
+<label key="key:620774874:228830419" value="Ihr führt zwei ungestüme Angriffe aus, gefolgt von einem schnellen Streich mit der zweiten Hand."/>
+<label key="key:620774875:228830419" value="Eure Schadens- und Kraftregeneration werden zulasten des Entgehens verstärkt."/>
+<label key="key:620774877:228830419" value="Eure Angriffsgeschwindigkeit erhöht sich."/>
+<label key="key:620774879:228830419" value="Ihr führt drei tödliche Angriffe aus."/>
+<label key="key:620774880:228830419" value="Ihr führt drei tödliche Angriffe aus."/>
+<label key="key:620774881:228830419" value="Ihr reagiert auf einige Angriffe Eures Gegners mit schnellen Gegenangriffen."/>
+<label key="key:620774883:228830419" value="Ihr führt einen Bereichsangriff aus."/>
+<label key="key:620774884:228830419" value="Ihr führt einen Bereichsangriff aus."/>
+<label key="key:620774885:228830419" value="Ihr führt einen Angriff aus, wodurch Ihr Euch auf Gegenangriffe vorbereiten könnt und Eure Moral geringfügig stärkt."/>
+<label key="key:620774887:228830419" value="Ihr führt einen Angriff aus, wodurch Ihr Euch auf Gegenangriffe vorbereiten könnt und Eure Moral geringfügig stärkt."/>
+<label key="key:620774888:228830419" value="Ihr führt einen Bereichsangriff aus, der leichten Schaden über Zeit verursachen kann."/>
+<label key="key:620774890:228830419" value="Ihr verliert all Eure Leidenschaft und nehmt eine Defensivhaltung ein, die Eure Parade- und Ausweichrate erhöht, aber gleichzeitig Leidenschaft eliminiert."/>
+<label key="key:620774892:228830419" value="Ihr nutzt Eure gesamte Leidenschaft, um einen verheerenden Angriff durchzuführen. Dieser Angriff verfehlt sein gleichstufiges Ziel nie und kann nicht pariert oder geblockt werden. Man kann ihm nur ausweichen."/>
+<label key="key:620774893:228830419" value="Ihr nutzt Eure gesamte Leidenschaft, um einen verheerenden Angriff und einen schnellen Streich mit der zweiten Hand durchzuführen. Dem Hauptangriff kann nur ausgewichen werden, denn er verfehlt sein gleichstufiges Ziel nie und kann nicht pariert oder geblockt werden."/>
+<label key="key:620774894:228830419" value="Euer höhnischer Schrei zwingt Euer Ziel, sich Euch zuzuwenden und Euch ein paar Sekunden anzugreifen."/>
+<label key="key:620774895:228830419" value="Ihr führt einen mächtigen Angriff aus, der nur bei Gegnern mit weniger als 20 % Lebensenergie eingesetzt werden kann."/>
+<label key="key:620774896:228830419" value="Ihr führt einen täuschenden Angriff aus, der Euren Gegner überrascht. Euer nächster Bereichsangriff wird einen größeren Schaden verursachen. Er kann nur bei Gegnern mit weniger als 25 % Lebensenergie eingesetzt werden."/>
+<label key="key:620774897:228830419" value="Eure Laufgeschwindigkeit wird erhöht."/>
+<label key="key:620774899:228830419" value="Ihr führt einen schnellen Nahkampfangriff aus, der jede zeitverzögerte Aktion des Gegners unterbricht."/>
+<label key="key:620774900:228830419" value="Ihr führt einen Bereichsangriff aus, der Eure Gegner betäubt."/>
+<label key="key:620774901:228830419" value="Ihr führt einen Angriff aus, der Euren Gegner in die Falle lockt."/>
+<label key="key:620774903:228830419" value="Ihr führt einen Nahkampfangriff aus, der Euer Ziel dazu bringt, von seinen Angriffen auf Euch abzulassen. Das Ziel wird allerdings seinen Angriff auf Euch nur beenden, falls sich in der Nähe ein anderes Ziel befindet, von dem eine größere Bedrohung ausgeht."/>
+<label key="key:620774904:228830419" value="Ihr führt einen Angriff mit einer Fernkampfwaffe aus."/>
+<label key="key:620774906:228830419" value="Geschichten über Eure heldenhaften Taten bringen die Menge zum Jubeln."/>
+<label key="key:620774913:228830419" value="Dieser leichte Angriff lässt Euern Feind bluten und fügt ihm über einen gewissen Zeitraum Schaden zu."/>
+<label key="key:620774915:228830419" value="Ihr verseht Euren Gegner mit einem Zeichen, das den Schaden erhöht, den Ihr und Eure Gefährten gegen diesen Gegner verursachen. Zu einem beliebigen Zeitpunkt kann nur je ein Ziel gekennzeichnet werden."/>
+<label key="key:620774917:228830419" value="Ihr befehlt Euren Gefährten, sowohl innerhalb als auch außerhalb eines Kampfes schneller zu sein."/>
+<label key="key:620774919:228830419" value="Ihr verseht Euren Feind mit einem Zeichen und fügt ihm dadurch Schaden über Zeit zu. Zu einem beliebigen Zeitpunkt kann nur je ein Ziel gekennzeichnet werden."/>
+<label key="key:620774921:228830419" value="Ihr greift den Feind zweimal an und verursacht dabei mittelschweren Schaden. Wenn Ihr beim zweiten Angriff einen kritischen Treffer landet, könnt Ihr Eure Fertigkeiten zur Eliminierung eines Gegners einsetzen, sowie kampfgestählt sein. Ihr müsst in einem kampfbereiten Zustand sein, um diese Fertigkeit einzusetzen."/>
+<label key="key:620774922:228830419" value="Ihr seid in der Lage, die Moral einer Eurer Gefährten über einen gewissen Zeitraum zu stärken."/>
+<label key="key:620774925:228830419" value="Mit einer motivierenden Rede könnt Ihr die Moral der Gefährten in Eurer Nähe steigern."/>
+<label key="key:620774927:228830419" value="Eure Taktik ist es, ständig auf der Hut zu sein, wodurch die Wahrscheinlichkeit erhöht wird, Angriffe zu parieren. Für niemanden kann je mehr als eine Taktik zu einem beliebigen Zeitpunkt aktiv sein."/>
+<label key="key:620774929:228830419" value="Ihr seid in der Lage, kurzzeitig dem Drang zu widerstehen, Euch der Niederlage zu beugen."/>
+<label key="key:620774930:228830419" value="Eure Taktik ist es, ununterbrochen anzugreifen, wodurch die Wahrscheinlichkeit für einen kritischen Treffer erhöht wird. Für niemanden kann je mehr als eine Taktik zu einem beliebigen Zeitpunkt aktiv sein."/>
+<label key="key:620774932:228830419" value="Ihr verseht Euren Gegner mit einem Zeichen, das die Moral Eurer Gefährten erneuert, sollten sie das Ziel verwunden. Zu einem beliebigen Zeitpunkt kann nur je ein Ziel gekennzeichnet werden."/>
+<label key="key:620774934:228830419" value="Wenn einer Eurer Gefährten fällt, bringt Euer Schrei einen in der Nähe befindlichen Gefährten zur Schlacht zurück und motiviert die Gefährten um Euch herum dazu, ihre Fertigkeiten noch heldenmütiger zu demonstrieren."/>
+<label key="key:620774938:228830419" value="Ihr werft Euch in den Weg, um Gefährten in Eurer Nähe zu verteidigen, indem Ihr sämtlichen Schaden, der auf sie abzielt, auf Euch nehmt."/>
+<label key="key:620774941:228830419" value="Taktik ist es, ständig den Fokus zu bewahren, wodurch die Kraft-Regeneration während des Kampfes steigt. Für niemanden kann je mehr als eine Taktik zu einem beliebigen Zeitpunkt aktiv sein."/>
+<label key="key:620774943:228830419" value="Eure Anwesenheit bringt Euch den Respekt derjenigen ein, die sich um Euch versammelt haben."/>
+<label key="key:620774949:228830419" value="Dieser Nahkampfangriff, erhöht kurzzeitig die Heileffekte für Euch selbst."/>
+<label key="key:620774951:228830419" value="Dieser stärkere Nahkampfangriff, erhöht kurzzeitig die Heileffekte für Euch selbst und gibt Euren Gefährten Moral."/>
+<label key="key:620774961:228830419" value="Ermutigende Worte heben Eure Moral oder die eines Gefährten."/>
+<label key="key:620774964:228830419" value="Stufe-1-Ballade: Eine schnelle Ballade, die Euch Vitalität verleiht und Euren Gegner schädigt."/>
+<label key="key:620774966:228830419" value="Stufe-1-Ballade: Dieses kurze Lied benötigt etwas Zeit, gesungen zu werden, und stärkt außerdem Eure Gefährten, statt dem Feind Schaden zuzufügen."/>
+<label key="key:620774968:228830419" value="Euer Schrei fügt den Feinden leichten Schaden zu."/>
+<label key="key:620774969:228830419" value="Euer Schrei fügt Feinden leichten Schaden zu. Die Wahrscheinlichkeit, dass die Fertigkeit ein kritisches Ereignis auslöst, ist jetzt erhöht und der Feind kann durch Anwendung der Fertigkeit gelähmt werden."/>
+<label key="key:620774970:228830419" value="Stufe-1-Ballade: Eine schnelle Ballade, die Euch einen Rüstungsbonus verleiht und Euren Gegner schädigt."/>
+<label key="key:620774972:228830419" value="Stufe-2-Ballade: Eine schnelle Ballade, die Eure Angriffsgeschwindigkeit erhöht und Euren Gegner schädigt. Voraussetzung: Ballade der Stufe 1."/>
+<label key="key:620774974:228830419" value="Stufe-3-Ballade: Eine schnelle Ballade, die Euren Gefährten einen Bonus auf ihre Furchtresistenz verleiht. Voraussetzung: Ballade der Stufe 2."/>
+<label key="key:620774976:228830419" value="Ermutigende Worte heben die Moral Eurer Gefährten und stärken ihren Mut."/>
+<label key="key:620774980:228830419" value="Wer die Valar anruft, löst unter gewissen Dienern des Bösen für kurze Zeit eine panische Flucht aus."/>
+<label key="key:620774981:228830419" value="Stufe-2-Ballade: Eine schnelle Ballade, die einen Bonus auf Ausweichen gibt und Schaden bei Feinden verursacht. Voraussetzung: Ballade der Stufe 1."/>
+<label key="key:620774982:228830419" value="Stufe-2-Ballade: Diese kurze Ballade benötigt etwas Zeit, gesungen zu werden, und stärkt außerdem Eure Gefährten, statt dem Feind Schaden zuzufügen. Voraussetzung: Ballade der Stufe 1."/>
+<label key="key:620774985:228830419" value="Eure nächsten drei Schläge des Herolds fügen dem Ziel zusätzlichen Schaden zu und übertragen einen Teil davon als Moral auf Eure Gruppe. Wenn Ihr diese Fertigkeit einsetzt, wird der Reset-Timer für Eure Fertigkeit 'Schlag des Herolds' zurückgesetzt."/>
+<label key="key:620774987:228830419" value="Ermutigende Worte heben Eure Moral oder die eines Gefährten. Dieses Manöver ist umfangreicher, aber auch langsamer als 'Auferstehung der Seele'."/>
+<label key="key:620774990:228830419" value="Ein Lied, das die Herzen Eurer Verbündeten heiter stimmt und einen Teil der durch eine Niederlage hervorgerufenen Sorge beseitigt."/>
+<label key="key:620774998:228830419" value="Dieses Lied lässt Untote in Furcht erstarren."/>
+<label key="key:620775000:228830419" value="Hymne: Während des Kampfes wird Eure Moralregeneration und die Eurer Gefährten-Gruppe beschleunigt und erzeugt eine geringere Bedrohung als direkte Heilung. Voraussetzung: Ballade der Stufe 3. Der Balladenzähler wird zurückgesetzt."/>
+<label key="key:620775001:228830419" value="Diese Aura verbessert die Willens- und Schicksalswerte Eurer Gefährten."/>
+<label key="key:620775005:228830419" value="Hymne: Das Ausmaß der Bedrohung, die Ihr durch Heilung hervorruft, wird verringert. Voraussetzung: Ballade der Stufe 3. Der Balladenzähler wird zurückgesetzt."/>
+<label key="key:620775007:228830419" value="Eure inspirierende Gesinnung kann Furcht neutralisieren, die Euch und andere befallen hat."/>
+<label key="key:620775008:228830419" value="Ein verzweifelter Schrei, der augenblicklich die Moral Eurer Gefährten hebt, aber viel Aufmerksamkeit auf Euch zieht."/>
+<label key="key:620775010:228830419" value="Stufe-3-Ballade: Eine schnelle Ballade, die Euren Gefährten einen Bonus auf ihre Feuerresistenz verleiht. Voraussetzung: Ballade der Stufe 2."/>
+<label key="key:620775012:228830419" value="Ein Lied, das Euren Gegner so einlullen kann, dass er andere Spieler erst dann entdeckt, wenn sie schon sehr nahe sind. Wirkt nicht gegen Monster, die bereits kämpfen."/>
+<label key="key:620775015:228830419" value="Stufe-2-Ballade: Eine schnelle Ballade, die Euren gesamten Resistenzen einen Bonus verleiht und Euren Gegner schädigt. Voraussetzung: Ballade der Stufe 1."/>
+<label key="key:620775017:228830419" value="Ihr habt die Begabung, Euch tot zu stellen, wodurch Eure Feinde Euch völlig ignorieren."/>
+<label key="key:620775020:228830419" value="Dieses Lied ermöglicht, dass Schaden sich auf Eure Kraft statt auf Eure Moral auswirkt, wenn dies entsprechend ausgewählt wird. Der Name weist auf die Sage hin, nach der alle, die dieses Lied gehört haben, sogar einen Schlag von Helm Hammerhand selbst überleben. Werdet Ihr betäubt oder zu Boden geschlagen, wird das Lied unetrbrochen."/>
+<label key="key:620775024:228830419" value="Glühend heiße Asche umwirbelt das Ziel, verursacht Schaden über einen gewissen Zeitraum hinweg und verlangsamt die Bewegung."/>
+<label key="key:620775027:228830419" value="Ihr versteht die Sprache der Raben und seid so in der Lage, einen Raben herbeizurufen, der Euch bei Euren Abenteuern zur Seite steht."/>
+<label key="key:620775032:228830419" value=".."/>
+<label key="key:620775033:228830419" value="Diese Fertigkeit bewirkt, dass das Ziel verletzlicher gegenüber Feuer wird."/>
+<label key="key:620775036:228830419" value="Diese kanalisierte Fertigkeit hebt Schaden von Bogenschützen auf."/>
+<label key="key:620775038:228830419" value="Diese Selbststärkung schützt den Raben vor Schatten und Nahkampfangriffen."/>
+<label key="key:620775040:228830419" value="Ihr könnt einen Teil Eurer Kraft für Euch und Euren Gefährten in Moral umwandeln. Diese Fertigkeit kann nur angewendet werden, wenn Ihr einen Gefährten gerufen habt."/>
+<label key="key:620775043:228830419" value="Luft strömt um das Ziel herum und wirbelt Trümmer und andere Objekte auf, die in der Nähe befindlichen Gegnern Schaden zufügen und ablenken."/>
+<label key="key:620775046:228830419" value="Dank Eurer Kenntnis der Bärensprache könnt Ihr einen Bären herbeirufen, der Euch bei Euren Abenteuern zur Seite steht."/>
+<label key="key:620775048:228830419" value="Dank Eurer Kenntnis der Bärensprache könnt Ihr einen Bären herbeirufen, der Euch bei Euren Abenteuern zur Seite steht."/>
+<label key="key:620775051:228830419" value=".."/>
+<label key="key:620775052:228830419" value="Diese Fertigkeit zwingt das Ziel, den Bären anzugreifen."/>
+<label key="key:620775053:228830419" value=".."/>
+<label key="key:620775054:228830419" value=".."/>
+<label key="key:620775055:228830419" value="Diese Fertigkeit erzeugt eine Rüstungsschwächung."/>
+<label key="key:620775057:228830419" value="Diese Fertigkeit betäubt die Gegenseite."/>
+<label key="key:620775058:228830419" value="Diese Fertigkeit ist ein brutaler Angriff."/>
+<label key="key:620775059:228830419" value="Ihr testet den Willen des Feindes. Seid Ihr erfolgreich, wird das Ziel betäubt und nimmt Schaden. Diese Fertigkeit verfügt über eine großen Bonus auf kritische Wahrscheinlichkeit sowie bessere Wirkung."/>
+<label key="key:620775061:228830419" value="Wenn Euer Gefährte Euren Gegner flankiert, soll das Zeichen der Zauberei Euch Moral verleihen und Eurem Feind Schaden zufügen. Unter normalen Umständen handelt es sich um lichtbasierten Schaden über Zeit."/>
+<label key="key:620775065:228830419" value="Dieses Zeichen zwingt Euren Feind innezuhalten, so dass seine Angriffe langsamer werden und er seltener parieren kann."/>
+<label key="key:620775067:228830419" value="Dieses Zeichen heilt Stille, Niederschlags- und Bewusstlosigkeitseffekte und verleiht dann über einen gewissen Zeitraum hinweg Immunität gegen diese Wirkungen. Wird es präventiv eingesetzt, verleiht es ebenfalls über einen gewissen Zeitraum hinweg Immunität gegen diese Effekte."/>
+<label key="key:620775070:228830419" value="Dieses Zeichen heilt Stille, Niederschlags- und Bewusstlosigkeitseffekte und verleiht dann über einen gewissen Zeitraum hinweg Immunität gegen diese Wirkungen. Wird es präventiv eingesetzt, verleiht es ebenfalls über einen gewissen Zeitraum hinweg Immunität gegen diese Effekte."/>
+<label key="key:620775072:228830419" value="Diese Zeichen verleiht Euch eine erhöhte Wachsamkeit gegenüber jenen, die sich Eures Blickes entziehen möchten."/>
+<label key="key:620775074:228830419" value="Diese Zeichen verleiht Euch eine erhöhte Wachsamkeit gegenüber jenen, die sich Eures Blickes entziehen möchten."/>
+<label key="key:620775076:228830419" value="Euer Wissen über die Natur verleiht Euch Macht über Eure Umwelt. Ihr könnt die Temperatur langsam ansteigen lasst, sodass es für die meisten Kreaturen schwierig wird, Euch Schaden zuzufügen."/>
+<label key="key:620775078:228830419" value="Euer Wissen über die Natur verleiht Euch Einfluss über die Luft, wodurch Ihr viele Eurer Feinde auf einmal verlangsamen könnt. Kundigen-Fertigkeiten können nicht kombiniert werden."/>
+<label key="key:620775080:228830419" value="Euer Wissen über die Natur verleiht Euch Einfluss über die Erde und Pflanzen, wodurch Ihr eine Gruppe von Gegnern an ihrem Platz festnageln könnt."/>
+<label key="key:620775082:228830419" value="Indem Ihr an die Weisheit der Valar appelliert, werden einige Eurer Fertigkeiten wiederhergestellt."/>
+<label key="key:620775084:228830419" value="Eure Weisheit kann selbst die dunkelsten Orte erhellen und jene schädigen und betäuben, die Euch feindlich gegenüberstehen."/>
+<label key="key:620775094:228830419" value="Weit ausholende fegende Schläge treffen alle Feinde, die vor Euch stehen."/>
+<label key="key:620775095:228830419" value="Ihr konzentriert Eure Verteidigung auf das Blocken von Angriffen."/>
+<label key="key:620775097:228830419" value="Ihr seid in der Lage, einen raschen Gegenangriff durchzuführen, nachdem Ihr den Angriff eines Gegners pariert habt."/>
+<label key="key:620775100:228830419" value="Nach einem erfolgreichen Schildstreich könnt Ihr Euren Gegner noch einmal mit Eurem Schild schlagen und ihn kurzzeitig betäuben. Mit dieser Fertigkeit zieht Ihr die Aufmerksamkeit des Gegners auf Euch."/>
+<label key="key:620775102:228830419" value="Ihr seid in der Lage, einen Gegner, der bereits Eure Vergeltung zu spüren bekam, besonders heftig anzugreifen. Dieser Angriff betäubt ein Ziel im Falle eines kritischen Treffers."/>
+<label key="key:620775104:228830419" value="Ihr konzentriert Eure Verteidigung auf das Parieren von Angriffen."/>
+<label key="key:620775106:228830419" value="Nachdem Ihr Euch erfolgreich gerächt habt, könnt Ihr einen wirbelnden Angriff gegen alle Feinde in Eurem Umkreis durchführen."/>
+<label key="key:620775107:228830419" value="Lasst Eurer Vergeltung einen harten Stoß folgen, der eine blutende Wunde verursacht."/>
+<label key="key:620775109:228830419" value="Verhöhnt Eure Feinde, nachdem Ihr sie mit einem Schildstreich getroffen habt. Mit dieser Fertigkeit zieht Ihr die Aufmerksamkeit des Gegners auf Euch."/>
+<label key="key:620775110:228830419" value="Euer Angriff ermöglicht Euch, die Konzentration Eures Gegners zu stören und seine Aktionen zu unterbrechen."/>
+<label key="key:620775111:228830419" value="Wenn Ihr benommen, gelähmt, zu Boden gegangen oder bewusstlos seid, könnt Ihr den Spieß umdrehen, indem Ihr Euch von den Wirkungen erholt und sie stattdessen auf Euren Gegner übertragt."/>
+<label key="key:620775112:228830419" value="Ihr könnt eine Pfeife aus einer Eichel herstellen, mit der Eure Gefährten Euch rufen können, wenn sie Euch brauchen."/>
+<label key="key:620775115:228830419" value="Ihr könnt einen Gegner niederschlagen. Wenn Ihr einer Gruppe von Gefährten angehört, eröffnet sich Euch damit die Möglichkeit, Gefährten-Fertigkeiten einzusetzen. Diese Fertigkeiten können nur während des Schleichens eingesetzt werden."/>
+<label key="key:620775116:228830419" value="Ihr könnt einen Gegner zu Boden schlagen. Wenn Ihr einer Gruppe von Gefährten angehört, erhaltet Ihr dadurch die Möglichkeit, Gefährten-Fertigkeiten einzusetzen. Der Einsatz ist nur während des Schleichens möglich, beendet das Schleichen jedoch nicht."/>
+<label key="key:620775117:228830419" value="Ihr seid geübt darin, Euren Feind im Kampf zu überraschen. Wenn Ihr ihn von hinten angreift oder Euch anschleicht, könnt Ihr sogar noch mehr Schaden zufügen. Kritische Treffer mit dem Überraschungsschlag sind vernichtender als die meisten anderen Fertigkeiten."/>
+<label key="key:620775118:228830419" value="Ihr seid geübt darin, Euren Feind im Kampf zu überraschen. Wenn Ihr ihn von hinten angreift oder Euch anschleicht, könnt Ihr sogar noch mehr Schaden zufügen. Kritische Treffer mit dem Überraschungsschlag sind vernichtender als die meisten anderen Fertigkeiten."/>
+<label key="key:620775119:228830419" value="Eure eindrucksvolle Gerissenheit ermöglicht einen blitzschnellen Angriff, der auch nach dem Schlag noch weiteren Schaden anrichtet. Noch mehr Schaden könnt ihr zufügen, wenn ihr Euch dabei anschleicht."/>
+<label key="key:620775121:228830419" value="Eure eindrucksvolle Gerissenheit ermöglicht einen blitzschnellen Angriff, der auch nach dem Schlag noch weiteren Schaden anrichtet. Noch mehr Schaden könnt ihr zufügen, wenn ihr Euch dabei anschleicht."/>
+<label key="key:620775123:228830419" value="Ihr könnt Euren Feind dazu bringen, seine gesamte Angriffslust auf seinen gegenwärtigen Gegner zu richten. Das könnt Ihr selbst oder ein Verbündeter sein."/>
+<label key="key:620775124:228830419" value="Ihr könnt Euren Feind dazu bringen, seine gesamte Angriffslust auf seinen gegenwärtigen Gegner zu richten. Das könnt Ihr selbst oder auch ein Verbündeter sein."/>
+<label key="key:620775125:228830419" value="Ihr seid in der Lage, nach einem kritischen Treffer sogleich einen weiteren Angriff zu führen, wobei Ihr dem Gegner mehr Schaden zufügt, wenn Ihr von hinten angreift."/>
+<label key="key:620775128:228830419" value="Nach dem Einsatz der Fähigkeit Schurkenvorteil könnt Ihr zwei Angriffe gegen Euer Ziel durchführen."/>
+<label key="key:620775130:228830419" value="Ihr könnt Euer Ziel betäuben. Wenn Ihr einer Gruppe von Gefährten angehört, eröffnet sich Euch damit die Möglichkeit, Gefährten-Fertigkeiten einzusetzen."/>
+<label key="key:620775132:228830419" value="Ihr verwirrt Euren Gegner so nachhaltig, dass ihm alle gegenwärtigen Versuche, Fertigkeiten einzusetzen, misslingen, und er für alle folgenden Versuche kurzzeitig viel mehr Zeit benötigt."/>
+<label key="key:620775134:228830419" value="Sollte ein aktiver Trick auf Euren Gegner wirken, könnt Ihr diesen Trick neutralisieren und Euren Gegner 8 Sek. lang betäuben."/>
+<label key="key:620775137:228830419" value="Sollte ein aktiver Trick auf Euren Gegner wirken, könnt Ihr diesen Trick neutralisieren und damit einen Teil Eurer Moral wiederherstellen. Trifft Gegner der gleichen Stufe immer. Gegner können den Angriff nicht parieren, blocken oder ihm ausweichen."/>
+<label key="key:620775140:228830419" value="Während Ihr diese Fähigkeit einsetzt, könnt Ihr Schwachpunkte in der Verteidigung Eures Feindes erkennen und so den Schaden zu erhöhen, den Eure Angriffe verursachen. Das Einsetzen dieser Fertigkeit beendet das Schleichen nicht."/>
+<label key="key:620775141:228830419" value="Während Ihr diese Fähigkeit einsetzt, könnt Ihr Schwachpunkte in der Verteidigung Eures Feindes erkennen und so den Schaden erhöhen, den Eure Angriffe verursachen. Das Einsetzen dieser Fertigkeit beendet das Schleichen nicht."/>
+<label key="key:620775144:228830419" value="Ihr seid wieder aktionsbereit. Die Erholungszeit für viele Eurer Fertigkeiten wurde zurückgesetzt. Das Einsetzen dieser Fertigkeit beendet das Schleichen nicht."/>
+<label key="key:620775146:228830419" value="Ihr könnt für kurze Zeit Eure Fähigkeit verbessern, den Angriffen Eures Gegners auszuweichen. Das Einsetzen dieser Fertigkeit beendet das Schleichen nicht."/>
+<label key="key:620775148:228830419" value="Wenn Ihr benommen, betäubt, zu Boden geschlagen oder bewusstlos seid, könnt Ihr Euch schnell erholen. Eure Moral wird dadurch gesteigert und Euer Ausweichen kurzzeitig verbessert. Das Einsetzen dieser Fertigkeit beendet das Schleichen nicht."/>
+<label key="key:620775150:228830419" value="Aktiviert das Aufspüren von Schätzen und anderen Behältnissen, in denen sich wertvolle Dinge befinden."/>
+<label key="key:620775152:228830419" value="Während Ihr herumschleicht, könnt Ihr versuchen, die Taschen argloser Ziele zu erleichtern."/>
+<label key="key:620775154:228830419" value="Durch Eure Gerissenheit seid Ihr in der Lage, Gifte zu neutralisieren, die einem Verbündeten schaden."/>
+<label key="key:620775158:228830419" value="Ihr könnt einen Pfeil schnell abschussbereit machen."/>
+<label key="key:620775159:228830419" value="Ihr könnt einen Pfeil schnell abschussbereit machen. Dank Eures Wissens über Elben- und Zwergen-Tugenden fügen Eure Pfeile leichten Schaden zu."/>
+<label key="key:620775160:228830419" value="Ihr könnt einen Pfeil schnell abschussbereit machen. Ihr setzt außerdem Eure ölgetränkten Pfeile in Brand, um Feuerschaden zufügen zu können."/>
+<label key="key:620775161:228830419" value="Euer Pfeil kann eine blutende Wunde zufügen, die geringfügig die Bewegungsgeschwindigkeit reduziert."/>
+<label key="key:620775163:228830419" value="Dank Eures Wissens über Elben- und Zwergen-Tugenden fügt Euer Pfeil Schaden über einen gewissen Zeitraum hinweg zu und verringert geringfügig die Bewegungsgeschwindigkeit."/>
+<label key="key:620775165:228830419" value="Euer ölgetränkter Pfeil setzt Euren Feind in Brand, so dass dessen Bewegungsgeschwindigkeit geringfügig reduziert wird."/>
+<label key="key:620775169:228830419" value="Ihr könnt zwei Geschosse in schneller Folge abfeuern."/>
+<label key="key:620775170:228830419" value="Ihr könnt zwei Geschosse in schneller Folge abfeuern. Dank Eures Wissens über Elben- und Zwergen-Tugenden fügen Eure Pfeile leichten Schaden zu."/>
+<label key="key:620775171:228830419" value="Ihr könnt zwei Geschosse in schneller Folge abfeuern. Ihr setzt Eure öldurchtränkten Pfeile in Flammen und fügt so Feuerschaden zu."/>
+<label key="key:620775173:228830419" value="Dieser extrem gefährliche Schuss durchdringt die Rüstung Eures Gegners und ignoriert dabei 10 % Schadensminderung."/>
+<label key="key:620775174:228830419" value="Dieser extrem gefährliche Schuss durchdringt die Rüstung Eures Gegners und ignoriert dabei 10 % Schadensminderung. Dank Eures Wissens über Elben- und Zwergen-Tugenden fügen Eure Pfeile leichten Schaden zu."/>
+<label key="key:620775175:228830419" value="Dieser extrem gefährliche Schuss durchdringt die Rüstung Eures Gegners und ignoriert dabei 10 % Schadensminderung. Ihr setzt Eure ölgetränkten Pfeile in Brand, mit denen Ihr Feuerschaden zufügen könnt."/>
+<label key="key:620775176:228830419" value="Ihr lasst Pfeile auf die Feinde niederregnen und trefft so mehr als ein Ziel."/>
+<label key="key:620775177:228830419" value="Ihr lasst Pfeile auf die Feinde niederregnen und trefft so mehr als ein Ziel. Dank Eures Wissens über Elben- und Zwergen-Tugenden fügen Eure Pfeile leichten Schaden zu."/>
+<label key="key:620775178:228830419" value="Ihr lasst Pfeile auf die Feinde niederregnen und trefft so mehr als ein Ziel. Ihr setzt Eure öldurchtränkten Pfeile in Flammen und fügt so Feuerschaden zu."/>
+<label key="key:620775179:228830419" value="Wenn Euer Feind unter 25% seiner Lebensenergie fällt, könnt Ihr einen Schuss ausführen, der verheerenden Schaden anrichtet. Bei einem kritischen Treffer, verleiht dieser Angriff außergewöhnlich hohen Bonusschaden."/>
+<label key="key:620775180:228830419" value="Ein schneller, heftiger Nahkampfangriff."/>
+<label key="key:620775181:228830419" value="Ein schneller, gefährlicher Nahkampfangriff."/>
+<label key="key:620775182:228830419" value="Ihr könnt einen Niedrigen Schnitt vor Euch ausführen, der die Bewegungsgeschwindigkeit von bis zu zwei Eurer Feinde kurzzeitig verringert."/>
+<label key="key:620775184:228830419" value="Ihr könnt einen Niedrigen Schnitt vor Euch ausführen, der die Bewegungsgeschwindigkeit von bis zu drei Eurer Feinde kurzzeitig verringert."/>
+<label key="key:620775185:228830419" value="Dieser Angriff verwundet den Feind und verursacht zusätzlichen Schaden, falls der Feind von Eurem 'Stachelpfeil' getroffen wurde. Das Anwenden dieser Fertigkeit wird die Blutung jedoch stoppen."/>
+<label key="key:620775188:228830419" value="Dieser Angriff verwundet den Feind und verursacht zusätzlichen Schaden, falls der Feind von Eurem 'Stachelpfeil' getroffen wurde. Das Anwenden dieser Fertigkeit wird die Blutung jedoch stoppen."/>
+<label key="key:620775189:228830419" value="Ihr seid in der Lage, die Aufmerksamkeit Eures Feindes mit einem einfachen Nahkampfangriff abzulenken und ihm einen einzelnen Bogenangriff auf kurze Distanz folgen zu lassen."/>
+<label key="key:620775190:228830419" value="Wenn Ihr einen feindlichen Angriff pariert, könnt Ihr mit einem extrem effizienten Nahkampfangriff antworten."/>
+<label key="key:620775191:228830419" value="Wenn Ihr einen feindlichen Angriff pariert, könnt Ihr mit einem extrem effizienten Nahkampfangriff antworten."/>
+<label key="key:620775192:228830419" value="Eure Fertigkeiten als Fährtensucher steigern die Geschwindigkeit, mit der Ihr und Eure Gefährten das Gebiet bereist. Sobald Ihr in einen Kampf eintretet, wird diese Fähigkeit außer Kraft gesetzt."/>
+<label key="key:620775195:228830419" value="Eure Überlebenskunde ermöglicht Euch, in der Natur vorkommende Heilmittel zu nutzen und an Vergiftung leidende Verbündete zu heilen."/>
+<label key="key:620775197:228830419" value="Dank Eurer Überlebenskünste wird das Leben in der Wildnis angenehmer für Eure Gefährten. Sie erholen sich schneller und die Ausführung einiger Handwerksfertigkeiten wird ermöglicht. Das Lagerfeuer brennt drei Minuten lang."/>
+<label key="key:620775202:228830419" value="Euer Wissen um das Land und seine geheimen Pfade ermöglicht Euch, der Gefahr zu entkommen und an einen nahegelegenen Sammelpunkt zu flüchten. Ihr benötigt dazu Rationen, die Ihr bei einem Händler erwerben könnt."/>
+<label key="key:620775205:228830419" value="Dank Eurer Fertigkeiten als Fährtensucher, findet Ihr für Euch und Eure Gefährten einen Weg zu Thorins Halle. Diese Fertigkeit kann leicht unterbrochen werden."/>
+<label key="key:620775208:228830419" value="Durch Eure Fähigkeiten als Fährtensucher könnt Ihr für Euch und Eure Gefährten einen Weg nach Bree finden. Bei der Ausübung dieser Fähigkeit könnt Ihr leicht unterbrochen werden. Ihr benötigt allerdings Rationen, die Ihr von Händlern erhalten könnt."/>
+<label key="key:620775210:228830419" value="Dank Eurer Fertigkeiten als Fährtensucher, findet Ihr für Euch und Eure Gefährten einen Weg nach Esteldín. Diese Fertigkeit kann leicht unterbrochen werden."/>
+<label key="key:620775212:228830419" value="Dank Eurer Fertigkeiten als Fährtensucher, findet Ihr für Euch und Eure Gefährten einen Weg nach Bruchtal. Diese Fertigkeit kann leicht unterbrochen werden."/>
+<label key="key:620775214:228830419" value="Eure Fertigkeiten als Fährtensucher ermöglichen es Euch, wilde Tiere und andere natürliche Kreaturen in Eurer Nähe zu spüren."/>
+<label key="key:620775217:228830419" value="Eure Fertigkeiten als Fährtensucher ermöglichen es Euch, in Eurer Nähe befindliche Orks, Trolle und Riesen sowie bösartige Menschen oder Zwerge zu spüren."/>
+<label key="key:620775219:228830419" value="Eure Fertigkeiten als Fährtensucher ermöglichen es Euch, die Toten, Unsichtbaren und uralte Bosheit in Eurer Nähe zu spüren."/>
+<label key="key:620775221:228830419" value="Ihr seid in der Lage, Euch Eurer Umgebung so anzupassen, dass Eure Feinde Euch nur mit Schwierigkeiten entdecken könne, solange Ihr Euch nicht bewegt."/>
+<label key="key:620775223:228830419" value="Ihr ahmt den Ruf eines Raubtieres nach und jagt so feindliche wilde Tiere in die Flucht."/>
+<label key="key:620775224:228830419" value="Vor dem Kampf könnt Ihr Euren Fokus schnell vergrößern. Fokus wird für einige Bogen-Fertigkeiten benötigt und zerstreut sich, wenn Ihr Euch bewegt."/>
+<label key="key:620775226:228830419" value="Ihr nehmt eine Haltung ein, die die Wahrscheinlichkeit verringert, dass Eure Feinde Euren Schüssen ausweichen können. Die Präzisionshaltung erhöht die Wahrscheinlichkeit, dass Ihr mit einem 'Schnellen Schuss' einen kritischen Treffer erzielt."/>
+<label key="key:620775228:228830419" value="Ihr nehmt eine Haltung ein, die den durch Eure Schüsse verursachten Schaden erhöht, allerdings erhöhen sich dabei die Kraftkosten und Ihr zieht die Aufmerksamkeit des Gegners auf Euch. In der Stärkehaltung verlangsamt ein 'Schneller Schuss' die Bewegungsgeschwindigkeit des Feindes."/>
+<label key="key:620775232:228830419" value="Ihr nehmt eine Haltung ein, die die Kraftkosten und die Wahrscheinlichkeit verringert, dass sich der Feind Euch zuwendet. Eure Ausdauerhaltung verhindert, dass Euer 'Schneller Schuss' so viel Aufmerksamkeit auf Euch zieht, wie es sonst der Fall ist."/>
+<label key="key:620775233:228830419" value="Ihr nehmt eine Haltung ein, die die Kraftkosten und die Wahrscheinlichkeit verringert, dass sich der Feind Euch zuwendet. Eure Ausdauerhaltung verhindert, dass Euer 'Schneller Schuss' so viel Aufmerksamkeit auf Euch zieht, wie es sonst der Fall ist."/>
+<label key="key:620775240:228830419" value="Ermöglicht Euch, einen Stein zu werfen."/>
+<label key="key:620775249:228830419" value="Eure Fähigkeiten als Hobbit erlauben es Euch, Euren Weg zurück ins Auenland zu finden. Bei der Ausübung dieser Fähigkeit könnt Ihr leicht unterbrochen werden."/>
+<label key="key:620775253:228830419" value="Ihr könnt den Hoffnungswert Eurer Gefährten mit gutem alten Hobbit-Jubel erhöhen. Diese Fertigkeit lässt sich nicht mit anderen Hoffnungsstärkungen kombinieren."/>
+<label key="key:620775258:228830419" value="Obwohl Ihr in dieser Kunst nicht ausgebildet seid, seid Ihr in der Lage, Euch ungesehen zu bewegen. Allerdings bleibt ein gewisses Risiko, von Feinden entdeckt zu werden, bestehen. Insbesondere wenn Ihr euch direkt vor ihnen befindet."/>
+<label key="key:620775262:228830419" value="Ihr könnt vollkommen still am Boden liegen, was Feinde dazu bringt, Euch zu ignorieren."/>
+<label key="key:620775272:228830419" value="Ihr führt einen festen Schlag gegen Euren Gegner aus."/>
+<label key="key:620775281:228830419" value="Ihr könnt schnell nach Bree zurückkehren. Bei der Ausübung dieser Fähigkeit könnt Ihr leicht unterbrochen werden."/>
+<label key="key:620775285:228830419" value="Ihr verschafft Euren Gefährten einen Moralbonus."/>
+<label key="key:620775292:228830419" value="Die Rasse der Menschen ist für ihren unstillbaren Kampfgeist bekannt. Diese Fertigkeit stellt verlorene Moral wieder her."/>
+<label key="key:620775301:228830419" value="Obwohl Ihr in dieser Kunst nicht ausgebildet seid, seid Ihr in der Lage, Euch ungesehen zu bewegen. Allerdings bleibt ein gewisses Risiko, von Feinden entdeckt zu werden, bestehen. Insbesondere wenn Ihr Euch direkt vor ihnen befindet."/>
+<label key="key:620775310:228830419" value="Hiermit gelangt Ihr schnell zurück nach Bruchtal. Bei der Ausübung dieser Fertigkeit könnt Ihr leicht unterbrochen werden."/>
+<label key="key:620775314:228830419" value="Mit der Geschwindigkeit und der Anmut der Eldar seid Ihr in der Lage, eine wirkungsvolle Parade auszuführen."/>
+<label key="key:620775320:228830419" value="Ihr verschafft Euren Gefährten einen Kraftbonus."/>
+<label key="key:620775328:228830419" value="Ermöglicht Euch, einen Gegner heftig mit dem Kopf zu stoßen und zu verwunden."/>
+<label key="key:620775337:228830419" value="Hiermit gelangt Ihr schnell zurück zu Thorins Tor. Bei der Ausübung dieser Fertigkeit könnt Ihr leicht unterbrochen werden."/>
+<label key="key:620775341:228830419" value="Eine kurze Zeitlang widersteht Ihr Schlägen, die die Moral einer schwächeren Rasse vernichten würden."/>
+<label key="key:620775345:228830419" value="Ihr verschafft Euren Gefährten einen Vitalitätsbonus."/>
+<label key="key:620775380:228830419" value="Zwei schnelle Angriffe auf Euer Ziel."/>
+<label key="key:620775381:228830419" value="Ein fegender Schnitt, der mehreren Zielen vor Euch Schaden zufügen kann."/>
+<label key="key:620775382:228830419" value="Ein vernichtender Angriff, der den Rüstungsschutz Eures Ziels verringert."/>
+<label key="key:620775383:228830419" value="Wenn Euer Ziel nur noch über die Hälfte seiner Moral verfügt, könnt Ihr einen besonders gefährlichen Angriff mit erhöhter Wahrscheinlichkeit eines kritischen Treffers ausführen. Diese Fertigkeit verbraucht alle verbleibende Kraft."/>
+<label key="key:620775384:228830419" value="Ihr werft Staub in die Luft und blendet damit Feinde in Eurer Nähe."/>
+<label key="key:620775386:228830419" value="Der Anblick Eurer Gegner, die der Reihe nach vor Euren Katapulten fallen, versetzt Euch in eine stärkende Rage, die Euch Heilungsschübe verleiht und den Schaden erhöht, den Ihr zufügt und entgegen nehmt."/>
+<label key="key:620775389:228830419" value="Automatischer Angriff, wenn Ihr zwei einhändige Waffen führt."/>
+<label key="key:620775396:228830419" value="Ihr spannt Euren Bogen und schießt einen Pfeil ab."/>
+<label key="key:620775397:228830419" value="Ihr verliert mehrere Pfeile, die aufgrund ihrer Bauart beim Fliegen heulen und Schaden durch Schatten zufügen."/>
+<label key="key:620775398:228830419" value="Ein gespitzter Pfeil, der Rüstungen durchbohren kann."/>
+<label key="key:620775399:228830419" value="Der Schaft dieses Pfeils kann die Bewegungen Eures Opfers verlangsamen."/>
+<label key="key:620775401:228830419" value="Ein fegender Schnitt, der mehreren Zielen vor Euch Schaden zufügen kann."/>
+<label key="key:620775402:228830419" value="Eine kurze Zeitlang könnt Ihr den Angriffen Eures Feindes besser ausweichen."/>
+<label key="key:620775404:228830419" value="Automatischer Angriff, wenn Ihr nur eine einzige einhändige Waffe führt."/>
+<label key="key:620775406:228830419" value="Ein wilder und markerschütternder Kampfschrei schwächt die Sicherheit und Moral Eures Feindes."/>
+<label key="key:620775407:228830419" value="Ihr schwingt Eure Waffen in Richtung Eures Feindes."/>
+<label key="key:620775408:228830419" value="Euer beißender Spott verschafft Eurem beschämten Ziel mehr Lebensenergie."/>
+<label key="key:620775409:228830419" value="Ihr bellt einen barschen Befehl, der es bis zu fünf nahen und besiegten Verbündeten erlaubt, sich, wenn auch mit nur geringer Lebensenergie, zu erheben."/>
+<label key="key:620775411:228830419" value="Ihr wählt einen Verbündeten aus, um sie im Kampfgetümmel zu unterstützen und zu schützen."/>
+<label key="key:620775413:228830419" value="Nach Beginn des Kampfes sorgt Eure gebieterische Aura dafür, dass Eure Verbündeten härter kämpfen."/>
+<label key="key:620775415:228830419" value="Automatischer Angriff, wenn Ihr eine einhändige Waffe und einen Schild führt."/>
+<label key="key:620775417:228830419" value="Ein Angriff, bei dem Eure scharfen Krallen dem Ziel Schaden und blutige Wunden zufügen."/>
+<label key="key:620775418:228830419" value="Ein Angriff aus der Ferne, der dem Ziel durch ein Kontaktgift Schaden über Zeit zufügt."/>
+<label key="key:620775419:228830419" value="Injiziert ein Gift, der das Ziel schwächt und es betäuben kann, wenn es nicht geheilt wird."/>
+<label key="key:620775420:228830419" value="Ein Fernkampfangriff, der die Beine des Opfers mit klebrigen Spinnweben fesselt und es so an Ort und Stelle festhält."/>
+<label key="key:620775422:228830419" value="Ihr könnt die Waffen Eures Ziels mit klebrigen Spinnweben überziehen und so seinen Angriff verlangsamen."/>
+<label key="key:620775424:228830419" value="Ihr könnt ein lähmendes Gift ausspucken, das Feinde direkt vor Euch und bis zu einer kurzen Distanz trifft. Die Fertigkeit kann nur bei Spielern angewendet werden."/>
+<label key="key:620775425:228830419" value="Ihr könnt Euch in den Boden eingraben, wodurch Ihr für eine begrenzte Zeit unverwundbar und verborgen seid."/>
+<label key="key:620775427:228830419" value="Ihr greift mit Euren scharfen und durchbohrenden Klauen an."/>
+<label key="key:620775428:228830419" value="Aufgrund des Überraschungsmoments fügt Euer Klauenangriff noch mehr Schaden zu."/>
+<label key="key:620775429:228830419" value="Ihr springt Eurem Feind entgegen, um ihn abzulenken und Handlungen zu stören, die er gerade ausführen wollte. Wenn das Ziel zuvor an Eurem lähmenden Biss litt, wird es jetzt zu Boden geschlagen."/>
+<label key="key:620775432:228830419" value="Ihr springt Eurem Ziel entgegen und schlagt es zu Boden, wobei Ihr erst in letzter Sekunde zu sehen seid."/>
+<label key="key:620775433:228830419" value="Ihr schneidet ins Fleisch Eures Ziels und reißt an seinen Muskeln, wodurch Ihr seine Angriffe verlangsamt. Wenn das Ziel zuvor an Eurem lähmenden Biss litt, wird es jetzt anfangen, über Zeit Schaden zu nehmen."/>
+<label key="key:620775435:228830419" value="Ein schnelles Zuschnappen Eures Kiefers sorgt dafür, dass die Bewegungen Eures Ziels verlangsamt werden."/>
+<label key="key:620775436:228830419" value="Während Ihr Eure Zähne ins Fleisch Eures Ziels schlagt und daran reißt, verstummt Euer Opfer."/>
+<label key="key:620775437:228830419" value="Ein plötzlicher Geschwindigkeitsschub, um Eure Beute zu fangen oder zu verhindern, dass Ihr selbst die Beute werdet."/>
+<label key="key:620775712:228830419" value="Automatischer Angriff, wenn Ihr in der Haupthand keine Waffe führt."/>
+<label key="key:620775713:228830419" value="Automatischer Angriff, wenn Ihr nur eine einzige einhändige Waffe führt."/>
+<label key="key:620775802:228830419" value="Send your friends away!"/>
+<label key="key:620777560:228830419" value="Ein kurzes ermutigendes Lied gewährt Eurer gesamten Gefährten-Gruppe Immunität gegen Furcht und neutralisiert Furcht-Effekte. Außerdem wirkt es über eine gewisse Zeitspanne ausgesprochen heilend."/>
+<label key="key:620782692:228830419" value="Euer Banner stärkt die Moral der Gefährten, die sich in Eurer Nähe aufhalten."/>
+<label key="key:620782698:228830419" value="Euer Banner verbessert die Kraftregeneration der Gefährten, die sich in Eurer Nähe aufhalten."/>
+<label key="key:620782701:228830419" value="Euer Banner beflügelt Eure Gefährten zu Heldentaten, die von ihrem Können und ihrer Stärke künden."/>
+<label key="key:620782856:228830419" value="Automatischer Angriff bei Verwendung eines Bogens"/>
+<label key="key:620788687:228830419" value="Machtschwangere Luft wirbelt um Euer Ziel herum und verursacht Schaden bei jedem, der sie berührt. Ihr könnt diese Fertigkeit nicht auf Euch selber anwenden."/>
+<label key="key:620788755:228830419" value=".."/>
+<label key="key:620788756:228830419" value=".."/>
+<label key="key:620788757:228830419" value=".."/>
+<label key="key:620788773:228830419" value="Ein Angriff, der seine mangelnde Eleganz durch brutale Wirksamkeit wettmacht."/>
+<label key="key:620788775:228830419" value="Ein einfacher Fernkampfwaffenangriff."/>
+<label key="key:620788782:228830419" value="Ein fegender Schnitt, der mehreren Zielen vor dem Angreifer Schaden zufügen kann."/>
+<label key="key:620788803:228830419" value="Ein einfacher, aber wirkungsvoller Klingenangriff."/>
+<label key="key:620788806:228830419" value="Zwei schnelle Angriffe auf Euer Ziel."/>
+<label key="key:620789554:228830419" value="Euer heldenhaftes Verhalten inspiriert Eure Gefährten und stellt ihre Kraft zu Lasten der Euren wieder her. Diese Fertigkeit kann nur eingesetzt werden, wenn ein Gegner besiegt wurde."/>
+<label key="key:620789555:228830419" value="Erhöht Eure Parade-Rate. Diese Fertigkeit kann nur eingesetzt werden, wenn ein Gegner besiegt wurde."/>
+<label key="key:620789558:228830419" value="Eure Kraftregeneration und die Wahrscheinlichkeit, dass Ihr als Bedrohung empfunden werdet, werden zu Lasten des verursachten Schadens verstärkt."/>
+<label key="key:620789559:228830419" value="Fügt beim Einsatz sofort einen Leidenschaftspunkt hinzu und alle 7 Sekunden einen weiteren. Diese Fertigkeit kann nur eingesetzt werden, wenn ein Gegner besiegt wurde."/>
+<label key="key:620790598:228830419" value="Bringt die Hühner zum Fliegen."/>
+<label key="key:620790614:228830419" value="Automatischer Fernangriff für Weberspinne."/>
+<label key="key:620790667:228830419" value="Automatischer Angriff bei beidhändigem waffenlosem Angriff."/>
+<label key="key:620790668:228830419" value="Automatischer Angriff bei einhändigem waffenlosem Angriff."/>
+<label key="key:620790894:228830419" value="Diese Fertigkeit überträgt Bedrohung vom Waffenmeister auf ein Mitglied der Gefährten-Gruppe."/>
+<label key="key:620790895:228830419" value="Diese Fertigkeit überträgt Bedrohung von einem Mitglied der Gefährten-Gruppe auf den Waffenmeister."/>
+<label key="key:620791512:228830419" value="Dieser Nahkampfangriff erhöht die Moral Eures Schildbruders."/>
+<label key="key:620791515:228830419" value="Ihr könnt einen Eurer Gefährten als Schildbruder kennzeichnen, so dass Ihr einige Eurer Fähigkeiten auf ihn anwenden könnt."/>
+<label key="key:620791618:228830419" value="Automatischer Angriff, wenn Ihr nur eine einzige einhändige Waffe führt"/>
+<label key="key:620791619:228830419" value="Automatischer Angriff bei Verwendung eines Bogens"/>
+<label key="key:620791657:228830419" value="Die Waldläufer des Nordens sind ein weit verstreutes Volk und sehr talentiert darin, sich dem Blick zu entziehen, wenn sie es wünschen."/>
+<label key="key:620791658:228830419" value="Waldläufer sind zwar nicht in der Lage, sich in der Geisterwelt unsichtbar zu machen, sie sind aber dafür bekannt, sich dem Blick zu entziehen. Euer heimliches Schleichen ist über einen kurzen Zeitraum hinweg extrem wirkungsvoll."/>
+<label key="key:620791659:228830419" value="Ein Waldläufer ist ein Meister der Klinge und des Bogens. Dieser Angriff schlägt den Gegner zu Boden."/>
+<label key="key:620791661:228830419" value="Selbst in dieser dunklen Zeit kann moralische Stärke von Elros' Blutlinie erfleht werden. Dadurch wird die Moral des Waldläufers wiederhergestellt."/>
+<label key="key:620791672:228830419" value="Mit dem Dúnedain-Zeichen markierte Opfer entfalten einen grauenerregenden Zorn. Diese Fertigkeit ist Voraussetzung für 'Präziser Flug'."/>
+<label key="key:620791673:228830419" value="Dieser Schuss kann nur auf diejenigen abgegeben werden, die das Dúnedain-Zeichen tragen. Ist der Feind erst einmal gekennzeichnet, erleidet er einen verheerenden Schaden, bei einem kritischen Treffer außerdem Kraftschaden. Diese Fertigkeit kann nur aus dem Schleichen verwendet werden. Kreaturen derselben Stufe werden immer getroffen."/>
+<label key="key:620791703:228830419" value="Dank Eurer Fertigkeiten als Fährtensucher findet Ihr für Euch und Eure Gefährten einen Weg nach West-Angmar. Bei der Ausübung dieser Fertigkeit könnt Ihr leicht unterbrochen werden. Erfordert Rationen, die Ihr von Händlern erhalten könnt."/>
+<label key="key:620791705:228830419" value="Dank Eurer Fertigkeiten als Fährtensucher findet Ihr für Euch und Eure Gefährten einen Weg nach Ost-Angmar. Bei der Ausübung dieser Fertigkeit könnt Ihr leicht unterbrochen werden. Erfordert Rationen, die Ihr von Händlern erhalten könnt."/>
+<label key="key:620791707:228830419" value="Ihr könnt Euch an eines der vielen Lager binden, die über die gesamte Welt verteilt sind. Dann könnt Ihr Euer Wissen über das Land dazu benutzen, mit Euren Gefährten zurück zu Eurem aktuellen Lager zu reisen. Ihr benötigt dazu Rationen, die Ihr bei einem Händler erwerben könnt."/>
+<label key="key:620791709:228830419" value="Eure Fertigkeiten als Fährtensucher ermöglichen Euch und Euren Gefährten, einen Weg zur Feste Guruth in den Einsamen Landen zu finden. Bei der Ausübung dieser Fertigkeit könnt Ihr leicht unterbrochen werden. Ihr benötigt dazu Rationen, die Ihr bei einem Händler erwerben könnt."/>
+<label key="key:620791711:228830419" value="Eure Fertigkeiten als Fährtensucher ermöglichen Euch und Euren Gefährten, einen Weg nach Michelbinge im Auenland zu finden. Bei der Ausübung dieser Fertigkeit könnt Ihr leicht unterbrochen werden. Ihr benötigt dazu Rationen, die Ihr bei einem Händler erwerben könnt."/>
+<label key="key:620791713:228830419" value="Aufgrund Eurer Fertigkeit als Fährtensucher könnt Ihr für Euch und Eure Gefährten einen Pfad nach Evendim finden. Bei der Ausübung dieser Fertigkeit könnt Ihr leicht unterbrochen werden. Ihr benötigt dazu Rationen, die Ihr bei einem Händler erwerben könnt."/>
+<label key="key:620791716:228830419" value="Dieses kunstvoll geworfene Messer nagelt ein herankommendes Ziel auf der Stelle fest."/>
+<label key="key:620791717:228830419" value="Diese Pfeile werden den Diener des Auges verbrennen."/>
+<label key="key:620791718:228830419" value="Mit großer Sorgfalt und Erfahrung setzt Ihr einen Schuss auf die größte Schwachstelle Eures Ziels an. Dieser Schuss trifft immer, und Euer Ziel kann ihn weder parieren noch blocken oder ihm ausweichen."/>
+<label key="key:620791719:228830419" value="Das Land gibt Euch Stärke. Indem Ihr Euch ganz darauf konzentriert, könnt Ihr mitten im Schlachtengetümmel Kraft schneller wiederherstellen. Bei der Ausübung dieser Fertigkeit könnt Ihr leicht unterbrochen werden."/>
+<label key="key:620791968:228830419" value="Kleine, lästige Dinge zerschmettern. Sie manchmal betäuben. Ihnen manchmal lange wehtun."/>
+<label key="key:620791969:228830419" value="Weinerliche, kleine Dinge zerquetschen, damit sie wegfliegen. Manchmal rennen sie danach langsam."/>
+<label key="key:620791970:228830419" value="Fels auf weit entfernte Dinge werfen. Dingen neben entferntem Ding weh tun. Manchmal bluten Dinge danach."/>
+<label key="key:620791971:228830419" value="Schneller automatischer Angriff mit einer einhändigen Keule"/>
+<label key="key:620791972:228830419" value="Mäßig schneller Angriff mit einem vom Boden aufgehobenen Stein"/>
+<label key="key:620791975:228830419" value="Kleine Dinge zweimal treffen. Manchmal schlagen Dinge dann langsamer zurück."/>
+<label key="key:620791976:228830419" value="Fuß hochheben, mit Fuß auftreten, mickrige Dinge fallen hin. Manchmal sind Dinge nachher leichter zu verletzen."/>
+<label key="key:620791977:228830419" value="Stein nehmen. Stein fallen lassen. Tut kleinen Dingen manchmal extra weh."/>
+<label key="key:620791978:228830419" value="Wütend werden. Härter schlagen. Schneller schlagen. Nicht so schnell bewegen."/>
+<label key="key:620791995:228830419" value="Brüllen voller Zorn. Wann ist manchmal? Manchmal ist gleich."/>
+<label key="key:620792025:228830419" value="Diese Fertigkeit macht in der Nähe befindliche Monster auf die Köderfalle des Jägers aufmerksam."/>
+<label key="key:620792096:228830419" value="Euer Wissen über die Wildnis ermöglicht es Euch, Euren Feinden eine Falle zu stellen, die ihre Bewegungsgeschwindigkeit reduzieren und ihnen Schaden über Zeit zufügen wird. Die Falle verbleibt 60 Sekunden lang an Ort und Stelle. Bei der Ausübung dieser Fertigkeit könnt Ihr leicht unterbrochen werden."/>
+<label key="key:620792674:228830419" value="Ihr erhöht für einen begrenzten Zeitraum die offensive Stärke Eures Schildbruders."/>
+<label key="key:620792675:228830419" value="Ihr führt einen Nahkampfangriff aus, der jede zeitverzögerte Aktion des Gegners unterbricht."/>
+<label key="key:620792676:228830419" value="Ihr zieht mit Eurem Schlag im Kampf die Aufmerksamkeit auf Euch. Wenn dieser Schlag auf einen Gegner zielt, der bereits durch Euren \qSchneidigen Angriff\q blutet, vergrößert sich außerdem das Ausmaß, in dem Ihr als Bedrohung empfunden werdet."/>
+<label key="key:620792677:228830419" value="Ein geordneter Rückzug kann dem Hauptmann dabei helfen, einen besonders harten Kampf durchzustehen. Diese Fertigkeit verringert das Ausmaß der Bedrohung, die Ihr für die Euch umgebenden Gegner darstellt."/>
+<label key="key:620792679:228830419" value="Ihr opfert einen Teil Eurer Moral, um denselben Effekt zu erzielen, den auch die Vernichtung eines Gegners erzielt hätte, und um Euch in einen kampfbereiten Zustand zu versetzen."/>
+<label key="key:620793044:228830419" value="Dieser mächtige Nahkampfangriff verfügt über eine erhöhte Wahrscheinlichkeit, kritische Treffer zu erzielen, und inspiriert Eure Gefährten dazu, das Licht Elendils herbeizurufen. Ihr müsst Euch für die Anwendung dieser Fertigkeit im Zustand \qKampfgestählt\q befinden."/>
+<label key="key:620793162:228830419" value="Ihr könnt einen gefallenen Gefährten mit drei Viertel seiner Moral und der Hälfte seiner Kraft wiederbeleben und beschützen."/>
+<label key="key:620793173:228830419" value="Ihr werbt einen Herold an, der in der Schlacht Euer Banner des Sieges trägt. Dieses Banner erhöht für alle, die sich in seiner Nähe befinden, den Kraft-Höchstwert und verbessert die Kraftregeneration im Kampf."/>
+<label key="key:620793174:228830419" value="Ihr werbt einen Herold an, der in der Schlacht Euer Kriegsbanner trägt. Dieses Banner erhöht bei allen, die in seiner Nähe sind, Macht und Beweglichkeit."/>
+<label key="key:620793175:228830419" value="Ihr werbt einen Herold an, der in der Schlacht Euer Banner der Hoffnung trägt. Dieses Banner erhöht für alle, die sich in seiner Nähe befinden, den Moral-Höchstwert und verbessert die Moralregeneration im Kampf."/>
+<label key="key:620793375:228830419" value="Wenn aktiviert, werden in der Nähe befindliche Artefakte auf dem Radar angezeigt."/>
+<label key="key:620793376:228830419" value="Ein plötzlicher Geschwindigkeitsrausch kann entscheidend für Freiheit statt Plattheit sein."/>
+<label key="key:620793377:228830419" value="Manchmal geht es beim Überleben darum, nicht getroffen zu werden. Eigentlich geht es fast immer darum."/>
+<label key="key:620793378:228830419" value="Euren suchenden Augen entgeht nichts. Solange es sich um Würmer handelt!"/>
+<label key="key:620793379:228830419" value="Automatischer Angriff bei einhändigem waffenlosem Angriff"/>
+<label key="key:620793501:228830419" value="Eure beruhigende Gegenwart erhöht die Menge an Moral, die Euer Schildbruder wiederherstellt."/>
+<label key="key:620793907:228830419" value="Mittelerde ist ein gefährlicher Ort. Manchmal hat es Vorteile, tot zu sein."/>
+<label key="key:620794584:228830419" value="Diese Spatha-Fertigkeit fügt Eurem Ziel direkten Nahkampfschaden zu und kann Teil eines Spatha-Manövers sein."/>
+<label key="key:620794613:228830419" value="Ihr wisst zwar nicht, was es ist, aber irgendetwas stimmt nicht."/>
+<label key="key:620794614:228830419" value="Der Kundige hievt eine glühende Kugel in den Himmel, die in einem Feuerwerk explodiert. Bis zu drei der Toten werden dann 5 Sekunden lang betäubt und 10 Sekunden lang hypnotisiert."/>
+<label key="key:620794627:228830419" value="Euer Wissen über die Schutzkunde ermöglicht es Euch, einen Bereich zu erzeugen, in den die ausgewählte Kreatur gebannt wird. Sie nimmt mehr Schaden durch taktische Fertigkeiten und die Wahrscheinlichkeit gescheiterter Angriffe steigt. Dieser Effekt hält eine Minute an."/>
+<label key="key:620794630:228830419" value="Euer Wissen über die Schutzkunde ermöglicht es Euch, einen Bereich zu erzeugen, in den die ausgewählte Kreatur gebannt wird. Sie nimmt mehr Schaden durch taktische Fertigkeiten und die Wahrscheinlichkeit gescheiterter Angriffe steigt. Dieser Effekt hält eine Minute an."/>
+<label key="key:620794631:228830419" value="Euer Wissen über die Schutzkunde ermöglicht es Euch, einen Bereich zu erzeugen, in den die ausgewählte Kreatur gebannt wird. Sie nimmt mehr Schaden durch taktische Fertigkeiten und die Wahrscheinlichkeit gescheiterter Angriffe steigt. Dieser Effekt hält eine Minute an."/>
+<label key="key:620794634:228830419" value="Ermöglicht es dem Kundigen, einen Trank aus magnetischen Metallfüllungen und anderen obskuren Materialien zuzubereiten. Dadurch wird das Tragen von Rüstungen schwieriger und schwer gepanzerte Kreaturen werden gereizt, wodurch ihre Panzerung nutzlos wird."/>
+<label key="key:620794638:228830419" value="Um diese Fähigkeit nutzen zu können, muss die Fertigkeit 'Kriegsrede' aktiv sein. Ihr beschwört den Namen des Altvorderen Königs, Anführer der Valar, wodurch Ihr eine Gruppe Eurer Feinde auseinandersprengt und ihre Resistenz für weitere Angriffe verringert."/>
+<label key="key:620794639:228830419" value="Ihr ruft einem Gefährten etwas zu, wodurch er zu Größe inspiriert wird."/>
+<label key="key:620794640:228830419" value="Ihr ruft Euren Gefährten etwas zu, wodurch sie zu größerer Effizienz bei Gefährten-Manövern inspiriert werden."/>
+<label key="key:620794641:228830419" value="Um diese Fähigkeit nutzen zu können, muss die Fertigkeit 'Kriegsrede' aktiv sein. Eure mitreißenden Geschichten über das Zweite Zeitalter entmutigen nahe Feinde und erleichtern das Herz Eurer Verbündeten."/>
+<label key="key:620794642:228830419" value="Ihr beherrscht 'Hammerhand-Lied' gut genug, um einem Verbündeten einen geringeren Vorteil zu gewähren."/>
+<label key="key:620794643:228830419" value="Dieser Gesang beschwört eine Eidbrecherklinge, Euren Gegner zu peinigen. Wenn 'Kriegsrede' aktiviert wurde, wird dieser Gesang auf 'Chor der Eidbrecher' hochgestuft."/>
+<label key="key:620794644:228830419" value="Diese Aura verbessert die Vitalität und Wundenresistenz Eurer Gefährten."/>
+<label key="key:620794645:228830419" value="Diese Aura verbessert die Hoffnung und Rüstung Eurer Gefährten."/>
+<label key="key:620794646:228830419" value="Eure charismatische Rede flößt den Herzen Eurer Gegner Angst ein."/>
+<label key="key:620794647:228830419" value="Der Kundige schleudert eine Phiole mit übel stinkendem, klebrigem Teer zu Boden, wodurch ein Bereich erzeugt wird, der 50 % schwieriger zu durchdringen ist. Außerdem sind feindliche Kreaturen um 10 % anfälliger gegenüber Feuer. Dieser Bereich hält eine Minute an."/>
+<label key="key:620794652:228830419" value="Der Kundige kann seinen Stab zu Boden schleudern, wodurch er einen Donnerschlag verursacht, der Kreaturen in seiner Nähe 3 Sekunden lang betäubt und schwachen Schaden zufügt."/>
+<label key="key:620794716:228830419" value="Dieser Schrei beschwört ein Paar Eidbrecherklingen, Euren Gegner zu peinigen."/>
+<label key="key:620794960:228830419" value="Der Kundige beschwört einen Sturm, der elektrische Energie auf Ziele zieht, die bereits mit der Materialienmixtur des 'Uralten Handwerks' überzogen wurden. Diese Verbindung der Natur ist für sterbliche Rassen schwierig und fordert vom Kundigen viel Moral."/>
+<label key="key:620794980:228830419" value="Diese Spatha-Fertigkeit fügt Eurem Ziel direkten Fernkampfschaden zu und überträgt Teil seiner Macht auf Euch. Diese Fertigkeit kann Teil eines Spatha-Manövers sein."/>
+<label key="key:620795022:228830419" value="Dreifacheffekt ’Stärke’"/>
+<label key="key:620795027:228830419" value="Dreifacheffekt ‘Überzeugung’"/>
+<label key="key:620795034:228830419" value="Doppeleffekt ’Taktik’"/>
+<label key="key:620795045:228830419" value="Vierfacheffekt ’Stärke’"/>
+<label key="key:620795047:228830419" value="Fünffacheffekt ‘Überzeugung’"/>
+<label key="key:620795060:228830419" value="Doppeleffekt ‘Überzeugung’"/>
+<label key="key:620795063:228830419" value="Doppeleffekt ‘List’ (Fernkampf)"/>
+<label key="key:620795067:228830419" value="Doppeleffekt ’Stärke’"/>
+<label key="key:620795079:228830419" value="Fünffacheffekt ’Taktik’"/>
+<label key="key:620795083:228830419" value="Überzeugungsbeitrag"/>
+<label key="key:620795084:228830419" value="Listbeitrag"/>
+<label key="key:620795085:228830419" value="Diese Spatha-Fertigkeit fügt Eurem Ziel direkten Nahkampfschaden sowie Moralschaden über Zeit zu und kann Teil eines Spatha-Manövers sein."/>
+<label key="key:620795089:228830419" value="Sechsfacheffekt ’List’ (Fernkampf)"/>
+<label key="key:620795096:228830419" value="Vierfacheffekt ’Taktik’"/>
+<label key="key:620795107:228830419" value="Stärkebeitrag"/>
+<label key="key:620795111:228830419" value="Dreifacheffekt ‘List’ (Fernkampf)"/>
+<label key="key:620795112:228830419" value="Dreifacheffekt ‘List’ (Nahkampf)"/>
+<label key="key:620795113:228830419" value="Fünffacheffekt ’List’ (Fernkampf)"/>
+<label key="key:620795117:228830419" value="Sechsfacheffekt ’Stärke’"/>
+<label key="key:620795126:228830419" value="Diese Spatha-Fertigkeit fügt Eurem Ziel direkten Nahkampfschaden zu und überträgt Teil seiner Macht auf Euch. Diese Fertigkeit kann Teil eines Spatha-Manövers sein."/>
+<label key="key:620795131:228830419" value="Doppeleffekt ‘List’ (Nahkampf)"/>
+<label key="key:620795134:228830419" value="Sechsfacheffekt ’Taktik’"/>
+<label key="key:620795149:228830419" value="Sechsfacheffekt ’Stärke’"/>
+<label key="key:620795167:228830419" value="Diese Spatha-Fertigkeit fügt Eurem Ziel direkten Fernkampfschaden zu und überträgt Teil seiner Macht auf Euch. Diese Fertigkeit kann Teil eines Spatha-Manövers sein."/>
+<label key="key:620795181:228830419" value="Taktikbeitrag"/>
+<label key="key:620795192:228830419" value="Fünffacheffekt ’Stärke’"/>
+<label key="key:620795222:228830419" value="Vierfacheffekt ‘List’ (Nahkampf)"/>
+<label key="key:620795223:228830419" value="Vierfacheffekt ‘Überzeugung’"/>
+<label key="key:620795224:228830419" value="Listbeitrag"/>
+<label key="key:620795228:228830419" value="Dreifacheffekt ’Taktik’"/>
+<label key="key:620795229:228830419" value="Sechsfacheffekt ‘Überzeugung’"/>
+<label key="key:620795233:228830419" value="Doppeleffekt ’Stärke’"/>
+<label key="key:620795235:228830419" value="Fünffacheffekt ’List’ (Nahkampf)"/>
+<label key="key:620795243:228830419" value="Sechsfacheffekt 'List' (Nahkampf)"/>
+<label key="key:620795252:228830419" value="Vierfacheffekt ‘List’ (Fernkampf)"/>
+<label key="key:620795253:228830419" value="Diese Spatha-Fertigkeit fügt Eurem Ziel direkten Fernkampfschaden sowie Moralschaden über Zeit zu und kann Teil eines Spatha-Manövers sein."/>
+<label key="key:620795265:228830419" value="Fünffacheffekt ’Stärke’"/>
+<label key="key:620795284:228830419" value="Dreifacheffekt ’Stärke’"/>
+<label key="key:620795288:228830419" value="Diese Spatha-Fertigkeit fügt Eurem Ziel direkten Fernkampfschaden zu und kann Teil eines Spatha-Manövers sein."/>
+<label key="key:620795300:228830419" value="Vierfacheffekt ’Stärke’"/>
+<label key="key:620795374:228830419" value="Euer Verständnis der Luchssprache erlaubt es Euch, einen Luchs herbeizurufen, der Euch bei Euren Abenteuern zur Seite steht."/>
+<label key="key:620795674:228830419" value="Ihr stimmt einen schnellen, aber mächtigen Akkord an, der im Handumdrehen die Moral eines Verbündeten wiederherstellt."/>
+<label key="key:620795679:228830419" value="Ihr tragt eine Melodie vor, die so unwiderstehlich ist, dass alle Freien Völker beim Hören nicht anders können als zu tanzen."/>
+<label key="key:620795817:228830419" value="Es wird ein Lehrbuch über das Harfespielen verfasst. Das Verfassen von Lehrbüchern ist weitaus schwieriger als das persönliche Unterrichten. Ihr benötigt ein leeres Mentorenbuch."/>
+<label key="key:620795820:228830419" value="Sobald Ihr die Haltung 'Schreiber' einnehmt, ändert Ihr Eure Lehr-Fertigkeiten zu Lehrbuchschreiber-Fertigkeiten, wodurch Ihr Lehrbücher für Instrumente verfassen könnt. Das Verfassen von Lehrbüchern ist weitaus schwieriger als das persönliche Unterrichten. Ihr benötigt ein leeres Mentorenbuch und Ihr müsst 10 Tage warten, bis Ihr diese Fertigkeit erneut anwenden könnt."/>
+<label key="key:620795840:228830419" value="Es wird ein Lehrbuch über das Kuhglockenspielen verfasst. Das Verfassen von Lehrbüchern ist weitaus schwieriger als das persönliche Unterrichten. Ihr benötigt ein leeres Mentorenbuch."/>
+<label key="key:620795842:228830419" value="Es wird ein Lehrbuch über das Trommeln verfasst. Das Verfassen von Lehrbüchern ist weitaus schwieriger als das persönliche Unterrichten. Ihr benötigt ein leeres Mentorenbuch."/>
+<label key="key:620795845:228830419" value="Es wird ein Lehrbuch über das Flötespielen verfasst. Das Verfassen von Lehrbüchern ist weitaus schwieriger als das persönliche Unterrichten. Ihr benötigt ein leeres Mentorenbuch."/>
+<label key="key:620795848:228830419" value="Es wird ein Lehrbuch über das Hornspielen verfasst. Das Verfassen von Lehrbüchern ist weitaus schwieriger als das persönliche Unterrichten. Ihr benötigt ein leeres Mentorenbuch."/>
+<label key="key:620795850:228830419" value="Es wird ein Lehrbuch über das Moorkuh-Glockenspielen verfasst. Das Verfassen von Lehrbüchern ist weitaus schwieriger als das persönliche Unterrichten. Ihr benötigt ein leeres Mentorenbuch."/>
+<label key="key:620795852:228830419" value="Es wird ein Lehrbuch über das Theorbespielen verfasst. Das Verfassen von Lehrbüchern ist weitaus schwieriger als das persönliche Unterrichten. Ihr benötigt ein leeres Mentorenbuch."/>
+<label key="key:620795854:228830419" value="Es wird ein Lehrbuch über das Dudelsackspielen verfasst. Das Verfassen von Lehrbüchern ist weitaus schwieriger als das persönliche Unterrichten. Ihr benötigt ein leeres Mentorenbuch."/>
+<label key="key:620795855:228830419" value="Es wird ein Lehrbuch über das Klarinettespielen verfasst. Das Verfassen von Lehrbüchern ist weitaus schwieriger als das persönliche Unterrichten. Ihr benötigt ein leeres Mentorenbuch."/>
+<label key="key:620795856:228830419" value="Ein gewaltiger Angriff, der nur aus dem Schleichen heraus verwendet werden kann. Diese Fertigkeit hat eine hohe Chance, einen kritischen Angriff zu erzielen. Wird dieser Angriff von hinten ausgeführt, fügt er mehr Schaden zu."/>
+<label key="key:620795857:228830419" value="Augenaushöhlung und Stich. Diese Fertigkeit wirkt in einem 60°-Radius vor dem Anwender."/>
+<label key="key:620795858:228830419" value="Der flinke Luchs eilt von Feind zu Feind und greift sie in in einem 180-Grad-Bogen mit seinen Krallen an."/>
+<label key="key:620795893:228830419" value=".."/>
+<label key="key:620795895:228830419" value=".."/>
+<label key="key:620795923:228830419" value="Euer Verständnis der Vogelsprache erlaubt es Euch, einen Vogel herbeizurufen, um dunkle Zeiten etwas aufzuhellen."/>
+<label key="key:620795926:228830419" value="Euer Verständnis der Katzensprache erlaubt es Euch, eine Katze herbeizurufen, um dunkle Zeiten etwas aufzuhellen."/>
+<label key="key:620795928:228830419" value="Euer Verständnis der Hundesprache erlaubt es Euch, einen Hund herbeizurufen, um dunkle Zeiten etwas aufzuhellen."/>
+<label key="key:620795930:228830419" value="Euer Verständnis der Fuchssprache erlaubt es Euch, einen Fuchs herbeizurufen, um dunkle Zeiten etwas aufzuhellen."/>
+<label key="key:620795932:228830419" value="Euer Verständnis der Froschsprache erlaubt es Euch, einen Frosch herbeizurufen, um dunkle Zeiten etwas aufzuhellen."/>
+<label key="key:620795934:228830419" value="Euer Verständnis der Kaninchensprache erlaubt es Euch, ein Kaninchen herbeizurufen, um dunkle Zeiten etwas aufzuhellen."/>
+<label key="key:620795936:228830419" value="Euer Verständnis der Schlangensprache erlaubt es Euch, eine Schlange herbeizurufen, um dunkle Zeiten etwas aufzuhellen."/>
+<label key="key:620795938:228830419" value="Euer Verständnis der Eichhörnchensprache erlaubt es Euch, ein Eichhörnchen herbeizurufen, um dunkle Zeiten etwas aufzuhellen."/>
+<label key="key:620795997:228830419" value="Euer Verständnis der Schildkrötensprache erlaubt es Euch, eine Schildkröte herbeizurufen, um dunkle Zeiten etwas aufzuhellen."/>
+<label key="key:620796000:228830419" value="Nach sorgfältiger Überlegung kann der Kundige einen gefallenen Kameraden so wiederherstellen, dass dieser erneut kämpfen kann. Die Wiederbelebung eines besiegten Verbündeten erfolgt gegen geringe Kosten durch Einsatz duftender Kräuter."/>
+<label key="key:620796467:228830419" value="Ihr treibt Eure Fänge tief ins Fleisch des Feindes, zerfetzt eine Sehne und eröffnet eine Gelegenheit für eine Aktion Eures Kampftrupps."/>
+<label key="key:620796468:228830419" value="Ein schneller Streich zu den Augen des Gegners hin, stört dessen Konzentration."/>
+<label key="key:620796469:228830419" value="Wenn die Zeit gekommen ist, sich in das Schlachtgewühl zu stürzen, liegt es an den Orks, die Schlachtreihen zu durchbrechen. Ihr erlangt eine kurze Immunität vor Anwurzeln, Betäubung und Benommenheit. Eure Geschwindigkeit erhöht sich für kurze Zeit."/>
+<label key="key:620796471:228830419" value="Wenn Euer Ziel damit beginnt, sich auf einen Angriff vorzubereiten, versetzt Ihr ihm einen schnellen Hieb in den Magen, um seine Vorbereitung zu stören."/>
+<label key="key:620796472:228830419" value="Euer Wissen um den Feind ist so groß, dass Ihr seine empfindlichsten Stellen mit großer Sicherheit treffen könnt."/>
+<label key="key:620796473:228830419" value="Euer Sehvermögen ist so groß, dass Ihr den Gegner stets im Blick habt und nie aus den Augen verliert."/>
+<label key="key:620796475:228830419" value="Wenn Ihr seht, wie sich ein entfernter Gegner auf einen Angriff vorbereitet, zielt Ihr sorgfältig und sorgt für ein Ende seiner Bemühungen."/>
+<label key="key:620796476:228830419" value="Ein schreckliches Banner treibt Furcht in die Herzen Eurer Feinde und schwächt ihre Entschlossenheit."/>
+<label key="key:620796478:228830419" value="Ihr speit Seelenworte in der vergessenen und abscheulichen Sprache von Lugbúrz aus. Die Überzeugung und der Schrecken, die in diesen Worten ruhen, bringen auch die entschlossensten Gegner zum Wanken."/>
+<label key="key:620796479:228830419" value="Ihr hisst ein Banner mit dem Zeichen des mächtigsten Orkstammes, den Krahjarn. Jeder, der in der Nähe dieses Banners steht, zieht Kraft aus diesem Zeichen."/>
+<label key="key:620796481:228830419" value="Mit Euren Netzen könnt Ihr klebrige Bereiche am Boden erzeugen, die die Bewegungen aller Gegner verlangsamen, die sie zu überqueren suchen."/>
+<label key="key:620796483:228830419" value="Wenn Ihr Eure gesamte Energie auf ein einzelnes Ziel konzentriert, könnt Ihr es unter dem Gewicht Eurer Netze zu Fall bringen und Euren Gefährten eine Aktion ermöglichen."/>
+<label key="key:620796484:228830419" value="Ein Fernangriff, der einen geringen Schaden verursacht und eine Menge Eier bringt, die schlüpfen können!"/>
+<label key="key:620797239:228830419" value="Diese Fertigkeit ermöglicht es Euch, die Schwächen und Stärken bestimmter Kreaturen zu prüfen."/>
+<label key="key:620797423:228830419" value="Ihr könnt jemanden darin unterweisen, Harfe zu spielen."/>
+<label key="key:620797598:228830419" value="Ihr könnt jemanden darin unterweisen, Dudelsack zu spielen."/>
+<label key="key:620797599:228830419" value="Ihr könnt jemanden darin unterweisen, die Klarinette zu spielen."/>
+<label key="key:620797600:228830419" value="Ihr könnt jemanden darin unterweisen, Kuhglocke zu spielen."/>
+<label key="key:620797601:228830419" value="Ihr könnt jemanden darin unterweisen, das Horn zu spielen."/>
+<label key="key:620797602:228830419" value="Ihr könnt jemanden darin unterweisen, die Moorkuh-Glocke zu spielen."/>
+<label key="key:620797603:228830419" value="Ihr könnt jemanden darin unterweisen, die Theorbe zu spielen."/>
+<label key="key:620797604:228830419" value="Ihr könnt jemanden darin unterweisen, Trommel zu spielen."/>
+<label key="key:620797605:228830419" value="Ihr könnt jemanden darin unterweisen, Flöte zu spielen."/>
+<label key="key:620799391:228830419" value="Kehrt schnell zu Eurem eigenen Heim zurück. Diese Fertigkeit kann leicht unterbrochen werden."/>
+<label key="key:620799393:228830419" value="Kehrt schnell zum Haus Eurer Sippe zurück. Diese Fertigkeit kann leicht unterbrochen werden."/>
+<label key="key:620799546:228830419" value="Diese Fertigkeit bringt den Adler dazu, eine Aktion des Ziels zu stören, sodass ein Kampf zustande kommt."/>
+</labels>

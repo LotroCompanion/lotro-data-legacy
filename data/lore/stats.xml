@@ -38,11 +38,11 @@
 <stat id="268437292" index="77" name="Ranged Vulnerability" key="Combat_DamageQualifier_Ranged_Defense" legacyKey="RANGED_DEFENCE_PERCENTAGE" isPercentage="true"/>
 <stat id="268438034" index="78" name="Auto-attack Critical Hit Chance" key="Skill_AutoAttackCriticalHitChance" legacyKey="RANGED_AUTO_ATTACKS_CRIT_CHANCE_PERCENTAGE" isPercentage="true"/>
 <stat id="268439616" index="80" name="Tactical Critical Multiplier" key="Combat_EffectCriticalMultiplierMod" legacyKey="TACTICAL_CRITICAL_MULTIPLIER" isPercentage="true"/>
-<stat id="268440862" index="81" name="Blade Line Area of Effect Power Cost" key="Skill_VitalCost_Champion_AOEMod" legacyKey="BLADE_LINE_AOE_POWER_COST_PERCENTAGE" legacyName="Blade Line AoE Power Cost" isPercentage="true"/>
-<stat id="268440875" index="82" name="Strikes Line Power Cost" key="Skill_VitalCost_Champion_StrikeMod" legacyKey="STRIKE_SKILLS_POWER_COST_PERCENTAGE" legacyName="Strike Skill Power Cost" isPercentage="true"/>
+<stat id="268440862" index="81" name="Blade Line Area of Effect Power Cost" key="Skill_VitalCost_Champion_AOEMod" legacyKey="BLADE_LINE_AOE_POWER_COST_PERCENTAGE" isPercentage="true"/>
+<stat id="268440875" index="82" name="Strikes Line Power Cost" key="Skill_VitalCost_Champion_StrikeMod" legacyKey="STRIKE_SKILLS_POWER_COST_PERCENTAGE" isPercentage="true"/>
 <stat id="268438245" index="84" name="Tricks Power Cost" key="Burglar_TricksPowerReduce" legacyKey="TRICKS_POWER_COST_PERCENTAGE" isPercentage="true"/>
-<stat id="268435468" index="85" name="Loremaster Sign of the Wild Power Cost" key="Skill_VitalCost_Book_SigilAnimalMod" legacyKey="SIGN_OF_THE_WILD_POWER_COST_PERCENTAGE" legacyName="Sign of the Wild Skills Power Cost" isPercentage="true"/>
-<stat id="268438246" index="86" name="Ballad Damage" key="Skill_DamageMultiplier_LightintheDark" legacyKey="BALLAD_AND_CODA_DAMAGE_PERCENTAGE" legacyName="Ballad and Coda Damage" isPercentage="true"/>
+<stat id="268435468" index="85" name="Loremaster Sign of the Wild Power Cost" key="Skill_VitalCost_Book_SigilAnimalMod" legacyKey="SIGN_OF_THE_WILD_POWER_COST_PERCENTAGE" isPercentage="true"/>
+<stat id="268438246" index="86" name="Ballad Damage" key="Skill_DamageMultiplier_LightintheDark" legacyKey="BALLAD_AND_CODA_DAMAGE_PERCENTAGE" isPercentage="true"/>
 <stat id="268436097" index="87" name="Attack Duration" key="Combat_ActionDurationMultiplierMod" legacyKey="ATTACK_DURATION_PERCENTAGE" isPercentage="true"/>
 <stat id="268437186" index="88" name="Critical Chance" key="Craft_Jeweller_CriticalChanceAddModifier" legacyKey="JEWELLER_CRIT_CHANCE_PERCENTAGE" legacyName="Jeweller Critical Chance" isPercentage="true"/>
 <stat id="268435993" index="89" name="Critical Chance" key="Craft_Cook_CriticalChanceAddModifier" legacyKey="COOK_CRIT_CHANCE_PERCENTAGE" legacyName="Cook Critical Chance" isPercentage="true"/>
@@ -55,7 +55,7 @@
 <stat id="268437808" index="96" name="Farming Time" key="Skill_InductionDuration_FarmHarvestMod" legacyKey="FARMER_MINING_DURATION" legacyName="Farmer Harvesting Duration (s)"/>
 <stat id="268436396" index="97" name="Wood Harvesting Time" key="Skill_InductionDuration_WoodHarvestMod" legacyKey="FORESTER_CHOPPING_DURATION" legacyName="Forester Chopping Duration (s)"/>
 <stat id="268438741" index="99" name="Perceived Threat" key="TotalThreatModifier_Player" legacyKey="PERCEIVED_THREAT" isPercentage="true"/>
-<stat id="268440644" index="100" name="Induction Duration" key="Skill_InductionDuration_AllSkillsMod" legacyKey="ALL_SKILL_INDUCTION" legacyName="All Skill Inductions" isPercentage="true"/>
+<stat id="268440644" index="100" name="Induction Duration" key="Skill_InductionDuration_AllSkillsMod" legacyKey="ALL_SKILL_INDUCTION" isPercentage="true"/>
 <stat id="-1010" name="Shield Use Rank" key="Combat_TacticalDPS_Modifier#1" legacyKey="Combat_TacticalDPS_Modifier#1"/>
 <stat id="-1009" name="DPS" key="DPS" legacyKey="DPS"/>
 <stat id="268435463" name="Pip" key="Skill_Pips_Mod_Trait_EnduringPrecision" type="INTEGER"/>

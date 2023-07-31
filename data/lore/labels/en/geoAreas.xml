@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?><labels locale="en">
+<label key="1879049792" value="Bree-land"/>
+<label key="1879049816" value="Eriador"/>
+<label key="1879051236" value="Gorothlad"/>
+<label key="1879051583" value="The Shire"/>
+<label key="1879051861" value="The Ettenmoors"/>
+<label key="1879061048" value="Ered Luin"/>
+<label key="1879062345" value="The Lone-lands"/>
+<label key="1879063884" value="Angmar"/>
+<label key="1879063917" value="Seamia East"/>
+<label key="1879063918" value="Seamia West"/>
+<label key="1879063919" value="FIX ME: Unassigned"/>
+<label key="1879063920" value="Test"/>
+<label key="1879063921" value="Vale of Thrain"/>
+<label key="1879063922" value="Low Lands"/>
+<label key="1879063923" value="Haudh Lin"/>
+<label key="1879063924" value="Falathlorn"/>
+<label key="1879063925" value="Sarnúr"/>
+<label key="1879063926" value="Rath Teraig"/>
+<label key="1879063927" value="Refuge of Edhelion"/>
+<label key="1879063928" value="Falathlorn"/>
+<label key="1879063929" value="Celondim"/>
+<label key="1879063930" value="Limael's Vineyard"/>
+<label key="1879063931" value="Kheledûl"/>
+<label key="1879063932" value="Thorin's Gate"/>
+<label key="1879063933" value="South Trollshaws"/>
+<label key="1879063934" value="North Trollshaws"/>
+<label key="1879063935" value="Bruinen Gorges"/>
+<label key="1879063936" value="High Moor"/>
+<label key="1879063937" value="Nan Tornaeth"/>
+<label key="1879063938" value="Giant Valley"/>
+<label key="1879063939" value="Rivendell Valley"/>
+<label key="1879063940" value="Misty Mountains"/>
+<label key="1879063941" value="Bruinen Source West"/>
+<label key="1879063942" value="Bruinen Source North"/>
+<label key="1879063943" value="Bruinen Source East"/>
+<label key="1879063944" value="High Crag"/>
+<label key="1879063945" value="Giant Halls"/>
+<label key="1879063946" value="Helegrod"/>
+<label key="1879063947" value="Annunlos"/>
+<label key="1879063948" value="The Weather Hills"/>
+<label key="1879063949" value="Nain Enidh"/>
+<label key="1879063950" value="Talath Gaun"/>
+<label key="1879063951" value="Harloeg"/>
+<label key="1879063952" value="Agamaur"/>
+<label key="1879063953" value="Haragmar"/>
+<label key="1879063954" value="Talath Gaun"/>
+<label key="1879063955" value="Garth Agarwen"/>
+<label key="1879063956" value="Minas Eriol"/>
+<label key="1879063957" value="Ram Dúath"/>
+<label key="1879063958" value="Western Foothills"/>
+<label key="1879063959" value="Western Malenhad"/>
+<label key="1879063960" value="Snowcapped Hills"/>
+<label key="1879063961" value="Carn Dûm"/>
+<label key="1879063962" value="Fasach-falroid"/>
+<label key="1879063963" value="Fasach-larran"/>
+<label key="1879063964" value="Eastern Malenhad"/>
+<label key="1879063965" value="Imlad Balchorth"/>
+<label key="1879063966" value="Himbar"/>
+<label key="1879063967" value="Nan Gurth"/>
+<label key="1879063968" value="Urugarth"/>
+<label key="1879063969" value="Duvuinen"/>
+<label key="1879063970" value="Maethad"/>
+<label key="1879063971" value="Rhunendin"/>
+<label key="1879063972" value="Trestlebridge"/>
+<label key="1879063973" value="Greenway"/>
+<label key="1879063974" value="Fields of Fornost"/>
+<label key="1879063975" value="Nan Wathren"/>
+<label key="1879063976" value="Deadmen's Dike"/>
+<label key="1879063977" value="Nan Amlug West"/>
+<label key="1879063978" value="Kingsfell"/>
+<label key="1879063979" value="Meluinen"/>
+<label key="1879063980" value="Nan Amlug East"/>
+<label key="1879063981" value="Rhunenlad"/>
+<label key="1879063982" value="Dol Dinen"/>
+<label key="1879063983" value="Annúndir"/>
+<label key="1879063984" value="Gosgenethad"/>
+<label key="1879063985" value="Barad Gost"/>
+<label key="1879063986" value="Fornost"/>
+<label key="1879063987" value="Esteldin"/>
+<label key="1879063988" value="Taur Gonwaith"/>
+<label key="1879063989" value="Hoardale"/>
+<label key="1879063990" value="Arador's End"/>
+<label key="1879063991" value="Steps of Gram"/>
+<label key="1879063992" value="Coldfells"/>
+<label key="1879063993" value="Hithlad"/>
+<label key="1879063994" value="Buckland"/>
+<label key="1879063995" value="Northern Bree-fields"/>
+<label key="1879063996" value="Old Forest"/>
+<label key="1879063997" value="Chetwood"/>
+<label key="1879063998" value="Northern Barrow-downs"/>
+<label key="1879063999" value="Southern Barrow-downs"/>
+<label key="1879064000" value="The Midgewater Marshes"/>
+<label key="1879064001" value="Andrath"/>
+<label key="1879064002" value="Brandy Hills"/>
+<label key="1879064003" value="The Brandywood"/>
+<label key="1879064004" value="Starmere Lake"/>
+<label key="1879064005" value="The Bleakbluffs"/>
+<label key="1879064006" value="Eastern Bree-fields"/>
+<label key="1879064007" value="Far Chetwood"/>
+<label key="1879064008" value="Hengstacer Farm"/>
+<label key="1879064009" value="The Horsefields"/>
+<label key="1879064010" value="Nen Harn"/>
+<label key="1879064011" value="Weather Hills"/>
+<label key="1879064012" value="Combe"/>
+<label key="1879064013" value="Staddle"/>
+<label key="1879064014" value="Archet"/>
+<label key="1879064015" value="Bree"/>
+<label key="1879064016" value="The Delving Fields"/>
+<label key="1879064017" value="Hobbiton-Bywater"/>
+<label key="1879064018" value="Tookland"/>
+<label key="1879064019" value="The Marish"/>
+<label key="1879064020" value="Green Hill Country"/>
+<label key="1879064021" value="Rushock Bog"/>
+<label key="1879064022" value="Bindbole Wood"/>
+<label key="1879064023" value="Greenfields"/>
+<label key="1879064024" value="Bridgefields"/>
+<label key="1879064025" value="The Marish"/>
+<label key="1879064026" value="The Hill"/>
+<label key="1879064027" value="North Bridgefields"/>
+<label key="1879072154" value="The North Downs"/>
+<label key="1879072227" value="The Misty Mountains"/>
+<label key="1879072246" value="The Trollshaws"/>
+<label key="1879075973" value="Misty Mountains RAID"/>
+<label key="1879075991" value="Seamia"/>
+<label key="1879078401" value="Southern Bree-fields"/>
+<label key="1879086544" value="Barandalf"/>
+<label key="1879086545" value="Evendim"/>
+<label key="1879086546" value="Annúminas"/>
+<label key="1879086547" value="Men Erain"/>
+<label key="1879086548" value="Tyl Annûn"/>
+<label key="1879086549" value="Lake Evendim"/>
+<label key="1879086550" value="Tyl Ruinen"/>
+<label key="1879086551" value="Southern Emyn Uial"/>
+<label key="1879086552" value="Tyrn Fornech"/>
+<label key="1879086553" value="Parth Aduial"/>
+<label key="1879086554" value="Northern Emyn Uial"/>
+<label key="1879086555" value="Bullroarer's Sward"/>
+<label key="1879086556" value="Tyl Aegonn"/>
+<label key="1879093998" value="The Rift of Nûrz Ghâshu"/>
+<label key="1879094891" value="Tâl Bruinen"/>
+<label key="1879094892" value="Northern High Pass"/>
+<label key="1879094893" value="Southern High Pass"/>
+<label key="1879094894" value="Goblin-town"/>
+<label key="1879098354" value="Thorin's Hall Homesteads"/>
+<label key="1879098736" value="Falathlorn Homesteads"/>
+<label key="1879098737" value="Shire Homesteads"/>
+<label key="1879098738" value="Bree-land Homesteads"/>
+<label key="1879099191" value="The Delving of Frór"/>
+</labels>

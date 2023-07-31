@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><classes>
-<class key="Champion" iconId="1090552269" smallIconId="0" abbreviation="CHN" description="Unrelenting in battle, Champions are consummate warriors. Their fervour allows them to make increasingly powerful attacks. Champions excel at melee combat and can absorb punishment with their heavy armour.  &lt;li&gt;Role: Area-of-Effect Damage / Damage-per-Second &lt;/li&gt; &lt;li&gt;The Champion trades survivability for the ability to deal explosive amounts of damage to multiple foes.  Although a fully armoured class when not in fervour mode, it is when Champions enter this state that they deal out the greatest damage, both to single and multiple foes.  &lt;/li&gt;">
-<proficiencies armourTypeForMitigations="HEAVY">
+<class id="1879064034" code="172" key="Champion" name="Champion" tag="" iconId="1090552269" smallIconId="0" abbreviation="CHN" description="key:620768662:209557171">
+<proficiencies>
 <weapon type="ONE_HANDED_AXE" level="1"/>
 <weapon type="ONE_HANDED_CLUB" level="1"/>
 <weapon type="ONE_HANDED_HAMMER" level="1"/>
@@ -94,13 +94,9 @@
 <classSkill minLevel="12" skillId="1879064082" skillName="Eagle's Cry"/>
 <classSkill minLevel="12" skillId="1879064083" skillName="Spider's Guile (Melee)"/>
 <classSkill minLevel="20" skillId="1879064084" skillName="Shoot"/>
-<initialGearElement itemId="1879064056" itemName="Leather Leggings"/>
-<initialGearElement itemId="1879064057" itemName="Leather Jacket"/>
-<initialGearElement itemId="1879064058" itemName="Leather Shoes"/>
-<initialGearElement itemId="1879064059" itemName="Dull Knife"/>
 </class>
-<class key="Captain" iconId="1090552307" smallIconId="0" abbreviation="CPT" description="Captains are masterful leaders whose commanding presence strengthens allies. Their battle cries strike fear into the hearts of enemies and rally companions to their war banners. &lt;li&gt;Role: Buffer / Pets &lt;/li&gt; &lt;li&gt;The armoured Captain possesses some of the most potent enhancements to the heroes of Middle-earth, this makes the Captain a key member of any fellowship.  The Captain's ability to summon a Herald pet at later levels, plus the ability to bring fallen heroes back into the fight, make it a desired group class. &lt;/li&gt;">
-<proficiencies armourTypeForMitigations="HEAVY">
+<class id="1879064035" code="24" key="Captain" name="Captain" tag="" iconId="1090552307" smallIconId="0" abbreviation="CPT" description="key:620768705:209557171">
+<proficiencies>
 <weapon type="ONE_HANDED_AXE" level="1"/>
 <weapon type="ONE_HANDED_CLUB" level="1"/>
 <weapon type="ONE_HANDED_HAMMER" level="1"/>
@@ -197,15 +193,9 @@
 <classSkill minLevel="48" skillId="1879093336" skillName="Strength of Will"/>
 <classSkill minLevel="50" skillId="1879091730" skillName="Time of Need"/>
 <classSkill minLevel="30" skillId="1879092634" skillName="Blade of Elendil"/>
-<initialGearElement itemId="1879064134" itemName="Leather Gauntlets"/>
-<initialGearElement itemId="1879064135" itemName="Leather Boots"/>
-<initialGearElement itemId="1879064136" itemName="Leather Jacket"/>
-<initialGearElement itemId="1879064137" itemName="Leather Leggings"/>
-<initialGearElement itemId="1879064138" itemName="Leather Shoulder Pads"/>
-<initialGearElement itemId="1879064139" itemName="Weak Mace"/>
 </class>
-<class key="Minstrel" iconId="1090552311" smallIconId="0" abbreviation="MNS" description="Minstrels are skilled at maintaining their companions' morale and stirring their hearts to perform greater feats of prowess. They ward against the forces of darkness and inspire their allies using their knowledge of ancient songs and lore.  &lt;li&gt;Role: Healer &lt;/li&gt; &lt;li&gt;The Minstrel is the master of maintaining the survivability of the heroes of Middle-earth.  Minstrels also are able to deal damage to their foes by using their damaging light-based attacks in the forms of songs of power. &lt;/li&gt;">
-<proficiencies armourTypeForMitigations="LIGHT">
+<class id="1879064036" code="31" key="Minstrel" name="Minstrel" tag="" iconId="1090552311" smallIconId="0" abbreviation="MNS" description="key:620768726:209557171">
+<proficiencies>
 <weapon type="DAGGER" level="1"/>
 <weapon type="ONE_HANDED_SWORD" level="1"/>
 <weapon type="ONE_HANDED_MACE" level="1"/>
@@ -300,13 +290,9 @@
 <classSkill minLevel="30" skillId="1879099275" skillName="Mentor : Horn"/>
 <classSkill minLevel="30" skillId="1879099271" skillName="Mentor : Clarinet"/>
 <classSkill minLevel="36" skillId="1879099272" skillName="Mentor : Cowbell"/>
-<initialGearElement itemId="1879064183" itemName="Quilted Shirt"/>
-<initialGearElement itemId="1879064184" itemName="Quilted Pants"/>
-<initialGearElement itemId="1879064185" itemName="Padded Shoes"/>
-<initialGearElement itemId="1879064139" itemName="Weak Mace"/>
 </class>
-<class key="Lore-master" iconId="1090552316" smallIconId="0" abbreviation="LRM" description="Lore-masters are seekers of knowledge and the guardians of wisdom. Their knowledge of ancient lore allows them to confuse and stun foes, as well as protect against the dark powers of the Enemy. Lore-masters are also capable of calling animals to their aid.  &lt;li&gt;Role: Crowd-Control / Pets &lt;/li&gt; &lt;li&gt;Lore-masters are the unparalleled masters of crowd-control, with the ability to trap creatures and keep them from hurting their allies. They have many skills that invoke the natural world of Middle-earth but it is draining on the will thus costing them morale to fuel some of these powerful skills. Because of this, they must rely on their pets to supplement their ability to take damage. &lt;/li&gt;">
-<proficiencies armourTypeForMitigations="LIGHT">
+<class id="1879064037" code="185" key="Lore-master" name="Lore-master" tag="" iconId="1090552316" smallIconId="0" abbreviation="LRM" description="key:620768749:209557171">
+<proficiencies>
 <weapon type="STAFF" level="1"/>
 <armour type="LIGHT" level="1"/>
 </proficiencies>
@@ -374,13 +360,9 @@
 <classSkill minLevel="30" skillId="1879095507" skillName="Lynx-speech"/>
 <classSkill minLevel="32" skillId="1879097282" skillName="Back from the Brink"/>
 <classSkill minLevel="20" skillId="1879098760" skillName="Knowledge of the Lore-master"/>
-<initialGearElement itemId="1879064240" itemName="Robe"/>
-<initialGearElement itemId="1879064241" itemName="Quilted Leggings"/>
-<initialGearElement itemId="1879064242" itemName="Padded Shoes"/>
-<initialGearElement itemId="1879064243" itemName="Simple Staff"/>
 </class>
-<class key="Guardian" iconId="1090552319" smallIconId="0" abbreviation="GRD" description="The Guardians are protectors of the weak and defenders of those in need. They are capable of withstanding mighty blows and retaliating in kind. True Guardians stand to the forefront of battle, shielding their allies from enemy assaults.  &lt;li&gt;Role: Tank &lt;/li&gt; &lt;li&gt;The Guardian's ability to wear heavy armour and defensive skills enable the Guardian to face creatures that would make other heroes' morale fail. Guardians also have the ability to draw foes' attention away from their allies and to themselves. &lt;/li&gt;">
-<proficiencies armourTypeForMitigations="HEAVY">
+<class id="1879064038" code="23" key="Guardian" name="Guardian" tag="" iconId="1090552319" smallIconId="0" abbreviation="GRD" description="key:620768766:209557171">
+<proficiencies>
 <weapon type="ONE_HANDED_AXE" level="1"/>
 <weapon type="ONE_HANDED_CLUB" level="1"/>
 <weapon type="ONE_HANDED_HAMMER" level="1"/>
@@ -470,15 +452,9 @@
 <classSkill minLevel="12" skillId="1879064082" skillName="Eagle's Cry"/>
 <classSkill minLevel="12" skillId="1879064080" skillName="Stallion's Spirit"/>
 <classSkill minLevel="38" skillId="1879064297" skillName="Guardian's Promise"/>
-<initialGearElement itemId="1879064281" itemName="Quilted Leggings"/>
-<initialGearElement itemId="1879064282" itemName="Leather Boots"/>
-<initialGearElement itemId="1879064283" itemName="Leather Shirt"/>
-<initialGearElement itemId="1879064284" itemName="Leather Shoulder Guards"/>
-<initialGearElement itemId="1879064285" itemName="Leather Gauntlets"/>
-<initialGearElement itemId="1879064139" itemName="Weak Mace"/>
 </class>
-<class key="Burglar" iconId="1090551431" smallIconId="0" abbreviation="BUR" description="Burglars are masters of stealth and misdirection. They are able to confound their foes with a variety of clever and debilitating tricks. Burglars' sleight-of-hand and startling attacks allow their companions to overwhelm adversaries. &lt;li&gt;Role: Debuffer &lt;/li&gt; &lt;li&gt;The Burglar's role is to rob monsters of the ability to deal damage and attack at full strength.  As the only class that can reliably initiate fellowship manoeuvres (high-yield group-based attacks), its role in groups is a coveted one.  &lt;/li&gt;">
-<proficiencies armourTypeForMitigations="MEDIUM">
+<class id="1879064039" code="40" key="Burglar" name="Burglar" tag="" iconId="1090551431" smallIconId="0" abbreviation="BUR" description="key:620768787:209557171">
+<proficiencies>
 <weapon type="ONE_HANDED_MACE" level="1"/>
 <weapon type="ONE_HANDED_SWORD" level="1"/>
 <weapon type="DAGGER" level="1"/>
@@ -546,14 +522,9 @@
 <classSkill minLevel="12" skillId="1879064082" skillName="Eagle's Cry"/>
 <classSkill minLevel="12" skillId="1879064080" skillName="Stallion's Spirit"/>
 <classSkill minLevel="26" skillId="1879064343" skillName="Cure Poison"/>
-<initialGearElement itemId="1879064323" itemName="Cloth Gloves"/>
-<initialGearElement itemId="1879064324" itemName="Padded Shoes"/>
-<initialGearElement itemId="1879064325" itemName="Quilted Leggings"/>
-<initialGearElement itemId="1879064326" itemName="Quilted Shirt"/>
-<initialGearElement itemId="1879064059" itemName="Dull Knife"/>
 </class>
-<class key="Hunter" iconId="1090552321" smallIconId="0" abbreviation="HNT" description="Hunters are masters of field and forest, unmatched in their dexterity with the bow. They use their survival skills to guide companions and lay traps for enemies. Hunters are at their strongest when attacking from a distance, but are able to defend themselves in melee combat when the need arises. &lt;li&gt;Role: Nuker &lt;/li&gt; &lt;li&gt;The Hunter is proficient at dealing out good damage to single foes at both range and melee.  When Hunters are at range, they can unleash devastating arrow shots that do high damage to single targets. When the lone enemy finally manages to close into melee range, the Hunter is well-equipped to deal the finishing blow with some melee skills. &lt;/li&gt;">
-<proficiencies armourTypeForMitigations="MEDIUM">
+<class id="1879064040" code="162" key="Hunter" name="Hunter" tag="" iconId="1090552321" smallIconId="0" abbreviation="HNT" description="key:620768801:209557171">
+<proficiencies>
 <weapon type="ONE_HANDED_AXE" level="1"/>
 <weapon type="ONE_HANDED_SWORD" level="1"/>
 <weapon type="BOW" level="1"/>
@@ -651,10 +622,5 @@
 <classSkill minLevel="18" skillId="1879064397" skillName="Stance: Precision"/>
 <classSkill minLevel="4" skillId="1879064398" skillName="Stance: Strength"/>
 <classSkill minLevel="28" skillId="1879064399" skillName="Stance: Endurance"/>
-<initialGearElement itemId="1879064366" itemName="Cloth Pants"/>
-<initialGearElement itemId="1879064367" itemName="Cloth Vest"/>
-<initialGearElement itemId="1879064368" itemName="Padded Shoes"/>
-<initialGearElement itemId="1879064059" itemName="Dull Knife"/>
-<initialGearElement itemId="1879064369" itemName="Fragile Shortbow"/>
 </class>
 </classes>

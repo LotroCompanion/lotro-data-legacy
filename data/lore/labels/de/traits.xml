@@ -1,0 +1,1709 @@
+<?xml version="1.0" encoding="UTF-8"?><labels locale="de">
+<label key="1879049557" value="Novize"/>
+<label key="1879051500" value="Reiten"/>
+<label key="1879052047" value="Abwägendes Auge"/>
+<label key="1879052057" value="Ambidexter"/>
+<label key="1879052086" value="Schlag aus der Bewegung"/>
+<label key="1879052124" value="Blitzende Klingen"/>
+<label key="1879052147" value="Beinfeger"/>
+<label key="1879052159" value="Ungeschützte Kehle"/>
+<label key="1879052186" value="Edle Wildheit"/>
+<label key="1879052198" value="Marsch der Ents"/>
+<label key="1879052209" value="Adlerfreund"/>
+<label key="1879052353" value="Flamme von Anor"/>
+<label key="1879052362" value="Kühner Bär"/>
+<label key="1879052432" value="Verwendung von Feuer"/>
+<label key="1879052451" value="Andauernde Genauigkeit"/>
+<label key="1879052460" value="Schnell spannen"/>
+<label key="1879052474" value="Bogen der Rechtschaffenen"/>
+<label key="1879052498" value="Bards Pfeil"/>
+<label key="1879052516" value="Weiter vorrücken"/>
+<label key="1879052531" value="Dornenregen"/>
+<label key="1879052880" value="Neue Kraft"/>
+<label key="1879052894" value="Lied des hoffnungsvollen Herzens"/>
+<label key="1879052911" value="Hymne der Zauberer"/>
+<label key="1879052959" value="Glorreiche Hymne"/>
+<label key="1879052966" value="Verwendung mittlerer Rüstungen"/>
+<label key="1879053026" value="Dem Verderben trotzen"/>
+<label key="1879053048" value="Schild der Dúnedain"/>
+<label key="1879053061" value="Eidbrechers Schande"/>
+<label key="1879053068" value="Verteidig. v. Mittelerde"/>
+<label key="1879053115" value="Trotz"/>
+<label key="1879053127" value="Loyalität"/>
+<label key="1879054124" value="Eroberer der steinernen Wächter"/>
+<label key="1879054956" value="Gelehrtheit, Geschicklichkeitsstufe: 1"/>
+<label key="1879054957" value="Gelehrtheit, Beherrschungsstufe: 1"/>
+<label key="1879054966" value="Gelehrtheit, Geschicklichkeitsstufe: 2"/>
+<label key="1879054967" value="Gelehrtheit, Beherrschungsstufe: 2"/>
+<label key="1879054974" value="Gelehrtheit, Geschicklichkeitsstufe: 3"/>
+<label key="1879054975" value="Gelehrtheit, Beherrschungsstufe: 3"/>
+<label key="1879054984" value="Gelehrtheit, Geschicklichkeitsstufe: 4"/>
+<label key="1879054985" value="Gelehrtheit, Beherrschungsstufe: 4"/>
+<label key="1879054992" value="Gelehrtheit, Geschicklichkeitsstufe: 5"/>
+<label key="1879054993" value="Gelehrtheit, Beherrschungsstufe: 5"/>
+<label key="1879055089" value="Schmiedekunst, Geschicklichkeitsstufe: 1"/>
+<label key="1879055090" value="Schmiedekunst, Beherrschungsstufe: 1"/>
+<label key="1879055102" value="Schmiedekunst, Geschicklichkeitsstufe: 2"/>
+<label key="1879055103" value="Schmiedekunst, Beherrschungsstufe: 2"/>
+<label key="1879055116" value="Schmiedekunst, Geschicklichkeitsstufe: 3"/>
+<label key="1879055117" value="Schmiedekunst, Beherrschungsstufe: 3"/>
+<label key="1879055131" value="Schmiedekunst, Geschicklichkeitsstufe: 4"/>
+<label key="1879055132" value="Schmiedekunst, Beherrschungsstufe: 4"/>
+<label key="1879055146" value="Schmiedekunst, Geschicklichkeitsstufe: 5"/>
+<label key="1879055147" value="Schmiedekunst, Beherrschungsstufe: 5"/>
+<label key="1879055311" value="Goldschmiedekunst, Geschicklichkeitsstufe: 1"/>
+<label key="1879055312" value="Goldschmiedekunst, Beherrschungsstufe: 1"/>
+<label key="1879055321" value="Goldschmiedekunst, Geschicklichkeitsstufe: 2"/>
+<label key="1879055322" value="Goldschmiedekunst, Beherrschungsstufe: 2"/>
+<label key="1879055331" value="Goldschmiedekunst, Geschicklichkeitsstufe: 3"/>
+<label key="1879055332" value="Goldschmiedekunst, Beherrschungsstufe: 3"/>
+<label key="1879055341" value="Goldschmiedekunst, Geschicklichkeitsstufe: 4"/>
+<label key="1879055342" value="Goldschmiedekunst, Beherrschungsstufe: 4"/>
+<label key="1879055350" value="Goldschmiedekunst, Geschicklichkeitsstufe: 5"/>
+<label key="1879055351" value="Goldschmiedekunst, Beherrschungsstufe: 5"/>
+<label key="1879055488" value="Schneiderhandwerk, Geschicklichkeitsstufe: 1"/>
+<label key="1879055489" value="Schneiderhandwerk, Beherrschungsstufe: 1"/>
+<label key="1879055506" value="Schneiderhandwerk, Geschicklichkeitsstufe: 2"/>
+<label key="1879055507" value="Schneiderhandwerk, Beherrschungsstufe: 2"/>
+<label key="1879055525" value="Schneiderhandwerk, Geschicklichkeitsstufe: 3"/>
+<label key="1879055526" value="Schneiderhandwerk, Beherrschungsstufe: 3"/>
+<label key="1879055545" value="Schneiderhandwerk, Geschicklichkeitsstufe: 4"/>
+<label key="1879055546" value="Schneiderhandwerk, Beherrschungsstufe: 4"/>
+<label key="1879055565" value="Schneiderhandwerk, Geschicklichkeitsstufe: 5"/>
+<label key="1879055566" value="Schneiderhandwerk, Beherrschungsstufe: 5"/>
+<label key="1879055787" value="Waffenschmiedekunst, Geschicklichkeitsstufe: 1"/>
+<label key="1879055788" value="Waffenschmiedekunst, Beherrschungsstufe: 1"/>
+<label key="1879055798" value="Waffenschmiedekunst, Geschicklichkeitsstufe: 2"/>
+<label key="1879055799" value="Waffenschmiedekunst, Beherrschungsstufe: 2"/>
+<label key="1879055810" value="Waffenschmiedekunst, Geschicklichkeitsstufe: 3"/>
+<label key="1879055811" value="Waffenschmiedekunst, Beherrschungsstufe: 3"/>
+<label key="1879055823" value="Waffenschmiedekunst, Geschicklichkeitsstufe: 4"/>
+<label key="1879055824" value="Waffenschmiedekunst, Beherrschungsstufe: 4"/>
+<label key="1879055836" value="Waffenschmiedekunst, Geschicklichkeitsstufe: 5"/>
+<label key="1879055837" value="Waffenschmiedekunst, Beherrschungsstufe: 5"/>
+<label key="1879055951" value="Drechslerkunst, Geschicklichkeitsstufe: 1"/>
+<label key="1879055952" value="Drechslerkunst, Beherrschungsstufe: 1"/>
+<label key="1879055962" value="Drechslerkunst, Geschicklichkeitsstufe: 2"/>
+<label key="1879055963" value="Drechslerkunst, Beherrschungsstufe: 2"/>
+<label key="1879055974" value="Drechslerkunst, Geschicklichkeitsstufe: 3"/>
+<label key="1879055975" value="Drechslerkunst, Beherrschungsstufe: 3"/>
+<label key="1879055987" value="Drechslerkunst, Geschicklichkeitsstufe: 4"/>
+<label key="1879055988" value="Drechslerkunst, Beherrschungsstufe: 4"/>
+<label key="1879056000" value="Drechslerkunst, Geschicklichkeitsstufe: 5"/>
+<label key="1879056001" value="Drechslerkunst, Beherrschungsstufe: 5"/>
+<label key="1879056133" value="Verwendung von Licht"/>
+<label key="1879059852" value="Grimmige Schläge"/>
+<label key="1879059868" value="Kämpft weiter!"/>
+<label key="1879059880" value="Klingenexplosion"/>
+<label key="1879059892" value="Kontrolliertes Verbrennen"/>
+<label key="1879059926" value="Runenverwendung"/>
+<label key="1879059934" value="Intensiver Schildeinsatz"/>
+<label key="1879059942" value="Bösartige Schläge"/>
+<label key="1879060105" value="Parierte Schläge"/>
+<label key="1879060110" value="Abgelenkte Schläge"/>
+<label key="1879060116" value="Schilddorn-Verwendung"/>
+<label key="1879060132" value="Für den König"/>
+<label key="1879060163" value="Schildhieb"/>
+<label key="1879060179" value="Bedrohung des Wächters"/>
+<label key="1879060190" value="Kampfansage an die Dunkelheit"/>
+<label key="1879060248" value="Meister"/>
+<label key="1879060251" value="Sieg des Hauptmanns"/>
+<label key="1879060257" value="Geselle"/>
+<label key="1879060258" value="Adept"/>
+<label key="1879060294" value="Númenors Blut"/>
+<label key="1879060304" value="Auf nun!"/>
+<label key="1879060313" value="Hauptmann des Krieges"/>
+<label key="1879060322" value="Wende"/>
+<label key="1879060328" value="Neue Stimme"/>
+<label key="1879060340" value="Konzentrierte Schläge"/>
+<label key="1879060347" value="Tapferkeit des Hauptmanns"/>
+<label key="1879060378" value="Fürchte keine Dunkelheit"/>
+<label key="1879060386" value="Kräftige Stimme"/>
+<label key="1879060400" value="Hoffnung des Hauptmanns"/>
+<label key="1879060432" value="Meisterliche Angriffe"/>
+<label key="1879060438" value="Abschreckender Schrei"/>
+<label key="1879060444" value="Leise Befehle"/>
+<label key="1879060491" value="Wirbelnde Hiebe"/>
+<label key="1879060496" value="Jähzorn"/>
+<label key="1879060502" value="Tödliche Schläge"/>
+<label key="1879060517" value="Sturmböen"/>
+<label key="1879060519" value="Gewappnet gegen die Niederlage."/>
+<label key="1879060524" value="Blutgier"/>
+<label key="1879060527" value="Ruf der Wildnis"/>
+<label key="1879060534" value="Robuste Klinge"/>
+<label key="1879060538" value="Tiefe Schläge"/>
+<label key="1879060543" value="Bereitschaft"/>
+<label key="1879060545" value="Auge des Sturms"/>
+<label key="1879060548" value="Brennender Zorn"/>
+<label key="1879060552" value="Große Verzweiflung"/>
+<label key="1879060556" value="Geduld"/>
+<label key="1879060569" value="Stechender Stoß"/>
+<label key="1879060574" value="Aktives Blocken"/>
+<label key="1879060583" value="Wächterschild"/>
+<label key="1879060592" value="Verteidigungsexperte"/>
+<label key="1879060606" value="Kontrollierte Atmung"/>
+<label key="1879060619" value="Verachtung"/>
+<label key="1879060625" value="Rettung"/>
+<label key="1879060629" value="Schnelligkeit"/>
+<label key="1879060632" value="Erbitterte Kampfansage"/>
+<label key="1879060635" value="Selbstlose Verteidigung"/>
+<label key="1879060645" value="Gelassenheit"/>
+<label key="1879060649" value="Kräftige Lunge"/>
+<label key="1879060653" value="Tapferes Herz"/>
+<label key="1879060661" value="Eifer des Gefechts"/>
+<label key="1879060668" value="Stabile Fallen"/>
+<label key="1879060680" value="Schnelle Erholung"/>
+<label key="1879060682" value="Stechende Wut"/>
+<label key="1879060684" value="Flink und genau"/>
+<label key="1879060686" value="Starke Sehne"/>
+<label key="1879060688" value="Geschärfte Sinne"/>
+<label key="1879060696" value="Pfeilsturm"/>
+<label key="1879060700" value="Pfeilhagel"/>
+<label key="1879060703" value="Hohe Konzentration"/>
+<label key="1879060708" value="Tödliche Präzision"/>
+<label key="1879060712" value="Genauer Schuss"/>
+<label key="1879060714" value="Anmutig ziehen"/>
+<label key="1879060717" value="Heimlicher Schuss"/>
+<label key="1879060724" value="Rasche Erholung"/>
+<label key="1879060750" value="Meister des Stabes"/>
+<label key="1879060759" value="Macht und Weisheit"/>
+<label key="1879060772" value="Das Licht der Hoffnung"/>
+<label key="1879060780" value="Herr der Kreaturen"/>
+<label key="1879060784" value="Umfassendes Wissen"/>
+<label key="1879060787" value="Heiler"/>
+<label key="1879060794" value="Kreaturenkunde"/>
+<label key="1879060801" value="Dúnedain-Lehren"/>
+<label key="1879060804" value="In Einklang mit der Natur"/>
+<label key="1879060812" value="Körperbewusstheit"/>
+<label key="1879060819" value="Unauffällige Weisheit"/>
+<label key="1879060825" value="Heilung aller Krankheiten"/>
+<label key="1879060832" value="Wissen über die Vergangenheit"/>
+<label key="1879060844" value="Adept der Magie"/>
+<label key="1879060864" value="Kraft der Stimme"/>
+<label key="1879060869" value="Schlachthymne"/>
+<label key="1879060877" value="Angekündigter Retter"/>
+<label key="1879060889" value="Harmonische Melodie"/>
+<label key="1879060891" value="Hammer des Herolds"/>
+<label key="1879060893" value="Sanfte Stimme"/>
+<label key="1879060895" value="Mächtige Stimme"/>
+<label key="1879060897" value="Lebenssänger"/>
+<label key="1879060899" value="Unerbittlich"/>
+<label key="1879060901" value="Konzentrierte Ausführung"/>
+<label key="1879060905" value="Licht im Dunklen"/>
+<label key="1879060910" value="Anmutiges Verhalten"/>
+<label key="1879060915" value="Silberne Zunge"/>
+<label key="1879060920" value="Geschickte Bewegungen"/>
+<label key="1879060939" value="Täuschende Wunde"/>
+<label key="1879060948" value="Flink und raffiniert"/>
+<label key="1879060953" value="Verblüffendes Rätsel"/>
+<label key="1879060959" value="Verborgener Dolch"/>
+<label key="1879060962" value="Scharfes Auge"/>
+<label key="1879060965" value="Flinker Schritt"/>
+<label key="1879060968" value="Blender"/>
+<label key="1879060979" value="Angriff aus den Schatten"/>
+<label key="1879060982" value="Fußpolster"/>
+<label key="1879060987" value="Behindernder Angriff"/>
+<label key="1879060993" value="Opportunist"/>
+<label key="1879060999" value="Übermacht"/>
+<label key="1879061006" value="Windschritt"/>
+<label key="1879061017" value="Blinde Wut"/>
+<label key="1879061263" value="Kochkunst, Geschicklichkeitsstufe: 1"/>
+<label key="1879061264" value="Kochkunst, Beherrschungsstufe: 1"/>
+<label key="1879061274" value="Kochkunst, Geschicklichkeitsstufe: 2"/>
+<label key="1879061275" value="Kochkunst, Beherrschungsstufe: 2"/>
+<label key="1879061286" value="Kochkunst, Geschicklichkeitsstufe: 3"/>
+<label key="1879061287" value="Kochkunst, Beherrschungsstufe: 3"/>
+<label key="1879061298" value="Kochkunst, Geschicklichkeitsstufe: 4"/>
+<label key="1879061299" value="Kochkunst, Beherrschungsstufe: 4"/>
+<label key="1879061310" value="Kochkunst, Geschicklichkeitsstufe: 5"/>
+<label key="1879061311" value="Kochkunst, Beherrschungsstufe: 5"/>
+<label key="1879061991" value="Zugang zu überragender Schmiede"/>
+<label key="1879062250" value="Zugang zu besserem Ofen"/>
+<label key="1879062411" value="Zugang zu überragenden Studierstuben"/>
+<label key="1879062506" value="Schwert und Stab"/>
+<label key="1879062692" value="Zugang zu besserer Werkbank"/>
+<label key="1879062819" value="Minen aufspüren"/>
+<label key="1879062822" value="Schürfkunst, Geschicklichkeitsstufe: 1"/>
+<label key="1879062823" value="Schürfkunst, Beherrschungsstufe: 1"/>
+<label key="1879062828" value="Schürfkunst, Geschicklichkeitsstufe: 2"/>
+<label key="1879062829" value="Schürfkunst, Beherrschungsstufe: 2"/>
+<label key="1879062835" value="Schürfkunst, Geschicklichkeitsstufe: 3"/>
+<label key="1879062836" value="Schürfkunst, Beherrschungsstufe: 3"/>
+<label key="1879062843" value="Schürfkunst, Geschicklichkeitsstufe: 4"/>
+<label key="1879062844" value="Schürfkunst, Beherrschungsstufe: 4"/>
+<label key="1879062851" value="Schürfkunst, Geschicklichkeitsstufe: 5"/>
+<label key="1879062852" value="Schürfkunst, Beherrschungsstufe: 5"/>
+<label key="1879062870" value="Holz aufspüren"/>
+<label key="1879062873" value="Forstwesen, Geschicklichkeitsstufe: 1"/>
+<label key="1879062874" value="Forstwesen, Beherrschungsstufe: 1"/>
+<label key="1879062879" value="Forstwesen, Geschicklichkeitsstufe: 2"/>
+<label key="1879062880" value="Forstwesen, Beherrschungsstufe: 2"/>
+<label key="1879062885" value="Forstwesen, Geschicklichkeitsstufe: 3"/>
+<label key="1879062886" value="Forstwesen, Beherrschungsstufe: 3"/>
+<label key="1879062891" value="Forstwesen, Geschicklichkeitsstufe: 4"/>
+<label key="1879062892" value="Forstwesen, Beherrschungsstufe: 4"/>
+<label key="1879062897" value="Forstwesen, Geschicklichkeitsstufe: 5"/>
+<label key="1879062898" value="Forstwesen, Beherrschungsstufe: 5"/>
+<label key="1879062909" value="Feldfrüchte aufspüren"/>
+<label key="1879062912" value="Landwirtschaft, Geschicklichkeitsstufe: 1"/>
+<label key="1879062913" value="Landwirtschaft, Beherrschungsstufe: 1"/>
+<label key="1879062925" value="Landwirtschaft, Geschicklichkeitsstufe: 2"/>
+<label key="1879062926" value="Landwirtschaft, Beherrschungsstufe: 2"/>
+<label key="1879062935" value="Landwirtschaft, Geschicklichkeitsstufe: 3"/>
+<label key="1879062936" value="Landwirtschaft, Beherrschungsstufe: 3"/>
+<label key="1879062945" value="Landwirtschaft, Geschicklichkeitsstufe: 4"/>
+<label key="1879062946" value="Landwirtschaft, Beherrschungsstufe: 4"/>
+<label key="1879062952" value="Landwirtschaft, Geschicklichkeitsstufe: 5"/>
+<label key="1879062953" value="Landwirtschaft, Beherrschungsstufe: 5"/>
+<label key="1879063892" value="Schaden"/>
+<label key="1879063893" value="Lebensenergie"/>
+<label key="1879063894" value="Kraft"/>
+<label key="1879063895" value="Rüstung"/>
+<label key="1879063896" value="Entgehen"/>
+<label key="1879063897" value="Resistenz"/>
+<label key="1879064086" value="Einhändige Äxte"/>
+<label key="1879064087" value="Einhändige Keulen"/>
+<label key="1879064088" value="Einhändige Hämmer"/>
+<label key="1879064089" value="Einhändige Streitkolben"/>
+<label key="1879064090" value="Einhändige Schwerter"/>
+<label key="1879064091" value="Dolche"/>
+<label key="1879064092" value="Kampf mit zwei Waffen"/>
+<label key="1879064093" value="Musikinstrumente"/>
+<label key="1879064094" value="Leichte Rüstung"/>
+<label key="1879064095" value="Mittlere Rüstung"/>
+<label key="1879064096" value="Hornverwendung"/>
+<label key="1879064097" value="Parieren: Stufe 1"/>
+<label key="1879064098" value="Ausweichen: Stufe 1"/>
+<label key="1879064099" value="Zweihändige Äxte"/>
+<label key="1879064100" value="Zweihändige Hämmer"/>
+<label key="1879064101" value="Zweihändige Schwerter"/>
+<label key="1879064102" value="Speere"/>
+<label key="1879064103" value="Kritisch (Nahkampf): Stufe 1"/>
+<label key="1879064104" value="Genauigkeit: Stufe 1"/>
+<label key="1879064105" value="Schilde"/>
+<label key="1879064106" value="Ausweichen: Stufe 2"/>
+<label key="1879064107" value="Parieren: Stufe 2"/>
+<label key="1879064108" value="Bogen"/>
+<label key="1879064109" value="Schwere Rüstung"/>
+<label key="1879064110" value="Blocken: Stufe 1"/>
+<label key="1879064111" value="Kritisch (Nahkampf): Stufe 2"/>
+<label key="1879064112" value="Blocken: Stufe 2"/>
+<label key="1879064113" value="Genauigkeit: Stufe 2"/>
+<label key="1879064114" value="Parieren: Stufe 3"/>
+<label key="1879064115" value="Ausweichen: Stufe 3"/>
+<label key="1879064116" value="Blocken: Stufe 3"/>
+<label key="1879064118" value="Blocken: Stufe 4"/>
+<label key="1879064119" value="Genauigkeit: Stufe 3"/>
+<label key="1879064120" value="Parieren: Stufe 4"/>
+<label key="1879064121" value="Ausweichen: Stufe 4"/>
+<label key="1879064122" value="Genauigkeit: Stufe 4"/>
+<label key="1879064155" value="Zweihändige Keulen"/>
+<label key="1879064156" value="Kritisch (Nahkampf): Stufe 1"/>
+<label key="1879064157" value="Blocken: Stufe 1"/>
+<label key="1879064158" value="Genauigkeit: Stufe 1"/>
+<label key="1879064159" value="Ausweichen: Stufe 1"/>
+<label key="1879064160" value="Hellebarden"/>
+<label key="1879064161" value="Blocken: Stufe 2"/>
+<label key="1879064162" value="Kritisch (Nahkampf): Stufe 2"/>
+<label key="1879064163" value="Parieren: Stufe 1"/>
+<label key="1879064165" value="Blocken: Stufe 3"/>
+<label key="1879064166" value="Parieren: Stufe 2"/>
+<label key="1879064168" value="Genauigkeit: Stufe 2"/>
+<label key="1879064169" value="Parieren: Stufe 3"/>
+<label key="1879064170" value="Genauigkeit: Stufe 3"/>
+<label key="1879064171" value="Genauigkeit: Stufe 4"/>
+<label key="1879064172" value="Parieren: Stufe 4"/>
+<label key="1879064173" value="Verwenden des Beschwörungshorns"/>
+<label key="1879064210" value="Lautenverwendung"/>
+<label key="1879064211" value="Klarinettenverwendung"/>
+<label key="1879064212" value="Flötenverwendung"/>
+<label key="1879064213" value="Harfenverwendung"/>
+<label key="1879064214" value="Ausweichen: Stufe 1"/>
+<label key="1879064215" value="Ausweichen: Stufe 2"/>
+<label key="1879064216" value="Ausweichen: Stufe 3"/>
+<label key="1879064217" value="Blocken: Stufe 1"/>
+<label key="1879064218" value="Blocken: Stufe 2"/>
+<label key="1879064219" value="Blocken: Stufe 3"/>
+<label key="1879064220" value="Blocken: Stufe 4"/>
+<label key="1879064221" value="Genauigkeit: Stufe 1"/>
+<label key="1879064222" value="Genauigkeit: Stufe 2"/>
+<label key="1879064223" value="Genauigkeit: Stufe 3"/>
+<label key="1879064224" value="Genauigkeit: Stufe 4"/>
+<label key="1879064225" value="Kritisch (Nahkampf): Stufe 1"/>
+<label key="1879064226" value="Kritisch (Nahkampf): Stufe 2"/>
+<label key="1879064227" value="Kritisch (Nahkampf): Stufe 3"/>
+<label key="1879064228" value="Kritisch (Nahkampf): Stufe 4"/>
+<label key="1879064229" value="Parieren: Stufe 1"/>
+<label key="1879064230" value="Parieren: Stufe 2"/>
+<label key="1879064231" value="Parieren: Stufe 3"/>
+<label key="1879064259" value="Zweihändige Knüppel"/>
+<label key="1879064260" value="Ausweichen: Stufe 1"/>
+<label key="1879064261" value="Parieren: Stufe 1"/>
+<label key="1879064262" value="Genauigkeit: Stufe 1"/>
+<label key="1879064263" value="Kritisch (Nahkampf): Stufe 1"/>
+<label key="1879064264" value="Parieren: Stufe 2"/>
+<label key="1879064265" value="Genauigkeit: Stufe 2"/>
+<label key="1879064267" value="Kritisch (Nahkampf): Stufe 2"/>
+<label key="1879064268" value="Ausweichen: Stufe 2"/>
+<label key="1879064269" value="Parieren: Stufe 3"/>
+<label key="1879064271" value="Genauigkeit: Stufe 3"/>
+<label key="1879064273" value="Genauigkeit: Stufe 4"/>
+<label key="1879064274" value="Ausweichen: Stufe 3"/>
+<label key="1879064298" value="Armbrüste"/>
+<label key="1879064299" value="Schwere Schilde"/>
+<label key="1879064300" value="Genauigkeit: Stufe 1"/>
+<label key="1879064301" value="Genauigkeit: Stufe 2"/>
+<label key="1879064302" value="Genauigkeit: Stufe 3"/>
+<label key="1879064303" value="Genauigkeit: Stufe 4"/>
+<label key="1879064304" value="Blocken: Stufe 1"/>
+<label key="1879064305" value="Blocken: Stufe 2"/>
+<label key="1879064306" value="Blocken: Stufe 3"/>
+<label key="1879064307" value="Blocken: Stufe 4"/>
+<label key="1879064308" value="Kritisch (Nahkampf): Stufe 1"/>
+<label key="1879064309" value="Kritisch (Nahkampf): Stufe 2"/>
+<label key="1879064312" value="Ausweichen: Stufe 1"/>
+<label key="1879064313" value="Ausweichen: Stufe 2"/>
+<label key="1879064314" value="Parieren: Stufe 1"/>
+<label key="1879064315" value="Parieren: Stufe 2"/>
+<label key="1879064316" value="Parieren: Stufe 3"/>
+<label key="1879064317" value="Parieren: Stufe 4"/>
+<label key="1879064344" value="Genauigkeit: Stufe 1"/>
+<label key="1879064345" value="Genauigkeit: Stufe 2"/>
+<label key="1879064346" value="Genauigkeit: Stufe 3"/>
+<label key="1879064347" value="Genauigkeit: Stufe 4"/>
+<label key="1879064348" value="Kritisch (Nahkampf): Stufe 1"/>
+<label key="1879064349" value="Kritisch (Nahkampf): Stufe 2"/>
+<label key="1879064350" value="Kritisch (Nahkampf): Stufe 3"/>
+<label key="1879064351" value="Kritisch (Nahkampf): Stufe 4"/>
+<label key="1879064352" value="Ausweichen: Stufe 1"/>
+<label key="1879064353" value="Ausweichen: Stufe 2"/>
+<label key="1879064354" value="Ausweichen: Stufe 3"/>
+<label key="1879064355" value="Ausweichen: Stufe 4"/>
+<label key="1879064356" value="Parieren: Stufe 1"/>
+<label key="1879064357" value="Parieren: Stufe 2"/>
+<label key="1879064358" value="Parieren: Stufe 3"/>
+<label key="1879064359" value="Parieren: Stufe 4"/>
+<label key="1879064400" value="Verbesserte Reichweite"/>
+<label key="1879064401" value="Ausweichen: Stufe 1"/>
+<label key="1879064402" value="Kritisch (Fernkampf): Stufe 1"/>
+<label key="1879064403" value="Fernangriffen ausweichen: Stufe 1"/>
+<label key="1879064404" value="Parieren: Stufe 1"/>
+<label key="1879064405" value="Genauigkeit: Stufe 1"/>
+<label key="1879064406" value="Fernangriffen ausweichen: Stufe 2"/>
+<label key="1879064407" value="Ausweichen: Stufe 2"/>
+<label key="1879064408" value="Fernangriffen ausweichen: Stufe 3"/>
+<label key="1879064409" value="Parieren: Stufe 2"/>
+<label key="1879064410" value="Genauigkeit: Stufe 2"/>
+<label key="1879064411" value="Fernangriffen ausweichen: Stufe 4"/>
+<label key="1879064412" value="Kritisch (Fernkampf): Stufe 2"/>
+<label key="1879064413" value="Genauigkeit: Stufe 3"/>
+<label key="1879064414" value="Parieren: Stufe 3"/>
+<label key="1879064415" value="Ausweichen: Stufe 3"/>
+<label key="1879064416" value="Genauigkeit: Stufe 4"/>
+<label key="1879064417" value="Kritisch (Fernkampf): Stufe 3"/>
+<label key="1879064418" value="Parieren: Stufe 4"/>
+<label key="1879064419" value="Kritisch (Fernkampf): Stufe 4"/>
+<label key="1879064420" value="Ausweichen: Stufe 4"/>
+<label key="1879072425" value="Verbesserung: Kraft"/>
+<label key="1879072426" value="Verbesserung: Resistenz"/>
+<label key="1879072427" value="Schnelle Schläge"/>
+<label key="1879072428" value="Brennende Klingen"/>
+<label key="1879072429" value="Verbesserte Fertigkeit: Zerfurchter Schnitt"/>
+<label key="1879072430" value="Verbesserte Fertigkeit: Ruhm durch Sieg"/>
+<label key="1879072431" value="Verbesserte Fertigkeit: Verheerender Schlag"/>
+<label key="1879072432" value="Fortgeschrittene Fertigkeit: Unverwüstlichkeit"/>
+<label key="1879072435" value="Aussehen 1"/>
+<label key="1879072436" value="Aussehen 2"/>
+<label key="1879072437" value="Aussehen 3"/>
+<label key="1879072438" value="Aussehen 4"/>
+<label key="1879072439" value="Aussehen 5"/>
+<label key="1879072440" value="Aussehen 6"/>
+<label key="1879072441" value="Verbesserung: Lebensenergie"/>
+<label key="1879072442" value="Verbesserung: Rüstung"/>
+<label key="1879072443" value="Regeneration"/>
+<label key="1879072444" value="Flinker Weber"/>
+<label key="1879072445" value="Verbesserte Fertigkeit: Piercing Attack"/>
+<label key="1879072446" value="Verbesserte Fertigkeit: Unreiner Kuss"/>
+<label key="1879072447" value="Stahlnetze"/>
+<label key="1879072448" value="Fortgeschrittene Fertigkeit: Klebrige Netze"/>
+<label key="1879072451" value="Aussehen 1"/>
+<label key="1879072452" value="Aussehen 2"/>
+<label key="1879072453" value="Aussehen 3"/>
+<label key="1879072454" value="Aussehen 4"/>
+<label key="1879072455" value="Aussehen 5"/>
+<label key="1879072456" value="Aussehen 6"/>
+<label key="1879072457" value="Verbesserung: Entgehen"/>
+<label key="1879072458" value="Verbesserung: Resistenz"/>
+<label key="1879072459" value="Todbringendes Zielen"/>
+<label key="1879072460" value="Unheimliche Reaktionen"/>
+<label key="1879072461" value="Verbesserte Fertigkeit: Behindernder Schuss"/>
+<label key="1879072462" value="Durchdringende Pfeile"/>
+<label key="1879072463" value="Schnelles Ziehen"/>
+<label key="1879072464" value="Fortgeschrittene Fertigkeit: Falle stellen"/>
+<label key="1879072467" value="Aussehen 1"/>
+<label key="1879072468" value="Aussehen 2"/>
+<label key="1879072469" value="Aussehen 3"/>
+<label key="1879072470" value="Aussehen 4"/>
+<label key="1879072471" value="Aussehen 5"/>
+<label key="1879072472" value="Aussehen 6"/>
+<label key="1879072473" value="Verbesserung: Schaden"/>
+<label key="1879072474" value="Verbesserung: Entgehen"/>
+<label key="1879072475" value="Befähigen"/>
+<label key="1879072476" value="Schildmeisterschaft"/>
+<label key="1879072477" value="Verbesserte Fertigkeit: Auf die Beine!"/>
+<label key="1879072478" value="Barsche Redeweise"/>
+<label key="1879072479" value="Verbesserte Fertigkeit: Beförderung auf dem Feld"/>
+<label key="1879072480" value="Fortgeschrittene Fertigkeit: Rührt Euch!"/>
+<label key="1879072483" value="Aussehen 1"/>
+<label key="1879072484" value="Aussehen 2"/>
+<label key="1879072485" value="Aussehen 3"/>
+<label key="1879072486" value="Aussehen 4"/>
+<label key="1879072487" value="Aussehen 5"/>
+<label key="1879072488" value="Aussehen 6"/>
+<label key="1879072489" value="Verbesserung: Rüstung"/>
+<label key="1879072490" value="Verbesserung: Resistenz"/>
+<label key="1879072491" value="Große Schrittweite"/>
+<label key="1879072492" value="Schattenfang"/>
+<label key="1879072493" value="Verbesserte Fertigkeit: Schleichen"/>
+<label key="1879072494" value="Verbesserte Fertigkeit: Sprint"/>
+<label key="1879072495" value="Das Überraschungsmoment"/>
+<label key="1879072496" value="Fortgeschrittene Fertigkeit: Schlachtgeheul"/>
+<label key="1879072499" value="Aussehen 1"/>
+<label key="1879072500" value="Aussehen 2"/>
+<label key="1879072501" value="Aussehen 3"/>
+<label key="1879072502" value="Aussehen 4"/>
+<label key="1879072503" value="Aussehen 5"/>
+<label key="1879072505" value="Schaden für Lebensenergie (Stufe 1)"/>
+<label key="1879072506" value="Schaden für Kraft (Stufe 1)"/>
+<label key="1879072507" value="Lebensenergie für Schaden (Stufe 1)"/>
+<label key="1879072508" value="Lebensenergie für Kraft (Stufe 1)"/>
+<label key="1879072509" value="Kraft für Schaden (Stufe 1)"/>
+<label key="1879072510" value="Kraft für Lebensenergie (Stufe 1)"/>
+<label key="1879072511" value="Verbesserung: Allgemeine Schadensminderung (Stufe 1)"/>
+<label key="1879072512" value="Verbesserung: Feuerlinderung (Stufe 1)"/>
+<label key="1879072513" value="Verbesserung: Lichtlinderung (Stufe 1)"/>
+<label key="1879072514" value="Verbesserung: Schadensreduzierung gegen uralte Zwergenwaffen (Stufe 1)"/>
+<label key="1879072515" value="Verbesserung: Schadensreduzierung gegen Beleriand-Waffen (Stufe 1)"/>
+<label key="1879072516" value="Verbesserung: Schadensreduzierung gegen Westernis-Waffen (Stufe 1)"/>
+<label key="1879072517" value="Verbesserung: Liedresistenz (Stufe 1)"/>
+<label key="1879072518" value="Verbesserung: Schreiresistenz (Stufe 1)"/>
+<label key="1879072519" value="Verbesserung: Taktikresistenz (Stufe 1)"/>
+<label key="1879072520" value="Verbesserung: physische Resistenz (Stufe 1)"/>
+<label key="1879072521" value="Verbesserung: Schleich-Erkennung"/>
+<label key="1879072873" value="Barmherzigkeit"/>
+<label key="1879072874" value="Mitgefühl"/>
+<label key="1879072875" value="Selbstvertrauen"/>
+<label key="1879072876" value="Entschlossenheit"/>
+<label key="1879072877" value="Disziplin"/>
+<label key="1879072878" value="Einfühlungsvermögen"/>
+<label key="1879072879" value="Treue"/>
+<label key="1879072880" value="Standhaftigkeit"/>
+<label key="1879072881" value="Aufrichtigkeit"/>
+<label key="1879072882" value="Ehre"/>
+<label key="1879072883" value="Idealismus"/>
+<label key="1879072884" value="Gerechtigkeit"/>
+<label key="1879072885" value="Loyalität"/>
+<label key="1879072886" value="Gnade"/>
+<label key="1879072887" value="Geduld"/>
+<label key="1879072888" value="Unschuld"/>
+<label key="1879072889" value="Toleranz"/>
+<label key="1879072890" value="Tapferkeit"/>
+<label key="1879072891" value="Weisheit"/>
+<label key="1879072892" value="Eifer"/>
+<label key="1879073451" value="Geringe Größe"/>
+<label key="1879073452" value="Robust wie ein Hobbit"/>
+<label key="1879073453" value="Schnelle Erholung"/>
+<label key="1879073454" value="Tapfer wie ein Hobbit"/>
+<label key="1879073455" value="Verderbtheit widerstehen"/>
+<label key="1879073469" value="Stein aufheben."/>
+<label key="1879073473" value="Bonus: List und Überzeugung"/>
+<label key="1879073475" value="Hobbit: Bonus auf Keulenschaden"/>
+<label key="1879073477" value="Hobbit-Statur"/>
+<label key="1879073479" value="Rückkehr nach Michelbinge"/>
+<label key="1879073483" value="Rückkehr nach Bruchtal"/>
+<label key="1879073485" value="Widerstandsf. d. Hobbits"/>
+<label key="1879073490" value="Hobbit-Schleichen"/>
+<label key="1879073494" value="Hobbit-Stille"/>
+<label key="1879073502" value="Gabe Ilúvatars"/>
+<label key="1879073503" value="Schwäche der Menschen"/>
+<label key="1879073504" value="Leicht inspiriert"/>
+<label key="1879073505" value="Starke Menschen"/>
+<label key="1879073515" value="Aufwärtshaken"/>
+<label key="1879073519" value="Bonus: Taktik und Macht"/>
+<label key="1879073521" value="Mensch: Bonus auf Schwertschaden"/>
+<label key="1879073523" value="Mensch des Vierten Zeitalters"/>
+<label key="1879073525" value="Rückkehr nach Bree"/>
+<label key="1879073529" value="Verpflichtet"/>
+<label key="1879073534" value="Ausgewogenheit der Menschen"/>
+<label key="1879073536" value="Stärke der Moral"/>
+<label key="1879073545" value="Leid des Erstgeborenen"/>
+<label key="1879073546" value="Beweglichkeit des Waldes"/>
+<label key="1879073547" value="Verschwinden der Erstgeborenen"/>
+<label key="1879073548" value="Immun gegen Krankheit"/>
+<label key="1879073558" value="Schatten der Silvan"/>
+<label key="1879073561" value="Bonus: Taktik und Überzeugung"/>
+<label key="1879073563" value="Elb: Bonus auf Bogenschaden"/>
+<label key="1879073565" value="Menschenfreund"/>
+<label key="1879073570" value="Anmut der Eldar"/>
+<label key="1879073574" value="Elb: Bonus auf Schaden mit einhändigem Schwert"/>
+<label key="1879073576" value="Kraft der Eldar"/>
+<label key="1879073582" value="Zähigkeit"/>
+<label key="1879073583" value="Untersetzt"/>
+<label key="1879073584" value="Verlorenes Königreich der Zwerge"/>
+<label key="1879073585" value="Unermüdlich im Kampf"/>
+<label key="1879073595" value="Kopfstoß"/>
+<label key="1879073599" value="List- und Machtbonus"/>
+<label key="1879073601" value="Zwerg: Bonus auf Axtschaden"/>
+<label key="1879073603" value="Auserwählter Zwerg"/>
+<label key="1879073605" value="Rückkehr zu Thorins Tor"/>
+<label key="1879073609" value="Steinerne Ausdauer"/>
+<label key="1879073613" value="Zwergenausdauer"/>
+<label key="1879076057" value="Raffinierte Hilfsmittel"/>
+<label key="1879076061" value="Schurkenwerkzeug"/>
+<label key="1879076067" value="Bücher des Wissens"/>
+<label key="1879076071" value="Handgefertigte Fallen"/>
+<label key="1879076074" value="Herz der Gefährten"/>
+<label key="1879076104" value="Ausrüstungen"/>
+<label key="1879076155" value="Hörner der Tapferkeit"/>
+<label key="1879076358" value="Schildschläger"/>
+<label key="1879084084" value="Ausweichen: Stufe 2"/>
+<label key="1879088470" value="Einsatz von Trommeln"/>
+<label key="1879088471" value="Einsatz von Theorben"/>
+<label key="1879090925" value="Bogengesänge"/>
+<label key="1879091351" value="Schaden für Lebensenergie (Stufe 2)"/>
+<label key="1879091352" value="Schaden für Kraft (Stufe 2)"/>
+<label key="1879091353" value="Lebensenergie für Schaden (Stufe 2)"/>
+<label key="1879091354" value="Lebensenergie für Kraft (Stufe 2)"/>
+<label key="1879091355" value="Kraft für Schaden (Stufe 2)"/>
+<label key="1879091356" value="Kraft für Lebensenergie (Stufe 2)"/>
+<label key="1879091357" value="Verbesserung: Schadensreduzierung gegen uralte Zwergenwaffen (Stufe 2)"/>
+<label key="1879091358" value="Verbesserung: Schadensreduzierung gegen Beleriand-Waffen (Stufe 2)"/>
+<label key="1879091359" value="Verbesserung: allgemeine Schadensreduzierung (Stufe 2)"/>
+<label key="1879091360" value="Verbesserung: Feuerlinderung (Stufe 2)"/>
+<label key="1879091361" value="Verbesserung: Lichtlinderung (Stufe 2)"/>
+<label key="1879091362" value="Verbesserung: Schadensreduzierung gegen Westernis-Waffen (Stufe 2)"/>
+<label key="1879091363" value="Verbesserung: Schreiresistenz (Stufe 2)"/>
+<label key="1879091364" value="Verbesserung: Taktikresistenz (Stufe 2)"/>
+<label key="1879091365" value="Verbesserung: Physische Resistenz (Stufe 2)"/>
+<label key="1879091366" value="Verbesserung: Liedresistenz (Stufe 2)"/>
+<label key="1879092949" value="Tugendhafter Mensch"/>
+<label key="1879092950" value="Tugendhafter Zwerg"/>
+<label key="1879092951" value="Tugendhafter Elb"/>
+<label key="1879092952" value="Tugendhafter Hobbit"/>
+<label key="1879093046" value="Artefakte aufspüren"/>
+<label key="1879093481" value="Jagdführer"/>
+<label key="1879097466" value="Verwendung: Dudelsack"/>
+<label key="1879097468" value="Verwendung: einfache Kuhglocken"/>
+<label key="1879097470" value="Verwendung: Moorkuh-Glocken"/>
+<label key="1879101492" value="Freund der Wildnis"/>
+<label key="1879101513" value="Heim in Breeland"/>
+<label key="1879101514" value="Heim in Breeland"/>
+<label key="1879101515" value="Breeland, Sippenhalle"/>
+<label key="1879101516" value="Heim in Falathlorn"/>
+<label key="1879101517" value="Heim in Falathlorn"/>
+<label key="1879101518" value="Falathlorn, Sippenhalle"/>
+<label key="1879101519" value="Heim im Auenland"/>
+<label key="1879101520" value="Heim im Auenland"/>
+<label key="1879101521" value="Auenland-Sippenhalle"/>
+<label key="1879101522" value="Heim in Thorins Halle"/>
+<label key="1879101523" value="Heim in Thorins Halle"/>
+<label key="1879101524" value="Thorins Halle, Sippenhalle"/>
+<label key="1879101614" value="Reist zum Haus Eurer Sippe"/>
+<label key="1879101615" value="Reist zu Eurem eigenen Heim"/>
+<label key="1879101895" value="Reitanfänger"/>
+<label key="key:620757613:191029568" value="Man sieht in Euch jemanden, der eines Tages von großer Bedeutung für das Schicksal von Mittelerde sein könnte."/>
+<label key="key:620757613:54354734" value="Man sieht in Euch jemanden, der eines Tages von großer Bedeutung für das Schicksal von Mittelerde sein könnte."/>
+<label key="key:620758784:191029568" value="Ihr seid in der Lage, Reittiere zu benutzen."/>
+<label key="key:620758784:54354734" value="Ihr seid in der Lage, Reittiere zu benutzen."/>
+<label key="key:620759125:106251890" value="Kategoriebonus: Erhöht ${PROPERTY} um ${VALUE}"/>
+<label key="key:620759125:191029568" value="Erhöhte Rüstungsschwächung mit Schwächen aufspüren"/>
+<label key="key:620759125:54354734" value="Ihr vermögt selbst die geringste Schwäche in der Rüstung Eures Feindes zu erkennen, wenn Ihr die Fertigkeit Schwächen aufspüren einsetzt."/>
+<label key="key:620759129:106251890" value="Kategoriebonus: Erhöht ${PROPERTY} um ${PERCENTVALUE}"/>
+<label key="key:620759129:191029568" value="Erhöht den Schaden, der durch die Waffe in Eurer zweiten Hand verursacht wird."/>
+<label key="key:620759129:54354734" value="Ihr könnt die Waffe in Eurer zweiten Hand wirksamer einsetzen und Euren Feinden größeren Schaden zufügen."/>
+<label key="key:620759159:191029568" value="Dieser Effekt ermöglicht Euch, sowohl durch kritische Erwiderungen als auch durch Kampfereignisse der Kategorie 'Ausweichen' kritische Erwiderungen zu erhalten."/>
+<label key="key:620759159:54354734" value="Fertigkeiten, die sonst bei einem kritischen Treffer freigeschaltet werden, werden jetzt ebenfalls freigeschaltet, wenn Ihr einem Angriff erfolgreich ausweicht."/>
+<label key="key:620759185:191029568" value="Nach dem Einsatz Eures zweischneidigen Schlags könnt Ihr zwei Angriffe gegen Euer Ziel durchführen."/>
+<label key="key:620759185:54354734" value="Nach dem Einsatz Eures zweischneidigen Schlags könnt Ihr zwei weitere Angriffe gegen Euer Ziel durchführen."/>
+<label key="key:620759199:106251890" value="Die Zeitspanne, bis 'Zu Fall bringen' erneut verwendet werden kann, wird um ${VALUE} Sekunden verkürzt."/>
+<label key="key:620759199:191029568" value="'Zu Fall bringen' unterbricht das Schleichen nicht mehr und kann schon nach 40 Sekunden wieder benutzt werden."/>
+<label key="key:620759199:54354734" value="'Zu Fall bringen' unterbricht das Schleichen nicht mehr und kann um 40 Sek. schneller wieder benutzt werden."/>
+<label key="key:620759210:191029568" value="Nachdem Ihr den zweischneidigen Schlag eingesetzt habt, erkennt Ihr einen Schwachpunkt, nutzt ihn, verursacht großen Schaden und erhaltet außerdem die Chance, bei Eurem Gegner einen Kombinationszustand auszulösen."/>
+<label key="key:620759210:54354734" value="Nachdem Ihr den 'Zweischneidigen Schlag' eingesetzt habt, führt Ihr einen zusätzlichen Angriff aus, der hohen Schaden verursacht und außerdem mit einer gewissen Wahrscheinlichkeit eine Gelegenheit schafft, Gefährten-Fertigkeiten gegen den Feind einzusetzen."/>
+<label key="key:620759231:106251889" value="Loyalität und Tapferkeit Eurer Begleiter kennen keine Grenzen."/>
+<label key="key:620759231:191029568" value="Eure Begleiter verfügen über eine bessere Moral, größere Angriffskraft und eine bessere Verteidigung. Damit dies wirkt, müsst Ihr den jeweiligen Begleiter erneut herbeirufen."/>
+<label key="key:620759231:54354734" value="Eure Begleiter verfügen über eine bessere Moral, eine größere Angriffskraft, verbesserte kritische Chance, Schleich-Erkennung sowie verbessertes Schleichen und eine bessere Verteidigung. Damit dies wirkt, muss der jeweilige Begleiter erneut herbeigerufen werden."/>
+<label key="key:620759242:191029568" value="Einzig die Eldar und die Zauberer kommen Euch im Wissen um die Natur gleich. Mit dieser Fertigkeit könnt Ihr die Rache der Natur über Eure Feinde bringen."/>
+<label key="key:620759242:54354734" value="Einzig die Eldar und die Zauberer kommen Euch im Wissen um die Natur gleich. Ihr seid in der Lage, die Rache der Natur über Eure Feinde zu bringen."/>
+<label key="key:620759255:191029568" value="Ihr seid ein Freund der Adler und könnt jetzt einen von ihnen zu Eurem Beistand herbeirufen."/>
+<label key="key:620759255:54354734" value="Ihr seid ein Freund der Adler und könnt einen von ihnen zu Eurem Beistand herbeirufen."/>
+<label key="key:620759328:106251890" value="Kategorienbonus: ${PROPERTY} um ${PERCENTVALUE} erhöht"/>
+<label key="key:620759328:106251891" value="Kategorienbonus: ${PROPERTY} um ${PERCENTVALUE} erhöht"/>
+<label key="key:620759328:191029568" value="Eure Feuer-Fertigkeiten fügen größeren Schaden zu."/>
+<label key="key:620759328:54354734" value="Eure Feuer-Fertigkeiten fügen 10 % mehr Schaden zu."/>
+<label key="key:620759337:106251890" value="Kategorienbonus: ${PERCENTVALUE} Prozent auf alle für die Zeichen-Fertigkeiten benötigten Kraftkosten."/>
+<label key="key:620759337:191029568" value="Ihr könnt einen kräftigeren Bären beschwören."/>
+<label key="key:620759337:54354734" value="Die Kraft Eures Bärenfreundes wächst."/>
+<label key="key:620759381:106251891" value="Kategoriebonus: '${PROPERTY}': - ${VALUE}"/>
+<label key="key:620759381:106251892" value="Kategoriebonus: '${PROPERTY}': - ${VALUE}"/>
+<label key="key:620759381:191029568" value="Fokus (Zielen) erhöht sich alle zehn Sekunden um einen Punkt, während Ihr Euch in einer Präzisionshaltung befindet."/>
+<label key="key:620759381:54354734" value="Fokus (Zielen) erhöht sich alle zehn Sekunden um einen Punkt, während Ihr Euch in einer Präzisionshaltung befindet."/>
+<label key="key:620759384:106251891" value="Kategoriebonus: '${PROPERTY}': - ${VALUE}"/>
+<label key="key:620759384:106251892" value="Kategoriebonus: '${PROPERTY}': - ${VALUE}"/>
+<label key="key:620759384:191029568" value="Geringere Spannzeit für Stachelpfeil und Schneller Pfeil."/>
+<label key="key:620759384:54354734" value="Ihr könnt Stachelpfeil und Schneller Bogen schneller abschießen."/>
+<label key="key:620759397:191029568" value="Heilt bei jedem Bogenschuss Kraft"/>
+<label key="key:620759397:54354734" value="Die Rechtschaffenheit Eurer Sache erlaubt Euch, mit jedem erfolgreichen Fernangriff Eure Kraft zu erneuern."/>
+<label key="key:620759410:191029568" value="Ihr schießt mit der Fertigkeit Bards und lasst Eure bösen Feinde vor Angst erzittern."/>
+<label key="key:620759410:54354734" value="Ihr greift mit dem Geschick von Bard dem Bogenschützen an und lasst Eure Feinde vor Angst erzittern."/>
+<label key="key:620759425:191029568" value="Wenn die Not groß ist, kann ein Jäger seine Sachen zusammenpacken und weiterreisen, ohne lange gerastet zu haben. Trotzdem stellt er Kraft und Moral wieder her."/>
+<label key="key:620759425:54354734" value="Wenn die Not groß ist, könnt Ihr weiterreisen, ohne lange gerastet zu haben. Dabei werden Eure Kraft und Moral wiederhergestellt."/>
+<label key="key:620759439:191029568" value="Ihr lasst fünf Dornenpfeile auf Eure Gegner regnen und nagelt so mehrere Ziele fest."/>
+<label key="key:620759439:54354734" value="Ihr lasst fünf Dornenpfeile auf Eure Gegner regnen und nagelt so mehrere Ziele fest."/>
+<label key="key:620759616:191029568" value="Die Künste der Altvorderen sind noch nicht allen Rassen verloren. Ihr könnt denjenigen Hoffnung bringen, deren Moral vollkommen am Boden ist und holt jemanden, der im Kampf besiegt wurde, ins Leben zurück."/>
+<label key="key:620759616:54354734" value="Die Künste der Altvorderen sind noch nicht allen Rassen verloren. Ihr könnt denjenigen Hoffnung bringen, deren Moral vollkommen am Boden ist, indem Ihr einen im Kampf besiegten Gefährten ins Leben zurückholt."/>
+<label key="key:620759629:191029568" value="Erhöht Schaden und Kraftregeneration."/>
+<label key="key:620759629:54354734" value="Mit diesem Lied verringert Ihr kurzzeitig das Grauen Eurer Gefährten."/>
+<label key="key:620759642:191029568" value="Mit diesen Fertigkeiten ist es möglich, ein Lied zu singen, das eine Licht-Bereichswirkung ausübt, die die von ihr betroffenen Kreaturen verlangsamt. Nachdem Ihr ein Lied der Stufe 3 gesungen habt, steht euch ein kurzer Zeitraum zur Verfügung, eine von ihnen zu benutzen und den Balladenzähler zurückzusetzen."/>
+<label key="key:620759642:54354734" value="Ein Lied erklingt, wodurch Eure Gegner mit einem Licht-Wirkungsbereich angegriffen werden, der alle verlangsamt, die getroffen werden. Nachdem Ihr ein Lied der Stufe 3 gespielt habt, steht Euch ein kurzer Zeitraum zum Spielen einer Hymne zur Verfügung, wodurch Euer Balladenzähler auf Stufe 1 zurückgesetzt wird."/>
+<label key="key:620759684:106251890" value="Kategoriebonus: ${PROPERTY} ${VALUE}"/>
+<label key="key:620759684:191029568" value="Verlängert die Dauer der Hymnen, bei denen die Dauer Auswirkungen hat."/>
+<label key="key:620759684:54354734" value="Die Dauer Eurer Hymnen wird um 15 Sek. gesteigert."/>
+<label key="key:620759687:106251890" value="Kategoriebonus: ${PROPERTY} ${VALUE}"/>
+<label key="key:620759687:191029568" value="Ihr könnt mittlere Rüstungen tragen."/>
+<label key="key:620759687:54354734" value="Ihr könnt mittlere Rüstungen tragen."/>
+<label key="key:620759750:191029568" value="Eure Fertigkeit \qFlucht aus der Dunkelheit\q wurde stark verbessert und Euer \qRacheschrei\q kann einen Verbündeten mehr wiederbeleben."/>
+<label key="key:620759750:54354734" value="Eure Fertigkeit \qFlucht aus der Dunkelheit\q wurde stark verbessert und Euer \qRacheschrei\q kann einen Verbündeten mehr wiederbeleben."/>
+<label key="key:620759765:191029568" value="Ihr könnt den Willen der Dúnedain herbeirufen, um einen Gefährten zu beschützen. Dies kostet jedoch die Hälfte Eurer Kraft."/>
+<label key="key:620759765:54354734" value="Ihr könnt einen Gefährten beschützen. Dies kostet jedoch die Hälfte Eurer Kraft."/>
+<label key="key:620759778:191029568" value="Ihr belegt Euren Feind mit einem Fluch, der den Schaden erhöht, den Ihr verursacht."/>
+<label key="key:620759778:54354734" value="Ihr belegt Euren Feind mit einem Fluch, der den Schaden erhöht, den Ihr verursacht."/>
+<label key="key:620759791:191029568" value="Eure Anwesenheit allein genügt, um diejenigen, die sich in Eurer Nähe befinden, zu besseren Leistungen im Kampf anzutreiben."/>
+<label key="key:620759791:54354734" value="Eure Anwesenheit allein genügt, um alle in Eurer Nähe zu größeren Taten im Kampf anzutreiben."/>
+<label key="key:620759813:106251890" value="Kategoriebonus: +${PERCENTVALUE} ${PROPERTY}"/>
+<label key="key:620759813:191029568" value="Erhöht die Dauer von Letztes Gefecht. Danach werdet Ihr geheilt."/>
+<label key="key:620759813:54354734" value="Euer Letztes Gefecht hält nun länger an. Danach werdet Ihr geheilt."/>
+<label key="key:620759817:106251890" value="Kategoriebonus: +${PERCENTVALUE} ${PROPERTY}"/>
+<label key="key:620759817:191029568" value="Euer Herold ist besser gerüstet."/>
+<label key="key:620759817:54354734" value="Euer Herold trägt stabilere Rüstung."/>
+<label key="key:620760756:191029568" value="Ihr könnt ungestört an den steinernen Wächtern vorbeigehen."/>
+<label key="key:620760756:54354734" value="Die schlimmsten Auswirkungen des bedrückenden Willens der grausamen steinernen Wächter prallen an Euch ab."/>
+<label key="key:620761145:191029568" value="Geschicklichkeitsstufe 1 wurde erreicht."/>
+<label key="key:620761145:54354734" value="Geschicklichkeitsstufe 1 wird erreicht."/>
+<label key="key:620761146:191029568" value="Beherrschungsstufe 1 wurde erreicht."/>
+<label key="key:620761146:54354734" value="Beherrschungsstufe 1 wird erreicht."/>
+<label key="key:620761147:191029568" value="Geschicklichkeitsstufe 2 wurde erreicht."/>
+<label key="key:620761147:54354734" value="Geschicklichkeitsstufe 2 wird erreicht."/>
+<label key="key:620761148:191029568" value="Beherrschungsstufe 2 wurde erreicht."/>
+<label key="key:620761148:54354734" value="Beherrschungsstufe 2 wird erreicht."/>
+<label key="key:620761149:191029568" value="Geschicklichkeitsstufe 3 wurde erreicht."/>
+<label key="key:620761149:54354734" value="Geschicklichkeitsstufe 3 wird erreicht."/>
+<label key="key:620761150:191029568" value="Beherrschungsstufe 3 wurde erreicht."/>
+<label key="key:620761150:54354734" value="Beherrschungsstufe 3 wird erreicht."/>
+<label key="key:620761151:191029568" value="Geschicklichkeitsstufe 4 wurde erreicht."/>
+<label key="key:620761151:54354734" value="Geschicklichkeitsstufe 4 wird erreicht."/>
+<label key="key:620761152:191029568" value="Beherrschungsstufe 4 wurde erreicht."/>
+<label key="key:620761152:54354734" value="Beherrschungsstufe 4 wird erreicht."/>
+<label key="key:620761153:191029568" value="Geschicklichkeitsstufe 5 wurde erreicht."/>
+<label key="key:620761153:54354734" value="Geschicklichkeitsstufe 5 wird erreicht."/>
+<label key="key:620761154:191029568" value="Beherrschungsstufe 5 wurde erreicht."/>
+<label key="key:620761154:54354734" value="Beherrschungsstufe 5 wird erreicht."/>
+<label key="key:620761282:191029568" value="Geschicklichkeitsstufe 1 wurde erreicht."/>
+<label key="key:620761282:54354734" value="Geschicklichkeitsstufe 1 wird erreicht."/>
+<label key="key:620761283:191029568" value="Beherrschungsstufe 1 wurde erreicht."/>
+<label key="key:620761283:54354734" value="Beherrschungsstufe 1 wird erreicht."/>
+<label key="key:620761284:191029568" value="Geschicklichkeitsstufe 2 wurde erreicht."/>
+<label key="key:620761284:54354734" value="Geschicklichkeitsstufe 2 wird erreicht."/>
+<label key="key:620761285:191029568" value="Beherrschungsstufe 2 wurde erreicht."/>
+<label key="key:620761285:54354734" value="Beherrschungsstufe 2 wird erreicht."/>
+<label key="key:620761286:191029568" value="Geschicklichkeitsstufe 3 wurde erreicht."/>
+<label key="key:620761286:54354734" value="Geschicklichkeitsstufe 3 wird erreicht."/>
+<label key="key:620761287:191029568" value="Beherrschungsstufe 3 wurde erreicht."/>
+<label key="key:620761287:54354734" value="Beherrschungsstufe 3 wird erreicht."/>
+<label key="key:620761288:191029568" value="Geschicklichkeitsstufe 4 wurde erreicht."/>
+<label key="key:620761288:54354734" value="Geschicklichkeitsstufe 4 wird erreicht."/>
+<label key="key:620761289:191029568" value="Beherrschungsstufe 4 wurde erreicht."/>
+<label key="key:620761289:54354734" value="Beherrschungsstufe 4 wird erreicht."/>
+<label key="key:620761290:191029568" value="Geschicklichkeitsstufe 5 wurde erreicht."/>
+<label key="key:620761290:54354734" value="Geschicklichkeitsstufe 5 wird erreicht."/>
+<label key="key:620761291:191029568" value="Beherrschungsstufe 5 wurde erreicht."/>
+<label key="key:620761291:54354734" value="Beherrschungsstufe 5 wird erreicht."/>
+<label key="key:620761413:191029568" value="Geschicklichkeitsstufe 1 wurde erreicht."/>
+<label key="key:620761413:54354734" value="Geschicklichkeitsstufe 1 wird erreicht."/>
+<label key="key:620761414:191029568" value="Beherrschungsstufe 1 wurde erreicht."/>
+<label key="key:620761414:54354734" value="Beherrschungsstufe 1 wird erreicht."/>
+<label key="key:620761415:191029568" value="Geschicklichkeitsstufe 2 wurde erreicht."/>
+<label key="key:620761415:54354734" value="Geschicklichkeitsstufe 2 wird erreicht."/>
+<label key="key:620761416:191029568" value="Beherrschungsstufe 2 wurde erreicht."/>
+<label key="key:620761416:54354734" value="Beherrschungsstufe 2 wird erreicht."/>
+<label key="key:620761417:191029568" value="Geschicklichkeitsstufe 3 wurde erreicht."/>
+<label key="key:620761417:54354734" value="Geschicklichkeitsstufe 3 wird erreicht."/>
+<label key="key:620761418:191029568" value="Beherrschungsstufe 3 wurde erreicht."/>
+<label key="key:620761418:54354734" value="Beherrschungsstufe 3 wird erreicht."/>
+<label key="key:620761419:191029568" value="Geschicklichkeitsstufe 4 wurde erreicht."/>
+<label key="key:620761419:54354734" value="Geschicklichkeitsstufe 4 wird erreicht."/>
+<label key="key:620761420:191029568" value="Beherrschungsstufe 4 wurde erreicht."/>
+<label key="key:620761420:54354734" value="Beherrschungsstufe 4 wird erreicht."/>
+<label key="key:620761421:191029568" value="Geschicklichkeitsstufe 5 wurde erreicht."/>
+<label key="key:620761421:54354734" value="Geschicklichkeitsstufe 5 wird erreicht."/>
+<label key="key:620761422:191029568" value="Beherrschungsstufe 5 wurde erreicht."/>
+<label key="key:620761422:54354734" value="Beherrschungsstufe 5 wird erreicht."/>
+<label key="key:620761635:191029568" value="Geschicklichkeitsstufe 1 wurde erreicht."/>
+<label key="key:620761635:54354734" value="Geschicklichkeitsstufe 1 wird erreicht."/>
+<label key="key:620761636:191029568" value="Beherrschungsstufe 1 wurde erreicht."/>
+<label key="key:620761636:54354734" value="Beherrschungsstufe 1 wird erreicht."/>
+<label key="key:620761637:191029568" value="Geschicklichkeitsstufe 2 wurde erreicht."/>
+<label key="key:620761637:54354734" value="Geschicklichkeitsstufe 2 wird erreicht."/>
+<label key="key:620761638:191029568" value="Beherrschungsstufe 2 wurde erreicht."/>
+<label key="key:620761638:54354734" value="Beherrschungsstufe 2 wird erreicht."/>
+<label key="key:620761639:191029568" value="Geschicklichkeitsstufe 3 wurde erreicht."/>
+<label key="key:620761639:54354734" value="Geschicklichkeitsstufe 3 wird erreicht."/>
+<label key="key:620761640:191029568" value="Beherrschungsstufe 3 wurde erreicht."/>
+<label key="key:620761640:54354734" value="Beherrschungsstufe 3 wird erreicht."/>
+<label key="key:620761641:191029568" value="Geschicklichkeitsstufe 4 wurde erreicht."/>
+<label key="key:620761641:54354734" value="Geschicklichkeitsstufe 4 wird erreicht."/>
+<label key="key:620761642:191029568" value="Beherrschungsstufe 4 wurde erreicht."/>
+<label key="key:620761642:54354734" value="Beherrschungsstufe 4 wird erreicht."/>
+<label key="key:620761643:191029568" value="Geschicklichkeitsstufe 5 wurde erreicht."/>
+<label key="key:620761643:54354734" value="Geschicklichkeitsstufe 5 wird erreicht."/>
+<label key="key:620761644:191029568" value="Beherrschungsstufe 5 wurde erreicht."/>
+<label key="key:620761644:54354734" value="Beherrschungsstufe 5 wird erreicht."/>
+<label key="key:620761773:191029568" value="Geschicklichkeitsstufe 1 wurde erreicht."/>
+<label key="key:620761773:54354734" value="Geschicklichkeitsstufe 1 wird erreicht."/>
+<label key="key:620761774:191029568" value="Beherrschungsstufe 1 wurde erreicht."/>
+<label key="key:620761774:54354734" value="Beherrschungsstufe 1 wird erreicht."/>
+<label key="key:620761775:191029568" value="Geschicklichkeitsstufe 2 wurde erreicht."/>
+<label key="key:620761775:54354734" value="Geschicklichkeitsstufe 2 wird erreicht."/>
+<label key="key:620761776:191029568" value="Beherrschungsstufe 2 wurde erreicht."/>
+<label key="key:620761776:54354734" value="Beherrschungsstufe 2 wird erreicht."/>
+<label key="key:620761777:191029568" value="Geschicklichkeitsstufe 3 wurde erreicht."/>
+<label key="key:620761777:54354734" value="Geschicklichkeitsstufe 3 wird erreicht."/>
+<label key="key:620761778:191029568" value="Beherrschungsstufe 3 wurde erreicht."/>
+<label key="key:620761778:54354734" value="Beherrschungsstufe 3 wird erreicht."/>
+<label key="key:620761779:191029568" value="Geschicklichkeitsstufe 4 wurde erreicht."/>
+<label key="key:620761779:54354734" value="Geschicklichkeitsstufe 4 wird erreicht."/>
+<label key="key:620761780:191029568" value="Beherrschungsstufe 4 wurde erreicht."/>
+<label key="key:620761780:54354734" value="Beherrschungsstufe 4 wird erreicht."/>
+<label key="key:620761781:191029568" value="Geschicklichkeitsstufe 5 wurde erreicht."/>
+<label key="key:620761781:54354734" value="Geschicklichkeitsstufe 5 wird erreicht."/>
+<label key="key:620761782:191029568" value="Beherrschungsstufe 5 wurde erreicht."/>
+<label key="key:620761782:54354734" value="Beherrschungsstufe 5 wird erreicht."/>
+<label key="key:620761890:191029568" value="Geschicklichkeitsstufe 1 wurde erreicht."/>
+<label key="key:620761890:54354734" value="Geschicklichkeitsstufe 1 wird erreicht."/>
+<label key="key:620761891:191029568" value="Beherrschungsstufe 1 wurde erreicht."/>
+<label key="key:620761891:54354734" value="Beherrschungsstufe 1 wird erreicht."/>
+<label key="key:620761892:191029568" value="Geschicklichkeitsstufe 2 wurde erreicht."/>
+<label key="key:620761892:54354734" value="Geschicklichkeitsstufe 2 wird erreicht."/>
+<label key="key:620761893:191029568" value="Beherrschungsstufe 2 wurde erreicht."/>
+<label key="key:620761893:54354734" value="Beherrschungsstufe 2 wird erreicht."/>
+<label key="key:620761894:191029568" value="Geschicklichkeitsstufe 3 wurde erreicht."/>
+<label key="key:620761894:54354734" value="Geschicklichkeitsstufe 3 wird erreicht."/>
+<label key="key:620761895:191029568" value="Beherrschungsstufe 3 wurde erreicht."/>
+<label key="key:620761895:54354734" value="Beherrschungsstufe 3 wird erreicht."/>
+<label key="key:620761896:191029568" value="Geschicklichkeitsstufe 4 wurde erreicht."/>
+<label key="key:620761896:54354734" value="Geschicklichkeitsstufe 4 wird erreicht."/>
+<label key="key:620761897:191029568" value="Beherrschungsstufe 4 wurde erreicht."/>
+<label key="key:620761897:54354734" value="Beherrschungsstufe 4 wird erreicht."/>
+<label key="key:620761898:191029568" value="Geschicklichkeitsstufe 5 wurde erreicht."/>
+<label key="key:620761898:54354734" value="Geschicklichkeitsstufe 5 wird erreicht."/>
+<label key="key:620761899:191029568" value="Beherrschungsstufe 5 wurde erreicht."/>
+<label key="key:620761899:54354734" value="Beherrschungsstufe 5 wird erreicht."/>
+<label key="key:620761954:191029568" value="Ermöglicht dem Jäger, seine Pfeile mit Feueröl zu tränken"/>
+<label key="key:620761954:54354734" value="Ermöglicht dem Jäger, seine Pfeile mit Feueröl zu tränken"/>
+<label key="key:620761960:191029568" value="Ermöglicht dem Jäger, seine Pfeile mit Lichtöl zu tränken"/>
+<label key="key:620761960:54354734" value="Ermöglicht dem Jäger, seine Pfeile mit Lichtöl zu tränken"/>
+<label key="key:620764878:191029568" value="Ein aggressiver dreifach Angriff, durch den man zur Bedrohung wird."/>
+<label key="key:620764878:54354734" value="Ihr führt einen aggressiven Dreifach-Angriff aus und zieht damit die Aufmerksamkeit des Feindes auf Euch."/>
+<label key="key:620764890:191029568" value="Ein Schrei des Trotzes, der Monstern die Fähigkeit raubt, ihre Kraft einzusetzen und sie stattdessen auf Euch überträgt."/>
+<label key="key:620764890:54354734" value="Ein Schrei des Trotzes, der den Feinden die Fähigkeit raubt, ihre Kraft einzusetzen, und sie stattdessen auf Euch überträgt."/>
+<label key="key:620764902:191029568" value="Ein Angriff mit sehr großem Wirkungsbereich, durch den Ihr jedoch zu einer Bedrohung werdet."/>
+<label key="key:620764902:54354734" value="Ein Bereichsangriff, der riesigen Schaden verursacht und die Aufmerksamkeit des Feindes auf Euch zieht."/>
+<label key="key:620764914:191029568" value="Erhöht Schaden und Kraftregeneration."/>
+<label key="key:620764914:54354734" value="Eure Schadens- und Kraftregeneration werden erhöht."/>
+<label key="key:620764938:106251890" value="Kategorienbonus: Erhöht ${PROPERTY} um ${VALUE}"/>
+<label key="key:620764938:191029568" value="Ermöglicht das Tragen von schweren Schilden und verringert die Auswirkungen des Abzugs, der Eure Leidenschaft beeinträchtigt."/>
+<label key="key:620764938:54354734" value="Ihr verfügt über die Fähigkeit, schwere Schilde zu führen."/>
+<label key="key:620764941:106251890" value="Kategorienbonus: Erhöht ${PROPERTY} um ${PERCENTVALUE}"/>
+<label key="key:620764941:191029568" value="Erhöht die Wahrscheinlichkeit eines kritischen Schadens bei 'Wilder Angriff', 'Wilde Schläge' und 'Brutale Schläge'. Leidenschaft erhöht den Schaden außerdem um einen Extrabonus."/>
+<label key="key:620764941:54354734" value="Die Wahrscheinlichkeit einen kritischen Treffer zu erzielen, wird für folgende Fertigkeiten erhöht: brutale, grimmige, barmherzige, unerbittliche und wilde Schläge."/>
+<label key="key:620764946:191029568" value="Ermöglicht die Verwendung von Runen"/>
+<label key="key:620764946:54354734" value="Ermöglicht die Verwendung von Runen"/>
+<label key="key:620765159:106251890" value="Kategorienbonus: Die Auswirkung Eurer Erwiderung \qParade\q hält drei Sekunden länger an."/>
+<label key="key:620765159:191029568" value="Ihr regeneriert mit jedem Parieren eines gegnerischen Angriffs ein wenig von Eurer Kraft."/>
+<label key="key:620765159:54354734" value="Ihr erhaltet mit jedem Parieren eines feindlichen Angriffs ein wenig Eurer Kraft zurück."/>
+<label key="key:620765162:106251890" value="Kategorienbonus: Die Auswirkung Eurer Erwiderung \qBlocken\q hält drei Sekunden länger an."/>
+<label key="key:620765162:191029568" value="Ihr regeneriert mit jedem Blocken eines gegnerischen Angriffs ein wenig von Eurer Kraft."/>
+<label key="key:620765162:54354734" value="Ihr erhaltet bei jedem Blocken eines feindlichen Angriffs ein wenig Eurer Kraft zurück."/>
+<label key="key:620765171:191029568" value="Schilddorn-Verwendung"/>
+<label key="key:620765171:54354734" value="Ermöglicht die Verwendung von Schilddornen"/>
+<label key="key:620765186:191029568" value="Ihr seid in der Lage, einen mächtigen Angriff gegen einen Feind auszuführen, der unter 'Überwältigen' oder 'Stoß' zu leiden hatte, und der ihn möglicherweise sogar zu Boden schlägt."/>
+<label key="key:620765186:54354734" value="Ihr seid in der Lage, gegen einen Feind, der unter 'Überwältigen' oder 'Stoß' zu leiden hatte, einen sehr wirkungsvollen Angriff auszuführen, der ihn möglicherweise sogar zu Boden schlägt."/>
+<label key="key:620765206:191029568" value="Nach einem erfolgreichen heftigen Schildschlag oder Schildspott, könnt Ihr erneut zuschlagen, um größeren Schaden hervorzurufen. Diese Fertigkeit erzeugt eine zusätzliche Bedrohung."/>
+<label key="key:620765206:54354734" value="Nach einem erfolgreichen heftigen Schildschlag oder Schildspott könnt Ihr erneut auf Euren Feind mit Eurem Schild einschlagen, um größeren Schaden anzurichten. Damit zieht Ihr die Aufmerksamkeit des Feindes wirksamer auf Euch."/>
+<label key="key:620765218:191029568" value="Ihr konzentriert Euch darauf, Eure Gegner zu erzürnen."/>
+<label key="key:620765218:54354734" value="Ihr konzentriert Euch darauf, Eure Gegner zu erzürnen."/>
+<label key="key:620765230:191029568" value="Ihr wisst, wie Ihr Eure Feinde dazu bringt, Euch anzugreifen, damit sich Eure Verbündeten frei bewegen können. Diese Fertigkeit macht Euch zu einer zusätzlichen Bedrohung und zwingt Gegner, die sich in Eurer Nähe befinden, Euch anzugreifen. Sie leitet außerdem den Wächterschild ein."/>
+<label key="key:620765230:54354734" value="Ihr wisst, wie Ihr Eure Feinde dazu bringt, Euch anzugreifen, damit sich Eure Verbündeten frei bewegen können. Diese Fertigkeit aktiviert außerdem Euren Wächterschild."/>
+<label key="key:620765352:106251890" value="Kategoriebonus: Zeichen-Fertigkeiten sind um ${VALUE} pro Sekunde eher wieder einsetzbar"/>
+<label key="key:620765352:191029568" value="Verbessert die Auswirkungen von Banner des Sieges."/>
+<label key="key:620765352:54354734" value="Die Kraft stärkende Wirkung Eures Siegesherolds wird verbessert."/>
+<label key="key:620765357:191029568" value="Diejenigen, die der Macht des Rings dienen, beginnen, die direkte Auseinandersetzung mit Euch zu suchen, aber Ihr durchkreuzt ihre Pläne."/>
+<label key="key:620765357:54354734" value="Diejenigen, die dem Dunklen Herrscher Mordors dienen, beginnen, die direkte Auseinandersetzung mit Euch zu suchen, aber Ihr durchkreuzt ihre Pläne."/>
+<label key="key:620765358:191029568" value="Der Weg zur Rettung Mittelerdes ist lang, aber Ihr beschreitet ihn bereits."/>
+<label key="key:620765358:54354734" value="Der Weg zur Rettung Mittelerdes ist lang, aber Ihr beschreitet ihn bereits."/>
+<label key="key:620765359:191029568" value="Der Weg zur Rettung Mittelerdes ist lang, aber Ihr beschreitet ihn bereits."/>
+<label key="key:620765359:54354734" value="Der Weg zur Rettung Mittelerdes ist lang, aber Ihr beschreitet ihn bereits."/>
+<label key="key:620765392:106251890" value="Kategoriebonus: ${PROPERTY} +${VALUE}"/>
+<label key="key:620765392:191029568" value="Verbündete, die mit \qFlucht aus der Dunkelheit\q erneuert werden, kehren mit vollständiger Moral und größerer Kraft zurück."/>
+<label key="key:620765392:54354734" value="Verbündete, die mit \qFlucht aus der Dunkelheit\q wiederbelebt werden, kehren mit vollständiger Moral und größerer Kraft zurück."/>
+<label key="key:620765399:106251890" value="Kategoriebonus: ${PROPERTY} +${VALUE}"/>
+<label key="key:620765399:191029568" value="Schlachtruf regeneriert auch eine kleine Menge Kraft."/>
+<label key="key:620765399:54354734" value="Zusätzlich zu den normalen Auswirkungen regeneriert Euer Schlachtruf eine geringe Menge Kraft."/>
+<label key="key:620765406:106251890" value="Kategoriebonus: Zeichen-Fertigkeiten sind um ${VALUE} pro Sekunde eher wieder einsetzbar"/>
+<label key="key:620765406:191029568" value="Erhöht die Steigerung der Angriffsgeschwindigkeit von Kriegsschrei."/>
+<label key="key:620765406:54354734" value="Euer Kriegsschrei ermutigt Eure Verbündeten, mit noch höherer Geschwindigkeit anzugreifen."/>
+<label key="key:620765412:106251890" value="Kategoriebonus: ${PROPERTY} +${VALUE}"/>
+<label key="key:620765412:191029568" value="Euer Spottruf fügt größeren Schaden zu und lähmt jeden, den er trifft."/>
+<label key="key:620765412:54354734" value="Euer Spottruf lähmt Eure Feinde nun und fügt größeren Schaden zu."/>
+<label key="key:620765416:106251889" value="Kampfschrei' steht jetzt ${VALUE} Sekunden eher wieder zur Verfügung."/>
+<label key="key:620765416:106251890" value="Kategoriebonus: ${PROPERTY} +${VALUE}"/>
+<label key="key:620765416:191029568" value="Euer Kampfschrei steht jetzt schneller wieder zur Verfügung als zuvor."/>
+<label key="key:620765416:54354734" value="Euer Kampfschrei steht jetzt schneller wieder zur Verfügung als zuvor."/>
+<label key="key:620765425:106251890" value="Kategoriebonus: +${PERCENTVALUE} ${PROPERTY}"/>
+<label key="key:620765425:191029568" value="Verringert Euren Modifikator für die Wahrscheinlichkeit von gescheiterten Angriffen."/>
+<label key="key:620765425:54354734" value="Eure Fertigkeit im Umgang mit Waffen verringert die Wahrscheinlichkeit von Fehlangriffen."/>
+<label key="key:620765429:106251890" value="Kategoriebonus: Zeichen-Fertigkeiten sind um ${VALUE} pro Sekunde eher wieder einsetzbar"/>
+<label key="key:620765429:191029568" value="Verbessert die Auswirkungen von Kriegsbanner."/>
+<label key="key:620765429:54354734" value="Die Macht und Beweglichkeit erhöhende Wirkung Eures Kriegsherolds wird verbessert."/>
+<label key="key:620765459:106251890" value="Kategoriebonus: ${PROPERTY} +${VALUE}"/>
+<label key="key:620765459:191029568" value="Eure Worte der Ermutigung heilen stärker."/>
+<label key="key:620765459:54354734" value="Eure 'Worte der Ermutigung' steigern in großem Maße die Moral Eurer Verbündeten."/>
+<label key="key:620765465:106251890" value="Kategoriebonus: ${PROPERTY} +${VALUE}"/>
+<label key="key:620765465:191029568" value="Verringert die Kraftkosten, die für Eure Schreie und Rufe erforderlich sind."/>
+<label key="key:620765465:54354734" value="Die Kraftkosten für Eure Schreie und Rufe sind verringert."/>
+<label key="key:620765476:106251890" value="Kategoriebonus: Zeichen-Fertigkeiten sind um ${VALUE} pro Sekunde eher wieder einsetzbar"/>
+<label key="key:620765476:191029568" value="Verbessert die Auswirkungen von Banner der Hoffnung."/>
+<label key="key:620765476:54354734" value="Die Moral stärkende Wirkung Eures Hoffnungsherolds wird verbessert."/>
+<label key="key:620765507:106251890" value="Kategoriebonus: ${PROPERTY} +${VALUE}"/>
+<label key="key:620765507:191029568" value="Erhöht die Wahrscheinlichkeit, mit Zerstörerischer Schlag und Doppelschlag einen kritischen Treffer zu landen."/>
+<label key="key:620765507:54354734" value="Die Wahrscheinlichkeit, mit Zerstörerischer Schlag und Doppelschlag einen kritischen Treffer zu erzielen, erhöht sich."/>
+<label key="key:620765511:106251890" value="Kategoriebonus: ${PROPERTY} +${VALUE}"/>
+<label key="key:620765511:191029568" value="Steigert die Bedrohung, die Euer Drohruf erzeugt."/>
+<label key="key:620765511:54354734" value="Euer Drohruf zieht den Zorn Eures Feindes nun stärker auf Euch."/>
+<label key="key:620765515:106251890" value="Kategoriebonus: +${PERCENTVALUE} ${PROPERTY}"/>
+<label key="key:620765515:191029568" value="Verringert die Bedrohung, die Eure Schreie und Rufe und Eure Heilungen hervorrufen."/>
+<label key="key:620765515:54354734" value="Eure Schreie und Rufe und Eure Heilfertigkeiten ziehen weniger Aufmerksamkeit Eurer Feinde auf Euch."/>
+<label key="key:620765562:106251890" value="Kategorienbonus: Erhöht ${PROPERTY} um ${VALUE}"/>
+<label key="key:620765562:191029568" value="Euer Wirbel dauert zehn Sekunden länger und macht Euch um zusätzliche 5% schneller. Außerdem wird Eure gesamte Macht gesteigert."/>
+<label key="key:620765562:54354734" value="Euer Wirbel dauert länger und erhöht Eure Angriffsgeschwindigkeit."/>
+<label key="key:620765566:106251890" value="Kategorienbonus: Erhöht ${PROPERTY} um ${VALUE}"/>
+<label key="key:620765566:191029568" value="Eure Fertigkeit Schneller Schlag erzeugt bei einem erfolgreichen Angriff nun einen Leidenschaftspunkt. Außerdem wird Eure gesamte Macht gesteigert."/>
+<label key="key:620765566:54354734" value="Eure Fertigkeit 'Schneller Schlag' erzeugt bei kritischen Treffern einen zusätzlichen Leidenschaftspunkt."/>
+<label key="key:620765571:106251890" value="Kategorienbonus: Erhöht ${PROPERTY} um ${PERCENTVALUE}"/>
+<label key="key:620765571:191029568" value="Erhöht den Multiplikator für kritischen Schaden bei 'Wilder Angriff', 'Wilde Schläge' oder 'Brutale Schläge'. Leidenschaft erhöht den Schaden außerdem um einen Extrabonus."/>
+<label key="key:620765571:54354734" value="Der Multiplikator für kritischen Schaden wird für brutale, grimmige, barmherzige, unerbittliche und wilde Schläge erhöht."/>
+<label key="key:620765586:106251890" value="Kategorienbonus: Erhöht ${PROPERTY} um ${PERCENTVALUE}"/>
+<label key="key:620765586:191029568" value="Mit 'Klingensturm' könnt Ihr bis zu zehn Ziele gleichzeitig angreifen. 'Klingenwand' und 'Klingensturm' richten außerdem mehr Schaden an."/>
+<label key="key:620765586:54354734" value="Mit 'Klingensturm' könnt Ihr nun bis zu zehn Ziele gleichzeitig angreifen."/>
+<label key="key:620765588:106251890" value="Kategorienbonus: Erhöht ${PROPERTY} um ${PERCENTVALUE}"/>
+<label key="key:620765588:191029568" value="Euer 'Stärkender Angriff' verleiht Euch zusätzliche Moral, die mit jedem Feind um Euch herum ein wenig zunimmt. Klingenwand und Klingensturm richten außerdem mehr Schaden an."/>
+<label key="key:620765588:54354734" value="Euer 'Stärkender Angriff' verleiht Euch zusätzliche Moral, die mit jedem Feind um Euch herum ein wenig zunimmt."/>
+<label key="key:620765592:106251890" value="Kategorienbonus: Erhöht ${PROPERTY} um ${PERCENTVALUE}"/>
+<label key="key:620765592:191029568" value="Euer 'Wilder Angriff' erzeugt einen Leidenschaftspunkt. Leidenschaft erhöht den Schaden außerdem um einen Extrabonus."/>
+<label key="key:620765592:54354734" value="Euer 'Wilder Angriff' generiert jetzt nach einem kritischen Treffer 1 zusätzlichen Leidenschaftspunkt."/>
+<label key="key:620765595:106251890" value="Kategorienbonus: Erhöht ${PROPERTY} um ${VALUE}"/>
+<label key="key:620765595:191029568" value="Euer 'Wilder Angriff' macht Euch zu einer größeren Bedrohung und verringert die Auswirkungen des Abzugs, der Eure Leidenschaft beeinträchtigt."/>
+<label key="key:620765595:54354734" value="Der 'Wilde Angriff' zieht die Aufmerksamkeit des Feindes häufiger auf Euch."/>
+<label key="key:620765602:106251890" value="Kategorienbonus: Erhöht ${PROPERTY} um ${PERCENTVALUE}"/>
+<label key="key:620765602:191029568" value="Klingenwand erzeugt bei einem erfolgreichen Angriff einen Leidenschaftspunkt. Klingenwand und Klingensturm richten außerdem mehr Schaden an."/>
+<label key="key:620765602:54354734" value="Klingenwand erzeugt bei jedem erfolgreichen Angriff einen Leidenschaftspunkt."/>
+<label key="key:620765606:106251890" value="Kategorienbonus: Erhöht ${PROPERTY} um ${PERCENTVALUE}"/>
+<label key="key:620765606:191029568" value="Ein kritischer Angriff mit 'Wilder Angriff', 'Wilde Schläge' oder 'Brutale Schläge' führt zu einer zusätzlichen blutenden Wunde. Leidenschaft erhöht den Schaden außerdem um einen Extrabonus."/>
+<label key="key:620765606:54354734" value="Bei einem kritischen Treffer rufen folgende Fertigkeiten außerdem Blutungen hervor: brutale, grimmige, barmherzige, unerbittliche und wilde Schläge."/>
+<label key="key:620765610:106251890" value="Kategorienbonus: Erhöht ${PROPERTY} um ${VALUE}"/>
+<label key="key:620765610:191029568" value="Euer Blocken-Grundwert ist erhöht und die Auswirkungen des Abzugs, der Eure Leidenschaft beeinträchtigt, wurden verringert."/>
+<label key="key:620765610:54354734" value="Ihr seid in der Lage, Angriffe effektiver zu blocken."/>
+<label key="key:620765612:106251890" value="Kategorienbonus: Erhöht ${PROPERTY} um ${PERCENTVALUE}"/>
+<label key="key:620765612:191029568" value="Euer Klingensturm kostet nun nur drei Leidenschaftspunkte. Für seine Ausführung sind ebenfalls nur drei Leidenschaftspunkte erforderlich. Klingenwand und Klingensturm richten außerdem mehr Schaden an."/>
+<label key="key:620765612:54354734" value="Euer Klingensturm kostet nur drei Leidenschaftspunkte. Für seine Ausführung sind ebenfalls nur drei Leidenschaftspunkte erforderlich."/>
+<label key="key:620765614:106251890" value="Kategorienbonus: Erhöht ${PROPERTY} um ${VALUE}"/>
+<label key="key:620765614:191029568" value="Euer Kampfrausch füllt Eure Leidenschaftsanzeige mit fünf Punkten. Außerdem wird Eure gesamte Macht gesteigert."/>
+<label key="key:620765614:54354734" value="Euer 'Kampfrausch' erhöht Eure Leidenschaftsanzeige um fünf Punkte."/>
+<label key="key:620765617:106251890" value="Kategorienbonus: Erhöht ${PROPERTY} um ${VALUE}"/>
+<label key="key:620765617:191029568" value="Eure Fertigkeit Verzweiflung erhöht nun auch die Leidenschaft um fünf Punkte. Außerdem wird Eure gesamte Macht gesteigert."/>
+<label key="key:620765617:54354734" value="Eure Fertigkeit 'Verzweiflung' erhöht Eure Leidenschaft nun um fünf Punkte und benötigt 5 Minuten weniger, um wiederhergestellt zu werden."/>
+<label key="key:620765621:106251890" value="Kategorienbonus: Erhöht ${PROPERTY} um ${VALUE}"/>
+<label key="key:620765621:191029568" value="Die Fertigkeit 'Schlagabtausch' kann häufiger genutzt werden. Das macht Euch zu einer größeren Bedrohung und verringert die Auswirkungen des Abzugs, der Eure Leidenschaft beeinträchtigt."/>
+<label key="key:620765621:54354734" value="Der 'Schlagabtausch' kann häufiger ausgeführt werden und Euch gelingt es, die Aufmerksamkeit des Feindes häufiger auf Euch zu ziehen."/>
+<label key="key:620765632:106251889" value="-3 Erholungszeit für Stich"/>
+<label key="key:620765632:106251890" value="Kategorienbonus: Erhöht ${PROPERTY} um ${VALUE}"/>
+<label key="key:620765632:106251891" value="+10 % Stichschaden"/>
+<label key="key:620765632:191029568" value="Stechen wird schneller wiederhergestellt und verursacht größeren Schaden. Außerdem wird Euer Macht-Grundwert erhöht."/>
+<label key="key:620765632:54354734" value="Angriffe mit der Fertigkeit 'Stechen' erfolgen schneller und verursachen größeren Schaden."/>
+<label key="key:620765635:106251890" value="Kategorienbonus: Erhöht ${PROPERTY} um ${VALUE}"/>
+<label key="key:620765635:191029568" value="Ihr fügt mit jedem Blocken eines Angriffs Eurem Gegner Schaden zu. Außerdem wird Euer Macht-Grundwert erhöht."/>
+<label key="key:620765635:54354734" value="Ihr fügt mit jedem Blocken eines Angriffs Eurem Gegner Schaden zu."/>
+<label key="key:620765640:106251890" value="Kategoriebonus: Fertigkeiten und zusätzliche Bedrohung"/>
+<label key="key:620765640:191029568" value="Euer Wächterschild steigert auch Eure natürliche Schadensminderung. Außerdem erzeugen alle Eure Spezialangriffe zusätzliche Bedrohung."/>
+<label key="key:620765640:54354734" value="Euer Wächterschild steigert Eure allgemeine Schadensminderung."/>
+<label key="key:620765645:106251890" value="Kategoriebonus: Fertigkeiten und zusätzliche Bedrohung"/>
+<label key="key:620765645:191029568" value="Erhöht die Blockrate und die Minderung, die Euer Schild bietet. Außerdem erzeugen alle Eure Spezialangriffe zusätzliche Bedrohung."/>
+<label key="key:620765645:54354734" value="Ihr setzt Euren Schild wirkungsvoller ein, blockt mehr Angriffe und verringert den Euch zugefügten Schaden."/>
+<label key="key:620765657:106251890" value="Kategorienbonus: Erhöht ${PROPERTY} um ${VALUE}"/>
+<label key="key:620765657:191029568" value="Eure Fertigkeit Luft holen regeneriert sowohl zusätzliche Moral als auch Kraft. Außerdem wird Euer Vitalität-Grundwert erhöht."/>
+<label key="key:620765657:54354734" value="Eure Fertigkeit 'Luft holen' bringt sowohl zusätzliche Moral als auch Kraft."/>
+<label key="key:620765666:106251890" value="Kategorienbonus: Erhöht ${PROPERTY} um ${VALUE}"/>
+<label key="key:620765666:191029568" value="Euer Irritierender Schlag trifft bis zu drei Ziele in einem 90-Grad-Bogen und wird zweieinhalb Sekunden schneller wiederhergestellt. Außerdem wird Euer Vitalität-Grundwert erhöht."/>
+<label key="key:620765666:54354734" value="Euer 'Irritierender Schlag' kann zwei zusätzliche Ziele in einem 90-Grad-Bogen treffen und wird 1,5 Sekunden schneller wiederhergestellt."/>
+<label key="key:620765670:106251890" value="Kategorienbonus: Erhöht ${PROPERTY} um ${VALUE}"/>
+<label key="key:620765670:191029568" value="Euer Bewegungs-Grundwert erhöht sich um 5%. Außerdem wird Eure Vitalität erhöht."/>
+<label key="key:620765670:54354734" value="Ihr seid in der Lage, schneller in einen Kampf einzugreifen oder Euch schneller aus ihn zurückzuziehen."/>
+<label key="key:620765674:106251890" value="Kategorienbonus: Erhöht ${PROPERTY} um ${VALUE}"/>
+<label key="key:620765674:191029568" value="Euer Angriffs-Grundwert erhöht sich um 5%. Außerdem wird Euer Macht-Grundwert erhöht."/>
+<label key="key:620765674:54354734" value="Eure Angriffsgeschwindigkeit wird über Eure normalen Fähigkeiten hinaus gesteigert."/>
+<label key="key:620765676:106251890" value="Kategorienbonus: Erhöht ${PROPERTY} um ${VALUE}"/>
+<label key="key:620765676:191029568" value="Eure Herausforderungsfertigkeit ist schneller wiederhergestellt. Außerdem wird Euer Vitalität-Grundwert erhöht."/>
+<label key="key:620765676:54354734" value="Eure Fertigkeit 'Herausforderung' steht 15 Sekunden schneller wieder zur Verfügung."/>
+<label key="key:620765679:106251890" value="Kategoriebonus: Fertigkeiten und zusätzliche Bedrohung"/>
+<label key="key:620765679:191029568" value="Eure Fertigkeit Schutz verringert nun die Bedrohung, die Euer Ziel ausübt, und steigert die Bedrohung, die Ihr hervorruft. Auch alle Eure Spezialangriffe erzeugen zusätzliche Bedrohung."/>
+<label key="key:620765679:54354734" value="Eure Fertigkeit 'Schutz' macht Euer Ziel weniger bedrohlich."/>
+<label key="key:620765686:106251890" value="Kategoriebonus: Fertigkeiten und zusätzliche Bedrohung"/>
+<label key="key:620765686:191029568" value="Eure Grundwerte für Vitalität und Schicksal werden erhöht. Außerdem erzeugen alle Eure Spezialangriffe zusätzliche Bedrohung."/>
+<label key="key:620765686:54354734" value="Aufgrund Eures stoischen Naturells werden Eure Grundwerte für Vitalität und Schicksal erhöht."/>
+<label key="key:620765690:106251890" value="Kategorienbonus: Erhöht ${PROPERTY} um ${VALUE}"/>
+<label key="key:620765690:191029568" value="Tiefer Atemzug wird schneller wiederhergestellt und dauert länger an. Außerdem wird Euer Macht-Grundwert erhöht."/>
+<label key="key:620765690:54354734" value="Eure starken Lungen ermöglichen es, 'Tiefer Atemzug' 2,5 Minuten schneller einzusetzen."/>
+<label key="key:620765694:106251890" value="Kategorienbonus: Die Auswirkung Eurer Erwiderung \qSchildstreich\q hält drei Sekunden länger an."/>
+<label key="key:620765694:191029568" value="Kriegerherz wird schneller wiederhergestellt. Außerdem stehen Euch alle Eure grundlegenden Reaktionsfertigkeiten zur Verfügung."/>
+<label key="key:620765694:54354734" value="Euer Kriegerherz wird 90 Sekunden schneller wiederhergestellt. Außerdem könnt Ihr alle Eure reaktiven Fertigkeiten verwenden."/>
+<label key="key:620765700:106251890" value="Kategorienbonus: Die Auswirkung Eurer Erwiderung \qVergeltung\q hält drei Sekunden länger an."/>
+<label key="key:620765700:191029568" value="Erregende Gefahr wird schneller wiederhergestellt. Außerdem stehen Euch alle Eure grundlegenden Reaktionsfertigkeiten zur Verfügung."/>
+<label key="key:620765700:54354734" value="Eure Erregende Gefahr wird zwei Minuten schneller wiederhergestellt und Ihr könnt alle Eure reaktiven Fertigkeiten verwenden."/>
+<label key="key:620765706:106251890" value="Kategoriebonus: ${PROPERTY} ${PERCENTVALUE}"/>
+<label key="key:620765706:191029568" value="Geringere Wahrscheinlichkeit, dass Monster sich aus Eurer Falle befreien können, sobald sie Schaden nehmen."/>
+<label key="key:620765706:54354734" value="Feinden fällt es schwerer, sich aus Euren Fallen zu befreien."/>
+<label key="key:620765717:106251890" value="Kategoriebonus: ${PROPERTY} ${PERCENTVALUE}"/>
+<label key="key:620765717:191029568" value="Geringere Erholungszeit bei allen Nahkampffertigkeiten."/>
+<label key="key:620765717:54354734" value="Alle Eure Nahkampffertigkeiten werden schneller als zuvor wiederhergestellt."/>
+<label key="key:620765719:106251891" value="Kategoriebonus: ${PROPERTY} um ${PERCENTVALUE} erhöht"/>
+<label key="key:620765719:191029568" value="Erhöhter DOT-Wert von Stachelpfeil"/>
+<label key="key:620765719:54354734" value="Die durch Euren Stachelpfeil zugefügten Wunden bluten stärker."/>
+<label key="key:620765721:106251891" value="Kategoriebonus: ${PROPERTY} um ${PERCENTVALUE} erhöht"/>
+<label key="key:620765721:191029568" value="Erhöhter Schaden mit Schneller Bogen"/>
+<label key="key:620765721:54354734" value="Euer Schneller Bogen fügt Euren Feinden größeren Schaden zu."/>
+<label key="key:620765723:106251891" value="Kategoriebonus: ${PROPERTY} um ${VALUE} erhöht"/>
+<label key="key:620765723:191029568" value="Fokus (Zielen) kostet für Durchdringender Schuss einen Punkt weniger."/>
+<label key="key:620765723:54354734" value="Fokus (Zielen) kostet für Durchdringender Schuss einen Punkt weniger."/>
+<label key="key:620765725:106251890" value="Kategoriebonus: ${PROPERTY} ${PERCENTVALUE}"/>
+<label key="key:620765725:191029568" value="Aufspüren aus größerer Entfernung, Aufspüren schleichender Monster, erhöhte allgemeine Schleich-Erkennung."/>
+<label key="key:620765725:54354734" value="Eure außergewöhnlichen Sinne ermöglichen es Euch, Kreaturen, auch wenn sie schleichen, aus größerer Entfernung zu verfolgen und leichter aufzuspüren."/>
+<label key="key:620765733:106251891" value="Kategoriebonus: ${PROPERTY} um ${PERCENTVALUE} erhöht"/>
+<label key="key:620765733:191029568" value="Pfeilregen führt nun öfter zu kritischen Treffern."/>
+<label key="key:620765733:54354734" value="Die Wahrscheinlichkeit, mit Eurem Pfeilregen einen kritischen Treffer zu erzielen, erhöht sich und kritische Treffer verursachen mehr Schaden."/>
+<label key="key:620765737:106251891" value="Kategoriebonus: ${PROPERTY} um ${VALUE} erhöht"/>
+<label key="key:620765737:191029568" value="Fokus (Zielen) kostet für Pfeilregen einen Punkt weniger."/>
+<label key="key:620765737:54354734" value="Fokus (Zielen) kostet für Pfeilregen einen Punkt weniger."/>
+<label key="key:620765739:106251891" value="Kategoriebonus: ${PROPERTY} um ${VALUE} erhöht"/>
+<label key="key:620765739:191029568" value="Gespannte Konzentration stellt auch etwas Kraft wieder her."/>
+<label key="key:620765739:54354734" value="Gespannte Konzentration stellt neben den normalen Auswirkungen auch etwas Kraft wieder her."/>
+<label key="key:620765744:106251891" value="Kategoriebonus: '${PROPERTY}': - ${VALUE}"/>
+<label key="key:620765744:106251892" value="Kategoriebonus: '${PROPERTY}': - ${VALUE}"/>
+<label key="key:620765744:191029568" value="Kritische Treffer bei Fernangriffen erhöhen den Fokus (Zielen) um einen Punkt."/>
+<label key="key:620765744:54354734" value="Wenn Ihr bei einem Fernangriff einen kritischen Treffer landet, erhöht sich Euer Wert für Fokus um einen Punkt."/>
+<label key="key:620765748:106251891" value="Kategoriebonus: ${PROPERTY} um ${PERCENTVALUE} erhöht"/>
+<label key="key:620765748:191029568" value="Durchdringender Schuss setzt sich gegen mehr Minderung durch."/>
+<label key="key:620765748:54354734" value="Euer 'Durchdringender Schuss' bohrt sich tiefer in die Rüstung des Feindes. Die Schadensminderung der Rüstung wird weniger berücksichtigt."/>
+<label key="key:620765750:106251891" value="Kategoriebonus: ${PROPERTY} um ${VALUE} erhöht"/>
+<label key="key:620765750:191029568" value="Ausdauerhaltung senkt die Kraftkosten für folgende Fertigkeiten weiter: Stachelpfeil, Durchdringender Schuss, Gnadenschuss, Schneller Bogen, Pfeilregen und Schneller Schuss."/>
+<label key="key:620765750:54354734" value="Eure Ausdauerhaltung verringert die Kraftkosten sowie die Bedrohungsgeneration bei Euren Fertigkeiten für Fernangriffe weiter."/>
+<label key="key:620765752:106251890" value="Kategoriebonus: ${PROPERTY} ${PERCENTVALUE}"/>
+<label key="key:620765752:191029568" value="Unscheinbar verringert die Bedrohung weiter."/>
+<label key="key:620765752:54354734" value="Unscheinbar hält 10 Sekunden länger an und zieht noch weniger Aufmerksamkeit Eurer Feinde auf Euch."/>
+<label key="key:620765758:106251889" value="Vermindert die Erholungszeit um ${VALUE} Sekunden"/>
+<label key="key:620765758:106251891" value="Kategoriebonus: '${PROPERTY}': - ${VALUE}"/>
+<label key="key:620765758:106251892" value="Kategoriebonus: '${PROPERTY}': - ${VALUE}"/>
+<label key="key:620765758:191029568" value="Kürzere Erholungszeit für Nötige Hast"/>
+<label key="key:620765758:54354734" value="Nötige Hast' und 'Gespannte Konzentration' wird schneller wiederhergestellt."/>
+<label key="key:620765783:106251890" value="Moral um ${PERCENTVALUE} erhöht"/>
+<label key="key:620765783:106251891" value="Kategoriebonus: ${PROPERTY} um ${PERCENTVALUE} gesteigert."/>
+<label key="key:620765783:191029568" value="Es besteht die Möglichkeit, dass Ihr einen Feind durch die Kraft Eures Stabschlages lähmt und so auch Euer Selbstvertrauen und Eure gesamte Moral erhöht."/>
+<label key="key:620765783:54354734" value="Eure Stabschläge verursachen höheren Schaden, können Gegner lähmen und kann in die Flanke gefallenen Gegnern gegenüber Bonusschaden verursachen. Durch Eure regelmäßige Übungen seid Ihr außerdem selbstbewußter im Kampf."/>
+<label key="key:620765789:106251890" value="Kategorienbonus: ${PROPERTY} um ${PERCENTVALUE} erhöht"/>
+<label key="key:620765789:106251891" value="Kategorienbonus: ${PROPERTY} um ${PERCENTVALUE} erhöht"/>
+<label key="key:620765789:191029568" value="Die Wirkung der Effekte Eurer uralten Weisheit wird verbessert, und die Nutzungsdauer der Fertigkeit 'Macht des Wissens' verlängert sich."/>
+<label key="key:620765789:54354734" value="Die Wirkung des Effekts der Uralten Weisheit wird verbessert und die Nutzungsdauer der Fertigkeit 'Macht des Wissens' verlängert sich."/>
+<label key="key:620765798:106251889" value="-40 % Moralkosten"/>
+<label key="key:620765798:106251891" value="Verringert die Anwendungsverzögerung um ${VALUE} Sekunden."/>
+<label key="key:620765798:106251892" value="Kategorienbonus: ${PROPERTY} um ${VALUE} erhöht"/>
+<label key="key:620765798:191029568" value="Euer 'Signalfeuer der Hoffnung' kostet weniger Moral."/>
+<label key="key:620765798:54354734" value="Eure Fertigkeit 'Signalfeuer der Hoffnung' kostet weniger Moral, steht schneller wieder zur Verfügung und ist schneller wiederverwendbar."/>
+<label key="key:620765803:106251889" value="-10 % Kraftkosten"/>
+<label key="key:620765803:106251890" value="+120 Sekunden auf Dauer"/>
+<label key="key:620765803:106251891" value="Kategorienbonus: ${PERCENTVALUE} Kraftkosten aller Zeichen-Fertigkeiten"/>
+<label key="key:620765803:191029568" value="Euer Wissen über die Zeichen der Tiere verleiht Euch eine größere Kontrolle über sie. Die Fertigkeitskosten werden verringert und die Dauer vergrößert."/>
+<label key="key:620765803:54354734" value="Euer Wissen über die Zeichen der Wildnis verleiht Euch eine größere Kontrolle über sie. Die Kosten werden verringert und die Dauer vergrößert."/>
+<label key="key:620765807:106251889" value="${PROPERTY} erhöht auf ${VALUE}"/>
+<label key="key:620765807:106251890" value="Kategorienbonus: ${PROPERTY} um ${VALUE} erhöht"/>
+<label key="key:620765807:191029568" value="Ihr könnt Feuerkunde, Windkunde und Kräuterkunde auf eine größere Zahl Ziele anwenden."/>
+<label key="key:620765807:54354734" value="Euer Wissen über Kräuter, Feuer und Wind ist unübertroffen. Eure Fähigkeit, dieses Wissen einzusetzen, verbessert sich."/>
+<label key="key:620765809:106251890" value="Verringert die Anwendungsverzögerung um 50 %"/>
+<label key="key:620765809:106251892" value="Kategorienbonus: ${PROPERTY} um ${PERCENTVALUE} erhöht"/>
+<label key="key:620765809:106251893" value="Kategorienbonus: ${PROPERTY} um ${PERCENTVALUE} erhöht"/>
+<label key="key:620765809:191029568" value="Die Kosten und die Zeit, die Ihr für die Ausführung der folgenden Heilfertigkeiten benötigt, werden gesenkt: 'Signalfeuer der Hoffnung', 'Kranke versorgen', 'Heilkunde', 'Teilung der Macht' und 'Innere Flamme'."/>
+<label key="key:620765809:54354734" value="Ihr erhaltet einige Boni auf Eure Heil- sowie Wiederherstellungs-Fertigkeiten."/>
+<label key="key:620765815:106251889" value="Eure Tiere verfügen über eine höhere Lebensenergie und größere Kraft, greifen mit größerer Geschwindigkeit an und verursachen größeren Schaden."/>
+<label key="key:620765815:106251890" value="Kategorienbonus: ${PERCENTVALUE} Prozent auf alle für die Zeichen-Fertigkeiten benötigten Kraftkosten."/>
+<label key="key:620765815:191029568" value="Die Tapferkeit Eurer Begleiter im Kampf wird erhöht."/>
+<label key="key:620765815:54354734" value="Die Tapferkeit Eurer Gefährten im Kampf wird erhöht. Dazu gehören auch Angriff, Verteidigung und Schleich-Erkennung."/>
+<label key="key:620765822:106251890" value="Kategorienbonus: ${PERCENTVALUE} Prozent auf alle für die Zeichen-Fertigkeiten benötigten Kraftkosten."/>
+<label key="key:620765822:191029568" value="Ihr erhaltet einen Bonus auf die Fertigkeiten 'Zeichen der Rechtschaffenheit' und 'Zeichen der Wachsamkeit'."/>
+<label key="key:620765822:54354734" value="Ihr seid im Wissen der Dúnedain wohl bewandert und kennt Euch mit ihren Zeichen gut genug aus, um ihre Dauer sowie ihre Effektivität zu verbessern. Dies umfasst 'Zeichen der Rechtschaffenheit' und 'Zeichen der Wachsamkeit'."/>
+<label key="key:620765824:106251890" value="Verringert die Anwendungsverzögerung um 25 %"/>
+<label key="key:620765824:106251891" value="Kategorienbonus: ${PROPERTY} um ${PERCENTVALUE} erhöht"/>
+<label key="key:620765824:191029568" value="Ihr erhaltet einen Bonus auf die Kraftkosten für die offene Ausübung von Magie. Dazu gehören: 'Rissige Erde', 'Windstoß', 'Prüfung des Willens', 'Licht der aufsteigenden Dämmerung' und 'Kriegszug der Ents'."/>
+<label key="key:620765824:54354734" value="Reduziert Kraftkosten sowie die Anwendungszeit für die offene Ausübung von Magie. Dazu gehören: 'Rissige Erde', 'Windstoß', 'Prüfung des Willens', 'Licht der aufsteigenden Dämmerung' und 'Kriegszug der Ents'."/>
+<label key="key:620765830:106251890" value="Kategorienbonus: ${PROPERTY} um ${PERCENTVALUE} erhöht"/>
+<label key="key:620765830:191029568" value="Offene Ausübung von Magie kostet weniger Moral. Dazu gehören: 'Rissige Erde', 'Windstoß', 'Prüfung des Willens', 'Licht der aufsteigenden Dämmerung' und 'Kriegszug der Ents'."/>
+<label key="key:620765830:54354734" value="Offene Ausübung von Magie kostet weniger Moral. Dazu gehören: 'Rissige Erde', 'Windstoß', 'Prüfung des Willens', 'Licht der aufsteigenden Dämmerung' und 'Kriegszug der Ents'."/>
+<label key="key:620765835:106251889" value="Die Bedrohung beim Einsatz von Fertigkeiten wird gesenkt."/>
+<label key="key:620765835:106251890" value="Kategorienbonus: ${PROPERTY} um ${PERCENTVALUE} erhöht"/>
+<label key="key:620765835:191029568" value="Ihr versteht sehr gut, was es bedeutet, in Mittelerde ein Hüter uralten Wissens zu sein. Und es bleibt oft unbemerkt, wenn Ihr Euer Wissen einsetzt."/>
+<label key="key:620765835:54354734" value="Ihr versteht sehr gut, was es bedeutet, in Mittelerde ein Hüter uralten Wissens zu sein, und es bleibt oft unbemerkt, wenn Ihr Euer Wissen einsetzt."/>
+<label key="key:620765840:106251890" value="Kategorienbonus: ${PROPERTY} um ${PERCENTVALUE} erhöht"/>
+<label key="key:620765840:106251891" value="Kategorienbonus: ${PROPERTY} um ${PERCENTVALUE} erhöht"/>
+<label key="key:620765840:191029568" value="Eure Fertigkeiten 'Kranke versorgen' und 'Heilkunde' wirken sich auf bis zu sechs Ziele aus."/>
+<label key="key:620765840:54354734" value="Die Fertigkeiten 'Kranke versorgen' und 'Heilkunde' wirken sich auf alle Verbündeten in einem bestimmten Wirkungsbereich aus. Ermöglicht es außerdem, im Kampf Heilkunde anzuwenden."/>
+<label key="key:620765846:106251890" value="Kategorienbonus: ${PROPERTY} um ${VALUE} erhöht"/>
+<label key="key:620765846:191029568" value="Eure Fertigkeiten besitzen die Möglichkeit, eine geringe Menge Kraft wiederherzustellen."/>
+<label key="key:620765846:54354734" value="Alle Eure Fertigkeiten besitzen die Möglichkeit, eine geringe Menge Kraft wiederherzustellen."/>
+<label key="key:620765855:106251890" value="Kategorienbonus: ${PROPERTY} um ${VALUE} erhöht"/>
+<label key="key:620765855:191029568" value="Eure magischen Fähigkeiten kosten weniger Kraft. Dazu gehören 'Zeichen', 'Rissige Erde', 'Windstoß', 'Macht des Wissens', 'Teilung der Macht', 'Licht der aufsteigenden Dämmerung' und 'Kriegszug der Ents'."/>
+<label key="key:620765855:54354734" value="Alle Eure Magie-Fertigkeiten kosten weniger Kraft."/>
+<label key="key:620765874:106251890" value="Kategoriebonus: ${PROPERTY} ${VALUE}"/>
+<label key="key:620765874:191029568" value="Längere Dauer von Balladen der Stufe 3."/>
+<label key="key:620765874:54354734" value="Die Dauer Eurer Balladen wird um 10 Sek. gesteigert."/>
+<label key="key:620765878:106251890" value="Kategoriebonus: ${PROPERTY} ${VALUE}"/>
+<label key="key:620765878:191029568" value="Erhöhte Stärkung im Kampf, wenn Hymne der Valar eingesetzt wird."/>
+<label key="key:620765878:54354734" value="Wenn Ihr Hymne der Valar einsetzt, wird Eure Regeneration im Kampf verbessert."/>
+<label key="key:620765883:106251890" value="Kategorienbonus: ${PROPERTY} ${PERCENTVALUE}"/>
+<label key="key:620765883:191029568" value="Steigert die Wirksamkeit von Lied der Hilfe."/>
+<label key="key:620765883:54354734" value="Das 'Lied der Hilfe' dauert 10 Sek. länger an und wird 20 % schneller wiederhergestelt."/>
+<label key="key:620765895:106251890" value="Kategoriebonus: ${PROPERTY} ${VALUE}"/>
+<label key="key:620765895:191029568" value="Verlängert die Zeit, in der Ihr die nächste Stufe Eurer Balladen vortragen könnt."/>
+<label key="key:620765895:54354734" value="Ihr habt länger Gelegenheit, Stufen-Balladen vorzutragen."/>
+<label key="key:620765897:106251890" value="Kategoriebonus: ${PROPERTY} ${VALUE}"/>
+<label key="key:620765897:191029568" value="Die Wahrscheinlichkeit, dass 'Schlag des Herolds' kritische Treffer erzielt, erhöht sich."/>
+<label key="key:620765897:54354734" value="'Schlag des Herolds' fügt doppelten Schaden zu."/>
+<label key="key:620765899:106251890" value="Kategoriebonus: ${PROPERTY} ${VALUE}"/>
+<label key="key:620765899:191029568" value="Mit dieser Fertigkeit werden die 'Ballade der Lebenskraft' und die 'Ballade der Balance' zu langsameren Liedern, die keinen Schaden mehr verursachen. Stattdessen wird der Zeitraum verlängert, in dem sie sich auf Eure Gefährten auswirken."/>
+<label key="key:620765899:54354734" value="Mit dieser Fertigkeit werden die 'Ballade der Lebenskraft' und die 'Ballade der Balance' zu langsameren Liedern, die keinen Schaden mehr verursachen. Stattdessen wird der Zeitraum verlängert, in dem sie sich auf Eure Gefährten auswirken."/>
+<label key="key:620765901:106251890" value="Kategoriebonus: ${PROPERTY} ${VALUE}"/>
+<label key="key:620765901:191029568" value="Die Kraftkosten, die für Eure Schreie und Rufe erforderlich sind, werden verringert."/>
+<label key="key:620765901:54354734" value="Alle Eure Schreie und Rufe kosten weniger Kraft."/>
+<label key="key:620765903:106251890" value="Kategoriebonus: ${PROPERTY} ${VALUE}"/>
+<label key="key:620765903:191029568" value="Verringert die Kraftkosten für alle Moral steigernden Fähigkeiten."/>
+<label key="key:620765903:54354734" value="Eure Moral regenerierenden Fertigkeiten kosten weniger Kraft."/>
+<label key="key:620765905:106251890" value="Kategoriebonus: ${PROPERTY} ${VALUE}"/>
+<label key="key:620765905:191029568" value="Wenn Ihr mit 'Durchdringender Schrei' einen kritischen Treffer landet, wird Euer Feind gelähmt. Diese Eigenschaft sorgt außerdem dafür, dass 'Durchdringender Schrei' schneller wieder zur Verfügung steht."/>
+<label key="key:620765905:54354734" value="Wenn Ihr mit 'Durchdringender Schrei' einen kritischen Treffer landet, wird Euer Feind gelähmt. + 25% auf Kritischer Treffer bei Durchdringender Schrei und die Zeitspanne bis zur nächsten Verwendung wird um 3 Sekunden verringert."/>
+<label key="key:620765907:106251890" value="Kategorienbonus: ${PROPERTY} ${PERCENTVALUE}"/>
+<label key="key:620765907:191029568" value="Eure Fertigkeiten können nicht mehr so leicht gestört werden."/>
+<label key="key:620765907:54354734" value="Ihr könnt Eure Fertigkeiten schneller wieder anwenden, so dass Ihr nicht mehr so leicht gestört werden."/>
+<label key="key:620765910:106251890" value="Kategoriebonus: ${PROPERTY} ${VALUE}"/>
+<label key="key:620765910:191029568" value="Balladen der Stufen 1 und 2 fügen den Feinden größeren Schaden zu."/>
+<label key="key:620765910:54354734" value="Balladen der Stufen 1 und 2 fügen den Feinden größeren Schaden zu."/>
+<label key="key:620765914:106251890" value="Kategorienbonus: ${PROPERTY} ${PERCENTVALUE}"/>
+<label key="key:620765914:191029568" value="Die Fertigkeiten, die Euch wieder ins Leben holen, erhalten einen höheren Wert für Moral und Wiederherstellung der Kraft."/>
+<label key="key:620765914:54354734" value="Die Auswirkungen von 'Beseelende Anmut' und 'Zusammenkunft' erhöhen Moral und Macht. 'Zusammenkunft' steht 2 Sek. schneller wieder zur Verfügung und die Erholungszeit wird um 2 Sek. verringert."/>
+<label key="key:620765919:106251890" value="Kategorienbonus: ${PROPERTY} ${PERCENTVALUE}"/>
+<label key="key:620765919:191029568" value="Lied-Fertigkeiten stehen schneller wieder zur Verfügung."/>
+<label key="key:620765919:54354734" value="Alle Eure Lieder werden 20 % schneller wiederhergestellt."/>
+<label key="key:620765923:106251890" value="Kategoriebonus: ${PROPERTY} ${VALUE}"/>
+<label key="key:620765923:191029568" value="Geringere Aggressivität bei allen speziellen Barden-Fähigkeiten."/>
+<label key="key:620765923:54354734" value="Der Einsatz Eurer Fertigkeiten zieht weniger Aufmerksamkeit Eurer Feinde auf Euch."/>
+<label key="key:620765941:106251890" value="Kategoriebonus: Erhöht ${PROPERTY} um ${PERCENTVALUE}"/>
+<label key="key:620765941:191029568" value="DOT-Wert von Täuschender Angriff wurde erhöht."/>
+<label key="key:620765941:54354734" value="Die durch Täuschende Angriffe von Euch zugefügten Wunden bluten stärker."/>
+<label key="key:620765947:106251890" value="Kategoriebonus: Erhöht ${PROPERTY} um ${PERCENTVALUE}"/>
+<label key="key:620765947:191029568" value="Raffiniertes Messer fügt größeren Schaden zu."/>
+<label key="key:620765947:54354734" value="Ihr könnt Eure Fertigkeit 'Raffinierter Stich' mit größerer Geschwindigkeit ausführen und so mehr Schaden zufügen."/>
+<label key="key:620765950:106251890" value="Kategoriebonus: Erhöht ${PROPERTY} um ${VALUE}"/>
+<label key="key:620765950:191029568" value="Rätsel lähmt, bevor es hypnotisiert."/>
+<label key="key:620765950:54354734" value="Eure Rätsel sind für Eure Feinde viel zu verblüffend. Sie werden regelrecht gelähmt und hypnotisiert."/>
+<label key="key:620765956:106251890" value="Verringert die Wahrscheinlichkeit, dass ein Angriff scheitert."/>
+<label key="key:620765956:106251891" value="Kategoriebonus: Erhöht ${PROPERTY} um ${PERCENTVALUE}"/>
+<label key="key:620765956:191029568" value="Verringert bei Angriffen während des Schleichens die Wahrscheinlichkeit von Fehltreffern, Paraden, Blocken und Ausweichen."/>
+<label key="key:620765956:54354734" value="Eure Angriffe während des Schleichens sind viel genauer. Dadurch sinkt die Wahrscheinlichkeit, dass Ihr nicht trefft oder Euer Feind ausweichen kann."/>
+<label key="key:620765958:106251889" value="Vermindert die Erholungszeit beim Zielen um ${VALUE} Sekunden"/>
+<label key="key:620765958:106251890" value="Kategoriebonus: Erhöht ${PROPERTY} um ${PERCENTVALUE}"/>
+<label key="key:620765958:191029568" value="Ihr könnt Euch beim Zielen schneller beruhigen."/>
+<label key="key:620765958:54354734" value="Ihr könnt schneller zielen als zuvor."/>
+<label key="key:620765961:106251890" value="Kategoriebonus: Erhöht ${PROPERTY} um ${VALUE}"/>
+<label key="key:620765961:191029568" value="Gesteigerte Fähigkeit auszuweichen"/>
+<label key="key:620765961:54354734" value="Ihr könnt Angriffen leichter ausweichen als zuvor."/>
+<label key="key:620765963:106251889" value="'Staub in die Augen' besitzt nun einen Wirkungsbereich."/>
+<label key="key:620765963:106251890" value="Kategoriebonus: Verbessert die Heilung durch bösartige Schadenfreude um ${PERCENTVALUE} und 1 Impuls"/>
+<label key="key:620765963:191029568" value="Staub in die Augen - Wirkt sich auf mehrere Ziele in der Nähe aus."/>
+<label key="key:620765963:54354734" value="Eure Fertigkeit Staub in die Augen wirkt sich auf mehrere Feinde in der Nähe aus."/>
+<label key="key:620765974:106251891" value="Kategoriebonus: Erhöht ${PROPERTY} um ${PERCENTVALUE}"/>
+<label key="key:620765974:191029568" value="Erhöhte Wahrscheinlichkeit auf einen kritischen Treffer bei Angriffen unter Verwendung von Schleichen."/>
+<label key="key:620765974:54354734" value="Ihr könnt genauere Schläge setzen, wenn Ihr Schleichen verwendet und angreift. Dadurch steigen Eure Chancen, mit 'Überraschungsschlag', 'Täuschender Angriff' oder 'Provozieren' einen kritischen Treffer zu landen."/>
+<label key="key:620765976:106251891" value="Kategoriebonus: Erhöht ${PROPERTY} um ${PERCENTVALUE}"/>
+<label key="key:620765976:191029568" value="Erhöht die aktuelle Stufe von Schleichen."/>
+<label key="key:620765976:54354734" value="Eure Fähigkeit, Euch schleichend fortzubewegen, hat sich über Eure natürliche Begabung hinaus entwickelt."/>
+<label key="key:620765980:106251890" value="Kategoriebonus: Verbessert die Heilung durch bösartige Schadenfreude um ${PERCENTVALUE} und 1 Impuls"/>
+<label key="key:620765980:191029568" value="Behindern - Verringert die Angriffsgeschwindigkeit noch weiter."/>
+<label key="key:620765980:54354734" value="Mit Eurer Fertigkeit 'Behindern' könnt Ihr die Geschwindigkeit Eures Feindes stark verringern."/>
+<label key="key:620765986:106251890" value="Kategoriebonus: Verbessert die Heilung durch bösartige Schadenfreude um ${PERCENTVALUE} und 1 Impuls"/>
+<label key="key:620765986:191029568" value="Abwehr reduzieren - Steigert die Anfälligkeit des Ziels gegen kritische Treffer."/>
+<label key="key:620765986:54354734" value="Verbessert Eure Fertigkeit 'Abwehr reduzieren' und macht so den Gegner bei kritischen Treffern noch verwundbarer"/>
+<label key="key:620765992:106251890" value="Kategoriebonus: Erhöht ${PROPERTY} um ${VALUE}"/>
+<label key="key:620765992:191029568" value="Die Werte Eurer Trickschwächung erhöhen sich, nachdem Ihr an einer erfolgreichen Kombination beteiligt wart."/>
+<label key="key:620765992:54354734" value="Die Vervollständigung eines Gefährten-Manövers bestärkt den Schurken je nach vervollständigtem Manöver."/>
+<label key="key:620765998:106251891" value="Kategoriebonus: Erhöht ${PROPERTY} um ${PERCENTVALUE}"/>
+<label key="key:620765998:191029568" value="Ihr seid in der Lage, Euch schleichend schneller fortzubewegen."/>
+<label key="key:620765998:54354734" value="Die Fertigkeit 'Schleichen' ist verbessert, so dass Ihr in der Lage seid, Euch schneller fortzubewegen."/>
+<label key="key:620766007:106251890" value="Kategoriebonus: Verbessert die Heilung durch bösartige Schadenfreude um ${PERCENTVALUE} und 1 Impuls"/>
+<label key="key:620766007:191029568" value="Erzürnen - Aus der Ferne wirkende Fertigkeiten unterdrücken."/>
+<label key="key:620766007:54354734" value="Wenn Ihr Eure Feinde erzürnt, verwickeln sie Euch wahrscheinlich in einen Nahkampf."/>
+<label key="key:620766329:191029568" value="Geschicklichkeitsstufe 1 wurde erreicht."/>
+<label key="key:620766329:54354734" value="Geschicklichkeitsstufe 1 wird erreicht."/>
+<label key="key:620766330:191029568" value="Beherrschungsstufe 1 wurde erreicht."/>
+<label key="key:620766330:54354734" value="Beherrschungsstufe 1 wird erreicht."/>
+<label key="key:620766331:191029568" value="Geschicklichkeitsstufe 2 wurde erreicht."/>
+<label key="key:620766331:54354734" value="Geschicklichkeitsstufe 2 wird erreicht."/>
+<label key="key:620766332:191029568" value="Beherrschungsstufe 2 wurde erreicht."/>
+<label key="key:620766332:54354734" value="Beherrschungsstufe 2 wird erreicht."/>
+<label key="key:620766333:191029568" value="Geschicklichkeitsstufe 3 wurde erreicht."/>
+<label key="key:620766333:54354734" value="Geschicklichkeitsstufe 3 wird erreicht."/>
+<label key="key:620766334:191029568" value="Beherrschungsstufe 3 wurde erreicht."/>
+<label key="key:620766334:54354734" value="Beherrschungsstufe 3 wird erreicht."/>
+<label key="key:620766335:191029568" value="Geschicklichkeitsstufe 4 wurde erreicht."/>
+<label key="key:620766335:54354734" value="Geschicklichkeitsstufe 4 wird erreicht."/>
+<label key="key:620766336:191029568" value="Beherrschungsstufe 4 wurde erreicht."/>
+<label key="key:620766336:54354734" value="Beherrschungsstufe 4 wird erreicht."/>
+<label key="key:620766337:191029568" value="Geschicklichkeitsstufe 5 wurde erreicht."/>
+<label key="key:620766337:54354734" value="Geschicklichkeitsstufe 5 wird erreicht."/>
+<label key="key:620766338:191029568" value="Beherrschungsstufe 5 wurde erreicht."/>
+<label key="key:620766338:54354734" value="Beherrschungsstufe 5 wird erreicht."/>
+<label key="key:620766959:191029568" value="Zugang zu überragender Schmiede"/>
+<label key="key:620766959:54354734" value="Zugang zu überragender Schmiede"/>
+<label key="key:620767178:191029568" value="Zugang zu besserem Ofen"/>
+<label key="key:620767178:54354734" value="Zugang zu besserem Ofen"/>
+<label key="key:620767346:191029568" value="Zugang zu überragenden Studierstuben"/>
+<label key="key:620767346:54354734" value="Zugang zu überragenden Studierstuben"/>
+<label key="key:620767447:106251889" value="Ihr könnt ein Schwert benutzen."/>
+<label key="key:620767447:106251890" value="Ihr könnt mit zwei Waffen kämpfen."/>
+<label key="key:620767447:191029568" value="Ihr seid jetzt in der Lage, beidhändig mit Schwert und Stab zu kämpfen. Außerdem habt Ihr Eure Fertigkeiten im Nahkampf verbessert."/>
+<label key="key:620767447:54354734" value="Ihr seid jetzt in der Lage, beidhändig mit Schwert und Stab zu kämpfen. Außerdem habt Ihr Eure Fertigkeiten im Nahkampf verbessert."/>
+<label key="key:620767613:191029568" value="Zugang zu besserer Werkbank"/>
+<label key="key:620767613:54354734" value="Zugang zu besserer Werkbank"/>
+<label key="key:620767742:191029568" value="Mine tracking, baby."/>
+<label key="key:620767742:54354734" value="Ihr seid in der Lage, Erzlagerstätten aufzuspüren."/>
+<label key="key:620767745:191029568" value="Geschicklichkeitsstufe 1 wurde erreicht."/>
+<label key="key:620767745:54354734" value="Geschicklichkeitsstufe 1 wird erreicht."/>
+<label key="key:620767746:191029568" value="Beherrschungsstufe 1 wurde erreicht."/>
+<label key="key:620767746:54354734" value="Beherrschungsstufe 1 wird erreicht."/>
+<label key="key:620767747:191029568" value="Geschicklichkeitsstufe 2 wurde erreicht."/>
+<label key="key:620767747:54354734" value="Geschicklichkeitsstufe 2 wird erreicht."/>
+<label key="key:620767748:191029568" value="Beherrschungsstufe 2 wurde erreicht."/>
+<label key="key:620767748:54354734" value="Beherrschungsstufe 2 wird erreicht."/>
+<label key="key:620767749:191029568" value="Geschicklichkeitsstufe 3 wurde erreicht."/>
+<label key="key:620767749:54354734" value="Geschicklichkeitsstufe 3 wird erreicht."/>
+<label key="key:620767750:191029568" value="Beherrschungsstufe 3 wurde erreicht."/>
+<label key="key:620767750:54354734" value="Beherrschungsstufe 3 wird erreicht."/>
+<label key="key:620767751:191029568" value="Geschicklichkeitsstufe 4 wurde erreicht."/>
+<label key="key:620767751:54354734" value="Geschicklichkeitsstufe 4 wird erreicht."/>
+<label key="key:620767752:191029568" value="Beherrschungsstufe 4 wurde erreicht."/>
+<label key="key:620767752:54354734" value="Beherrschungsstufe 4 wird erreicht."/>
+<label key="key:620767753:191029568" value="Geschicklichkeitsstufe 5 wurde erreicht."/>
+<label key="key:620767753:54354734" value="Geschicklichkeitsstufe 5 wird erreicht."/>
+<label key="key:620767754:191029568" value="Beherrschungsstufe 5 wurde erreicht."/>
+<label key="key:620767754:54354734" value="Beherrschungsstufe 5 wird erreicht."/>
+<label key="key:620767777:191029568" value="Wood tracking, baby."/>
+<label key="key:620767777:54354734" value="Ihr seid in der Lage, Äste aufzuspüren."/>
+<label key="key:620767780:191029568" value="Geschicklichkeitsstufe 1 wurde erreicht."/>
+<label key="key:620767780:54354734" value="Geschicklichkeitsstufe 1 wird erreicht."/>
+<label key="key:620767781:191029568" value="Beherrschungsstufe 1 wurde erreicht."/>
+<label key="key:620767781:54354734" value="Beherrschungsstufe 1 wird erreicht."/>
+<label key="key:620767782:191029568" value="Geschicklichkeitsstufe 2 wurde erreicht."/>
+<label key="key:620767782:54354734" value="Geschicklichkeitsstufe 2 wird erreicht."/>
+<label key="key:620767783:191029568" value="Beherrschungsstufe 2 wurde erreicht."/>
+<label key="key:620767783:54354734" value="Beherrschungsstufe 2 wird erreicht."/>
+<label key="key:620767784:191029568" value="Geschicklichkeitsstufe 3 wurde erreicht."/>
+<label key="key:620767784:54354734" value="Geschicklichkeitsstufe 3 wird erreicht."/>
+<label key="key:620767785:191029568" value="Beherrschungsstufe 3 wurde erreicht."/>
+<label key="key:620767785:54354734" value="Beherrschungsstufe 3 wird erreicht."/>
+<label key="key:620767786:191029568" value="Geschicklichkeitsstufe 4 wurde erreicht."/>
+<label key="key:620767786:54354734" value="Geschicklichkeitsstufe 4 wird erreicht."/>
+<label key="key:620767787:191029568" value="Beherrschungsstufe 4 wurde erreicht."/>
+<label key="key:620767787:54354734" value="Beherrschungsstufe 4 wird erreicht."/>
+<label key="key:620767788:191029568" value="Geschicklichkeitsstufe 5 wurde erreicht."/>
+<label key="key:620767788:54354734" value="Geschicklichkeitsstufe 5 wird erreicht."/>
+<label key="key:620767789:191029568" value="Beherrschungsstufe 5 wurde erreicht."/>
+<label key="key:620767789:54354734" value="Beherrschungsstufe 5 wird erreicht."/>
+<label key="key:620767852:191029568" value="Crop tracking, baby."/>
+<label key="key:620767852:54354734" value="Ihr seid in der Lage, Feldfrüchte aufzuspüren."/>
+<label key="key:620767855:191029568" value="Geschicklichkeitsstufe 1 wurde erreicht."/>
+<label key="key:620767855:54354734" value="Geschicklichkeitsstufe 1 wird erreicht."/>
+<label key="key:620767856:191029568" value="Beherrschungsstufe 1 wurde erreicht."/>
+<label key="key:620767856:54354734" value="Beherrschungsstufe 1 wird erreicht."/>
+<label key="key:620767857:191029568" value="Geschicklichkeitsstufe 2 wurde erreicht."/>
+<label key="key:620767857:54354734" value="Geschicklichkeitsstufe 2 wird erreicht."/>
+<label key="key:620767858:191029568" value="Beherrschungsstufe 2 wurde erreicht."/>
+<label key="key:620767858:54354734" value="Beherrschungsstufe 2 wird erreicht."/>
+<label key="key:620767859:191029568" value="Geschicklichkeitsstufe 3 wurde erreicht."/>
+<label key="key:620767859:54354734" value="Geschicklichkeitsstufe 3 wird erreicht."/>
+<label key="key:620767860:191029568" value="Beherrschungsstufe 3 wurde erreicht."/>
+<label key="key:620767860:54354734" value="Beherrschungsstufe 3 wird erreicht."/>
+<label key="key:620767861:191029568" value="Geschicklichkeitsstufe 4 wurde erreicht."/>
+<label key="key:620767861:54354734" value="Geschicklichkeitsstufe 4 wird erreicht."/>
+<label key="key:620767862:191029568" value="Beherrschungsstufe 4 wurde erreicht."/>
+<label key="key:620767862:54354734" value="Beherrschungsstufe 4 wird erreicht."/>
+<label key="key:620767863:191029568" value="Geschicklichkeitsstufe 5 wurde erreicht."/>
+<label key="key:620767863:54354734" value="Geschicklichkeitsstufe 5 wird erreicht."/>
+<label key="key:620767864:191029568" value="Beherrschungsstufe 5 wurde erreicht."/>
+<label key="key:620767864:54354734" value="Beherrschungsstufe 5 wird erreicht."/>
+<label key="key:620768649:191029568" value="Vergrößert den durch Eure Angriffe hervorgerufenen Schaden."/>
+<label key="key:620768649:54354734" value="Vergrößert den durch Eure Angriffe hervorgerufenen Schaden."/>
+<label key="key:620768650:106251889" value="Erhöht Eure Gesamtlebensenergie um ${PERCENTVALUE}"/>
+<label key="key:620768650:191029568" value="Erhöht die maximale Lebensenergie."/>
+<label key="key:620768650:54354734" value="Erhöht die maximale Lebensenergie."/>
+<label key="key:620768651:106251889" value="Erhöht Eure Gesamtkraft um ${PERCENTVALUE}"/>
+<label key="key:620768651:191029568" value="Erhöht die maximale Kraft."/>
+<label key="key:620768651:54354734" value="Erhöht die maximale Kraft."/>
+<label key="key:620768652:191029568" value="Verbessert den Schutz durch Eure Rüstung."/>
+<label key="key:620768652:54354734" value="Verbessert den Schutz durch Eure Rüstung."/>
+<label key="key:620768653:191029568" value="Verbessert Eure Fähigkeit, Angriffe zu vermeiden."/>
+<label key="key:620768653:54354734" value="Verbessert Eure Fähigkeit, Angriffe zu vermeiden."/>
+<label key="key:620768654:191029568" value="Erhöht die Resistenz gegen bestimmte negative Effekte."/>
+<label key="key:620768654:54354734" value="Erhöht die Resistenz gegen bestimmte negative Effekte."/>
+<label key="key:620768664:191029568" value="Ermöglicht den Einsatz von einhändigen Äxten"/>
+<label key="key:620768664:54354734" value="Ermöglicht den Einsatz von einhändigen Äxten. Äxte haben eine geringe Wahrscheinlichkeit, die Rüstung des Ziels zu schwächen, treffen jedoch etwas seltener als andere Waffen"/>
+<label key="key:620768665:191029568" value="Ermöglicht den Einsatz von einhändigen Keulen"/>
+<label key="key:620768665:54354734" value="Ermöglicht den Einsatz von einhändigen Keulen"/>
+<label key="key:620768666:191029568" value="Ermöglicht den Einsatz von einhändigen Hämmern"/>
+<label key="key:620768666:54354734" value="Ermöglicht den Einsatz von einhändigen Hämmern"/>
+<label key="key:620768667:191029568" value="Ermöglicht den Einsatz von einhändigen Streitkolben"/>
+<label key="key:620768667:54354734" value="Ermöglicht den Einsatz von einhändigen Streitkolben"/>
+<label key="key:620768668:191029568" value="Ermöglicht den Einsatz von einhändigen Schwertern"/>
+<label key="key:620768668:54354734" value="Ermöglicht den Einsatz von einhändigen Schwertern. Die Treffwahrscheinlichkeit von Schwertern ist leicht erhöht."/>
+<label key="key:620768669:191029568" value="Ermöglicht den Einsatz von Dolchen"/>
+<label key="key:620768669:54354734" value="Ermöglicht den Einsatz von Dolchen Beim Einsatz von Dolchen besteht eine geringe Wahrscheinlichkeit, auf Kosten des Gesamtschadens kritische Treffer zu erzielen"/>
+<label key="key:620768670:191029568" value="Ermöglicht den Einsatz einer Zweitwaffe in der anderen Hand"/>
+<label key="key:620768670:54354734" value="Ermöglicht den Einsatz einer Zweitwaffe in der anderen Hand"/>
+<label key="key:620768671:191029568" value="Ermöglicht den Einsatz von Bardeninstrumenten"/>
+<label key="key:620768671:54354734" value="Ermöglicht den Einsatz von Bardeninstrumenten"/>
+<label key="key:620768672:191029568" value="Ermöglicht den Einsatz von leichter Rüstung"/>
+<label key="key:620768672:54354734" value="Ermöglicht den Einsatz von leichter Rüstung"/>
+<label key="key:620768673:191029568" value="Ermöglicht den Einsatz von mittlerer Rüstung"/>
+<label key="key:620768673:54354734" value="Ermöglicht den Einsatz von mittelerer Rüstung"/>
+<label key="key:620768674:191029568" value="Ermöglicht die Verwendung von Hörnern"/>
+<label key="key:620768674:54354734" value="Ermöglicht die Verwendung von Hörnern"/>
+<label key="key:620768677:191029568" value="Ermöglicht den Einsatz von zweihändigen Äxten"/>
+<label key="key:620768677:54354734" value="Ermöglicht den Einsatz von zweihändigen Äxten. Äxte haben eine geringe Wahrscheinlichkeit, die Rüstung des Ziels zu schwächen, treffen jedoch etwas seltener als andere Waffen."/>
+<label key="key:620768678:191029568" value="Ermöglicht den Einsatz von zweihändigen Hämmern"/>
+<label key="key:620768678:54354734" value="Ermöglicht den Einsatz von zweihändigen Hämmern"/>
+<label key="key:620768679:191029568" value="Ermöglicht den Einsatz von zweihändigen Schwertern"/>
+<label key="key:620768679:54354734" value="Ermöglicht den Einsatz von zweihändigen Schwertern. Die Treffwahrscheinlichkeit von Schwertern ist leicht erhöht."/>
+<label key="key:620768680:191029568" value="Ermöglicht den Einsatz von Speeren"/>
+<label key="key:620768680:54354734" value="Ermöglicht den Einsatz von Speeren. Beim Einsatz von Speeren besteht eine geringe Wahrscheinlichkeit, das Ziel zu verwunden und so Schaden über Zeit zu verursachen."/>
+<label key="key:620768683:106251889" value="Verringert die Wahrscheinlichkeit, dass ein Angriff scheitert, in durchschnittlichem Maße"/>
+<label key="key:620768684:191029568" value="Ermöglicht den Einsatz von Schilden"/>
+<label key="key:620768684:54354734" value="Ermöglicht den Einsatz von Schilden"/>
+<label key="key:620768687:191029568" value="Ermöglicht den Einsatz von Bogen"/>
+<label key="key:620768687:54354734" value="Ermöglicht den Einsatz von Bögen Beim Einsatz von Bögen besteht eine geringe Wahrscheinlichkeit, während eines automatischen Angriffs kritische Treffer zu erzielen"/>
+<label key="key:620768688:191029568" value="Ermöglicht den Einsatz von schwerer Rüstung"/>
+<label key="key:620768688:54354734" value="Ermöglicht den Einsatz von schwerer Rüstung"/>
+<label key="key:620768699:106251889" value="Verringert die Wahrscheinlichkeit, dass ein Angriff scheitert, in durchschnittlichem Maße"/>
+<label key="key:620768703:106251889" value="Verringert die Wahrscheinlichkeit, dass ein Angriff scheitert, in geringem Maße"/>
+<label key="key:620768706:191029568" value="Ermöglicht den Einsatz von zweihändigen Keulen"/>
+<label key="key:620768706:54354734" value="Ermöglicht den Einsatz von zweihändigen Keulen. Beim Einsatz von Keulen gibt es eine geringe Wahrscheinlichkeit, das Ziel zu betäuben."/>
+<label key="key:620768711:191029568" value="Ermöglicht den Einsatz von Hellebarden"/>
+<label key="key:620768711:54354734" value="Ermöglicht den Einsatz von Hellebarden Der Einsatz von Hellebarden erhöht Eure Bedrohungsstufe und zieht die Aufmerksamkeit der Feinde auf Euch"/>
+<label key="key:620768724:191029568" value="Ermöglicht die Verwendung von Beschwörungshörnern"/>
+<label key="key:620768724:54354734" value="Ermöglicht die Verwendung von Beschwörungshörnern"/>
+<label key="key:620768727:191029568" value="Ermöglicht die Verwendung von Lauten"/>
+<label key="key:620768727:54354734" value="Ermöglicht die Verwendung von Lauten"/>
+<label key="key:620768734:191029568" value="Ermöglicht die Verwendung von Klarinetten"/>
+<label key="key:620768734:54354734" value="Ermöglicht die Verwendung von Klarinetten"/>
+<label key="key:620768735:191029568" value="Ermöglicht die Verwendung von Flöten"/>
+<label key="key:620768735:54354734" value="Ermöglicht die Verwendung von Flöten"/>
+<label key="key:620768736:191029568" value="Ermöglicht die Verwendung von Harfen"/>
+<label key="key:620768736:54354734" value="Ermöglicht die Verwendung von Harfen"/>
+<label key="key:620768750:191029568" value="Ermöglicht den Einsatz von zweihändigen Knüppeln"/>
+<label key="key:620768750:54354734" value="Ermöglicht den Einsatz von zweihändigen Knüppeln:"/>
+<label key="key:620768753:106251889" value="Verringert die Wahrscheinlichkeit, dass ein Angriff scheitert, in durchschnittlichem Maße"/>
+<label key="key:620768756:106251889" value="Verringert die Wahrscheinlichkeit, dass ein Angriff scheitert, in durchschnittlichem Maße"/>
+<label key="key:620768762:106251889" value="Verringert die Wahrscheinlichkeit, dass ein Angriff scheitert, in durchschnittlichem Maße"/>
+<label key="key:620768764:106251889" value="Verringert die Wahrscheinlichkeit, dass ein Angriff scheitert, in geringem Maße"/>
+<label key="key:620768771:191029568" value="Ermöglicht den Einsatz von schweren Schilden"/>
+<label key="key:620768771:54354734" value="Ermöglicht den Einsatz von schweren Schilden"/>
+<label key="key:620768778:191029568" value="Ermöglicht den Einsatz von Armbrüsten"/>
+<label key="key:620768778:54354734" value="Ermöglicht den Einsatz von Armbrüsten Beim Einsatz von Armbrüsten verringert sich Eure Chance, während eines automatischen Angriffs Angriffe abzublocken"/>
+<label key="key:620768802:106251889" value="Vergrößert die maximale Reichweite des automatischen Fernangriffs um ${VALUE} Meter."/>
+<label key="key:620768802:191029568" value="Vergrößert die maximale Reichweite Eurer automatischen Fernangriffe."/>
+<label key="key:620768802:54354734" value="Eure Fertigkeit im Umgang mit Fernwaffen ermöglicht Euch, aus größerer Entfernung zu schießen als andere."/>
+<label key="key:620774667:106251889" value="Erhöht Eure Gesamtkraft um ${PERCENTVALUE}"/>
+<label key="key:620774671:191029568" value="Ermöglicht Euch, mit Eurer Fertigkeit 'Zerfurchter Schnitt' Euren Zielen Schaden über Zeit zuzufügen."/>
+<label key="key:620774671:54354734" value="Ermöglicht Euch, mit Eurer Fertigkeit 'Zerfurchter Schnitt' Euren Zielen Schaden über Zeit zuzufügen."/>
+<label key="key:620774673:191029568" value="Euch wird kein zusätzlicher Nahkampfschaden mehr zugefügt, wenn Ihr 'Ruhm durch Sieg' einsetzt."/>
+<label key="key:620774673:54354734" value="Euch wird kein zusätzlicher Nahkampfschaden mehr zugefügt, wenn Ihr 'Ruhm durch Sieg' einsetzt."/>
+<label key="key:620774674:191029568" value="Ihr könnt 'Verheerender Schlag' häufiger einsetzen."/>
+<label key="key:620774674:54354734" value="Ihr könnt 'Verheerender Schlag' häufiger einsetzen."/>
+<label key="key:620774675:191029568" value="Ihr seid abgehärteter als die meisten anderen und erholt Euch wieder, wenn Ihr zu Boden geschlagen oder betäubt wurde."/>
+<label key="key:620774675:54354734" value="Ihr seid abgehärteter als die meisten anderen und erholt Euch wieder, wenn Ihr zu Boden geschlagen oder betäubt wurde."/>
+<label key="key:620774683:191029568" value="Ein anderes Aussehen für Euren Ork-Schnitter"/>
+<label key="key:620774683:54354734" value="Ein anderes Aussehen für Euren Ork-Schnitter"/>
+<label key="key:620774684:191029568" value="Ein anderes Aussehen für Euren Ork-Schnitter"/>
+<label key="key:620774684:54354734" value="Ein anderes Aussehen für Euren Ork-Schnitter"/>
+<label key="key:620774685:191029568" value="Ein anderes Aussehen für Euren Ork-Schnitter"/>
+<label key="key:620774685:54354734" value="Ein anderes Aussehen für Euren Ork-Schnitter"/>
+<label key="key:620774686:191029568" value="Ein anderes Aussehen für Euren Ork-Schnitter"/>
+<label key="key:620774686:54354734" value="Ein anderes Aussehen für Euren Ork-Schnitter"/>
+<label key="key:620774687:191029568" value="Ein anderes Aussehen für Euren Ork-Schnitter"/>
+<label key="key:620774687:54354734" value="Ein anderes Aussehen für Euren Ork-Schnitter"/>
+<label key="key:620774688:191029568" value="Ein anderes Aussehen für Euren Ork-Schnitter"/>
+<label key="key:620774688:54354734" value="Ein anderes Aussehen für Euren Ork-Schnitter"/>
+<label key="key:620774689:106251889" value="Erhöht Eure Gesamtlebensenergie um ${PERCENTVALUE}"/>
+<label key="key:620774692:191029568" value="Verkürzt die Zeit, die Ihr für Netzangriffe braucht um 0,25 Sekunden."/>
+<label key="key:620774692:54354734" value="Verkürzt die Zeit, die Ihr für Netzangriffe braucht um 0,25 Sekunden."/>
+<label key="key:620774696:191029568" value="Ihr werft klebrige Netze auf Euer Ziel und verringert so dessen Chance zu parieren oder auszuweichen."/>
+<label key="key:620774696:54354734" value="Ihr werft klebrige Netze auf Euer Ziel und verringert so dessen Chance zu parieren oder auszuweichen."/>
+<label key="key:620774705:191029568" value="Ein anderes Aussehen für Euren Spinnen-Weber"/>
+<label key="key:620774705:54354734" value="Ein anderes Aussehen für Euren Spinnen-Weber"/>
+<label key="key:620774706:191029568" value="Ein anderes Aussehen für Euren Spinnen-Weber"/>
+<label key="key:620774706:54354734" value="Ein anderes Aussehen für Euren Spinnen-Weber"/>
+<label key="key:620774707:191029568" value="Ein anderes Aussehen für Euren Spinnen-Weber"/>
+<label key="key:620774707:54354734" value="Ein anderes Aussehen für Euren Spinnen-Weber"/>
+<label key="key:620774708:191029568" value="Ein anderes Aussehen für Euren Spinnen-Weber"/>
+<label key="key:620774708:54354734" value="Ein anderes Aussehen für Euren Spinnen-Weber"/>
+<label key="key:620774709:191029568" value="Ein anderes Aussehen für Euren Spinnen-Weber"/>
+<label key="key:620774709:54354734" value="Ein anderes Aussehen für Euren Spinnen-Weber"/>
+<label key="key:620774710:191029568" value="Ein anderes Aussehen für Euren Spinnen-Weber"/>
+<label key="key:620774710:54354734" value="Ein anderes Aussehen für Euren Spinnen-Weber"/>
+<label key="key:620774715:191029568" value="Euer behindernder Schuss verlangsamt das Ziel nicht nur, sondern hält es auch für einen kurzen Moment an seinem Platz fest."/>
+<label key="key:620774715:54354734" value="Euer behindernder Schuss verlangsamt das Ziel nicht nur, sondern hält es auch für einen kurzen Moment an seinem Platz fest."/>
+<label key="key:620774719:191029568" value="Ihr legt sorgfältig eine Schlingfalle auf den Boden, um Eure Feinde einzufangen."/>
+<label key="key:620774719:54354734" value="Ihr legt sorgfältig eine Schlingfalle auf den Boden, um Eure Feinde einzufangen."/>
+<label key="key:620774725:191029568" value="Ein anderes Aussehen für Euren Uruk-Schwarzpfeil"/>
+<label key="key:620774725:54354734" value="Ein anderes Aussehen für Euren Uruk-Schwarzpfeil"/>
+<label key="key:620774726:191029568" value="Ein anderes Aussehen für Euren Uruk-Schwarzpfeil"/>
+<label key="key:620774726:54354734" value="Ein anderes Aussehen für Euren Uruk-Schwarzpfeil"/>
+<label key="key:620774727:191029568" value="Ein anderes Aussehen für Euren Uruk-Schwarzpfeil"/>
+<label key="key:620774727:54354734" value="Ein anderes Aussehen für Euren Uruk-Schwarzpfeil"/>
+<label key="key:620774728:191029568" value="Ein anderes Aussehen für Euren Uruk-Schwarzpfeil"/>
+<label key="key:620774728:54354734" value="Ein anderes Aussehen für Euren Uruk-Schwarzpfeil"/>
+<label key="key:620774729:191029568" value="Ein anderes Aussehen für Euren Uruk-Schwarzpfeil"/>
+<label key="key:620774729:54354734" value="Ein anderes Aussehen für Euren Uruk-Schwarzpfeil"/>
+<label key="key:620774730:191029568" value="Ein anderes Aussehen für Euren Uruk-Schwarzpfeil"/>
+<label key="key:620774730:54354734" value="Ein anderes Aussehen für Euren Uruk-Schwarzpfeil"/>
+<label key="key:620774735:191029568" value="Die Ziele werden mit einer höheren Lebenskraft und größerer Kraft wiederbelebt. Außerdem wird die Zeitspanne verkürzt, die benötigt wird, um sich zu erholen."/>
+<label key="key:620774735:54354734" value="Die Ziele werden mit einer höheren Lebenskraft und größerer Kraft wiederbelebt. Außerdem wird die Zeitspanne verkürzt, die benötigt wird, um sich zu erholen."/>
+<label key="key:620774738:191029568" value="Ihr könnt einen Verbündeten, der zu Boden geschlagen oder betäubt wurde, anschreien und er wird sich erholen."/>
+<label key="key:620774738:54354734" value="Ihr könnt einen Verbündeten, der zu Boden geschlagen oder betäubt wurde, anschreien und er wird sich erholen."/>
+<label key="key:620774746:191029568" value="Ein anderes Aussehen für Euren Uruk-Kriegsanführer"/>
+<label key="key:620774746:54354734" value="Ein anderes Aussehen für Euren Uruk-Kriegsanführer"/>
+<label key="key:620774747:191029568" value="Ein anderes Aussehen für Euren Uruk-Kriegsanführer"/>
+<label key="key:620774747:54354734" value="Ein anderes Aussehen für Euren Uruk-Kriegsanführer"/>
+<label key="key:620774748:191029568" value="Ein anderes Aussehen für Euren Uruk-Kriegsanführer"/>
+<label key="key:620774748:54354734" value="Ein anderes Aussehen für Euren Uruk-Kriegsanführer"/>
+<label key="key:620774749:191029568" value="Ein anderes Aussehen für Euren Uruk-Kriegsanführer"/>
+<label key="key:620774749:54354734" value="Ein anderes Aussehen für Euren Uruk-Kriegsanführer"/>
+<label key="key:620774750:191029568" value="Ein anderes Aussehen für Euren Uruk-Kriegsanführer"/>
+<label key="key:620774750:54354734" value="Ein anderes Aussehen für Euren Uruk-Kriegsanführer"/>
+<label key="key:620774751:191029568" value="Ein anderes Aussehen für Euren Uruk-Kriegsanführer"/>
+<label key="key:620774751:54354734" value="Ein anderes Aussehen für Euren Uruk-Kriegsanführer"/>
+<label key="key:620774756:106251890" value="Erhöht Bewegungsgeschwindigkeit beim Schleichen um 20 %."/>
+<label key="key:620774759:191029568" value="Wenn Ihr einen Feind besiegt, könnt Ihr heulen, um Euch und Eure Gefährten allmählich zu heilen."/>
+<label key="key:620774759:54354734" value="Wenn Ihr einen Feind besiegt, könnt Ihr heulen, um Euch und Eure Gefährten allmählich zu heilen."/>
+<label key="key:620774766:191029568" value="Ein anderes Aussehen für Euren Warg-Pirscher"/>
+<label key="key:620774766:54354734" value="Ein anderes Aussehen für Euren Warg-Pirscher"/>
+<label key="key:620774767:191029568" value="Ein anderes Aussehen für Euren Warg-Pirscher"/>
+<label key="key:620774767:54354734" value="Ein anderes Aussehen für Euren Warg-Pirscher"/>
+<label key="key:620774768:191029568" value="Ein anderes Aussehen für Euren Warg-Pirscher"/>
+<label key="key:620774768:54354734" value="Ein anderes Aussehen für Euren Warg-Pirscher"/>
+<label key="key:620774769:191029568" value="Ein anderes Aussehen für Euren Warg-Pirscher"/>
+<label key="key:620774769:54354734" value="Ein anderes Aussehen für Euren Warg-Pirscher"/>
+<label key="key:620774770:191029568" value="Ein anderes Aussehen für Euren Warg-Pirscher"/>
+<label key="key:620774770:54354734" value="Ein anderes Aussehen für Euren Warg-Pirscher"/>
+<label key="key:620774772:106251892" value="Verringert Eure Gesamtlebensenergie um ${PERCENTVALUE}"/>
+<label key="key:620774772:191029568" value="'Aspekt bevorzugen' ermöglicht Euch, einen Aspekt Eures Charakters auf Kosten eines anderen zu verbessern."/>
+<label key="key:620774772:54354734" value="'Aspekt bevorzugen' ermöglicht Euch, einen Aspekt Eures Charakters auf Kosten eines anderen zu verbessern."/>
+<label key="key:620774773:106251892" value="Verringert Eure Gesamtkraft um ${PERCENTVALUE}"/>
+<label key="key:620774773:191029568" value="'Aspekt bevorzugen' ermöglicht Euch, einen Aspekt Eures Charakters auf Kosten eines anderen zu verbessern."/>
+<label key="key:620774773:54354734" value="'Aspekt bevorzugen' ermöglicht Euch, einen Aspekt Eures Charakters auf Kosten eines anderen zu verbessern."/>
+<label key="key:620774774:106251889" value="Erhöht Eure Gesamtlebensenergie um ${PERCENTVALUE}"/>
+<label key="key:620774774:191029568" value="'Aspekt bevorzugen' ermöglicht Euch, einen Aspekt Eures Charakters auf Kosten eines anderen zu verbessern."/>
+<label key="key:620774774:54354734" value="'Aspekt bevorzugen' ermöglicht Euch, einen Aspekt Eures Charakters auf Kosten eines anderen zu verbessern."/>
+<label key="key:620774775:106251889" value="Erhöht Eure Gesamtlebensenergie um ${PERCENTVALUE}"/>
+<label key="key:620774775:106251890" value="Verringert Eure Gesamtkraft um ${PERCENTVALUE}"/>
+<label key="key:620774775:191029568" value="'Aspekt bevorzugen' ermöglicht Euch, einen Aspekt Eures Charakters auf Kosten eines anderen zu verbessern."/>
+<label key="key:620774775:54354734" value="'Aspekt bevorzugen' ermöglicht Euch, einen Aspekt Eures Charakters auf Kosten eines anderen zu verbessern."/>
+<label key="key:620774776:106251889" value="Erhöht Eure Gesamtkraft um ${PERCENTVALUE}"/>
+<label key="key:620774776:191029568" value="'Aspekt bevorzugen' ermöglicht Euch, einen Aspekt Eures Charakters auf Kosten eines anderen zu verbessern."/>
+<label key="key:620774776:54354734" value="'Aspekt bevorzugen' ermöglicht Euch, einen Aspekt Eures Charakters auf Kosten eines anderen zu verbessern."/>
+<label key="key:620774777:106251889" value="Erhöht Eure Gesamtkraft um ${PERCENTVALUE}"/>
+<label key="key:620774777:106251890" value="Verringert Eure Gesamtlebensenergie um ${PERCENTVALUE}"/>
+<label key="key:620774777:191029568" value="'Aspekt bevorzugen' ermöglicht Euch, einen Aspekt Eures Charakters auf Kosten eines anderen zu verbessern."/>
+<label key="key:620774777:54354734" value="'Aspekt bevorzugen' ermöglicht Euch, einen Aspekt Eures Charakters auf Kosten eines anderen zu verbessern."/>
+<label key="key:620774778:191029568" value="'Aspekt bevorzugen' ermöglicht Euch, einen Aspekt Eures Charakters auf Kosten eines anderen zu verbessern."/>
+<label key="key:620774778:54354734" value="'Aspekt bevorzugen' ermöglicht Euch, einen Aspekt Eures Charakters auf Kosten eines anderen zu verbessern."/>
+<label key="key:620774779:191029568" value="'Aspekt bevorzugen' ermöglicht Euch, einen Aspekt Eures Charakters auf Kosten eines anderen zu verbessern."/>
+<label key="key:620774779:54354734" value="'Aspekt bevorzugen' ermöglicht Euch, einen Aspekt Eures Charakters auf Kosten eines anderen zu verbessern."/>
+<label key="key:620774780:191029568" value="'Aspekt bevorzugen' ermöglicht Euch, einen Aspekt Eures Charakters auf Kosten eines anderen zu verbessern."/>
+<label key="key:620774780:54354734" value="'Aspekt bevorzugen' ermöglicht Euch, einen Aspekt Eures Charakters auf Kosten eines anderen zu verbessern."/>
+<label key="key:620774781:191029568" value="'Aspekt bevorzugen' ermöglicht Euch, einen Aspekt Eures Charakters auf Kosten eines anderen zu verbessern."/>
+<label key="key:620774781:54354734" value="'Aspekt bevorzugen' ermöglicht Euch, einen Aspekt Eures Charakters auf Kosten eines anderen zu verbessern."/>
+<label key="key:620774782:191029568" value="'Aspekt bevorzugen' ermöglicht Euch, einen Aspekt Eures Charakters auf Kosten eines anderen zu verbessern."/>
+<label key="key:620774782:54354734" value="'Aspekt bevorzugen' ermöglicht Euch, einen Aspekt Eures Charakters auf Kosten eines anderen zu verbessern."/>
+<label key="key:620774783:191029568" value="'Aspekt bevorzugen' ermöglicht Euch, einen Aspekt Eures Charakters auf Kosten eines anderen zu verbessern."/>
+<label key="key:620774783:54354734" value="'Aspekt bevorzugen' ermöglicht Euch, einen Aspekt Eures Charakters auf Kosten eines anderen zu verbessern."/>
+<label key="key:620774784:191029568" value="'Aspekt bevorzugen' ermöglicht Euch, einen Aspekt Eures Charakters auf Kosten eines anderen zu verbessern."/>
+<label key="key:620774784:54354734" value="'Aspekt bevorzugen' ermöglicht Euch, einen Aspekt Eures Charakters auf Kosten eines anderen zu verbessern."/>
+<label key="key:620774785:191029568" value="'Aspekt bevorzugen' ermöglicht Euch, einen Aspekt Eures Charakters auf Kosten eines anderen zu verbessern."/>
+<label key="key:620774785:54354734" value="'Aspekt bevorzugen' ermöglicht Euch, einen Aspekt Eures Charakters auf Kosten eines anderen zu verbessern."/>
+<label key="key:620774786:191029568" value="'Aspekt bevorzugen' ermöglicht Euch, einen Aspekt Eures Charakters auf Kosten eines anderen zu verbessern."/>
+<label key="key:620774786:54354734" value="'Aspekt bevorzugen' ermöglicht Euch, einen Aspekt Eures Charakters auf Kosten eines anderen zu verbessern."/>
+<label key="key:620774787:191029568" value="'Aspekt bevorzugen' ermöglicht Euch, einen Aspekt Eures Charakters auf Kosten eines anderen zu verbessern."/>
+<label key="key:620774787:54354734" value="'Aspekt bevorzugen' ermöglicht Euch, einen Aspekt Eures Charakters auf Kosten eines anderen zu verbessern."/>
+<label key="key:620774788:191029568" value="'Aspekt bevorzugen' ermöglicht Euch, einen Aspekt Eures Charakters auf Kosten eines anderen zu verbessern."/>
+<label key="key:620774788:54354734" value="'Aspekt bevorzugen' ermöglicht Euch, einen Aspekt Eures Charakters auf Kosten eines anderen zu verbessern."/>
+<label key="key:620774804:54354734" value="Barmherzigkeit zahlt sich aus. Ihr erhaltet zusätzliche Resistenz gegen Wunden, könnt Euch gegen Fernangriffe leichter verteidigen und stellt Eure Kraft außerhalb des Kampfs schneller wieder her."/>
+<label key="key:620774805:54354734" value="Euer Mitgefühl ist eine Eurer größten Stärken. Ihr könnt Euch leichter gegen Fernangriffe verteidigen, stellt Eure Kraft außerhalb des Kampfs schneller wieder her und Eure Verteidigung gegen magische Angriffe verbessert sich."/>
+<label key="key:620774806:54354734" value="Euer Handeln hat Euch Zuversicht geschenkt. Eure Widerstandskraft gegen Furcht wurde erhöht, Euer Wille gestärkt und Ihr seid in der Lage, außerhalb des Kampfes schneller Eure Kraft zu regenerieren."/>
+<label key="key:620774807:54354734" value="Eure Entschlossenheit hat Euch schon zu so manchem Sieg geführt. Eure Beweglichkeit wurde verbessert, Eure Moral wurde erhöht und Ihr könnt sie im Kampf schneller wiederherstellen."/>
+<label key="key:620774808:54354734" value="Eure Disziplin stärkt Euch. Eure Macht wurde erhöht, Eure Widerstandskraft gegen Krankheiten verbessert und Ihr könnt Euch besser gegen Nahkampfangriffe zur Wehr setzen."/>
+<label key="key:620774809:54354734" value="Ihr habt Euer Einfühlungsvermögen für alle, die in Not sind, bewiesen. Ihr wisst, wie Ihr Eure Rüstung effektiver nutzen könnt, Euer Schicksalswert wurde erhöht und Eure Widerstandskraft gegen Furcht gestärkt."/>
+<label key="key:620774810:54354734" value="Eure Treue bringt Euch den Respekt derjenigen ein, die sich um Euch versammelt haben. Eure Widerstandskraft gegen böse Schatten wurde verbessert, Eure Lebenskraft erhöht und Euer Kraft gesteigert."/>
+<label key="key:620774811:54354734" value="Eure Kämpfe haben Eure Standhaftigkeit wachsen lassen. Außerhalb des Kampfes wird Eure Moral schneller wiederhergestellt, Eure Macht wurde erhöht und Eure Widerstandskraft gegen Krankheiten gesteigert."/>
+<label key="key:620774812:54354734" value="Eure Aufrichtigkeit bringt Euch das Vertrauen derjenigen ein, die sich um Euch versammelt haben. Eure Kraft wurde erhöht, Ihr könnt Eure Rüstung effektiver nutzen und Euer Schicksalswert wurde verbessert."/>
+<label key="key:620774813:54354734" value="Eure Ehrenhaftigkeit ist ohnegleichen. Eure Widerstandskraft gegen Gift und böse Schatten wurde gesteigert und Eure Vitalität erhöht."/>
+<label key="key:620774814:54354734" value="Euer Idealismus duldet keine Fehler. Euer Schicksalswert wurde erhöht, Eure Widerstandskraft gegen Furcht gesteigert und Euer Wille gestärkt."/>
+<label key="key:620774815:54354734" value="Ihr dient der Gerechtigkeit. Eure Moral wurde erhöht und wird außerdem sowohl während als auch außerhalb des Kampfes schneller wiederhergestellt."/>
+<label key="key:620774816:54354734" value="Eure Treue soll belohnt werden. Eure Vitalität und Eure Kraft wurden erhöht und Ihr könnt Eure Rüstung effektiver nutzen."/>
+<label key="key:620774817:54354734" value="Ihr habt den Wert der Barmherzigkeit erkannt. Außerhalb des Kampfes wird Eure Kraft schneller wiederhergestellt, Ihr könnt Euch leichter gegen magische Angriffe verteidigen und Eure Beweglichkeit wurde gesteigert."/>
+<label key="key:620774818:54354734" value="Geduld ist eine Tugend. Ihr erhaltet zusätzliche Widerstandskraft gegen Wunden, könnt Euch gegen Fernangriffe leichter verteidigen und stellt Eure Kraft außerhalb des Kampfs schneller wieder her."/>
+<label key="key:620774819:54354734" value="Eure Unschuld kann als Schild eingesetzt werden. Ihr könnt Euch effektiver gegen Nahkampfangriffe verteidigen, Eure Widerstandskraft gegen Gift und böse Schatten wurde gesteigert."/>
+<label key="key:620774820:54354734" value="Eure Toleranz hat Euch großen Respekt eingebracht. Ihr könnt Euch leichter gegen magische Angriffe verteidigen, Eure Beweglichkeit hat sich verbessert und Eure Moral wird während des Kampfes schneller wiederhergestellt."/>
+<label key="key:620774821:54354734" value="Niemand wird je Euren Heldenmut in Frage stellen. Eure Moral und Eure Macht wurden erhöht und Ihr könnt Eure Moral außerhalb des Kampfes schneller wiederherstellen."/>
+<label key="key:620774822:54354734" value="Ihr habt wahre Weisheit erlangt. Euer Wille ist gestärkt, außerhalb des Kampfes könnt Ihr Eure Kraft schneller wiederherstellen und Eure Widerstandskraft gegen Wunden wurde gesteigert."/>
+<label key="key:620774823:54354734" value="Euer Eifer lässt Euch Perfektion anstreben. Eure Widerstandskraft gegen Krankheiten und Gifte wurde gesteigert und Ihr könnt Euch leichter gegen Nahkampfangriffe zur Wehr setzen."/>
+<label key="key:620775239:191029568" value="Dies gewährt Euch einen Fernangriff aus geringer Distanz."/>
+<label key="key:620775239:54354734" value="Die Rasse der Menschen ist für ihren unstillbaren Kampfgeist bekannt."/>
+<label key="key:620775242:106251889" value="5 % höherer Schaden beim Einsatz von Gefährten-Fertigkeiten der Kategorie \qList\q"/>
+<label key="key:620775242:106251890" value="Um 5 % verbesserte Moral-Wiederherstellung beim Einsatz von Gefährten-Fertigkeiten der Kategorie \qÜberzeugung\q"/>
+<label key="key:620775242:191029568" value="Gefährtenbonus: List und Überzeugung"/>
+<label key="key:620775242:54354734" value="Ihr erhaltet einen Bonus auf Eure Beiträge \qSpinnenlist\q und \qSchrei des Adlers\q."/>
+<label key="key:620775244:191029568" value="Mensch: Bonus auf Schwertschaden"/>
+<label key="key:620775244:54354734" value="Hobbit: Bonus auf Keulenschaden"/>
+<label key="key:620775246:191029568" value="Verringerte Macht - Hobbits sind körperlich nicht so stark wie andere Rassen."/>
+<label key="key:620775246:54354734" value="Ihr habt die Zeiten Eurer bescheidenen Anfänge hinter Euch gelassen und spielt in diesem Zeitalter eine bedeutende Rolle. Eure Macht ist verbessert."/>
+<label key="key:620775248:191029568" value="Damit könnt Ihr ins Auenland zurückkehren."/>
+<label key="key:620775248:54354734" value="Damit könnt Ihr schnell nach Michelbinge zurückkehren."/>
+<label key="key:620775252:191029568" value="Ihr könnt Euren eigenen Hoffnungswert mit gutem alten Hobbit-Jubel erhöhen."/>
+<label key="key:620775252:54354734" value="Ihr könnt den Hoffnungswert Eurer Gefährten mit gutem alten Hobbit-Jubel erhöhen. Diese Fertigkeit lässt sich nicht mit anderen Hoffungsstärkungen kombinieren."/>
+<label key="key:620775257:191029568" value="Obwohl Ihr in dieser Kunst nicht ausgebildet seid, seid Ihr in der Lage, Euch ungesehen zu bewegen. Allerdings bleibt ein gewisses Risiko, von Feinden entdeckt zu werden, bestehen. Insbesondere wenn Ihr euch direkt vor ihnen befindet."/>
+<label key="key:620775257:54354734" value="Obwohl Ihr in dieser Kunst nicht ausgebildet seid, seid Ihr in der Lage, Euch ungesehen zu bewegen. Allerdings bleibt ein gewisses Risiko, von Feinden entdeckt zu werden, bestehen. Insbesondere wenn Ihr euch direkt vor ihnen befindet."/>
+<label key="key:620775261:191029568" value="Lang hingestreckte Hobbits werden leicht ignoriert, wenn sie als schmackhafte Mahlzeit angesehen werden. Feinde werden so dazu gebracht, Euch zu ignorieren."/>
+<label key="key:620775261:54354734" value="Ihr könnt vollkommen still am Boden liegen, was Feinde dazu bringt, Euch zu ignorieren."/>
+<label key="key:620775263:191029568" value="Verringerte Macht - Hobbits sind körperlich nicht so stark wie andere Rassen."/>
+<label key="key:620775263:54354734" value="Verringerte Macht - Hobbits sind körperlich nicht so stark wie andere Rassen."/>
+<label key="key:620775264:191029568" value="Verbesserte Vitalität - Hobbits sind bemerkenswert robust."/>
+<label key="key:620775264:54354734" value="Verbesserte Vitalität - Hobbits sind bemerkenswert robust."/>
+<label key="key:620775265:191029568" value="Verbesserte Moralregeneration außerhalb des Kampfes - Hobbits erholen sich schneller von Anstrengungen als andere Rassen."/>
+<label key="key:620775265:54354734" value="Verbesserte Moralregeneration außerhalb des Kampfes - Hobbits erholen sich schneller von Anstrengungen als andere Rassen."/>
+<label key="key:620775266:191029568" value="Verbesserte Furchtresistenz - Der zögerliche Mut der Hobbit-Rasse."/>
+<label key="key:620775266:54354734" value="Verbesserte Furchtresistenz - Der zögerliche Mut der Hobbit-Rasse."/>
+<label key="key:620775267:191029568" value="Verbesserte Schattenlinderung - Hobbits verfügen über eine größere Widerstandskraft gegen Versuchungen."/>
+<label key="key:620775267:54354734" value="Verbesserte Schattenlinderung - Hobbits verfügen über eine größere Widerstandskraft gegen Versuchungen."/>
+<label key="key:620775271:191029568" value="Dies gewährt Euch einen Angriff aus geringer Entfernung."/>
+<label key="key:620775271:54354734" value="Dies gewährt Euch einen Angriff aus geringer Entfernung."/>
+<label key="key:620775274:106251889" value="Um 5 % verbesserte Kraft-Wiederherstellung beim Einsatz von Gefährten-Fertigkeiten der Kategorie \qTaktik\q"/>
+<label key="key:620775274:106251890" value="5 % höherer Schaden beim Einsatz von Gefährten-Fertigkeiten der Kategorie \qMacht\q"/>
+<label key="key:620775274:191029568" value="Gefährtenbonus: Taktik und Macht"/>
+<label key="key:620775274:54354734" value="Ihr erhaltet einen Bonus auf Eure Beiträge \qGeist des Hengstes\q und \qStärke der Ents\q."/>
+<label key="key:620775276:191029568" value="Mensch: Bonus auf Schwertschaden"/>
+<label key="key:620775276:54354734" value="Mensch: Bonus auf Schwertschaden"/>
+<label key="key:620775278:191029568" value="Euer Wille ist stärker als der der meisten anderen Eurer menschlichen Gefährten."/>
+<label key="key:620775278:54354734" value="Ihr seid zwar zu Großem bestimmt - ein Mensch des Vierten Zeitalters - doch vorerst müsst Ihr zunächst das Dritte Zeitalter retten. Euer Wille ist verbessert."/>
+<label key="key:620775280:191029568" value="Damit könnt Ihr nach Bree zurückkehren."/>
+<label key="key:620775280:54354734" value="Damit könnt Ihr schnell nach Bree zurückkehren."/>
+<label key="key:620775284:191029568" value="Gibt Euren Gefährten einen Moralbonus."/>
+<label key="key:620775284:54354734" value="Ihr verschafft Euren Gefährten einen Moralbonus."/>
+<label key="key:620775289:191029568" value="Euer Wille ist stärker als der der meisten anderen Eurer menschlichen Gefährten."/>
+<label key="key:620775289:54354734" value="Die Menschen erreichen ein furchterregendes Können in der Kriegskunst. Euer Wille ist gestärkt."/>
+<label key="key:620775291:191029568" value="Die Rasse der Menschen ist für ihren unstillbaren Kampfgeist bekannt."/>
+<label key="key:620775291:54354734" value="Die Rasse der Menschen ist für ihren unstillbaren Kampfgeist bekannt."/>
+<label key="key:620775294:191029568" value="Verbessertes Schicksal - Menschen haben das bedeutendste Schicksal aller Freien Völker."/>
+<label key="key:620775294:54354734" value="Verbessertes Schicksal - Menschen haben das bedeutendste Schicksal aller Freien Völker."/>
+<label key="key:620775295:191029568" value="Verringerter Wille - Der Wille von Menschen ist schwächer als der anderer Rassen."/>
+<label key="key:620775295:54354734" value="Verringerter Wille - Der Wille von Menschen ist schwächer als der anderer Rassen."/>
+<label key="key:620775296:106251889" value="Wenn sie unter Druck stehen, reagieren die Menschen positiv auf leidenschaftliche Reden, die die Moral erhöhen."/>
+<label key="key:620775296:191029568" value="Verbesserte Moralregeneration - Menschen lassen sich schneller zum Handeln bewegen als andere Rassen. (Heilungen heilen Menschen stärker)"/>
+<label key="key:620775296:54354734" value="Verbesserte Moralregeneration - Menschen lwerden schneller ermutigt als andere Rassen."/>
+<label key="key:620775297:191029568" value="Verbesserte Stärke – Die Stärke, die Menschen wie Boromir beweisen, ist es wert, in Liedern besungen zu werden."/>
+<label key="key:620775297:54354734" value="Verbesserte Stärke – Die Stärke, die Menschen wie Boromir beweisen, ist es wert, in Liedern besungen zu werden."/>
+<label key="key:620775300:191029568" value="Obwohl Ihr in dieser Kunst nicht ausgebildet seid, seid Ihr in der Lage, Euch ungesehen zu bewegen. Allerdings bleibt ein gewisses Risiko, von Feinden entdeckt zu werden, bestehen. Insbesondere wenn Ihr euch direkt vor ihnen befindet."/>
+<label key="key:620775300:54354734" value="Obwohl Ihr in dieser Kunst nicht ausgebildet seid, seid Ihr in der Lage, Euch ungesehen zu bewegen. Allerdings bleibt ein gewisses Risiko, von Feinden entdeckt zu werden, bestehen. Insbesondere wenn Ihr euch direkt vor ihnen befindet."/>
+<label key="key:620775303:106251889" value="Um 5 % verbesserte Kraft-Wiederherstellung beim Einsatz von Gefährten-Fertigkeiten der Kategorie \qTaktik\q"/>
+<label key="key:620775303:106251890" value="Um 5 % verbesserte Moral-Wiederherstellung beim Einsatz von Gefährten-Fertigkeiten der Kategorie \qÜberzeugung\q"/>
+<label key="key:620775303:191029568" value="Gefährtenbonus: Taktik und Überzeugung"/>
+<label key="key:620775303:54354734" value="Ihr erhaltet einen Bonus auf Eure Beiträge \qSchrei des Adlers\q und \qGeist des Hengstes\q."/>
+<label key="key:620775305:191029568" value="Elb: Bonus auf Bogenschaden"/>
+<label key="key:620775305:54354734" value="Elb: Bonus auf Bogenschaden"/>
+<label key="key:620775307:191029568" value="Verbessertes Schicksal"/>
+<label key="key:620775307:54354734" value="Ihr seid dazu bestimmt, die Rasse der Menschen zu führen. Euer Schicksal ist verbessert."/>
+<label key="key:620775309:191029568" value="Damit könnt Ihr nach Bruchtal zurückkehren."/>
+<label key="key:620775309:54354734" value="Damit könnt Ihr schnell nach Bruchtal zurückkehren."/>
+<label key="key:620775313:191029568" value="Obwohl Ihr in dieser Kunst nicht ausgebildet seid, seid Ihr in der Lage, Euch ungesehen zu bewegen. Allerdings bleibt ein gewisses Risiko, von Feinden entdeckt zu werden, bestehen. Insbesondere wenn Ihr euch direkt vor ihnen befindet."/>
+<label key="key:620775313:54354734" value="Mit der Geschwindigkeit und der Anmut der Eldar seid Ihr in der Lage, eine wirkungsvolle Parade auszuführen."/>
+<label key="key:620775317:191029568" value="Elb: Bonus auf Schwertschaden"/>
+<label key="key:620775317:54354734" value="Elb: Bonus auf Schaden mit einhändigem Schwert"/>
+<label key="key:620775319:191029568" value="Gibt den Gefährten einen Kraftbonus."/>
+<label key="key:620775319:54354734" value="Ihr verschafft Euren Gefährten einen Kraftbonus."/>
+<label key="key:620775321:191029568" value="Verringerte Moral und Moralregeneration außerhalb des Kampfes - Elben empfinden intensiver als die anderen Rassen und sind anfälliger gegen Leid."/>
+<label key="key:620775321:54354734" value="Verringerte Moral und Moralregeneration außerhalb des Kampfes - Elben empfinden intensiver als die anderen Rassen und sind anfälliger gegen Leid."/>
+<label key="key:620775322:191029568" value="Verbesserte Beweglichkeit – Die Anmut der Eldar ist Gegenstand unzähliger Legenden."/>
+<label key="key:620775322:54354734" value="Verbesserte Beweglichkeit – Die Anmut der Eldar ist Gegenstand unzähliger Legenden."/>
+<label key="key:620775323:191029568" value="Verschlechtertes Schicksal – Die Zeit der Elben in Mittelerde nähert sich ihrem Ende."/>
+<label key="key:620775323:54354734" value="Verschlechtertes Schicksal – Die Zeit der Elben in Mittelerde nähert sich ihrem Ende."/>
+<label key="key:620775324:191029568" value="Verbesserte Krankheits- und Giftresistenz - Elben sind immun gegen Krankheiten."/>
+<label key="key:620775324:54354734" value="Verbesserte Krankheits- und Giftresistenz - Elben sind immun gegen Krankheiten."/>
+<label key="key:620775327:191029568" value="Dies gewährt Euch einen Angriff aus geringer Entfernung."/>
+<label key="key:620775327:54354734" value="Dies gewährt Euch einen Angriff aus geringer Entfernung."/>
+<label key="key:620775330:106251889" value="5 % höherer Schaden beim Einsatz von Gefährten-Fertigkeiten der Kategorie \qList\q"/>
+<label key="key:620775330:106251890" value="5 % höherer Schaden beim Einsatz von Gefährten-Fertigkeiten der Kategorie \qMacht\q"/>
+<label key="key:620775330:191029568" value="Gefährtenbous: List und Macht"/>
+<label key="key:620775330:54354734" value="Ihr erhaltet einen Bonus auf Eure Beiträge \qSpinnenlist\q und \qStärke der Ents\q."/>
+<label key="key:620775332:191029568" value="Zwerg: Bonus auf Axtschaden"/>
+<label key="key:620775332:54354734" value="Zwerg: Bonus auf Axtschaden"/>
+<label key="key:620775334:191029568" value="Verbessertes Schicksal - Ihr gehört zu den Zwergen, die am Ende dieses Zeitalters Einfluss besitzen."/>
+<label key="key:620775334:54354734" value="Ihr seid ein Zwerg, der großen Einfluss besitzt. Euer Schicksal ist verbessert."/>
+<label key="key:620775336:191029568" value="Damit könnt Ihr zu Thorins Tor zurückkehren."/>
+<label key="key:620775336:54354734" value="Damit könnt Ihr schnell zu Thorins Tor zurückkehren."/>
+<label key="key:620775340:191029568" value="Eine kurze Zeitlang könnt Ihr Schlägen widerstehen, die die Moral einer schwächeren Rasse vernichten würden."/>
+<label key="key:620775340:54354734" value="Eine kurze Zeitlang könnt Ihr Schlägen widerstehen, die die Moral einer schwächeren Rasse vernichten würden."/>
+<label key="key:620775344:191029568" value="Gibt den Gefährten einen Vitalitätbonus."/>
+<label key="key:620775344:54354734" value="Ihr verschafft Euren Gefährten einen Vitalitätsbonus."/>
+<label key="key:620775349:191029568" value="Erhöhte Macht und Vitalität, verbesserte allgemeine Schadensminderung - Zwerge sind eine zähe Rasse."/>
+<label key="key:620775349:54354734" value="Verbesserte Macht und Vitalität, verbesserte allgemeine Schadensminderung - Zwerge sind eine zähe Rasse."/>
+<label key="key:620775350:191029568" value="Verringerte Beweglichkeit - Zwerge sind von Natur aus weniger beweglich als die anderen Rassen."/>
+<label key="key:620775350:54354734" value="Verringerte Beweglichkeit - Zwerge sind von Natur aus weniger beweglich als die anderen Rassen."/>
+<label key="key:620775351:191029568" value="Verschlechtertes Schicksal - Die Zeit der Zwerge in Mittelerde ist zu Ende."/>
+<label key="key:620775351:54354734" value="Verschlechtertes Schicksal - Die Zeit der Zwerge in Mittelerde geht langsam zu Ende."/>
+<label key="key:620775352:191029568" value="Bonus für die Moral- und Kraftregeneration im Kampf, Abzug für die Moral- und Kraftregeneration außerhalb des Kampfes."/>
+<label key="key:620775352:54354734" value="Bonus für die Moral- und Kraftregeneration im Kampf, Abzug für die Moral- und Kraftregeneration außerhalb des Kampfes."/>
+<label key="key:620777542:191029568" value="Ermöglicht dem Schurken, Fußangeln, Murmeln, Betäubungsstaub und Ähnliches einzusetzen"/>
+<label key="key:620777542:54354734" value="Ermöglicht dem Schurken, Fußangeln, Murmeln, Betäubungsstaub und Ähnliches einzusetzen"/>
+<label key="key:620777545:191029568" value="Ermöglicht dem Schurken, spezielle Hilfsmittel einzusetzen, die ihm bei seinen schlauen Tricks helfen."/>
+<label key="key:620777545:54354734" value="Ermöglicht dem Schurken, spezielle Hilfsmittel einzusetzen, die ihm bei seinen schlauen Tricks helfen."/>
+<label key="key:620777546:191029568" value="Ermöglicht die Verwendung von Büchern des Wissens"/>
+<label key="key:620777546:54354734" value="Ermöglicht die Verwendung von Büchern des Wissens"/>
+<label key="key:620777551:191029568" value="Handgefertigte Fallen"/>
+<label key="key:620777551:54354734" value="Handgefertigte Fallen"/>
+<label key="key:620777559:191029568" value="Diese Fertigkeit heilt mit sofortiger Wirkung sämtliche Furcht-Effekte, gewährt außerdem über einen kurzen Zeitraum hinweg Immunität gegen Furcht und wirkt über eine gewisse Zeitspanne als Heilung."/>
+<label key="key:620777559:54354734" value="Diese Fertigkeit nimmt mit sofortiger Wirkung sämtliche Furcht-Effekte von Euch, gewährt all Euren Gefährten über einen kurzen Zeitraum hinweg Immunität gegen Furcht und wirkt über eine gewisse Zeitspanne als Heilung."/>
+<label key="key:620777577:191029568" value="Ermöglicht die Verwendung von Ausrüstungen"/>
+<label key="key:620777577:54354734" value="Ermöglicht die Verwendung von Ausrüstungen"/>
+<label key="key:620777591:191029568" value="Ermöglicht die Verwendung von Waffenmeister-Hörnern"/>
+<label key="key:620777591:54354734" value="Ermöglicht die Verwendung von Waffenmeister-Hörnern"/>
+<label key="key:620777690:191029568" value="Zwerge sind ausgezeichnete defensive Kämpfer."/>
+<label key="key:620777690:54354734" value="Eure defensiven Fähigkeiten im Kampf haben sich verbessert."/>
+<label key="key:620790690:191029568" value="Ermöglicht den Einsatz von Trommeln."/>
+<label key="key:620790690:54354734" value="Ermöglicht den Einsatz von Trommeln."/>
+<label key="key:620790691:191029568" value="Ermöglicht den Einsatz von Theorben."/>
+<label key="key:620790691:54354734" value="Ermöglicht den Einsatz von Theorben."/>
+<label key="key:620792156:191029568" value="Ermöglicht Jägern, ihren Bögen mit Hilfe von uralten Gesängen verschiedene Eigenschaften zu verleihen."/>
+<label key="key:620792156:54354734" value="Ermöglicht Jägern, ihren Bögen mit Hilfe von uralten Gesängen verschiedene Eigenschaften zu verleihen."/>
+<label key="key:620792418:106251892" value="Verringert Eure Gesamtkraft um ${PERCENTVALUE}."/>
+<label key="key:620792418:191029568" value="\qAspekt bevorzugen\q ermöglicht Euch, einen Aspekt Eures Charakters auf Kosten eines anderen zu verbessern."/>
+<label key="key:620792418:54354734" value="\qAspekt bevorzugen\q ermöglicht Euch, einen Aspekt Eures Charakters auf Kosten eines anderen zu verbessern."/>
+<label key="key:620792419:106251889" value="Erhöht Eure Gesamtlebensenergie um ${PERCENTVALUE}."/>
+<label key="key:620792419:191029568" value="\qAspekt bevorzugen\q ermöglicht Euch, einen Aspekt Eures Charakters auf Kosten eines anderen zu verbessern."/>
+<label key="key:620792419:54354734" value="\qAspekt bevorzugen\q ermöglicht Euch, einen Aspekt Eures Charakters auf Kosten eines anderen zu verbessern."/>
+<label key="key:620792420:106251889" value="Erhöht Eure Gesamtlebensenergie um ${PERCENTVALUE}."/>
+<label key="key:620792420:106251890" value="Verringert Eure Gesamtkraft um ${PERCENTVALUE}."/>
+<label key="key:620792420:191029568" value="\qAspekt bevorzugen\q ermöglicht Euch, einen Aspekt Eures Charakters auf Kosten eines anderen zu verbessern."/>
+<label key="key:620792420:54354734" value="\qAspekt bevorzugen\q ermöglicht Euch, einen Aspekt Eures Charakters auf Kosten eines anderen zu verbessern."/>
+<label key="key:620792421:106251889" value="Erhöht Eure Gesamtkraft um ${PERCENTVALUE}."/>
+<label key="key:620792421:191029568" value="\qAspekt bevorzugen\q ermöglicht Euch, einen Aspekt Eures Charakters auf Kosten eines anderen zu verbessern."/>
+<label key="key:620792421:54354734" value="\qAspekt bevorzugen\q ermöglicht Euch, einen Aspekt Eures Charakters auf Kosten eines anderen zu verbessern."/>
+<label key="key:620792422:106251889" value="Erhöht Eure Gesamtkraft um ${PERCENTVALUE}."/>
+<label key="key:620792422:106251890" value="Verringert Eure Gesamtlebensenergie um ${PERCENTVALUE}."/>
+<label key="key:620792422:191029568" value="\qAspekt bevorzugen\q ermöglicht Euch, einen Aspekt Eures Charakters auf Kosten eines anderen zu verbessern."/>
+<label key="key:620792422:54354734" value="\qAspekt bevorzugen\q ermöglicht Euch, einen Aspekt Eures Charakters auf Kosten eines anderen zu verbessern."/>
+<label key="key:620792423:191029568" value="\qAspekt bevorzugen\q ermöglicht Euch, einen Aspekt Eures Charakters auf Kosten eines anderen zu verbessern."/>
+<label key="key:620792423:54354734" value="\qAspekt bevorzugen\q ermöglicht Euch, einen Aspekt Eures Charakters auf Kosten eines anderen zu verbessern."/>
+<label key="key:620792424:191029568" value="\qAspekt bevorzugen\q ermöglicht Euch, einen Aspekt Eures Charakters auf Kosten eines anderen zu verbessern."/>
+<label key="key:620792424:54354734" value="\qAspekt bevorzugen\q ermöglicht Euch, einen Aspekt Eures Charakters auf Kosten eines anderen zu verbessern."/>
+<label key="key:620792425:191029568" value="\qAspekt bevorzugen\q ermöglicht Euch, einen Aspekt Eures Charakters auf Kosten eines anderen zu verbessern."/>
+<label key="key:620792425:54354734" value="\qAspekt bevorzugen\q ermöglicht Euch, einen Aspekt Eures Charakters auf Kosten eines anderen zu verbessern."/>
+<label key="key:620792426:191029568" value="\qAspekt bevorzugen\q ermöglicht Euch, einen Aspekt Eures Charakters auf Kosten eines anderen zu verbessern."/>
+<label key="key:620792426:54354734" value="\qAspekt bevorzugen\q ermöglicht Euch, einen Aspekt Eures Charakters auf Kosten eines anderen zu verbessern."/>
+<label key="key:620792427:191029568" value="\qAspekt bevorzugen\q ermöglicht Euch, einen Aspekt Eures Charakters auf Kosten eines anderen zu verbessern."/>
+<label key="key:620792427:54354734" value="\qAspekt bevorzugen\q ermöglicht Euch, einen Aspekt Eures Charakters auf Kosten eines anderen zu verbessern."/>
+<label key="key:620792428:191029568" value="\qAspekt bevorzugen\q ermöglicht Euch, einen Aspekt Eures Charakters auf Kosten eines anderen zu verbessern."/>
+<label key="key:620792428:54354734" value="\qAspekt bevorzugen\q ermöglicht Euch, einen Aspekt Eures Charakters auf Kosten eines anderen zu verbessern."/>
+<label key="key:620792429:191029568" value="\qAspekt bevorzugen\q ermöglicht Euch, einen Aspekt Eures Charakters auf Kosten eines anderen zu verbessern."/>
+<label key="key:620792429:54354734" value="\qAspekt bevorzugen\q ermöglicht Euch, einen Aspekt Eures Charakters auf Kosten eines anderen zu verbessern."/>
+<label key="key:620792430:191029568" value="\qAspekt bevorzugen\q ermöglicht Euch, einen Aspekt Eures Charakters auf Kosten eines anderen zu verbessern."/>
+<label key="key:620792430:54354734" value="\qAspekt bevorzugen\q ermöglicht Euch, einen Aspekt Eures Charakters auf Kosten eines anderen zu verbessern."/>
+<label key="key:620792431:191029568" value="\qAspekt bevorzugen\q ermöglicht Euch, einen Aspekt Eures Charakters auf Kosten eines anderen zu verbessern."/>
+<label key="key:620792431:54354734" value="\qAspekt bevorzugen\q ermöglicht Euch, einen Aspekt Eures Charakters auf Kosten eines anderen zu verbessern."/>
+<label key="key:620792432:191029568" value="\qAspekt bevorzugen\q ermöglicht Euch, einen Aspekt Eures Charakters auf Kosten eines anderen zu verbessern."/>
+<label key="key:620792432:54354734" value="\qAspekt bevorzugen\q ermöglicht Euch, einen Aspekt Eures Charakters auf Kosten eines anderen zu verbessern."/>
+<label key="key:620792433:106251892" value="Verringert Eure Gesamtlebensenergie um ${PERCENTVALUE}."/>
+<label key="key:620792433:191029568" value="\qAspekt bevorzugen\q ermöglicht Euch, einen Aspekt Eures Charakters auf Kosten eines anderen zu verbessern."/>
+<label key="key:620792433:54354734" value="\qAspekt bevorzugen\q ermöglicht Euch, einen Aspekt Eures Charakters auf Kosten eines anderen zu verbessern."/>
+<label key="key:620793238:191029568" value="Bonus: List und Überzeugung"/>
+<label key="key:620793238:54354734" value="Die Tugenden der Hobbits finden sich sehr deutlich in Euch."/>
+<label key="key:620793266:191029568" value="Bonus: Taktik und Macht"/>
+<label key="key:620793266:54354734" value="Die Tugenden der Menschen finden sich sehr deutlich in Euch."/>
+<label key="key:620793267:191029568" value="List- und Machtbonus"/>
+<label key="key:620793267:54354734" value="Die Tugenden der Zwerge finden sich sehr deutlich in Euch."/>
+<label key="key:620793268:191029568" value="Bonus: Taktik und Überzeugung"/>
+<label key="key:620793268:54354734" value="Die Tugenden der Elben finden sich sehr deutlich in Euch."/>
+<label key="key:620793382:191029568" value="Aufspüren von Ruinen, Schatzi."/>
+<label key="key:620793382:54354734" value="Ihr seid in der Lage, Artefakte aufzuspüren."/>
+<label key="key:620793629:191029568" value="Ermöglicht dem Jäger, seine Gefährten die Position des von ihm verfolgten Ziels wissen zu lassen. Auf diese Weise können nur Informationen über Nichtspieler-Ziele weitergegeben werden."/>
+<label key="key:620793629:54354734" value="Ermöglicht dem Jäger, seine Gefährten die Position des von ihm verfolgten Ziels wissen zu lassen. Auf diese Weise können nur Informationen über Nichtspieler-Ziele weitergegeben werden."/>
+<label key="key:620796145:191029568" value="Ermöglicht die Verwendung von Dudelsäcken."/>
+<label key="key:620796145:54354734" value="Ermöglicht die Verwendung von Dudelsäcken."/>
+<label key="key:620796148:191029568" value="Ermöglicht die Verwendung von Kuhglocken."/>
+<label key="key:620796148:54354734" value="Ermöglicht die Verwendung von Kuhglocken."/>
+<label key="key:620796151:191029568" value="Ermöglicht die Verwendung fortgeschrittener Kuhglocken."/>
+<label key="key:620796151:54354734" value="Ermöglicht die Verwendung spezieller Moorkuh-Glocken."/>
+<label key="key:620799379:191029568" value="Ermöglicht die Verwendung von nicht für den Kampf bestimmten Begleitern."/>
+<label key="key:620799379:54354734" value="Ermöglicht die Verwendung von nicht für den Kampf bestimmten Begleitern."/>
+<label key="key:620799396:191029568" value="Heim in Breeland"/>
+<label key="key:620799396:54354734" value="Ihr seid ${PLAYERNAME:stolzer Besitzer[m]|stolze Besitzerin[f]} eines Heims in Breeland. Aufgrund dieses Privilegs erhaltet Ihr bei den ansässigen Verkäufern 10 % Rabatt."/>
+<label key="key:620799397:191029568" value="Auenland-Sippenhalle"/>
+<label key="key:620799397:54354734" value="Ihr seid ${PLAYERNAME:stolzer Besitzer[m]|stolze Besitzerin[f]} einer Sippenhalle im Auenland. Aufgrund dieses Privilegs erhaltet Ihr bei den ansässigen Verkäufern 15 % Rabatt."/>
+<label key="key:620799398:191029568" value="Heim in Thorins Halle"/>
+<label key="key:620799398:54354734" value="Ihr seid ${PLAYERNAME:stolzer Besitzer[m]|stolze Besitzerin[f]} eines Heims in Thorins Halle. Aufgrund dieses Privilegs erhaltet Ihr bei den ansässigen Verkäufern 10 % Rabatt."/>
+<label key="key:620799399:191029568" value="Heim in Thorins Halle"/>
+<label key="key:620799399:54354734" value="Ihr seid ${PLAYERNAME:stolzer Besitzer[m]|stolze Besitzerin[f]} eines Heims in Thorins Halle. Aufgrund dieses Privilegs erhaltet Ihr bei den ansässigen Verkäufern 20 % Rabatt."/>
+<label key="key:620799400:191029568" value="Thorins Halle, Sippenhalle"/>
+<label key="key:620799400:54354734" value="Ihr seid ${PLAYERNAME:stolzer Besitzer[m]|stolze Besitzerin[f]} einer Sippenhalle in Thorins Halle. Aufgrund dieses Privilegs erhaltet Ihr bei den ansässigen Verkäufern 15 % Rabatt."/>
+<label key="key:620799401:191029568" value="Heim in Breeland"/>
+<label key="key:620799401:54354734" value="Ihr seid ${PLAYERNAME:stolzer Besitzer[m]|stolze Besitzerin[f]} eines Heims in Breeland. Aufgrund dieses Privilegs erhaltet Ihr bei den ansässigen Verkäufern 20 % Rabatt."/>
+<label key="key:620799402:191029568" value="Breeland, Sippenhalle"/>
+<label key="key:620799402:54354734" value="Ihr seid ${PLAYERNAME:stolzer Besitzer[m]|stolze Besitzerin[f]} einer Sippenhalle in Breeland. Aufgrund dieses Privilegs erhaltet Ihr bei den ansässigen Verkäufern 15 % Rabatt."/>
+<label key="key:620799403:191029568" value="Heim in Falathlorn"/>
+<label key="key:620799403:54354734" value="Ihr seid ${PLAYERNAME:stolzer Besitzer[m]|stolze Besitzerin[f]} eines Heims in Falathlorn. Aufgrund dieses Privilegs erhaltet Ihr bei den ansässigen Verkäufern 10 % Rabatt."/>
+<label key="key:620799404:191029568" value="Heim in Falathlorn"/>
+<label key="key:620799404:54354734" value="Ihr seid ${PLAYERNAME:stolzer Besitzer[m]|stolze Besitzerin[f]} eines Heims in Falathlorn. Aufgrund dieses Privilegs erhaltet Ihr bei den ansässigen Verkäufern 20 % Rabatt."/>
+<label key="key:620799405:191029568" value="Falathlorn, Sippenhalle"/>
+<label key="key:620799405:54354734" value="Ihr seid ${PLAYERNAME:stolzer Besitzer[m]|stolze Besitzerin[f]} eines Heims in Falathlorn. Aufgrund dieses Privilegs erhaltet Ihr bei den ansässigen Verkäufern 15 % Rabatt."/>
+<label key="key:620799406:191029568" value="Auenland-Heim"/>
+<label key="key:620799406:54354734" value="Ihr seid ${PLAYERNAME:stolzer Besitzer[m]|stolze Besitzerin[f]} eines Heims im Auenland. Aufgrund dieses Privilegs erhaltet Ihr bei den ansässigen Verkäufern 10 % Rabatt."/>
+<label key="key:620799407:191029568" value="Auenland-Heim"/>
+<label key="key:620799407:54354734" value="Ihr seid ${PLAYERNAME:stolzer Besitzer[m]|stolze Besitzerin[f]} eines Heims im Auenland. Aufgrund dieses Privilegs erhaltet Ihr bei den ansässigen Verkäufern 20 % Rabatt."/>
+<label key="key:620799497:191029568" value="Ihr könnt schnell zu Eurem eigenen Heim reisen."/>
+<label key="key:620799497:54354734" value="Ihr könnt schnell zu Eurem eigenen Heim reisen."/>
+<label key="key:620799498:191029568" value="Ihr könnt schnell zum Haus Eurer Sippe reisen."/>
+<label key="key:620799498:54354734" value="Ihr könnt schnell zum Haus Eurer Sippe reisen."/>
+<label key="key:620799689:191029568" value="Ihr seid in der Lage, zahme Reittiere zu benutzen."/>
+<label key="key:620799689:54354734" value="Ihr seid in der Lage, zahme Reittiere zu benutzen."/>
+</labels>

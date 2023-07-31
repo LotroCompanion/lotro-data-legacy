@@ -9,13 +9,19 @@
 </effect>
 </buff>
 <buff>
+<effect id="1879060192" name="Guardian's Ward" iconId="1090540663" duration="10.0">
+<stat name="PARRY_PERCENTAGE" scaling="1879060194"/>
+<stat name="BLOCK_PERCENTAGE" scaling="1879060195"/>
+</effect>
+</buff>
+<buff>
 <effect id="1879060866" name="Ballad of War" iconId="1090541230" duration="15.0">
 <stat name="MELEE_DAMAGE_PERCENTAGE" constant="10.0"/>
 </effect>
 </buff>
 <buff key="MOTIVATED">
 <effect id="1879073072" name="Motivated" iconId="1090553780" duration="1800.0">
-<stat name="MORALE" operator="MULTIPLY" descriptionOverride="+5% Maximum Morale" constant="1.05"/>
+<stat name="MORALE" operator="MULTIPLY" descriptionOverride="key:620774926:106251889" constant="1.05"/>
 </effect>
 </buff>
 <buff>
@@ -40,14 +46,14 @@
 </buff>
 <buff>
 <effect id="1879084065" name="Duty Bound" iconId="1090553996" duration="600.0">
-<stat name="MORALE" operator="MULTIPLY" descriptionOverride="Increases your total morale by ${PERCENTVALUE}." constant="1.02"/>
+<stat name="MORALE" operator="MULTIPLY" descriptionOverride="key:620784436:106251889" constant="1.02"/>
 </effect>
 </buff>
 <buff>
 <effect id="1879095617" name="War-speech" iconId="1091400695">
 <stat name="Skill_HealingMultiplier_Item" constant="-50.0"/>
-<stat name="Skill_RecoveryTime_SmoothVoiceDurationRecharge" descriptionOverride="-10s Piercing Cry recovery time" constant="-10.0"/>
-<stat name="Skill_ChanceCriticalHit_Minstrel_Warspeech" descriptionOverride="+25% Piercing Cry critical chance" constant="25.0"/>
+<stat name="Skill_RecoveryTime_SmoothVoiceDurationRecharge" descriptionOverride="key:620795454:106251890" constant="-10.0"/>
+<stat name="Skill_ChanceCriticalHit_Minstrel_Warspeech" descriptionOverride="key:620795454:106251891" constant="25.0"/>
 <stat name="ForwardSource_Combat_TraitCombo6" operator="SET" constant="45.0"/>
 </effect>
 </buff>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><labels locale="fr">
+<label key="1879087805" value="Armure de la Flamme Blanche"/>
+<label key="1879087806" value="Armure de Remmirath"/>
+<label key="1879087807" value="Armure des Terres de l'Ouest"/>
+<label key="1879087808" value="Armure du Butin des Nains"/>
+<label key="1879087809" value="Armure du Célébrant."/>
+<label key="1879087810" value="Armure des Terres du Soleil"/>
+<label key="1879087811" value="Armure des Sept Pères"/>
+<label key="1879087812" value="Armure d'Orod-na-Thôn"/>
+<label key="1879087813" value="Armure du Drake du Nord."/>
+<label key="1879087814" value="Armure de maître des bêtes"/>
+<label key="1879087815" value="Armure de la Voix d'Argent"/>
+<label key="1879087816" value="Armure des Aurochs"/>
+<label key="1879087817" value="Armure du Maître de l'Ombre"/>
+<label key="1879087818" value="Armure de capitaine de guerre"/>
+<label key="1879087819" value="Armure du Haut-Protecteur"/>
+<label key="1879087820" value="Armure en écailles de dragon"/>
+<label key="1879089944" value="Parure de Panthavron"/>
+<label key="1879090936" value="Atours des Sept Etoiles"/>
+<label key="1879090937" value="Vêtements de Nenuial"/>
+<label key="1879090938" value="Armure de la Tour Ouest[fv]"/>
+<label key="1879092331" value="Gardien d'Annuminas"/>
+<label key="1879092332" value="Sage du Conseil"/>
+<label key="1879092333" value="Guérisseur de Fondcombe"/>
+<label key="1879092334" value="Guerrier de Fondcombe"/>
+<label key="1879092335" value="Archer du Conseil"/>
+<label key="1879093385" value="Accoutrement de fainéant"/>
+<label key="1879093480" value="Accessoires de rôdeur"/>
+<label key="1879094708" value="Armure des Temps anciens"/>
+<label key="1879094709" value="Armure du Barde errant"/>
+<label key="1879094710" value="Armure du Chasseur de destin"/>
+<label key="1879094711" value="Armure du Chercheur de sensations"/>
+<label key="1879094712" value="Armure de l'Etoile du Nord."/>
+<label key="1879094713" value="Armure du Défenseur de faille"/>
+<label key="1879094714" value="Armure du Fléau des Ombres"/>
+<label key="1879098097" value="TBD Crafted Rift Medium Armor"/>
+<label key="1879098098" value="TBD Crafted Rift Heavy Armor"/>
+<label key="1879098099" value="TBD Crafted Rift Light Armor"/>
+<label key="1879099148" value="Acier d’Amban"/>
+<label key="1879099149" value="Volonté des Rôdeurs"/>
+<label key="1879099150" value="Esprit des Rôdeurs"/>
+<label key="1879099151" value="Trésor des Eldgangs"/>
+<label key="1879099152" value="Tissu d’Amban"/>
+<label key="1879099153" value="Cuir d’Amban"/>
+<label key="1879102183" value="Tarchathol et Tarnaith"/>
+<label key="1879102184" value="Babioles de vertu"/>
+<label key="1879102185" value="Avorhigil et Avorlang"/>
+<label key="1879102186" value="Babioles de compétence"/>
+<label key="1879102187" value="Curunam et Mirur"/>
+<label key="1879102188" value="Turamath et Brogronn"/>
+<label key="1879102189" value="Amarthan et Amarthdram"/>
+<label key="1879102190" value="Habits de Marchebois"/>
+<label key="1879102191" value="Vêtements du Bosquet"/>
+<label key="1879102192" value="Tenue des Bois"/>
+<label key="key:620790390:108054836" value="+5% aux dégâts des ballades"/>
+<label key="key:620790390:108054838" value="+5% à la guérison"/>
+<label key="key:620790390:54354734" value="Ornée de béryls, également appelés pierres elfiques, cette splendide armure a été fabriquée pour un ménestrel de renom."/>
+<label key="key:620790391:108054836" value="Temps de récupération d'Arc rapide réduit de 2 secondes"/>
+<label key="key:620790391:108054838" value="Temps de récupération de Tir pénétrant réduit de 1 seconde"/>
+<label key="key:620790391:54354734" value="Cette belle armure, faite de peaux des grands aurochs des Hauts du Nord, a été confectionnée à la gloire des valeureux chasseurs qui ont rapporté ces peaux."/>
+<label key="key:620790392:54354734" value="Forgée par les maîtres nains à partir de cuir finement ouvragé et d'acier trempé provenant des grandes mines de l'Ered Luin."/>
+<label key="key:620790393:108054838" value="+20% aux dégâts d'Attaque par surprise lorsque vous êtes derrière la cible et en mode Discrétion"/>
+<label key="key:620790393:54354734" value="Cette armure, faite de pièces hétéroclites, a été fabriquée par un cambrioleur désireux de se faire connaître dans une autre spécialité que la sienne."/>
+<label key="key:620790394:54354734" value="Forgée par les maîtres elfes, de façon à refléter la force, l'éclat et l'intemporalité des constellations du firmament nocturne."/>
+<label key="key:620790395:108054836" value="Temps de récupération des compétences de victoire d'événement réduit de 15%"/>
+<label key="key:620790395:108054838" value="Temps de récupération de Fuite des ténèbres réduit de 5 minutes"/>
+<label key="key:620790395:54354734" value="Tout capitaine digne de ce nom est identifiable au premier coup d'oeil grâce son armure, et celle-ci est sans doute l'une des plus reconnaissables que vous n'ayez jamais vues. Elle semble être de conception arnorienne."/>
+<label key="key:620790396:54354734" value="Confectionnée à partir du meilleur cuir qui soit et renforcée par les mystérieux Rôdeurs du Nord."/>
+<label key="key:620790397:108054836" value="Les chances de résister à votre défi sont réduites de 5%"/>
+<label key="key:620790397:108054838" value="Temps de récupération de Défi des ténèbres réduit de 25%"/>
+<label key="key:620790397:54354734" value="Cette armure a été forgée par un guerrier des Montagnes Grises, avant la venue des dragons. Qui qu'ait pu être son fabricant, nul doute qu'il serait fier que sa création ait été retrouvée par quelqu'un d'aussi brave que vous."/>
+<label key="key:620790398:54354734" value="Légendaire armure fabriquée par les nains qui aurait longtemps fait partie du trésor du dragon de Nargothrond."/>
+<label key="key:620790399:108054836" value="Réduit le coût en Pouvoir de toutes les compétences de zone de 5%"/>
+<label key="key:620790399:108054838" value="Les chances de bloquer ou de parer votre Attaque fortifiante sont réduites"/>
+<label key="key:620790399:54354734" value="Cette armure a été forgée à partir des écailles de Scatha le Ver, tué il y a bien longtemps par Fram, héros des Hommes du Nord."/>
+<label key="key:620790400:54354734" value="Armure brillante, forgée il y a bien longtemps, par les Elfes vivant sur les berges du fleuve qui jaillit du coeur de la noire Fangorn."/>
+<label key="key:620790401:54354734" value="Forgée, il y a bien longtemps de cela, par les fiers cavaliers de l'Anorien."/>
+<label key="key:620790402:54354734" value="Magnifique armure, splendidement forgée pour les légendaires seigneurs nains du temps jadis."/>
+<label key="key:620790403:54354734" value="Ancienne armure elfique, forgée dans les forêts obscures qui s'étendent au pied du lointain Mont des Pins."/>
+<label key="key:620790404:54354734" value="Forgée il y a bien longtemps par les maîtres artisans d'Arnor, cette armure finement ciselée incarne la grande force et la beauté mortelle des dragons de légende."/>
+<label key="key:620790405:108054836" value="Temps de récupération de Test de Volonté réduit de 15 secondes"/>
+<label key="key:620790405:108054838" value="Les chances de résister à votre Lumière aveuglante sont réduites de 5%"/>
+<label key="key:620790405:54354734" value="Cette belle armure incarne la sagesse ancienne des Elfes et l'ornementation de ses pièces dépeint leur départ vers l'Ouest."/>
+<label key="key:620791776:54354734" value="Panthavron était un riche noble d'Evendim, particulièrement connu pour ses fêtes extravagantes."/>
+<label key="key:620792890:54354734" value="Ce cadeau est offert aux plus grands défenseurs des tombeaux d'Annuminas."/>
+<label key="key:620792891:54354734" value="Le Conseil offre ce cadeau à ses meilleurs tacticiens."/>
+<label key="key:620792892:54354734" value="Les grands guérisseurs de Fondcombe peuvent s'attendre à recevoir des récompenses à la mesure de leurs exploits."/>
+<label key="key:620792893:54354734" value="Les grands guerriers de Fondcombe peuvent s'attendre à recevoir des récompenses à la mesure de leurs exploits."/>
+<label key="key:620792894:108054836" value="Les chances de bloquer ou d'esquiver vos attaques à distances sont réduites de 2%"/>
+<label key="key:620792894:54354734" value="Le Conseil offre ce cadeau à ses meilleurs éclaireurs."/>
+<label key="key:620793628:54354734" value="Quand on touche cet objet, la destinée des Rôdeurs du Nord devient presque palpable."/>
+<label key="key:620794539:108054834" value="3% de chances de Dispersion de l’ombre"/>
+<label key="key:620794539:108054836" value="10% de chances de Dispersion de l’ombre"/>
+<label key="key:620794539:108054838" value="25% de chances de Dispersion de l’ombre"/>
+<label key="key:620794539:108120372" value="-50% au coût en Pouvoir de Connaissance de l'orage"/>
+<label key="key:620794539:108120374" value="-20% de temps de récupération pour Explosion d'éclairs"/>
+<label key="key:620794539:54354734" value="Cette armure fut offerte comme récompense pour avoir défendu l'Eriador contre la terreur de Nûrz Gâshu."/>
+<label key="key:620794546:108054834" value="3% de chances de Dispersion de l’ombre"/>
+<label key="key:620794546:108054836" value="10% de chances de Dispersion de l’ombre"/>
+<label key="key:620794546:108054838" value="25% de chances de Dispersion de l’ombre"/>
+<label key="key:620794546:108120372" value="Esprit triomphal génère moins de menace."/>
+<label key="key:620794546:54354734" value="Cette armure fut offerte comme récompense pour avoir défendu l'Eriador contre la terreur de Nûrz Gâshu."/>
+<label key="key:620794553:108054834" value="3% de chances de Dispersion de l’ombre"/>
+<label key="key:620794553:108054836" value="10% de chances de Dispersion de l’ombre"/>
+<label key="key:620794553:108054838" value="25% de chances de Dispersion de l’ombre"/>
+<label key="key:620794553:54354734" value="Cette armure fut offerte comme récompense pour avoir défendu l'Eriador contre la terreur de Nûrz Gâshu."/>
+<label key="key:620794560:108054834" value="3% de chances de Dispersion de l’ombre"/>
+<label key="key:620794560:108054836" value="10% de chances de Dispersion de l’ombre"/>
+<label key="key:620794560:108054838" value="25% de chances de Dispersion de l’ombre"/>
+<label key="key:620794560:54354734" value="Cette armure fut offerte comme récompense pour avoir défendu l'Eriador contre la terreur de Nûrz Gâshu."/>
+<label key="key:620794563:108054834" value="3% de chances de Dispersion de l’ombre"/>
+<label key="key:620794563:108054836" value="10% de chances de Dispersion de l’ombre"/>
+<label key="key:620794563:108054838" value="25% de chances de Dispersion de l’ombre"/>
+<label key="key:620794563:108120372" value="Fuite des ténèbres est lancé instantanément"/>
+<label key="key:620794563:54354734" value="Cette armure fut offerte comme récompense pour avoir défendu l'Eriador contre la terreur de Nûrz Gâshu."/>
+<label key="key:620794564:108054834" value="3% aux chances de Dispersion de l’ombre"/>
+<label key="key:620794564:108054836" value="10% aux chances de Dispersion de l’ombre"/>
+<label key="key:620794564:108054838" value="25% aux chances de Dispersion de l’ombre"/>
+<label key="key:620794564:108120372" value="-15% au coût en Puissance de Reprise de souffle"/>
+<label key="key:620794564:108120374" value="-20% au temps de récupération de Goût du danger"/>
+<label key="key:620794564:54354734" value="Cette armure fut offerte comme récompense pour avoir défendu l'Eriador contre la terreur de Nûrz Gâshu."/>
+<label key="key:620794565:108054834" value="3% de chances de Dispersion de l’ombre"/>
+<label key="key:620794565:108054836" value="10% de chances de Dispersion de l’ombre"/>
+<label key="key:620794565:108054838" value="25% de chances de Dispersion de l’ombre"/>
+<label key="key:620794565:108120372" value="+10% à Menace de gloire"/>
+<label key="key:620794565:108120374" value="+5% aux dégâts de Corps à corps glorieux"/>
+<label key="key:620794565:54354734" value="Cette armure fut offerte comme récompense pour avoir défendu l'Eriador contre la terreur de Nûrz Gâshu."/>
+<label key="key:620797275:209988549" value="Don du Poing de Marteau absorbe tous les dégâts."/>
+<label key="key:620797493:209988549" value="Hérauts &amp; étendards améliorés"/>
+</labels>

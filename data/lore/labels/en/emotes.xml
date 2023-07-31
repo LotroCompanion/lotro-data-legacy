@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?><labels locale="en">
+<label key="1879071841" value="hug"/>
+<label key="1879071844" value="flirt"/>
+<label key="1879071847" value="confused"/>
+<label key="1879071850" value="kiss"/>
+<label key="1879071853" value="beg"/>
+<label key="1879071856" value="mock"/>
+<label key="1879071859" value="bored"/>
+<label key="1879071862" value="cheer"/>
+<label key="1879071863" value="firebreath"/>
+<label key="1879071864" value="afk"/>
+<label key="1879071865" value="angry"/>
+<label key="1879071866" value="beckon"/>
+<label key="1879071867" value="bio"/>
+<label key="1879071868" value="bow"/>
+<label key="1879071869" value="cough"/>
+<label key="1879071870" value="cower"/>
+<label key="1879071871" value="crazy"/>
+<label key="1879071872" value="cry"/>
+<label key="1879071873" value="dance"/>
+<label key="1879071874" value="dance1"/>
+<label key="1879071875" value="dance2"/>
+<label key="1879071876" value="dance3"/>
+<label key="1879071877" value="drink"/>
+<label key="1879071878" value="dustoff"/>
+<label key="1879071879" value="eat"/>
+<label key="1879071880" value="faint"/>
+<label key="1879071881" value="flex"/>
+<label key="1879071882" value="flip"/>
+<label key="1879071883" value="handstand"/>
+<label key="1879071884" value="heropose"/>
+<label key="1879071885" value="impatient"/>
+<label key="1879071886" value="juggle"/>
+<label key="1879071887" value="kneel"/>
+<label key="1879071888" value="laugh"/>
+<label key="1879071889" value="liedown"/>
+<label key="1879071890" value="look"/>
+<label key="1879071891" value="mourn"/>
+<label key="1879071892" value="no"/>
+<label key="1879071893" value="pick"/>
+<label key="1879071894" value="point"/>
+<label key="1879071895" value="pushups"/>
+<label key="1879071896" value="roar"/>
+<label key="1879071897" value="rude"/>
+<label key="1879071898" value="sad"/>
+<label key="1879071899" value="salute"/>
+<label key="1879071900" value="scold"/>
+<label key="1879071901" value="scratch"/>
+<label key="1879071902" value="shakefist"/>
+<label key="1879071903" value="shrug"/>
+<label key="1879071904" value="sigh"/>
+<label key="1879071905" value="sit"/>
+<label key="1879071906" value="smoke"/>
+<label key="1879071907" value="smoke1"/>
+<label key="1879071908" value="surrender"/>
+<label key="1879071909" value="swordsalute"/>
+<label key="1879071910" value="talk"/>
+<label key="1879071911" value="tantrum"/>
+<label key="1879071912" value="thank"/>
+<label key="1879071913" value="wave"/>
+<label key="1879071914" value="yes"/>
+<label key="1879071915" value="mood_surprised"/>
+<label key="1879071916" value="mood_solemn"/>
+<label key="1879071917" value="mood_sleepy"/>
+<label key="1879071918" value="mood_sad"/>
+<label key="1879071919" value="mood_mischievous"/>
+<label key="1879071920" value="mood_happy"/>
+<label key="1879071921" value="mood_fearful"/>
+<label key="1879071922" value="mood_confused"/>
+<label key="1879071923" value="mood_apprehensive"/>
+<label key="1879071924" value="mood_angry"/>
+<label key="1879071925" value="mood_calm"/>
+<label key="1879085173" value="smackhead"/>
+<label key="1879085174" value="pose"/>
+<label key="1879087390" value="bye"/>
+<label key="1879088407" value="dance_elf"/>
+<label key="1879088408" value="dance_hobbit"/>
+<label key="1879088409" value="dance_man"/>
+<label key="1879088410" value="dance_dwarf"/>
+<label key="1879094025" value="agree"/>
+<label key="1879094026" value="ahem"/>
+<label key="1879094027" value="assist"/>
+<label key="1879094028" value="attack"/>
+<label key="1879094029" value="blush"/>
+<label key="1879094030" value="bother"/>
+<label key="1879094031" value="brb"/>
+<label key="1879094032" value="burp"/>
+<label key="1879094033" value="calm"/>
+<label key="1879094034" value="charge"/>
+<label key="1879094035" value="clap"/>
+<label key="1879094038" value="fight"/>
+<label key="1879094039" value="lol"/>
+<label key="1879094040" value="mumble"/>
+<label key="1879094041" value="nothing"/>
+<label key="1879094042" value="oop"/>
+<label key="1879094043" value="pat"/>
+<label key="1879094044" value="poke"/>
+<label key="1879094045" value="ready"/>
+<label key="1879094046" value="rest"/>
+<label key="1879094047" value="sorry"/>
+<label key="1879094048" value="stare"/>
+<label key="1879094049" value="story"/>
+<label key="1879094050" value="stretch"/>
+<label key="1879094051" value="tear"/>
+<label key="1879094052" value="think"/>
+<label key="1879094053" value="wait"/>
+<label key="1879094054" value="wink"/>
+<label key="1879094220" value="congratulate"/>
+<label key="1879094221" value="curtsey"/>
+<label key="1879094222" value="drool"/>
+<label key="1879094223" value="fidget"/>
+<label key="1879094224" value="followme"/>
+<label key="1879094225" value="giggle"/>
+<label key="1879094226" value="grumble"/>
+<label key="1879094227" value="innocent"/>
+<label key="1879094228" value="shiver"/>
+<label key="1879094229" value="slap"/>
+<label key="1879094230" value="sweat"/>
+<label key="1879094231" value="whistle"/>
+<label key="1879094232" value="wince"/>
+<label key="1879094233" value="yawn"/>
+<label key="1879098860" value="lookaround"/>
+<label key="key:620774137:167847310" value="This emote causes you to hug someone."/>
+<label key="key:620774140:167847310" value="This emote causes you to flirt."/>
+<label key="key:620774143:167847310" value="This emote causes you to appear confused."/>
+<label key="key:620774146:167847310" value="This emote causes you to kiss."/>
+<label key="key:620774149:167847310" value="This emote causes you to beg."/>
+<label key="key:620774152:167847310" value="This emote causes you to mock."/>
+<label key="key:620774155:167847310" value="This emote causes you to look bored."/>
+<label key="key:620774157:167847310" value="This emote causes you to breath fire."/>
+<label key="key:620774158:167847310" value="This emote indicates to others that you are away from your keyboard."/>
+<label key="key:620774159:167847310" value="This emote causes you to become angry."/>
+<label key="key:620774160:167847310" value="This emote causes you to beckon."/>
+<label key="key:620774161:167847310" value="This emote tells others you are taking a short break to refresh yourself."/>
+<label key="key:620774162:167847310" value="This emote causes you to bow."/>
+<label key="key:620774163:167847310" value="This emote causes you to cheer."/>
+<label key="key:620774164:167847310" value="This emote causes you to cough."/>
+<label key="key:620774165:167847310" value="This emote causes you to cower in fear."/>
+<label key="key:620774166:167847310" value="This emote causes you to mime insanity."/>
+<label key="key:620774167:167847310" value="This emote causes you to cry."/>
+<label key="key:620774168:167847310" value="This emote causes you to dance."/>
+<label key="key:620774169:167847310" value="This emote causes you to dance."/>
+<label key="key:620774170:167847310" value="This emote causes you to dance."/>
+<label key="key:620774171:167847310" value="This emote causes you to dance."/>
+<label key="key:620774172:167847310" value="This emote causes you to drink."/>
+<label key="key:620774173:167847310" value="This emote causes you to dust yourself off."/>
+<label key="key:620774174:167847310" value="This emote causes you to eat."/>
+<label key="key:620774175:167847310" value="This emote causes you to faint."/>
+<label key="key:620774176:167847310" value="This emote causes you to flex."/>
+<label key="key:620774177:167847310" value="This emote causes you to performa a flip."/>
+<label key="key:620774178:167847310" value="This emote causes you to perform a handstand."/>
+<label key="key:620774179:167847310" value="This emote causes you to pose heroically."/>
+<label key="key:620774180:167847310" value="This emote causes you to act impatient."/>
+<label key="key:620774181:167847310" value="This emote causes you to juggle."/>
+<label key="key:620774182:167847310" value="This emote causes you to kneel."/>
+<label key="key:620774183:167847310" value="This emote causes you to laugh."/>
+<label key="key:620774184:167847310" value="This emote causes you to lie down."/>
+<label key="key:620774185:167847310" value="This emote causes you to look forward."/>
+<label key="key:620774186:167847310" value="This emote causes you to mourn."/>
+<label key="key:620774187:167847310" value="This emote causes you to indicate 'no'."/>
+<label key="key:620774188:167847310" value="This emote causes you to pick a wedgie."/>
+<label key="key:620774189:167847310" value="This emote causes you to point."/>
+<label key="key:620774190:167847310" value="This emote causes you to do pushups."/>
+<label key="key:620774191:167847310" value="This emote causes you to roar."/>
+<label key="key:620774192:167847310" value="This emote causes you to make a rude gesture."/>
+<label key="key:620774193:167847310" value="This emote causes you to become sad."/>
+<label key="key:620774194:167847310" value="This emote causes you to salute."/>
+<label key="key:620774195:167847310" value="This emote causes you to scold."/>
+<label key="key:620774196:167847310" value="This emote causes you to scratch yourself."/>
+<label key="key:620774197:167847310" value="This emote causes you to shake your fist."/>
+<label key="key:620774198:167847310" value="This emote causes you to shrug."/>
+<label key="key:620774199:167847310" value="This emote causes you to sigh."/>
+<label key="key:620774200:167847310" value="This emote causes you to sit."/>
+<label key="key:620774201:167847310" value="This emote causes you to smoke."/>
+<label key="key:620774202:167847310" value="This emote causes you to choke on your pipe smoke."/>
+<label key="key:620774203:167847310" value="This emote causes you to surrender."/>
+<label key="key:620774204:167847310" value="This emote causes you to salute with a sword."/>
+<label key="key:620774205:167847310" value="This emote causes you to talk."/>
+<label key="key:620774206:167847310" value="This emote causes you to throw a tantrum."/>
+<label key="key:620774207:167847310" value="This emote causes you to thank someone."/>
+<label key="key:620774208:167847310" value="This emote causes you to wave."/>
+<label key="key:620774209:167847310" value="This emote causes you to indicate 'yes'."/>
+<label key="key:620774210:167847310" value="This changes your mood to surprised."/>
+<label key="key:620774211:167847310" value="This changes your mood to solemn."/>
+<label key="key:620774212:167847310" value="This changes your mood to sleepy."/>
+<label key="key:620774213:167847310" value="This changes your mood to sad."/>
+<label key="key:620774214:167847310" value="This changes your mood to mischievous."/>
+<label key="key:620774215:167847310" value="This changes your mood to happy."/>
+<label key="key:620774216:167847310" value="This changes your mood to fearful."/>
+<label key="key:620774217:167847310" value="This changes your mood to confused."/>
+<label key="key:620774218:167847310" value="This changes your mood to apprehensive."/>
+<label key="key:620774219:167847310" value="This changes your mood to angry."/>
+<label key="key:620774220:167847310" value="This changes your mood to calm."/>
+<label key="key:620788494:167847310" value="This emote causes you to pose heroically."/>
+<label key="key:620788497:167847310" value="This emote causes you to slap someone."/>
+<label key="key:620788498:167847310" value="This emote causes you to smack yourself."/>
+<label key="key:620790009:167847310" value="This emote causes you to wave goodbye."/>
+<label key="key:620790675:167847310" value="This emote causes you to dance in the ways of the Elves."/>
+<label key="key:620790676:167847310" value="This emote causes you to dance in the ways of the Hobbits."/>
+<label key="key:620790677:167847310" value="This emote causes you to dance in the ways of Men."/>
+<label key="key:620790678:167847310" value="This emote causes you to dance in the ways of the Dwarves."/>
+<label key="key:620793971:167847310" value="This emote causes you to pat somone."/>
+<label key="key:620793972:167847310" value="This emote causes you to poke someone."/>
+<label key="key:620793973:167847310" value="This emote causes you to indicate you are ready."/>
+<label key="key:620793974:167847310" value="This emote causes you to ask for a rest."/>
+<label key="key:620793975:167847310" value="This emote causes you indicate you are sorry."/>
+<label key="key:620793976:167847310" value="This emote causes you to stare."/>
+<label key="key:620793977:167847310" value="This emote causes you to agree."/>
+<label key="key:620793978:167847310" value="This emote causes you tell a story."/>
+<label key="key:620793979:167847310" value="This emote causes you to cough politely."/>
+<label key="key:620793980:167847310" value="This emote causes you to stretch."/>
+<label key="key:620793981:167847310" value="This emote causes you to request assistance."/>
+<label key="key:620793982:167847310" value="This emote causes you shed a single tear."/>
+<label key="key:620793983:167847310" value="This emote causes you to indicate an attack."/>
+<label key="key:620793984:167847310" value="This emote causes you to think."/>
+<label key="key:620793985:167847310" value="This emote causes you to blush."/>
+<label key="key:620793986:167847310" value="This emote causes you to ask somone to wait."/>
+<label key="key:620793987:167847310" value="This emote causes you to bother someone."/>
+<label key="key:620793988:167847310" value="This emote causes you to wink."/>
+<label key="key:620793989:167847310" value="This emote tells others you will be right back."/>
+<label key="key:620793990:167847310" value="This emote causes you to burp."/>
+<label key="key:620793991:167847310" value="This emote causes you to calm others down."/>
+<label key="key:620793992:167847310" value="This emote causes you to charge."/>
+<label key="key:620793993:167847310" value="This emote causes you to clap."/>
+<label key="key:620793994:167847310" value="This emote causes you to laugh out loud."/>
+<label key="key:620793995:167847310" value="This emote causes you to do nothing."/>
+<label key="key:620793996:167847310" value="This emote indicates you want to fight."/>
+<label key="key:620793997:167847310" value="This emote causes you to mumble."/>
+<label key="key:620794000:167847310" value="This emote causes you to indicate you are out of power."/>
+<label key="key:620794129:167847310" value="This emote causes you to shiver."/>
+<label key="key:620794130:167847310" value="This emote causes you to sweat."/>
+<label key="key:620794131:167847310" value="This emote causes you to whistle."/>
+<label key="key:620794132:167847310" value="This emote causes you to congratulate someone."/>
+<label key="key:620794133:167847310" value="This emote causes you to wince."/>
+<label key="key:620794134:167847310" value="This emote causes you to curtsey."/>
+<label key="key:620794135:167847310" value="This emote causes you to yawn."/>
+<label key="key:620794136:167847310" value="This emote causes you to drool."/>
+<label key="key:620794137:167847310" value="This emote causes you to ask people to follow you."/>
+<label key="key:620794138:167847310" value="This emote causes you to giggle."/>
+<label key="key:620794139:167847310" value="This emote causes you to grumble."/>
+<label key="key:620794140:167847310" value="This emote causes you to act innocent."/>
+<label key="key:620794141:167847310" value="This emote causes you to fidget."/>
+<label key="key:620797291:167847310" value="This emote causes you to look around."/>
+</labels>

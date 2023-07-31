@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><enum id="587202672" name="ExaminationModStatType">
-<entry code="1" name="Swarm"/>
-<entry code="2" name="EliteMaster"/>
-<entry code="3" name="Nemesis"/>
-<entry code="4" name="Signature"/>
-<entry code="5" name="Normal"/>
-<entry code="6" name="ArchNemesis"/>
-<entry code="7" name="Elite"/>
-<entry code="8" name="GoodElite"/>
-<entry code="9" name="GoodEliteMaster"/>
-<entry code="10" name="GoodArchNemesis"/>
-<entry code="11" name="GoodNemesis"/>
-<entry code="12" name="GoodSignature"/>
+<entry code="1" name="key:620792166:223854173"/>
+<entry code="2" name="key:620792166:85982386"/>
+<entry code="3" name="key:620792166:166008115"/>
+<entry code="4" name="key:620792166:211150869"/>
+<entry code="5" name="key:620792166:60882604"/>
+<entry code="6" name="key:620792166:161883939"/>
+<entry code="7" name="key:620792166:220681845"/>
+<entry code="8" name="key:620792166:56037861"/>
+<entry code="9" name="key:620792166:191871778"/>
+<entry code="10" name="key:620792166:133587603"/>
+<entry code="11" name="key:620792166:161647459"/>
+<entry code="12" name="key:620792166:218888277"/>
 </enum>

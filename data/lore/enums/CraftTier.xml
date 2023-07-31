@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><enum id="587202659" name="CraftTier">
+<entry code="1" name="key:620756998:88697105"/>
+<entry code="2" name="key:620756998:88697106"/>
+<entry code="3" name="key:620756998:88697107"/>
+<entry code="4" name="key:620756998:88697108"/>
+<entry code="5" name="key:620756998:88697109"/>
+<entry code="6" name="NumTiers"/>
+<entry code="0" name="Beginner"/>
+</enum>

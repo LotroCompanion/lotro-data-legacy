@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="UTF-8"?><labels locale="fr">
+<label key="1879048232" value="Grotte des brigands"/>
+<label key="1879048316" value="Palais de Thorin - Salle commune"/>
+<label key="1879048317" value="Palais de Thorin - Salle des forgerons"/>
+<label key="1879048637" value="Bûrzum Pushdug"/>
+<label key="1879048639" value="Morfil"/>
+<label key="1879049751" value="Source de Baie d’Or"/>
+<label key="1879049794" value="Ferme du Vieux Herbedouce"/>
+<label key="1879051682" value="Champs des Barbotteux"/>
+<label key="1879054247" value="Portes de Norbury"/>
+<label key="1879054457" value="Champs sud de Gatson"/>
+<label key="1879054464" value="Gurzlum"/>
+<label key="1879061169" value="Tham Gelair"/>
+<label key="1879061192" value="Tanière de loup"/>
+<label key="1879063052" value="Landmark Test"/>
+<label key="1879063053" value="Landmark Test 2"/>
+<label key="1879063327" value="Seamia Test Landblock"/>
+<label key="1879063333" value="Vigie de Porterive"/>
+<label key="1879063336" value="Tunnels de Pierrenoire"/>
+<label key="1879063339" value="Pierregrives"/>
+<label key="1879063340" value="Cour de Frérin"/>
+<label key="1879063342" value="Portes de Thorin"/>
+<label key="1879063345" value="Orodost"/>
+<label key="1879063346" value="Le Berghold"/>
+<label key="1879063347" value="Hautiver"/>
+<label key="1879063353" value="Mine du Gouffre d'Argent"/>
+<label key="1879063357" value="Noglond"/>
+<label key="1879063359" value="Entaille du Chasseur"/>
+<label key="1879063361" value="Fondcrosse"/>
+<label key="1879063362" value="Fourcheval"/>
+<label key="1879063363" value="Barricade sud"/>
+<label key="1879063364" value="Amon Thanc"/>
+<label key="1879063365" value="Barricade nord"/>
+<label key="1879063369" value="Gondamon"/>
+<label key="1879063374" value="Vignoble de Limael"/>
+<label key="1879063375" value="Tum Agor"/>
+<label key="1879063376" value="Valanneau"/>
+<label key="1879063377" value="Dol Ringwest"/>
+<label key="1879063378" value="Nen Hilith"/>
+<label key="1879063379" value="Pavillon de chasse de Thrasi"/>
+<label key="1879063380" value="Les Eaux-Funestes"/>
+<label key="1879063381" value="Celondim"/>
+<label key="1879063387" value="Duillond"/>
+<label key="1879063390" value="Emyn Hoedh"/>
+<label key="1879063394" value="Kheledûl"/>
+<label key="1879063395" value="Docks de Kheledûl"/>
+<label key="1879063396" value="Talath Ondren"/>
+<label key="1879063397" value="La Tour de Défense"/>
+<label key="1879063398" value="Chemin de l'Est"/>
+<label key="1879063399" value="La Porte de Rushock"/>
+<label key="1879063400" value="Courtecave"/>
+<label key="1879063402" value="Porte des Hauts"/>
+<label key="1879063403" value="Le Chas-de-l'Aiguille"/>
+<label key="1879063410" value="Grand'Cave"/>
+<label key="1879063413" value="Maison des Mathoms"/>
+<label key="1879063416" value="Champs Sud"/>
+<label key="1879063418" value="Tertre des trolls"/>
+<label key="1879063419" value="La Clairière piquante"/>
+<label key="1879063420" value="Porte du Quartier du Sud"/>
+<label key="1879063421" value="Le Carrefour"/>
+<label key="1879063422" value="Ferme de Dora Bouclebrunes"/>
+<label key="1879063423" value="Antre de Lob"/>
+<label key="1879063424" value="Aballon"/>
+<label key="1879063426" value="Bourg de Touque"/>
+<label key="1879063428" value="Hobbitebourg"/>
+<label key="1879063429" value="Pont de Lèzeau"/>
+<label key="1879063431" value="La Grange"/>
+<label key="1879063432" value="Cul-de-Sac"/>
+<label key="1879063433" value="L'Arbre de la Fête"/>
+<label key="1879063435" value="Antres d'ours"/>
+<label key="1879063436" value="Le Grand Saule"/>
+<label key="1879063438" value="Par-delà-la-Colline"/>
+<label key="1879063439" value="Cours de Par-delà-la-Colline"/>
+<label key="1879063441" value="Pierres-de-Tronc"/>
+<label key="1879063442" value="Scène de Methel"/>
+<label key="1879063443" value="Lèzeau"/>
+<label key="1879063444" value="Pierre des Trois Quartiers"/>
+<label key="1879063445" value="Ferme de Tom Chaumine"/>
+<label key="1879063447" value="Trou de Golfimbul"/>
+<label key="1879063448" value="La ferme à feuilles du Vieil Odo"/>
+<label key="1879063449" value="Lagrenouillère"/>
+<label key="1879063450" value="La Têtardière"/>
+<label key="1879063452" value="Les Trous des Grisards"/>
+<label key="1879063454" value="Pont-du-puits"/>
+<label key="1879063455" value="Courtescarpe"/>
+<label key="1879063459" value="Scary"/>
+<label key="1879063460" value="Les Fonds du collet"/>
+<label key="1879063461" value="Castelbois"/>
+<label key="1879063462" value="Le Gué-du-Pont"/>
+<label key="1879063463" value="La Carrière"/>
+<label key="1879063464" value="La Haricotière"/>
+<label key="1879063465" value="la Colline du Yale"/>
+<label key="1879063467" value="Stock"/>
+<label key="1879063468" value="Mur de Champ-du-Pont"/>
+<label key="1879063469" value="Bac de Châteaubouc"/>
+<label key="1879063470" value="Courtecour"/>
+<label key="1879063471" value="Pont du Brandevin"/>
+<label key="1879063472" value="Ile de Girdley"/>
+<label key="1879063473" value="Château-Brande"/>
+<label key="1879063474" value="Foire du Pays de Bouc"/>
+<label key="1879063476" value="Creux-de-Crique"/>
+<label key="1879063477" value="Bourg-Neuf"/>
+<label key="1879063478" value="Porte du Pays de Bouc"/>
+<label key="1879063479" value="Hutte de Svalfang"/>
+<label key="1879063480" value="Marais aux crapauds"/>
+<label key="1879063482" value="Tunnel de la Vieille Forêt"/>
+<label key="1879063483" value="Clairière du Feu de Joie"/>
+<label key="1879063484" value="Clairière de l’Effroi"/>
+<label key="1879063485" value="Gué du Tournesaules"/>
+<label key="1879063486" value="Colline du Vieux Piedboueux"/>
+<label key="1879063487" value="Val de Pattesombre"/>
+<label key="1879063488" value="Bois Changeant"/>
+<label key="1879063489" value="Colline Chauve"/>
+<label key="1879063490" value="Planque des hors-la-loi"/>
+<label key="1879063491" value="Ost Barandor"/>
+<label key="1879063492" value="Tham Lorn"/>
+<label key="1879063493" value="La Porte d'Evendim"/>
+<label key="1879063494" value="Glirost"/>
+<label key="1879063495" value="Clairière au Saule"/>
+<label key="1879063496" value="Mare ombragée"/>
+<label key="1879063497" value="Chaumière abandonnée"/>
+<label key="1879063498" value="Le Coeur brisé"/>
+<label key="1879063499" value="Vieil Homme Saule"/>
+<label key="1879063500" value="Ruines de la Comté aux Collines"/>
+<label key="1879063501" value="Antre de la Tisseuse"/>
+<label key="1879063502" value="Clairière Mélancolique"/>
+<label key="1879063504" value="Maison de Tom Bombadil"/>
+<label key="1879063505" value="Val Grinçant"/>
+<label key="1879063506" value="Bois de la Colère"/>
+<label key="1879063507" value="Coin de Tomnoddy"/>
+<label key="1879063508" value="Larmeline"/>
+<label key="1879063509" value="Route des vieux galgals"/>
+<label key="1879063510" value="Route de la Forêt de l’Est"/>
+<label key="1879063512" value="Camp d’Adso"/>
+<label key="1879063513" value="Haudh Eglan"/>
+<label key="1879063514" value="Tombe du vieux chêne"/>
+<label key="1879063516" value="Grand Galgal"/>
+<label key="1879063517" value="Galgals du nord"/>
+<label key="1879063518" value="Tanière des brigands"/>
+<label key="1879063519" value="Tour morte"/>
+<label key="1879063520" value="Galgal de Taradan"/>
+<label key="1879063521" value="Haudh Methernil"/>
+<label key="1879063522" value="Col des galgals du nord"/>
+<label key="1879063523" value="Grognecreux"/>
+<label key="1879063524" value="Campement de Cirith Nûr"/>
+<label key="1879063525" value="Camp de Mincham"/>
+<label key="1879063527" value="Galgal d’Orron"/>
+<label key="1879063528" value="Galgal de Ringdor"/>
+<label key="1879063529" value="Ferme de Cotignac"/>
+<label key="1879063531" value="Ost Gorthad"/>
+<label key="1879063532" value="Perchoir de l’Homme Mort"/>
+<label key="1879063533" value="Carrefour du Chemin Vert"/>
+<label key="1879063535" value="Ferme de Cornouiller"/>
+<label key="1879063536" value="Chantier de Lépineux"/>
+<label key="1879063537" value="Porte de Pont-à-Tréteaux"/>
+<label key="1879063540" value="Pont à Tréteaux"/>
+<label key="1879063541" value="Porte des vieilles pierres"/>
+<label key="1879063542" value="Allée des mendiants"/>
+<label key="1879063543" value="Ruines des vieilles pierres"/>
+<label key="1879063545" value="Porte ouest"/>
+<label key="1879063546" value="Domaine de Soufflevent"/>
+<label key="1879063547" value="Cimetière abandonné"/>
+<label key="1879063548" value="Cabane de Saeradan"/>
+<label key="1879063549" value="Vieux Fort du Chemin Vert"/>
+<label key="1879063550" value="Amon Raith"/>
+<label key="1879063552" value="Amon Amrûn"/>
+<label key="1879063553" value="Ost Nuaran"/>
+<label key="1879063554" value="Tour du fauconnier"/>
+<label key="1879063555" value="Lac de Bonneprise"/>
+<label key="1879063556" value="Quartier des pierres"/>
+<label key="1879063557" value="Jardin de Jasmine"/>
+<label key="1879063558" value="Porte des boues"/>
+<label key="1879063559" value="Grand Escalier"/>
+<label key="1879063560" value="Promenade des érudits"/>
+<label key="1879063561" value="Porte de Mangefer"/>
+<label key="1879063562" value="Grand Pont"/>
+<label key="1879063563" value="Bree"/>
+<label key="1879063564" value="Porte de l’auberge"/>
+<label key="1879063565" value="Escalier des érudits"/>
+<label key="1879063566" value="Porte nord"/>
+<label key="1879063569" value="Ruines de Sudegarde"/>
+<label key="1879063570" value="Prison de Bree"/>
+<label key="1879063573" value="Hôtel de ville de Bree"/>
+<label key="1879063575" value="Place du marché"/>
+<label key="1879063576" value="Porte des marchands"/>
+<label key="1879063577" value="Porte du marché"/>
+<label key="1879063578" value="Porte basse"/>
+<label key="1879063579" value="Le Poney Fringant"/>
+<label key="1879063580" value="Minas Vrûn"/>
+<label key="1879063581" value="Ferme de Pierson"/>
+<label key="1879063582" value="Porte sud"/>
+<label key="1879063583" value="Maison de Bill Fougeron"/>
+<label key="1879063584" value="Porte des bûcherons"/>
+<label key="1879063585" value="Porte de Combe"/>
+<label key="1879063586" value="Col ouest de Nan Wathren"/>
+<label key="1879063587" value="Ferme de William Piquecime"/>
+<label key="1879063589" value="Porte de Staddel"/>
+<label key="1879063590" value="Petit marais de Staddel"/>
+<label key="1879063591" value="Staddel"/>
+<label key="1879063592" value="Maison de Puyduchar"/>
+<label key="1879063593" value="Auberge de la Combe et de la Caroncule"/>
+<label key="1879063594" value="Combe"/>
+<label key="1879063598" value="Ost Baranor"/>
+<label key="1879063599" value="Cour en Ruine"/>
+<label key="1879063601" value="Porte nord de Combe"/>
+<label key="1879063602" value="Porte d’Archet"/>
+<label key="1879063603" value="Prison d’Archet"/>
+<label key="1879063604" value="Palissade est d’Archet"/>
+<label key="1879063605" value="Archet"/>
+<label key="1879063607" value="Cicatrice d'Amlaith"/>
+<label key="1879063608" value="Arbre Jaune"/>
+<label key="1879063609" value="Ferme de Mamie Boguesse"/>
+<label key="1879063610" value="Ferme de la veuve Cornevase"/>
+<label key="1879063611" value="Grand marais de Staddel"/>
+<label key="1879063612" value="Chutes de Staddel"/>
+<label key="1879063613" value="Champ de souches"/>
+<label key="1879063614" value="Ferme de Brindillon"/>
+<label key="1879063615" value="Folie de Bronwe"/>
+<label key="1879063616" value="Vieux Sentier de l’Est"/>
+<label key="1879063617" value="Puits d’Argent"/>
+<label key="1879063618" value="Ferme d’Eldo Tuemouche"/>
+<label key="1879063619" value="Camp de bûcherons de Combe"/>
+<label key="1879063621" value="Pavillon de chasse"/>
+<label key="1879063622" value="Nan Wathren"/>
+<label key="1879063623" value="Ferme de Nathan Hodge"/>
+<label key="1879063624" value="Ost Lagoros"/>
+<label key="1879063625" value="Ost Galumar"/>
+<label key="1879063626" value="Hrizgur"/>
+<label key="1879063627" value="Tanière des loups"/>
+<label key="1879063628" value="Repaire des brigands du Plateau Noir"/>
+<label key="1879063629" value="Hîgropor"/>
+<label key="1879063630" value="Camp de Torthanns"/>
+<label key="1879063631" value="Pierres Englouties"/>
+<label key="1879063632" value="Ruines de la Lisière"/>
+<label key="1879063633" value="Col est de Nan Wathren"/>
+<label key="1879063634" value="Ferme de Gatson"/>
+<label key="1879063635" value="Thurûm"/>
+<label key="1879063636" value="Fort des Paluds"/>
+<label key="1879063637" value="Quartier général des brigands du Plateau Noir"/>
+<label key="1879063639" value="Lin Giliath"/>
+<label key="1879063640" value="Lande du Roi"/>
+<label key="1879063641" value="Othrikar"/>
+<label key="1879063643" value="Ferme du Vieux Bauman"/>
+<label key="1879063644" value="Meluinen"/>
+<label key="1879063645" value="Ruines du Trou-aux-Gobelins"/>
+<label key="1879063646" value="Merenost"/>
+<label key="1879063647" value="Kamskut"/>
+<label key="1879063648" value="Repos de Bindbole"/>
+<label key="1879063649" value="Grotte du Rassemblement"/>
+<label key="1879063650" value="Gorges de l’Eau-aux-Cousins"/>
+<label key="1879063651" value="Dol Nendir"/>
+<label key="1879063652" value="Les Collets"/>
+<label key="1879063656" value="Ventevoie"/>
+<label key="1879063657" value="Esteldin"/>
+<label key="1879063660" value="Auberge Abandonnée"/>
+<label key="1879063661" value="Ost Alagos"/>
+<label key="1879063667" value="Rusfold"/>
+<label key="1879063668" value="Aughaire"/>
+<label key="1879063669" value="Gondrinn"/>
+<label key="1879063670" value="Lehmä-koti"/>
+<label key="1879063674" value="Nad Nathair"/>
+<label key="1879063675" value="Barad Iachiant"/>
+<label key="1879063676" value="Rempart Venteux"/>
+<label key="1879063677" value="Mornecreux"/>
+<label key="1879063678" value="Tristecrête"/>
+<label key="1879063679" value="Ost Laden"/>
+<label key="1879063680" value="Dol Dinen"/>
+<label key="1879063681" value="Fail-a-Khro"/>
+<label key="1879063682" value="Dûn Covad"/>
+<label key="1879063684" value="Mont Venteux"/>
+<label key="1879063685" value="Echad Sûl"/>
+<label key="1879063686" value="Hîsuk"/>
+<label key="1879063687" value="Skathmur"/>
+<label key="1879063688" value="Duvairë"/>
+<label key="1879063689" value="Cairn de l'Honneur"/>
+<label key="1879063690" value="Tûmat"/>
+<label key="1879063691" value="Pont des Sanglots"/>
+<label key="1879063692" value="Rhunenlad"/>
+<label key="1879063693" value="Ost Crithlanc"/>
+<label key="1879063695" value="Mithrenost"/>
+<label key="1879063696" value="Bail Rova"/>
+<label key="1879063697" value="Tor Gailvin"/>
+<label key="1879063698" value="Donnvail"/>
+<label key="1879063701" value="Naerost"/>
+<label key="1879063702" value="Kar Lak"/>
+<label key="1879063703" value="Fashat Laug"/>
+<label key="1879063704" value="Tyrn Lhuig"/>
+<label key="1879063705" value="Thandobel"/>
+<label key="1879063706" value="Amon Ros"/>
+<label key="1879063707" value="Ost Cyrn"/>
+<label key="1879063708" value="Salgaitë"/>
+<label key="1879063709" value="Bail Boglakh"/>
+<label key="1879063710" value="Ram Taltorth"/>
+<label key="1879063711" value="Anglanthir"/>
+<label key="1879063712" value="Nindor"/>
+<label key="1879063714" value="Ost Guruth"/>
+<label key="1879063716" value="Rammas Deluon"/>
+<label key="1879063717" value="Gurthlin"/>
+<label key="1879063718" value="Pierres Abattues"/>
+<label key="1879063719" value="Bar Gorog"/>
+<label key="1879063720" value="Gwambar"/>
+<label key="1879063721" value="Bail Grundail"/>
+<label key="1879063722" value="Ost Haer"/>
+<label key="1879063723" value="Mor Maudhul"/>
+<label key="1879063724" value="Gorthbar"/>
+<label key="1879063725" value="Bail Dílas"/>
+<label key="1879063726" value="Marais Macabre"/>
+<label key="1879063727" value="Cercle de Sang"/>
+<label key="1879063728" value="Barad Dhorn"/>
+<label key="1879063730" value="Agamaur"/>
+<label key="1879063731" value="Fervar"/>
+<label key="1879063732" value="Bail Catharnakh"/>
+<label key="1879063733" value="Dol Vaeg"/>
+<label key="1879063734" value="Gabilshathûr"/>
+<label key="1879063735" value="Portes extérieures"/>
+<label key="1879063736" value="Ongbishuk"/>
+<label key="1879063737" value="Torech-i-Bogbereth"/>
+<label key="1879063738" value="Grishbalt"/>
+<label key="1879063739" value="Garth Agarwen"/>
+<label key="1879063740" value="Porte de Garth Agarwen"/>
+<label key="1879063741" value="Gath Forthnir"/>
+<label key="1879063743" value="Dernier pont"/>
+<label key="1879063744" value="Source de la Fille Rouge"/>
+<label key="1879063745" value="Crypte d'Ivar"/>
+<label key="1879063746" value="Temple des Sept Sentinelles"/>
+<label key="1879063747" value="Minas Maur"/>
+<label key="1879063748" value="Minas Agar"/>
+<label key="1879063749" value="Minas Caul"/>
+<label key="1879063750" value="Dâr-gazag"/>
+<label key="1879063753" value="Minas Angos"/>
+<label key="1879063754" value="Minas Dhem"/>
+<label key="1879063756" value="Dolroth"/>
+<label key="1879063757" value="Minas Deloth"/>
+<label key="1879063758" value="Minas Gularan"/>
+<label key="1879063759" value="Minas Nîr"/>
+<label key="1879063760" value="Ost Dúrgonn"/>
+<label key="1879063761" value="Pied de Gram"/>
+<label key="1879063764" value="Camp de Barachen"/>
+<label key="1879063765" value="Ost Belegram"/>
+<label key="1879063766" value="Sacregris"/>
+<label key="1879063767" value="Lugazag"/>
+<label key="1879063768" value="Minas Agor"/>
+<label key="1879063769" value="Barad Remmellad"/>
+<label key="1879063770" value="Tisseval"/>
+<label key="1879063771" value="Porte de Gath Uior"/>
+<label key="1879063772" value="La Clairière des Trolls de pierre"/>
+<label key="1879063773" value="Tanière d'araignée piégeuse"/>
+<label key="1879063774" value="Camp de bûcherons du Bois Funeste"/>
+<label key="1879063775" value="Tol Ascarnen"/>
+<label key="1879063776" value="Gladdalf"/>
+<label key="1879063777" value="Thorenhad"/>
+<label key="1879063780" value="Amon Varadh"/>
+<label key="1879063781" value="Gouffre d'Isen"/>
+<label key="1879063782" value="Barad Glamgil"/>
+<label key="1879063783" value="Minas Ciliant"/>
+<label key="1879063784" value="Ost Chall"/>
+<label key="1879063785" value="Tirith Rhaw"/>
+<label key="1879063786" value="Drauglad"/>
+<label key="1879063787" value="Ost Thondol"/>
+<label key="1879063788" value="Les Chutes de Glamgil"/>
+<label key="1879063789" value="Ost Brandras"/>
+<label key="1879063791" value="Glâin Vraig"/>
+<label key="1879063794" value="Grothum"/>
+<label key="1879063795" value="Ost Ringdyr"/>
+<label key="1879063796" value="Les Marais Fleuris"/>
+<label key="1879063797" value="Le Gué de Bruinen"/>
+<label key="1879063798" value="Taur Ornolf"/>
+<label key="1879063799" value="Amon Nendir"/>
+<label key="1879063800" value="Les Portes d'Imladris"/>
+<label key="1879063801" value="Les écuries d'Elrond"/>
+<label key="1879063804" value="Les forges de Fondcombe"/>
+<label key="1879063807" value="L'Etang aux Pierres"/>
+<label key="1879063808" value="Le Pont de Fondcombe"/>
+<label key="1879063809" value="Le marché de Fondcombe"/>
+<label key="1879063810" value="Imdolen"/>
+<label key="1879063811" value="La Tour de la Rencontre"/>
+<label key="1879063812" value="Hidhuinen"/>
+<label key="1879063813" value="Snarskrith Dell"/>
+<label key="1879063814" value="Poste d'observation d'Iskeld"/>
+<label key="1879063815" value="Les Chutes d'Imladris"/>
+<label key="1879063818" value="Le havre d'Orladion"/>
+<label key="1879063820" value="Camp de Gloïn"/>
+<label key="1879063821" value="Cercle des Visiteurs de pierre"/>
+<label key="1879063822" value="La Dernière Maison Simple"/>
+<label key="1879063825" value="Cirith Imladris"/>
+<label key="1879063826" value="Marche Amère"/>
+<label key="1879063827" value="Etang de Frosthyle"/>
+<label key="1879063828" value="Nan Gongarag"/>
+<label key="1879063829" value="Fourcheblanc"/>
+<label key="1879063830" value="Imlad Norn"/>
+<label key="1879063831" value="Orod Laden"/>
+<label key="1879063832" value="Gabilazan"/>
+<label key="1879063833" value="Havre de Hrithur"/>
+<label key="1879063834" value="Bassin de Caldwell"/>
+<label key="1879063835" value="Pierre Ssolitaire"/>
+<label key="1879063836" value="Rakhâs-bizar"/>
+<label key="1879063837" value="Val d'Eikhall"/>
+<label key="1879063838" value="Pinnath Fenui"/>
+<label key="1879063839" value="Entaille de Bergel"/>
+<label key="1879063840" value="Muraille de Branchegrise"/>
+<label key="1879063841" value="L'Aiguille du Géant"/>
+<label key="1879063842" value="Iorbar"/>
+<label key="1879071966" value="Tour de Kheledûl"/>
+<label key="1879071975" value="Nan Dhelu"/>
+<label key="1879076119" value="Pré aux festivités"/>
+<label key="1879078681" value="Lac de Clairciel"/>
+<label key="1879079454" value="Ferme de Sconcebois"/>
+<label key="1879084498" value="Campement des Peuples Libres"/>
+<label key="1879084532" value="Camp elfique abandonné"/>
+<label key="1879084533" value="Ferme de Sablonneux"/>
+<label key="1879084539" value="Ferme de Longo Galgalis"/>
+<label key="1879085053" value="Porte des Ombres"/>
+<label key="1879085541" value="Palais de Thorin – Salle des artisans"/>
+<label key="1879085892" value="Palais de Thorin"/>
+<label key="1879086568" value="Campement de Candaith"/>
+<label key="1879088174" value="Résidence de Perlina Gamegie"/>
+<label key="1879088900" value="Annuminas"/>
+<label key="1879088903" value="Tham Nambarth"/>
+<label key="1879088904" value="Tham Varan"/>
+<label key="1879088905" value="Ost Heryn"/>
+<label key="1879088906" value="Tham Andalath"/>
+<label key="1879088907" value="Tham Ornen"/>
+<label key="1879088908" value="Canadiach"/>
+<label key="1879088910" value="Tinnudir"/>
+<label key="1879088911" value="Tollobel"/>
+<label key="1879088912" value="La Crête de Mornefeuille"/>
+<label key="1879088913" value="Butte du Champ-de-Pierres"/>
+<label key="1879088914" value="Dwaling"/>
+<label key="1879088915" value="Castelorge"/>
+<label key="1879088916" value="Les Gorges Mugissantes"/>
+<label key="1879088917" value="Blanchécharde"/>
+<label key="1879088918" value="Barad Tharsir"/>
+<label key="1879088919" value="Longues Dunes"/>
+<label key="1879088920" value="Lithost"/>
+<label key="1879088921" value="Le Carrefour du Haut-Roi"/>
+<label key="1879088922" value="Les Chutes du Point-du-Jour"/>
+<label key="1879088923" value="Dol Haedir"/>
+<label key="1879088924" value="Bruissines"/>
+<label key="1879088925" value="Vif-Argent"/>
+<label key="1879088926" value="Toit du Lac"/>
+<label key="1879088927" value="Barad Rath"/>
+<label key="1879088928" value="Nan Orngon"/>
+<label key="1879088929" value="Rantost"/>
+<label key="1879088930" value="Tûm Fuin"/>
+<label key="1879088931" value="Ost Forod"/>
+<label key="1879088932" value="Cirith Rhîw"/>
+<label key="1879088933" value="Sombrefaille"/>
+<label key="1879088934" value="Tham Habad"/>
+<label key="1879088935" value="Amon Môth"/>
+<label key="1879088936" value="Bosquet Corrompu"/>
+<label key="1879088937" value="Hautecime"/>
+<label key="1879088938" value="Fonceval"/>
+<label key="1879088939" value="Tham Sarch"/>
+<label key="1879088940" value="Tham Laegamon"/>
+<label key="1879088941" value="Arthobel"/>
+<label key="1879088943" value="Haudh Eärendur"/>
+<label key="1879088944" value="Haudh Elendur"/>
+<label key="1879088945" value="Haudh Valandur"/>
+<label key="1879088946" value="Haudh Elendil"/>
+<label key="1879088947" value="Haudh Tarondor"/>
+<label key="1879088948" value="Haudh Eldacar"/>
+<label key="1879088949" value="Haudh Tarcil"/>
+<label key="1879088950" value="Haudh Arantar"/>
+<label key="1879089179" value="Gorthost"/>
+<label key="1879090223" value="Maison Brumbar"/>
+<label key="1879092645" value="Adannon"/>
+<label key="1879092646" value="Ariant"/>
+<label key="1879092647" value="Port d'Annuminas"/>
+<label key="1879092648" value="Gwaelband"/>
+<label key="1879092649" value="Clorhir"/>
+<label key="1879092650" value="Gaerannon"/>
+<label key="1879092651" value="Minathranc"/>
+<label key="1879092653" value="Echad Garthadir"/>
+<label key="1879092654" value="Menelband"/>
+<label key="1879092655" value="Tirband"/>
+<label key="1879093296" value="Imlad Gelair"/>
+<label key="1879093333" value="Sarnur"/>
+<label key="1879096330" value="Cave Eboulée (EH : c'est un nom propre, alors, allons-y pour la double maj, comme pour les auberges...)"/>
+<label key="1879096331" value="Echad Candelleth"/>
+<label key="1879096332" value="Delossad"/>
+<label key="1879096333" value="Chaumière de Garbert"/>
+<label key="1879096334" value="Echad Gauradan"/>
+<label key="1879096335" value="Cirith Ulunn"/>
+<label key="1879096336" value="Torech Ullug"/>
+<label key="1879096337" value="Eryn Singor"/>
+<label key="1879097609" value="Fort de guerre"/>
+<label key="1879097610" value="Eglanur"/>
+<label key="1879097611" value="Tonnepierre"/>
+<label key="1879097612" value="Enclos à esclaves"/>
+<label key="1879097613" value="Grotte de Gollum"/>
+<label key="1879097614" value="Antre du Grand Gobelin"/>
+<label key="1879097615" value="Feux des profondeurs"/>
+<label key="1879097616" value="Ghâshru"/>
+<label key="1879097617" value="Akûltot"/>
+<label key="1879097619" value="Serpentines"/>
+<label key="1879097620" value="Domstoll"/>
+<label key="1879097621" value="La Fissure Noire"/>
+<label key="1879097622" value="La Gorge de la montagne"/>
+<label key="1879097623" value="Northtarn"/>
+<label key="1879097624" value="Crevasse d'Erforgh"/>
+<label key="1879097625" value="Cirith Daur"/>
+<label key="1879097626" value="Men Helch"/>
+<label key="1879097627" value="Ceber Los"/>
+<label key="1879097628" value="Vindurhal"/>
+<label key="1879097629" value="Starkhath"/>
+<label key="1879097630" value="Hrimbarg"/>
+<label key="1879101655" value="Monument oublié"/>
+<label key="1879102216" value="Résidences du Palais de Thorin"/>
+<label key="1879102217" value="Résidences de la Comté"/>
+<label key="1879102218" value="Résidences de Falathlorn"/>
+<label key="1879102219" value="Pré aux festivités"/>
+<label key="1879102226" value="Camp d'Iorelen"/>
+</labels>

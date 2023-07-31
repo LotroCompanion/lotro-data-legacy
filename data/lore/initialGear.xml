@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><initialGear>
+<class key="Burglar">
+<item id="1879064323" name="Cloth Gloves"/>
+<item id="1879064324" name="Padded Shoes"/>
+<item id="1879064325" name="Quilted Leggings"/>
+<item id="1879064326" name="Quilted Shirt"/>
+<item id="1879064059" name="Dull Knife"/>
+</class>
+<class key="Captain">
+<item id="1879064134" name="Leather Gauntlets"/>
+<item id="1879064135" name="Leather Boots"/>
+<item id="1879064136" name="Leather Jacket"/>
+<item id="1879064137" name="Leather Leggings"/>
+<item id="1879064138" name="Leather Shoulder Pads"/>
+<item id="1879064139" name="Weak Mace"/>
+</class>
+<class key="Champion">
+<item id="1879064056" name="Leather Leggings"/>
+<item id="1879064057" name="Leather Jacket"/>
+<item id="1879064058" name="Leather Shoes"/>
+<item id="1879064059" name="Dull Knife"/>
+</class>
+<class key="Guardian">
+<item id="1879064281" name="Quilted Leggings"/>
+<item id="1879064282" name="Leather Boots"/>
+<item id="1879064283" name="Leather Shirt"/>
+<item id="1879064284" name="Leather Shoulder Guards"/>
+<item id="1879064285" name="Leather Gauntlets"/>
+<item id="1879064139" name="Weak Mace"/>
+</class>
+<class key="Hunter">
+<item id="1879064366" name="Cloth Pants"/>
+<item id="1879064367" name="Cloth Vest"/>
+<item id="1879064368" name="Padded Shoes"/>
+<item id="1879064059" name="Dull Knife"/>
+<item id="1879064369" name="Fragile Shortbow"/>
+</class>
+<class key="Lore-master">
+<item id="1879064240" name="Robe"/>
+<item id="1879064241" name="Quilted Leggings"/>
+<item id="1879064242" name="Padded Shoes"/>
+<item id="1879064243" name="Simple Staff"/>
+</class>
+<class key="Minstrel">
+<item id="1879064183" name="Quilted Shirt"/>
+<item id="1879064184" name="Quilted Pants"/>
+<item id="1879064185" name="Padded Shoes"/>
+<item id="1879064139" name="Weak Mace"/>
+</class>
+</initialGear>

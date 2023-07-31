@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?><labels locale="fr">
+<label key="1879049230" value="Instance : Le fil se dénoue"/>
+<label key="1879049246" value="Instance : Les brigands vaincus"/>
+<label key="1879049555" value="Instance : Assaut sur Archet"/>
+<label key="1879049884" value="Instance : Le Col Rouge"/>
+<label key="1879049994" value="Instance : Reprendre le Mont Venteux"/>
+<label key="1879051657" value="Instance : Sous les Champs Verts"/>
+<label key="1879051764" value="Instance : Un don du Nord"/>
+<label key="1879051812" value="Instance : Le tombeau de Skorgrim"/>
+<label key="1879052043" value="Instance  : Une cambrioleuse en mission"/>
+<label key="1879052053" value="Instance  : Un voleur dans la nuit"/>
+<label key="1879052341" value="Instance  : La volonté du maître du savoir"/>
+<label key="1879052356" value="Instance : Un esprit bien ordonné"/>
+<label key="1879052447" value="Instance  : Le devoirs des chasseurs"/>
+<label key="1879052457" value="Instance  : La voie du chasseur"/>
+<label key="1879052537" value="Instance privée : La piste invisible"/>
+<label key="1879052622" value="Instance privée : Le dernier refuge"/>
+<label key="1879052713" value="Instance : les Portes de Carn Dûm"/>
+<label key="1879052956" value="Instance  : L'espoir du ménestrel"/>
+<label key="1879052962" value="Instance  : Un chant pour la compagnie"/>
+<label key="1879053111" value="Instance  : Les couleurs d'un capitaine"/>
+<label key="1879054343" value="Instance : La défense de Pont-à-Tréteaux"/>
+<label key="1879059930" value="Instance  : Le courage des champions"/>
+<label key="1879060101" value="Instance  : La tâche du gardien"/>
+<label key="1879061103" value="Instance privée : Assaut sur Rath Teraig"/>
+<label key="1879061120" value="Instance privée : Sauvetage au clair de lune"/>
+<label key="1879061123" value="Instance : Une guerre à éviter"/>
+<label key="1879061565" value="Instance : Othrongroth"/>
+<label key="1879062509" value="Instance privée : Le fardeau de Frodon"/>
+<label key="1879063051" value="Instance : A la rescousse du rôdeur"/>
+<label key="1879064582" value="Instance : Carn Dûm"/>
+<label key="1879073446" value="Instance : Une voie au coeur des ténèbres"/>
+<label key="1879073497" value="Instance : L’évasion"/>
+<label key="1879073540" value="Instance : Le refuge d'Edhelion"/>
+<label key="1879073579" value="Instance : Au fond du Gouffre d'Argent"/>
+<label key="1879076000" value="Instance publique : Un petit nouveau à Archet"/>
+<label key="1879076001" value="Instance publique : le Palais de Thorin pour débutant"/>
+<label key="1879076779" value="Palais de Thorin"/>
+<label key="1879076780" value="Instance : La planque"/>
+<label key="1879077397" value="Instance privée : tuez l'assistant"/>
+<label key="1879077455" value="Private Instance: Test"/>
+<label key="1879078558" value="Instance privée : Le Grand Galgal"/>
+<label key="1879078810" value="Instance : L’alliance rompue"/>
+<label key="1879080018" value="Instance : Garth Agarwen"/>
+<label key="1879080858" value="Instance : le Marteau de Thor"/>
+<label key="1879081168" value="Instance : Fornost"/>
+<label key="1879082285" value="Instance : Urugarth"/>
+<label key="1879083265" value="Instance : le Feu et la glace"/>
+<label key="1879083267" value="Instance : Helegrod"/>
+<label key="1879086708" value="Instance privée : La lame brisée"/>
+<label key="1879087208" value="Instance : Le tombeau d'Elendil"/>
+<label key="1879087637" value="Instance : Barad Gularan"/>
+<label key="1879088600" value="Instance privée : Sombrecoeur"/>
+<label key="1879088646" value="Instance : Le code des voleurs"/>
+<label key="1879088729" value="Instance privée : Une protestation officielle"/>
+<label key="1879088741" value="Instance : La force de Chênecoeur"/>
+<label key="1879088953" value="Instance : Les amis d'Amarthiel"/>
+<label key="1879092076" value="Instance : Les jardins d'Annuminas"/>
+<label key="1879092077" value="Instance : Le palais d'Annuminas"/>
+<label key="1879092078" value="Instance : Le tombeau d'Annuminas"/>
+<label key="1879092661" value="Instance : l'Oeil d'Angmar"/>
+<label key="1879092662" value="Instance : le piège se referme"/>
+<label key="1879093354" value="Instance : la chute de Mordirith"/>
+<label key="1879093836" value="Instance : Les chasseurs de primes"/>
+<label key="1879094769" value="Instance : La Faille de Nûrz Ghâshu"/>
+<label key="1879095630" value="Instance: The Rift"/>
+<label key="1879095631" value="Instance: The Rift"/>
+<label key="1879095632" value="Instance: The Rift"/>
+<label key="1879095795" value="Instance : un piège pour Gollum"/>
+<label key="1879095796" value="Instance : Prisonnier des Peuples Libres"/>
+<label key="1879095797" value="Instance : Mordrambor"/>
+<label key="1879095798" value="Instance : Commémoration"/>
+<label key="1879101527" value="Instance : Salle du trône de Gobelinville"/>
+<label key="key:620777475:227652915" value="Instance publique : Un petit nouveau à Archet"/>
+<label key="key:620777480:227652915" value="Instance publique : le Palais de Thorin pour débutant"/>
+<label key="key:620777975:227652915" value="Palais de Thorin"/>
+<label key="key:620778271:227652915" value="Instance Monster-play : tuez l'assistant"/>
+<label key="key:620778309:227652915" value="Private Instance: Test"/>
+<label key="key:620789385:100438980" value="&lt;u&gt;Barad Gularan&lt;/u&gt;&#10;\qAyant obtenu tout ce dont ils avaient besoin pour contenir un sort terrifiant, les sorciers d’Angmar se replient vers Barad Gularan pour accomplir la volonté de leur maîtresse Amarthiel, tandis que les Rôdeurs du Nord cherchent des alliés pour s’opposer à eux...\q"/>
+<label key="key:620789385:109703076" value="&lt;u&gt;Un esprit bien ordonné&lt;/u&gt;&#10;\qDorset Duchêne, fils d’un célèbre maître du savoir décédé, recherche le catalogue rédigé par son père pour s’y retrouver dans sa bibliothèque. Mais les pages en ont été dispersées et les gobelins qui forent des galeries dans les grottes proches risquent d’arriver à tout moment...\q"/>
+<label key="key:620789385:111103604" value="&lt;u&gt;Othrongroth&lt;/u&gt;&#10;\qOthrongroth, le Grand galgal, le plus vieux et le plus haut tertre des Edain au sein des Hauts des Galgals, abrite quelques-uns des serviteurs du Roi-Sorcier les plus terrifiants.\q"/>
+<label key="key:620789385:115638206" value="&lt;u&gt;Les brigands vaincus&lt;/u&gt;&#10;\qLa défaite d'Amdir a mis les brigands du Plateau Noir en déroute, mais une partie du mystère reste à résoudre...\q"/>
+<label key="key:620789385:121343476" value="&lt;u&gt;Sombrecoeur&lt;/u&gt;&#10;\qLongrameau l’Ent est en colère. Les trolls des bois de Hautecime se sont en effet alliés avec un Huorn noir qui obéissait autrefois à l’Ent, et ce dernier est fermement décidé à mettre un terme à leurs agissements...\q"/>
+<label key="key:620789385:125338174" value="&lt;u&gt;Le fardeau de Frodon&lt;/u&gt;&#10;\qJe m'inquiète pour Frodon, dont le fardeau est si lourd à porter. J'espère que ceux à qui j'ai confié sa surveillance sauront déceler si son esprit conserve la force nécessaire pour mener sa mission à bien...\q"/>
+<label key="key:620789385:126153652" value="&lt;u&gt;Helegrod&lt;/u&gt;&#10;\qHelegrod... Ancienne place forte des nains dans les Monts Brumeux jusqu'à l'arrivée d'un grand dragon. Bien que le dragon soit mort depuis longtemps et que la glace de nombreux hivers ait recouvert les ruines, des rumeurs venues du Nord parlent du retour d'une ombre terrifiante dans le palais gelé...\q"/>
+<label key="key:620789385:133737042" value="&lt;u&gt;Haudh Valandil&lt;/u&gt;&#10;\qLes Seigneurs d’Umbar, sorciers formés par Sauron, le grand nécromancien, cherchent à semer la terreur à Annuminas en animant les ossements de Valandil, troisième roi d’Arnor, pour donner naissance à un terrifiant esprit spectral. Seuls les plus courageux membres des Peuples Libres pourront mettre un terme à leurs manigances...\q"/>
+<label key="key:620789385:134938035" value="&lt;u&gt;Barad Tironn&lt;/u&gt;&#10;\qSuccombant aux murmures de Mordrambor, Laerdan décide follement d’aller affronter Amarthiel à Barad Tironn, où elle souhaite se servir du palantir pour trouver Narchuil. Les Peuples Libres n’ont plus qu’un seul espoir : arracher le palantir à Amarthiel...\q"/>
+<label key="key:620789385:140263525" value="&lt;u&gt;Ost Elendil&lt;/u&gt;&#10;\qLes Numénoréens alliés à Amarthiel sont arrivés à Ost Elendil, dans l’espoir d’établir une tête de pont à Annuminas, alors que les Rôdeurs du Nord attaquent la ville de leur père pour chasser l’envahisseur...\q"/>
+<label key="key:620789385:140499526" value="&lt;u&gt;Le marteau de Thror&lt;/u&gt;&#10;\qDwalin, gouverneur du Palais de Thorin, a chargé les héros d'Eriador de reprendre le marteau de Thorin dans la tombe de Skorgrim, que les Poings bourrus ont élevée en symbole de leur victoire sur le Peuple de Durin...D16\q"/>
+<label key="key:620789385:140499528" value="&lt;u&gt;Les portes de Carn Dûm&lt;/u&gt;&#10;\qA l'aide du parchemin des Montagnards, une clé ouvrant les portes de Carn Dûm a pu être forgée. Les Héros d'Eriador, accompagnés de Lorniel, fille de Golodir, doivent à présent passer les portes de la forteresse de fer et libérer le Rôdeur des griffes de Mordirith, l'Intendant d'Angmar....\q"/>
+<label key="key:620789385:14105218" value="&lt;u&gt;Une guerre à éviter&lt;/u&gt;&#10;\qLanglas le Rôdeur s'apprête à partir à la rescousse du prince elfe Avorthal, pris au piège des traîtres Poings bourrus...\q"/>
+<label key="key:620789385:145444197" value="&lt;u&gt;Le courage des champions&lt;/u&gt;&#10;\qMosal-ruk, le chef des Orques d’Ost Cyrn, rassemble ses troupes afin d’écraser les Eglain des Terres Solitaires et de poursuivre son offensive vers l’est et le Pays de Bree. Slade Ransford, champion des Peuples Libres, se tient prêt à repousser l’envahisseur au côté de ses fidèles alliés...\q"/>
+<label key="key:620789385:146692621" value="&lt;u&gt;Carn Dûm&lt;/u&gt;&#10;\qCarn Dûm, capitale d'Angmar et ancienne place forte du Roi-Sorcier. L'ombre d'Angmar est revenue planer sur cette ville sous les traits du Faux Roi Mordirith, Intendant d'Angmar.\q"/>
+<label key="key:620789385:148695075" value="&lt;u&gt;A la rescousse du rôdeur&lt;/u&gt;&#10;\qAmdir, qui a rapidement rejoint le monde des non-morts, a tué deux de ses compagnons et cherche à répandre le sang d'un troisième...\q"/>
+<label key="key:620789385:148910261" value="&lt;u&gt;L’alliance rompue&lt;/u&gt;&#10;\qAyant appris que les hommes de Sharcoux tentaient de s’allier aux Orques qui ont envahi les Champs de Bree Nord, Saeradan le rôdeur conçoit un plan pour rompre cette association avant qu’elle ne prenne naissance...\q"/>
+<label key="key:620789385:15380674" value="&lt;u&gt;Le Col Rouge&lt;/u&gt;&#10;\qIvar, le seigneur décharné, répand la corruption sur Agamaur, le Marécage Rouge, pour lever une armée maléfique et répondre aux ordres d'Angmar...\q"/>
+<label key="key:620789385:153962948" value="&lt;u&gt;Reprendre le Mont Venteux&lt;/u&gt;&#10;\qLe Mont Venteux... Autrefois tour de guet des Dunedain, aujourd'hui repaire des Orques. Candaith le Rôdeur se bat pour les chasser de leur avant-poste dans les Collines venteuses...\q"/>
+<label key="key:620789385:156314804" value="&lt;u&gt;Une protestation officielle&lt;/u&gt;&#10;\qLa volonté de déposer une protestation officielle au nom de Hob Broussecolline, le souffleur de verre, conduit à un violent affrontement avec les Hommes du Chef. L’heure est venue de remettre ces gredins à leur place...\q"/>
+<label key="key:620789385:156549379" value="&lt;u&gt;Prisonnière des Peuples Libres&lt;/u&gt;&#10;\qLe journal de Sarah Chênecoeur a permis d’apprendre comment se rendre aux ruines de Delossad, la Sithad du temps jadis. C’est là que se poursuit la quête de Narchuil, mais pourquoi ? Qu’ont bien pu voir ces vieilles pierres ?\q"/>
+<label key="key:620789385:159616245" value="&lt;u&gt;La défense de Pont-à-Tréteaux&lt;/u&gt;&#10;\qLa bourgade de Pont-à-Tréteaux est tout ce qui sépare les Orques d'Angmar du Pays de Bree, au sud. Halbarad, Rôdeur du Nord, réunit d'illustres guerriers pour assurer la défense de Pont-à-Tréteaux...\q"/>
+<label key="key:620789385:159881209" value="&lt;u&gt;Le devoir du gardien&lt;/u&gt;&#10;\qPont-à-Tréteaux est assiégées par les Orques d’Angmar. Séverin Roulier, l’un des gardiens de la ville, a rassemblé les habitants et leurs alliés du sud afin de défendre la petite bourgade contre les maraudeurs...\q"/>
+<label key="key:620789385:161760089" value="&lt;u&gt;Une chanson pour la compagnie&lt;/u&gt;&#10;\qEspérant trouver matière à composer une nouvelle chanson, Pierrick Laflûte, le ménestrel, a recruté du monde afin d’aider un hobbit du nom de Leland Soucolline à récupérer ce que les brigands du Pays de Bree lui ont dérobé...\q"/>
+<label key="key:620789385:17941376" value="&lt;u&gt;Le piège se referme&lt;/u&gt;&#10;\qLes Rôdeurs du Nord ont appris que Mordrambor, un Numénoréen noir proche d’Amarthiel, se rendait à Haudh Elendil avec un entourage limité. Désireux de le capturer, les rôdeurs planifient une embuscade...\q"/>
+<label key="key:620789385:179694421" value="&lt;u&gt;L’espoir du ménestrel&lt;/u&gt;&#10;\qPlusieurs habitants de la ville assiégée de Pont-à-Tréteaux se sont réfugiés dans des grottes proches, pensant qu’ils y seraient davantage en sécurité, mais les Orques ont retrouvé leur trace. C’est à Laurentine Pouillame et à ses amis d’aller les prévenir...\q"/>
+<label key="key:620789385:181888370" value="&lt;u&gt;Une voie au coeur des ténèbres&lt;/u&gt;&#10;\qUne lettre inquiétante évoque des troubles au-delà des limites de la Comté et incite un hobbit à emprunter la longue et dangereuse route d'Archet.\q"/>
+<label key="key:620789385:183124382" value="&lt;u&gt;La lame brisée&lt;/u&gt;&#10;\qL’héritier d’Isildur sera bientôt là. Maintenant que le dernier Silithar a été récupéré, Elrond a ordonné que la lumière de Narsil, qui avait tranché le doigt de Sauron portant l’Anneau Unique, soit ravivée et renaisse en tant qu’Anduril, la Flamme de l’Ouest...\q"/>
+<label key="key:620789385:185499447" value="&lt;u&gt;Assaut sur Rath Teraig&lt;/u&gt;&#10;\qLes troupes regroupées du gouverneur Dwalin du Palais de Thorin et de Dorongur Blanchépine de Duillond s'apprêtent à affronter l'armée des gobelins à Rath Teraig...\q"/>
+<label key="key:620789385:192939781" value="&lt;u&gt;Le dernier refuge&lt;/u&gt;&#10;\qLe clan de Skorgrim Poing bourru s'est mis à l'abri de la colère du Peuple de Durin dans une forteresse construite il y a fort longtemps par les nains, dans les cols des Monts Brumeux. C'est de là qu'il prépare son retour, à moins que quelqu'un ne mette fin à ses desseins une bonne fois pour toutes...\q"/>
+<label key="key:620789385:196352805" value="&lt;u&gt;Le code des voleurs&lt;/u&gt;&#10;\qUne quête toute simple visant à arracher des reliques dunedain aux pilleurs de tombes qui les avaient volées tourne très mal. Les voleurs ne sont pas du genre à se laisser dépouiller si facilement, même face aux Rôdeurs du Nord et à leurs alliés...\q"/>
+<label key="key:620789385:197377268" value="&lt;u&gt;Un voleur dans la nuit&lt;/u&gt;&#10;\qAtherol Touque, le cambrioleur hobbit, a appris que les Grandes Gens qui causent des ennuis dans le Quartier du Sud avaient l’intention de s’introduire chez le Père Maggotte pour lui dérober ses champignons. Sauf qu’Atherol n’a nullement l’intention de laisser des Hommes s’emparer d’aussi bons champignons...\q"/>
+<label key="key:620789385:19890162" value="&lt;u&gt;Au fond du Gouffre d'Argent&lt;/u&gt;&#10;\qThorin Ecu de Chêne et sa compagnie s'apprêtent à quitter le Palais de Thorin. Une assemblée a été réunie pour souhaiter bonne chance à l'expédition...\q"/>
+<label key="key:620789385:202833532" value="&lt;u&gt;La piste invisible&lt;/u&gt;&#10;\qUn mal millénaire, corruption de la nature profonde de la Terre du Milieu, menace de répandre son abominable poison sur la Trouée des Trolls. Il faut à tout prix contrecarrer ce mal, avant qu'il ne soit en mesure de menacer la vallée cachée de Fondcombe...\q"/>
+<label key="key:620789385:205906597" value="&lt;u&gt;L’heure du souvenir&lt;/u&gt;&#10;\qTrop de Dunedain sont tombés face à celui qui est leur lointain cousin. Il y a un temps pour pleurer les morts, mais pas alors que la Championne de l’Angmar risque de mettre la main sur son anneau, Narchuil...\q"/>
+<label key="key:620789385:21619996" value="&lt;u&gt;La volonté du maître du savoir&lt;/u&gt;&#10;\qIsferon, le maître du savoir elfe, a reçu un cadeau de son ami Berenon avant que ce dernier ne parte par-delà la mer, mais il faut déchiffrer une énigme pour pouvoir l’ouvrir...\q"/>
+<label key="key:620789385:216223236" value="&lt;u&gt;Une cambrioleuse en mission&lt;/u&gt;&#10;\qMedhrod, épée de légende qui appartenait autrefois à un grand héros protégeant la Grande Route de l’Est, a été dérobée par les semi-Orques de Naerost. Palma Bouclebrunes, une cambrioleuse hobbite à la solide réputation, recherche des alliés afin de la récupérer...\q"/>
+<label key="key:620789385:230006418" value="&lt;u&gt;Les chasseurs de primes&lt;/u&gt;&#10;\qBasile Delacolle a engagé des aventuriers de toute l’Eriador pour l’aider à lutter contre les brigands et pilleurs de tombes de la région d’Evendim, mais voilà qu’un pilleur de tombes notoire du nom de Cuthbert Sprunt a mis à prix la tête de ces chasseurs de primes...\q"/>
+<label key="key:620789385:230273044" value="&lt;u&gt;La force de Chênecoeur&lt;/u&gt;&#10;\qUne note mystérieuse en provenance de l’étrange Sarah Chênecoeur prie les héros qui l’ont sauvée de la retrouver aux portes de Barad Gularan, l’ancienne retraite du Roi-Sorcier d’Angmar. Désireux de percer le mystère qui entoure la vieille femme, Golodir accepte...\q"/>
+<label key="key:620789385:233393896" value="&lt;u&gt;La voie du chasseur&lt;/u&gt;&#10;\qUn loup terrifiant du nom de Croc-jaune rôde dans la Vieille Forêt et s’en prend souvent aux voyageurs qui empruntent la Grande Route de l’Est. Gytha Lainey, la célèbre chasseuse, est fermement décidée à débarrasser la région de cette menace...\q"/>
+<label key="key:620789385:240047395" value="&lt;u&gt;Glinghant&lt;/u&gt;&#10;\qGlinghant, le jardin d’Annuminas, était autrefois un lieu d’une grande beauté, mais n’est plus aujourd’hui que ruines et végétation incontrôlée. Ses eaux stagnantes ont été corrompues par les esprits maléfiques d’Angmar et les Hommes malfaisants leur obéissent...\q"/>
+<label key="key:620789385:244759253" value="&lt;u&gt;L’espoir d’Amarthiel&lt;/u&gt;&#10;\qSoupçonnant qu’Amarthiel, la championne d’Angmar, est actuellement à Annuminas, comme semble l’indiquer l’avertissement lancé par Laerdan l’Elfe, les Rôdeurs du Nord ont l’intention de s’infiltrer dans la cité en ruine et de mettre un terme aux noirs desseins d’Amarthiel...\q"/>
+<label key="key:620789385:246990133" value="&lt;u&gt;Le devoir des chasseurs&lt;/u&gt;&#10;\qAyant appris qu’une meute de ouargues envahissait la Comté, terre des hobbits, Gytha Lainey la chasseuse recrute les meilleurs chasseurs pour traquer et tuer ces monstres malfaisants avant qu’ils aient le temps de faire du mal aux habitants de la Comté...\q"/>
+<label key="key:620789385:249034316" value="&lt;u&gt;Le tombeau d’Elendil&lt;/u&gt;&#10;\qLe respect, que Gwindeth désirait plus que tout au monde, lui a permis d’accéder au tombeau d’Elendil, où gît le dernier Silithar. Mais avec la décrue des eaux, voleurs et pillards ont sauté sur l’occasion de piller les lieux...\q"/>
+<label key="key:620789385:253214051" value="&lt;u&gt;Le fil se dénoue&lt;/u&gt;&#10;\qGrands-Pas et les Rôdeurs suivent leur frère Amdir jusqu'au camp du Plateau Noir, mais les apparences sont trompeuses...\q"/>
+<label key="key:620789385:264040680" value="&lt;u&gt;Le feu et la glace&lt;/u&gt;&#10;\qElrond Semi-Elfe redoute que le dernier Nazgûl n’ait recruté le seigneur décharné Drugoth afin d'insuffler un esprit malfaisant dans le corps de Thurog, l'ancien dragon, pour le ramener à la vie sous forme d'être spectral. Il ne reste que peu de temps pour faire échec à leur plan diabolique.\q"/>
+<label key="key:620789385:268174811" value="&lt;u&gt;L'évasion&lt;/u&gt;&#10;\qUne rencontre fortuite sur la route avec des brigands mène à la captivité, mais des sauveurs ne se trouvent peut-être pas très loin...\q"/>
+<label key="key:620789385:31055636" value="&lt;u&gt;Le tombeau de Skorgrim&lt;/u&gt;&#10;\qL'enquête du gouverneur Dwalin a mis au jour la trahison des Poings bourrus. Alors que le Peuple de Durin se prépare à les chasser du Palais de Thorin, Dwalin réunit ses troupes pour faire face à un danger plus inquiétant...\q"/>
+<label key="key:620789385:41063900" value="&lt;u&gt;La chute de Mordirith&lt;/u&gt;&#10;\qEncouragé par le fait qu’Elrond de Fondcombe lui ait offert Dunachar, Golodir se prépare à assaillir Carn Dûm et à plonger sa toute nouvelle épée dans le coeur noir de Mordirith, le malfaisant Intendant d’Angmar. Le courage est parfois source d’espoir, mais la soif de vengeance, elle, n’amène jamais rien de bon...\q"/>
+<label key="key:620789385:41766322" value="&lt;u&gt;Mordrambor&lt;/u&gt;&#10;\qL’heure est venue. Rendu fou de rage par la trahison de Mordrambor à l’encontre de Laerdan, Calenglad le rôdeur est déterminé à affronter le Numénoréen afin d’apprendre où se trouve Narchuil, l’anneau d’Amarthiel...\q"/>
+<label key="key:620789385:46644709" value="&lt;u&gt;La salle du trône de Gobelinville&lt;/u&gt;&#10;\qDans les sombres profondeurs grouillantes de Gobelinville, au coeur du royaume des gobelins, se trouve la salle du trône du Grand Gobelin. Cela faisait bien longtemps que Gobelinville n’avait plus de chef, mais alors que l’Ombre de l’Est renaît et ordonne à ses sbires de prendre les armes, un nouveau chef s’est emparé de la couronne du Grand Gobelin.../q/n"/>
+<label key="key:620789385:49157380" value="&lt;u&gt;Sauvetage au clair de lune&lt;/u&gt;&#10;\qAvorthal a été emmené du camp des Poings bourrus à un navire prêt à appareiller pour un port inconnu dans le Nord. Il est primordial de le sauver pour préserver la paix dans l'Ered Luin...\q"/>
+<label key="key:620789385:66867572" value="&lt;u&gt;Assaut sur Archet&lt;/u&gt;&#10;\qEogan et les brigands du Plateau Noir renouvellent leurs efforts pour protéger Mundo Sacquet de Besace des sinistres Cavaliers noirs...\q"/>
+<label key="key:620789385:72783710" value="&lt;u&gt;Garth Agarwen&lt;/u&gt;&#10;\qGarth Agarwen... Ces ruines d'une ancienne forteresse du Rhudaur sont aujourd'hui sous l'emprise d'une nature corrompue et d'un pouvoir nécromancien venu d'Angmar. Il faut faire face à cette terrible menace.\q"/>
+<label key="key:620789385:79092434" value="&lt;u&gt;Sous les Champs Verts&lt;/u&gt;&#10;\qLes gobelins du Mont Gram n'ont jamais oublié leur défaite contre les habitants de la Comté et sont venus en ce lieu pour chercher vengeance...\q"/>
+<label key="key:620789385:85106791" value="&lt;u&gt;Othrongroth&lt;/u&gt;&#10;\qUne alliance malsaine a été contractée dans les profondeurs d'Othrongroth, le Grand galgal. Ce pacte de mauvais augure pourrait sonner le glas d'Eriador...\q"/>
+<label key="key:620789385:86837640" value="&lt;u&gt;A Gift for the North&lt;/u&gt;&#10;\qLe troll de pierre du marais de Rushock... Une terrible légende règne sur le marais ; des nains sont à la recherche de la créature...\q"/>
+<label key="key:620789385:96611396" value="&lt;u&gt;Les couleurs d’un capitaine&lt;/u&gt;&#10;\qDes nains Poings bourrus se sont réfugiés dans les ruines d’Ost Galumar, non loin des mines d’Othrikar, dont les occupants, des Longues Barbes, ont décidé de réagir. Jarl Etaidecuivre recrute les plus braves d’entre les braves pour l’aider à lutter contre la menace...\q"/>
+<label key="key:620789385:97841122" value="&lt;u&gt;Le Refuge d'Edhelion&lt;/u&gt;&#10;\qLe refuge d'Edhelion a été pris d'assaut par des nains et des gobelins menés par le cruel Skorgrim Poing bourru...\q"/>
+<label key="key:620789385:99352885" value="&lt;u&gt;Un piège pour la créature&lt;/u&gt;&#10;\qWistan, un chasseur de Tâl Bruinen, pense qu’il est possible de tendre un piège à la créature qui terrorise les quelques habitants restant dans la région. Mais la bête est manifestement aussi prudente que rusée...\q"/>
+</labels>

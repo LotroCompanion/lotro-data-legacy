@@ -1,0 +1,2268 @@
+<?xml version="1.0" encoding="UTF-8"?><labels locale="en">
+<label key="1879048194" value="Carlo Blagrove"/>
+<label key="1879048197" value="Shirriff Robin Smallburrow"/>
+<label key="1879048206" value="Alken Chubb"/>
+<label key="1879048210" value="Barmy Rootknot"/>
+<label key="1879048213" value="Ponto Hopsbloom"/>
+<label key="1879048215" value="Ruby Hollowbanks"/>
+<label key="1879048218" value="Halson Tubwort"/>
+<label key="1879048220" value="Rollo Bunce"/>
+<label key="1879048223" value="Fogo Fallohide"/>
+<label key="1879048225" value="Gunderic Grubb"/>
+<label key="1879048227" value="Pansy Proudfoot"/>
+<label key="1879048230" value="Bill Ferny"/>
+<label key="1879048234" value="Jailor Ned Pruner"/>
+<label key="1879048238" value="Jon Brackenbrook"/>
+<label key="1879048242" value="Fenton Marshley"/>
+<label key="1879048248" value="Arinora"/>
+<label key="1879048253" value="Candac Brightwood"/>
+<label key="1879048258" value="Gadaric Munce"/>
+<label key="1879048261" value="Hunulf Munce"/>
+<label key="1879048267" value="Lieva Dourlily"/>
+<label key="1879048269" value="Old Mugwort"/>
+<label key="1879048274" value="Kobbi Stonestar"/>
+<label key="1879048277" value="Falster the Fox"/>
+<label key="1879048281" value="Anlaf the Forlorn"/>
+<label key="1879048287" value="Palma Brownlock"/>
+<label key="1879048296" value="Brúni Stonehelm"/>
+<label key="1879048298" value="Kobbi"/>
+<label key="1879048302" value="Jolfur"/>
+<label key="1879048305" value="Reykur"/>
+<label key="1879048309" value="Bávor"/>
+<label key="1879048318" value="Glasi Ironhand"/>
+<label key="1879048321" value="Heikki Goldwatcher"/>
+<label key="1879048323" value="Tyrvi"/>
+<label key="1879048327" value="Sindri"/>
+<label key="1879048331" value="Novice Jeweller"/>
+<label key="1879048333" value="Dofri"/>
+<label key="1879048335" value="Lothinn"/>
+<label key="1879048339" value="Guard-captain Unnarr"/>
+<label key="1879048344" value="Master of Apprentices"/>
+<label key="1879048354" value="Dwalin"/>
+<label key="1879048361" value="Naut"/>
+<label key="1879048365" value="Ivy Spokes"/>
+<label key="1879048369" value="Petula Barley"/>
+<label key="1879048372" value="Granger Halifax"/>
+<label key="1879048376" value="Dragmáll"/>
+<label key="1879048380" value="Egil Oldbeard"/>
+<label key="1879048382" value="Thithrandi"/>
+<label key="1879048384" value="Harthgríp"/>
+<label key="1879048386" value="Expert Metalsmith"/>
+<label key="1879048388" value="Gríss Stonesmasher"/>
+<label key="1879048391" value="Amdir"/>
+<label key="1879048394" value="Detector"/>
+<label key="1879048395" value="Celandine Brandybuck"/>
+<label key="1879048396" value="Amdir"/>
+<label key="1879048397" value="Mundo Sackville-Baggins"/>
+<label key="1879048401" value="Elrohir"/>
+<label key="1879048405" value="Gimli"/>
+<label key="1879048407" value="Gandalf"/>
+<label key="1879048409" value="Otur"/>
+<label key="1879048411" value="Vitharr"/>
+<label key="1879048436" value="Gildor Inglorion"/>
+<label key="1879048441" value="Halbarad"/>
+<label key="1879048453" value="Of Arthedain and its Settlements"/>
+<label key="1879048456" value="Nellie Boskins"/>
+<label key="1879048460" value="Jennet Brockhouse"/>
+<label key="1879048461" value="Nelson Blake"/>
+<label key="1879048462" value="Sheldon Roper"/>
+<label key="1879048463" value="Garrett Beardsley"/>
+<label key="1879048464" value="Juniper Smith"/>
+<label key="1879048465" value="Barton Tanner"/>
+<label key="1879048466" value="Marjorie Wainwright"/>
+<label key="1879048468" value="Master of Apprentices"/>
+<label key="1879048469" value="Novice Woodworker"/>
+<label key="1879048470" value="Novice Jeweller"/>
+<label key="1879048471" value="Novice Tailor"/>
+<label key="1879048472" value="Novice Scholar"/>
+<label key="1879048473" value="Novice Weaponcrafter"/>
+<label key="1879048474" value="Novice Metalsmith"/>
+<label key="1879048475" value="Novice Cook"/>
+<label key="1879048477" value="Isferon"/>
+<label key="1879048480" value="Leigh Putnam"/>
+<label key="1879048482" value="Ford Beecher"/>
+<label key="1879048483" value="Gail Beecher"/>
+<label key="1879048484" value="Lind Newell"/>
+<label key="1879048489" value="Olin"/>
+<label key="1879048494" value="Halmur Stoneshaper"/>
+<label key="1879048498" value="Postman Took"/>
+<label key="1879048502" value="Tom Bombadil"/>
+<label key="1879048510" value="Gerebert Took"/>
+<label key="1879048513" value="The Witch-king"/>
+<label key="1879048515" value="Tom Bombadil"/>
+<label key="1879048519" value="Bounder Primstone"/>
+<label key="1879048526" value="Thain Paladin Took II"/>
+<label key="1879048529" value="Pervinca Took"/>
+<label key="1879048531" value="Adelard Took"/>
+<label key="1879048537" value="Small Bookshelf"/>
+<label key="1879048539" value="Captain Brackenbrook"/>
+<label key="1879048543" value="Ellie Cutleaf"/>
+<label key="1879048554" value="Toradan"/>
+<label key="1879048558" value="Barliman Butterbur"/>
+<label key="1879048565" value="Bob"/>
+<label key="1879048568" value="Strider"/>
+<label key="1879048574" value="Gandalf"/>
+<label key="1879048576" value="Piper Prescott"/>
+<label key="1879048581" value="Archivist Arodel"/>
+<label key="1879048585" value="Researcher Mallennor"/>
+<label key="1879048587" value="Laerdan"/>
+<label key="1879048593" value="Fimreg"/>
+<label key="1879048598" value="Lunathron"/>
+<label key="1879048601" value="Lorniel"/>
+<label key="1879048605" value="Golodir"/>
+<label key="1879048608" value="Húriel"/>
+<label key="1879048610" value="Thoriel"/>
+<label key="1879048613" value="Donaith"/>
+<label key="1879048617" value="Osbail"/>
+<label key="1879048622" value="Táni"/>
+<label key="1879048626" value="Throst"/>
+<label key="1879048628" value="Thorth"/>
+<label key="1879048630" value="Gormal"/>
+<label key="1879048633" value="Bethad"/>
+<label key="1879048641" value="Aragorn"/>
+<label key="1879048646" value="Mundol"/>
+<label key="1879048649" value="Lizbeth Honeymeade"/>
+<label key="1879048651" value="Toradan"/>
+<label key="1879048654" value="Novice Jeweller"/>
+<label key="1879048655" value="Novice Scholar"/>
+<label key="1879048656" value="Expert Scholar"/>
+<label key="1879048658" value="Expert Jeweller"/>
+<label key="1879048660" value="Deluros"/>
+<label key="1879048665" value="Gandalf"/>
+<label key="1879048668" value="Elrond"/>
+<label key="1879048685" value="Dorset Oakes"/>
+<label key="1879048688" value="Novice Cook"/>
+<label key="1879048689" value="Lindir"/>
+<label key="1879048702" value="Bilbo Baggins"/>
+<label key="1879048711" value="Lenglinn"/>
+<label key="1879049229" value="Torthann"/>
+<label key="1879049235" value="Strider"/>
+<label key="1879049238" value="Constable Underhill"/>
+<label key="1879049258" value="Constable Tanglerush"/>
+<label key="1879049272" value="Leecher Cartwell"/>
+<label key="1879049547" value="Jon Brackenbrook"/>
+<label key="1879049554" value="Mundo Sackville-Baggins"/>
+<label key="1879049562" value="Jailor Ned Pruner"/>
+<label key="1879049563" value="Amdir"/>
+<label key="1879049564" value="Celandine Brandybuck"/>
+<label key="1879049565" value="Peg Pruner"/>
+<label key="1879049576" value="Keeper Brombard Foxtail"/>
+<label key="1879049588" value="Mayor Will Whitfoot"/>
+<label key="1879049591" value="Lobelia Sackville-Baggins"/>
+<label key="1879049592" value="Lotho Sackville-Baggins"/>
+<label key="1879049595" value="Mat Harfoot"/>
+<label key="1879049596" value="Second Shirriff Bodo Bunce"/>
+<label key="1879049599" value="Belco Brockhouse"/>
+<label key="1879049600" value="Bingo Bolger"/>
+<label key="1879049601" value="Bodo Goodbody"/>
+<label key="1879049602" value="Bounder"/>
+<label key="1879049603" value="Bounder Chubb"/>
+<label key="1879049604" value="Bounder Greenfield"/>
+<label key="1879049605" value="Cam Puddifoot"/>
+<label key="1879049606" value="Daisy Bunce"/>
+<label key="1879049607" value="Dora Brownlock"/>
+<label key="1879049608" value="Edilina Proudfoot"/>
+<label key="1879049609" value="Everard Holebourne"/>
+<label key="1879049610" value="Farmer Maggot"/>
+<label key="1879049611" value="Farmer Sandson"/>
+<label key="1879049612" value="Filibert Bolger"/>
+<label key="1879049613" value="Gaffer Gamgee"/>
+<label key="1879049614" value="Gammer Boffin"/>
+<label key="1879049615" value="Gammer Tunnelly"/>
+<label key="1879049616" value="Gerd Whitfoot"/>
+<label key="1879049617" value="Griffo Boffin"/>
+<label key="1879049618" value="Hal Hornblower"/>
+<label key="1879049619" value="Hamson Mugwort"/>
+<label key="1879049620" value="Hart Holeman"/>
+<label key="1879049621" value="Hildifons Took II"/>
+<label key="1879049622" value="Shirriff Hob Hayward"/>
+<label key="1879049623" value="Hobson Broadbean"/>
+<label key="1879049624" value="Holly Hornblower"/>
+<label key="1879049625" value="Hyacinth Took"/>
+<label key="1879049626" value="Lily Proudfoot"/>
+<label key="1879049627" value="Linda Bolger"/>
+<label key="1879049628" value="Longo Burrow"/>
+<label key="1879049629" value="Milo Bolger"/>
+<label key="1879049630" value="Milo Hornblower"/>
+<label key="1879049631" value="Mungo Burrows"/>
+<label key="1879049632" value="Odovacar Bolger"/>
+<label key="1879049633" value="Opal Goodbody"/>
+<label key="1879049634" value="Otho Broadbelt"/>
+<label key="1879049635" value="Pansy Tunnelly"/>
+<label key="1879049636" value="Peony Grubb"/>
+<label key="1879049637" value="Polo Proudfoot"/>
+<label key="1879049638" value="Ponto Hornblower"/>
+<label key="1879049639" value="Prisca Underhill"/>
+<label key="1879049640" value="Rollo Boffin"/>
+<label key="1879049641" value="Ruby Primstone"/>
+<label key="1879049642" value="Rudigar Burrows"/>
+<label key="1879049643" value="Soradoc Proudfoot"/>
+<label key="1879049644" value="Wilcome Tunnelly"/>
+<label key="1879049645" value="Wilimar Bolger"/>
+<label key="1879049646" value="Lorgo Bunce"/>
+<label key="1879049707" value="Gil Sandheaver"/>
+<label key="1879049708" value="Goldberry"/>
+<label key="1879049710" value="Saradoc Brandybuck"/>
+<label key="1879049711" value="Doderic Brandybuck"/>
+<label key="1879049712" value="Rollo Maggot"/>
+<label key="1879049721" value="Celandine Brandybuck"/>
+<label key="1879049750" value="Adso Haybank"/>
+<label key="1879049766" value="Dannasen"/>
+<label key="1879049789" value="Ham Rushlight"/>
+<label key="1879049833" value="Langlas"/>
+<label key="1879049843" value="Halros"/>
+<label key="1879049851" value="Radagast the Brown"/>
+<label key="1879049852" value="Radagast the Brown"/>
+<label key="1879049864" value="Candaith"/>
+<label key="1879049878" value="Aric the Stone-speaker"/>
+<label key="1879049880" value="Emelin"/>
+<label key="1879049891" value="Dannasen"/>
+<label key="1879049892" value="Elsa the Bold"/>
+<label key="1879049893" value="Eriac the Strong"/>
+<label key="1879049894" value="Defender of Ost Guruth"/>
+<label key="1879049902" value="Frideric the Elder"/>
+<label key="1879049905" value="Narthan"/>
+<label key="1879049979" value="Elsa the Bold"/>
+<label key="1879049980" value="Hana the Young"/>
+<label key="1879050011" value="Saeradan"/>
+<label key="1879050093" value="Chief Watcher Grimbriar"/>
+<label key="1879050200" value="Thomas Thistlewool"/>
+<label key="1879051324" value="Kekkonen"/>
+<label key="1879051352" value="Eriac the Strong"/>
+<label key="1879051354" value="Guardsman Otley"/>
+<label key="1879051357" value="Lily Sandheaver"/>
+<label key="1879051499" value="Mayor Graeme Tenderlarch"/>
+<label key="1879051507" value="Lost Shade"/>
+<label key="1879051511" value="Áskell"/>
+<label key="1879051546" value="Ivo Brockhouse"/>
+<label key="1879051550" value="Sapphira Bolger"/>
+<label key="1879051554" value="Myrtle Oddfoot"/>
+<label key="1879051558" value="Wydo Boffin"/>
+<label key="1879051562" value="Hugo Broadbelt"/>
+<label key="1879051566" value="Iris Chubb"/>
+<label key="1879051569" value="Poppy Grubb"/>
+<label key="1879051572" value="Primrose Proudfoot"/>
+<label key="1879051578" value="Daisy Hornblower"/>
+<label key="1879051660" value="Hiding Content"/>
+<label key="1879051664" value="Onar"/>
+<label key="1879051692" value="Esilia Took"/>
+<label key="1879051755" value="Ulfar"/>
+<label key="1879051786" value="Rothgar"/>
+<label key="1879051790" value="Nos Grimsong"/>
+<label key="1879051805" value="Skógi"/>
+<label key="1879051810" value="Dwalin"/>
+<label key="1879051811" value="Eilian"/>
+<label key="1879051951" value="Kate Henseed"/>
+<label key="1879051971" value="Fastred Burrows"/>
+<label key="1879051972" value="Edgar Standish"/>
+<label key="1879051973" value="Aldred Cartwright"/>
+<label key="1879051974" value="Teal Saddler"/>
+<label key="1879051975" value="Darren Mills"/>
+<label key="1879051976" value="Cuthbert Rook"/>
+<label key="1879051977" value="Tolman Gardner"/>
+<label key="1879051979" value="Dirk Mudbrick"/>
+<label key="1879051986" value="Calder Cob"/>
+<label key="1879052037" value="Albra Lowbanks"/>
+<label key="1879052038" value="Falco Broadhouse"/>
+<label key="1879052039" value="Hugo Broadhouse"/>
+<label key="1879052040" value="Celsia 'Lightfinger' Gosling"/>
+<label key="1879052041" value="Lilabet Roper"/>
+<label key="1879052042" value="Elmo Brown"/>
+<label key="1879052049" value="Palma Brownlock"/>
+<label key="1879052052" value="Atherol Took"/>
+<label key="1879052058" value="Atherol Took"/>
+<label key="1879052062" value="Sterling Proudfoot"/>
+<label key="1879052166" value="Boromir"/>
+<label key="1879052175" value="Glorfindel"/>
+<label key="1879052206" value="Isdi"/>
+<label key="1879052220" value="Istuienn"/>
+<label key="1879052221" value="Hemeldir"/>
+<label key="1879052224" value="Elladan"/>
+<label key="1879052228" value="Legolas"/>
+<label key="1879052231" value="Elrohir"/>
+<label key="1879052237" value="Glóin"/>
+<label key="1879052258" value="Daervunn"/>
+<label key="1879052265" value="Arwen"/>
+<label key="1879052270" value="Gwaemithrin"/>
+<label key="1879052314" value="Dalton Willow"/>
+<label key="1879052315" value="Athradir"/>
+<label key="1879052316" value="Ráthorm"/>
+<label key="1879052317" value="Pennastan"/>
+<label key="1879052318" value="Stafford Bailey"/>
+<label key="1879052319" value="Gwalothir"/>
+<label key="1879052320" value="Glambaen"/>
+<label key="1879052321" value="Shepherd Snowden"/>
+<label key="1879052322" value="Elwen"/>
+<label key="1879052340" value="Isferon"/>
+<label key="1879052355" value="Dorset Oakes"/>
+<label key="1879052369" value="Dorongúr Whitethorn"/>
+<label key="1879052370" value="Malthendring"/>
+<label key="1879052371" value="Anglor"/>
+<label key="1879052372" value="Glanwen"/>
+<label key="1879052373" value="Thalchyl"/>
+<label key="1879052379" value="Elladan"/>
+<label key="1879052382" value="Merethen"/>
+<label key="1879052385" value="Elrond"/>
+<label key="1879052386" value="Talagan Silvertongue"/>
+<label key="1879052414" value="Dori"/>
+<label key="1879052419" value="Grímr"/>
+<label key="1879052420" value="Snorri"/>
+<label key="1879052421" value="Nial"/>
+<label key="1879052422" value="Reklar"/>
+<label key="1879052423" value="Otur"/>
+<label key="1879052424" value="Nos Grimsong"/>
+<label key="1879052425" value="Bolli"/>
+<label key="1879052439" value="Flambard Took"/>
+<label key="1879052440" value="Erydhriel"/>
+<label key="1879052441" value="Dagfinn"/>
+<label key="1879052442" value="Reklar"/>
+<label key="1879052443" value="Gaellant"/>
+<label key="1879052444" value="Bolo Boffin"/>
+<label key="1879052445" value="Mallenhadh"/>
+<label key="1879052446" value="Gytha Lainey"/>
+<label key="1879052452" value="Gammer Boffin"/>
+<label key="1879052453" value="Hart Holeman"/>
+<label key="1879052454" value="Otho Broadbelt"/>
+<label key="1879052455" value="Postman Boffin"/>
+<label key="1879052461" value="Gytha Lainey"/>
+<label key="1879052562" value="Thoroniel"/>
+<label key="1879052567" value="Barachen"/>
+<label key="1879052568" value="Rochwen"/>
+<label key="1879052584" value="Calenthon"/>
+<label key="1879052592" value="Anhebir"/>
+<label key="1879052596" value="Heithur Ironfist"/>
+<label key="1879052598" value="Alphlanc"/>
+<label key="1879052621" value="Gimli"/>
+<label key="1879052710" value="Areneth"/>
+<label key="1879052736" value="Toram"/>
+<label key="1879052743" value="Raghnall"/>
+<label key="1879052778" value="Braigiar"/>
+<label key="1879052921" value="Baillindiel"/>
+<label key="1879052935" value="Burt Ninetails"/>
+<label key="1879052936" value="Melthindir"/>
+<label key="1879052937" value="Galfi"/>
+<label key="1879052938" value="Nial"/>
+<label key="1879052939" value="Gelirwen"/>
+<label key="1879052940" value="Ardo Aleford"/>
+<label key="1879052941" value="Bailinn"/>
+<label key="1879052955" value="Leigh Putnam"/>
+<label key="1879052961" value="Leland Underhill"/>
+<label key="1879053065" value="Dawn Stockard"/>
+<label key="1879053080" value="Dawn Appledore"/>
+<label key="1879053081" value="Nelson Grimm"/>
+<label key="1879053082" value="Wren Levy"/>
+<label key="1879053083" value="Thenimbor"/>
+<label key="1879053084" value="Hayley Carver"/>
+<label key="1879053085" value="Heath Wheaton"/>
+<label key="1879053110" value="Jarl Copperbrace"/>
+<label key="1879053119" value="Jarl Copperbrace"/>
+<label key="1879053122" value="Hazel Kenton"/>
+<label key="1879053182" value="Corunir"/>
+<label key="1879054100" value="Arohir"/>
+<label key="1879054118" value="Ancient Watching-stone"/>
+<label key="1879054127" value="Una"/>
+<label key="1879054136" value="Branan"/>
+<label key="1879054158" value="Chief Tuokki"/>
+<label key="1879054164" value="Ranger Maedhrusc"/>
+<label key="1879054214" value="Mincham"/>
+<label key="1879054226" value="Amarion"/>
+<label key="1879054230" value="Colbert the Mad"/>
+<label key="1879054244" value="Captain Trotter"/>
+<label key="1879054257" value="William Peake"/>
+<label key="1879054322" value="Dallin Endholder"/>
+<label key="1879054336" value="Hannar"/>
+<label key="1879054337" value="Dori"/>
+<label key="1879054371" value="Orthonn"/>
+<label key="1879054411" value="Dagoras"/>
+<label key="1879054417" value="Gatson"/>
+<label key="1879054418" value="Gilmar"/>
+<label key="1879054432" value="Aglardir"/>
+<label key="1879054440" value="Londrandir"/>
+<label key="1879054472" value="Hornbori"/>
+<label key="1879054479" value="Plundered Waggon"/>
+<label key="1879054480" value="Bones"/>
+<label key="1879054481" value="Empty Crate"/>
+<label key="1879054482" value="Smashed Barrel"/>
+<label key="1879054483" value="Torfi Hammerhorn"/>
+<label key="1879054495" value="Ragnarr Hornsounder"/>
+<label key="1879054502" value="Elder Tahvo"/>
+<label key="1879054556" value="Founding Stone"/>
+<label key="1879054557" value="Founding Stone"/>
+<label key="1879054558" value="Founding Stone"/>
+<label key="1879054559" value="Founding Stone"/>
+<label key="1879054560" value="Founding Stone"/>
+<label key="1879056938" value="Eilig"/>
+<label key="1879056939" value="Machar"/>
+<label key="1879056940" value="Torquil"/>
+<label key="1879059564" value="Talbot Hinton"/>
+<label key="1879059568" value="Aggy Digweed"/>
+<label key="1879059674" value="Crannog"/>
+<label key="1879059695" value="Earth-kin Scout"/>
+<label key="1879059721" value="Arzhur"/>
+<label key="1879059801" value="Garvan"/>
+<label key="1879059802" value="Morven"/>
+<label key="1879059889" value="Gwesgylliel"/>
+<label key="1879059906" value="Oggur"/>
+<label key="1879059907" value="Drambor"/>
+<label key="1879059908" value="Haflith"/>
+<label key="1879059909" value="Grímr"/>
+<label key="1879059910" value="Brethilthor"/>
+<label key="1879059911" value="Geirr"/>
+<label key="1879059912" value="Celeblas"/>
+<label key="1879059929" value="Slade Ransford"/>
+<label key="1879059936" value="Ultan Foebane"/>
+<label key="1879059952" value="Ringhul"/>
+<label key="1879060056" value="Arrod"/>
+<label key="1879060065" value="Faimir"/>
+<label key="1879060066" value="Narlinn"/>
+<label key="1879060081" value="Glóin"/>
+<label key="1879060082" value="Balin"/>
+<label key="1879060083" value="Dori"/>
+<label key="1879060084" value="Dwalin"/>
+<label key="1879060085" value="Thorin Oakenshield"/>
+<label key="1879060086" value="Troll"/>
+<label key="1879060087" value="Dwarf-miner"/>
+<label key="1879060093" value="Tralli"/>
+<label key="1879060094" value="Gwathel"/>
+<label key="1879060095" value="Mergeth"/>
+<label key="1879060096" value="Snorri"/>
+<label key="1879060097" value="Dagorom"/>
+<label key="1879060098" value="Rollo Hemming"/>
+<label key="1879060099" value="Mirdoron"/>
+<label key="1879060100" value="Severin Wheeler"/>
+<label key="1879060106" value="Severin Wheeler"/>
+<label key="1879060108" value="Oswin Leek"/>
+<label key="1879060112" value="Wáli"/>
+<label key="1879060131" value="Samwise Gamgee"/>
+<label key="1879060199" value="Gailthin"/>
+<label key="1879060208" value="Laergil"/>
+<label key="1879060221" value="Regin"/>
+<label key="1879060241" value="Amdir"/>
+<label key="1879060242" value="Bounder Boffin"/>
+<label key="1879060243" value="Gildor"/>
+<label key="1879061037" value="Cardavor"/>
+<label key="1879061039" value="Athal"/>
+<label key="1879061046" value="Dorongúr Whitethorn"/>
+<label key="1879061055" value="Gailthin"/>
+<label key="1879061069" value="Nithi"/>
+<label key="1879061073" value="Mathi"/>
+<label key="1879061075" value="Glamír"/>
+<label key="1879061084" value="Golhador"/>
+<label key="1879061113" value="Bregar"/>
+<label key="1879061119" value="Svanr"/>
+<label key="1879061128" value="Toronn"/>
+<label key="1879061149" value="Calengil"/>
+<label key="1879061160" value="Thinglaer"/>
+<label key="1879061185" value="Dora's Chicken"/>
+<label key="1879061211" value="Callum"/>
+<label key="1879061426" value="Assistant Fallohide"/>
+<label key="1879061442" value="Orthir"/>
+<label key="1879061461" value="Greta Fallohide"/>
+<label key="1879061465" value="Black Rider"/>
+<label key="1879061496" value="Newbold Leafcutter"/>
+<label key="1879061921" value="Bogi Deepdelver"/>
+<label key="1879061923" value="Expert Weaponcrafter"/>
+<label key="1879061924" value="Expert Weaponcrafter"/>
+<label key="1879061925" value="Expert Weaponcrafter"/>
+<label key="1879061926" value="Expert Weaponcrafter"/>
+<label key="1879061927" value="Expert Weaponcrafter"/>
+<label key="1879061928" value="Cristaran"/>
+<label key="1879061929" value="Tralli Hammerfist"/>
+<label key="1879061987" value="Ottar"/>
+<label key="1879061988" value="Jaki Stonehand"/>
+<label key="1879061993" value="Novice Weaponcrafter"/>
+<label key="1879061994" value="Novice Weaponcrafter"/>
+<label key="1879061995" value="Novice Weaponcrafter"/>
+<label key="1879061996" value="Novice Weaponcrafter"/>
+<label key="1879061997" value="Novice Weaponcrafter"/>
+<label key="1879062048" value="Jon Whetstone"/>
+<label key="1879062049" value="Novice Metalsmith"/>
+<label key="1879062143" value="Novice Metalsmith"/>
+<label key="1879062144" value="Novice Metalsmith"/>
+<label key="1879062145" value="Novice Metalsmith"/>
+<label key="1879062146" value="Novice Metalsmith"/>
+<label key="1879062163" value="Expert Metalsmith"/>
+<label key="1879062164" value="Expert Metalsmith"/>
+<label key="1879062165" value="Expert Metalsmith"/>
+<label key="1879062166" value="Expert Metalsmith"/>
+<label key="1879062167" value="Expert Metalsmith"/>
+<label key="1879062168" value="Rothir"/>
+<label key="1879062169" value="Birrungur Blacksteel"/>
+<label key="1879062245" value="Rollo Hamson"/>
+<label key="1879062251" value="Esmerelda Burrows"/>
+<label key="1879062253" value="Novice Cook"/>
+<label key="1879062254" value="Novice Cook"/>
+<label key="1879062255" value="Novice Cook"/>
+<label key="1879062256" value="Novice Cook"/>
+<label key="1879062281" value="Constable Thistlewool"/>
+<label key="1879062285" value="Cal Sprigley"/>
+<label key="1879062288" value="Peg Pruner"/>
+<label key="1879062291" value="Cal Sprigley"/>
+<label key="1879062301" value="Atli Spider-bane"/>
+<label key="1879062302" value="Holly Sprigley"/>
+<label key="1879062351" value="Fonn"/>
+<label key="1879062388" value="Expert Scholar"/>
+<label key="1879062389" value="Expert Scholar"/>
+<label key="1879062390" value="Expert Scholar"/>
+<label key="1879062391" value="Expert Scholar"/>
+<label key="1879062392" value="Pethwenn"/>
+<label key="1879062393" value="Expert Scholar"/>
+<label key="1879062394" value="Idhremmin"/>
+<label key="1879062406" value="Harry Wheelwright"/>
+<label key="1879062413" value="Novice Jeweller"/>
+<label key="1879062414" value="Novice Jeweller"/>
+<label key="1879062415" value="Novice Jeweller"/>
+<label key="1879062416" value="Novice Jeweller"/>
+<label key="1879062418" value="Novice Scholar"/>
+<label key="1879062419" value="Novice Scholar"/>
+<label key="1879062420" value="Novice Scholar"/>
+<label key="1879062421" value="Novice Scholar"/>
+<label key="1879062424" value="Glorenglir"/>
+<label key="1879062451" value="Nathronwen"/>
+<label key="1879062466" value="Expert Jeweller"/>
+<label key="1879062467" value="Expert Jeweller"/>
+<label key="1879062468" value="Expert Jeweller"/>
+<label key="1879062469" value="Expert Jeweller"/>
+<label key="1879062470" value="Expert Jeweller"/>
+<label key="1879062471" value="Miradan"/>
+<label key="1879062472" value="Merilos"/>
+<label key="1879062485" value="Ollie Redbrush"/>
+<label key="1879062508" value="Frodo Baggins"/>
+<label key="1879062511" value="Sam"/>
+<label key="1879062514" value="Halli Shimmershield"/>
+<label key="1879062515" value="Geitir"/>
+<label key="1879062516" value="Óláfr"/>
+<label key="1879062524" value="Tindr"/>
+<label key="1879062528" value="Otkell"/>
+<label key="1879062553" value="Orlygr"/>
+<label key="1879062577" value="Larus Sharpshard"/>
+<label key="1879062617" value="Novice Woodworker"/>
+<label key="1879062618" value="Novice Woodworker"/>
+<label key="1879062619" value="Novice Woodworker"/>
+<label key="1879062620" value="Novice Woodworker"/>
+<label key="1879062621" value="Novice Woodworker"/>
+<label key="1879062622" value="Sarabeth Lowbanks"/>
+<label key="1879062669" value="Millicent Greenlake"/>
+<label key="1879062682" value="Novice Tailor"/>
+<label key="1879062683" value="Novice Tailor"/>
+<label key="1879062684" value="Novice Tailor"/>
+<label key="1879062685" value="Novice Tailor"/>
+<label key="1879062686" value="Novice Tailor"/>
+<label key="1879062688" value="Supervisor Beecher"/>
+<label key="1879062791" value="Carver Greenlake"/>
+<label key="1879062793" value="Erandir"/>
+<label key="1879062804" value="Mistress of Apprentices"/>
+<label key="1879062805" value="Master of Apprentices"/>
+<label key="1879062806" value="Mistress of Apprentices"/>
+<label key="1879062807" value="Master of Apprenticess"/>
+<label key="1879062808" value="Mistress of Apprentices"/>
+<label key="1879063054" value="Expert Cook"/>
+<label key="1879063055" value="Expert Cook"/>
+<label key="1879063056" value="Expert Cook"/>
+<label key="1879063057" value="Expert Cook"/>
+<label key="1879063064" value="Expert Tailor"/>
+<label key="1879063065" value="Expert Tailor"/>
+<label key="1879063066" value="Expert Tailor"/>
+<label key="1879063067" value="Expert Tailor"/>
+<label key="1879063068" value="Expert Woodworker"/>
+<label key="1879063069" value="Expert Woodworker"/>
+<label key="1879063070" value="Expert Woodworker"/>
+<label key="1879063071" value="Expert Woodworker"/>
+<label key="1879063074" value="Armourer Vocation Trainer"/>
+<label key="1879063082" value="Novice Farmhand"/>
+<label key="1879063083" value="Expert Farmhand"/>
+<label key="1879063088" value="Deloric"/>
+<label key="1879063089" value="Santach"/>
+<label key="1879063090" value="Kyven"/>
+<label key="1879063091" value="Rahan"/>
+<label key="1879063092" value="Chenan"/>
+<label key="1879063093" value="Almaric"/>
+<label key="1879063094" value="Brennos"/>
+<label key="1879063095" value="Gladir"/>
+<label key="1879063096" value="Olmóth"/>
+<label key="1879063097" value="Bólwerk"/>
+<label key="1879063098" value="Buckley Sheppard"/>
+<label key="1879063099" value="Holly Greyfeather"/>
+<label key="1879063100" value="Jasper Greensmith"/>
+<label key="1879063101" value="Aran Greyfeather"/>
+<label key="1879063103" value="Hodor Thornberry"/>
+<label key="1879063104" value="Mason Boyle"/>
+<label key="1879063105" value="Harlan Reed"/>
+<label key="1879063107" value="Maynard Thistle"/>
+<label key="1879063108" value="Boyden Fir"/>
+<label key="1879063109" value="Turner Thisleleaf"/>
+<label key="1879063110" value="James Clover"/>
+<label key="1879063111" value="Miller Chicory"/>
+<label key="1879063112" value="Thomas Cleelan"/>
+<label key="1879063113" value="Wystan Milkweed"/>
+<label key="1879063116" value="Cooper Basilleaf"/>
+<label key="1879063117" value="Dolph Boxthorn"/>
+<label key="1879063118" value="Windle Moorneedle"/>
+<label key="1879063121" value="Taylor Birchman"/>
+<label key="1879063122" value="Allan Coal"/>
+<label key="1879063123" value="Githa Hawkweed"/>
+<label key="1879063125" value="DELETE ME!"/>
+<label key="1879063132" value="Edenithil"/>
+<label key="1879063133" value="Elgirion"/>
+<label key="1879063134" value="Gilbor"/>
+<label key="1879063135" value="Gilfalas"/>
+<label key="1879063136" value="Brethilas"/>
+<label key="1879063137" value="Hithbar"/>
+<label key="1879063138" value="Fanhir"/>
+<label key="1879063139" value="Limlor"/>
+<label key="1879063140" value="Tímar"/>
+<label key="1879063141" value="Algar Anvil-song"/>
+<label key="1879063142" value="Bór"/>
+<label key="1879063143" value="Aglinn"/>
+<label key="1879063144" value="Egon Malt-water"/>
+<label key="1879063145" value="Adwyn Flame-eye"/>
+<label key="1879063146" value="Aldwulf"/>
+<label key="1879063147" value="Invar"/>
+<label key="1879063148" value="Ranald"/>
+<label key="1879063149" value="Durstan"/>
+<label key="1879063150" value="Kimbur Green-tree"/>
+<label key="1879063151" value="Lafi"/>
+<label key="1879063152" value="Dannel"/>
+<label key="1879063153" value="Gowan Smith-son"/>
+<label key="1879063154" value="Kieri"/>
+<label key="1879063155" value="Torri"/>
+<label key="1879063156" value="Grithur"/>
+<label key="1879063157" value="Dúri Bold-hammer"/>
+<label key="1879063160" value="Albryc Long-foot"/>
+<label key="1879063161" value="Belgen"/>
+<label key="1879063162" value="Kragg Stout-heart"/>
+<label key="1879063163" value="Dagg Dour-face"/>
+<label key="1879063164" value="Hagan Storm-sword"/>
+<label key="1879063165" value="Kyma Grey-bear"/>
+<label key="1879063166" value="Rhodri Blue-boots"/>
+<label key="1879063167" value="Thorvald Thunder-hall"/>
+<label key="1879063168" value="Roland Ambermoon"/>
+<label key="1879063169" value="Barl Audley"/>
+<label key="1879063170" value="Rupe Tenstone"/>
+<label key="1879063171" value="Jess Fairchild"/>
+<label key="1879063172" value="Dirk Crowhaven"/>
+<label key="1879063173" value="Martin Shadowhyrst"/>
+<label key="1879063174" value="Daegwalt"/>
+<label key="1879063175" value="Jaster Glenwood"/>
+<label key="1879063177" value="Donan Finloch"/>
+<label key="1879063178" value="Gestr Quicksilver"/>
+<label key="1879063179" value="Mallennor"/>
+<label key="1879063181" value="Faronwen"/>
+<label key="1879063183" value="Arastil"/>
+<label key="1879063184" value="Gondranc"/>
+<label key="1879063187" value="Elúr"/>
+<label key="1879063189" value="Melthindir"/>
+<label key="1879063191" value="Adelin Swiftrunner"/>
+<label key="1879063195" value="Neldo Oaklane"/>
+<label key="1879063196" value="Holba Blackiron"/>
+<label key="1879063197" value="Aldo Topleaf"/>
+<label key="1879063198" value="Filimer Took"/>
+<label key="1879063199" value="Hardo Thorney"/>
+<label key="1879063203" value="Griffin Bunce"/>
+<label key="1879063204" value="Gilda Sweetwater"/>
+<label key="1879063206" value="Gilly Bracegirdle"/>
+<label key="1879063208" value="Indor Weaver"/>
+<label key="1879063210" value="Dudo Greenacre"/>
+<label key="1879063211" value="Brinley Gardener"/>
+<label key="1879063226" value="Ruthlas"/>
+<label key="1879063227" value="Gelluigon"/>
+<label key="1879063229" value="Ninimiel"/>
+<label key="1879063231" value="Haerel"/>
+<label key="1879063233" value="Pigedhryn"/>
+<label key="1879063234" value="Limruineth"/>
+<label key="1879063235" value="Silivremir"/>
+<label key="1879063236" value="Owen Oaks"/>
+<label key="1879063237" value="Steinn Silvertongue"/>
+<label key="1879063238" value="Gammer Took"/>
+<label key="1879063239" value="Tarkripper Quartermaster"/>
+<label key="1879063240" value="Mildred Catchfly"/>
+<label key="1879063242" value="Edwin Miller"/>
+<label key="1879063243" value="Bail Threespot"/>
+<label key="1879063244" value="Dora Brandybuck"/>
+<label key="1879063245" value="Lara Boffin"/>
+<label key="1879063246" value="Malvo Goldworthy"/>
+<label key="1879063247" value="Dono Boffin"/>
+<label key="1879063248" value="Rorimac Bolger"/>
+<label key="1879063250" value="Morgan Darkraven"/>
+<label key="1879063251" value="Mag Hardhammer"/>
+<label key="1879063252" value="Nate Fleetfoot"/>
+<label key="1879063253" value="Karl Quickfire"/>
+<label key="1879063254" value="Lowell Wickham"/>
+<label key="1879063255" value="Pell Stoneleaf"/>
+<label key="1879063256" value="Otwell Gowen"/>
+<label key="1879063257" value="Raf Silverwind"/>
+<label key="1879063258" value="Gareth Somerset"/>
+<label key="1879063259" value="Orrick Fleetfoot"/>
+<label key="1879063260" value="Ithilvir"/>
+<label key="1879063261" value="Ari Longarrow"/>
+<label key="1879063262" value="Ivor Yewbend"/>
+<label key="1879063263" value="Ludde Blackeagle"/>
+<label key="1879063264" value="Hákan Ironhammer"/>
+<label key="1879063265" value="Galti son of Geitir"/>
+<label key="1879063266" value="Jórunn Firesong"/>
+<label key="1879063267" value="Nál Bellowsbreath"/>
+<label key="1879063268" value="Kettil Hardhelm"/>
+<label key="1879063269" value="Fengari Frostmere"/>
+<label key="1879063270" value="Ovi Redforge"/>
+<label key="1879063271" value="Alvari son of Breki"/>
+<label key="1879063272" value="Brymir Hammerhand"/>
+<label key="1879063273" value="Garett Wort"/>
+<label key="1879063274" value="Refr Quicksilver"/>
+<label key="1879063282" value="Jon Carver"/>
+<label key="1879063283" value="Joseph Thornrose"/>
+<label key="1879063284" value="Abbey Primrose"/>
+<label key="1879063285" value="Jarred Mason"/>
+<label key="1879063286" value="Bailey Willowlark"/>
+<label key="1879063287" value="Darrin Crane"/>
+<label key="1879063288" value="Belgo Redsmith"/>
+<label key="1879063289" value="Felderic Willowwood"/>
+<label key="1879063290" value="Mirabell Gammidge"/>
+<label key="1879063291" value="Brinley Gardener"/>
+<label key="1879063292" value="Tala Handyman"/>
+<label key="1879063293" value="Daisy Newbuck"/>
+<label key="1879063294" value="Rasco Chubb"/>
+<label key="1879063295" value="Britho Woodvine"/>
+<label key="1879063296" value="Gorhendad Greenholm"/>
+<label key="1879063297" value="Opal Stonefield"/>
+<label key="1879063299" value="Fathrem"/>
+<label key="1879063300" value="Calenhen"/>
+<label key="1879063301" value="Sidlinn"/>
+<label key="1879063302" value="Rodgam"/>
+<label key="1879063303" value="Maendan"/>
+<label key="1879063304" value="Gwathdal"/>
+<label key="1879063305" value="Glorielvir"/>
+<label key="1879063307" value="Gruinthír"/>
+<label key="1879063308" value="Dúrvenel"/>
+<label key="1879063309" value="Orodlin"/>
+<label key="1879063310" value="Berenin"/>
+<label key="1879063311" value="Daerlaw"/>
+<label key="1879063328" value="Bert Goldenleaf"/>
+<label key="1879063330" value="Bill Rosewood"/>
+<label key="1879063338" value="Wíli"/>
+<label key="1879063341" value="Bogi"/>
+<label key="1879063349" value="Edenithil"/>
+<label key="1879063350" value="Grithur"/>
+<label key="1879063351" value="Hithbar"/>
+<label key="1879063352" value="Fanhir"/>
+<label key="1879063355" value="Foreman Ori"/>
+<label key="1879063356" value="Ketill"/>
+<label key="1879063366" value="Sigdan"/>
+<label key="1879063372" value="Leithi"/>
+<label key="1879063373" value="Kolskegg"/>
+<label key="1879063382" value="Hwestiel"/>
+<label key="1879063383" value="Faellindiel"/>
+<label key="1879063384" value="Gwenhíril"/>
+<label key="1879063385" value="Vault-keeper"/>
+<label key="1879063386" value="Maegamel"/>
+<label key="1879063388" value="Colchyl"/>
+<label key="1879063391" value="Roherdir"/>
+<label key="1879063392" value="Laergil"/>
+<label key="1879063404" value="Hending Gamgee"/>
+<label key="1879063406" value="Provisioner"/>
+<label key="1879063407" value="Andfast Tunnelly"/>
+<label key="1879063408" value="Expert Cook"/>
+<label key="1879063409" value="Vault-keeper"/>
+<label key="1879063414" value="Peaseblossom Tunnelly"/>
+<label key="1879063415" value="Gardenia Bracegirdle"/>
+<label key="1879063427" value="Bogo Chubb"/>
+<label key="1879063430" value="Tavern Keep"/>
+<label key="1879063440" value="Expert Woodworker"/>
+<label key="1879063446" value="Tanner Boffin"/>
+<label key="1879063451" value="Marmadoc Bolger"/>
+<label key="1879063453" value="Rory Primstone"/>
+<label key="1879063456" value="Provisioner"/>
+<label key="1879063457" value="Peridot Bolger"/>
+<label key="1879063458" value="Fosco Boffin"/>
+<label key="1879063466" value="Gundo Bracegirdle"/>
+<label key="1879063481" value="Sully Brandybuck"/>
+<label key="1879063511" value="Graham Larkspur"/>
+<label key="1879063538" value="Hal Fincham"/>
+<label key="1879063539" value="Alf Grimble"/>
+<label key="1879063544" value="Vault-keeper"/>
+<label key="1879063551" value="Pothlír"/>
+<label key="1879063567" value="Múli"/>
+<label key="1879063568" value="Éogar, son of Hadorgar"/>
+<label key="1879063572" value="Whelan Appledore"/>
+<label key="1879063574" value="Walt Hollytree"/>
+<label key="1879063588" value="Himloc Grouse"/>
+<label key="1879063595" value="Jack Cloverdale"/>
+<label key="1879063596" value="Janie Sprigleaf"/>
+<label key="1879063597" value="Nan Ragwort"/>
+<label key="1879063600" value="Provisioner"/>
+<label key="1879063606" value="Kate Henseed"/>
+<label key="1879063620" value="Foreman Elmwood"/>
+<label key="1879063638" value="Brethilwen"/>
+<label key="1879063642" value="Sam Pickwell"/>
+<label key="1879063653" value="Hithlim"/>
+<label key="1879063654" value="Arochon"/>
+<label key="1879063658" value="Garchadron"/>
+<label key="1879063659" value="Pip Wortley"/>
+<label key="1879063663" value="Provisioner"/>
+<label key="1879063664" value="Expert Tailor"/>
+<label key="1879063665" value="Expert Woodworker"/>
+<label key="1879063666" value="Nestadam"/>
+<label key="1879063672" value="Tavas"/>
+<label key="1879063713" value="Unni"/>
+<label key="1879063715" value="Strangsig"/>
+<label key="1879063751" value="Dolith"/>
+<label key="1879063752" value="Gavran"/>
+<label key="1879063762" value="Cinaid"/>
+<label key="1879063763" value="Malavin"/>
+<label key="1879063778" value="Breglobor"/>
+<label key="1879063779" value="Fimgris"/>
+<label key="1879063790" value="Coldfells Provisioner"/>
+<label key="1879063792" value="Fileglin"/>
+<label key="1879063793" value="Rimdal"/>
+<label key="1879063802" value="Ladrochan"/>
+<label key="1879063805" value="Provisioner"/>
+<label key="1879063817" value="Vault-keeper"/>
+<label key="1879063819" value="Tralli Gemfinder"/>
+<label key="1879063823" value="Enefan"/>
+<label key="1879063824" value="Auctioneer"/>
+<label key="1879063844" value="Vault-keeper"/>
+<label key="1879063846" value="Tavern Keep"/>
+<label key="1879063847" value="Belg"/>
+<label key="1879063848" value="Lóthinn"/>
+<label key="1879063850" value="Auctioneer"/>
+<label key="1879063851" value="Auctioneer"/>
+<label key="1879063852" value="Auctioneer"/>
+<label key="1879063853" value="Auctioneer"/>
+<label key="1879063861" value="Polly Leafcutter"/>
+<label key="1879063877" value="Salabdúr"/>
+<label key="1879063881" value="Aesseryn"/>
+<label key="1879072017" value="Postmaster Proudfoot"/>
+<label key="1879072032" value="Postman Newbuck"/>
+<label key="1879072065" value="Postman Twofoot"/>
+<label key="1879072069" value="Postman Redsmith"/>
+<label key="1879072074" value="Postman Took"/>
+<label key="1879072078" value="Postman Grubb"/>
+<label key="1879072081" value="Postman Boffin"/>
+<label key="1879072084" value="Postman Oddfoot"/>
+<label key="1879072088" value="Postman Spinner"/>
+<label key="1879072091" value="Postman Smallburrow"/>
+<label key="1879072094" value="Postman Bolger"/>
+<label key="1879072097" value="Postman Digswell"/>
+<label key="1879072368" value="Postman Moresby"/>
+<label key="1879072385" value="Postman Cotton"/>
+<label key="1879072399" value="Postman Maggot"/>
+<label key="1879074050" value="Quest Barrel 1"/>
+<label key="1879074076" value="Test Completer"/>
+<label key="1879074078" value="Test Bestower"/>
+<label key="1879074082" value="NPC Used Test"/>
+<label key="1879076118" value="Test MP Controller"/>
+<label key="1879076148" value="Fell Scrying Pool"/>
+<label key="1879076364" value="PE Birdbath"/>
+<label key="1879076366" value="Mauno"/>
+<label key="1879076376" value="Pasco Grubb"/>
+<label key="1879076377" value="Branda Rumble"/>
+<label key="1879076378" value="Gile Chadwick"/>
+<label key="1879076381" value="Ruinhiril"/>
+<label key="1879076394" value="Expert Tailor"/>
+<label key="1879076395" value="Expert Tailor"/>
+<label key="1879076403" value="Expert Woodworker"/>
+<label key="1879076783" value="Arwen"/>
+<label key="1879076784" value="Dwalin"/>
+<label key="1879076785" value="Gormr Doursmith"/>
+<label key="1879076786" value="Mathi Stouthand"/>
+<label key="1879076787" value="Detector"/>
+<label key="1879076788" value="Detector"/>
+<label key="1879076795" value="Sheep"/>
+<label key="1879076796" value="Townsperson"/>
+<label key="1879076797" value="Pig"/>
+<label key="1879076798" value="Chicken"/>
+<label key="1879076799" value="Townsperson"/>
+<label key="1879076802" value="Townsperson"/>
+<label key="1879076881" value="Earth-kin chieftain"/>
+<label key="1879077006" value="Watcher"/>
+<label key="1879077007" value="Townsperson"/>
+<label key="1879077008" value="Townsperson"/>
+<label key="1879077014" value="Townsperson"/>
+<label key="1879077015" value="Townsperson"/>
+<label key="1879077016" value="Watcher"/>
+<label key="1879077017" value="Watcher"/>
+<label key="1879077018" value="Watcher"/>
+<label key="1879077019" value="Watcher"/>
+<label key="1879077020" value="Watcher"/>
+<label key="1879077021" value="Watcher"/>
+<label key="1879077023" value="Cat"/>
+<label key="1879077333" value="Brigand"/>
+<label key="1879077352" value="Restless Shade"/>
+<label key="1879077395" value="Drama Color Shouter"/>
+<label key="1879077410" value="Jimmy the Minstrel"/>
+<label key="1879077411" value="Woman of Bree"/>
+<label key="1879077484" value="Skorgrím"/>
+<label key="1879077530" value="Ingólfr"/>
+<label key="1879077606" value="Bregedúr"/>
+<label key="1879077607" value="Gwaloth"/>
+<label key="1879077608" value="Guleneth"/>
+<label key="1879077613" value="Brethilwen"/>
+<label key="1879077629" value="Mibrethil"/>
+<label key="1879077635" value="Dolengyl"/>
+<label key="1879077643" value="Penglir"/>
+<label key="1879077647" value="Lubathred"/>
+<label key="1879077649" value="Reflecting Pool"/>
+<label key="1879077654" value="Celairant"/>
+<label key="1879077675" value="Raindis"/>
+<label key="1879077676" value="Laegon"/>
+<label key="1879077690" value="Townsperson"/>
+<label key="1879077695" value="Hungry Hobbit"/>
+<label key="1879077696" value="Alf Goodcliff"/>
+<label key="1879077699" value="Emerald Borings"/>
+<label key="1879077701" value="Hungry Hobbit"/>
+<label key="1879077726" value="Horse"/>
+<label key="1879077734" value="Nosey Hobbit"/>
+<label key="1879077738" value="Rollo Newbuck"/>
+<label key="1879077739" value="Polo Brockhouse"/>
+<label key="1879077740" value="Odo Pipes"/>
+<label key="1879077741" value="Wistan Whitfoot"/>
+<label key="1879077742" value="Marigold Twospade"/>
+<label key="1879077743" value="Reflecting Pool"/>
+<label key="1879077744" value="Townsperson"/>
+<label key="1879077745" value="Townsperson"/>
+<label key="1879077746" value="Lorgo Boffin"/>
+<label key="1879077753" value="Daisy Brockhouse"/>
+<label key="1879077780" value="Nosey Hobbit"/>
+<label key="1879077781" value="Ned Diggins"/>
+<label key="1879077785" value="Cow"/>
+<label key="1879077787" value="Rooster"/>
+<label key="1879077891" value="Bird"/>
+<label key="1879077899" value="Ted Sandyman"/>
+<label key="1879077900" value="Daddy Twofoot"/>
+<label key="1879077906" value="Watcher"/>
+<label key="1879077915" value="Townsperson"/>
+<label key="1879077941" value="Crocus Stonybanks"/>
+<label key="1879077970" value="Frog"/>
+<label key="1879077971" value="Skinner Grubb"/>
+<label key="1879078018" value="Black Rider"/>
+<label key="1879078044" value="Drama Coach"/>
+<label key="1879078064" value="Townsperson"/>
+<label key="1879078065" value="Odo Mudbottom"/>
+<label key="1879078100" value="Snake"/>
+<label key="1879078137" value="Brigand"/>
+<label key="1879078138" value="Brigand"/>
+<label key="1879078139" value="Elf"/>
+<label key="1879078196" value="Fox"/>
+<label key="1879078199" value="Veronica"/>
+<label key="1879078203" value="Fang"/>
+<label key="1879078204" value="Grip"/>
+<label key="1879078205" value="Wolf"/>
+<label key="1879078206" value="Hammy Maggot"/>
+<label key="1879078217" value="Fang"/>
+<label key="1879078218" value="Grip"/>
+<label key="1879078219" value="Wolf"/>
+<label key="1879078259" value="Hodric Bracegirdle"/>
+<label key="1879078273" value="Bruner Stoutthrush"/>
+<label key="1879078279" value="Roger Hawkling"/>
+<label key="1879078322" value="Toly Brockhouse"/>
+<label key="1879078328" value="Gillemin Brandybuck"/>
+<label key="1879078513" value="Aradia"/>
+<label key="1879078514" value="Peren"/>
+<label key="1879078515" value="Relondir"/>
+<label key="1879078519" value="Townsperson"/>
+<label key="1879078554" value="Skorgrím"/>
+<label key="1879078573" value="Kenton Thistleway"/>
+<label key="1879078574" value="Lofar Ironband"/>
+<label key="1879078581" value="Flint Oakhewer"/>
+<label key="1879078582" value="Matt Haywood"/>
+<label key="1879078583" value="Pete Shadetree"/>
+<label key="1879078588" value="Naerandir"/>
+<label key="1879078606" value="Oddvarr"/>
+<label key="1879078614" value="Cam Applewood"/>
+<label key="1879078689" value="Shield-brother's Shade"/>
+<label key="1879078690" value="Freed Shade"/>
+<label key="1879078725" value="Foreman Rosethorn"/>
+<label key="1879078731" value="Rose Thornley"/>
+<label key="1879078748" value="Mat Heathertoes"/>
+<label key="1879078749" value="Half-starved Pony"/>
+<label key="1879078753" value="Addie Wheatley"/>
+<label key="1879078765" value="Harry Goatleaf"/>
+<label key="1879078766" value="Watchman Cardoon"/>
+<label key="1879078796" value="Squirrel"/>
+<label key="1879078803" value="Townsperson"/>
+<label key="1879078807" value="Townsperson"/>
+<label key="1879078808" value="Bonnie Milkweed"/>
+<label key="1879078809" value="Reflecting Pool"/>
+<label key="1879078811" value="Dora Longburrow"/>
+<label key="1879078814" value="Townsperson"/>
+<label key="1879078817" value="Emma Rosethorn"/>
+<label key="1879078861" value="Primrose Burrows"/>
+<label key="1879078864" value="Clem Whitethorne"/>
+<label key="1879078865" value="Verity Tyne"/>
+<label key="1879078868" value="Bree Town Watcher"/>
+<label key="1879078870" value="Second-watcher Heathstraw"/>
+<label key="1879078873" value="Osur Stouthammer"/>
+<label key="1879078879" value="Lolo Wendingway"/>
+<label key="1879078883" value="Watcher Redweed"/>
+<label key="1879078892" value="Gammy Boggs"/>
+<label key="1879078905" value="Falco Greenhand"/>
+<label key="1879078907" value="Ethelinda Burr"/>
+<label key="1879078908" value="Ferdibrand Took"/>
+<label key="1879078909" value="Lily Underhill"/>
+<label key="1879078910" value="Ferumbras Attereeve"/>
+<label key="1879078911" value="Longo Daegmund"/>
+<label key="1879078922" value="Eldo Swatmidge"/>
+<label key="1879078923" value="Asphodel Froghorn"/>
+<label key="1879078941" value="Gar"/>
+<label key="1879078954" value="Willowsong"/>
+<label key="1879078971" value="Burl Beeman"/>
+<label key="1879078974" value="Seward Proudfoot"/>
+<label key="1879078975" value="Amlan"/>
+<label key="1879078976" value="Dob Sandheaver"/>
+<label key="1879078984" value="Tad Hollyway"/>
+<label key="1879078992" value="Humbert Sandheaver"/>
+<label key="1879078993" value="Humbert Sandheaver"/>
+<label key="1879079005" value="Townsperson"/>
+<label key="1879079022" value="Clayton Cole"/>
+<label key="1879079038" value="Watcher Reedy"/>
+<label key="1879079046" value="Odo Pickthorn"/>
+<label key="1879079057" value="Constable Sageford"/>
+<label key="1879079060" value="Rurik Fennel"/>
+<label key="1879079061" value="Gail Catchpole"/>
+<label key="1879079062" value="Rabbit"/>
+<label key="1879079065" value="Maida Woodwright"/>
+<label key="1879079067" value="Leighton Howard"/>
+<label key="1879079087" value="Constable Wren"/>
+<label key="1879079093" value="Biddy Dogwort"/>
+<label key="1879079100" value="Lenglinn"/>
+<label key="1879079142" value="Ted Pickthorn"/>
+<label key="1879079143" value="Roderick Carver"/>
+<label key="1879079144" value="Geoffrey Fuller"/>
+<label key="1879079153" value="Mason Thorne"/>
+<label key="1879079155" value="Molly Needler, Cobbler"/>
+<label key="1879079161" value="Edward Carver"/>
+<label key="1879079167" value="Guard"/>
+<label key="1879079178" value="Sergeant Redroot"/>
+<label key="1879079179" value="Guardsman Finchwater"/>
+<label key="1879079187" value="Blacksmith"/>
+<label key="1879079188" value="Sergeant Redroot"/>
+<label key="1879079206" value="Guard"/>
+<label key="1879079207" value="Otto the Brigand"/>
+<label key="1879079208" value="Godwig the Lazy"/>
+<label key="1879079209" value="Constable Thistlewool"/>
+<label key="1879079211" value="Farmhand"/>
+<label key="1879079213" value="Builder Borin"/>
+<label key="1879079214" value="Builder Earur"/>
+<label key="1879079233" value="Jon Brackenbrook"/>
+<label key="1879079234" value="Hunter"/>
+<label key="1879079235" value="Celandine Brandybuck"/>
+<label key="1879079237" value="Brigand Prisoner"/>
+<label key="1879079238" value="Peg Pruner"/>
+<label key="1879079252" value="Taylor Green"/>
+<label key="1879079277" value="Wheat Field"/>
+<label key="1879079295" value="Hunter"/>
+<label key="1879079296" value="Dead Hunter"/>
+<label key="1879079316" value="Wanetta"/>
+<label key="1879079318" value="Boll Needler"/>
+<label key="1879079319" value="Old Bauman"/>
+<label key="1879079320" value="Posco Burrows"/>
+<label key="1879079321" value="Ember Hayes"/>
+<label key="1879079325" value="Woodcutter Hornbeam"/>
+<label key="1879079333" value="Filbert Burrows"/>
+<label key="1879079363" value="Atli Spider-bane"/>
+<label key="1879079365" value="Ann Granger"/>
+<label key="1879079367" value="Hunter"/>
+<label key="1879079368" value="Guard"/>
+<label key="1879079369" value="Guard"/>
+<label key="1879079372" value="Nate Whisperwood"/>
+<label key="1879079471" value="Roderick Neeker-friend"/>
+<label key="1879079472" value="Sniken"/>
+<label key="1879079494" value="Barton Tyne"/>
+<label key="1879079537" value="Constable Bram Ashleaf"/>
+<label key="1879079540" value="Glynn Harper"/>
+<label key="1879079541" value="Sorel Dorson"/>
+<label key="1879079657" value="Defender of Ost Guruth"/>
+<label key="1879079749" value="Stanric"/>
+<label key="1879079819" value="Tortwil"/>
+<label key="1879079822" value="Reflecting Pool"/>
+<label key="1879079869" value="Earth-kin Hunter"/>
+<label key="1879079964" value="Warrior-shade"/>
+<label key="1879080388" value="Townsperson"/>
+<label key="1879080397" value="Peregrin Took"/>
+<label key="1879080403" value="Meriadoc Brandybuck"/>
+<label key="1879080406" value="Malthenor"/>
+<label key="1879080429" value="Vighar Roadwalker"/>
+<label key="1879080455" value="Reflecting Pool"/>
+<label key="1879080552" value="Fell Spirit"/>
+<label key="1879080635" value="Deer"/>
+<label key="1879080644" value="Uglash"/>
+<label key="1879080689" value="Erynwen"/>
+<label key="1879080709" value="Ormr"/>
+<label key="1879080710" value="Nefi Gemcutter"/>
+<label key="1879080714" value="Gísli"/>
+<label key="1879080722" value="Tryggwi"/>
+<label key="1879080723" value="Unnarr"/>
+<label key="1879080725" value="Dourhand Dwarf"/>
+<label key="1879080728" value="Gagi Cloudbrow"/>
+<label key="1879080731" value="Reflecting Pool"/>
+<label key="1879080738" value="Flosi"/>
+<label key="1879080766" value="Selur"/>
+<label key="1879080770" value="Orodlin"/>
+<label key="1879080773" value="Vífill"/>
+<label key="1879080777" value="Grímkell Stonebearer"/>
+<label key="1879080783" value="Bolli"/>
+<label key="1879080791" value="Miner Onar"/>
+<label key="1879080832" value="Goblin"/>
+<label key="1879080833" value="Guard"/>
+<label key="1879080837" value="Guard"/>
+<label key="1879080840" value="Skorgrím"/>
+<label key="1879080841" value="Dorongúr Whitethorn"/>
+<label key="1879080845" value="Snow-troll"/>
+<label key="1879080859" value="Goblin"/>
+<label key="1879080860" value="Goblin"/>
+<label key="1879080890" value="Kolskegg Gemcounter"/>
+<label key="1879080891" value="Aurochs"/>
+<label key="1879080892" value="Solvi Scrollbearer"/>
+<label key="1879080900" value="Efi Plateshaper"/>
+<label key="1879080901" value="Ingi Steambeard"/>
+<label key="1879080942" value="Thrasi"/>
+<label key="1879080951" value="Abandoned Den"/>
+<label key="1879080956" value="Lynx-cub"/>
+<label key="1879081003" value="Dongandel"/>
+<label key="1879081051" value="Bartelot Took"/>
+<label key="1879081062" value="Olnathron"/>
+<label key="1879081067" value="Váli"/>
+<label key="1879081068" value="Bôrk"/>
+<label key="1879081069" value="Lengloth"/>
+<label key="1879081070" value="Lovenol"/>
+<label key="1879081071" value="Silith"/>
+<label key="1879081072" value="Penny Took"/>
+<label key="1879081073" value="Gareth Copp"/>
+<label key="1879081074" value="Emma Slee"/>
+<label key="1879081075" value="Arch Widdup"/>
+<label key="1879081197" value="Mattie Woodruff"/>
+<label key="1879081198" value="Noll Tobbit"/>
+<label key="1879081205" value="Elsie Woodruff"/>
+<label key="1879081266" value="Marla Shelton"/>
+<label key="1879081267" value="Kemp the Wheelwright"/>
+<label key="1879081325" value="Agnes Martlet"/>
+<label key="1879081329" value="Camilla Peake"/>
+<label key="1879081331" value="Nathan Hodges"/>
+<label key="1879081334" value="Iorhu"/>
+<label key="1879081405" value="Raidmaster Hargrut"/>
+<label key="1879081415" value="Lieutenant Thistlebur"/>
+<label key="1879081460" value="Black Fire Crate"/>
+<label key="1879081553" value="Medlichen"/>
+<label key="1879081579" value="Thaliollang"/>
+<label key="1879081582" value="Baranwen"/>
+<label key="1879081584" value="Gandelin"/>
+<label key="1879081586" value="Silefalas"/>
+<label key="1879081596" value="Bog-guardian"/>
+<label key="1879081597" value="Townsperson"/>
+<label key="1879081598" value="Townsperson"/>
+<label key="1879081599" value="Holly"/>
+<label key="1879081634" value="Quartermaster Orgrin"/>
+<label key="1879081636" value="Birgir Listmaker"/>
+<label key="1879081637" value="Hlája Sagasong"/>
+<label key="1879081652" value="Iivari"/>
+<label key="1879081657" value="Oskari"/>
+<label key="1879081680" value="Holger Tanner"/>
+<label key="1879081697" value="Squirrel"/>
+<label key="1879081705" value="Celephadh"/>
+<label key="1879081754" value="Chronicle of the Mount Gram Invasion"/>
+<label key="1879081764" value="Hobbit Farmer"/>
+<label key="1879081776" value="Tribesman"/>
+<label key="1879081784" value="Taraghlan"/>
+<label key="1879081785" value="Lakhina"/>
+<label key="1879081786" value="Taran"/>
+<label key="1879081787" value="Cuinthorn"/>
+<label key="1879081788" value="Clan Hunter"/>
+<label key="1879081789" value="Clan Herder"/>
+<label key="1879081818" value="Othran"/>
+<label key="1879081867" value="Aarnikka"/>
+<label key="1879081877" value="Raith"/>
+<label key="1879081879" value="Soltakh"/>
+<label key="1879081902" value="Reflecting Pool"/>
+<label key="1879081993" value="Lady of the Circle"/>
+<label key="1879082095" value="Sara Oakheart"/>
+<label key="1879082184" value="Cormag"/>
+<label key="1879082189" value="Lornë"/>
+<label key="1879082223" value="Dwarf-prisoner"/>
+<label key="1879082224" value="Elf-prisoner"/>
+<label key="1879082225" value="Man-prisoner"/>
+<label key="1879082226" value="Elf-prisoner"/>
+<label key="1879082227" value="Man-prisoner"/>
+<label key="1879082252" value="Rodakhan"/>
+<label key="1879082444" value="Eithel Úmfaer"/>
+<label key="1879082447" value="Spirit of Morgoth"/>
+<label key="1879082465" value="Nethraw"/>
+<label key="1879083432" value="Wárr Ink-sleeve"/>
+<label key="1879083436" value="Black Rider"/>
+<label key="1879083452" value="Tvistur"/>
+<label key="1879083456" value="Cave-claw"/>
+<label key="1879083480" value="Skorgrím"/>
+<label key="1879083481" value="Ivar the Blood-hand"/>
+<label key="1879083559" value="Ivar the Blood-hand"/>
+<label key="1879083608" value="Guard"/>
+<label key="1879083624" value="Harvi the Mapmaker"/>
+<label key="1879083632" value="Watcher"/>
+<label key="1879083633" value="Tate Puddifoot"/>
+<label key="1879083663" value="Townsperson"/>
+<label key="1879083682" value="Grobo Dogwort"/>
+<label key="1879083683" value="Reniolind"/>
+<label key="1879083684" value="Ruffian"/>
+<label key="1879083685" value="Chicken"/>
+<label key="1879083686" value="Chicken"/>
+<label key="1879083705" value="Guleneth"/>
+<label key="1879083750" value="Sigrun"/>
+<label key="1879083751" value="Greip"/>
+<label key="1879083752" value="Ormulf Worm-hunter"/>
+<label key="1879083753" value="Wegeir"/>
+<label key="1879083754" value="Anornaneth"/>
+<label key="1879083755" value="Gonediad"/>
+<label key="1879083867" value="Test CP Controller"/>
+<label key="1879083975" value="Efa"/>
+<label key="1879084125" value="Ongbúrz Archer"/>
+<label key="1879084126" value="Broodling"/>
+<label key="1879084127" value="Warg Scout"/>
+<label key="1879084128" value="Ongbúrz Taskmaster"/>
+<label key="1879084129" value="Ongbúrz Troll"/>
+<label key="1879084130" value="Ongbúrz Warrior"/>
+<label key="1879084146" value="Reflecting Pool"/>
+<label key="1879084156" value="Giric"/>
+<label key="1879084163" value="Aslak"/>
+<label key="1879084164" value="Pirkka"/>
+<label key="1879084165" value="Reko"/>
+<label key="1879084166" value="Eetu"/>
+<label key="1879084167" value="Santtu"/>
+<label key="1879084228" value="Bilbo Baggins"/>
+<label key="1879084229" value="Deluros"/>
+<label key="1879084230" value="Elrond"/>
+<label key="1879084231" value="Glóin"/>
+<label key="1879084232" value="Greip"/>
+<label key="1879084234" value="Sigrun"/>
+<label key="1879084236" value="Calbeniel"/>
+<label key="1879084237" value="Vault-keeper"/>
+<label key="1879084238" value="Vault-keeper"/>
+<label key="1879084246" value="Supplier"/>
+<label key="1879084250" value="Arwen"/>
+<label key="1879084544" value="Ranger"/>
+<label key="1879085054" value="Watcher"/>
+<label key="1879085581" value="Murdaigán"/>
+<label key="1879085620" value="Sovairlë"/>
+<label key="1879085683" value="Captain Brackenbrook"/>
+<label key="1879085690" value="Ailsa"/>
+<label key="1879085696" value="Cána"/>
+<label key="1879085862" value="Tearlach"/>
+<label key="1879085863" value="Bonny Thatcher"/>
+<label key="1879085864" value="Serlo Brockhouse"/>
+<label key="1879085865" value="Leofric Brandybuck"/>
+<label key="1879085866" value="Rosebud Bolger"/>
+<label key="1879085867" value="Aglallen"/>
+<label key="1879085868" value="Todd Brushwood"/>
+<label key="1879085869" value="Rudbessain"/>
+<label key="1879085870" value="Áfast"/>
+<label key="1879085871" value="Marigold Grubb"/>
+<label key="1879085872" value="Farald"/>
+<label key="1879085873" value="Raenfer"/>
+<label key="1879085874" value="Gilfiniel"/>
+<label key="1879085875" value="Hatt"/>
+<label key="1879085876" value="Walter Mabbot"/>
+<label key="1879085891" value="Naeremil"/>
+<label key="1879085903" value="Nomad Provisioner"/>
+<label key="1879085904" value="Nomad Healer"/>
+<label key="1879086466" value="Malgannel"/>
+<label key="1879086609" value="Hallam Comfrey"/>
+<label key="1879086688" value="Aragorn"/>
+<label key="1879086689" value="Arwen"/>
+<label key="1879086690" value="Bilbo Baggins"/>
+<label key="1879086694" value="Elrond"/>
+<label key="1879086695" value="Frodo Baggins"/>
+<label key="1879086696" value="Gandalf"/>
+<label key="1879086699" value="Hemeldir"/>
+<label key="1879086718" value="Orso"/>
+<label key="1879086810" value="Balchelos"/>
+<label key="1879086811" value="Calatherdir"/>
+<label key="1879086812" value="Culang"/>
+<label key="1879086813" value="Sid Waring"/>
+<label key="1879086814" value="Gil Symes"/>
+<label key="1879086815" value="Humfrey Rumming"/>
+<label key="1879086816" value="Hob Hillbrow"/>
+<label key="1879086818" value="Hal Gamgee"/>
+<label key="1879086819" value="Nod Gardener"/>
+<label key="1879086820" value="Nibs Chubb"/>
+<label key="1879086821" value="Balbo Brockhouse"/>
+<label key="1879086832" value="Ronald Dwale"/>
+<label key="1879086852" value="Calenglad"/>
+<label key="1879086853" value="Gwindeth"/>
+<label key="1879086854" value="Robin Dunkley"/>
+<label key="1879086855" value="Astiul"/>
+<label key="1879086856" value="Forchon"/>
+<label key="1879086857" value="Naethmunn"/>
+<label key="1879086858" value="Unfriendly Man"/>
+<label key="1879086859" value="Nat Rapkins"/>
+<label key="1879087060" value="Longbough"/>
+<label key="1879087178" value="Lithuifin"/>
+<label key="1879087179" value="Erchiel"/>
+<label key="1879087456" value="Litli"/>
+<label key="1879087499" value="Maid of Lions"/>
+<label key="1879087500" value="Constant Gardener"/>
+<label key="1879087501" value="Amlug"/>
+<label key="1879087502" value="Keth"/>
+<label key="1879087550" value="Rhidden"/>
+<label key="1879087592" value="Tavern Keep"/>
+<label key="1879087614" value="Basil Gummidge"/>
+<label key="1879087653" value="Town Crier"/>
+<label key="1879087654" value="Town Crier"/>
+<label key="1879087656" value="Town Crier"/>
+<label key="1879087659" value="Town Crier"/>
+<label key="1879087660" value="Ada Musgrove"/>
+<label key="1879087661" value="Robert Greenverge"/>
+<label key="1879087663" value="Amabel Redfern"/>
+<label key="1879087664" value="Galmi"/>
+<label key="1879087665" value="Ambi"/>
+<label key="1879087666" value="Haggo Boffin"/>
+<label key="1879087667" value="Carnelian Bracegirdle"/>
+<label key="1879087668" value="Oger Brockhouse"/>
+<label key="1879087669" value="Foxglove Tunnelly"/>
+<label key="1879087670" value="Ailward Chubb"/>
+<label key="1879087671" value="Bluebell Grubb"/>
+<label key="1879087672" value="Ernulf Brandybuck"/>
+<label key="1879087673" value="Daylily Bolger"/>
+<label key="1879087674" value="Fulk Proudfoot"/>
+<label key="1879087675" value="Moonlight Sandheaver"/>
+<label key="1879087676" value="Ioco Underhill"/>
+<label key="1879087677" value="Nedhrien"/>
+<label key="1879087678" value="Lalfor"/>
+<label key="1879087679" value="Alger Hazelhurst"/>
+<label key="1879087680" value="Bernard Oaksey"/>
+<label key="1879087681" value="Liv Selwood"/>
+<label key="1879087682" value="Húni"/>
+<label key="1879087683" value="Sparr"/>
+<label key="1879087684" value="Oxi"/>
+<label key="1879087685" value="Glad Goodbody"/>
+<label key="1879087686" value="Heartsease Whitfoot"/>
+<label key="1879087687" value="Turbert Took"/>
+<label key="1879087688" value="Dringil"/>
+<label key="1879087689" value="Noreth"/>
+<label key="1879087690" value="Gaeriel"/>
+<label key="1879087701" value="Carlo Williams"/>
+<label key="1879087702" value="Jack Lewisdown"/>
+<label key="1879087703" value="Owen Farfield"/>
+<label key="1879087781" value="Gwindeth"/>
+<label key="1879088152" value="Andy Deepwell"/>
+<label key="1879088153" value="Nat Collop"/>
+<label key="1879088154" value="Walerand Puddy"/>
+<label key="1879088540" value="Coldfells Quartermaster"/>
+<label key="1879088572" value="Sergeant-at-Arms Irminric"/>
+<label key="1879088573" value="Sergeant-at-Arms Igul"/>
+<label key="1879088574" value="Sergeant-at-Arms Saxburg"/>
+<label key="1879088575" value="Sergeant-at-Arms Glorellin"/>
+<label key="1879088659" value="Bert Yould"/>
+<label key="1879088696" value="Sara Oakheart"/>
+<label key="1879088739" value="Amarthiel"/>
+<label key="1879088740" value="Black Númenórean"/>
+<label key="1879088807" value="Calenglad"/>
+<label key="1879088958" value="Elf-smith"/>
+<label key="1879088981" value="Ferrif"/>
+<label key="1879089147" value="Pantlinn"/>
+<label key="1879089148" value="Birn Hornblower"/>
+<label key="1879089149" value="William Asquith"/>
+<label key="1879089150" value="Maggie Twilburr"/>
+<label key="1879089151" value="Fundo Delver"/>
+<label key="1879089152" value="Rundo Delver"/>
+<label key="1879089153" value="Dofri Gold-mead"/>
+<label key="1879089154" value="Orren Gresham"/>
+<label key="1879089155" value="Stan Chesham"/>
+<label key="1879089156" value="Dora Basing"/>
+<label key="1879089157" value="Owen Fairfax"/>
+<label key="1879089158" value="Prudence Dewey"/>
+<label key="1879089159" value="Nick Howell"/>
+<label key="1879089161" value="Derek Benchman"/>
+<label key="1879089163" value="Uiriel"/>
+<label key="1879089164" value="Rosebud Bolger"/>
+<label key="1879089165" value="Farald"/>
+<label key="1879089166" value="Rudbessain"/>
+<label key="1879089167" value="Dreda Penney"/>
+<label key="1879089168" value="Inurawen"/>
+<label key="1879089169" value="Uirod"/>
+<label key="1879089170" value="Tirnedhruith"/>
+<label key="1879089171" value="Cúlith"/>
+<label key="1879089172" value="Celairen"/>
+<label key="1879089173" value="Nírthathar"/>
+<label key="1879089473" value="Unity Tilden"/>
+<label key="1879089474" value="Harmony Grayson"/>
+<label key="1879089475" value="Halsey Reed"/>
+<label key="1879089476" value="Kelsey West"/>
+<label key="1879089504" value="Clark Standish"/>
+<label key="1879089505" value="Ballard Wilmer"/>
+<label key="1879089506" value="Rowena Parker"/>
+<label key="1879089507" value="Poppy Seaton"/>
+<label key="1879089508" value="Ferrod"/>
+<label key="1879089509" value="Torogethir"/>
+<label key="1879089510" value="Helechír"/>
+<label key="1879089512" value="Uidon"/>
+<label key="1879089513" value="Brúnfair"/>
+<label key="1879089652" value="Reflecting Pool"/>
+<label key="1879089797" value="Bob Proudfoot"/>
+<label key="1879089816" value="Parr Chopley"/>
+<label key="1879089817" value="Spring Standish"/>
+<label key="1879090262" value="Superior Repair Anvil"/>
+<label key="1879090263" value="Repair Anvil"/>
+<label key="1879090868" value="Badhordam"/>
+<label key="1879090870" value="Calaneth"/>
+<label key="1879090871" value="Cuguminuial"/>
+<label key="1879090872" value="Dannassel"/>
+<label key="1879090873" value="Eirieniel"/>
+<label key="1879090874" value="Rosselloth"/>
+<label key="1879090875" value="Fainneleg"/>
+<label key="1879090876" value="Amarthiel"/>
+<label key="1879090877" value="Glangilith"/>
+<label key="1879090878" value="Harthadril"/>
+<label key="1879090879" value="Legrindavor"/>
+<label key="1879090880" value="Rosselloth"/>
+<label key="1879090881" value="Ringlor"/>
+<label key="1879090882" value="Tadan"/>
+<label key="1879090883" value="Laerdan"/>
+<label key="1879091324" value="Mordrambor"/>
+<label key="1879091527" value="Torcall"/>
+<label key="1879091528" value="Maerchiniath"/>
+<label key="1879091529" value="Horace Roxhythe"/>
+<label key="1879091530" value="Hogahild"/>
+<label key="1879091531" value="Trumswith"/>
+<label key="1879091661" value="Annábla"/>
+<label key="1879091662" value="Hróar"/>
+<label key="1879091685" value="Tad Leafcutter"/>
+<label key="1879091686" value="Anglinn"/>
+<label key="1879091687" value="Maggie Smallwood"/>
+<label key="1879091688" value="Tórth"/>
+<label key="1879091689" value="Ásgeir"/>
+<label key="1879091690" value="Ísrath"/>
+<label key="1879092315" value="Imyl"/>
+<label key="1879092316" value="Cachúnir"/>
+<label key="1879092435" value="Cannuion"/>
+<label key="1879092436" value="Cannasgam"/>
+<label key="1879092437" value="Nethúr"/>
+<label key="1879092438" value="Techeron"/>
+<label key="1879092740" value="Hafgrím"/>
+<label key="1879092741" value="Tully Hopwood"/>
+<label key="1879092742" value="Authun"/>
+<label key="1879092743" value="Celegdes"/>
+<label key="1879092744" value="Malenfang"/>
+<label key="1879092745" value="Atharbain"/>
+<label key="1879092746" value="Maneser Goodbody"/>
+<label key="1879092819" value="Billina"/>
+<label key="1879092835" value="George"/>
+<label key="1879092836" value="Fox"/>
+<label key="1879092837" value="Chicken"/>
+<label key="1879092838" value="Chicken"/>
+<label key="1879092839" value="Chicken"/>
+<label key="1879092876" value="Wink"/>
+<label key="1879092877" value="Horse"/>
+<label key="1879092878" value="Gray squirrel"/>
+<label key="1879092879" value="Cow"/>
+<label key="1879092880" value="Roheryn"/>
+<label key="1879093062" value="Wald Sandson"/>
+<label key="1879093392" value="Tortured Prisoner"/>
+<label key="1879093457" value="Dinhiril"/>
+<label key="1879093458" value="Ariel"/>
+<label key="1879093459" value="Ningwen"/>
+<label key="1879093466" value="Greylond Bottomley"/>
+<label key="1879093467" value="Eustoma Muddybanks"/>
+<label key="1879093468" value="Baldwin Foxtail"/>
+<label key="1879093903" value="Aranhir"/>
+<label key="1879093904" value="Argirion"/>
+<label key="1879093905" value="Mindambeth"/>
+<label key="1879093940" value="Dúcheryn"/>
+<label key="1879093941" value="Colveril"/>
+<label key="1879094090" value="Tens"/>
+<label key="1879094878" value="Ongbúrz Defiler"/>
+<label key="1879094960" value="Galthoniel"/>
+<label key="1879094961" value="Dúnedain"/>
+<label key="1879094962" value="Dúnedain"/>
+<label key="1879094963" value="Tadan"/>
+<label key="1879094964" value="Idhreneth"/>
+<label key="1879094965" value="Garbert"/>
+<label key="1879094966" value="Wéthorm"/>
+<label key="1879094967" value="Muildir"/>
+<label key="1879094968" value="Candelleth"/>
+<label key="1879094969" value="Daervellas"/>
+<label key="1879094970" value="Tongannel"/>
+<label key="1879094971" value="Bainthir"/>
+<label key="1879094972" value="Mordrambor"/>
+<label key="1879094973" value="Lavanthir"/>
+<label key="1879094974" value="Afanen"/>
+<label key="1879094975" value="Laerdan"/>
+<label key="1879094976" value="Mordirith"/>
+<label key="1879094977" value="Narmaleth"/>
+<label key="1879094978" value="Sara Oakheart"/>
+<label key="1879094979" value="Indor"/>
+<label key="1879094980" value="Cerys"/>
+<label key="1879094981" value="Wistan"/>
+<label key="1879094982" value="Garbert"/>
+<label key="1879094983" value="Sneaking Creature"/>
+<label key="1879094984" value="Wistan"/>
+<label key="1879094986" value="Adwold"/>
+<label key="1879094987" value="Tordúril"/>
+<label key="1879094988" value="Nora Strawley"/>
+<label key="1879094989" value="Glorwen"/>
+<label key="1879094990" value="Eywind"/>
+<label key="1879094991" value="Nogmeldis"/>
+<label key="1879094992" value="Thorgest"/>
+<label key="1879095647" value="Large Footprint"/>
+<label key="1879095648" value="Stray Barrel"/>
+<label key="1879095882" value="Barz"/>
+<label key="1879095883" value="Hillmen Worker"/>
+<label key="1879096839" value="Rúni"/>
+<label key="1879096840" value="Barchiril"/>
+<label key="1879096841" value="Andy Brockhouse"/>
+<label key="1879096842" value="Nan Henwood"/>
+<label key="1879097166" value="Avon"/>
+<label key="1879097167" value="Orion"/>
+<label key="1879097168" value="Danger Dan"/>
+<label key="1879097169" value="Berenfan"/>
+<label key="1879097170" value="Kehleyr"/>
+<label key="1879097171" value="Wrinklor"/>
+<label key="1879097172" value="Denour"/>
+<label key="1879097173" value="Temerity"/>
+<label key="1879097174" value="Iceman"/>
+<label key="1879097175" value="Slayde"/>
+<label key="1879097190" value="Afwald"/>
+<label key="1879097293" value="Iorelen"/>
+<label key="1879097297" value="Eimyr"/>
+<label key="1879097301" value="Galasebdir"/>
+<label key="1879097303" value="Jónsi"/>
+<label key="1879097308" value="TBD Giant B"/>
+<label key="1879097311" value="Tortrygg"/>
+<label key="1879097319" value="Asmólf"/>
+<label key="1879097321" value="Rolf Bracegirdle"/>
+<label key="1879097380" value="Haradir"/>
+<label key="1879097381" value="Nestael"/>
+<label key="1879097488" value="Fantus"/>
+<label key="1879097543" value="Quest Barrel"/>
+<label key="1879097579" value="Gandalf"/>
+<label key="1879097583" value="Glathlírel"/>
+<label key="1879097773" value="Forgamdir"/>
+<label key="1879097774" value="Coruchador"/>
+<label key="1879097775" value="Istuigon"/>
+<label key="1879097776" value="Ruinestel"/>
+<label key="1879097777" value="Himhúl"/>
+<label key="1879097778" value="Rudhrod"/>
+<label key="1879097779" value="Amban"/>
+<label key="1879097780" value="Arodinnas"/>
+<label key="1879097781" value="Faradwon"/>
+<label key="1879098206" value="Ísleif"/>
+<label key="1879098207" value="Badennas"/>
+<label key="1879098208" value="Graland Whitfoot"/>
+<label key="1879098209" value="Tad Ashmead"/>
+<label key="1879098289" value="Gunnlaug"/>
+<label key="1879098290" value="Utrygg"/>
+<label key="1879098291" value="Raskulf"/>
+<label key="1879098294" value="Dýri"/>
+<label key="1879098295" value="Kylfa"/>
+<label key="1879098296" value="Malenfas"/>
+<label key="1879098297" value="Torelleth"/>
+<label key="1879098298" value="Sawlo Puddifoot"/>
+<label key="1879098299" value="Rosa Hornblower"/>
+<label key="1879098301" value="Will Peartree"/>
+<label key="1879098302" value="Bess Forester"/>
+<label key="1879098303" value="Alf Mossman"/>
+<label key="1879098305" value="Astiul"/>
+<label key="1879098306" value="Fleet-wing"/>
+<label key="1879098308" value="Cuguminuial"/>
+<label key="1879098310" value="Culang"/>
+<label key="1879098313" value="Fainneleg"/>
+<label key="1879098315" value="Forchon"/>
+<label key="1879098355" value="Cairn of Stones for Tadan"/>
+<label key="1879098356" value="Cairn of Stones for Carchammadel"/>
+<label key="1879098357" value="Cairn of Stones for Colhamnir"/>
+<label key="1879098757" value="Muildir"/>
+<label key="1879098859" value="Clar Whitethorn"/>
+<label key="1879098898" value="Sparrow"/>
+<label key="1879098899" value="Hare"/>
+<label key="1879098900" value="Turtle"/>
+<label key="1879098914" value="Town Crier"/>
+<label key="1879098915" value="Town Crier"/>
+<label key="1879098917" value="Town Crier"/>
+<label key="1879098920" value="Town Crier"/>
+<label key="1879098921" value="Bernard Oaksey"/>
+<label key="1879098922" value="Sparr"/>
+<label key="1879098923" value="Heartsease Whitfoot"/>
+<label key="1879098924" value="Noreth"/>
+<label key="1879099010" value="Brazier"/>
+<label key="1879099175" value="Afanen"/>
+<label key="1879099180" value="Marigold Gamgee"/>
+<label key="1879101496" value="Dúsi"/>
+<label key="1879101497" value="Barthavron"/>
+<label key="1879101498" value="Bill Twiggins"/>
+<label key="1879101630" value="Merchant"/>
+<label key="1879101631" value="Merchant"/>
+<label key="1879101632" value="Merchant"/>
+<label key="1879101633" value="Merchant"/>
+<label key="1879101634" value="Healer"/>
+<label key="1879101635" value="Healer"/>
+<label key="1879101636" value="Healer"/>
+<label key="1879101637" value="Healer"/>
+<label key="1879101859" value="Gaelm, son of Éogar"/>
+<label key="1879101883" value="Gaelm, son of Éogar"/>
+<label key="1879101922" value="Sally Threshing"/>
+<label key="1879102215" value="Tweggi"/>
+<label key="key:620757644:229802005" value="Respected Farmer"/>
+<label key="key:620757737:229802005" value="Tavern Keep"/>
+<label key="key:620757892:229802005" value="Tavern Keep"/>
+<label key="key:620758683:229802005" value="Grocer"/>
+<label key="key:620758738:229802005" value="Grocer"/>
+<label key="key:620758807:229802005" value="Grocer"/>
+<label key="key:620758881:229802005" value="Tavern Keep"/>
+<label key="key:620758933:229802005" value="Grocer"/>
+<label key="key:620758941:229802005" value="Grocer"/>
+<label key="key:620758963:229802005" value="Grocer"/>
+<label key="key:620758994:229802005" value="Supplier"/>
+<label key="key:620759122:229802005" value="Burglar Trainer"/>
+<label key="key:620759132:229802005" value="Burglar Trainer"/>
+<label key="key:620759135:229802005" value="Burglar Trainer"/>
+<label key="key:620759138:229802005" value="Burglar Trainer"/>
+<label key="key:620759139:229802005" value="Burglar Trainer"/>
+<label key="key:620759140:229802005" value="Burglar Trainer"/>
+<label key="key:620759141:229802005" value="Burglar Trainer"/>
+<label key="key:620759146:229802005" value="Burglar Trainer"/>
+<label key="key:620759147:229802005" value="Burglar Trainer"/>
+<label key="key:620759320:229802005" value="Lore-master Trainer"/>
+<label key="key:620759344:229802005" value="Lore-master Trainer"/>
+<label key="key:620759345:229802005" value="Lore-master Trainer"/>
+<label key="key:620759346:229802005" value="Lore-master Trainer"/>
+<label key="key:620759374:229802005" value="Hunter Trainer"/>
+<label key="key:620759387:229802005" value="Hunter Trainer"/>
+<label key="key:620759388:229802005" value="Hunter Trainer"/>
+<label key="key:620759680:229802005" value="Minstrel Trainer"/>
+<label key="key:620759695:229802005" value="Minstrel Trainer"/>
+<label key="key:620759696:229802005" value="Minstrel Trainer"/>
+<label key="key:620759697:229802005" value="Minstrel Trainer"/>
+<label key="key:620759699:229802005" value="Minstrel Trainer"/>
+<label key="key:620759700:229802005" value="Minstrel Trainer"/>
+<label key="key:620759701:229802005" value="Minstrel Trainer"/>
+<label key="key:620759702:229802005" value="Minstrel Trainer"/>
+<label key="key:620759703:229802005" value="Minstrel Trainer"/>
+<label key="key:620759704:229802005" value="Minstrel Trainer"/>
+<label key="key:620759711:229802005" value="Minstrel Trainer"/>
+<label key="key:620759712:229802005" value="Minstrel Trainer"/>
+<label key="key:620759715:229802005" value="Grocer"/>
+<label key="key:620759811:229802005" value="Captain Trainer"/>
+<label key="key:620759829:229802005" value="Captain Trainer"/>
+<label key="key:620759844:229802005" value="Captain Trainer"/>
+<label key="key:620759845:229802005" value="Captain Trainer"/>
+<label key="key:620759846:229802005" value="Captain Trainer"/>
+<label key="key:620759847:229802005" value="Captain Trainer"/>
+<label key="key:620759848:229802005" value="Captain Trainer"/>
+<label key="key:620759849:229802005" value="Captain Trainer"/>
+<label key="key:620759850:229802005" value="Captain Trainer"/>
+<label key="key:620760834:229802005" value="Provisioner"/>
+<label key="key:620763065:229802005" value="Provisioner"/>
+<label key="key:620763113:229802005" value="Heavy Armoursmith"/>
+<label key="key:620764932:229802005" value="Champion Trainer"/>
+<label key="key:620764943:229802005" value="Champion Trainer"/>
+<label key="key:620764944:229802005" value="Champion Trainer"/>
+<label key="key:620764945:229802005" value="Champion Trainer"/>
+<label key="key:620764947:229802005" value="Champion Trainer"/>
+<label key="key:620764948:229802005" value="Champion Trainer"/>
+<label key="key:620764949:229802005" value="Champion Trainer"/>
+<label key="key:620764950:229802005" value="Champion Trainer"/>
+<label key="key:620764951:229802005" value="Champion Trainer"/>
+<label key="key:620764952:229802005" value="Champion Trainer"/>
+<label key="key:620764953:229802005" value="Champion Trainer"/>
+<label key="key:620764963:229802005" value="Champion Trainer"/>
+<label key="key:620765023:229802005" value="Supplier"/>
+<label key="key:620765119:229802005" value="Hunter Trainer"/>
+<label key="key:620765124:229802005" value="Hunter Trainer"/>
+<label key="key:620765125:229802005" value="Hunter Trainer"/>
+<label key="key:620765126:229802005" value="Hunter Trainer"/>
+<label key="key:620765127:229802005" value="Hunter Trainer"/>
+<label key="key:620765128:229802005" value="Hunter Trainer"/>
+<label key="key:620765129:229802005" value="Hunter Trainer"/>
+<label key="key:620765130:229802005" value="Hunter Trainer"/>
+<label key="key:620765131:229802005" value="Hunter Trainer"/>
+<label key="key:620765157:229802005" value="Guardian Trainer"/>
+<label key="key:620765164:229802005" value="Guardian Trainer"/>
+<label key="key:620765165:229802005" value="Guardian Trainer"/>
+<label key="key:620765170:229802005" value="Guardian Trainer"/>
+<label key="key:620765173:229802005" value="Guardian Trainer"/>
+<label key="key:620765174:229802005" value="Guardian Trainer"/>
+<label key="key:620765175:229802005" value="Guardian Trainer"/>
+<label key="key:620765176:229802005" value="Guardian Trainer"/>
+<label key="key:620765177:229802005" value="Guardian Trainer"/>
+<label key="key:620765178:229802005" value="Guardian Trainer"/>
+<label key="key:620765241:229802005" value="Guardian Trainer"/>
+<label key="key:620765242:229802005" value="Guardian Trainer"/>
+<label key="key:620765257:229802005" value="Grocer"/>
+<label key="key:620765286:229802005" value="Lore-master Trainer"/>
+<label key="key:620765287:229802005" value="Lore-master Trainer"/>
+<label key="key:620765288:229802005" value="Lore-master Trainer"/>
+<label key="key:620765293:229802005" value="Grocer"/>
+<label key="key:620765301:229802005" value="Lore-master Trainer"/>
+<label key="key:620765302:229802005" value="Lore-master Trainer"/>
+<label key="key:620765303:229802005" value="Lore-master Trainer"/>
+<label key="key:620765314:229802005" value="Lore-master Trainer"/>
+<label key="key:620765315:229802005" value="Lore-master Trainer"/>
+<label key="key:620766116:229802005" value="Grocer"/>
+<label key="key:620766373:229802005" value="Respected Gardener"/>
+<label key="key:620766887:229802005" value="Tavern Keep"/>
+<label key="key:620766891:229802005" value="Healer"/>
+<label key="key:620766916:229802005" value="Expert Weaponcrafter"/>
+<label key="key:620766951:229802005" value="Expert Weaponcrafter"/>
+<label key="key:620766952:229802005" value="Expert Weaponcrafter"/>
+<label key="key:620766953:229802005" value="Expert Weaponcrafter"/>
+<label key="key:620766954:229802005" value="Expert Weaponcrafter"/>
+<label key="key:620766955:229802005" value="Expert Weaponcrafter"/>
+<label key="key:620766962:229802005" value="Novice Weaponcrafter"/>
+<label key="key:620767009:229802005" value="Novice Weaponcrafter"/>
+<label key="key:620767010:229802005" value="Novice Weaponcrafter"/>
+<label key="key:620767011:229802005" value="Novice Weaponcrafter"/>
+<label key="key:620767012:229802005" value="Novice Weaponcrafter"/>
+<label key="key:620767013:229802005" value="Novice Weaponcrafter"/>
+<label key="key:620767014:229802005" value="Novice Weaponcrafter"/>
+<label key="key:620767015:229802005" value="Novice Metalsmith"/>
+<label key="key:620767081:229802005" value="Novice Metalsmith"/>
+<label key="key:620767082:229802005" value="Novice Metalsmith"/>
+<label key="key:620767083:229802005" value="Novice Metalsmith"/>
+<label key="key:620767084:229802005" value="Novice Metalsmith"/>
+<label key="key:620767086:229802005" value="Novice Metalsmith"/>
+<label key="key:620767087:229802005" value="Novice Metalsmith"/>
+<label key="key:620767092:229802005" value="Expert Weaponcrafter"/>
+<label key="key:620767098:229802005" value="Tavern Keep"/>
+<label key="key:620767107:229802005" value="Expert Metalsmith"/>
+<label key="key:620767148:229802005" value="Expert Metalsmith"/>
+<label key="key:620767149:229802005" value="Expert Metalsmith"/>
+<label key="key:620767150:229802005" value="Expert Metalsmith"/>
+<label key="key:620767151:229802005" value="Expert Metalsmith"/>
+<label key="key:620767152:229802005" value="Expert Metalsmith"/>
+<label key="key:620767154:229802005" value="Expert Metalsmith"/>
+<label key="key:620767162:229802005" value="Historian"/>
+<label key="key:620767169:229802005" value="Historian"/>
+<label key="key:620767185:229802005" value="Novice Cook"/>
+<label key="key:620767189:229802005" value="Novice Cook"/>
+<label key="key:620767190:229802005" value="Novice Cook"/>
+<label key="key:620767191:229802005" value="Novice Cook"/>
+<label key="key:620767192:229802005" value="Novice Cook"/>
+<label key="key:620767193:229802005" value="Novice Cook"/>
+<label key="key:620767195:229802005" value="Novice Cook"/>
+<label key="key:620767205:229802005" value="Tavern Keep"/>
+<label key="key:620767212:229802005" value="Tavern Keep"/>
+<label key="key:620767220:229802005" value="Tavern Keep"/>
+<label key="key:620767266:229802005" value="Provisioner"/>
+<label key="key:620767343:229802005" value="Expert Scholar"/>
+<label key="key:620767365:229802005" value="Novice Jeweller"/>
+<label key="key:620767373:229802005" value="Novice Jeweller"/>
+<label key="key:620767374:229802005" value="Novice Jeweller"/>
+<label key="key:620767375:229802005" value="Novice Jeweller"/>
+<label key="key:620767376:229802005" value="Novice Jeweller"/>
+<label key="key:620767377:229802005" value="Novice Jeweller"/>
+<label key="key:620767382:229802005" value="Novice Jeweller"/>
+<label key="key:620767383:229802005" value="Novice Scholar"/>
+<label key="key:620767396:229802005" value="Novice Scholar"/>
+<label key="key:620767397:229802005" value="Novice Scholar"/>
+<label key="key:620767398:229802005" value="Novice Scholar"/>
+<label key="key:620767399:229802005" value="Novice Scholar"/>
+<label key="key:620767400:229802005" value="Novice Scholar"/>
+<label key="key:620767401:229802005" value="Novice Scholar"/>
+<label key="key:620767406:229802005" value="Expert Scholar"/>
+<label key="key:620767407:229802005" value="Expert Scholar"/>
+<label key="key:620767408:229802005" value="Expert Scholar"/>
+<label key="key:620767409:229802005" value="Expert Scholar"/>
+<label key="key:620767410:229802005" value="Expert Scholar"/>
+<label key="key:620767411:229802005" value="Expert Scholar"/>
+<label key="key:620767421:229802005" value="Expert Jeweller"/>
+<label key="key:620767423:229802005" value="Expert Jeweller"/>
+<label key="key:620767424:229802005" value="Expert Jeweller"/>
+<label key="key:620767425:229802005" value="Expert Jeweller"/>
+<label key="key:620767426:229802005" value="Expert Jeweller"/>
+<label key="key:620767427:229802005" value="Expert Jeweller"/>
+<label key="key:620767428:229802005" value="Expert Jeweller"/>
+<label key="key:620767502:229802005" value="Grocer"/>
+<label key="key:620767519:229802005" value="Heavy Armoursmith"/>
+<label key="key:620767570:229802005" value="Novice Woodworker"/>
+<label key="key:620767618:229802005" value="Novice Tailor"/>
+<label key="key:620767696:229802005" value="Novice Tailor"/>
+<label key="key:620767697:229802005" value="Novice Tailor"/>
+<label key="key:620767698:229802005" value="Novice Tailor"/>
+<label key="key:620767699:229802005" value="Novice Tailor"/>
+<label key="key:620767703:229802005" value="Novice Tailor"/>
+<label key="key:620767705:229802005" value="Novice Tailor"/>
+<label key="key:620767706:229802005" value="Novice Woodworker"/>
+<label key="key:620767710:229802005" value="Novice Woodworker"/>
+<label key="key:620767711:229802005" value="Novice Woodworker"/>
+<label key="key:620767712:229802005" value="Novice Woodworker"/>
+<label key="key:620767713:229802005" value="Novice Woodworker"/>
+<label key="key:620767714:229802005" value="Novice Woodworker"/>
+<label key="key:620767721:229802005" value="Master of Apprentices"/>
+<label key="key:620767899:229802005" value="Mistress of Apprentices"/>
+<label key="key:620767900:229802005" value="Master of Apprenticess"/>
+<label key="key:620767901:229802005" value="Mistress of Apprentices"/>
+<label key="key:620767902:229802005" value="Master of Apprentices"/>
+<label key="key:620767903:229802005" value="Master of Apprentices"/>
+<label key="key:620767904:229802005" value="Mistress of Apprentices"/>
+<label key="key:620767923:229802005" value="Expert Cook"/>
+<label key="key:620767924:229802005" value="Expert Cook"/>
+<label key="key:620767925:229802005" value="Expert Cook"/>
+<label key="key:620767926:229802005" value="Expert Cook"/>
+<label key="key:620767927:229802005" value="Expert Tailor"/>
+<label key="key:620767928:229802005" value="Expert Tailor"/>
+<label key="key:620767929:229802005" value="Expert Tailor"/>
+<label key="key:620767930:229802005" value="Expert Tailor"/>
+<label key="key:620767931:229802005" value="Expert Woodworker"/>
+<label key="key:620767932:229802005" value="Expert Woodworker"/>
+<label key="key:620767933:229802005" value="Expert Woodworker"/>
+<label key="key:620767934:229802005" value="Expert Woodworker"/>
+<label key="key:620767942:229802005" value="Novice Farmhand"/>
+<label key="key:620767943:229802005" value="Expert Farmhand"/>
+<label key="key:620767947:229802005" value="Bowyer"/>
+<label key="key:620767948:229802005" value="Heavy Armoursmith"/>
+<label key="key:620767949:229802005" value="Light Armoursmith"/>
+<label key="key:620767950:229802005" value="Medium Armoursmith"/>
+<label key="key:620767951:229802005" value="Pole Turner"/>
+<label key="key:620767952:229802005" value="One-handed Weaponsmith"/>
+<label key="key:620767953:229802005" value="Two-handed Weaponsmith"/>
+<label key="key:620767954:229802005" value="Bowyer"/>
+<label key="key:620767955:229802005" value="Provisioner"/>
+<label key="key:620767956:229802005" value="Weaponsmith"/>
+<label key="key:620767957:229802005" value="Provisioner"/>
+<label key="key:620767958:229802005" value="Bowyer"/>
+<label key="key:620767959:229802005" value="Light Armoursmith"/>
+<label key="key:620767960:229802005" value="Bowyer"/>
+<label key="key:620767962:229802005" value="Weapon Trader"/>
+<label key="key:620767963:229802005" value="Bowyer"/>
+<label key="key:620767964:229802005" value="Bowyer"/>
+<label key="key:620767966:229802005" value="Heavy Armoursmith"/>
+<label key="key:620767967:229802005" value="Light Armoursmith"/>
+<label key="key:620767968:229802005" value="Light Armoursmith"/>
+<label key="key:620767969:229802005" value="Light Armoursmith"/>
+<label key="key:620767970:229802005" value="Medium Armoursmith"/>
+<label key="key:620767971:229802005" value="Medium Armoursmith"/>
+<label key="key:620767972:229802005" value="Medium Armoursmith"/>
+<label key="key:620767975:229802005" value="One-handed Weaponsmith"/>
+<label key="key:620767976:229802005" value="One-handed Weaponsmith"/>
+<label key="key:620767977:229802005" value="One-handed Weaponsmith"/>
+<label key="key:620767980:229802005" value="Two-handed Weaponsmith"/>
+<label key="key:620767981:229802005" value="Two-handed Weaponsmith"/>
+<label key="key:620767982:229802005" value="Two-handed Weaponsmith"/>
+<label key="key:620767991:229802005" value="Bowyer"/>
+<label key="key:620767992:229802005" value="Light Armoursmith"/>
+<label key="key:620767993:229802005" value="Weaponsmith"/>
+<label key="key:620767994:229802005" value="Bowyer"/>
+<label key="key:620767995:229802005" value="Light Armoursmith"/>
+<label key="key:620767996:229802005" value="Medium Armoursmith"/>
+<label key="key:620767997:229802005" value="One-handed Weaponsmith"/>
+<label key="key:620767998:229802005" value="Two-handed Weaponsmith"/>
+<label key="key:620767999:229802005" value="Bowyer"/>
+<label key="key:620768000:229802005" value="Light Armoursmith"/>
+<label key="key:620768001:229802005" value="Medium Armoursmith"/>
+<label key="key:620768002:229802005" value="One-handed Weaponsmith"/>
+<label key="key:620768003:229802005" value="Two-handed Weaponsmith"/>
+<label key="key:620768004:229802005" value="Bowyer"/>
+<label key="key:620768005:229802005" value="Bowyer"/>
+<label key="key:620768006:229802005" value="Heavy Armoursmith"/>
+<label key="key:620768007:229802005" value="Heavy Armoursmith"/>
+<label key="key:620768008:229802005" value="Light Armoursmith"/>
+<label key="key:620768009:229802005" value="Light Armoursmith"/>
+<label key="key:620768010:229802005" value="Light Armoursmith"/>
+<label key="key:620768011:229802005" value="Medium Armoursmith"/>
+<label key="key:620768012:229802005" value="Medium Armoursmith"/>
+<label key="key:620768013:229802005" value="Medium Armoursmith"/>
+<label key="key:620768014:229802005" value="Bowyer"/>
+<label key="key:620768015:229802005" value="Light Armoursmith"/>
+<label key="key:620768016:229802005" value="Weaponsmith"/>
+<label key="key:620768019:229802005" value="One-handed Weaponsmith"/>
+<label key="key:620768020:229802005" value="One-handed Weaponsmith"/>
+<label key="key:620768021:229802005" value="One-handed Weaponsmith"/>
+<label key="key:620768022:229802005" value="One-handed Weaponsmith"/>
+<label key="key:620768023:229802005" value="Two-handed Weaponsmith"/>
+<label key="key:620768024:229802005" value="Two-handed Weaponsmith"/>
+<label key="key:620768025:229802005" value="Two-handed Weaponsmith"/>
+<label key="key:620768026:229802005" value="Two-handed Weaponsmith"/>
+<label key="key:620768027:229802005" value="Bowyer"/>
+<label key="key:620768028:229802005" value="Light Armoursmith"/>
+<label key="key:620768029:229802005" value="Medium Armoursmith"/>
+<label key="key:620768030:229802005" value="One-handed Weaponsmith"/>
+<label key="key:620768031:229802005" value="Two-handed Weaponsmith"/>
+<label key="key:620768032:229802005" value="Bowyer"/>
+<label key="key:620768033:229802005" value="Light Armoursmith"/>
+<label key="key:620768034:229802005" value="Medium Armoursmith"/>
+<label key="key:620768036:229802005" value="One-handed Weaponsmith"/>
+<label key="key:620768037:229802005" value="Two-handed Weaponsmith"/>
+<label key="key:620768038:229802005" value="Bowyer"/>
+<label key="key:620768040:229802005" value="Light Armoursmith"/>
+<label key="key:620768042:229802005" value="Medium Armoursmith"/>
+<label key="key:620768043:229802005" value="Medium Armoursmith"/>
+<label key="key:620768046:229802005" value="One-handed Weaponsmith"/>
+<label key="key:620768048:229802005" value="Two-handed Weaponsmith"/>
+<label key="key:620768050:229802005" value="Provisioner"/>
+<label key="key:620768054:229802005" value="Bowyer"/>
+<label key="key:620768055:229802005" value="Light Armour Trader"/>
+<label key="key:620768056:229802005" value="Medium Armour Trader"/>
+<label key="key:620768057:229802005" value="One-handed Weapon Trader"/>
+<label key="key:620768058:229802005" value="Two-handed Weapon Trader"/>
+<label key="key:620768062:229802005" value="Bowyer"/>
+<label key="key:620768063:229802005" value="Light Armour Trader"/>
+<label key="key:620768065:229802005" value="Medium Armour Trader"/>
+<label key="key:620768067:229802005" value="One-handed Weapon Trader"/>
+<label key="key:620768069:229802005" value="Two-handed Weapon Trader"/>
+<label key="key:620768070:229802005" value="Weapon Trader"/>
+<label key="key:620768085:229802005" value="Bowyer"/>
+<label key="key:620768086:229802005" value="Heavy Armoursmith"/>
+<label key="key:620768088:229802005" value="Light Armoursmith"/>
+<label key="key:620768090:229802005" value="Medium Armoursmith"/>
+<label key="key:620768092:229802005" value="Pole Turner"/>
+<label key="key:620768093:229802005" value="One-handed Weaponsmith"/>
+<label key="key:620768094:229802005" value="Two-handed Weaponsmith"/>
+<label key="key:620768095:229802005" value="Quartermaster"/>
+<label key="key:620768096:229802005" value="Medium Armoursmith"/>
+<label key="key:620768098:229802005" value="Bowyer"/>
+<label key="key:620768099:229802005" value="Heavy Armoursmith"/>
+<label key="key:620768100:229802005" value="Bowyer"/>
+<label key="key:620768101:229802005" value="Light Armour Trader"/>
+<label key="key:620768102:229802005" value="Medium Armour Trader"/>
+<label key="key:620768103:229802005" value="One-handed Weapon Trader"/>
+<label key="key:620768104:229802005" value="two-handed Weapon Trader"/>
+<label key="key:620768106:229802005" value="Bowyer"/>
+<label key="key:620768107:229802005" value="Light Armoursmith"/>
+<label key="key:620768108:229802005" value="Medium Armoursmith"/>
+<label key="key:620768109:229802005" value="One-handed Weaponsmith"/>
+<label key="key:620768110:229802005" value="Two-handed Weaponsmith"/>
+<label key="key:620768111:229802005" value="Bowyer"/>
+<label key="key:620768112:229802005" value="Light Armour Trader"/>
+<label key="key:620768113:229802005" value="Medium Armour Trader"/>
+<label key="key:620768114:229802005" value="One-handed Weapon Trader"/>
+<label key="key:620768115:229802005" value="Two-handed Weapon Trader"/>
+<label key="key:620768116:229802005" value="Medium Armoursmith"/>
+<label key="key:620768117:229802005" value="Bowyer"/>
+<label key="key:620768118:229802005" value="Bowyer"/>
+<label key="key:620768119:229802005" value="Bowyer"/>
+<label key="key:620768120:229802005" value="Heavy Armoursmith"/>
+<label key="key:620768121:229802005" value="Heavy Armoursmith"/>
+<label key="key:620768122:229802005" value="Light Armoursmith"/>
+<label key="key:620768123:229802005" value="Light Armoursmith"/>
+<label key="key:620768124:229802005" value="Medium Armoursmith"/>
+<label key="key:620768125:229802005" value="Medium Armoursmith"/>
+<label key="key:620768126:229802005" value="Medium Armoursmith"/>
+<label key="key:620768127:229802005" value="One-handed Weaponsmith"/>
+<label key="key:620768128:229802005" value="Two-handed Weaponsmith"/>
+<label key="key:620768129:229802005" value="Heavy Armoursmith"/>
+<label key="key:620768130:229802005" value="Heavy Armoursmith"/>
+<label key="key:620768138:229802005" value="Bowyer"/>
+<label key="key:620768139:229802005" value="Heavy Armoursmith"/>
+<label key="key:620768140:229802005" value="Light Armoursmith"/>
+<label key="key:620768141:229802005" value="Medium Armoursmith"/>
+<label key="key:620768142:229802005" value="One-handed Weaponsmith"/>
+<label key="key:620768143:229802005" value="Two-handed Weaponsmith"/>
+<label key="key:620768144:229802005" value="Bowyer"/>
+<label key="key:620768145:229802005" value="Light Armour Trader"/>
+<label key="key:620768146:229802005" value="Medium Armour Trader"/>
+<label key="key:620768147:229802005" value="One-handed Weapon Trader"/>
+<label key="key:620768148:229802005" value="Two-handed Weapon Trader"/>
+<label key="key:620768149:229802005" value="Bowyer"/>
+<label key="key:620768150:229802005" value="Light Armour Trader"/>
+<label key="key:620768151:229802005" value="Medium Armour Trader"/>
+<label key="key:620768152:229802005" value="One-handed Weapon Trader"/>
+<label key="key:620768153:229802005" value="Two-handed Weapon Trader"/>
+<label key="key:620768155:229802005" value="Provisioner"/>
+<label key="key:620768156:229802005" value="Bowyer"/>
+<label key="key:620768157:229802005" value="Bowyer"/>
+<label key="key:620768158:229802005" value="Heavy Armoursmith"/>
+<label key="key:620768159:229802005" value="Heavy Armoursmith"/>
+<label key="key:620768160:229802005" value="Light Armoursmith"/>
+<label key="key:620768161:229802005" value="Light Armoursmith"/>
+<label key="key:620768163:229802005" value="Medium Armoursmith"/>
+<label key="key:620768164:229802005" value="One-handed Weaponsmith"/>
+<label key="key:620768165:229802005" value="One-handed Weaponsmith"/>
+<label key="key:620768166:229802005" value="Two-handed Weaponsmith"/>
+<label key="key:620768167:229802005" value="Two-handed Weaponsmith"/>
+<label key="key:620768173:229802005" value="Grocer"/>
+<label key="key:620768178:229802005" value="Bowyer"/>
+<label key="key:620768179:229802005" value="Light Armoursmith"/>
+<label key="key:620768180:229802005" value="Medium Armoursmith"/>
+<label key="key:620768181:229802005" value="Weaponsmith"/>
+<label key="key:620768183:229802005" value="Mine Foreman"/>
+<label key="key:620768184:229802005" value="Grocer"/>
+<label key="key:620768194:229802005" value="Provisioner"/>
+<label key="key:620768195:229802005" value="Healer"/>
+<label key="key:620768204:229802005" value="Provisioner"/>
+<label key="key:620768205:229802005" value="Clerk of Kinships"/>
+<label key="key:620768206:229802005" value="Healer"/>
+<label key="key:620768209:229802005" value="Grocer"/>
+<label key="key:620768220:229802005" value="Provisioner"/>
+<label key="key:620768221:229802005" value="Expert Cook"/>
+<label key="key:620768224:229802005" value="Clerk of Kinships"/>
+<label key="key:620768225:229802005" value="Healer"/>
+<label key="key:620768238:229802005" value="Tavern Keep"/>
+<label key="key:620768247:229802005" value="Expert Woodworker"/>
+<label key="key:620768253:229802005" value="Leather Worker"/>
+<label key="key:620768258:229802005" value="Healer"/>
+<label key="key:620768262:229802005" value="Provisioner"/>
+<label key="key:620768263:229802005" value="Healer"/>
+<label key="key:620768264:229802005" value="Grocer"/>
+<label key="key:620768313:229802005" value="Grocer"/>
+<label key="key:620768337:229802005" value="Healer"/>
+<label key="key:620768363:229802005" value="Server"/>
+<label key="key:620768364:229802005" value="Horse-master"/>
+<label key="key:620768367:229802005" value="Grocer"/>
+<label key="key:620768369:229802005" value="Clerk of Kinships"/>
+<label key="key:620768383:229802005" value="Grocer"/>
+<label key="key:620768390:229802005" value="Clerk of Kinships"/>
+<label key="key:620768393:229802005" value="Provisioner"/>
+<label key="key:620768399:229802005" value="Supplier"/>
+<label key="key:620768413:229802005" value="Woodsman"/>
+<label key="key:620768431:229802005" value="Grocer"/>
+<label key="key:620768445:229802005" value="Supplier"/>
+<label key="key:620768450:229802005" value="Provisioner"/>
+<label key="key:620768451:229802005" value="Expert Tailor"/>
+<label key="key:620768452:229802005" value="Expert Woodworker"/>
+<label key="key:620768453:229802005" value="Healer"/>
+<label key="key:620768496:229802005" value="Healer"/>
+<label key="key:620768552:229802005" value="Supplier"/>
+<label key="key:620768563:229802005" value="Provisioner"/>
+<label key="key:620768574:229802005" value="Provisioner"/>
+<label key="key:620768586:229802005" value="Supplier"/>
+<label key="key:620768590:229802005" value="Clerk of Kinships"/>
+<label key="key:620768611:229802005" value="Tavern Keep"/>
+<label key="key:620768612:229802005" value="Clerk of Kinships"/>
+<label key="key:620768613:229802005" value="Healer"/>
+<label key="key:620768614:229802005" value="Healer"/>
+<label key="key:620768617:229802005" value="Healer"/>
+<label key="key:620768618:229802005" value="Expert Cook"/>
+<label key="key:620777552:229802005" value="Grocer"/>
+<label key="key:620777755:229802005" value="Expert Cook"/>
+<label key="key:620777757:229802005" value="Expert Tailor"/>
+<label key="key:620777758:229802005" value="Expert Tailor"/>
+<label key="key:620777759:229802005" value="Expert Woodworker"/>
+<label key="key:620777997:229802005" value="Bard of Michel Delving"/>
+<label key="key:620777998:229802005" value="Bard of Thorin's Hall"/>
+<label key="key:620777999:229802005" value="Bard of Bree"/>
+<label key="key:620778307:229802005" value="Stable-master"/>
+<label key="key:620778308:229802005" value="Stable-master"/>
+<label key="key:620778395:229802005" value="Bard of Celondim"/>
+<label key="key:620778397:229802005" value="Vault-keeper"/>
+<label key="key:620778422:229802005" value="Stable-master"/>
+<label key="key:620778423:229802005" value="Notary"/>
+<label key="key:620778445:229802005" value="Stable-master"/>
+<label key="key:620778480:229802005" value="Stable-master"/>
+<label key="key:620778485:229802005" value="Stable-master"/>
+<label key="key:620778499:229802005" value="Vault-keeper"/>
+<label key="key:620778500:229802005" value="Notary"/>
+<label key="key:620778605:229802005" value="Stable-master"/>
+<label key="key:620778664:229802005" value="Hide Worker"/>
+<label key="key:620778746:229802005" value="Stable-master"/>
+<label key="key:620778838:229802005" value="Stable-master"/>
+<label key="key:620778917:229802005" value="Stable-master"/>
+<label key="key:620779048:229802005" value="Lord of the Nazgûl"/>
+<label key="key:620779087:229802005" value="Stablehand"/>
+<label key="key:620779179:229802005" value="Vault-keeper"/>
+<label key="key:620779215:229802005" value="Notary"/>
+<label key="key:620779440:229802005" value="Stable-master"/>
+<label key="key:620779441:229802005" value="Bard of Combe"/>
+<label key="key:620779631:229802005" value="Woodsman"/>
+<label key="key:620779752:229802005" value="Stable-master"/>
+<label key="key:620779925:229802005" value="Stable-master"/>
+<label key="key:620780189:229802005" value="Stable-master"/>
+<label key="key:620780243:229802005" value="Stable-master"/>
+<label key="key:620780251:229802005" value="Bard of Rivendell"/>
+<label key="key:620780267:229802005" value="Vault-keeper"/>
+<label key="key:620780292:229802005" value="Auctioneer"/>
+<label key="key:620780357:229802005" value="Auctioneer"/>
+<label key="key:620780358:229802005" value="Auctioneer"/>
+<label key="key:620780359:229802005" value="Auctioneer"/>
+<label key="key:620780360:229802005" value="Auctioneer"/>
+<label key="key:620780432:229802005" value="Stable-master"/>
+<label key="key:620780507:229802005" value="Mine Worker"/>
+<label key="key:620780579:229802005" value="Stable-master"/>
+<label key="key:620780700:229802005" value="Cook"/>
+<label key="key:620780832:229802005" value="Stable-master"/>
+<label key="key:620780887:229802005" value="Stable-master"/>
+<label key="key:620781069:229802005" value="Stable-master"/>
+<label key="key:620781102:229802005" value="Stable-master"/>
+<label key="key:620781120:229802005" value="Bard of Esteldín"/>
+<label key="key:620781228:229802005" value="Stable-master"/>
+<label key="key:620781835:229802005" value="Monster Player Trainer"/>
+<label key="key:620781836:229802005" value="Corruptor of Dâr-gazag"/>
+<label key="key:620781843:229802005" value="Ongbûrz Taskmaster"/>
+<label key="key:620781889:229802005" value="Corruptor of Gramsfoot"/>
+<label key="key:620781890:229802005" value="Monster Player Trainer"/>
+<label key="key:620782134:229802005" value="Stable-master"/>
+<label key="key:620782267:229802005" value="Vault-keeper"/>
+<label key="key:620782270:229802005" value="Notary"/>
+<label key="key:620782579:229802005" value="Bard of Glân Vraig"/>
+<label key="key:620782795:229802005" value="Provisioner"/>
+<label key="key:620783042:229802005" value="Vault-keeper"/>
+<label key="key:620783043:229802005" value="Vault-keeper"/>
+<label key="key:620783084:229802005" value="Notary"/>
+<label key="key:620787844:229802005" value="Bard of Aughaire"/>
+<label key="key:620788018:229802005" value="Supplier"/>
+<label key="key:620788019:229802005" value="Tribal Scrivener"/>
+<label key="key:620789370:229802005" value="Supplier"/>
+<label key="key:620789371:229802005" value="Supplier"/>
+<label key="key:620789372:229802005" value="Supplier"/>
+<label key="key:620789373:229802005" value="Supplier"/>
+<label key="key:620789374:229802005" value="Supplier"/>
+<label key="key:620789375:229802005" value="Supplier"/>
+<label key="key:620789376:229802005" value="Supplier"/>
+<label key="key:620789377:229802005" value="Grocer"/>
+<label key="key:620789378:229802005" value="Supplier"/>
+<label key="key:620789379:229802005" value="Supplier"/>
+<label key="key:620789380:229802005" value="Supplier"/>
+<label key="key:620789381:229802005" value="Supplier"/>
+<label key="key:620789382:229802005" value="Supplier"/>
+<label key="key:620789383:229802005" value="Supplier"/>
+<label key="key:620789384:229802005" value="Supplier"/>
+<label key="key:620789391:229802005" value="Supplier"/>
+<label key="key:620789403:229802005" value="Healer"/>
+<label key="key:620789404:229802005" value="Provisioner"/>
+<label key="key:620789484:229802005" value="Bard of Gondamon"/>
+<label key="key:620789524:229802005" value="Bard of Ost Guruth"/>
+<label key="key:620789560:229802005" value="Armorsmith"/>
+<label key="key:620789902:229802005" value="Healer"/>
+<label key="key:620789903:229802005" value="Bowyer"/>
+<label key="key:620790128:229802005" value="Level-up Bestower"/>
+<label key="key:620790129:229802005" value="Level-up Bestower"/>
+<label key="key:620790130:229802005" value="Level-up Bestower"/>
+<label key="key:620790131:229802005" value="Level-up Bestower"/>
+<label key="key:620790172:229802005" value="Master of Apprentices"/>
+<label key="key:620790196:229802005" value="Tavern Keep"/>
+<label key="key:620790213:229802005" value="Arbiter"/>
+<label key="key:620790244:229802005" value="Inn League Member"/>
+<label key="key:620790245:229802005" value="Inn League Member"/>
+<label key="key:620790246:229802005" value="Inn League Member"/>
+<label key="key:620790247:229802005" value="Inn League Member"/>
+<label key="key:620790248:229802005" value="Inn League Member"/>
+<label key="key:620790250:229802005" value="Dance Leader"/>
+<label key="key:620790254:229802005" value="Fireworks Vendor"/>
+<label key="key:620790256:229802005" value="Summerdays Provisioner"/>
+<label key="key:620790258:229802005" value="Pipeweed Vendor"/>
+<label key="key:620790260:229802005" value="Fireworks Vendor"/>
+<label key="key:620790262:229802005" value="Summerfest Provisioner"/>
+<label key="key:620790263:229802005" value="Dance Leader"/>
+<label key="key:620790264:229802005" value="Pipeweed Vendor"/>
+<label key="key:620790266:229802005" value="Fireworks Vendor"/>
+<label key="key:620790268:229802005" value="Lithe Festival Provisioner"/>
+<label key="key:620790269:229802005" value="Travelling Farmer"/>
+<label key="key:620790270:229802005" value="Pipeweed Vendor"/>
+<label key="key:620790271:229802005" value="Dance Leader"/>
+<label key="key:620790272:229802005" value="Fireworks Vendor"/>
+<label key="key:620790274:229802005" value="Festival of Enedhin Provisioner"/>
+<label key="key:620790275:229802005" value="Flying Feathers Captain"/>
+<label key="key:620790276:229802005" value="Pipeweed Vendor"/>
+<label key="key:620790277:229802005" value="Steel Beaks Captain"/>
+<label key="key:620790278:229802005" value="Dance Leader"/>
+<label key="key:620790280:229802005" value="Inn League Member"/>
+<label key="key:620790281:229802005" value="Inn League Member"/>
+<label key="key:620790713:229802005" value="Stable-master"/>
+<label key="key:620790714:229802005" value="Stable-master"/>
+<label key="key:620790715:229802005" value="Stable-master"/>
+<label key="key:620790719:229802005" value="Field Services"/>
+<label key="key:620790907:229802005" value="Man of Mordor"/>
+<label key="key:620791151:229802005" value="Bard of Tinnudir"/>
+<label key="key:620791152:229802005" value="Bowyer"/>
+<label key="key:620791153:229802005" value="Grocer"/>
+<label key="key:620791154:229802005" value="Healer"/>
+<label key="key:620791155:229802005" value="Armour Trader"/>
+<label key="key:620791156:229802005" value="Weapon Trader"/>
+<label key="key:620791157:229802005" value="Tavern Keep"/>
+<label key="key:620791158:229802005" value="Grocer"/>
+<label key="key:620791159:229802005" value="Healer"/>
+<label key="key:620791160:229802005" value="Healer"/>
+<label key="key:620791161:229802005" value="Supplier"/>
+<label key="key:620791162:229802005" value="Supplier"/>
+<label key="key:620791163:229802005" value="Supplier"/>
+<label key="key:620791164:229802005" value="Bowyer"/>
+<label key="key:620791165:229802005" value="Heavy Armoursmith"/>
+<label key="key:620791166:229802005" value="Light Armoursmith"/>
+<label key="key:620791167:229802005" value="Medium Armoursmith"/>
+<label key="key:620791169:229802005" value="One-handed Weaponsmith"/>
+<label key="key:620791171:229802005" value="Captain Trainer"/>
+<label key="key:620791172:229802005" value="Champion Trainer"/>
+<label key="key:620791173:229802005" value="Guardian Trainer"/>
+<label key="key:620791174:229802005" value="Hunter Trainer"/>
+<label key="key:620791175:229802005" value="Lore-master Trainer"/>
+<label key="key:620791176:229802005" value="Minstrel Trainer"/>
+<label key="key:620791177:229802005" value="Burglar Trainer"/>
+<label key="key:620792009:229802005" value="Repair Station"/>
+<label key="key:620792010:229802005" value="Repair Station"/>
+<label key="key:620792622:229802005" value="Council of the North"/>
+<label key="key:620792624:229802005" value="Council of the North"/>
+<label key="key:620792635:229802005" value="Men of Bree"/>
+<label key="key:620792636:229802005" value="Thorin's Hall"/>
+<label key="key:620792637:229802005" value="Thorin's Hall"/>
+<label key="key:620792638:229802005" value="Thorin's Hall"/>
+<label key="key:620792639:229802005" value="Men of Bree"/>
+<label key="key:620792640:229802005" value="Men of Bree"/>
+<label key="key:620792885:229802005" value="Elves of Rivendell"/>
+<label key="key:620792887:229802005" value="Elves of Rivendell"/>
+<label key="key:620792993:229802005" value="Wardens of Annúminas"/>
+<label key="key:620792997:229802005" value="Wardens of Annúminas"/>
+<label key="key:620792998:229802005" value="Rangers of Esteldín"/>
+<label key="key:620792999:229802005" value="Rangers of Esteldín"/>
+<label key="key:620793133:229802005" value="Council of the North"/>
+<label key="key:620793134:229802005" value="Men of Bree"/>
+<label key="key:620793135:229802005" value="Thorin's Hall"/>
+<label key="key:620793136:229802005" value="Wardens of Annúminas"/>
+<label key="key:620793137:229802005" value="Rangers of Esteldín"/>
+<label key="key:620793138:229802005" value="Elves of Rivendell"/>
+<label key="key:620793139:229802005" value="The Mathom Society"/>
+<label key="key:620793596:229802005" value="Light Armour Trader"/>
+<label key="key:620793597:229802005" value="Heavy Armour Trader"/>
+<label key="key:620793598:229802005" value="Medium Armour Trader"/>
+<label key="key:620793624:229802005" value="The Mathom Society"/>
+<label key="key:620793626:229802005" value="The Mathom Society"/>
+<label key="key:620793627:229802005" value="The Mathom Society"/>
+<label key="key:620793892:229802005" value="Ship Captain"/>
+<label key="key:620793893:229802005" value="First Mate"/>
+<label key="key:620793894:229802005" value="Quartermaster"/>
+<label key="key:620793917:229802005" value="Supplier"/>
+<label key="key:620793918:229802005" value="Healer"/>
+<label key="key:620794047:229802005" value="Epic Bestower"/>
+<label key="key:620794660:229802005" value="Breaker of Oaths"/>
+<label key="key:620795821:229802005" value="Thorin's Gate Housing Broker"/>
+<label key="key:620795822:229802005" value="Duillond Housing Broker"/>
+<label key="key:620795823:229802005" value="Michel Delving Housing Broker"/>
+<label key="key:620795824:229802005" value="Breeland Housing Broker"/>
+<label key="key:620795904:229802005" value="Raid Gear Bestower"/>
+<label key="key:620795905:229802005" value="Monster Play Level-up Bestower"/>
+<label key="key:620795906:229802005" value="Racial Trait Bestower"/>
+<label key="key:620795907:229802005" value="Council of the North Level-up Bestower"/>
+<label key="key:620795908:229802005" value="Elves of Rivendell Level-up Bestower"/>
+<label key="key:620795909:229802005" value="Mathom Society Level-up Bestower"/>
+<label key="key:620795910:229802005" value="Men of Bree Level-up Bestower"/>
+<label key="key:620795911:229802005" value="Rangers of Esteldin Level-up Bestower"/>
+<label key="key:620795912:229802005" value="Thorin's Hall Level-up Bestower"/>
+<label key="key:620795913:229802005" value="Wardens of Annúminas Level-up Bestower"/>
+<label key="key:620795920:229802005" value="Provisioner"/>
+<label key="key:620796019:229802005" value="The Eldgang"/>
+<label key="key:620796020:229802005" value="The Eldgang"/>
+<label key="key:620796022:229802005" value="The Eldgang"/>
+<label key="key:620796026:229802005" value="Housing Furnisher"/>
+<label key="key:620796073:229802005" value="Healer"/>
+<label key="key:620796167:229802005" value="Allowance Bestower"/>
+<label key="key:620796381:229802005" value="Minstrel Trader"/>
+<label key="key:620796382:229802005" value="Burglar Trader"/>
+<label key="key:620796383:229802005" value="Captain Trader"/>
+<label key="key:620796384:229802005" value="Champion Trader"/>
+<label key="key:620796385:229802005" value="Consumable Trader"/>
+<label key="key:620796386:229802005" value="Guardian Trader"/>
+<label key="key:620796387:229802005" value="Hunter Trader"/>
+<label key="key:620796388:229802005" value="Odds and Ends Trader"/>
+<label key="key:620796389:229802005" value="Loremaster Trader"/>
+<label key="key:620796833:229802005" value="Weapon Mender"/>
+<label key="key:620796834:229802005" value="Consumable Trader"/>
+<label key="key:620796835:229802005" value="Conversion Trader"/>
+<label key="key:620796838:229802005" value="Games-master"/>
+<label key="key:620796839:229802005" value="Fall Festival Trader"/>
+<label key="key:620796840:229802005" value="Games-master"/>
+<label key="key:620796841:229802005" value="Fall Festival Trader"/>
+<label key="key:620796842:229802005" value="Games-master"/>
+<label key="key:620796843:229802005" value="Fall Festival Trader"/>
+<label key="key:620796845:229802005" value="Fall Festival Horse Trader"/>
+<label key="key:620796846:229802005" value="Games-master"/>
+<label key="key:620796847:229802005" value="Fall Festival Trader"/>
+<label key="key:620797290:229802005" value="Taxidermist"/>
+<label key="key:620797345:229802005" value="Harvest Provisioner"/>
+<label key="key:620797346:229802005" value="Harvest Provisioner"/>
+<label key="key:620797347:229802005" value="Harvest Provisioner"/>
+<label key="key:620797348:229802005" value="Harvest Provisioner"/>
+<label key="key:620799382:229802005" value="Housing Furnisher"/>
+<label key="key:620799383:229802005" value="Housing Furnisher"/>
+<label key="key:620799384:229802005" value="Housing Furnisher"/>
+<label key="key:620799509:229802005" value="Supplier &amp; Provisioner"/>
+<label key="key:620799510:229802005" value="Supplier &amp; Provisioner"/>
+<label key="key:620799511:229802005" value="Supplier &amp; Provisioner"/>
+<label key="key:620799512:229802005" value="Supplier &amp; Provisioner"/>
+<label key="key:620799658:229802005" value="Stablehand"/>
+<label key="key:620799678:229802005" value="Stablehand"/>
+<label key="key:620799713:229802005" value="Race-master"/>
+<label key="key:620799958:229802005" value="Healer"/>
+</labels>

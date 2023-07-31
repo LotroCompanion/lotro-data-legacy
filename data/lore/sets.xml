@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><sets>
-<set id="1879087805" name="Armour of the White Flame" level="30" description="Crafted by dwarf-masters of finely-tooled leather and hardened steel from the depths of the great mines beneath Ered Luin.">
+<set id="1879087805" name="Armour of the White Flame" level="30" description="key:620790392:54354734">
 <item id="1879087723" name="Gloves of the White Flame"/>
 <item id="1879087724" name="Shoes of the White Flame"/>
 <item id="1879087725" name="Leggings of the White Flame"/>
@@ -16,7 +16,7 @@
 <stat name="FATE" scaling="1879051158"/>
 </bonus>
 </set>
-<set id="1879087806" name="Armour of Remmirath" level="40" description="Crafted by Elf-masters to reflect the timlessness, strength, and brilliance of the great star clusters above.">
+<set id="1879087806" name="Armour of Remmirath" level="40" description="key:620790394:54354734">
 <item id="1879087729" name="Gloves of Remmirath"/>
 <item id="1879087730" name="Shoes of Remmirath"/>
 <item id="1879087731" name="Leggings of Remmirath"/>
@@ -33,7 +33,7 @@
 <stat name="WILL" scaling="1879049917"/>
 </bonus>
 </set>
-<set id="1879087807" name="Armour of the West-lands" level="50" description="Crafted of the highest quality leather, worked to great strength by the mysterious Rangers of the North.">
+<set id="1879087807" name="Armour of the West-lands" level="50" description="key:620790396:54354734">
 <item id="1879087717" name="Gloves of the West-lands"/>
 <item id="1879087718" name="Shoes of the West-lands"/>
 <item id="1879087719" name="Leggings of the West-lands"/>
@@ -50,7 +50,7 @@
 <stat name="Mood_Healing_Modifier" scaling="1879062213"/>
 </bonus>
 </set>
-<set id="1879087808" name="Armour of the Dwarf-hoard" level="30" description="Ancient armour of legendary dwarf-make, said to have been kept in the dragon-hoard of Nargothrond in ages past.">
+<set id="1879087808" name="Armour of the Dwarf-hoard" level="30" description="key:620790398:54354734">
 <item id="1879087741" name="Gauntlets of the Dwarf-hoard"/>
 <item id="1879087742" name="Boots of the Dwarf-hoard"/>
 <item id="1879087743" name="Leggings of the Dwarf-hoard"/>
@@ -67,7 +67,7 @@
 <stat name="Resist_Additional_Resistance_Wound" scaling="1879051148"/>
 </bonus>
 </set>
-<set id="1879087809" name="Armour of Celebrant" level="40" description="Gleaming armour of Elf-make, forged long ago in the lands of the mighty river flowing from darkest Fangorn.">
+<set id="1879087809" name="Armour of Celebrant" level="40" description="key:620790400:54354734">
 <item id="1879087747" name="Gauntlets of Celebrant"/>
 <item id="1879087748" name="Boots of Celebrant"/>
 <item id="1879087749" name="Leggings of Celebrant"/>
@@ -84,7 +84,7 @@
 <stat name="Mood_Healing_Modifier" scaling="1879062213"/>
 </bonus>
 </set>
-<set id="1879087810" name="Armour of the Sun-lands" level="50" description="Finely-tooled armour crafted long ago by the proud Horse-lords of Rohan.">
+<set id="1879087810" name="Armour of the Sun-lands" level="50" description="key:620790401:54354734">
 <item id="1879087735" name="Gauntlets of the Sun-lands"/>
 <item id="1879087736" name="Boots of the Sun-lands"/>
 <item id="1879087737" name="Leggings of the Sun-lands"/>
@@ -101,7 +101,7 @@
 <stat name="MORALE" scaling="1879051225"/>
 </bonus>
 </set>
-<set id="1879087811" name="Armour of the Seven Fathers" level="30" description="Glorious armour of dwarf-make, finely-crafted in the name of the legendary dwarf-lords of ages long past.">
+<set id="1879087811" name="Armour of the Seven Fathers" level="30" description="key:620790402:54354734">
 <item id="1879087759" name="Gauntlets of the Seven Fathers"/>
 <item id="1879087760" name="Boots of the Seven Fathers"/>
 <item id="1879087761" name="Leggings of the Seven Fathers"/>
@@ -118,7 +118,7 @@
 <stat name="MIGHT" scaling="1879051150"/>
 </bonus>
 </set>
-<set id="1879087812" name="Armour of Orod-na-Thôn" level="40" description="Armour of ancient Elf-make, forged in the dark forests beneath the distant Mountain of Pine.">
+<set id="1879087812" name="Armour of Orod-na-Thôn" level="40" description="key:620790403:54354734">
 <item id="1879087765" name="Gauntlets of Orod-na-Thôn"/>
 <item id="1879087766" name="Boots of Orod-na-Thôn"/>
 <item id="1879087767" name="Leggings of Orod-na-Thôn"/>
@@ -135,7 +135,7 @@
 <stat name="Resist_Additional_Resistance_Fear" scaling="1879051220"/>
 </bonus>
 </set>
-<set id="1879087813" name="Armour of the North-drake" level="50" description="Forged long ago by master-craftsmen of Arnor, finely crafted armour of the great strength and deadly beauty of the ancient dragons of legend.">
+<set id="1879087813" name="Armour of the North-drake" level="50" description="key:620790404:54354734">
 <item id="1879087753" name="Gauntlets of the North-drake"/>
 <item id="1879087754" name="Boots of the North-drake"/>
 <item id="1879087755" name="Leggings of the North-drake"/>
@@ -152,7 +152,7 @@
 <stat name="POWER" scaling="1879051152"/>
 </bonus>
 </set>
-<set id="1879087814" name="Beast-master Armour" level="50" description="This fine armour represents the ancient wisdom of the Elves and pieces of it portray their departure into the West.">
+<set id="1879087814" name="Beast-master Armour" level="50" description="key:620790405:54354734">
 <item id="1879074231" name="Beast-master Gloves"/>
 <item id="1879074210" name="Beast-master Boots"/>
 <item id="1879066438" name="Beast-master Leggings"/>
@@ -163,13 +163,13 @@
 <stat name="WILL" scaling="1879049503"/>
 </bonus>
 <bonus nbItems="4">
-<stat name="Skill_RecoveryTime_Loremaster_TestofWill" descriptionOverride="Test of Will recovery time reduced by 15 seconds" constant="-15.0"/>
+<stat name="Skill_RecoveryTime_Loremaster_TestofWill" descriptionOverride="key:620790405:108054836" constant="-15.0"/>
 </bonus>
 <bonus nbItems="6">
-<stat name="Skill_ResistanceChance_Loremaster_BlindingFlash" descriptionOverride="Chance to resist your Blinding Flash is reduced by 5%" scaling="1879089017"/>
+<stat name="Skill_ResistanceChance_Loremaster_BlindingFlash" descriptionOverride="key:620790405:108054838" scaling="1879089017"/>
 </bonus>
 </set>
-<set id="1879087815" name="Silver-voice Armour" level="50" description="This armour, studded with beryls, known also as Elf-stones, is a fine set, crafted by the Elves for a minstrel of great renown.">
+<set id="1879087815" name="Silver-voice Armour" level="50" description="key:620790390:54354734">
 <item id="1879074593" name="Silver-voice Gloves"/>
 <item id="1879074769" name="Silver-voice Boots"/>
 <item id="1879066442" name="Silver-voice Leggings"/>
@@ -180,13 +180,13 @@
 <stat name="FATE" scaling="1879049801"/>
 </bonus>
 <bonus nbItems="4">
-<stat name="BALLAD_AND_CODA_DAMAGE_PERCENTAGE" descriptionOverride="+5% Ballad Damage" scaling="1879089018"/>
+<stat name="BALLAD_AND_CODA_DAMAGE_PERCENTAGE" descriptionOverride="key:620790390:108054836" scaling="1879089018"/>
 </bonus>
 <bonus nbItems="6">
-<stat name="Skill_HealingMultiplier_Item" descriptionOverride="+5% Healing Output" scaling="1879089140"/>
+<stat name="Skill_HealingMultiplier_Item" descriptionOverride="key:620790390:108054838" scaling="1879089140"/>
 </bonus>
 </set>
-<set id="1879087816" name="Armour of the Aurochs" level="50" description="This fine armour was crafted from aurochs hides taken from the great aurochs of the North Downs in tribute to the mighty hunters who acquired the hides.">
+<set id="1879087816" name="Armour of the Aurochs" level="50" description="key:620790391:54354734">
 <item id="1879074700" name="Gloves of the Aurochs"/>
 <item id="1879074495" name="Boots of the Aurochs"/>
 <item id="1879066446" name="Leggings of the Aurochs"/>
@@ -197,13 +197,13 @@
 <stat name="AGILITY" scaling="1879049909"/>
 </bonus>
 <bonus nbItems="4">
-<stat name="Skill_RecoveryTime_Item_Swiftbow" descriptionOverride="Swift Bow recovery time reduced by 2 seconds" constant="-2.0"/>
+<stat name="Skill_RecoveryTime_Item_Swiftbow" descriptionOverride="key:620790391:108054836" constant="-2.0"/>
 </bonus>
 <bonus nbItems="6">
-<stat name="Skill_RecoveryTime_Item_PenetratingShot" descriptionOverride="Penetrating Shot recovery time reduced by 1 second" scaling="1879089023"/>
+<stat name="Skill_RecoveryTime_Item_PenetratingShot" descriptionOverride="key:620790391:108054838" scaling="1879089023"/>
 </bonus>
 </set>
-<set id="1879087817" name="Shadow-stalker Armour" level="50" description="This armour was cobbled together by a famous burglar, who sought renown in more than just the burgling arts.">
+<set id="1879087817" name="Shadow-stalker Armour" level="50" description="key:620790393:54354734">
 <item id="1879074615" name="Shadow-stalker Gloves"/>
 <item id="1879074326" name="Shadow-stalker Boots"/>
 <item id="1879066450" name="Shadow-stalker Leggings"/>
@@ -217,10 +217,10 @@
 <stat name="STEALTH_LEVEL" scaling="1879052068"/>
 </bonus>
 <bonus nbItems="6">
-<stat name="Skill_DamageMultiplier_EpicSet_Stealth_Suprisestrike" descriptionOverride="+20% to Surprise Strike damage while behind target and in Stealth" constant="20.0"/>
+<stat name="Skill_DamageMultiplier_EpicSet_Stealth_Suprisestrike" descriptionOverride="key:620790393:108054838" constant="20.0"/>
 </bonus>
 </set>
-<set id="1879087818" name="War-captain's Armour" level="50" description="Every captain is known at a glance by his armour, and this set is perhaps one of the most recognizable you have seen. It seems Arnorian in origin.">
+<set id="1879087818" name="War-captain's Armour" level="50" description="key:620790395:54354734">
 <item id="1879074448" name="War-captain's Gloves"/>
 <item id="1879074768" name="War-captain's Boots"/>
 <item id="1879066454" name="War-captain's Leggings"/>
@@ -231,13 +231,13 @@
 <stat name="VITALITY" scaling="1879049943"/>
 </bonus>
 <bonus nbItems="4">
-<stat name="Skill_RecoveryTime_CrySkills" descriptionOverride="Defeat Event skills recovery time reduced by 15%" constant="-6.75"/>
+<stat name="Skill_RecoveryTime_CrySkills" descriptionOverride="key:620790395:108054836" constant="-6.75"/>
 </bonus>
 <bonus nbItems="6">
-<stat name="Skill_RecoveryTime_EscapefromDarkness" descriptionOverride="Escape from Darkness recovery time reduced by 5 minutes" constant="-300.0"/>
+<stat name="Skill_RecoveryTime_EscapefromDarkness" descriptionOverride="key:620790395:108054838" constant="-300.0"/>
 </bonus>
 </set>
-<set id="1879087819" name="High-protector's Armour" level="50" description="This armour was forged for a warrior of the Grey Mountains before the Dragons came. Whoever wore this would be proud to know that a brave heart such as yourself has found it.">
+<set id="1879087819" name="High-protector's Armour" level="50" description="key:620790397:54354734">
 <item id="1879074414" name="High-protector's Gloves"/>
 <item id="1879074360" name="High-protector's Boots"/>
 <item id="1879066458" name="High-protector's Leggings"/>
@@ -248,13 +248,13 @@
 <stat name="VITALITY" scaling="1879049943"/>
 </bonus>
 <bonus nbItems="4">
-<stat name="EpicSet_ResistanceChance_Guardian_Challenge" descriptionOverride="Chance to resist your Challenge is reduced by 5%" constant="-0.05"/>
+<stat name="EpicSet_ResistanceChance_Guardian_Challenge" descriptionOverride="key:620790397:108054836" constant="-0.05"/>
 </bonus>
 <bonus nbItems="6">
-<stat name="Skill_RecoveryTime_GuardianChallengeTheDarknessMod" descriptionOverride="Challenge The Darkness recovery time reduced by 25%" constant="-150.0"/>
+<stat name="Skill_RecoveryTime_GuardianChallengeTheDarknessMod" descriptionOverride="key:620790397:108054838" constant="-150.0"/>
 </bonus>
 </set>
-<set id="1879087820" name="Dragon-scale Armour" level="50" description="This armour was forged from the scales of Scatha the Worm, who was slain long ago by the great North-man Fram.">
+<set id="1879087820" name="Dragon-scale Armour" level="50" description="key:620790399:54354734">
 <item id="1879074447" name="Dragon-scale Gloves"/>
 <item id="1879074655" name="Dragon-scale Boots"/>
 <item id="1879066462" name="Dragon-scale Leggings"/>
@@ -265,13 +265,13 @@
 <stat name="MIGHT" scaling="1879049945"/>
 </bonus>
 <bonus nbItems="4">
-<stat name="BLADE_LINE_AOE_POWER_COST_PERCENTAGE" operator="SUBSTRACT" descriptionOverride="Reduces the Power cost of all AOE skills by 5%" scaling="1879089174"/>
+<stat name="BLADE_LINE_AOE_POWER_COST_PERCENTAGE" operator="SUBSTRACT" descriptionOverride="key:620790399:108054836" scaling="1879089174"/>
 </bonus>
 <bonus nbItems="6">
-<stat name="EpicSet_ChanceAvoid_BracingAttack" descriptionOverride="Chance to Block or Parry your Bracing Attack is reduced" constant="-350.0"/>
+<stat name="EpicSet_ChanceAvoid_BracingAttack" descriptionOverride="key:620790399:108054838" constant="-350.0"/>
 </bonus>
 </set>
-<set id="1879089944" name="Panthavron's Finery" level="36" description="Panthavron was a wealthy noble of Evendim, best known for throwing elaborate parties.">
+<set id="1879089944" name="Panthavron's Finery" level="36" description="key:620791776:54354734">
 <item id="1879089751" name="Panthavron's Bangle"/>
 <item id="1879089753" name="Panthavron's Gem"/>
 <item id="1879089755" name="Panthavron's Loop"/>
@@ -375,7 +375,7 @@
 <stat name="POWER" scaling="1879049946"/>
 </bonus>
 </set>
-<set id="1879092331" name="Warden of Annúminas" level="48" description="Renowned defenders of the tombs of Annúminas receive such gifts.">
+<set id="1879092331" name="Warden of Annúminas" level="48" description="key:620792890:54354734">
 <item id="1879092153" name="Warden's Earring"/>
 <item id="1879092143" name="Warden's Wrap"/>
 <item id="1879092158" name="Warden's Signet"/>
@@ -388,7 +388,7 @@
 <stat name="Combat_Agent_Armor_Value" constant="125.0"/>
 </bonus>
 </set>
-<set id="1879092332" name="Sage of the Council" level="48" description="The Council grants such prizes to their wisest tacticians.">
+<set id="1879092332" name="Sage of the Council" level="48" description="key:620792891:54354734">
 <item id="1879092162" name="Sage's Ring"/>
 <item id="1879092149" name="Sage's Wristlet"/>
 <item id="1879092157" name="Sage's Pendant"/>
@@ -401,7 +401,7 @@
 <stat name="CRITICAL_TACTICAL_PERCENTAGE" scaling="1879089130"/>
 </bonus>
 </set>
-<set id="1879092333" name="Healer of Rivendell" level="48" description="Potent healers in Rivendell can expect potent rewards.">
+<set id="1879092333" name="Healer of Rivendell" level="48" description="key:620792892:54354734">
 <item id="1879092146" name="Healer's Bracelet"/>
 <item id="1879092161" name="Healer's Ring"/>
 <item id="1879092159" name="Healer's Locket"/>
@@ -414,7 +414,7 @@
 <stat name="ThreatInputModifier_Healing" constant="-5.0"/>
 </bonus>
 </set>
-<set id="1879092334" name="Warrior of Rivendell" level="44" description="Powerful warriors in Rivendell can expect powerful rewards.">
+<set id="1879092334" name="Warrior of Rivendell" level="44" description="key:620792893:54354734">
 <item id="1879092148" name="Warrior's Bracer"/>
 <item id="1879092174" name="Warrior's Edge"/>
 <item id="1879092156" name="Warrior's Choker"/>
@@ -428,7 +428,7 @@
 <stat name="AGILITY" scaling="1879085573"/>
 </bonus>
 </set>
-<set id="1879092335" name="Archer of the Council" level="48" description="The Council grants such prizes to their greatest scouts.">
+<set id="1879092335" name="Archer of the Council" level="48" description="key:620792894:54354734">
 <item id="1879092171" name="Archer's Ally"/>
 <item id="1879092145" name="Archer's Cover"/>
 <item id="1879092147" name="Archer's Armlet"/>
@@ -438,7 +438,7 @@
 <stat name="AGILITY" scaling="1879049909"/>
 </bonus>
 <bonus nbItems="4">
-<stat name="Skill_ChanceEvade_RangedMod" operator="SUBSTRACT" descriptionOverride="Chance to Block or Evade your ranged attacks are reduced by 2%" constant="5.0"/>
+<stat name="Skill_ChanceEvade_RangedMod" operator="SUBSTRACT" descriptionOverride="key:620792894:108054836" constant="5.0"/>
 </bonus>
 </set>
 <set id="1879093385" name="Accoutrements of the Sluggard" level="43" description="">
@@ -453,7 +453,7 @@
 <stat name="MORALE" scaling="1879049941"/>
 </bonus>
 </set>
-<set id="1879093480" name="Accessories of a Ranger" level="42" description="The destiny of the Rangers can almost be felt.">
+<set id="1879093480" name="Accessories of a Ranger" level="42" description="key:620793628:54354734">
 <item id="1879092154" name="Manadloch"/>
 <item id="1879092160" name="Stories of the Rangers"/>
 <item id="1879092144" name="Manadhgol"/>
@@ -465,7 +465,7 @@
 <stat name="WILL" scaling="1879049503"/>
 </bonus>
 </set>
-<set id="1879094708" name="Elder Days Armour" level="50" description="This armour was granted as a reward for defending Eriador from the terror of Nûrz Gâshu.">
+<set id="1879094708" name="Elder Days Armour" level="50" description="key:620794539:54354734">
 <item id="1879094666" name="Gloves of the Elder Days"/>
 <item id="1879094667" name="Boots of the Elder Days"/>
 <item id="1879094668" name="Leggings of the Elder Days"/>
@@ -473,19 +473,19 @@
 <item id="1879094670" name="Shoulders of the Elder Days"/>
 <item id="1879094671" name="Hat of the Elder Days"/>
 <bonus nbItems="2">
-<stat name="Skill_RiftSet_Absorb_Shadow" descriptionOverride="3% Disperse Shadow Chance" constant="2.0"/>
+<stat name="Skill_RiftSet_Absorb_Shadow" descriptionOverride="key:620794539:108054834" constant="2.0"/>
 <stat name="WILL" scaling="1879049503"/>
 </bonus>
 <bonus nbItems="4">
-<stat name="Skill_RiftSet_Absorb_Shadow" descriptionOverride="10% Disperse Shadow Chance" constant="7.0"/>
-<stat name="Skill_PowerCost_Stormlore" descriptionOverride="-50% Storm-lore Power Cost" constant="-50.0"/>
+<stat name="Skill_RiftSet_Absorb_Shadow" descriptionOverride="key:620794539:108054836" constant="7.0"/>
+<stat name="Skill_PowerCost_Stormlore" descriptionOverride="key:620794539:108120372" constant="-50.0"/>
 </bonus>
 <bonus nbItems="6">
-<stat name="Skill_RiftSet_Absorb_Shadow" descriptionOverride="25% Disperse Shadow Chance" constant="15.000001"/>
-<stat name="Skill_LightningBurst_LoreMaster_RecoveryTime" descriptionOverride="-20% Lightning Burst Recovery Time" constant="-60.0"/>
+<stat name="Skill_RiftSet_Absorb_Shadow" descriptionOverride="key:620794539:108054838" constant="15.000001"/>
+<stat name="Skill_LightningBurst_LoreMaster_RecoveryTime" descriptionOverride="key:620794539:108120374" constant="-60.0"/>
 </bonus>
 </set>
-<set id="1879094709" name="Armour of the Wandering Bard" level="50" description="This armour was granted as a reward for defending Eriador from the terror of Nûrz Gâshu.">
+<set id="1879094709" name="Armour of the Wandering Bard" level="50" description="key:620794546:54354734">
 <item id="1879094672" name="Wandering Bard's Gloves"/>
 <item id="1879094673" name="Wandering Bard's Boots"/>
 <item id="1879094674" name="Wandering Bard's Leggings"/>
@@ -493,18 +493,18 @@
 <item id="1879094676" name="Wandering Bard's Shoulders"/>
 <item id="1879094677" name="Wandering Bard's Helm"/>
 <bonus nbItems="2">
-<stat name="Skill_RiftSet_Absorb_Shadow" descriptionOverride="3% Disperse Shadow Chance" constant="2.0"/>
+<stat name="Skill_RiftSet_Absorb_Shadow" descriptionOverride="key:620794546:108054834" constant="2.0"/>
 <stat name="FATE" scaling="1879049801"/>
 </bonus>
 <bonus nbItems="4">
-<stat name="Skill_RiftSet_Absorb_Shadow" descriptionOverride="10% Disperse Shadow Chance" constant="7.0"/>
-<stat name="Skill_TriumphantSpirit_Minstrel_Threat" descriptionOverride="Triumphant Spirit generates less threat." constant="-50000.0"/>
+<stat name="Skill_RiftSet_Absorb_Shadow" descriptionOverride="key:620794546:108054836" constant="7.0"/>
+<stat name="Skill_TriumphantSpirit_Minstrel_Threat" descriptionOverride="key:620794546:108120372" constant="-50000.0"/>
 </bonus>
 <bonus nbItems="6">
-<stat name="Skill_RiftSet_Absorb_Shadow" descriptionOverride="25% Disperse Shadow Chance" constant="15.000001"/>
+<stat name="Skill_RiftSet_Absorb_Shadow" descriptionOverride="key:620794546:108054838" constant="15.000001"/>
 </bonus>
 </set>
-<set id="1879094710" name="Doom-hunter's Armour" level="50" description="This armour was granted as a reward for defending Eriador from the terror of Nûrz Gâshu.">
+<set id="1879094710" name="Doom-hunter's Armour" level="50" description="key:620794553:54354734">
 <item id="1879094678" name="Doom-hunter's Gloves"/>
 <item id="1879094679" name="Doom-hunter's Boots"/>
 <item id="1879094680" name="Doom-hunter's Leggings"/>
@@ -512,19 +512,19 @@
 <item id="1879094682" name="Doom-hunter's Shoulders"/>
 <item id="1879094683" name="Doom-hunter's Helm"/>
 <bonus nbItems="2">
-<stat name="Skill_RiftSet_Absorb_Shadow" descriptionOverride="3% Disperse Shadow Chance" constant="2.0"/>
+<stat name="Skill_RiftSet_Absorb_Shadow" descriptionOverride="key:620794553:108054834" constant="2.0"/>
 <stat name="AGILITY" scaling="1879049909"/>
 </bonus>
 <bonus nbItems="4">
-<stat name="Skill_RiftSet_Absorb_Shadow" descriptionOverride="10% Disperse Shadow Chance" constant="7.0"/>
+<stat name="Skill_RiftSet_Absorb_Shadow" descriptionOverride="key:620794553:108054836" constant="7.0"/>
 <stat name="Skill_HeartSeeker_Hunter_PowerCost" constant="-50.0"/>
 </bonus>
 <bonus nbItems="6">
-<stat name="Skill_RiftSet_Absorb_Shadow" descriptionOverride="25% Disperse Shadow Chance" constant="15.000001"/>
+<stat name="Skill_RiftSet_Absorb_Shadow" descriptionOverride="key:620794553:108054838" constant="15.000001"/>
 <stat name="Skill_PenetratingShot_Hunter_PowerCost" constant="-18.0"/>
 </bonus>
 </set>
-<set id="1879094711" name="Thrill-seeker's Armour" level="50" description="This armour was granted as a reward for defending Eriador from the terror of Nûrz Gâshu.">
+<set id="1879094711" name="Thrill-seeker's Armour" level="50" description="key:620794560:54354734">
 <item id="1879094684" name="Thrill-seeker's Gloves"/>
 <item id="1879094685" name="Thrill-seeker's Boots"/>
 <item id="1879094686" name="Thrill-seeker's Leggings"/>
@@ -532,19 +532,19 @@
 <item id="1879094688" name="Thrill-seeker's Shoulders"/>
 <item id="1879094689" name="Thrill-seeker's Helm"/>
 <bonus nbItems="2">
-<stat name="Skill_RiftSet_Absorb_Shadow" descriptionOverride="3% Disperse Shadow Chance" constant="2.0"/>
+<stat name="Skill_RiftSet_Absorb_Shadow" descriptionOverride="key:620794560:108054834" constant="2.0"/>
 <stat name="AGILITY" scaling="1879049909"/>
 </bonus>
 <bonus nbItems="4">
-<stat name="Skill_RiftSet_Absorb_Shadow" descriptionOverride="10% Disperse Shadow Chance" constant="7.0"/>
+<stat name="Skill_RiftSet_Absorb_Shadow" descriptionOverride="key:620794560:108054836" constant="7.0"/>
 <stat name="TRICKS_POWER_COST_PERCENTAGE" constant="-50.0"/>
 </bonus>
 <bonus nbItems="6">
-<stat name="Skill_RiftSet_Absorb_Shadow" descriptionOverride="25% Disperse Shadow Chance" constant="15.000001"/>
+<stat name="Skill_RiftSet_Absorb_Shadow" descriptionOverride="key:620794560:108054838" constant="15.000001"/>
 <stat name="Skill_CunningStrike_Burglar_CriticalDamage" constant="25.0"/>
 </bonus>
 </set>
-<set id="1879094712" name="Armour of the North Star" level="50" description="This armour was granted as a reward for defending Eriador from the terror of Nûrz Gâshu.">
+<set id="1879094712" name="Armour of the North Star" level="50" description="key:620794563:54354734">
 <item id="1879094690" name="Gloves of the North Star"/>
 <item id="1879094691" name="Boots of the North Star"/>
 <item id="1879094692" name="Leggings of the North Star"/>
@@ -552,18 +552,18 @@
 <item id="1879094694" name="Shoulders of the North Star"/>
 <item id="1879094695" name="Helm of the North Star"/>
 <bonus nbItems="2">
-<stat name="Skill_RiftSet_Absorb_Shadow" descriptionOverride="3% Disperse Shadow Chance" constant="2.0"/>
+<stat name="Skill_RiftSet_Absorb_Shadow" descriptionOverride="key:620794563:108054834" constant="2.0"/>
 <stat name="MIGHT" scaling="1879049945"/>
 </bonus>
 <bonus nbItems="4">
-<stat name="Skill_RiftSet_Absorb_Shadow" descriptionOverride="10% Disperse Shadow Chance" constant="7.0"/>
-<stat name="Skill_RiftSet_InductionDuration_Captain_CombatRezz" operator="MULTIPLY" descriptionOverride="Escape from Darkness is instant-cast." constant="0.001"/>
+<stat name="Skill_RiftSet_Absorb_Shadow" descriptionOverride="key:620794563:108054836" constant="7.0"/>
+<stat name="Skill_RiftSet_InductionDuration_Captain_CombatRezz" operator="MULTIPLY" descriptionOverride="key:620794563:108120372" constant="0.001"/>
 </bonus>
 <bonus nbItems="6">
-<stat name="Skill_RiftSet_Absorb_Shadow" descriptionOverride="25% Disperse Shadow Chance" constant="15.000001"/>
+<stat name="Skill_RiftSet_Absorb_Shadow" descriptionOverride="key:620794563:108054838" constant="15.000001"/>
 </bonus>
 </set>
-<set id="1879094713" name="Rift-defender's Armour" level="50" description="This armour was granted as a reward for defending Eriador from the terror of Nûrz Gâshu.">
+<set id="1879094713" name="Rift-defender's Armour" level="50" description="key:620794564:54354734">
 <item id="1879094696" name="Rift-defender's Gloves"/>
 <item id="1879094697" name="Rift-defender's Boots"/>
 <item id="1879094698" name="Rift-defender's Leggings"/>
@@ -571,19 +571,19 @@
 <item id="1879094700" name="Rift-defender's Shoulders"/>
 <item id="1879094701" name="Rift-defender's Helm"/>
 <bonus nbItems="2">
-<stat name="Skill_RiftSet_Absorb_Shadow" descriptionOverride="3% Disperse Shadow Chance" constant="2.0"/>
+<stat name="Skill_RiftSet_Absorb_Shadow" descriptionOverride="key:620794564:108054834" constant="2.0"/>
 <stat name="VITALITY" scaling="1879049943"/>
 </bonus>
 <bonus nbItems="4">
-<stat name="Skill_RiftSet_Absorb_Shadow" descriptionOverride="10% Disperse Shadow Chance" constant="7.0"/>
-<stat name="Skill_CatchBreath_Guardian_PowerCost" descriptionOverride="-15% Catch a Breath Power Cost" constant="-15.000001"/>
+<stat name="Skill_RiftSet_Absorb_Shadow" descriptionOverride="key:620794564:108054836" constant="7.0"/>
+<stat name="Skill_CatchBreath_Guardian_PowerCost" descriptionOverride="key:620794564:108120372" constant="-15.000001"/>
 </bonus>
 <bonus nbItems="6">
-<stat name="Skill_RiftSet_Absorb_Shadow" descriptionOverride="25% Disperse Shadow Chance" constant="15.000001"/>
-<stat name="Skill_RecoveryTime_Trait_Guardian_improvedthrill" descriptionOverride="-20% Thrill of Danger Recovery Time" constant="-84.0"/>
+<stat name="Skill_RiftSet_Absorb_Shadow" descriptionOverride="key:620794564:108054838" constant="15.000001"/>
+<stat name="Skill_RecoveryTime_Trait_Guardian_improvedthrill" descriptionOverride="key:620794564:108120374" constant="-84.0"/>
 </bonus>
 </set>
-<set id="1879094714" name="Armour of the Gloom-bane" level="50" description="This armour was granted as a reward for defending Eriador from the terror of Nûrz Gâshu.">
+<set id="1879094714" name="Armour of the Gloom-bane" level="50" description="key:620794565:54354734">
 <item id="1879094702" name="Gloves of the Gloom-bane"/>
 <item id="1879094703" name="Boots of the Gloom-bane"/>
 <item id="1879094704" name="Leggings of the Gloom-bane"/>
@@ -591,16 +591,16 @@
 <item id="1879094706" name="Shoulders of the Gloom-bane"/>
 <item id="1879094707" name="Helm of the Gloom-bane"/>
 <bonus nbItems="2">
-<stat name="Skill_RiftSet_Absorb_Shadow" descriptionOverride="3% Disperse Shadow Chance" constant="2.0"/>
+<stat name="Skill_RiftSet_Absorb_Shadow" descriptionOverride="key:620794565:108054834" constant="2.0"/>
 <stat name="MIGHT" scaling="1879049945"/>
 </bonus>
 <bonus nbItems="4">
-<stat name="Skill_RiftSet_Absorb_Shadow" descriptionOverride="10% Disperse Shadow Chance" constant="7.0"/>
-<stat name="Skill_Glory_Champion_Threat" descriptionOverride="+10% Glory Threat" constant="10.0"/>
+<stat name="Skill_RiftSet_Absorb_Shadow" descriptionOverride="key:620794565:108054836" constant="7.0"/>
+<stat name="Skill_Glory_Champion_Threat" descriptionOverride="key:620794565:108120372" constant="10.0"/>
 </bonus>
 <bonus nbItems="6">
-<stat name="Skill_RiftSet_Absorb_Shadow" descriptionOverride="25% Disperse Shadow Chance" constant="15.000001"/>
-<stat name="Skill_Glory_Champion_Damage" descriptionOverride="+5% Glory Melee Damage" constant="-5.0"/>
+<stat name="Skill_RiftSet_Absorb_Shadow" descriptionOverride="key:620794565:108054838" constant="15.000001"/>
+<stat name="Skill_Glory_Champion_Damage" descriptionOverride="key:620794565:108120374" constant="-5.0"/>
 </bonus>
 </set>
 <set id="1879099148" name="Amban's Steel" level="50" description="">

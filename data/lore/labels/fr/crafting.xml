@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><labels locale="fr">
+<label key="1879054946" value="Erudit"/>
+<label key="1879055079" value="Ferronnier"/>
+<label key="1879055299" value="Bijoutier"/>
+<label key="1879055477" value="Tailleur"/>
+<label key="1879055778" value="Fabricant d'armes"/>
+<label key="1879055941" value="Menuisier"/>
+<label key="1879061252" value="Cuisinier"/>
+<label key="1879062809" value="${PLAYERNAME:Armurier[m]|Armurière[f]}"/>
+<label key="1879062810" value="${PLAYERNAME:Explorateur[m]|Exploratrice[f]}"/>
+<label key="1879062811" value="${PLAYERNAME:Fourbisseur[m]|Fourbisseuse[f]}"/>
+<label key="1879062812" value="${PLAYERNAME:Joaillier[m]|Joaillière[f]}"/>
+<label key="1879062813" value="${PLAYERNAME:Franc-tenancier[m]|Franc-tenancière[f]}"/>
+<label key="1879062814" value="${PLAYERNAME:Arctier[m]|Arctière[f]}"/>
+<label key="1879062815" value="${PLAYERNAME:Historien[m]|Historienne[f]}"/>
+<label key="1879062816" value="Fermier"/>
+<label key="1879062817" value="Forestier"/>
+<label key="1879062818" value="Prospecteur"/>
+<label key="key:620761097:54354734" value="Sait déchiffrer les langues anciennes et le savoir perdu."/>
+<label key="key:620761183:54354734" value="Fabrique armures et boucliers en métal."/>
+<label key="key:620761355:54354734" value="Fabrique anneaux et colliers."/>
+<label key="key:620761490:54354734" value="Fabrique armures en cuir et autres armures légères."/>
+<label key="key:620761693:54354734" value="Fabrique des armes en métal."/>
+<label key="key:620761812:54354734" value="Fabrique arcs et manches d'armes en bois."/>
+<label key="key:620766247:54354734" value="Prépare la nourriture et les boissons."/>
+<label key="key:620767730:54354734" value="Les armuriers savent qu'une bonne plaque de métal fait souvent la différence entre la vie et la mort."/>
+<label key="key:620767731:54354734" value="Extrait les métaux précieux et les fait fondre."/>
+<label key="key:620767765:54354734" value="Ces voyageurs savent énormément de choses sur les contrées de la Terre du Milieu et leurs ressources."/>
+<label key="key:620767766:54354734" value="Ramasse le bois et traite les peaux d'animaux."/>
+<label key="key:620767796:54354734" value="Les fourbisseurs connaissent les secrets des armes de qualité, ce qui leur permet de créer n'importe quel type d'arme."/>
+<label key="key:620767797:54354734" value="Fascinés par tout ce qui est beau, les joailliers cherchent à créer de fantastiques bijoux."/>
+<label key="key:620767798:54354734" value="Les franc-tenanciers connaissent la terre, l'agriculture, la cuisine et la foresterie."/>
+<label key="key:620767799:54354734" value="Cultive fruits, légumes et herbe à pipe."/>
+<label key="key:620767897:54354734" value="Les arctiers savent survivre en milieu naturel et fabriquer des armes à partir de ce qu'ils trouvent autour d'eux."/>
+<label key="key:620767898:54354734" value="Les historiens sont les gardiens du savoir et des légendes que les forces de la lumière ne veulent surtout pas oublier."/>
+</labels>

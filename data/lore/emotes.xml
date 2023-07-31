@@ -1,123 +1,123 @@
 <?xml version="1.0" encoding="UTF-8"?><emotes>
-<emote id="1879071841" command="hug" icon="1090553106" auto="true" description="This emote causes you to hug someone."/>
-<emote id="1879071844" command="flirt" icon="1090553106" auto="true" description="This emote causes you to flirt."/>
-<emote id="1879071847" command="confused" icon="1090553106" auto="true" description="This emote causes you to appear confused."/>
-<emote id="1879071850" command="kiss" icon="1090553106" auto="true" description="This emote causes you to kiss."/>
-<emote id="1879071853" command="beg" icon="1090553106" auto="true" description="This emote causes you to beg."/>
-<emote id="1879071856" command="mock" icon="1090553106" auto="true" description="This emote causes you to mock."/>
-<emote id="1879071859" command="bored" icon="1090553106" auto="true" description="This emote causes you to look bored."/>
-<emote id="1879071862" command="cheer" icon="1090553106" auto="true" description="This emote causes you to cheer."/>
-<emote id="1879071863" command="firebreath" icon="1090553106" description="This emote causes you to breath fire."/>
-<emote id="1879071864" command="afk" icon="1090553106" auto="true" description="This emote indicates to others that you are away from your keyboard."/>
-<emote id="1879071865" command="angry" icon="1090553106" auto="true" description="This emote causes you to become angry."/>
-<emote id="1879071866" command="beckon" icon="1090553106" auto="true" description="This emote causes you to beckon."/>
-<emote id="1879071867" command="bio" icon="1090553106" auto="true" description="This emote tells others you are taking a short break to refresh yourself."/>
-<emote id="1879071868" command="bow" icon="1090553106" auto="true" description="This emote causes you to bow."/>
-<emote id="1879071869" command="cough" icon="1090553106" auto="true" description="This emote causes you to cough."/>
-<emote id="1879071870" command="cower" icon="1090553106" auto="true" description="This emote causes you to cower in fear."/>
-<emote id="1879071871" command="crazy" icon="1090553106" auto="true" description="This emote causes you to mime insanity."/>
-<emote id="1879071872" command="cry" icon="1090553106" auto="true" description="This emote causes you to cry."/>
-<emote id="1879071873" command="dance" icon="1090553106" auto="true" description="This emote causes you to dance."/>
-<emote id="1879071874" command="dance1" icon="1090553106" auto="true" description="This emote causes you to dance."/>
-<emote id="1879071875" command="dance2" icon="1090553106" auto="true" description="This emote causes you to dance."/>
-<emote id="1879071876" command="dance3" icon="1090553106" auto="true" description="This emote causes you to dance."/>
-<emote id="1879071877" command="drink" icon="1090553106" auto="true" description="This emote causes you to drink."/>
-<emote id="1879071878" command="dustoff" icon="1090553106" auto="true" description="This emote causes you to dust yourself off."/>
-<emote id="1879071879" command="eat" icon="1090553106" auto="true" description="This emote causes you to eat."/>
-<emote id="1879071880" command="faint" icon="1090553106" auto="true" description="This emote causes you to faint."/>
-<emote id="1879071881" command="flex" icon="1090553106" auto="true" description="This emote causes you to flex."/>
-<emote id="1879071882" command="flip" icon="1090553106" description="This emote causes you to performa a flip."/>
-<emote id="1879071883" command="handstand" icon="1090553106" auto="true" description="This emote causes you to perform a handstand."/>
-<emote id="1879071884" command="heropose" icon="1090553106" description="This emote causes you to pose heroically."/>
-<emote id="1879071885" command="impatient" icon="1090553106" auto="true" description="This emote causes you to act impatient."/>
-<emote id="1879071886" command="juggle" icon="1090553106" description="This emote causes you to juggle."/>
-<emote id="1879071887" command="kneel" icon="1090553106" auto="true" description="This emote causes you to kneel."/>
-<emote id="1879071888" command="laugh" icon="1090553106" auto="true" description="This emote causes you to laugh."/>
-<emote id="1879071889" command="liedown" icon="1090553106" auto="true" description="This emote causes you to lie down."/>
-<emote id="1879071890" command="look" icon="1090553106" auto="true" description="This emote causes you to look forward."/>
-<emote id="1879071891" command="mourn" icon="1090553106" auto="true" description="This emote causes you to mourn."/>
-<emote id="1879071892" command="no" icon="1090553106" auto="true" description="This emote causes you to indicate 'no'."/>
-<emote id="1879071893" command="pick" icon="1090553106" auto="true" description="This emote causes you to pick a wedgie."/>
-<emote id="1879071894" command="point" icon="1090553106" auto="true" description="This emote causes you to point."/>
-<emote id="1879071895" command="pushups" icon="1090553106" auto="true" description="This emote causes you to do pushups."/>
-<emote id="1879071896" command="roar" icon="1090553106" auto="true" description="This emote causes you to roar."/>
-<emote id="1879071897" command="rude" icon="1090553106" auto="true" description="This emote causes you to make a rude gesture."/>
-<emote id="1879071898" command="sad" icon="1090553106" auto="true" description="This emote causes you to become sad."/>
-<emote id="1879071899" command="salute" icon="1090553106" auto="true" description="This emote causes you to salute."/>
-<emote id="1879071900" command="scold" icon="1090553106" auto="true" description="This emote causes you to scold."/>
-<emote id="1879071901" command="scratch" icon="1090553106" auto="true" description="This emote causes you to scratch yourself."/>
-<emote id="1879071902" command="shakefist" icon="1090553106" auto="true" description="This emote causes you to shake your fist."/>
-<emote id="1879071903" command="shrug" icon="1090553106" auto="true" description="This emote causes you to shrug."/>
-<emote id="1879071904" command="sigh" icon="1090553106" auto="true" description="This emote causes you to sigh."/>
-<emote id="1879071905" command="sit" icon="1090553106" auto="true" description="This emote causes you to sit."/>
-<emote id="1879071906" command="smoke" icon="1090553106" auto="true" description="This emote causes you to smoke."/>
-<emote id="1879071907" command="smoke1" icon="1090553106" auto="true" description="This emote causes you to choke on your pipe smoke."/>
-<emote id="1879071908" command="surrender" icon="1090553106" auto="true" description="This emote causes you to surrender."/>
-<emote id="1879071909" command="swordsalute" icon="1090553106" description="This emote causes you to salute with a sword."/>
-<emote id="1879071910" command="talk" icon="1090553106" auto="true" description="This emote causes you to talk."/>
-<emote id="1879071911" command="tantrum" icon="1090553106" auto="true" description="This emote causes you to throw a tantrum."/>
-<emote id="1879071912" command="thank" icon="1090553106" auto="true" description="This emote causes you to thank someone."/>
-<emote id="1879071913" command="wave" icon="1090553106" auto="true" description="This emote causes you to wave."/>
-<emote id="1879071914" command="yes" icon="1090553106" auto="true" description="This emote causes you to indicate 'yes'."/>
-<emote id="1879071915" command="mood_surprised" icon="1090553106" auto="true" description="This changes your mood to surprised."/>
-<emote id="1879071916" command="mood_solemn" icon="1090553106" auto="true" description="This changes your mood to solemn."/>
-<emote id="1879071917" command="mood_sleepy" icon="1090553106" auto="true" description="This changes your mood to sleepy."/>
-<emote id="1879071918" command="mood_sad" icon="1090553106" auto="true" description="This changes your mood to sad."/>
-<emote id="1879071919" command="mood_mischievous" icon="1090553106" auto="true" description="This changes your mood to mischievous."/>
-<emote id="1879071920" command="mood_happy" icon="1090553106" auto="true" description="This changes your mood to happy."/>
-<emote id="1879071921" command="mood_fearful" icon="1090553106" auto="true" description="This changes your mood to fearful."/>
-<emote id="1879071922" command="mood_confused" icon="1090553106" auto="true" description="This changes your mood to confused."/>
-<emote id="1879071923" command="mood_apprehensive" icon="1090553106" auto="true" description="This changes your mood to apprehensive."/>
-<emote id="1879071924" command="mood_angry" icon="1090553106" auto="true" description="This changes your mood to angry."/>
-<emote id="1879071925" command="mood_calm" icon="1090553106" auto="true" description="This changes your mood to calm."/>
-<emote id="1879085173" command="smackhead" icon="1090553106" auto="true" description="This emote causes you to smack yourself."/>
-<emote id="1879085174" command="pose" icon="1090553106" auto="true" description="This emote causes you to pose heroically."/>
-<emote id="1879087390" command="bye" icon="1090553106" auto="true" description="This emote causes you to wave goodbye."/>
-<emote id="1879088407" command="dance_elf" icon="1090553106" description="This emote causes you to dance in the ways of the Elves."/>
-<emote id="1879088408" command="dance_hobbit" icon="1090553106" description="This emote causes you to dance in the ways of the Hobbits."/>
-<emote id="1879088409" command="dance_man" icon="1090553106" description="This emote causes you to dance in the ways of Men."/>
-<emote id="1879088410" command="dance_dwarf" icon="1090553106" description="This emote causes you to dance in the ways of the Dwarves."/>
-<emote id="1879094025" command="agree" icon="1090553106" auto="true" description="This emote causes you to agree."/>
-<emote id="1879094026" command="ahem" icon="1090553106" auto="true" description="This emote causes you to cough politely."/>
-<emote id="1879094027" command="assist" icon="1090553106" auto="true" description="This emote causes you to request assistance."/>
-<emote id="1879094028" command="attack" icon="1090553106" auto="true" description="This emote causes you to indicate an attack."/>
-<emote id="1879094029" command="blush" icon="1090553106" auto="true" description="This emote causes you to blush."/>
-<emote id="1879094030" command="bother" icon="1090553106" auto="true" description="This emote causes you to bother someone."/>
-<emote id="1879094031" command="brb" icon="1090553106" auto="true" description="This emote tells others you will be right back."/>
-<emote id="1879094032" command="burp" icon="1090553106" auto="true" description="This emote causes you to burp."/>
-<emote id="1879094033" command="calm" icon="1090553106" auto="true" description="This emote causes you to calm others down."/>
-<emote id="1879094034" command="charge" icon="1090553106" auto="true" description="This emote causes you to charge."/>
-<emote id="1879094035" command="clap" icon="1090553106" auto="true" description="This emote causes you to clap."/>
-<emote id="1879094038" command="fight" icon="1090553106" auto="true" description="This emote indicates you want to fight."/>
-<emote id="1879094039" command="lol" icon="1090553106" auto="true" description="This emote causes you to laugh out loud."/>
-<emote id="1879094040" command="mumble" icon="1090553106" auto="true" description="This emote causes you to mumble."/>
-<emote id="1879094041" command="nothing" icon="1090553106" auto="true" description="This emote causes you to do nothing."/>
-<emote id="1879094042" command="oop" icon="1090553106" auto="true" description="This emote causes you to indicate you are out of power."/>
-<emote id="1879094043" command="pat" icon="1090553106" auto="true" description="This emote causes you to pat somone."/>
-<emote id="1879094044" command="poke" icon="1090553106" auto="true" description="This emote causes you to poke someone."/>
-<emote id="1879094045" command="ready" icon="1090553106" auto="true" description="This emote causes you to indicate you are ready."/>
-<emote id="1879094046" command="rest" icon="1090553106" auto="true" description="This emote causes you to ask for a rest."/>
-<emote id="1879094047" command="sorry" icon="1090553106" auto="true" description="This emote causes you indicate you are sorry."/>
-<emote id="1879094048" command="stare" icon="1090553106" auto="true" description="This emote causes you to stare."/>
-<emote id="1879094049" command="story" icon="1090553106" auto="true" description="This emote causes you tell a story."/>
-<emote id="1879094050" command="stretch" icon="1090553106" auto="true" description="This emote causes you to stretch."/>
-<emote id="1879094051" command="tear" icon="1090553106" auto="true" description="This emote causes you shed a single tear."/>
-<emote id="1879094052" command="think" icon="1090553106" auto="true" description="This emote causes you to think."/>
-<emote id="1879094053" command="wait" icon="1090553106" auto="true" description="This emote causes you to ask somone to wait."/>
-<emote id="1879094054" command="wink" icon="1090553106" auto="true" description="This emote causes you to wink."/>
-<emote id="1879094220" command="congratulate" icon="1090553106" auto="true" description="This emote causes you to congratulate someone."/>
-<emote id="1879094221" command="curtsey" icon="1090553106" auto="true" description="This emote causes you to curtsey."/>
-<emote id="1879094222" command="drool" icon="1090553106" auto="true" description="This emote causes you to drool."/>
-<emote id="1879094223" command="fidget" icon="1090553106" auto="true" description="This emote causes you to fidget."/>
-<emote id="1879094224" command="followme" icon="1090553106" auto="true" description="This emote causes you to ask people to follow you."/>
-<emote id="1879094225" command="giggle" icon="1090553106" auto="true" description="This emote causes you to giggle."/>
-<emote id="1879094226" command="grumble" icon="1090553106" auto="true" description="This emote causes you to grumble."/>
-<emote id="1879094227" command="innocent" icon="1090553106" auto="true" description="This emote causes you to act innocent."/>
-<emote id="1879094228" command="shiver" icon="1090553106" auto="true" description="This emote causes you to shiver."/>
-<emote id="1879094229" command="slap" icon="1090553106" auto="true" description="This emote causes you to slap someone."/>
-<emote id="1879094230" command="sweat" icon="1090553106" auto="true" description="This emote causes you to sweat."/>
-<emote id="1879094231" command="whistle" icon="1090553106" auto="true" description="This emote causes you to whistle."/>
-<emote id="1879094232" command="wince" icon="1090553106" auto="true" description="This emote causes you to wince."/>
-<emote id="1879094233" command="yawn" icon="1090553106" auto="true" description="This emote causes you to yawn."/>
-<emote id="1879098860" command="lookaround" icon="1090553106" auto="true" description="This emote causes you to look around."/>
+<emote id="1879071841" command="hug" icon="1090553106" auto="true" description="key:620774137:167847310"/>
+<emote id="1879071844" command="flirt" icon="1090553106" auto="true" description="key:620774140:167847310"/>
+<emote id="1879071847" command="confused" icon="1090553106" auto="true" description="key:620774143:167847310"/>
+<emote id="1879071850" command="kiss" icon="1090553106" auto="true" description="key:620774146:167847310"/>
+<emote id="1879071853" command="beg" icon="1090553106" auto="true" description="key:620774149:167847310"/>
+<emote id="1879071856" command="mock" icon="1090553106" auto="true" description="key:620774152:167847310"/>
+<emote id="1879071859" command="bored" icon="1090553106" auto="true" description="key:620774155:167847310"/>
+<emote id="1879071862" command="cheer" icon="1090553106" auto="true" description="key:620774163:167847310"/>
+<emote id="1879071863" command="firebreath" icon="1090553106" description="key:620774157:167847310"/>
+<emote id="1879071864" command="afk" icon="1090553106" auto="true" description="key:620774158:167847310"/>
+<emote id="1879071865" command="angry" icon="1090553106" auto="true" description="key:620774159:167847310"/>
+<emote id="1879071866" command="beckon" icon="1090553106" auto="true" description="key:620774160:167847310"/>
+<emote id="1879071867" command="bio" icon="1090553106" auto="true" description="key:620774161:167847310"/>
+<emote id="1879071868" command="bow" icon="1090553106" auto="true" description="key:620774162:167847310"/>
+<emote id="1879071869" command="cough" icon="1090553106" auto="true" description="key:620774164:167847310"/>
+<emote id="1879071870" command="cower" icon="1090553106" auto="true" description="key:620774165:167847310"/>
+<emote id="1879071871" command="crazy" icon="1090553106" auto="true" description="key:620774166:167847310"/>
+<emote id="1879071872" command="cry" icon="1090553106" auto="true" description="key:620774167:167847310"/>
+<emote id="1879071873" command="dance" icon="1090553106" auto="true" description="key:620774168:167847310"/>
+<emote id="1879071874" command="dance1" icon="1090553106" auto="true" description="key:620774169:167847310"/>
+<emote id="1879071875" command="dance2" icon="1090553106" auto="true" description="key:620774170:167847310"/>
+<emote id="1879071876" command="dance3" icon="1090553106" auto="true" description="key:620774171:167847310"/>
+<emote id="1879071877" command="drink" icon="1090553106" auto="true" description="key:620774172:167847310"/>
+<emote id="1879071878" command="dustoff" icon="1090553106" auto="true" description="key:620774173:167847310"/>
+<emote id="1879071879" command="eat" icon="1090553106" auto="true" description="key:620774174:167847310"/>
+<emote id="1879071880" command="faint" icon="1090553106" auto="true" description="key:620774175:167847310"/>
+<emote id="1879071881" command="flex" icon="1090553106" auto="true" description="key:620774176:167847310"/>
+<emote id="1879071882" command="flip" icon="1090553106" description="key:620774177:167847310"/>
+<emote id="1879071883" command="handstand" icon="1090553106" auto="true" description="key:620774178:167847310"/>
+<emote id="1879071884" command="heropose" icon="1090553106" description="key:620774179:167847310"/>
+<emote id="1879071885" command="impatient" icon="1090553106" auto="true" description="key:620774180:167847310"/>
+<emote id="1879071886" command="juggle" icon="1090553106" description="key:620774181:167847310"/>
+<emote id="1879071887" command="kneel" icon="1090553106" auto="true" description="key:620774182:167847310"/>
+<emote id="1879071888" command="laugh" icon="1090553106" auto="true" description="key:620774183:167847310"/>
+<emote id="1879071889" command="liedown" icon="1090553106" auto="true" description="key:620774184:167847310"/>
+<emote id="1879071890" command="look" icon="1090553106" auto="true" description="key:620774185:167847310"/>
+<emote id="1879071891" command="mourn" icon="1090553106" auto="true" description="key:620774186:167847310"/>
+<emote id="1879071892" command="no" icon="1090553106" auto="true" description="key:620774187:167847310"/>
+<emote id="1879071893" command="pick" icon="1090553106" auto="true" description="key:620774188:167847310"/>
+<emote id="1879071894" command="point" icon="1090553106" auto="true" description="key:620774189:167847310"/>
+<emote id="1879071895" command="pushups" icon="1090553106" auto="true" description="key:620774190:167847310"/>
+<emote id="1879071896" command="roar" icon="1090553106" auto="true" description="key:620774191:167847310"/>
+<emote id="1879071897" command="rude" icon="1090553106" auto="true" description="key:620774192:167847310"/>
+<emote id="1879071898" command="sad" icon="1090553106" auto="true" description="key:620774193:167847310"/>
+<emote id="1879071899" command="salute" icon="1090553106" auto="true" description="key:620774194:167847310"/>
+<emote id="1879071900" command="scold" icon="1090553106" auto="true" description="key:620774195:167847310"/>
+<emote id="1879071901" command="scratch" icon="1090553106" auto="true" description="key:620774196:167847310"/>
+<emote id="1879071902" command="shakefist" icon="1090553106" auto="true" description="key:620774197:167847310"/>
+<emote id="1879071903" command="shrug" icon="1090553106" auto="true" description="key:620774198:167847310"/>
+<emote id="1879071904" command="sigh" icon="1090553106" auto="true" description="key:620774199:167847310"/>
+<emote id="1879071905" command="sit" icon="1090553106" auto="true" description="key:620774200:167847310"/>
+<emote id="1879071906" command="smoke" icon="1090553106" auto="true" description="key:620774201:167847310"/>
+<emote id="1879071907" command="smoke1" icon="1090553106" auto="true" description="key:620774202:167847310"/>
+<emote id="1879071908" command="surrender" icon="1090553106" auto="true" description="key:620774203:167847310"/>
+<emote id="1879071909" command="swordsalute" icon="1090553106" description="key:620774204:167847310"/>
+<emote id="1879071910" command="talk" icon="1090553106" auto="true" description="key:620774205:167847310"/>
+<emote id="1879071911" command="tantrum" icon="1090553106" auto="true" description="key:620774206:167847310"/>
+<emote id="1879071912" command="thank" icon="1090553106" auto="true" description="key:620774207:167847310"/>
+<emote id="1879071913" command="wave" icon="1090553106" auto="true" description="key:620774208:167847310"/>
+<emote id="1879071914" command="yes" icon="1090553106" auto="true" description="key:620774209:167847310"/>
+<emote id="1879071915" command="mood_surprised" icon="1090553106" auto="true" description="key:620774210:167847310"/>
+<emote id="1879071916" command="mood_solemn" icon="1090553106" auto="true" description="key:620774211:167847310"/>
+<emote id="1879071917" command="mood_sleepy" icon="1090553106" auto="true" description="key:620774212:167847310"/>
+<emote id="1879071918" command="mood_sad" icon="1090553106" auto="true" description="key:620774213:167847310"/>
+<emote id="1879071919" command="mood_mischievous" icon="1090553106" auto="true" description="key:620774214:167847310"/>
+<emote id="1879071920" command="mood_happy" icon="1090553106" auto="true" description="key:620774215:167847310"/>
+<emote id="1879071921" command="mood_fearful" icon="1090553106" auto="true" description="key:620774216:167847310"/>
+<emote id="1879071922" command="mood_confused" icon="1090553106" auto="true" description="key:620774217:167847310"/>
+<emote id="1879071923" command="mood_apprehensive" icon="1090553106" auto="true" description="key:620774218:167847310"/>
+<emote id="1879071924" command="mood_angry" icon="1090553106" auto="true" description="key:620774219:167847310"/>
+<emote id="1879071925" command="mood_calm" icon="1090553106" auto="true" description="key:620774220:167847310"/>
+<emote id="1879085173" command="smackhead" icon="1090553106" auto="true" description="key:620788498:167847310"/>
+<emote id="1879085174" command="pose" icon="1090553106" auto="true" description="key:620788494:167847310"/>
+<emote id="1879087390" command="bye" icon="1090553106" auto="true" description="key:620790009:167847310"/>
+<emote id="1879088407" command="dance_elf" icon="1090553106" description="key:620790675:167847310"/>
+<emote id="1879088408" command="dance_hobbit" icon="1090553106" description="key:620790676:167847310"/>
+<emote id="1879088409" command="dance_man" icon="1090553106" description="key:620790677:167847310"/>
+<emote id="1879088410" command="dance_dwarf" icon="1090553106" description="key:620790678:167847310"/>
+<emote id="1879094025" command="agree" icon="1090553106" auto="true" description="key:620793977:167847310"/>
+<emote id="1879094026" command="ahem" icon="1090553106" auto="true" description="key:620793979:167847310"/>
+<emote id="1879094027" command="assist" icon="1090553106" auto="true" description="key:620793981:167847310"/>
+<emote id="1879094028" command="attack" icon="1090553106" auto="true" description="key:620793983:167847310"/>
+<emote id="1879094029" command="blush" icon="1090553106" auto="true" description="key:620793985:167847310"/>
+<emote id="1879094030" command="bother" icon="1090553106" auto="true" description="key:620793987:167847310"/>
+<emote id="1879094031" command="brb" icon="1090553106" auto="true" description="key:620793989:167847310"/>
+<emote id="1879094032" command="burp" icon="1090553106" auto="true" description="key:620793990:167847310"/>
+<emote id="1879094033" command="calm" icon="1090553106" auto="true" description="key:620793991:167847310"/>
+<emote id="1879094034" command="charge" icon="1090553106" auto="true" description="key:620793992:167847310"/>
+<emote id="1879094035" command="clap" icon="1090553106" auto="true" description="key:620793993:167847310"/>
+<emote id="1879094038" command="fight" icon="1090553106" auto="true" description="key:620793996:167847310"/>
+<emote id="1879094039" command="lol" icon="1090553106" auto="true" description="key:620793994:167847310"/>
+<emote id="1879094040" command="mumble" icon="1090553106" auto="true" description="key:620793997:167847310"/>
+<emote id="1879094041" command="nothing" icon="1090553106" auto="true" description="key:620793995:167847310"/>
+<emote id="1879094042" command="oop" icon="1090553106" auto="true" description="key:620794000:167847310"/>
+<emote id="1879094043" command="pat" icon="1090553106" auto="true" description="key:620793971:167847310"/>
+<emote id="1879094044" command="poke" icon="1090553106" auto="true" description="key:620793972:167847310"/>
+<emote id="1879094045" command="ready" icon="1090553106" auto="true" description="key:620793973:167847310"/>
+<emote id="1879094046" command="rest" icon="1090553106" auto="true" description="key:620793974:167847310"/>
+<emote id="1879094047" command="sorry" icon="1090553106" auto="true" description="key:620793975:167847310"/>
+<emote id="1879094048" command="stare" icon="1090553106" auto="true" description="key:620793976:167847310"/>
+<emote id="1879094049" command="story" icon="1090553106" auto="true" description="key:620793978:167847310"/>
+<emote id="1879094050" command="stretch" icon="1090553106" auto="true" description="key:620793980:167847310"/>
+<emote id="1879094051" command="tear" icon="1090553106" auto="true" description="key:620793982:167847310"/>
+<emote id="1879094052" command="think" icon="1090553106" auto="true" description="key:620793984:167847310"/>
+<emote id="1879094053" command="wait" icon="1090553106" auto="true" description="key:620793986:167847310"/>
+<emote id="1879094054" command="wink" icon="1090553106" auto="true" description="key:620793988:167847310"/>
+<emote id="1879094220" command="congratulate" icon="1090553106" auto="true" description="key:620794132:167847310"/>
+<emote id="1879094221" command="curtsey" icon="1090553106" auto="true" description="key:620794134:167847310"/>
+<emote id="1879094222" command="drool" icon="1090553106" auto="true" description="key:620794136:167847310"/>
+<emote id="1879094223" command="fidget" icon="1090553106" auto="true" description="key:620794141:167847310"/>
+<emote id="1879094224" command="followme" icon="1090553106" auto="true" description="key:620794137:167847310"/>
+<emote id="1879094225" command="giggle" icon="1090553106" auto="true" description="key:620794138:167847310"/>
+<emote id="1879094226" command="grumble" icon="1090553106" auto="true" description="key:620794139:167847310"/>
+<emote id="1879094227" command="innocent" icon="1090553106" auto="true" description="key:620794140:167847310"/>
+<emote id="1879094228" command="shiver" icon="1090553106" auto="true" description="key:620794129:167847310"/>
+<emote id="1879094229" command="slap" icon="1090553106" auto="true" description="key:620788497:167847310"/>
+<emote id="1879094230" command="sweat" icon="1090553106" auto="true" description="key:620794130:167847310"/>
+<emote id="1879094231" command="whistle" icon="1090553106" auto="true" description="key:620794131:167847310"/>
+<emote id="1879094232" command="wince" icon="1090553106" auto="true" description="key:620794133:167847310"/>
+<emote id="1879094233" command="yawn" icon="1090553106" auto="true" description="key:620794135:167847310"/>
+<emote id="1879098860" command="lookaround" icon="1090553106" auto="true" description="key:620797291:167847310"/>
 </emotes>

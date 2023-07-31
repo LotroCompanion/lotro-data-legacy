@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><virtues>
-<virtue identifier="1879072873" key="CHARITY" name="Charity" iconId="0" rankStatKey="Trait_Virtue_Rank_Charity" description="Charity has its rewards. You find yourself more resistant to wounds, able to defend against ranged attacks more easily, and able to recover your Power more quickly outside of combat.">
+<virtue identifier="1879072873" key="CHARITY" name="Charity" rankStatKey="Trait_Virtue_Rank_Charity">
 <activeStats>
 <stat name="Resist_Additional_Resistance_Wound" scaling="1879072894"/>
 <stat name="RANGED_DEFENCE_PERCENTAGE" operator="SUBSTRACT" scaling="1879072895"/>
@@ -7,7 +7,7 @@
 </activeStats>
 <passiveStats/>
 </virtue>
-<virtue identifier="1879072874" key="COMPASSION" name="Compassion" iconId="0" rankStatKey="Trait_Virtue_Rank_Compassionate" description="Your compassion is one of your greatest strengths. You find that you are able to defend against ranged attacks more easily, are able to recover your Power more quickly outside of combat, and are able to defend against magical attacks more easily.">
+<virtue identifier="1879072874" key="COMPASSION" name="Compassion" rankStatKey="Trait_Virtue_Rank_Compassionate">
 <activeStats>
 <stat name="RANGED_DEFENCE_PERCENTAGE" operator="SUBSTRACT" scaling="1879072898"/>
 <stat name="OCPR" scaling="1879072899"/>
@@ -15,7 +15,7 @@
 </activeStats>
 <passiveStats/>
 </virtue>
-<virtue identifier="1879072875" key="CONFIDENCE" name="Confidence" iconId="0" rankStatKey="Trait_Virtue_Rank_Confidence" description="Your actions have instilled in you a great sense of confidence. You are more resistant to the effects of fear, your Will is stronger, and you are able to recover your Power more quickly outside of combat.">
+<virtue identifier="1879072875" key="CONFIDENCE" name="Confidence" rankStatKey="Trait_Virtue_Rank_Confidence">
 <activeStats>
 <stat name="Resist_Additional_Resistance_Fear" scaling="1879072902"/>
 <stat name="WILL" scaling="1879072903"/>
@@ -23,7 +23,7 @@
 </activeStats>
 <passiveStats/>
 </virtue>
-<virtue identifier="1879072876" key="DETERMINATION" name="Determination" iconId="0" rankStatKey="Trait_Virtue_Rank_Determination" description="Your determination has won you many victories. You have superior Agility, you are able to recover your Morale more quickly in combat, and your Morale is increased.">
+<virtue identifier="1879072876" key="DETERMINATION" name="Determination" rankStatKey="Trait_Virtue_Rank_Determination">
 <activeStats>
 <stat name="AGILITY" scaling="1879072905"/>
 <stat name="ICMR" scaling="1879072906"/>
@@ -31,7 +31,7 @@
 </activeStats>
 <passiveStats/>
 </virtue>
-<virtue identifier="1879072877" key="DISCIPLINE" name="Discipline" iconId="0" rankStatKey="Trait_Virtue_Rank_Discipline" description="The discipline you maintain makes you stronger. Your Might is increased, you are more resistant to diseases, and are able to defend against melee attacks more easily.">
+<virtue identifier="1879072877" key="DISCIPLINE" name="Discipline" rankStatKey="Trait_Virtue_Rank_Discipline">
 <activeStats>
 <stat name="MIGHT" scaling="1879072909"/>
 <stat name="Resist_Additional_Resistance_Disease" scaling="1879072910"/>
@@ -39,7 +39,7 @@
 </activeStats>
 <passiveStats/>
 </virtue>
-<virtue identifier="1879072878" key="EMPATHY" name="Empathy" iconId="0" rankStatKey="Trait_Virtue_Rank_Empathy" description="You have a proven empathy for those in need. You know how to use your armour to greater effect, you are destined to a greater Fate, and you are more resistant to the effects of fear.">
+<virtue identifier="1879072878" key="EMPATHY" name="Empathy" rankStatKey="Trait_Virtue_Rank_Empathy">
 <activeStats>
 <stat name="Combat_Agent_Armor_Value" scaling="1879072913"/>
 <stat name="FATE" scaling="1879072914"/>
@@ -47,7 +47,7 @@
 </activeStats>
 <passiveStats/>
 </virtue>
-<virtue identifier="1879072879" key="FIDELITY" name="Fidelity" iconId="0" rankStatKey="Trait_Virtue_Rank_Fidelity" description="Your fidelity has earned you the respect of those around you. You are more resistant to the effects of evil's shadow, you have greater Vitality, and your Power is increased.">
+<virtue identifier="1879072879" key="FIDELITY" name="Fidelity" rankStatKey="Trait_Virtue_Rank_Fidelity">
 <activeStats>
 <stat name="SHADOW_MITIGATION_PERCENTAGE" scaling="1879072917"/>
 <stat name="VITALITY" scaling="1879072918"/>
@@ -55,7 +55,7 @@
 </activeStats>
 <passiveStats/>
 </virtue>
-<virtue identifier="1879072880" key="FORTITUDE" name="Fortitude" iconId="0" rankStatKey="Trait_Virtue_Rank_Fortitude" description="Your struggles have built in you tremendous fortitude. You find that you are able to recover your Morale more quickly outside of combat, your Might is increased, and you are more resistant to diseases.">
+<virtue identifier="1879072880" key="FORTITUDE" name="Fortitude" rankStatKey="Trait_Virtue_Rank_Fortitude">
 <activeStats>
 <stat name="OCMR" scaling="1879072921"/>
 <stat name="MIGHT" scaling="1879072922"/>
@@ -63,7 +63,7 @@
 </activeStats>
 <passiveStats/>
 </virtue>
-<virtue identifier="1879072881" key="HONESTY" name="Honesty" iconId="0" rankStatKey="Trait_Virtue_Rank_Honesty" description="Your honesty has earned you the trust of those around you. Your Power is increased, you know how to use your armour to greater effect, and you are destined to a greater Fate.">
+<virtue identifier="1879072881" key="HONESTY" name="Honesty" rankStatKey="Trait_Virtue_Rank_Honesty">
 <activeStats>
 <stat name="POWER" scaling="1879072925"/>
 <stat name="Combat_Agent_Armor_Value" scaling="1879072926"/>
@@ -71,7 +71,7 @@
 </activeStats>
 <passiveStats/>
 </virtue>
-<virtue identifier="1879072882" key="HONOUR" name="Honour" iconId="0" rankStatKey="Trait_Virtue_Rank_Honour" description="Your honour is without peer. You are more resistant to poisons, more resistant to the effects of evil's shadow, and you have greater Vitality.">
+<virtue identifier="1879072882" key="HONOUR" name="Honour" rankStatKey="Trait_Virtue_Rank_Honour">
 <activeStats>
 <stat name="Resist_Additional_Resistance_Poison" scaling="1879072929"/>
 <stat name="SHADOW_MITIGATION_PERCENTAGE" scaling="1879072930"/>
@@ -79,7 +79,7 @@
 </activeStats>
 <passiveStats/>
 </virtue>
-<virtue identifier="1879072883" key="IDEALISM" name="Idealism" iconId="0" rankStatKey="Trait_Virtue_Rank_Idealism" description="Your idealism can brook no fault. You are destined to a greater Fate, you are more resistant to the effects of fear, and your Will is stronger.">
+<virtue identifier="1879072883" key="IDEALISM" name="Idealism" rankStatKey="Trait_Virtue_Rank_Idealism">
 <activeStats>
 <stat name="FATE" scaling="1879072933"/>
 <stat name="Resist_Additional_Resistance_Fear" scaling="1879072934"/>
@@ -87,7 +87,7 @@
 </activeStats>
 <passiveStats/>
 </virtue>
-<virtue identifier="1879072884" key="JUSTICE" name="Justice" iconId="0" rankStatKey="Trait_Virtue_Rank_Just" description="You are a servant of justice. You find that you are able to recover your Morale more quickly in combat, your Morale is increased, and you are able to recover your Morale more quickly outside of combat.">
+<virtue identifier="1879072884" key="JUSTICE" name="Justice" rankStatKey="Trait_Virtue_Rank_Just">
 <activeStats>
 <stat name="ICMR" scaling="1879072937"/>
 <stat name="MORALE" scaling="1879072938"/>
@@ -95,7 +95,7 @@
 </activeStats>
 <passiveStats/>
 </virtue>
-<virtue identifier="1879072885" key="LOYALTY" name="Loyalty" iconId="0" rankStatKey="Trait_Virtue_Rank_Loyalty" description="Your loyalty shall be rewarded. You find that you have greater Vitality, your Power is increased, and you know how to use your armour to greater effect.">
+<virtue identifier="1879072885" key="LOYALTY" name="Loyalty" rankStatKey="Trait_Virtue_Rank_Loyalty">
 <activeStats>
 <stat name="VITALITY" scaling="1879072941"/>
 <stat name="POWER" scaling="1879072942"/>
@@ -103,7 +103,7 @@
 </activeStats>
 <passiveStats/>
 </virtue>
-<virtue identifier="1879072886" key="MERCY" name="Mercy" iconId="0" rankStatKey="Trait_Virtue_Rank_Merciful" description="You have learned the value of mercy. You find that you are able to recover your Power more quickly outside of combat, are able to defend against magical attacks more easily, and have superior Agility.">
+<virtue identifier="1879072886" key="MERCY" name="Mercy" rankStatKey="Trait_Virtue_Rank_Merciful">
 <activeStats>
 <stat name="OCPR" scaling="1879072945"/>
 <stat name="TACTICAL_DEFENCE_PERCENTAGE" operator="SUBSTRACT" scaling="1879072946"/>
@@ -111,7 +111,7 @@
 </activeStats>
 <passiveStats/>
 </virtue>
-<virtue identifier="1879072887" key="PATIENCE" name="Patience" iconId="0" rankStatKey="Trait_Virtue_Rank_Patience" description="Patience is a virtue. You find yourself able to recover your Power more quickly outside of combat, more resistant to wounds, and able to defend against ranged attacks more easily.">
+<virtue identifier="1879072887" key="PATIENCE" name="Patience" rankStatKey="Trait_Virtue_Rank_Patience">
 <activeStats>
 <stat name="OCPR" scaling="1879072945"/>
 <stat name="Resist_Additional_Resistance_Wound" scaling="1879072949"/>
@@ -119,7 +119,7 @@
 </activeStats>
 <passiveStats/>
 </virtue>
-<virtue identifier="1879072888" key="INNOCENCE" name="Innocence" iconId="0" rankStatKey="Trait_Virtue_Rank_Innocence" description="Your innocence can be used as a shield. You find yourself able to defend against melee attacks more easily, more resistant to poisons, and more resistant to the effects of evil's shadow.">
+<virtue identifier="1879072888" key="INNOCENCE" name="Innocence" rankStatKey="Trait_Virtue_Rank_Innocence">
 <activeStats>
 <stat name="MELEE_DEFENCE_PERCENTAGE" operator="SUBSTRACT" scaling="1879072952"/>
 <stat name="Resist_Additional_Resistance_Poison" scaling="1879072953"/>
@@ -127,7 +127,7 @@
 </activeStats>
 <passiveStats/>
 </virtue>
-<virtue identifier="1879072889" key="TOLERANCE" name="Tolerance" iconId="0" rankStatKey="Trait_Virtue_Rank_Tolerant" description="Your tolerance of others has earned you great respect. You find that you are able to defend against magical attacks more easily, you have superior Agility, and you are able to recover your Morale more quickly in combat.">
+<virtue identifier="1879072889" key="TOLERANCE" name="Tolerance" rankStatKey="Trait_Virtue_Rank_Tolerant">
 <activeStats>
 <stat name="TACTICAL_DEFENCE_PERCENTAGE" operator="SUBSTRACT" scaling="1879072956"/>
 <stat name="AGILITY" scaling="1879072957"/>
@@ -135,7 +135,7 @@
 </activeStats>
 <passiveStats/>
 </virtue>
-<virtue identifier="1879072890" key="VALOUR" name="Valour" iconId="0" rankStatKey="Trait_Virtue_Rank_Valor" description="No one can ever question your valour. Your Morale is increased, you are able to recover your Morale more quickly outside of combat, and your Might is increased.">
+<virtue identifier="1879072890" key="VALOUR" name="Valour" rankStatKey="Trait_Virtue_Rank_Valor">
 <activeStats>
 <stat name="MORALE" scaling="1879072960"/>
 <stat name="OCMR" scaling="1879072961"/>
@@ -143,7 +143,7 @@
 </activeStats>
 <passiveStats/>
 </virtue>
-<virtue identifier="1879072891" key="WISDOM" name="Wisdom" iconId="0" rankStatKey="Trait_Virtue_Rank_Wisdom" description="You have found true wisdom. Your Will is stronger, you are able to recover your Power more quickly outside of combat, and you are more resistant to wounds.">
+<virtue identifier="1879072891" key="WISDOM" name="Wisdom" rankStatKey="Trait_Virtue_Rank_Wisdom">
 <activeStats>
 <stat name="WILL" scaling="1879072964"/>
 <stat name="OCPR" scaling="1879072899"/>
@@ -151,7 +151,7 @@
 </activeStats>
 <passiveStats/>
 </virtue>
-<virtue identifier="1879072892" key="ZEAL" name="Zeal" iconId="0" rankStatKey="Trait_Virtue_Rank_Zeal" description="Your zeal drives you to perfection. You find yourself more resistant to diseases, able to defend against melee attacks more easily, and more resistant to poisons.">
+<virtue identifier="1879072892" key="ZEAL" name="Zeal" rankStatKey="Trait_Virtue_Rank_Zeal">
 <activeStats>
 <stat name="Resist_Additional_Resistance_Disease" scaling="1879072967"/>
 <stat name="MELEE_DEFENCE_PERCENTAGE" operator="SUBSTRACT" scaling="1879072968"/>

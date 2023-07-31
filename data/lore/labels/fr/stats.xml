@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="UTF-8"?><labels locale="fr">
+<label key="-1000" value="Devastate chance (melee)"/>
+<label key="-1001" value="Devastate chance (ranged)"/>
+<label key="-1002" value="Devastate chance (tactical)"/>
+<label key="-1003" value="Critical/Devastate Magnitude (melee)"/>
+<label key="-1004" value="Critical/Devastate Magnitude (ranged)"/>
+<label key="-1005" value="Critical/Devastate Magnitude (tactical)"/>
+<label key="-1006" value="Finesse (%)"/>
+<label key="-1007" value="Resistance (%)"/>
+<label key="-1008" value="Armour"/>
+<label key="-1009" value="DPS"/>
+<label key="-1010" value="Shield Use Rank"/>
+<label key="268435463" value="Pip"/>
+<label key="268435464" value="Points minimum"/>
+<label key="268435465" value="Temps de déclenchement des compétences de guérison"/>
+<label key="268435466" value="Temps de réaction à la riposte"/>
+<label key="268435468" value="Coût en Puissance du Signe sauvage des maîtres du savoir"/>
+<label key="268435469" value="Dégâts de subtilité du poignard"/>
+<label key="268435470" value="Bonus de dégâts de ferveur"/>
+<label key="268435471" value="Coups intenses"/>
+<label key="268435472" value="Trait de Connaissance du passé (maître du savoir)"/>
+<label key="268435487" value="Résistance aux cris"/>
+<label key="268435504" value="Modificateur du niveau de menace pour le nargage"/>
+<label key="268435510" value="Chance d'initiation de conjonction"/>
+<label key="268435516" value="Vitesse de monture"/>
+<label key="268435577" value="Régénération de Puissance hors des combats"/>
+<label key="268435608" value="Immunité contre les dégâts de lumière"/>
+<label key="268435629" value="Dégâts de hache à deux mains"/>
+<label key="268435636" value="Blocage possible"/>
+<label key="268435640" value="Réduction dans les Hauts du Nord"/>
+<label key="268435666" value="Déplacement gelé"/>
+<label key="268435680" value="Temps de réinitialisation de compétence"/>
+<label key="268435681" value="Modificateur de durée de réaction aux arrêts"/>
+<label key="268435682" value="Damage Increase"/>
+<label key="268435683" value="Menace"/>
+<label key="268435684" value="Trait d'attaque de cambrioleur désactivé"/>
+<label key="268435710" value="Réactions aux faits de combat"/>
+<label key="268435712" value="Augmente le classement d'idéalisme."/>
+<label key="268435732" value="Vitesse de course"/>
+<label key="268435744" value="Concentration"/>
+<label key="268435749" value="Maîtrise obtenue"/>
+<label key="268435752" value="Maîtrise obtenue"/>
+<label key="268435801" value="Régénération de Puissance au combat"/>
+<label key="268435844" value="Peut répondre"/>
+<label key="268435871" value="Réduction en Angmar"/>
+<label key="268435914" value="Chances de bloquer - Attaque automatique"/>
+<label key="268435915" value="Durée de déclenchement"/>
+<label key="268435917" value="Durée des Signes sauvages"/>
+<label key="268435918" value="Coût en Puissance de la chanson"/>
+<label key="268435920" value="Mur de lames amélioré"/>
+<label key="268435921" value="Repérage de vulnérabilité"/>
+<label key="268435922" value="Mots de courage amélioré"/>
+<label key="268435923" value="Trait de Triomphe fortifiant (capitaine)"/>
+<label key="268435981" value="Volonté"/>
+<label key="268435993" value="Chances de critique"/>
+<label key="268435994" value="Connaissance obtenue"/>
+<label key="268435995" value="Connaissance obtenue"/>
+<label key="268435996" value="Maîtrise obtenue"/>
+<label key="268436040" value="Quantité de guérison fournie par vos compétences"/>
+<label key="268436041" value="Autorise l'immunité contre les effets repoussants."/>
+<label key="268436045" value="Mood_Intended_Dread_Level"/>
+<label key="268436087" value="Dégâts de gourdin à une main"/>
+<label key="268436090" value="Combo du trait actuel"/>
+<label key="268436092" value="Chances de bloquer"/>
+<label key="268436095" value="Vulnérabilité au corps à corps"/>
+<label key="268436097" value="Durée de l'attaque"/>
+<label key="268436124" value="Catégories d'équipement autorisées"/>
+<label key="268436147" value="Temps de récupération pour le Sprint"/>
+<label key="268436148" value="Secondes"/>
+<label key="268436149" value="Chrono de réinitialisation de compétence"/>
+<label key="268436150" value="Durée de l'effet"/>
+<label key="268436151" value="Coût en Puissance"/>
+<label key="268436152" value="Pistage des ennemis amélioré"/>
+<label key="268436153" value="Attaque rapide améliorée"/>
+<label key="268436154" value="Déluge de coups amélioré"/>
+<label key="268436155" value="Trait de Riposte instantanée (champion)"/>
+<label key="268436167" value="Résistance aux immunités"/>
+<label key="268436185" value="Augmente le classement de bravoure."/>
+<label key="268436215" value="Résistance à la rupture de discrétion"/>
+<label key="268436331" value="Peut attaquer"/>
+<label key="268436350" value="Combo du trait actuel"/>
+<label key="268436351" value="Chances de parer"/>
+<label key="268436352" value="Chances d'esquive à distance"/>
+<label key="268436354" value="Chances de critique tactique"/>
+<label key="268436393" value="Ferveur"/>
+<label key="268436395" value="Réinitialisation de compétence"/>
+<label key="268436396" value="Temps de récolte du bois"/>
+<label key="268436397" value="Chances de critique - Tir rapide"/>
+<label key="268436435" value="Modificateur du niveau de menace pour les dégâts"/>
+<label key="268436447" value="Gel des mouvements"/>
+<label key="268436462" value="Chances de critique"/>
+<label key="268436524" value="Guérison en approche"/>
+<label key="268436578" value="Combo du trait actuel"/>
+<label key="268436581" value="Limitation des dégâts de lumière"/>
+<label key="268436582" value="Limitation des dégâts des ombres"/>
+<label key="268436583" value="Parade possible"/>
+<label key="268436633" value="Grâce vivifiante améliorée"/>
+<label key="268436634" value="Durée de déclenchement - Arc rapide"/>
+<label key="268436635" value="Chances de critique pour Pluie de flèches"/>
+<label key="268436636" value="Chance de critique à distance"/>
+<label key="268436637" value="Attaque du héraut"/>
+<label key="268436638" value="Cri de déroute amélioré"/>
+<label key="268436639" value="Apparence du héraut du capitaine"/>
+<label key="268436640" value="Bannière d'espoir améliorée"/>
+<label key="268436662" value="Résistance tactique"/>
+<label key="268436663" value="Résistance à la peur"/>
+<label key="268436686" value="Augmente le classement de tolérance."/>
+<label key="268436706" value="Maîtrise obtenue"/>
+<label key="268436709" value="Chances de critique"/>
+<label key="268436764" value="Augmente les chances de guérison par intervale"/>
+<label key="268436768" value="Puissance"/>
+<label key="268436789" value="Surmonter désir"/>
+<label key="268436813" value="Mode Combo de dégâts (gardien)"/>
+<label key="268436815" value="Combo du trait actuel"/>
+<label key="268436816" value="Chances de rater"/>
+<label key="268436817" value="Chances de rater"/>
+<label key="268436861" value="type de dégâts de toutes les compétences"/>
+<label key="268436862" value="Ferveur"/>
+<label key="268436863" value="Ferveur"/>
+<label key="268436864" value="Points minimum"/>
+<label key="268436865" value="Temps de réinitialisation de compétence"/>
+<label key="268436866" value="Chances de critique"/>
+<label key="268436867" value="Coût en magie"/>
+<label key="268436868" value="Coût en Moral"/>
+<label key="268436869" value="Coût en Puissance du savoir des maîtres du savoir"/>
+<label key="268436870" value="Trait de champion Appel de la nature"/>
+<label key="268436871" value="Mod trait de créature apprivoisée"/>
+<label key="268436872" value="Bannière de défense améliorée"/>
+<label key="268436873" value="Apparence du héraut du capitaine"/>
+<label key="268436893" value="Résistance aux blessures"/>
+<label key="268436911" value="Réactions aux conjonctions"/>
+<label key="268436925" value="Multiplicateur d'accélération de mouvement"/>
+<label key="268436928" value="Force"/>
+<label key="268436938" value="Connaissance obtenue"/>
+<label key="268436939" value="Maîtrise obtenue"/>
+<label key="268436996" value="Vulnérabilité aux dégâts pendant la fureur."/>
+<label key="268437033" value="Immunité contre les dégâts de nain d'antan"/>
+<label key="268437059" value="Dégâts de hache à une main"/>
+<label key="268437064" value="Réduction dans l'Ered Luin"/>
+<label key="268437083" value="Action d'utilisation"/>
+<label key="268437109" value="Ferveur"/>
+<label key="268437110" value="Durée de réinitialisation - Besoin impérieux"/>
+<label key="268437111" value="Coût de Moral de Lueur d'espoir"/>
+<label key="268437112" value="Coût en Puissance des compétences de signe"/>
+<label key="268437113" value="Dégâts d'Arc rapide"/>
+<label key="268437114" value="Dégâts des compétences utilisant le feu"/>
+<label key="268437115" value="Tir discret"/>
+<label key="268437116" value="Recentrage"/>
+<label key="268437117" value="Mod trait de créature apprivoisée 2"/>
+<label key="268437118" value="Trait d'Enigme complexe"/>
+<label key="268437119" value="Cri de ralliement amélioré"/>
+<label key="268437120" value="Apparence du héraut du capitaine"/>
+<label key="268437121" value="Contrôle utilisateur de réaction aux émotions"/>
+<label key="268437160" value="Augmente le classement de détermination."/>
+<label key="268437161" value="Augmente le classement d'honnêteté."/>
+<label key="268437185" value="Connaissance obtenue"/>
+<label key="268437186" value="Chances de critique"/>
+<label key="268437238" value="Total de régénération de Puissance"/>
+<label key="268437290" value="Dégâts d'arc"/>
+<label key="268437292" value="Vulnérabilité à distance"/>
+<label key="268437328" value="Pip"/>
+<label key="268437329" value="Amélioration des chances de rater"/>
+<label key="268437330" value="Réinitialisation de Défi du gardien"/>
+<label key="268437331" value="Temps de réinitialisation de compétence"/>
+<label key="268437332" value="Modificateur des chances de critique pour toutes les compétences de frappe"/>
+<label key="268437333" value="Bannière de guerre améliorée"/>
+<label key="268437334" value="Trait de Courage amélioré (capitaine)"/>
+<label key="268437335" value="Contrôle utilisateur de réaction cardiaque"/>
+<label key="268437369" value="Augmente le classement de miséricorde."/>
+<label key="268437402" value="Maîtrise obtenue"/>
+<label key="268437492" value="Immunité contre les dégâts des ombres"/>
+<label key="268437494" value="Immunité contre les dégâts courants"/>
+<label key="268437496" value="Ignorer la menace"/>
+<label key="268437569" value="Temps de réinitialisation de compétence"/>
+<label key="268437570" value="Chances de défense de tous les ennemis"/>
+<label key="268437571" value="Temps de minage"/>
+<label key="268437572" value="Temps de déclenchement de vos attaques à l'arc"/>
+<label key="268437601" value="Augmente le classement de patience."/>
+<label key="268437606" value="Immunités au combat"/>
+<label key="268437610" value="Immunité post-conjonction"/>
+<label key="268437619" value="Destinée"/>
+<label key="268437631" value="Chances de critique"/>
+<label key="268437633" value="Maîtrise obtenue"/>
+<label key="268437647" value="Modificateur de chances de résistance à la mort feinte"/>
+<label key="268437687" value="Niveau de Discrétion"/>
+<label key="268437691" value="Moral"/>
+<label key="268437722" value="Rayon de perception"/>
+<label key="268437747" value="Combo actuelle"/>
+<label key="268437752" value="Limitation des dégâts de nain d'antan"/>
+<label key="268437755" value="Réduction au Pays de Bree"/>
+<label key="268437804" value="Annuler effet cible - Tir rapide"/>
+<label key="268437805" value="Distance max. d'attaque automatique à distance"/>
+<label key="268437806" value="Modificateur de limitation des dégâts des comp. à distance"/>
+<label key="268437807" value="Temps de récupération pour la Renaissance"/>
+<label key="268437808" value="Durée de culture"/>
+<label key="268437809" value="Temps de déclenchement des sorts non dissimulés"/>
+<label key="268437810" value="Modificateur d'impulsion"/>
+<label key="268437812" value="Modificateur de menace"/>
+<label key="268437813" value="Attaque de branche améliorée"/>
+<label key="268437849" value="Augmente le classement de zèle."/>
+<label key="268437884" value="Mort feinte"/>
+<label key="268437931" value="Durée de renfort de promotion de champ"/>
+<label key="268437934" value="Régénération de Moral hors des combats"/>
+<label key="268438033" value="Pip"/>
+<label key="268438034" value="Chances de critique - Attaque automatique"/>
+<label key="268438035" value="Renfort critique"/>
+<label key="268438036" value="Durée de l'effet"/>
+<label key="268438037" value="Ajoute une récupération de Puissance aux trucs"/>
+<label key="268438038" value="Hémorragie des organes vitaux"/>
+<label key="268438039" value="Cri de guerre amélioré"/>
+<label key="268438040" value="Apparence du héraut du capitaine"/>
+<label key="268438077" value="Augmente le classement d'innocence."/>
+<label key="268438078" value="Augmente le classement de loyauté."/>
+<label key="268438099" value="Connaissance obtenue"/>
+<label key="268438188" value="Limitation des dégâts de Beleriand"/>
+<label key="268438189" value="Chances de critique au corps à corps"/>
+<label key="268438236" value="Secondes"/>
+<label key="268438237" value="Temps de réinitialisation de compétence"/>
+<label key="268438238" value="Réinitialisation de la compétence Aiguillon"/>
+<label key="268438239" value="Temps de déclenchement - Flèche barbelée"/>
+<label key="268438240" value="Modificateur de durée de déclenchement de monstre"/>
+<label key="268438241" value="Modificateur de durée de réaction aux parades"/>
+<label key="268438242" value="Coût en Puissance"/>
+<label key="268438243" value="Coût en Puissance de l’hymne"/>
+<label key="268438244" value="Coût en Puissance"/>
+<label key="268438245" value="Coût en Puissance des Trucs"/>
+<label key="268438246" value="Dégâts de ballade"/>
+<label key="268438247" value="Agit sur un événement de type manoeuvre de communauté"/>
+<label key="268438248" value="Apparence du héraut du capitaine"/>
+<label key="268438316" value="Connaissance obtenue"/>
+<label key="268438365" value="Augmente les chances de guérison initiales"/>
+<label key="268438406" value="Immunité au corps à corps"/>
+<label key="268438407" value="Dégâts au corps à corps"/>
+<label key="268438422" value="Distance minimale d'utilisation"/>
+<label key="268438448" value="Durée d'impulsion augmentée"/>
+<label key="268438449" value="Multiplicateur de récupération de Moral pour les manoeuvres de communauté basées sur la Conviction"/>
+<label key="268438450" value="Dégâts de manoeuvre de communauté basée sur la Force"/>
+<label key="268438451" value="Précision mortelle"/>
+<label key="268438452" value="Trait de Sprint infini (champion)"/>
+<label key="268438453" value="Hémorragie des organes vitaux à partir de la discrétion"/>
+<label key="268438454" value="Défi"/>
+<label key="268438455" value="Apparence du héraut du capitaine"/>
+<label key="268438502" value="Agilité"/>
+<label key="268438584" value="Régénération de Moral au combat"/>
+<label key="268438623" value="Test Enchantable Property"/>
+<label key="268438634" value="Immunité contre la magie"/>
+<label key="268438635" value="Dégâts à distance"/>
+<label key="268438683" value="Nombre de cibles"/>
+<label key="268438684" value="Limitation de Ferveur"/>
+<label key="268438685" value="Augmentation du compteur d'impulsion d'hémorragie"/>
+<label key="268438686" value="Modificateur de coût aux carac. à distance"/>
+<label key="268438687" value="Modificateur de coût aux carac. au CàC"/>
+<label key="268438688" value="Pistage des ombres amélioré"/>
+<label key="268438689" value="Chances de critique - Attaque au bouclier"/>
+<label key="268438735" value="Augmente le classement de compassion."/>
+<label key="268438736" value="Augmente le classement de force d'âme."/>
+<label key="268438741" value="Menace perçue"/>
+<label key="268438757" value="Niveau de discrétion"/>
+<label key="268438763" value="Chances de critique"/>
+<label key="268438830" value="Etat de mode En sécurité"/>
+<label key="268438881" value="Augmentation des dégâts de bouclier (gardien)"/>
+<label key="268438882" value="Dégâts d'épée à une main"/>
+<label key="268438887" value="Immunité à distance"/>
+<label key="268438940" value="Limitation de la cible pour cette attaque"/>
+<label key="268438941" value="Récupération de Visée accélérée"/>
+<label key="268438942" value="Chances de critique augmentées"/>
+<label key="268438944" value="Dégâts de manoeuvre de communauté basée sur la Ruse"/>
+<label key="268438945" value="Les tirs à l'arc procurent de la Puissance"/>
+<label key="268438946" value="Inspiration améliorée"/>
+<label key="268438947" value="Arrêts réactifs"/>
+<label key="268438948" value="Parade revitalisante"/>
+<label key="268438982" value="Menace de guérison"/>
+<label key="268438992" value="Modificateur de vitesse de rotation"/>
+<label key="268439066" value="Total de régénération de Moral"/>
+<label key="268439103" value="IA est-elle active"/>
+<label key="268439129" value="Réduction dans les Terres Solitaires"/>
+<label key="268439183" value="Réinitialisation de compétence"/>
+<label key="268439184" value="Temps de déclenchement de Lueur d'espoir"/>
+<label key="268439185" value="Multiplicateur de dégâts critiques pour Pluie de flèches"/>
+<label key="268439186" value="Chances de critique avec les compétences de cambrioleur"/>
+<label key="268439188" value="Dégâts de compétence à zone d'effet"/>
+<label key="268439189" value="Les Tirs retardateurs peuvent immobiliser"/>
+<label key="268439216" value="Résistance physique"/>
+<label key="268439237" value="Augmente le classement de charité."/>
+<label key="268439267" value="Chances de critique"/>
+<label key="268439269" value="Connaissance obtenue"/>
+<label key="268439270" value="Chances de critique"/>
+<label key="268439350" value="Ressource de pistage"/>
+<label key="268439365" value="Immunité contre les dégâts de Beleriand"/>
+<label key="268439366" value="Immunité contre les dégâts d'Ouistrenesse"/>
+<label key="268439395" value="Limitation des dégâts de feu"/>
+<label key="268439396" value="Vulnérabilité aux critiques au corps à corps"/>
+<label key="268439397" value="Réduction dans la Trouée des Trolls"/>
+<label key="268439425" value="Autoriser arme secondaire"/>
+<label key="268439443" value="Ferveur"/>
+<label key="268439444" value="Temps de réinitialisation de compétence"/>
+<label key="268439445" value="Temps de réaction au balayage au bouclier"/>
+<label key="268439446" value="Modificateur de durée"/>
+<label key="268439447" value="Coût des cris"/>
+<label key="268439448" value="Multiplicateur de récupération de Moral pour les manoeuvres de communauté basées sur la Tactique"/>
+<label key="268439449" value="Menace à distance"/>
+<label key="268439450" value="Fléau d'arc"/>
+<label key="268439482" value="Augmente le classement de fidélité."/>
+<label key="268439483" value="Augmente le classement de sagesse."/>
+<label key="268439496" value="Détection de Discrétion"/>
+<label key="268439501" value="Chances de critique"/>
+<label key="268439502" value="Connaissance obtenue"/>
+<label key="268439562" value="Espoir"/>
+<label key="268439563" value="Modificateur d'expérience"/>
+<label key="268439608" value="Mode Combo à distance (chasseur)"/>
+<label key="268439610" value="Vulnérabilité tactique"/>
+<label key="268439611" value="Dégâts tactiques"/>
+<label key="268439614" value="Esquive possible"/>
+<label key="268439616" value="Multiplicateur de critique tactique"/>
+<label key="268439659" value="Nombre de cibles pour les compétences de connaissances AOE"/>
+<label key="268439660" value="Multiplicateur de dégâts main non directrice"/>
+<label key="268439680" value="Résistance aux maladies"/>
+<label key="268439728" value="Modificateur de chances de critique"/>
+<label key="268439729" value="Connaissance obtenue"/>
+<label key="268439731" value="Maîtrise obtenue"/>
+<label key="268439859" value="Limitation des dégâts courants"/>
+<label key="268439900" value="Modificateur de parade des comp. à distance"/>
+<label key="268439901" value="Modificateur d'esquive des comp. à distance"/>
+<label key="268439902" value="Positional Damage Multiplier"/>
+<label key="268439904" value="Apparence du héraut du capitaine"/>
+<label key="268439946" value="Vitalité"/>
+<label key="268439955" value="Maîtrise obtenue"/>
+<label key="268440059" value="Dégâts d'épée à deux mains"/>
+<label key="268440061" value="Combo du trait actuel"/>
+<label key="268440063" value="Limitation des dégâts d'Ouistrenesse"/>
+<label key="268440065" value="Réduction dans la Comté"/>
+<label key="268440116" value="Modificateur de chance de rater (cambrioleur)"/>
+<label key="268440117" value="Chances de la cible d'arrêter vos attaques à l'arc"/>
+<label key="268440118" value="Modificateur d'impulsion"/>
+<label key="268440119" value="Réduction du Tir rapide"/>
+<label key="268440120" value="Piège solide : piège amélioré"/>
+<label key="268440121" value="Attaque sauvage améliorée"/>
+<label key="268440123" value="Apparence du héraut du capitaine"/>
+<label key="268440124" value="Trait de Maniement de deux armes amélioré (chasseur)"/>
+<label key="268440125" value="Arrêt revitalisant"/>
+<label key="268440138" value="Apparence"/>
+<label key="268440166" value="Augmente le classement de justice."/>
+<label key="268440167" value="Augmente le classement d'empathie."/>
+<label key="268440211" value="Maîtrise obtenue"/>
+<label key="268440220" value="Vaincre immunité"/>
+<label key="268440270" value="Durée des affaiblissements de toile"/>
+<label key="268440378" value="Coût minimum en Ferveur"/>
+<label key="268440379" value="Réinitialisation de la compétence Inspiration profonde"/>
+<label key="268440380" value="Temps de réinitialisation de compétence"/>
+<label key="268440381" value="Modificateur de blocage des comp. à distance"/>
+<label key="268440382" value="Modificateur de dégâts de critique pour toutes les compétences de frappe"/>
+<label key="268440383" value="Chances de critique"/>
+<label key="268440384" value="Augmente la durée des effets de soins du maître du savoir"/>
+<label key="268440385" value="Coût en Puissance"/>
+<label key="268440386" value="Coût en Puissance"/>
+<label key="268440387" value="Coût du Signe du pouvoir des maîtres du savoir"/>
+<label key="268440388" value="Coût en Puissance de la ballade"/>
+<label key="268440389" value="Damage Increase"/>
+<label key="268440390" value="Multiplicateur aux dégâts d'Aiguillon"/>
+<label key="268440391" value="Plaie béante infligera parfois des dégâts durables"/>
+<label key="268440392" value="Patience"/>
+<label key="268440393" value="Apparence du héraut du capitaine"/>
+<label key="268440419" value="Résistance au poison"/>
+<label key="268440448" value="Augmente le classement de discipline."/>
+<label key="268440449" value="Augmente le classement d'honneur."/>
+<label key="268440525" value="Dégâts infligés par le poison de Morsure contaminante"/>
+<label key="268440569" value="Immunité contre les dégâts de feu"/>
+<label key="268440594" value="Dégâts de gourdin à deux mains"/>
+<label key="268440595" value="Chances d'esquiver"/>
+<label key="268440642" value="Temps de récupération pour l'Attaque dévastatrice"/>
+<label key="268440643" value="Recharge de compétence de chant"/>
+<label key="268440644" value="Durée de déclenchement"/>
+<label key="268440645" value="Chances de critique à partir d'une attaque discrète"/>
+<label key="268440646" value="Durée de l'effet"/>
+<label key="268440647" value="Coût en Puissance"/>
+<label key="268440648" value="Dégâts infligés sur Attaque perçante"/>
+<label key="268440649" value="Modificateur de menace"/>
+<label key="268440650" value="Menace"/>
+<label key="268440651" value="Pistage naturel amélioré"/>
+<label key="268440652" value="Applique les améliorations des trucs"/>
+<label key="268440653" value="Défense de gardien améliorée"/>
+<label key="268440667" value="Résistance aux chants"/>
+<label key="268440685" value="Augmente le classement de confiance."/>
+<label key="268440702" value="Connaissance obtenue"/>
+<label key="268440768" value="Vitesse des mouvements en mode Discrétion"/>
+<label key="268440777" value="Non attaquable"/>
+<label key="268440802" value="IA est-elle active"/>
+<label key="268440804" value="Contrôle du tableau des modificateurs de menace"/>
+<label key="268440829" value="Mode combo d'apparition du héraut du capitaine"/>
+<label key="268440831" value="Valeur d'armure"/>
+<label key="268440862" value="Coût en Puissance de la zone d'effet de Ligne de lame"/>
+<label key="268440875" value="Coût en Puissance de Ligne de coups"/>
+<label key="268440885" value="Ramène les camarades après la défaite"/>
+<label key="268440889" value="Est interruptible pour les mouvements de combat"/>
+<label key="268441081" value="Chances de critique de l'attaque automatique"/>
+<label key="268441090" value="Dégâts infligés"/>
+<label key="268441154" value="Coût en puissance de compétence de corps à corps"/>
+<label key="268441155" value="Multiplicateur de dégâts"/>
+<label key="268441211" value="Retard de retrait d'effet de combat uniquement"/>
+<label key="268441222" value="Chances de critique tactique"/>
+<label key="268441224" value="Vulnérabilité aux critiques tactiques"/>
+<label key="268441226" value="Vulnérabilité aux critiques à distance"/>
+<label key="268441230" value="Chances de critique à distance"/>
+<label key="268441250" value="Augmentation de la quantité de guérison"/>
+<label key="268441251" value="Réduction de la résistance pour guérison"/>
+<label key="268441332" value="Réinitialisation de toutes les compétences de cri de capitaine"/>
+<label key="268441333" value="Délai d'Arc rapide"/>
+<label key="268441334" value="Délai de Tir pénétrant"/>
+<label key="268441335" value="Réinitialisation de la compétence de gardien Défi des ténèbres"/>
+<label key="268441336" value="Délai de Fuite des ténèbres du capitaine"/>
+<label key="268441337" value="Résistance à Lumière aveuglante"/>
+<label key="268441483" value="Distance max des compétences à distance"/>
+<label key="268441489" value="Partager la cible détectée"/>
+<label key="268441535" value="Permission des hérauts"/>
+<label key="268441536" value="Permission des étendards de bannières"/>
+<label key="268441644" value="Contrôle des effets de héraut invoqué"/>
+<label key="268441646" value="Dégâts de manoeuvre de communauté basés sur la Ruse"/>
+<label key="268441647" value="Vitesse de course hors combat"/>
+<label key="268441648" value="Vitesse de course au combat"/>
+<label key="268441669" value="Effet additionnel d'arme de corps à corps"/>
+<label key="268441670" value="Effet additionnel d'arme à distance"/>
+<label key="268441671" value="Effet additionnel d'arme tactique"/>
+<label key="268441673" value="Contrôle des effets de héraut de victoire invoqué"/>
+<label key="268441674" value="Contrôle des effets de héraut d'espoir invoqué"/>
+<label key="268441829" value="Etendard de guerre amélioré"/>
+<label key="268441830" value="Etendard de défense amélioré"/>
+<label key="268441831" value="Etendard d'espoir amélioré"/>
+<label key="268441927" value="Temps de tentative des compétences de fuite du capitaine"/>
+<label key="268441958" value="Cibles max Cri de vengeance"/>
+<label key="268441968" value="Attaque par surprise avec discrétion"/>
+<label key="268441969" value="Résistance aux défis"/>
+<label key="268441970" value="Réinitialisation durée compétence"/>
+<label key="268441971" value="Attaque fortifiante évitée - Modificateur de chance"/>
+<label key="268442009" value="Absorption de dégâts de type feu par une armure de faille"/>
+<label key="268442021" value="Temps de déclenchement de compétences d'esquive de capitaine"/>
+<label key="268442022" value="Coût en Puissance de la Reprise de souffle"/>
+<label key="268442023" value="Dégâts de gloire"/>
+<label key="268442024" value="Dégâts critiques avec Attaque sournoise"/>
+<label key="268442025" value="Menace de gloire"/>
+<label key="268442040" value="Coût en Puissance du Cherche-coeur"/>
+<label key="268442041" value="Coût en Puissance du Tir pénétrant"/>
+<label key="268442042" value="Menace de l'Esprit triomphal"/>
+<label key="268442046" value="Protection de feu de Don du Poing de Marteau"/>
+<label key="268442048" value="Vitesse de recherche"/>
+<label key="268442065" value="Augmentation des dégâts des Mots de puissance"/>
+<label key="268442066" value="Augmentation du coût d'utilisation des Mots de puissance"/>
+<label key="268442067" value="Type de dégâts du Chant du parjure"/>
+<label key="268442120" value="Combo du trait en cours"/>
+<label key="268442247" value="Override for Bear Loremaster APR pet effects"/>
+<label key="268442248" value="Override for Loremaster Raven APR pet effects"/>
+<label key="268442249" value="Override for Eagle Loremaster APR pet effects"/>
+<label key="268442250" value="Override for Lynx Loremaster APR pet effects"/>
+<label key="268442264" value="Chance critique du Cri perçant"/>
+<label key="268442283" value="Absorption de dégâts de type ombres par une armure de faille"/>
+<label key="268442296" value="Voltige"/>
+<label key="268442338" value="Test Pet Effect Aura Override"/>
+<label key="268442363" value="Protection d'ombre de Don du Poing de Marteau"/>
+<label key="268442368" value="Temps de refroidissement de la Connaissance des tempêtes"/>
+<label key="268442369" value="Coût en Puissance de la Tempête foudroyante"/>
+<label key="268442381" value="Compensation de caméra X"/>
+<label key="268442382" value="Compensation de caméra Y"/>
+<label key="268442383" value="Compensation de caméra Z"/>
+<label key="268442391" value="Combo du trait en cours"/>
+<label key="268442396" value="Amélioration d'armure de faille pour créature apprivoisée"/>
+<label key="268442397" value="Amélioration d'armure de faille pour créature apprivoisée"/>
+<label key="268442398" value="Amélioration d'armure de faille pour créature apprivoisée"/>
+<label key="268442399" value="Amélioration d'armure de faille pour créature apprivoisée"/>
+<label key="268442400" value="Amélioration d'armure de faille pour créature apprivoisée"/>
+<label key="268442401" value="Amélioration d'armure de faille pour créature apprivoisée"/>
+<label key="268442402" value="Amélioration d'armure de faille pour créature apprivoisée"/>
+<label key="268442403" value="Amélioration d'armure de faille pour créature apprivoisée"/>
+<label key="268442404" value="Amélioration d'armure de faille pour créature apprivoisée"/>
+<label key="268442405" value="Amélioration d'armure de faille pour créature apprivoisée"/>
+<label key="268442406" value="Amélioration d'armure de faille pour créature apprivoisée"/>
+<label key="268442407" value="Amélioration d'armure de faille pour créature apprivoisée"/>
+<label key="268442419" value="Coût en Puissance de la Connaissance des tempêtes"/>
+<label key="268442420" value="Temps de récupération de la Tempête foudroyante"/>
+<label key="268442467" value="Résidences bon marché de l'Ered Luin"/>
+<label key="268442468" value="Résidences bon marché du Pays de Bree"/>
+<label key="268442469" value="Résidences bon marché de Fondcombe"/>
+<label key="268442470" value="Résidences bon marché de la Comté"/>
+<label key="268442486" value="Recharge de la compétence Chant"/>
+<label key="268442487" value="Recharge de la compétence Chant"/>
+<label key="268442488" value="Recharge de la compétence Chant"/>
+<label key="268442489" value="Recharge de la compétence Ralliement"/>
+<label key="268442490" value="Recharge de la compétence Chant"/>
+<label key="268442491" value="Recharge de la compétence Chant"/>
+</labels>

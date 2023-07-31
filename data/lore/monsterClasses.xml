@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?><classes>
+<monsterClass id="1879073664" code="71" key="Reaver" name="Reaver" tag="" iconId="1090551241" smallIconId="0" abbreviation="RVR" description="key:620775379:228830419">
+<classTrait minLevel="50" traitId="1879072425" traitName="Power Boost"/>
+<classTrait minLevel="50" traitId="1879072426" traitName="Resistance Boost"/>
+<classTrait minLevel="50" traitId="1879072427" traitName="Quick Strikes"/>
+<classTrait minLevel="50" traitId="1879072428" traitName="Burning Blades"/>
+<classTrait minLevel="50" traitId="1879072429" traitName="Enhanced Skill: Jagged Cut"/>
+<classTrait minLevel="50" traitId="1879072430" traitName="Enhanced Skill: Glory in Victory"/>
+<classTrait minLevel="50" traitId="1879072431" traitName="Enhanced Skill: Devastating Strike"/>
+<classTrait minLevel="50" traitId="1879072432" traitName="Advanced Skill: Resilience"/>
+<classTrait minLevel="50" traitId="1879072435" traitName="Appearance 1"/>
+<classTrait minLevel="50" traitId="1879072436" traitName="Appearance 2"/>
+<classTrait minLevel="50" traitId="1879072437" traitName="Appearance 3"/>
+<classTrait minLevel="50" traitId="1879072438" traitName="Appearance 4"/>
+<classTrait minLevel="50" traitId="1879072439" traitName="Appearance 5"/>
+<classTrait minLevel="50" traitId="1879072440" traitName="Appearance 6"/>
+<classTrait minLevel="50" traitId="1879072505" traitName="Damage for Health (Rank 1)"/>
+<classTrait minLevel="50" traitId="1879091351" traitName="Damage for Health (Rank 2)"/>
+<classTrait minLevel="50" traitId="1879072506" traitName="Damage for Power (Rank 1)"/>
+<classTrait minLevel="50" traitId="1879091352" traitName="Damage for Power (Rank 2)"/>
+<classTrait minLevel="50" traitId="1879072507" traitName="Health for Damage (Rank 1)"/>
+<classTrait minLevel="50" traitId="1879091353" traitName="Health for Damage (Rank 2)"/>
+<classTrait minLevel="50" traitId="1879072508" traitName="Health for Power (Rank 1)"/>
+<classTrait minLevel="50" traitId="1879091354" traitName="Health for Power (Rank 2)"/>
+<classTrait minLevel="50" traitId="1879072509" traitName="Power for Damage (Rank 1)"/>
+<classTrait minLevel="50" traitId="1879091355" traitName="Power for Damage (Rank 2)"/>
+<classTrait minLevel="50" traitId="1879072510" traitName="Power for Health (Rank 1)"/>
+<classTrait minLevel="50" traitId="1879091356" traitName="Power for Health (Rank 2)"/>
+<classTrait minLevel="50" traitId="1879072511" traitName="Common Mitigation Boost (Rank 1)"/>
+<classTrait minLevel="50" traitId="1879091359" traitName="Common Mitigation Boost (Rank 2)"/>
+<classTrait minLevel="50" traitId="1879072512" traitName="Fire Mitigation Boost (Rank 1)"/>
+<classTrait minLevel="50" traitId="1879091360" traitName="Fire Mitigation Boost (Rank 2)"/>
+<classTrait minLevel="50" traitId="1879072513" traitName="Light Mitigation Boost (Rank 1)"/>
+<classTrait minLevel="50" traitId="1879091361" traitName="Light Mitigation Boost (Rank 2)"/>
+<classTrait minLevel="50" traitId="1879072514" traitName="Ancient Dwarf Mitigation Boost (Rank 1)"/>
+<classTrait minLevel="50" traitId="1879091357" traitName="Ancient Dwarf Mitigation Boost (Rank 2)"/>
+<classTrait minLevel="50" traitId="1879072515" traitName="Beleriand Mitigation Boost (Rank 1)"/>
+<classTrait minLevel="50" traitId="1879091358" traitName="Beleriand Mitigation Boost (Rank 2)"/>
+<classTrait minLevel="50" traitId="1879072516" traitName="Westernesse Mitigation Boost (Rank 1)"/>
+<classTrait minLevel="50" traitId="1879091362" traitName="Westernesse Mitigation Boost (Rank 2)"/>
+<classTrait minLevel="50" traitId="1879072517" traitName="Song Resistance Boost (Rank 1)"/>
+<classTrait minLevel="50" traitId="1879091366" traitName="Song Resistance Boost (Rank 2)"/>
+<classTrait minLevel="50" traitId="1879072518" traitName="Cry Resistance Boost (Rank 1)"/>
+<classTrait minLevel="50" traitId="1879091363" traitName="Cry Resistance Boost (Rank 2)"/>
+<classTrait minLevel="50" traitId="1879072519" traitName="Tactical Resistance Boost (Rank 1)"/>
+<classTrait minLevel="50" traitId="1879091364" traitName="Tactical Resistance Boost (Rank 2)"/>
+<classTrait minLevel="50" traitId="1879072520" traitName="Physical Resistance Boost (Rank 1)"/>
+<classTrait minLevel="50" traitId="1879091365" traitName="Physical Resistance Boost (Rank 2)"/>
+<classTrait minLevel="50" traitId="1879072521" traitName="Stealth Detection Boost"/>
+<classSkill minLevel="50" skillId="1879073674" skillName="Sudden Strikes"/>
+<classSkill minLevel="50" skillId="1879073675" skillName="Jagged Cut"/>
+<classSkill minLevel="50" skillId="1879073676" skillName="Sundering Blow"/>
+<classSkill minLevel="50" skillId="1879073677" skillName="Devastating Strike"/>
+<classSkill minLevel="50" skillId="1879072530" skillName="Hamstring"/>
+<classSkill minLevel="50" skillId="1879072528" skillName="Disarm"/>
+<classSkill minLevel="50" skillId="1879073678" skillName="Blinding Dust"/>
+<classSkill minLevel="50" skillId="1879073679" skillName="Glory in Victory"/>
+<classSkill minLevel="50" skillId="1879097880" skillName="Charge!"/>
+<classSkill minLevel="50" skillId="1879097881" skillName="Gut Punch"/>
+<classSkill minLevel="50" skillId="1879094735" skillName="Troll's Brutality (Melee)"/>
+<classSkill minLevel="50" skillId="1879095209" skillName="Spider's Venom (Melee)"/>
+<classSkill minLevel="50" skillId="1879095383" skillName="Wight's Rot (Melee)"/>
+<classSkill minLevel="50" skillId="1879095103" skillName="Fell Spirit's Terror (Ranged)"/>
+</monsterClass>
+<monsterClass id="1879073665" code="128" key="Defiler" name="Shaman" tag="" iconId="1090551241" smallIconId="0" abbreviation="SHA" description="key:620775392:228830419">
+<classSkill minLevel="1" skillId="1879073674" skillName="Sudden Strikes"/>
+</monsterClass>
+<monsterClass id="1879073666" code="179" key="Blackarrow" name="Blackarrow" tag="" iconId="1090551243" smallIconId="0" abbreviation="BLA" description="key:620775395:228830419">
+<classTrait minLevel="50" traitId="1879072457" traitName="Avoidance Boost"/>
+<classTrait minLevel="50" traitId="1879072458" traitName="Resistance Boost"/>
+<classTrait minLevel="50" traitId="1879072459" traitName="Deadly Aim"/>
+<classTrait minLevel="50" traitId="1879072460" traitName="Uncanny Reactions"/>
+<classTrait minLevel="50" traitId="1879072461" traitName="Enhanced Skill: Hindering Shot"/>
+<classTrait minLevel="50" traitId="1879072462" traitName="Penetrating Arrows"/>
+<classTrait minLevel="50" traitId="1879072463" traitName="Swift Draw"/>
+<classTrait minLevel="50" traitId="1879072464" traitName="Advanced Skill: Set Trap"/>
+<classTrait minLevel="50" traitId="1879072467" traitName="Appearance 1"/>
+<classTrait minLevel="50" traitId="1879072468" traitName="Appearance 2"/>
+<classTrait minLevel="50" traitId="1879072469" traitName="Appearance 3"/>
+<classTrait minLevel="50" traitId="1879072470" traitName="Appearance 4"/>
+<classTrait minLevel="50" traitId="1879072471" traitName="Appearance 5"/>
+<classTrait minLevel="50" traitId="1879072472" traitName="Appearance 6"/>
+<classTrait minLevel="50" traitId="1879072505" traitName="Damage for Health (Rank 1)"/>
+<classTrait minLevel="50" traitId="1879091351" traitName="Damage for Health (Rank 2)"/>
+<classTrait minLevel="50" traitId="1879072506" traitName="Damage for Power (Rank 1)"/>
+<classTrait minLevel="50" traitId="1879091352" traitName="Damage for Power (Rank 2)"/>
+<classTrait minLevel="50" traitId="1879072507" traitName="Health for Damage (Rank 1)"/>
+<classTrait minLevel="50" traitId="1879091353" traitName="Health for Damage (Rank 2)"/>
+<classTrait minLevel="50" traitId="1879072508" traitName="Health for Power (Rank 1)"/>
+<classTrait minLevel="50" traitId="1879091354" traitName="Health for Power (Rank 2)"/>
+<classTrait minLevel="50" traitId="1879072509" traitName="Power for Damage (Rank 1)"/>
+<classTrait minLevel="50" traitId="1879091355" traitName="Power for Damage (Rank 2)"/>
+<classTrait minLevel="50" traitId="1879072510" traitName="Power for Health (Rank 1)"/>
+<classTrait minLevel="50" traitId="1879091356" traitName="Power for Health (Rank 2)"/>
+<classTrait minLevel="50" traitId="1879072511" traitName="Common Mitigation Boost (Rank 1)"/>
+<classTrait minLevel="50" traitId="1879091359" traitName="Common Mitigation Boost (Rank 2)"/>
+<classTrait minLevel="50" traitId="1879072512" traitName="Fire Mitigation Boost (Rank 1)"/>
+<classTrait minLevel="50" traitId="1879091360" traitName="Fire Mitigation Boost (Rank 2)"/>
+<classTrait minLevel="50" traitId="1879072513" traitName="Light Mitigation Boost (Rank 1)"/>
+<classTrait minLevel="50" traitId="1879091361" traitName="Light Mitigation Boost (Rank 2)"/>
+<classTrait minLevel="50" traitId="1879072514" traitName="Ancient Dwarf Mitigation Boost (Rank 1)"/>
+<classTrait minLevel="50" traitId="1879091357" traitName="Ancient Dwarf Mitigation Boost (Rank 2)"/>
+<classTrait minLevel="50" traitId="1879072515" traitName="Beleriand Mitigation Boost (Rank 1)"/>
+<classTrait minLevel="50" traitId="1879091358" traitName="Beleriand Mitigation Boost (Rank 2)"/>
+<classTrait minLevel="50" traitId="1879072516" traitName="Westernesse Mitigation Boost (Rank 1)"/>
+<classTrait minLevel="50" traitId="1879091362" traitName="Westernesse Mitigation Boost (Rank 2)"/>
+<classTrait minLevel="50" traitId="1879072517" traitName="Song Resistance Boost (Rank 1)"/>
+<classTrait minLevel="50" traitId="1879091366" traitName="Song Resistance Boost (Rank 2)"/>
+<classTrait minLevel="50" traitId="1879072518" traitName="Cry Resistance Boost (Rank 1)"/>
+<classTrait minLevel="50" traitId="1879091363" traitName="Cry Resistance Boost (Rank 2)"/>
+<classTrait minLevel="50" traitId="1879072519" traitName="Tactical Resistance Boost (Rank 1)"/>
+<classTrait minLevel="50" traitId="1879091364" traitName="Tactical Resistance Boost (Rank 2)"/>
+<classTrait minLevel="50" traitId="1879072520" traitName="Physical Resistance Boost (Rank 1)"/>
+<classTrait minLevel="50" traitId="1879091365" traitName="Physical Resistance Boost (Rank 2)"/>
+<classTrait minLevel="50" traitId="1879072521" traitName="Stealth Detection Boost"/>
+<classSkill minLevel="50" skillId="1879073697" skillName="Strong Pull"/>
+<classSkill minLevel="50" skillId="1879073698" skillName="Screaming Shafts"/>
+<classSkill minLevel="50" skillId="1879073699" skillName="Punctured Target"/>
+<classSkill minLevel="50" skillId="1879072548" skillName="Flaming Arrow"/>
+<classSkill minLevel="50" skillId="1879073700" skillName="Hindering Shot"/>
+<classSkill minLevel="50" skillId="1879072545" skillName="Death Blossom"/>
+<classSkill minLevel="50" skillId="1879073701" skillName="Cut"/>
+<classSkill minLevel="50" skillId="1879073702" skillName="Moving Target"/>
+<classSkill minLevel="50" skillId="1879097883" skillName="Vital Target"/>
+<classSkill minLevel="50" skillId="1879097884" skillName="I See You!"/>
+<classSkill minLevel="50" skillId="1879097885" skillName="No You Don't"/>
+<classSkill minLevel="50" skillId="1879095215" skillName="Troll's Brutality (Ranged)"/>
+<classSkill minLevel="50" skillId="1879095257" skillName="Spider's Venom (Ranged)"/>
+<classSkill minLevel="50" skillId="1879095392" skillName="Wight's Rot (Ranged)"/>
+<classSkill minLevel="50" skillId="1879095103" skillName="Fell Spirit's Terror (Ranged)"/>
+</monsterClass>
+<monsterClass id="1879073667" code="52" key="Warleader" name="Warleader" tag="" iconId="1090551244" smallIconId="0" abbreviation="WAR" description="key:620775405:228830419">
+<classTrait minLevel="50" traitId="1879072473" traitName="Damage Boost"/>
+<classTrait minLevel="50" traitId="1879072474" traitName="Avoidance Boost"/>
+<classTrait minLevel="50" traitId="1879072475" traitName="Empowering"/>
+<classTrait minLevel="50" traitId="1879072476" traitName="Shield Mastery"/>
+<classTrait minLevel="50" traitId="1879072477" traitName="Enhanced Skill: On Your Feet!"/>
+<classTrait minLevel="50" traitId="1879072478" traitName="Harsh Language"/>
+<classTrait minLevel="50" traitId="1879072479" traitName="Enhanced Skill: Field Promotion"/>
+<classTrait minLevel="50" traitId="1879072480" traitName="Advanced Skill: Snap Out of It!"/>
+<classTrait minLevel="50" traitId="1879072483" traitName="Appearance 1"/>
+<classTrait minLevel="50" traitId="1879072484" traitName="Appearance 2"/>
+<classTrait minLevel="50" traitId="1879072485" traitName="Appearance 3"/>
+<classTrait minLevel="50" traitId="1879072486" traitName="Appearance 4"/>
+<classTrait minLevel="50" traitId="1879072487" traitName="Appearance 5"/>
+<classTrait minLevel="50" traitId="1879072488" traitName="Appearance 6"/>
+<classTrait minLevel="50" traitId="1879072505" traitName="Damage for Health (Rank 1)"/>
+<classTrait minLevel="50" traitId="1879091351" traitName="Damage for Health (Rank 2)"/>
+<classTrait minLevel="50" traitId="1879072506" traitName="Damage for Power (Rank 1)"/>
+<classTrait minLevel="50" traitId="1879091352" traitName="Damage for Power (Rank 2)"/>
+<classTrait minLevel="50" traitId="1879072507" traitName="Health for Damage (Rank 1)"/>
+<classTrait minLevel="50" traitId="1879091353" traitName="Health for Damage (Rank 2)"/>
+<classTrait minLevel="50" traitId="1879072508" traitName="Health for Power (Rank 1)"/>
+<classTrait minLevel="50" traitId="1879091354" traitName="Health for Power (Rank 2)"/>
+<classTrait minLevel="50" traitId="1879072509" traitName="Power for Damage (Rank 1)"/>
+<classTrait minLevel="50" traitId="1879091355" traitName="Power for Damage (Rank 2)"/>
+<classTrait minLevel="50" traitId="1879072510" traitName="Power for Health (Rank 1)"/>
+<classTrait minLevel="50" traitId="1879091356" traitName="Power for Health (Rank 2)"/>
+<classTrait minLevel="50" traitId="1879072511" traitName="Common Mitigation Boost (Rank 1)"/>
+<classTrait minLevel="50" traitId="1879091359" traitName="Common Mitigation Boost (Rank 2)"/>
+<classTrait minLevel="50" traitId="1879072512" traitName="Fire Mitigation Boost (Rank 1)"/>
+<classTrait minLevel="50" traitId="1879091360" traitName="Fire Mitigation Boost (Rank 2)"/>
+<classTrait minLevel="50" traitId="1879072513" traitName="Light Mitigation Boost (Rank 1)"/>
+<classTrait minLevel="50" traitId="1879091361" traitName="Light Mitigation Boost (Rank 2)"/>
+<classTrait minLevel="50" traitId="1879072514" traitName="Ancient Dwarf Mitigation Boost (Rank 1)"/>
+<classTrait minLevel="50" traitId="1879091357" traitName="Ancient Dwarf Mitigation Boost (Rank 2)"/>
+<classTrait minLevel="50" traitId="1879072515" traitName="Beleriand Mitigation Boost (Rank 1)"/>
+<classTrait minLevel="50" traitId="1879091358" traitName="Beleriand Mitigation Boost (Rank 2)"/>
+<classTrait minLevel="50" traitId="1879072516" traitName="Westernesse Mitigation Boost (Rank 1)"/>
+<classTrait minLevel="50" traitId="1879091362" traitName="Westernesse Mitigation Boost (Rank 2)"/>
+<classTrait minLevel="50" traitId="1879072517" traitName="Song Resistance Boost (Rank 1)"/>
+<classTrait minLevel="50" traitId="1879091366" traitName="Song Resistance Boost (Rank 2)"/>
+<classTrait minLevel="50" traitId="1879072518" traitName="Cry Resistance Boost (Rank 1)"/>
+<classTrait minLevel="50" traitId="1879091363" traitName="Cry Resistance Boost (Rank 2)"/>
+<classTrait minLevel="50" traitId="1879072519" traitName="Tactical Resistance Boost (Rank 1)"/>
+<classTrait minLevel="50" traitId="1879091364" traitName="Tactical Resistance Boost (Rank 2)"/>
+<classTrait minLevel="50" traitId="1879072520" traitName="Physical Resistance Boost (Rank 1)"/>
+<classTrait minLevel="50" traitId="1879091365" traitName="Physical Resistance Boost (Rank 2)"/>
+<classTrait minLevel="50" traitId="1879072521" traitName="Stealth Detection Boost"/>
+<classSkill minLevel="50" skillId="1879073710" skillName="Initimdating Shout"/>
+<classSkill minLevel="50" skillId="1879073711" skillName="Cleave"/>
+<classSkill minLevel="50" skillId="1879073712" skillName="Crack The Whip"/>
+<classSkill minLevel="50" skillId="1879072554" skillName="Quit Whining and Fight!"/>
+<classSkill minLevel="50" skillId="1879073713" skillName="On Your Feet!"/>
+<classSkill minLevel="50" skillId="1879073714" skillName="Field Promotion"/>
+<classSkill minLevel="50" skillId="1879072550" skillName="Mobilize"/>
+<classSkill minLevel="50" skillId="1879073715" skillName="Aura of Command"/>
+<classSkill minLevel="50" skillId="1879097887" skillName="Banner of Terror"/>
+<classSkill minLevel="50" skillId="1879097888" skillName="Black Speech"/>
+<classSkill minLevel="50" skillId="1879097889" skillName="Command Post"/>
+<classSkill minLevel="50" skillId="1879094735" skillName="Troll's Brutality (Melee)"/>
+<classSkill minLevel="50" skillId="1879095209" skillName="Spider's Venom (Melee)"/>
+<classSkill minLevel="50" skillId="1879095383" skillName="Wight's Rot (Melee)"/>
+<classSkill minLevel="50" skillId="1879095103" skillName="Fell Spirit's Terror (Ranged)"/>
+</monsterClass>
+<monsterClass id="1879073668" code="127" key="Weaver" name="Weaver" tag="" iconId="1090551242" smallIconId="0" abbreviation="WVR" description="key:620775416:228830419">
+<classTrait minLevel="50" traitId="1879072441" traitName="Health Boost"/>
+<classTrait minLevel="50" traitId="1879072442" traitName="Armour Boost"/>
+<classTrait minLevel="50" traitId="1879072443" traitName="Regeneration"/>
+<classTrait minLevel="50" traitId="1879072444" traitName="Swift Weave"/>
+<classTrait minLevel="50" traitId="1879072445" traitName="Enhanced Skill: Piercing Attack"/>
+<classTrait minLevel="50" traitId="1879072446" traitName="Enhanced Skill: Tainted Kiss"/>
+<classTrait minLevel="50" traitId="1879072447" traitName="Steelweave Webs"/>
+<classTrait minLevel="50" traitId="1879072448" traitName="Advanced Skill: Clinging Webs"/>
+<classTrait minLevel="50" traitId="1879072451" traitName="Appearance 1"/>
+<classTrait minLevel="50" traitId="1879072452" traitName="Appearance 2"/>
+<classTrait minLevel="50" traitId="1879072453" traitName="Appearance 3"/>
+<classTrait minLevel="50" traitId="1879072454" traitName="Appearance 4"/>
+<classTrait minLevel="50" traitId="1879072455" traitName="Appearance 5"/>
+<classTrait minLevel="50" traitId="1879072456" traitName="Appearance 6"/>
+<classTrait minLevel="50" traitId="1879072505" traitName="Damage for Health (Rank 1)"/>
+<classTrait minLevel="50" traitId="1879091351" traitName="Damage for Health (Rank 2)"/>
+<classTrait minLevel="50" traitId="1879072506" traitName="Damage for Power (Rank 1)"/>
+<classTrait minLevel="50" traitId="1879091352" traitName="Damage for Power (Rank 2)"/>
+<classTrait minLevel="50" traitId="1879072507" traitName="Health for Damage (Rank 1)"/>
+<classTrait minLevel="50" traitId="1879091353" traitName="Health for Damage (Rank 2)"/>
+<classTrait minLevel="50" traitId="1879072508" traitName="Health for Power (Rank 1)"/>
+<classTrait minLevel="50" traitId="1879091354" traitName="Health for Power (Rank 2)"/>
+<classTrait minLevel="50" traitId="1879072509" traitName="Power for Damage (Rank 1)"/>
+<classTrait minLevel="50" traitId="1879091355" traitName="Power for Damage (Rank 2)"/>
+<classTrait minLevel="50" traitId="1879072510" traitName="Power for Health (Rank 1)"/>
+<classTrait minLevel="50" traitId="1879091356" traitName="Power for Health (Rank 2)"/>
+<classTrait minLevel="50" traitId="1879072511" traitName="Common Mitigation Boost (Rank 1)"/>
+<classTrait minLevel="50" traitId="1879091359" traitName="Common Mitigation Boost (Rank 2)"/>
+<classTrait minLevel="50" traitId="1879072512" traitName="Fire Mitigation Boost (Rank 1)"/>
+<classTrait minLevel="50" traitId="1879091360" traitName="Fire Mitigation Boost (Rank 2)"/>
+<classTrait minLevel="50" traitId="1879072513" traitName="Light Mitigation Boost (Rank 1)"/>
+<classTrait minLevel="50" traitId="1879091361" traitName="Light Mitigation Boost (Rank 2)"/>
+<classTrait minLevel="50" traitId="1879072514" traitName="Ancient Dwarf Mitigation Boost (Rank 1)"/>
+<classTrait minLevel="50" traitId="1879091357" traitName="Ancient Dwarf Mitigation Boost (Rank 2)"/>
+<classTrait minLevel="50" traitId="1879072515" traitName="Beleriand Mitigation Boost (Rank 1)"/>
+<classTrait minLevel="50" traitId="1879091358" traitName="Beleriand Mitigation Boost (Rank 2)"/>
+<classTrait minLevel="50" traitId="1879072516" traitName="Westernesse Mitigation Boost (Rank 1)"/>
+<classTrait minLevel="50" traitId="1879091362" traitName="Westernesse Mitigation Boost (Rank 2)"/>
+<classTrait minLevel="50" traitId="1879072517" traitName="Song Resistance Boost (Rank 1)"/>
+<classTrait minLevel="50" traitId="1879091366" traitName="Song Resistance Boost (Rank 2)"/>
+<classTrait minLevel="50" traitId="1879072518" traitName="Cry Resistance Boost (Rank 1)"/>
+<classTrait minLevel="50" traitId="1879091363" traitName="Cry Resistance Boost (Rank 2)"/>
+<classTrait minLevel="50" traitId="1879072519" traitName="Tactical Resistance Boost (Rank 1)"/>
+<classTrait minLevel="50" traitId="1879091364" traitName="Tactical Resistance Boost (Rank 2)"/>
+<classTrait minLevel="50" traitId="1879072520" traitName="Physical Resistance Boost (Rank 1)"/>
+<classTrait minLevel="50" traitId="1879091365" traitName="Physical Resistance Boost (Rank 2)"/>
+<classTrait minLevel="50" traitId="1879072521" traitName="Stealth Detection Boost"/>
+<classSkill minLevel="50" skillId="1879073737" skillName="Piercing Attack"/>
+<classSkill minLevel="50" skillId="1879073738" skillName="Tainted Kiss"/>
+<classSkill minLevel="50" skillId="1879073739" skillName="Latent Poison"/>
+<classSkill minLevel="50" skillId="1879073740" skillName="Snaring Web"/>
+<classSkill minLevel="50" skillId="1879073741" skillName="Entangling Web"/>
+<classSkill minLevel="50" skillId="1879073742" skillName="Poison Spray"/>
+<classSkill minLevel="50" skillId="1879073743" skillName="Trapdoor Sanctuary"/>
+<classSkill minLevel="50" skillId="1879072536" skillName="Lie In Wait"/>
+<classSkill minLevel="50" skillId="1879097894" skillName="Web the Earth"/>
+<classSkill minLevel="50" skillId="1879097895" skillName="Smothering Web"/>
+<classSkill minLevel="50" skillId="1879097896" skillName="Hatchlings"/>
+<classSkill minLevel="50" skillId="1879095215" skillName="Troll's Brutality (Ranged)"/>
+<classSkill minLevel="50" skillId="1879095257" skillName="Spider's Venom (Ranged)"/>
+<classSkill minLevel="50" skillId="1879095392" skillName="Wight's Rot (Ranged)"/>
+<classSkill minLevel="50" skillId="1879095103" skillName="Fell Spirit's Terror (Ranged)"/>
+</monsterClass>
+<monsterClass id="1879073669" code="126" key="Stalker" name="Stalker" tag="" iconId="1090551245" smallIconId="0" abbreviation="STK" description="key:620775426:228830419">
+<classTrait minLevel="50" traitId="1879072489" traitName="Armour Boost"/>
+<classTrait minLevel="50" traitId="1879072490" traitName="Resistance Boost"/>
+<classTrait minLevel="50" traitId="1879072491" traitName="Long Strides"/>
+<classTrait minLevel="50" traitId="1879072492" traitName="Shadow Fang"/>
+<classTrait minLevel="50" traitId="1879072493" traitName="Enhanced Skill: Stealth"/>
+<classTrait minLevel="50" traitId="1879072494" traitName="Enhanced Skill: Sprint"/>
+<classTrait minLevel="50" traitId="1879072495" traitName="The Element of Surprise"/>
+<classTrait minLevel="50" traitId="1879072496" traitName="Advanced Skill: Rallying Howl"/>
+<classTrait minLevel="50" traitId="1879072499" traitName="Appearance 1"/>
+<classTrait minLevel="50" traitId="1879072500" traitName="Appearance 2"/>
+<classTrait minLevel="50" traitId="1879072501" traitName="Appearance 3"/>
+<classTrait minLevel="50" traitId="1879072502" traitName="Appearance 4"/>
+<classTrait minLevel="50" traitId="1879072503" traitName="Appearance 5"/>
+<classTrait minLevel="50" traitId="1879072505" traitName="Damage for Health (Rank 1)"/>
+<classTrait minLevel="50" traitId="1879091351" traitName="Damage for Health (Rank 2)"/>
+<classTrait minLevel="50" traitId="1879072506" traitName="Damage for Power (Rank 1)"/>
+<classTrait minLevel="50" traitId="1879091352" traitName="Damage for Power (Rank 2)"/>
+<classTrait minLevel="50" traitId="1879072507" traitName="Health for Damage (Rank 1)"/>
+<classTrait minLevel="50" traitId="1879091353" traitName="Health for Damage (Rank 2)"/>
+<classTrait minLevel="50" traitId="1879072508" traitName="Health for Power (Rank 1)"/>
+<classTrait minLevel="50" traitId="1879091354" traitName="Health for Power (Rank 2)"/>
+<classTrait minLevel="50" traitId="1879072509" traitName="Power for Damage (Rank 1)"/>
+<classTrait minLevel="50" traitId="1879091355" traitName="Power for Damage (Rank 2)"/>
+<classTrait minLevel="50" traitId="1879072510" traitName="Power for Health (Rank 1)"/>
+<classTrait minLevel="50" traitId="1879091356" traitName="Power for Health (Rank 2)"/>
+<classTrait minLevel="50" traitId="1879072511" traitName="Common Mitigation Boost (Rank 1)"/>
+<classTrait minLevel="50" traitId="1879091359" traitName="Common Mitigation Boost (Rank 2)"/>
+<classTrait minLevel="50" traitId="1879072512" traitName="Fire Mitigation Boost (Rank 1)"/>
+<classTrait minLevel="50" traitId="1879091360" traitName="Fire Mitigation Boost (Rank 2)"/>
+<classTrait minLevel="50" traitId="1879072513" traitName="Light Mitigation Boost (Rank 1)"/>
+<classTrait minLevel="50" traitId="1879091361" traitName="Light Mitigation Boost (Rank 2)"/>
+<classTrait minLevel="50" traitId="1879072514" traitName="Ancient Dwarf Mitigation Boost (Rank 1)"/>
+<classTrait minLevel="50" traitId="1879091357" traitName="Ancient Dwarf Mitigation Boost (Rank 2)"/>
+<classTrait minLevel="50" traitId="1879072515" traitName="Beleriand Mitigation Boost (Rank 1)"/>
+<classTrait minLevel="50" traitId="1879091358" traitName="Beleriand Mitigation Boost (Rank 2)"/>
+<classTrait minLevel="50" traitId="1879072516" traitName="Westernesse Mitigation Boost (Rank 1)"/>
+<classTrait minLevel="50" traitId="1879091362" traitName="Westernesse Mitigation Boost (Rank 2)"/>
+<classTrait minLevel="50" traitId="1879072517" traitName="Song Resistance Boost (Rank 1)"/>
+<classTrait minLevel="50" traitId="1879091366" traitName="Song Resistance Boost (Rank 2)"/>
+<classTrait minLevel="50" traitId="1879072518" traitName="Cry Resistance Boost (Rank 1)"/>
+<classTrait minLevel="50" traitId="1879091363" traitName="Cry Resistance Boost (Rank 2)"/>
+<classTrait minLevel="50" traitId="1879072519" traitName="Tactical Resistance Boost (Rank 1)"/>
+<classTrait minLevel="50" traitId="1879091364" traitName="Tactical Resistance Boost (Rank 2)"/>
+<classTrait minLevel="50" traitId="1879072520" traitName="Physical Resistance Boost (Rank 1)"/>
+<classTrait minLevel="50" traitId="1879091365" traitName="Physical Resistance Boost (Rank 2)"/>
+<classTrait minLevel="50" traitId="1879072521" traitName="Stealth Detection Boost"/>
+<classSkill minLevel="50" skillId="1879072565" skillName="Stealth"/>
+<classSkill minLevel="50" skillId="1879073750" skillName="Claws"/>
+<classSkill minLevel="50" skillId="1879073751" skillName="Pounce"/>
+<classSkill minLevel="50" skillId="1879073752" skillName="Savage Fangs"/>
+<classSkill minLevel="50" skillId="1879073753" skillName="Crippling Bite"/>
+<classSkill minLevel="50" skillId="1879073754" skillName="Throat Rip"/>
+<classSkill minLevel="50" skillId="1879073755" skillName="Sprint"/>
+<classSkill minLevel="50" skillId="1879072563" skillName="Disappear"/>
+<classSkill minLevel="50" skillId="1879097878" skillName="Tendon Shred"/>
+<classSkill minLevel="50" skillId="1879097879" skillName="Eye Rake"/>
+<classSkill minLevel="50" skillId="1879094735" skillName="Troll's Brutality (Melee)"/>
+<classSkill minLevel="50" skillId="1879095209" skillName="Spider's Venom (Melee)"/>
+<classSkill minLevel="50" skillId="1879095383" skillName="Wight's Rot (Melee)"/>
+<classSkill minLevel="50" skillId="1879095103" skillName="Fell Spirit's Terror (Ranged)"/>
+</monsterClass>
+</classes>

@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?><labels locale="fr">
+<label key="BoxOfEssences" value="Boîte d'essences"/>
+<label key="CloakEssence-1" value="Essence de cape : rang 1"/>
+<label key="CloakEssence-10" value="Essence de cape : rang 10"/>
+<label key="CloakEssence-11" value="Essence de cape : rang 11"/>
+<label key="CloakEssence-12" value="Essence de cape : rang 12"/>
+<label key="CloakEssence-13" value="Essence de cape : rang 13"/>
+<label key="CloakEssence-14" value="Essence de cape : rang 14"/>
+<label key="CloakEssence-2" value="Essence de cape : rang 2"/>
+<label key="CloakEssence-3" value="Essence de cape : rang 3"/>
+<label key="CloakEssence-4" value="Essence de cape : rang 4"/>
+<label key="CloakEssence-5" value="Essence de cape : rang 5"/>
+<label key="CloakEssence-6" value="Essence de cape : rang 6"/>
+<label key="CloakEssence-7" value="Essence de cape : rang 7"/>
+<label key="CloakEssence-8" value="Essence de cape : rang 8"/>
+<label key="CloakEssence-9" value="Essence de cape : rang 9"/>
+<label key="EnhancementRune-1" value="Rune d'amélioration : rang 1"/>
+<label key="EnhancementRune-10" value="Rune d'amélioration : rang 10"/>
+<label key="EnhancementRune-11" value="Rune d'amélioration : rang 11"/>
+<label key="EnhancementRune-12" value="Rune d'amélioration : rang 12"/>
+<label key="EnhancementRune-13" value="Rune d'amélioration : rang 13"/>
+<label key="EnhancementRune-14" value="Rune d'amélioration : rang 14"/>
+<label key="EnhancementRune-2" value="Rune d'amélioration : rang 2"/>
+<label key="EnhancementRune-3" value="Rune d'amélioration : rang 3"/>
+<label key="EnhancementRune-4" value="Rune d'amélioration : rang 4"/>
+<label key="EnhancementRune-5" value="Rune d'amélioration : rang 5"/>
+<label key="EnhancementRune-6" value="Rune d'amélioration : rang 6"/>
+<label key="EnhancementRune-7" value="Rune d'amélioration : rang 7"/>
+<label key="EnhancementRune-8" value="Rune d'amélioration : rang 8"/>
+<label key="EnhancementRune-9" value="Rune d'amélioration : rang 9"/>
+<label key="Essence-1" value="Essence : rang 1"/>
+<label key="Essence-10" value="Essence : rang 10"/>
+<label key="Essence-11" value="Essence : rang 11"/>
+<label key="Essence-12" value="Essence : rang 12"/>
+<label key="Essence-13" value="Essence : rang 13"/>
+<label key="Essence-14" value="Essence : rang 14"/>
+<label key="Essence-2" value="Essence : rang 2"/>
+<label key="Essence-3" value="Essence : rang 3"/>
+<label key="Essence-4" value="Essence : rang 4"/>
+<label key="Essence-5" value="Essence : rang 5"/>
+<label key="Essence-6" value="Essence : rang 6"/>
+<label key="Essence-7" value="Essence : rang 7"/>
+<label key="Essence-8" value="Essence : rang 8"/>
+<label key="Essence-9" value="Essence : rang 9"/>
+<label key="EssenceWar-1" value="Essence de guerre : rang 1"/>
+<label key="EssenceWar-10" value="Essence de guerre : rang 10"/>
+<label key="EssenceWar-11" value="Essence de guerre : rang 11"/>
+<label key="EssenceWar-12" value="Essence de guerre : rang 12"/>
+<label key="EssenceWar-13" value="Essence de guerre : rang 13"/>
+<label key="EssenceWar-14" value="Essence de guerre : rang 14"/>
+<label key="EssenceWar-2" value="Essence de guerre : rang 2"/>
+<label key="EssenceWar-3" value="Essence de guerre : rang 3"/>
+<label key="EssenceWar-4" value="Essence de guerre : rang 4"/>
+<label key="EssenceWar-5" value="Essence de guerre : rang 5"/>
+<label key="EssenceWar-6" value="Essence de guerre : rang 6"/>
+<label key="EssenceWar-7" value="Essence de guerre : rang 7"/>
+<label key="EssenceWar-8" value="Essence de guerre : rang 8"/>
+<label key="EssenceWar-9" value="Essence de guerre : rang 9"/>
+<label key="HeraldricTracery-1" value="Gravure héraldique : rang 1"/>
+<label key="HeraldricTracery-10" value="Gravure héraldique : rang 10"/>
+<label key="HeraldricTracery-11" value="Gravure héraldique : rang 11"/>
+<label key="HeraldricTracery-12" value="Gravure héraldique : rang 12"/>
+<label key="HeraldricTracery-13" value="Gravure héraldique : rang 13"/>
+<label key="HeraldricTracery-14" value="Gravure héraldique : rang 14"/>
+<label key="HeraldricTracery-2" value="Gravure héraldique : rang 2"/>
+<label key="HeraldricTracery-3" value="Gravure héraldique : rang 3"/>
+<label key="HeraldricTracery-4" value="Gravure héraldique : rang 4"/>
+<label key="HeraldricTracery-5" value="Gravure héraldique : rang 5"/>
+<label key="HeraldricTracery-6" value="Gravure héraldique : rang 6"/>
+<label key="HeraldricTracery-7" value="Gravure héraldique : rang 7"/>
+<label key="HeraldricTracery-8" value="Gravure héraldique : rang 8"/>
+<label key="HeraldricTracery-9" value="Gravure héraldique : rang 9"/>
+<label key="NecklaceEssence-1" value="Essence de collier : rang 1"/>
+<label key="NecklaceEssence-10" value="Essence de collier : rang 10"/>
+<label key="NecklaceEssence-11" value="Essence de collier : rang 11"/>
+<label key="NecklaceEssence-12" value="Essence de collier : rang 12"/>
+<label key="NecklaceEssence-13" value="Essence de collier : rang 13"/>
+<label key="NecklaceEssence-14" value="Essence de collier : rang 14"/>
+<label key="NecklaceEssence-2" value="Essence de collier : rang 2"/>
+<label key="NecklaceEssence-3" value="Essence de collier : rang 3"/>
+<label key="NecklaceEssence-4" value="Essence de collier : rang 4"/>
+<label key="NecklaceEssence-5" value="Essence de collier : rang 5"/>
+<label key="NecklaceEssence-6" value="Essence de collier : rang 6"/>
+<label key="NecklaceEssence-7" value="Essence de collier : rang 7"/>
+<label key="NecklaceEssence-8" value="Essence de collier : rang 8"/>
+<label key="NecklaceEssence-9" value="Essence de collier : rang 9"/>
+<label key="WoCraft-1" value="Gravure d'artisanat : rang 1"/>
+<label key="WoCraft-10" value="Gravure d'artisanat : rang 10"/>
+<label key="WoCraft-11" value="Gravure d'artisanat : rang 11"/>
+<label key="WoCraft-12" value="Gravure d'artisanat : rang 12"/>
+<label key="WoCraft-13" value="Gravure d'artisanat : rang 13"/>
+<label key="WoCraft-14" value="Gravure d'artisanat : rang 14"/>
+<label key="WoCraft-2" value="Gravure d'artisanat : rang 2"/>
+<label key="WoCraft-3" value="Gravure d'artisanat : rang 3"/>
+<label key="WoCraft-4" value="Gravure d'artisanat : rang 4"/>
+<label key="WoCraft-5" value="Gravure d'artisanat : rang 5"/>
+<label key="WoCraft-6" value="Gravure d'artisanat : rang 6"/>
+<label key="WoCraft-7" value="Gravure d'artisanat : rang 7"/>
+<label key="WoCraft-8" value="Gravure d'artisanat : rang 8"/>
+<label key="WoCraft-9" value="Gravure d'artisanat : rang 9"/>
+<label key="WoMastery-1" value="Gravure de maîtrise : rang 1"/>
+<label key="WoMastery-10" value="Gravure de maîtrise : rang 10"/>
+<label key="WoMastery-11" value="Gravure de maîtrise : rang 11"/>
+<label key="WoMastery-12" value="Gravure de maîtrise : rang 12"/>
+<label key="WoMastery-13" value="Gravure de maîtrise : rang 13"/>
+<label key="WoMastery-14" value="Gravure de maîtrise : rang 14"/>
+<label key="WoMastery-2" value="Gravure de maîtrise : rang 2"/>
+<label key="WoMastery-3" value="Gravure de maîtrise : rang 3"/>
+<label key="WoMastery-4" value="Gravure de maîtrise : rang 4"/>
+<label key="WoMastery-5" value="Gravure de maîtrise : rang 5"/>
+<label key="WoMastery-6" value="Gravure de maîtrise : rang 6"/>
+<label key="WoMastery-7" value="Gravure de maîtrise : rang 7"/>
+<label key="WoMastery-8" value="Gravure de maîtrise : rang 8"/>
+<label key="WoMastery-9" value="Gravure de maîtrise : rang 9"/>
+<label key="WoPower-1" value="Gravure de pouvoir : rang 1"/>
+<label key="WoPower-10" value="Gravure de pouvoir : rang 10"/>
+<label key="WoPower-11" value="Gravure de pouvoir : rang 11"/>
+<label key="WoPower-12" value="Gravure de pouvoir : rang 12"/>
+<label key="WoPower-13" value="Gravure de pouvoir : rang 13"/>
+<label key="WoPower-14" value="Gravure de pouvoir : rang 14"/>
+<label key="WoPower-2" value="Gravure de pouvoir : rang 2"/>
+<label key="WoPower-3" value="Gravure de pouvoir : rang 3"/>
+<label key="WoPower-4" value="Gravure de pouvoir : rang 4"/>
+<label key="WoPower-5" value="Gravure de pouvoir : rang 5"/>
+<label key="WoPower-6" value="Gravure de pouvoir : rang 6"/>
+<label key="WoPower-7" value="Gravure de pouvoir : rang 7"/>
+<label key="WoPower-8" value="Gravure de pouvoir : rang 8"/>
+<label key="WoPower-9" value="Gravure de pouvoir : rang 9"/>
+<label key="key:620757021:105371836" value="Murs"/>
+<label key="key:620757021:105379860" value="Jardin"/>
+<label key="key:620757021:114481564" value="Objets de la classe des ménestrels"/>
+<label key="key:620757021:118313454" value="Jet"/>
+<label key="key:620757021:119251401" value="Trophée"/>
+<label key="key:620757021:119722258" value="Méthode de préparation : couture"/>
+<label key="key:620757021:120595803" value="Dos"/>
+<label key="key:620757021:120600731" value="Livre"/>
+<label key="key:620757021:120605108" value="Tête"/>
+<label key="key:620757021:120613124" value="Pieds"/>
+<label key="key:620757021:120617108" value="Nourriture"/>
+<label key="key:620757021:120686883" value="Jambes"/>
+<label key="key:620757021:121051292" value="Outil"/>
+<label key="key:620757021:121051712" value="Piège"/>
+<label key="key:620757021:121131804" value="Parchemin"/>
+<label key="key:620757021:121388308" value="Bouclier"/>
+<label key="key:620757021:121698756" value="Hallebardes"/>
+<label key="key:620757021:122951570" value="Gourdins"/>
+<label key="key:620757021:123052981" value="Masses"/>
+<label key="key:620757021:125205298" value="Charte de la confrérie"/>
+<label key="key:620757021:125387374" value="Arme"/>
+<label key="key:620757021:129626297" value="Trophées"/>
+<label key="key:620757021:131361134" value="Potion"/>
+<label key="key:620757021:136794324" value="Composante"/>
+<label key="key:620757021:137306622" value="Objets de la classe des capitaines"/>
+<label key="key:620757021:140534914" value="Objets de la classe des cambrioleurs"/>
+<label key="key:620757021:14448685" value="Objet de quête"/>
+<label key="key:620757021:14865058" value="Objets de la classe des chasseurs"/>
+<label key="key:620757021:157605147" value="Méthode de préparation : forge"/>
+<label key="key:620757021:166355778" value="Méthode de préparation : bijouterie"/>
+<label key="key:620757021:16830350" value="Objets de la classe des gardiens"/>
+<label key="key:620757021:176135061" value="Trésor"/>
+<label key="key:620757021:180002887" value="Artisanat"/>
+<label key="key:620757021:181526339" value="Epaules"/>
+<label key="key:620757021:182571145" value="Bijoux"/>
+<label key="key:620757021:1969300" value="Effet"/>
+<label key="key:620757021:197950227" value="Peintures et surfaces"/>
+<label key="key:620757021:208863701" value="Teinture"/>
+<label key="key:620757021:208870377" value="Clé"/>
+<label key="key:620757021:208871388" value="Huile"/>
+<label key="key:620757021:212415780" value="Fanion"/>
+<label key="key:620757021:212622644" value="Instrument"/>
+<label key="key:620757021:223202647" value="Arbalètes"/>
+<label key="key:620757021:224223225" value="Hors inventaire"/>
+<label key="key:620757021:23704043" value="Méthode de préparation : menuiserie"/>
+<label key="key:620757021:241303477" value="Ressource"/>
+<label key="key:620757021:260742772" value="Ingrédient"/>
+<label key="key:620757021:28172295" value="Vêtements"/>
+<label key="key:620757021:28878654" value="Décoration"/>
+<label key="key:620757021:29707207" value="Méthode de préparation : prospection"/>
+<label key="key:620757021:30311922" value="Méthode de préparation : érudition"/>
+<label key="key:620757021:37007685" value="Meubles"/>
+<label key="key:620757021:40903019" value="Méthode de préparation : cuisine"/>
+<label key="key:620757021:41238949" value="Haches"/>
+<label key="key:620757021:41239079" value="Arcs"/>
+<label key="key:620757021:50511890" value="Armure"/>
+<label key="key:620757021:50577620" value="Poitrine"/>
+<label key="key:620757021:50620611" value="Mains"/>
+<label key="key:620757021:5095858" value="Méthode de préparation : agriculture"/>
+<label key="key:620757021:52054052" value="Montures"/>
+<label key="key:620757021:53341176" value="Méthode de préparation : fabrication d'armes"/>
+<label key="key:620757021:57847427" value="Relique"/>
+<label key="key:620757021:62839753" value="Méthode de préparation : foresterie"/>
+<label key="key:620757021:67976450" value="Plancher"/>
+<label key="key:620757021:68468883" value="Musique"/>
+<label key="key:620757021:70515346" value="Dagues"/>
+<label key="key:620757021:73000642" value="Objets de la classe des maîtres du savoir"/>
+<label key="key:620757021:74720402" value="Marteaux"/>
+<label key="key:620757021:77356359" value="Guérison"/>
+<label key="key:620757021:84676830" value="Objets de la classe des champions"/>
+<label key="key:620757021:87239154" value="Epieux"/>
+<label key="key:620757021:87270644" value="Epées"/>
+<label key="key:620757021:87287222" value="Bâtons"/>
+<label key="key:620757021:919717" value="Appareil"/>
+</labels>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><enum id="587202647" name="TraitNature">
-<entry code="1" name="Characteristic"/>
-<entry code="2" name="Legendary"/>
-<entry code="3" name="Class"/>
-<entry code="4" name="Race"/>
-<entry code="5" name="Virtue"/>
+<entry code="1" name="key:620757023:27096051"/>
+<entry code="2" name="key:620757023:100591897"/>
+<entry code="3" name="key:620757023:171643123"/>
+<entry code="4" name="key:620757023:94680085"/>
+<entry code="5" name="key:620757023:62375934"/>
 </enum>

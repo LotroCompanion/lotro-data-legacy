@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><labels locale="de">
+<label key="1879053032" value="Verteidigung von Mittelerde"/>
+<label key="1879060192" value="Wächterschild"/>
+<label key="1879060866" value="Ballade des Krieges"/>
+<label key="1879073072" value="Motiviert"/>
+<label key="1879073120" value="Ballade der Schnelligkeit"/>
+<label key="1879073122" value="Ballade der Willenskraft"/>
+<label key="1879073616" value="Zwergen-Ausdauer"/>
+<label key="1879077245" value="Veteranen-Standhaftigkeit"/>
+<label key="1879084065" value="An die Pflicht gebunden"/>
+<label key="1879095617" value="Kriegsrede"/>
+<label key="key:620774926:106251889" value="Moral-Höchstwert +5 %"/>
+<label key="key:620784436:106251889" value="Erhöht Eure Gesamtmoral um ${PERCENTVALUE}."/>
+<label key="key:620795454:106251890" value="Erholungszeit für 'Durchdringender Schrei': -10 Sek."/>
+<label key="key:620795454:106251891" value="Chance auf kritischen Treffer bei 'Durchdringender Schrei': +25 %"/>
+</labels>

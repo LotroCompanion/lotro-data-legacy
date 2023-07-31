@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><labels locale="en">
+<label key="1879087805" value="Armour of the White Flame"/>
+<label key="1879087806" value="Armour of Remmirath"/>
+<label key="1879087807" value="Armour of the West-lands"/>
+<label key="1879087808" value="Armour of the Dwarf-hoard"/>
+<label key="1879087809" value="Armour of Celebrant"/>
+<label key="1879087810" value="Armour of the Sun-lands"/>
+<label key="1879087811" value="Armour of the Seven Fathers"/>
+<label key="1879087812" value="Armour of Orod-na-Thôn"/>
+<label key="1879087813" value="Armour of the North-drake"/>
+<label key="1879087814" value="Beast-master Armour"/>
+<label key="1879087815" value="Silver-voice Armour"/>
+<label key="1879087816" value="Armour of the Aurochs"/>
+<label key="1879087817" value="Shadow-stalker Armour"/>
+<label key="1879087818" value="War-captain's Armour"/>
+<label key="1879087819" value="High-protector's Armour"/>
+<label key="1879087820" value="Dragon-scale Armour"/>
+<label key="1879089944" value="Panthavron's Finery"/>
+<label key="1879090936" value="Raiment of the Seven Stars"/>
+<label key="1879090937" value="Nenuial’s Vestments"/>
+<label key="1879090938" value="Armour of the West-tower"/>
+<label key="1879092331" value="Warden of Annúminas"/>
+<label key="1879092332" value="Sage of the Council"/>
+<label key="1879092333" value="Healer of Rivendell"/>
+<label key="1879092334" value="Warrior of Rivendell"/>
+<label key="1879092335" value="Archer of the Council"/>
+<label key="1879093385" value="Accoutrements of the Sluggard"/>
+<label key="1879093480" value="Accessories of a Ranger"/>
+<label key="1879094708" value="Elder Days Armour"/>
+<label key="1879094709" value="Armour of the Wandering Bard"/>
+<label key="1879094710" value="Doom-hunter's Armour"/>
+<label key="1879094711" value="Thrill-seeker's Armour"/>
+<label key="1879094712" value="Armour of the North Star"/>
+<label key="1879094713" value="Rift-defender's Armour"/>
+<label key="1879094714" value="Armour of the Gloom-bane"/>
+<label key="1879098097" value="TBD Crafted Rift Medium Armor"/>
+<label key="1879098098" value="TBD Crafted Rift Heavy Armor"/>
+<label key="1879098099" value="TBD Crafted Rift Light Armor"/>
+<label key="1879099148" value="Amban's Steel"/>
+<label key="1879099149" value="Will of the Rangers"/>
+<label key="1879099150" value="Spirit of the Rangers"/>
+<label key="1879099151" value="Treasure of the Eldgang"/>
+<label key="1879099152" value="Amban's Cloth"/>
+<label key="1879099153" value="Amban's Leather"/>
+<label key="1879102183" value="Tarchathol and Tarnaith"/>
+<label key="1879102184" value="Trinkets of Virtue"/>
+<label key="1879102185" value="Avorhigil and Avorlang"/>
+<label key="1879102186" value="Trinkets of Skill"/>
+<label key="1879102187" value="Curunam and Mirúr"/>
+<label key="1879102188" value="Túramath and Brogronn"/>
+<label key="1879102189" value="Amarthan and Amarthdram"/>
+<label key="1879102190" value="Forest-walker's Apparel"/>
+<label key="1879102191" value="Vestment's of the Grove"/>
+<label key="1879102192" value="Garb of the Woods"/>
+<label key="key:620790390:108054836" value="+5% Ballad Damage"/>
+<label key="key:620790390:108054838" value="+5% Healing Output"/>
+<label key="key:620790390:54354734" value="This armour, studded with beryls, known also as Elf-stones, is a fine set, crafted by the Elves for a minstrel of great renown."/>
+<label key="key:620790391:108054836" value="Swift Bow recovery time reduced by 2 seconds"/>
+<label key="key:620790391:108054838" value="Penetrating Shot recovery time reduced by 1 second"/>
+<label key="key:620790391:54354734" value="This fine armour was crafted from aurochs hides taken from the great aurochs of the North Downs in tribute to the mighty hunters who acquired the hides."/>
+<label key="key:620790392:54354734" value="Crafted by dwarf-masters of finely-tooled leather and hardened steel from the depths of the great mines beneath Ered Luin."/>
+<label key="key:620790393:108054838" value="+20% to Surprise Strike damage while behind target and in Stealth"/>
+<label key="key:620790393:54354734" value="This armour was cobbled together by a famous burglar, who sought renown in more than just the burgling arts."/>
+<label key="key:620790394:54354734" value="Crafted by Elf-masters to reflect the timlessness, strength, and brilliance of the great star clusters above."/>
+<label key="key:620790395:108054836" value="Defeat Event skills recovery time reduced by 15%"/>
+<label key="key:620790395:108054838" value="Escape from Darkness recovery time reduced by 5 minutes"/>
+<label key="key:620790395:54354734" value="Every captain is known at a glance by his armour, and this set is perhaps one of the most recognizable you have seen. It seems Arnorian in origin."/>
+<label key="key:620790396:54354734" value="Crafted of the highest quality leather, worked to great strength by the mysterious Rangers of the North."/>
+<label key="key:620790397:108054836" value="Chance to resist your Challenge is reduced by 5%"/>
+<label key="key:620790397:108054838" value="Challenge The Darkness recovery time reduced by 25%"/>
+<label key="key:620790397:54354734" value="This armour was forged for a warrior of the Grey Mountains before the Dragons came. Whoever wore this would be proud to know that a brave heart such as yourself has found it."/>
+<label key="key:620790398:54354734" value="Ancient armour of legendary dwarf-make, said to have been kept in the dragon-hoard of Nargothrond in ages past."/>
+<label key="key:620790399:108054836" value="Reduces the Power cost of all AOE skills by 5%"/>
+<label key="key:620790399:108054838" value="Chance to Block or Parry your Bracing Attack is reduced"/>
+<label key="key:620790399:54354734" value="This armour was forged from the scales of Scatha the Worm, who was slain long ago by the great North-man Fram."/>
+<label key="key:620790400:54354734" value="Gleaming armour of Elf-make, forged long ago in the lands of the mighty river flowing from darkest Fangorn."/>
+<label key="key:620790401:54354734" value="Finely-tooled armour crafted long ago by the proud Horse-lords of Rohan."/>
+<label key="key:620790402:54354734" value="Glorious armour of dwarf-make, finely-crafted in the name of the legendary dwarf-lords of ages long past."/>
+<label key="key:620790403:54354734" value="Armour of ancient Elf-make, forged in the dark forests beneath the distant Mountain of Pine."/>
+<label key="key:620790404:54354734" value="Forged long ago by master-craftsmen of Arnor, finely crafted armour of the great strength and deadly beauty of the ancient dragons of legend."/>
+<label key="key:620790405:108054836" value="Test of Will recovery time reduced by 15 seconds"/>
+<label key="key:620790405:108054838" value="Chance to resist your Blinding Flash is reduced by 5%"/>
+<label key="key:620790405:54354734" value="This fine armour represents the ancient wisdom of the Elves and pieces of it portray their departure into the West."/>
+<label key="key:620791776:54354734" value="Panthavron was a wealthy noble of Evendim, best known for throwing elaborate parties."/>
+<label key="key:620792890:54354734" value="Renowned defenders of the tombs of Annúminas receive such gifts."/>
+<label key="key:620792891:54354734" value="The Council grants such prizes to their wisest tacticians."/>
+<label key="key:620792892:54354734" value="Potent healers in Rivendell can expect potent rewards."/>
+<label key="key:620792893:54354734" value="Powerful warriors in Rivendell can expect powerful rewards."/>
+<label key="key:620792894:108054836" value="Chance to Block or Evade your ranged attacks are reduced by 2%"/>
+<label key="key:620792894:54354734" value="The Council grants such prizes to their greatest scouts."/>
+<label key="key:620793628:54354734" value="The destiny of the Rangers can almost be felt."/>
+<label key="key:620794539:108054834" value="3% Disperse Shadow Chance"/>
+<label key="key:620794539:108054836" value="10% Disperse Shadow Chance"/>
+<label key="key:620794539:108054838" value="25% Disperse Shadow Chance"/>
+<label key="key:620794539:108120372" value="-50% Storm-lore Power Cost"/>
+<label key="key:620794539:108120374" value="-20% Lightning Burst Recovery Time"/>
+<label key="key:620794539:54354734" value="This armour was granted as a reward for defending Eriador from the terror of Nûrz Gâshu."/>
+<label key="key:620794546:108054834" value="3% Disperse Shadow Chance"/>
+<label key="key:620794546:108054836" value="10% Disperse Shadow Chance"/>
+<label key="key:620794546:108054838" value="25% Disperse Shadow Chance"/>
+<label key="key:620794546:108120372" value="Triumphant Spirit generates less threat."/>
+<label key="key:620794546:54354734" value="This armour was granted as a reward for defending Eriador from the terror of Nûrz Gâshu."/>
+<label key="key:620794553:108054834" value="3% Disperse Shadow Chance"/>
+<label key="key:620794553:108054836" value="10% Disperse Shadow Chance"/>
+<label key="key:620794553:108054838" value="25% Disperse Shadow Chance"/>
+<label key="key:620794553:54354734" value="This armour was granted as a reward for defending Eriador from the terror of Nûrz Gâshu."/>
+<label key="key:620794560:108054834" value="3% Disperse Shadow Chance"/>
+<label key="key:620794560:108054836" value="10% Disperse Shadow Chance"/>
+<label key="key:620794560:108054838" value="25% Disperse Shadow Chance"/>
+<label key="key:620794560:54354734" value="This armour was granted as a reward for defending Eriador from the terror of Nûrz Gâshu."/>
+<label key="key:620794563:108054834" value="3% Disperse Shadow Chance"/>
+<label key="key:620794563:108054836" value="10% Disperse Shadow Chance"/>
+<label key="key:620794563:108054838" value="25% Disperse Shadow Chance"/>
+<label key="key:620794563:108120372" value="Escape from Darkness is instant-cast."/>
+<label key="key:620794563:54354734" value="This armour was granted as a reward for defending Eriador from the terror of Nûrz Gâshu."/>
+<label key="key:620794564:108054834" value="3% Disperse Shadow Chance"/>
+<label key="key:620794564:108054836" value="10% Disperse Shadow Chance"/>
+<label key="key:620794564:108054838" value="25% Disperse Shadow Chance"/>
+<label key="key:620794564:108120372" value="-15% Catch a Breath Power Cost"/>
+<label key="key:620794564:108120374" value="-20% Thrill of Danger Recovery Time"/>
+<label key="key:620794564:54354734" value="This armour was granted as a reward for defending Eriador from the terror of Nûrz Gâshu."/>
+<label key="key:620794565:108054834" value="3% Disperse Shadow Chance"/>
+<label key="key:620794565:108054836" value="10% Disperse Shadow Chance"/>
+<label key="key:620794565:108054838" value="25% Disperse Shadow Chance"/>
+<label key="key:620794565:108120372" value="+10% Glory Threat"/>
+<label key="key:620794565:108120374" value="+5% Glory Melee Damage"/>
+<label key="key:620794565:54354734" value="This armour was granted as a reward for defending Eriador from the terror of Nûrz Gâshu."/>
+<label key="key:620797275:209988549" value="Gift of the Hammerhand absorbs all damage."/>
+<label key="key:620797493:209988549" value="Heralds &amp; Standards mitigate Shadow Damage."/>
+</labels>

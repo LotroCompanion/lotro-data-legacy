@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><factions>
-<faction id="1879091345" key="SHIRE" name="The Mathom Society" category="Eriador" lowestTier="1" initialTier="3" highestTier="7" currentTierProperty="Reputation_Faction_Shire_Mathoms_CurrentTier" currentReputationProperty="Reputation_Faction_Shire_Mathoms_EarnedReputation" description="The Hobbits of the Shire enjoy many fine leisure activities when they are not so busy eating or growing food.  One such activity is the collection of Mathoms, items that hobbits have no particular use for but hold onto anyway.&#10;&#10;The Mathom Society are a group of hobbits dedicated to the collection of such items, and they scour the countryside in search of new items to add to their collection, when they aren’t busy planning a mathom society dinner that is!">
+<faction id="1879091345" key="SHIRE" name="The Mathom Society" category="Eriador" lowestTier="1" initialTier="3" highestTier="7" currentTierProperty="Reputation_Faction_Shire_Mathoms_CurrentTier" currentReputationProperty="Reputation_Faction_Shire_Mathoms_EarnedReputation" description="key:620792414:54354734">
 <level tier="1" key="ENEMY" lotroPoints="0" requiredReputation="0"/>
 <level tier="2" key="OUTSIDER" lotroPoints="0" requiredReputation="10000"/>
 <level tier="3" key="NEUTRAL" lotroPoints="0" requiredReputation="20000"/>
@@ -8,7 +8,7 @@
 <level tier="6" key="ALLY" lotroPoints="0" requiredReputation="75000"/>
 <level tier="7" key="KINDRED" lotroPoints="0" requiredReputation="105000"/>
 </faction>
-<faction id="1879091340" key="BREE" name="Men of Bree" category="Eriador" lowestTier="1" initialTier="3" highestTier="7" currentTierProperty="Reputation_Faction_Breeland_Men_CurrentTier" currentReputationProperty="Reputation_Faction_Breeland_Men_EarnedReputation" description="The Men of Bree have stood as a bastion of commerce and stubborn strength in the north since nearly the beginning of the Third Age.&#10;&#10;Since the fall of Arnor, they have kept a wary eye upon the cursed Barrow-downs, prepared to face the dark evil that slumbers there, waiting to awaken at its master's heed.">
+<faction id="1879091340" key="BREE" name="Men of Bree" category="Eriador" lowestTier="1" initialTier="3" highestTier="7" currentTierProperty="Reputation_Faction_Breeland_Men_CurrentTier" currentReputationProperty="Reputation_Faction_Breeland_Men_EarnedReputation" description="key:620792409:54354734">
 <level tier="1" key="ENEMY" lotroPoints="0" requiredReputation="0"/>
 <level tier="2" key="OUTSIDER" lotroPoints="0" requiredReputation="10000"/>
 <level tier="3" key="NEUTRAL" lotroPoints="0" requiredReputation="20000"/>
@@ -17,7 +17,7 @@
 <level tier="6" key="ALLY" lotroPoints="0" requiredReputation="75000"/>
 <level tier="7" key="KINDRED" lotroPoints="0" requiredReputation="105000"/>
 </faction>
-<faction id="1879091408" key="DWARVES" name="Thorin's Hall" category="Eriador" lowestTier="1" initialTier="3" highestTier="7" currentTierProperty="Reputation_Faction_Eredluin_Dwarves_CurrentTier" currentReputationProperty="Reputation_Faction_Eredluin_Dwarves_EarnedReputation" description="The Longbeards of Thorin’s Hall have had a relatively quiet existence since the expulsion of the Dourhands.  However, the recent discovery of the Dourhand’s ancient city, renamed anew Sarnur, has caused many of the Longbeards concern.&#10;&#10;With the blood-price set against the Dourhands not yet repaid, the Longbeards of Thorin’s Hall are loathe to let the Dourhands begin construction on a fortified stronghold so near to their city.">
+<faction id="1879091408" key="DWARVES" name="Thorin's Hall" category="Eriador" lowestTier="1" initialTier="3" highestTier="7" currentTierProperty="Reputation_Faction_Eredluin_Dwarves_CurrentTier" currentReputationProperty="Reputation_Faction_Eredluin_Dwarves_EarnedReputation" description="key:620792479:54354734">
 <level tier="1" key="ENEMY" lotroPoints="0" requiredReputation="0"/>
 <level tier="2" key="OUTSIDER" lotroPoints="0" requiredReputation="10000"/>
 <level tier="3" key="NEUTRAL" lotroPoints="0" requiredReputation="20000"/>
@@ -26,7 +26,7 @@
 <level tier="6" key="ALLY" lotroPoints="0" requiredReputation="75000"/>
 <level tier="7" key="KINDRED" lotroPoints="0" requiredReputation="105000"/>
 </faction>
-<faction id="1879091344" key="ESTELDIN" name="Rangers of Esteldín" category="Eriador" lowestTier="1" initialTier="3" highestTier="7" currentTierProperty="Reputation_Faction_Northdowns_Esteldin_CurrentTier" currentReputationProperty="Reputation_Faction_Northdowns_Esteldin_EarnedReputation" description="The hidden sanctuary of Esteldín stands as the gathering place of the strength of Men in the North -- the only power other than Rivendell itself that might offer pause to the growing power of Angmar.&#10;&#10;Once a  secretive organization, the Rangers are beginning to seek the aid of any stalwart who would raise a blade against the darkness as the North prepares for war.">
+<faction id="1879091344" key="ESTELDIN" name="Rangers of Esteldín" category="Eriador" lowestTier="1" initialTier="3" highestTier="7" currentTierProperty="Reputation_Faction_Northdowns_Esteldin_CurrentTier" currentReputationProperty="Reputation_Faction_Northdowns_Esteldin_EarnedReputation" description="key:620792413:54354734">
 <level tier="1" key="ENEMY" lotroPoints="0" requiredReputation="0"/>
 <level tier="2" key="OUTSIDER" lotroPoints="0" requiredReputation="10000"/>
 <level tier="3" key="NEUTRAL" lotroPoints="0" requiredReputation="20000"/>
@@ -35,7 +35,7 @@
 <level tier="6" key="ALLY" lotroPoints="0" requiredReputation="75000"/>
 <level tier="7" key="KINDRED" lotroPoints="0" requiredReputation="105000"/>
 </faction>
-<faction id="1879091346" key="RIVENDELL" name="Elves of Rivendell" category="Eriador" lowestTier="1" initialTier="3" highestTier="7" currentTierProperty="Reputation_Faction_Rivendell_Elves_CurrentTier" currentReputationProperty="Reputation_Faction_Rivendell_Elves_EarnedReputation" description="The Elves of Rivendell hold council over the Wise in the lands of Eriador. If there is any power that might hold fast against Angmar and its dark magics, it is here.&#10;&#10;Nonetheless, recent incursions into the Trollshaws by evil Men and Goblins have set the elves on edge as they quietly prepare for their last war.">
+<faction id="1879091346" key="RIVENDELL" name="Elves of Rivendell" category="Eriador" lowestTier="1" initialTier="3" highestTier="7" currentTierProperty="Reputation_Faction_Rivendell_Elves_CurrentTier" currentReputationProperty="Reputation_Faction_Rivendell_Elves_EarnedReputation" description="key:620792408:54354734">
 <level tier="1" key="ENEMY" lotroPoints="0" requiredReputation="0"/>
 <level tier="2" key="OUTSIDER" lotroPoints="0" requiredReputation="10000"/>
 <level tier="3" key="NEUTRAL" lotroPoints="0" requiredReputation="20000"/>
@@ -44,7 +44,7 @@
 <level tier="6" key="ALLY" lotroPoints="0" requiredReputation="75000"/>
 <level tier="7" key="KINDRED" lotroPoints="0" requiredReputation="105000"/>
 </faction>
-<faction id="1879091343" key="ANNUMINAS" name="The Wardens of Annúminas" category="Eriador" lowestTier="1" initialTier="3" highestTier="7" currentTierProperty="Reputation_Faction_Evendim_Rangers_CurrentTier" currentReputationProperty="Reputation_Faction_Evendim_Rangers_EarnedReputation" description="The Wardens of Annúminas have stood watch over the deserted capital of the Northern Kingdoms for many long years.&#10;&#10;Their silent vigil may be near an end as the wheels of war begin to grind, threatening to overwhelm their watch and forever extinguish their dreams of the rightful King returned to his city.">
+<faction id="1879091343" key="ANNUMINAS" name="The Wardens of Annúminas" category="Eriador" lowestTier="1" initialTier="3" highestTier="7" currentTierProperty="Reputation_Faction_Evendim_Rangers_CurrentTier" currentReputationProperty="Reputation_Faction_Evendim_Rangers_EarnedReputation" description="key:620792412:54354734">
 <level tier="1" key="ENEMY" lotroPoints="0" requiredReputation="0"/>
 <level tier="2" key="OUTSIDER" lotroPoints="0" requiredReputation="10000"/>
 <level tier="3" key="NEUTRAL" lotroPoints="0" requiredReputation="20000"/>
@@ -53,7 +53,7 @@
 <level tier="6" key="ALLY" lotroPoints="0" requiredReputation="75000"/>
 <level tier="7" key="KINDRED" lotroPoints="0" requiredReputation="105000"/>
 </faction>
-<faction id="1879091341" key="COUNCIL_OF_THE_NORTH" name="Council of the North" category="Eriador" lowestTier="1" initialTier="3" highestTier="7" currentTierProperty="Reputation_Faction_Angmar_Free_People_CurrentTier" currentReputationProperty="Reputation_Faction_Angmar_Free_People_EarnedReputation" description="A Council of several races who struggle to take the war into the heart of Angmar itself. They strike from the hidden refuge of Gath Forthnír in the far northern wastes of Angmar.">
+<faction id="1879091341" key="COUNCIL_OF_THE_NORTH" name="Council of the North" category="Eriador" lowestTier="1" initialTier="3" highestTier="7" currentTierProperty="Reputation_Faction_Angmar_Free_People_CurrentTier" currentReputationProperty="Reputation_Faction_Angmar_Free_People_EarnedReputation" description="key:620792410:54354734">
 <level tier="1" key="ENEMY" lotroPoints="0" requiredReputation="0"/>
 <level tier="2" key="OUTSIDER" lotroPoints="0" requiredReputation="10000"/>
 <level tier="3" key="NEUTRAL" lotroPoints="0" requiredReputation="20000"/>
@@ -62,7 +62,7 @@
 <level tier="6" key="ALLY" lotroPoints="0" requiredReputation="75000"/>
 <level tier="7" key="KINDRED" lotroPoints="0" requiredReputation="105000"/>
 </faction>
-<faction id="1879097420" key="ELDGANG" name="The Eldgang" category="Eriador" lowestTier="1" initialTier="3" highestTier="7" currentTierProperty="Reputation_Faction_Angmar_Fire_Giant_CurrentTier" currentReputationProperty="Reputation_Faction_Angmar_Fire_Giant_EarnedReputation" description="The Fire-giants, or Eldgang, found and inhabited the Rift of Nûrz Ghâshu after the city fell into ruin at the end of the First Age.">
+<faction id="1879097420" key="ELDGANG" name="The Eldgang" category="Eriador" lowestTier="1" initialTier="3" highestTier="7" currentTierProperty="Reputation_Faction_Angmar_Fire_Giant_CurrentTier" currentReputationProperty="Reputation_Faction_Angmar_Fire_Giant_EarnedReputation" description="key:620796107:54354734">
 <level tier="1" key="ENEMY" lotroPoints="0" requiredReputation="0"/>
 <level tier="2" key="OUTSIDER" lotroPoints="0" requiredReputation="10000"/>
 <level tier="3" key="NEUTRAL" lotroPoints="0" requiredReputation="20000"/>

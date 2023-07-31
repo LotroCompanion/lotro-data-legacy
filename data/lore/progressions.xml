@@ -8830,6 +8830,22 @@
 <point x="59" y="127.0"/>
 <point x="60" y="129.0"/>
 </arrayProgression>
+<arrayProgression identifier="1879060194" nbPoints="60">
+<point xMin="1" xMax="50" y="0.04"/>
+<point xMin="51" xMax="56" y="0.0"/>
+<point x="57" y="0.0225"/>
+<point x="58" y="0.023925"/>
+<point x="59" y="0.02535"/>
+<point x="60" y="0.026775"/>
+</arrayProgression>
+<arrayProgression identifier="1879060195" nbPoints="60">
+<point xMin="1" xMax="50" y="0.04"/>
+<point xMin="51" xMax="56" y="0.0"/>
+<point x="57" y="0.0225"/>
+<point x="58" y="0.023925"/>
+<point x="59" y="0.02535"/>
+<point x="60" y="0.026775"/>
+</arrayProgression>
 <arrayProgression identifier="1879060239" nbPoints="60">
 <point x="1" y="1.0"/>
 <point x="2" y="2.0"/>
@@ -10771,6 +10787,21 @@
 <point x="58" y="143.0"/>
 <point x="59" y="145.0"/>
 <point x="60" y="148.0"/>
+</arrayProgression>
+<arrayProgression identifier="1879087232" nbPoints="60">
+<point xMin="1" xMax="4" y="1.0"/>
+<point xMin="5" xMax="8" y="2.0"/>
+<point xMin="9" xMax="12" y="3.0"/>
+<point xMin="13" xMax="16" y="4.0"/>
+<point xMin="17" xMax="20" y="5.0"/>
+<point xMin="21" xMax="25" y="6.0"/>
+<point xMin="26" xMax="29" y="7.0"/>
+<point xMin="30" xMax="33" y="8.0"/>
+<point xMin="34" xMax="37" y="9.0"/>
+<point xMin="38" xMax="41" y="10.0"/>
+<point xMin="42" xMax="45" y="11.0"/>
+<point xMin="46" xMax="50" y="12.0"/>
+<point xMin="51" xMax="60" y="0.0"/>
 </arrayProgression>
 <arrayProgression identifier="1879087233" nbPoints="60">
 <point x="1" y="0.002"/>

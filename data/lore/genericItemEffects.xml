@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><genericItemEffects>
+<category code="14" label="Crossbow">
+<effect id="1879049208" name="Crossbow Debuf" iconId="1090519170" description="key:620757396:181298206">
+<stat name="Skill_AutoAttack_BlockChance" constant="-5.0"/>
+</effect>
+</category>
+<category code="20" label="Dagger">
+<effect id="1879086274" name="Dagger Precision" iconId="1090519170">
+<stat name="Skill_DaggerAutoAttackCriticalHitChance" descriptionOverride="key:620789445:106251889" constant="1.0"/>
+</effect>
+</category>
+<category code="28" label="One-handed Sword">
+<effect id="1879049210" name="Sword Precision" iconId="1090519170" description="key:620757393:181298206">
+<stat name="Combat_MissChanceModifier" operator="SUBSTRACT" constant="1.0"/>
+</effect>
+</category>
+<category code="3" label="Two-handed Sword">
+<effect id="1879049211" name="Sword Precision" iconId="1090519170" description="key:620757391:181298206">
+<stat name="Combat_MissChanceModifier" operator="SUBSTRACT" constant="2.0"/>
+</effect>
+</category>
+<category code="16" label="Halberd">
+<effect id="1879049212" name="Halberd Threat" iconId="1090519170" description="key:620757398:181298206">
+<stat name="Skill_AdditionalThreat_AllSkillsMod" scaling="1879087232"/>
+</effect>
+</category>
+<category code="8" label="Bow">
+<effect id="1879049213" name="Bow Precision" iconId="1090519170">
+<stat name="RANGED_AUTO_ATTACKS_CRIT_CHANCE_PERCENTAGE" constant="1.0"/>
+</effect>
+</category>
+<category code="11" label="Heavy Shield">
+<effect id="1879085059" name="Heavy Shield" iconId="1090519170">
+<stat name="EVADE_PERCENTAGE" operator="SUBSTRACT" constant="2.0"/>
+<stat name="RANGED_DEFENCE_PERCENTAGE" constant="-10.0"/>
+</effect>
+</category>
+</genericItemEffects>

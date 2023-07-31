@@ -1,0 +1,1222 @@
+<?xml version="1.0" encoding="UTF-8"?><labels locale="de">
+<label key="1879051517" value="Ehren-Landbüttel"/>
+<label key="1879054954" value="Lehrling der Gelehrtheit"/>
+<label key="1879054955" value="Meisterin / Meister der Gelehrtheit (Lehrling)"/>
+<label key="1879054964" value="Gesellin / Geselle der Gelehrtheit"/>
+<label key="1879054965" value="Meisterin der Gelehrtheit (Gesellin) / Meister der Gelehrtheit (Geselle)"/>
+<label key="1879054972" value="Expertin / Experte der Gelehrtheit"/>
+<label key="1879054973" value="Meisterin der Gelehrtheit (Expertin) / Meister der Gelehrtheit (Experte)"/>
+<label key="1879054982" value="Virtuosin / Virtuose der Gelehrtheit"/>
+<label key="1879054983" value="Meisterin der Gelehrtheit (Virtuosin) / Meister der Gelehrtheit (Virtuose)[m]}"/>
+<label key="1879054990" value="Meisterin / Meister der Gelehrtheit"/>
+<label key="1879054991" value="Großmeisterin / Großmeister der Gelehrtheit"/>
+<label key="1879055087" value="Lehrling der Schmiedekunst"/>
+<label key="1879055088" value="Meisterin / Meister der Schmiedekunst (Lehrling)"/>
+<label key="1879055100" value="Gesellin / Geselle der Schmiedekunst"/>
+<label key="1879055101" value="Meisterin der Schmiedekunst (Gesellin) / Meister der Schmiedekunst (Geselle)"/>
+<label key="1879055114" value="Expertin / Experte der Schmiedekunst"/>
+<label key="1879055115" value="Meisterin der Schmiedekunst (Expertin) / Meister der Schmiedekunst (Experte)"/>
+<label key="1879055129" value="Virtuosin / Virtuose der Schmiedekunst"/>
+<label key="1879055130" value="Meisterin der Schmiedekunst (Virtuosin) / Meister der Schmiedekunst (Virtuose)"/>
+<label key="1879055144" value="Meisterin / Meister der Schmiedekunst"/>
+<label key="1879055145" value="Großmeisterin / Großmeister der Schmiedekunst"/>
+<label key="1879055309" value="Lehrling der Goldschmiedekunst"/>
+<label key="1879055310" value="Meisterin / Meister der Goldschmiedekunst (Lehrling)"/>
+<label key="1879055319" value="Gesellin / Geselle der Goldschmiedekunst"/>
+<label key="1879055320" value="Meisterin der Goldschmiedekunst (Gesellin) / Meister der Goldschmiedekunst (Geselle)"/>
+<label key="1879055329" value="Expertin / Experte der Goldschmiedekunst"/>
+<label key="1879055330" value="Meisterin der Goldschmiedekunst (Expertin) / Meister der Goldschmiedekunst (Experte)[m]}"/>
+<label key="1879055339" value="Virtuosin / Virtuose der Goldschmiedekunst"/>
+<label key="1879055340" value="Meisterin der Goldschmiedekunst (Virtuosin) / Meister der Goldschmiedekunst (Virtuose)"/>
+<label key="1879055348" value="Meisterin / Meister der Goldschmiedekunst"/>
+<label key="1879055349" value="Großmeisterin / Großmeister der Goldschmiedekunst"/>
+<label key="1879055486" value="Lehrling der Schneiderkunst"/>
+<label key="1879055487" value="Meisterin / Meister der Schneiderkunst (Lehrling)"/>
+<label key="1879055504" value="Gesellin / Geselle der Schneiderkunst"/>
+<label key="1879055505" value="Meisterin der Schneiderkunst (Gesellin) / Meister der Schneiderkunst (Geselle)"/>
+<label key="1879055523" value="Expertin / Experte der Schneiderkunst"/>
+<label key="1879055524" value="Meisterin der Schneiderkunst (Expertin) / Meister der Schneiderkunst (Experte)"/>
+<label key="1879055543" value="Virtuosin / Virtuose der Schneiderkunst"/>
+<label key="1879055544" value="Meisterin der Schneiderkunst (Virtuosin) / Meister der Schneiderkunst (Virtuose)[m]}"/>
+<label key="1879055563" value="Meisterin / Meister der Schneiderkunst"/>
+<label key="1879055564" value="Großmeisterin / Großmeister der Schneiderkunst"/>
+<label key="1879055785" value="Lehrling der Waffenschmiedekunst"/>
+<label key="1879055786" value="Meisterin / Meister der Waffenschmiedekunst (Lehrling)"/>
+<label key="1879055796" value="Gesellin / Geselle der Waffenschmiedekunst"/>
+<label key="1879055797" value="Meisterin der Waffenschmiedekunst (Gesellin) / Meister der Waffenschmiedekunst (Geselle)"/>
+<label key="1879055808" value="Expertin / Experte der Waffenschmiedekunst"/>
+<label key="1879055809" value="Meisterin der Waffenschmiedekunst (Expertin) / Meister der Waffenschmiedekunst (Experte)"/>
+<label key="1879055821" value="Virtuosin / Virtuose der Waffenschmiedekunst"/>
+<label key="1879055822" value="Meisterin der Waffenschmiedekunst (Virtuosin) / Meister der Waffenschmiedekunst (Virtuose)[m]}"/>
+<label key="1879055834" value="Meisterin / Meister der Waffenschmiedekunst"/>
+<label key="1879055835" value="Großmeisterin / Großmeister der Waffenschmiedekunst"/>
+<label key="1879055949" value="Lehrling der Drechslerkunst"/>
+<label key="1879055950" value="Meisterin / Meister der Drechslerkunst (Lehrling)"/>
+<label key="1879055960" value="Gesellin / Geselle der Drechslerkunst"/>
+<label key="1879055961" value="Meisterin der Drechslerkunst (Gesellin) / Meister der Drechslerkunst (Geselle)"/>
+<label key="1879055972" value="Expertin / Experte der Drechslerkunst"/>
+<label key="1879055973" value="Meisterin der Drechslerkunst (Expertin) / Meister der Drechslerkunst (Experte)"/>
+<label key="1879055985" value="Virtuosin / Virtuose der Drechslerkunst"/>
+<label key="1879055986" value="Meisterin der Drechslerkunst (Virtuosin) / Meister der Drechslerkunst (Virtuose)[m]}"/>
+<label key="1879055998" value="Meisterin / Meister der Drechslerkunst"/>
+<label key="1879055999" value="Großmeisterin / Großmeister der Drechslerkunst"/>
+<label key="1879061261" value="Lehrling der Kochkunst"/>
+<label key="1879061262" value="Meisterin / Meister der Kochkunst (Lehrling)"/>
+<label key="1879061272" value="Gesellin / Geselle der Kochkunst"/>
+<label key="1879061273" value="Meisterin der Kochkunst (Gesellin) / Meister der Kochkunst (Geselle)"/>
+<label key="1879061284" value="Expertin / Experte der Kochkunst"/>
+<label key="1879061285" value="Meisterin der Kochkunst (Expertin) / Meister der Kochkunst (Experte)"/>
+<label key="1879061296" value="Virtuosin / Virtuose der Kochkunst"/>
+<label key="1879061297" value="Meisterin der Kochkunst (Virtuosin) / Meister der Kochkunst (Virtuose)"/>
+<label key="1879061308" value="Meisterin / Meister der Kochkunst"/>
+<label key="1879061309" value="Großmeisterin / Großmeister der Kochkunst"/>
+<label key="1879062820" value="Lehrling der Schürfkunst"/>
+<label key="1879062821" value="Meisterin / Meister der Schürfkunst (Lehrling)"/>
+<label key="1879062826" value="Gesellin / Geselle der Schürfkunst"/>
+<label key="1879062827" value="Meisterin der Schürfkunst (Gesellin) / Meister der Schürfkunst (Geselle)"/>
+<label key="1879062833" value="Expertin / Experte der Schürfkunst"/>
+<label key="1879062834" value="Meisterin der Schürfkunst (Expertin) / Meister der Schürfkunst (Experte)"/>
+<label key="1879062841" value="Virtuosin / Virtuose der Schürfkunst"/>
+<label key="1879062842" value="Meisterin der Schürfkunst (Virtuosin) / Meister der Schürfkunst (Virtuose)[m]}"/>
+<label key="1879062849" value="Meisterin / Meister der Schürfkunst"/>
+<label key="1879062850" value="Großmeisterin / Großmeister der Schürfkunst"/>
+<label key="1879062871" value="Lehrling des Forstwesens"/>
+<label key="1879062872" value="Meisterin / Meister des Forstwesens (Lehrling)"/>
+<label key="1879062877" value="Gesellin / Geselle des Forstwesens"/>
+<label key="1879062878" value="Meisterin des Forstwesens (Gesellin) / Meister des Forstwesens (Geselle)"/>
+<label key="1879062883" value="Expertin / Experte des Forstwesens"/>
+<label key="1879062884" value="Meisterin des Forstwesens (Expertin) / Meister des Forstwesens (Experte)"/>
+<label key="1879062889" value="Virtuosin / Virtuose des Forstwesens"/>
+<label key="1879062890" value="Meisterin des Forstwesens (Virtuosin) / Meister des Forstwesens (Virtuose)"/>
+<label key="1879062895" value="Meisterin / Meister des Forstwesens"/>
+<label key="1879062896" value="Großmeisterin / Großmeister des Forstwesens"/>
+<label key="1879062910" value="Lehrling der Landwirtschaft"/>
+<label key="1879062911" value="Meisterin / Meister der Landwirtschaft (Lehrling)"/>
+<label key="1879062923" value="Gesellin / Geselle der Landwirtschaft"/>
+<label key="1879062924" value="Meisterin der Landwirtschaft (Gesellin) / Meister der Landwirtschaft (Geselle)"/>
+<label key="1879062933" value="Expertin / Experte der Landwirtschaft"/>
+<label key="1879062934" value="Meisterin der Landwirtschaft (Expertin) / Meister der Landwirtschaft (Experte)"/>
+<label key="1879062943" value="Virtuosin / Virtuose der Landwirtschaft"/>
+<label key="1879062944" value="Meisterin der Landwirtschaft (Virtuosin) / Meister der Landwirtschaft (Virtuose)"/>
+<label key="1879062950" value="Meisterin / Meister der Landwirtschaft"/>
+<label key="1879062951" value="Großmeisterin / Großmeister der Landwirtschaft"/>
+<label key="1879071845" value="der / die Verlockende"/>
+<label key="1879071848" value="der / die Verwirrende"/>
+<label key="1879071851" value="der / die Geliebte"/>
+<label key="1879071854" value="der / die Belästigte"/>
+<label key="1879071857" value="der / die Verspottete"/>
+<label key="1879071860" value="der / die Langweilige"/>
+<label key="1879071927" value="der / die Hilfsbereite"/>
+<label key="1879071930" value="der / die Erzürnende"/>
+<label key="1879071932" value="der / die Beleidigte"/>
+<label key="1879071934" value="der / die Einschüchternde"/>
+<label key="1879071937" value="der / die Ungezogene"/>
+<label key="1879071940" value="der / die Siegreiche"/>
+<label key="1879071942" value="die Frühstück-Expertin / der Frühstück-Experte"/>
+<label key="1879071945" value="die Fleischesserin / der Fleischesser"/>
+<label key="1879071947" value="die Kuchen-Kennerin / der Kuchen-Kenner"/>
+<label key="1879071949" value="die Vegetarierin / der Vegetarier"/>
+<label key="1879071951" value="der / die Wachsame"/>
+<label key="1879071953" value="der / die Unbesiegte"/>
+<label key="1879071955" value="der / die Unbezwingbare"/>
+<label key="1879071957" value="der / die Unversehrte"/>
+<label key="1879071959" value="der / die Unsterbliche"/>
+<label key="1879072112" value="Jäger der Hügelgräberhöhen / Jägerin der Hügelgräberhöhen"/>
+<label key="1879072115" value="Wächter der Straßen / Wächterin der Straßen"/>
+<label key="1879072118" value="Wurzelschläger / Wurzelschlägerin"/>
+<label key="1879072121" value="Panzerbrecher / Panzerbrecherin"/>
+<label key="1879072124" value="Verteidiger des Breelands / Verteidigerin des Breelands"/>
+<label key="1879072127" value="Fliegentöter / Fliegentöterin"/>
+<label key="1879072130" value="Spinnenfeind / Spinnenfeindin"/>
+<label key="1879072133" value="Fluch der Hügelgräber"/>
+<label key="1879072136" value="Sumpfjäger / Sumpfjägerin"/>
+<label key="1879072139" value="Feind des Todes / Feindin des Todes"/>
+<label key="1879072142" value="Bilwiss-Schläger / Bilwiss-Schlägerin"/>
+<label key="1879072145" value="Waffenmeister der Einsamen Lande / Waffenmeisterin der Einsamen Lande"/>
+<label key="1879072148" value="Spinnenfluch"/>
+<label key="1879072151" value="Warg-Jäger / Warg-Jägerin"/>
+<label key="1879072155" value="Bilwiss-Spalter / Bilwiss-Spalterin"/>
+<label key="1879072158" value="Held der Nordhöhen / Heldin der Nordhöhen"/>
+<label key="1879072161" value="Feind der Nacht / Feindin der Nacht"/>
+<label key="1879072164" value="Troll-Schläger / Troll-Schlägerin"/>
+<label key="1879072167" value="Warg-Feind / Warg-Feindin"/>
+<label key="1879072170" value="Lindwurm-Schlächter / Lindwurm-Schlächterin"/>
+<label key="1879072173" value="Verbündeter der Grenzer / Verbündete der Grenzer"/>
+<label key="1879072176" value="Beschützer des Auenlandes / Beschützerin des Auenlandes"/>
+<label key="1879072179" value="Retter der Ernte / Retterin der Ernte"/>
+<label key="1879072182" value="Schnecken-Quetscher / Schnecken-Quetscherin"/>
+<label key="1879072185" value="Spinnengeißel"/>
+<label key="1879072188" value="Pelzjäger / Pelzjägerin"/>
+<label key="1879072191" value="Verteidiger der Hallen / Verteidigerin der Hallen"/>
+<label key="1879072194" value="Wächter der Ered Luin / Wächterin der Ered Luin"/>
+<label key="1879072197" value="Federfeind / Federfeindin"/>
+<label key="1879072200" value="Netzschlitzer / Netzschlitzerin"/>
+<label key="1879072203" value="Wolfbändiger / Wolfbändigerin"/>
+<label key="1879072206" value="Verhängnis der Angmarim"/>
+<label key="1879072209" value="Fluch der Orks"/>
+<label key="1879072212" value="Fluch der Trolle"/>
+<label key="1879072215" value="Kriegsherr von Angmar / Kriegsherrin von Angmar"/>
+<label key="1879072218" value="Fürst der Reißzähne / Fürstin der Reißzähne"/>
+<label key="1879072221" value="Schicksal der Verfluchten"/>
+<label key="1879072224" value="Schicksal der Würmer"/>
+<label key="1879072228" value="Bärenringer"/>
+<label key="1879072231" value="Fluch der Titanen"/>
+<label key="1879072234" value="Bestienjäger / Bestienjägerin"/>
+<label key="1879072237" value="Trollbezwinger / Trollbezwingerin"/>
+<label key="1879072240" value="Warg-Jäger / Warg-Jägerin"/>
+<label key="1879072243" value="Wurmfluch"/>
+<label key="1879072247" value="Chitin-Zerschmetterer"/>
+<label key="1879072250" value="Riesen-Bezwinger / Riesen-Bezwingerin"/>
+<label key="1879072253" value="Troll-Bezwinger / Troll-Bezwingerin"/>
+<label key="1879072256" value="der Reinigende / die Reinigende"/>
+<label key="1879072259" value="Rutenspalter / Rutenspalterin"/>
+<label key="1879072262" value="Wurmschlächter / Wurmschlächterin"/>
+<label key="1879072265" value="der Neuling"/>
+<label key="1879072267" value="der Krieger / die Kriegerin"/>
+<label key="1879072269" value="der Veteran / die Veteranin"/>
+<label key="1879072271" value="der Hauptmann"/>
+<label key="1879072273" value="der Kriegsherr / die Kriegsherrin"/>
+<label key="1879072275" value="Held / Heldin der Ettenöden"/>
+<label key="1879072277" value="Held / Heldin der Legenden"/>
+<label key="1879072279" value="Gegner / Gegnerin der Schwarzpfeile"/>
+<label key="1879072281" value="Feind / Feindin der Schwarzpfeile"/>
+<label key="1879072283" value="Bezwinger / Bezwingerin der Schwarzpfeile"/>
+<label key="1879072285" value="Fluch der Schwarzpfeile"/>
+<label key="1879072287" value="Scharfrichter / Scharfrichterin der Schwarzpfeile"/>
+<label key="1879072289" value="Gegner der Schnitter / Gegnerin der Schnitter"/>
+<label key="1879072291" value="Feind der Schnitter / Feindin der Schnitter"/>
+<label key="1879072293" value="Bezwinger der Schnitter / Bezwingerin der Schnitter"/>
+<label key="1879072295" value="Fluch der Schnitter / Fluch der Schnitter"/>
+<label key="1879072297" value="Schnitter-Schlächter / Schnitter-Schlächterin"/>
+<label key="1879072299" value="Gegner der Schamanen / Gegnerin der Schamanen"/>
+<label key="1879072301" value="Feind der Schamanen / Feindin der Schamanen"/>
+<label key="1879072303" value="Bezwinger der Schamanen / Bezwingerin der Schamanen"/>
+<label key="1879072305" value="Fluch der Schamanen"/>
+<label key="1879072307" value="Schicksal der Schamanen"/>
+<label key="1879072309" value="Gegner der Pirscher / Gegnerin der Pirscher"/>
+<label key="1879072311" value="Feind der Pirscher / Feindin der Pirscher"/>
+<label key="1879072313" value="Pirscher-Bezwinger / Pirscher-Bezwingerin"/>
+<label key="1879072315" value="Fluch der Pirscher"/>
+<label key="1879072317" value="Alptraum der Pirscher"/>
+<label key="1879072319" value="Gegner der Kriegsanführer / Gegnerin der Kriegsanführer"/>
+<label key="1879072321" value="Feind der Kriegsanführer / Feindin der Kriegsanführer"/>
+<label key="1879072323" value="Bezwinger der Kriegsanführer / Bezwingerin der Kriegsanführer"/>
+<label key="1879072325" value="Fluch der Kriegsanführer"/>
+<label key="1879072327" value="Verhängnis der Kriegsanführer / Verhängnis der Kriegsanführer"/>
+<label key="1879072329" value="Gegner der Weberspinnen / Gegnerin der Weberspinnen"/>
+<label key="1879072331" value="Feind der Weberspinnen / Feindin der Weberspinnen"/>
+<label key="1879072333" value="Weberspinnen-Bezwinger / Weberspinnen-Bezwingerin"/>
+<label key="1879072335" value="Fluch der Weberspinnen"/>
+<label key="1879072337" value="Ausrotter der Weberspinnen / Ausrotterin der Weberspinnen"/>
+<label key="1879072343" value="Eroberer von Tol Ascarnen / Eroberin von Tol Ascarnen"/>
+<label key="1879072349" value="Eroberer von Dargazag / Eroberin von Dargazag"/>
+<label key="1879072355" value="Eroberer der Türme / Eroberin der Türme"/>
+<label key="1879072363" value="Eroberer der Ettenöden / Eroberin der Ettenöden"/>
+<label key="1879072365" value="Braumeister des Auenlandes / Braumeisterin des Auenlandes"/>
+<label key="1879072996" value="Gründer / Gründerin"/>
+<label key="1879072997" value="Anführer / Anführerin"/>
+<label key="1879072998" value="Offizierin / Offizier"/>
+<label key="1879072999" value="Stammesschwester / Stammesbruder"/>
+<label key="1879073639" value="aus Breeland"/>
+<label key="1879073640" value="aus Thal"/>
+<label key="1879073641" value="aus Gondor"/>
+<label key="1879073642" value="aus Rohan"/>
+<label key="1879073643" value="von den Falbhäuten"/>
+<label key="1879073644" value="von den Harfüßen"/>
+<label key="1879073645" value="von den Starren"/>
+<label key="1879073646" value="aus den Eisenbergen"/>
+<label key="1879073647" value="vom Einsamen Berg"/>
+<label key="1879073648" value="aus dem Blauen Gebirge"/>
+<label key="1879073649" value="aus dem Grauen Gebirge"/>
+<label key="1879073650" value="aus dem Weißen Gebirge"/>
+<label key="1879073651" value="aus Lindon"/>
+<label key="1879073652" value="aus Lórien"/>
+<label key="1879073653" value="aus dem Düsterwald"/>
+<label key="1879073654" value="aus Bruchtal"/>
+<label key="1879073655" value="aus Edhellond"/>
+<label key="1879073764" value="Sohn / Tochter von"/>
+<label key="1879073765" value="Stiefsohn / Stieftochter von"/>
+<label key="1879073766" value="Vater / Mutter von"/>
+<label key="1879073767" value="Vater / Mutter von"/>
+<label key="1879073768" value="Stiefvater / Stiefmutter von"/>
+<label key="1879073769" value="Stiefvater / Stiefmutter von"/>
+<label key="1879073770" value="Ehemann / Ehefrau von"/>
+<label key="1879074181" value="Vater"/>
+<label key="1879074182" value="Fürstin / Fürst"/>
+<label key="1879074183" value="Seneschall"/>
+<label key="1879074184" value="Stammesschwester / Stammesbruder"/>
+<label key="1879074186" value="Einior"/>
+<label key="1879074187" value="Tûr"/>
+<label key="1879074188" value="Caun"/>
+<label key="1879074189" value="Stammesschwester / Stammesbruder"/>
+<label key="1879074191" value="Gründer / Gründerin"/>
+<label key="1879074192" value="Meisterin / Meister"/>
+<label key="1879074193" value="Vorsteherin / Vorsteher"/>
+<label key="1879074194" value="Stammesschwester / Stammesbruder"/>
+<label key="1879074196" value="Gründer / Gründerin"/>
+<label key="1879074197" value="Anführer / Anführerin"/>
+<label key="1879074198" value="Anführer / Anführerin"/>
+<label key="1879074199" value="Stammesschwester / Stammesbruder"/>
+<label key="1879077125" value="Günstling Mordiriths"/>
+<label key="1879077131" value="Eroberer von Ringdyr / Eroberin von Ringdyr"/>
+<label key="1879077133" value="Eroberer von Tol Ascarnen / Eroberin von Tol Ascarnen"/>
+<label key="1879077135" value="Eroberer der Türme / Eroberin der Türme"/>
+<label key="1879077137" value="Langfinger-Töter / Langfinger-Töterin"/>
+<label key="1879077139" value="Diebes-Bezwinger / Diebes-Bezwingerin"/>
+<label key="1879077141" value="Schurken-Schlächter / Schurken-Schlächterin"/>
+<label key="1879077143" value="Fluch der Schatten"/>
+<label key="1879077145" value="Geißel der Diebe"/>
+<label key="1879077147" value="Feind / Feindin der Hauptleute"/>
+<label key="1879077149" value="Bezwinger / Bezwingerin der Hauptleute"/>
+<label key="1879077151" value="Zerfetzer / Zerfetzerin der Banner"/>
+<label key="1879077153" value="Fluch der Ordnung"/>
+<label key="1879077155" value="Schlächter / Schlächterin der Fürsten"/>
+<label key="1879077157" value="Feind / Feindin der Waffenmeister"/>
+<label key="1879077159" value="Bezwinger / Bezwingerin der Waffenmeister"/>
+<label key="1879077161" value="Schwertbrecher / Schwertbrecherin"/>
+<label key="1879077163" value="Fluch der Tapferkeit"/>
+<label key="1879077165" value="Verhängnis der Helden"/>
+<label key="1879077167" value="Wächtertöter / Wächtertöterin"/>
+<label key="1879077169" value="Wächter-Bezwinger / Wächter-Bezwingerin"/>
+<label key="1879077171" value="Schildbrecher / Schildbrecherin"/>
+<label key="1879077173" value="Fluch der Wächter"/>
+<label key="1879077175" value="Verhängnis des Beherzten"/>
+<label key="1879077177" value="Jägertöter / Jägertöterin"/>
+<label key="1879077179" value="Späher-Blender / Späher-Blenderin"/>
+<label key="1879077181" value="Bogenspalter / Bogenspalterin"/>
+<label key="1879077183" value="Fluch der Jäger"/>
+<label key="1879077185" value="Verhängnis des Schützen"/>
+<label key="1879077187" value="Feind der Kundigen / Feindin der Kundigen"/>
+<label key="1879077189" value="Bezwinger der Weisen / Bezwingerin der Weisen"/>
+<label key="1879077191" value="Stabbrecher / Stabbrecherin"/>
+<label key="1879077193" value="Fluch der Weisen"/>
+<label key="1879077195" value="Geißel der Gelehrten"/>
+<label key="1879077197" value="Feind der Barden / Feindin der Barden"/>
+<label key="1879077199" value="Musikanten-Bezwinger / Musikanten-Bezwingerin"/>
+<label key="1879077201" value="Harfenbrecher / Harfenbrecherin"/>
+<label key="1879077203" value="Sängerfluch"/>
+<label key="1879077205" value="Ersticker der Lieder / Erstickerin der Lieder"/>
+<label key="1879079012" value="die Kuchensiegerin / der Kuchensieger"/>
+<label key="1879082937" value="Gundzors Sklave / Gundzors Sklavin"/>
+<label key="1879082940" value="Gundzors Lakai / Gundzors Lakai"/>
+<label key="1879082943" value="Gundzors Faust"/>
+<label key="1879082946" value="Bûrzgoths Leibeigener / Bûrzgoths Leibeigene"/>
+<label key="1879082949" value="Bûrzgoths Kriecher / Bûrzgoths Kriecherin"/>
+<label key="1879082952" value="Bûrzgoths Speichellecker / Bûrzgoths Speichelleckerin"/>
+<label key="1879082955" value="Tharbils Helfer / Tharbils Helferin"/>
+<label key="1879082958" value="Tharbils Lakai"/>
+<label key="1879082961" value="Tharbils Peitsche"/>
+<label key="1879082964" value="Diener Barashishs / Dienerin Barashishs"/>
+<label key="1879082967" value="Bluthund Barashishs"/>
+<label key="1879082970" value="Klinge Barashishs"/>
+<label key="1879082973" value="Trintrûs Kriecher / Trintrûs Kriecherin"/>
+<label key="1879082976" value="Trintrûs Speichellecker / Trintrûs Speichelleckerin"/>
+<label key="1879082979" value="Trintrûs Schmeichler / Trintrûs Schmeichlerin"/>
+<label key="1879083984" value="Kuchenbote / Kuchenbotin"/>
+<label key="1879083985" value="vom Post-Schnelldienst"/>
+<label key="1879083996" value="Hand des Schicksals"/>
+<label key="1879083997" value="Elben-Bezwinger / Elben-Bezwingerin"/>
+<label key="1879083998" value="Feind des Heldenmuts / Feindin des Heldenmuts"/>
+<label key="1879083999" value="Menschenfeind / Menschenfeindin"/>
+<label key="1879084000" value="Hobbitfluch"/>
+<label key="1879084001" value="Bezwinger des Lichts / Bezwingerin des Lichts"/>
+<label key="1879084002" value="Elbenfluch"/>
+<label key="1879084003" value="Geißel unter dem Berg"/>
+<label key="1879084004" value="Kriegsexpertin / Kriegsexperte"/>
+<label key="1879084005" value="Hobbit-Bezwinger / Hobbit-Bezwingerin"/>
+<label key="1879084006" value="Knochenflüsterin / Knochenflüsterer"/>
+<label key="1879084007" value="Herold der Finsternis / Heroldin der Finsternis"/>
+<label key="1879084008" value="Zwergenschleuder / Zwergenschleuderin"/>
+<label key="1879084009" value="Häuptling"/>
+<label key="1879084010" value="Gründer / Gründerin"/>
+<label key="1879084011" value="Fluch des Westens"/>
+<label key="1879084012" value="Zwergenfluch"/>
+<label key="1879084013" value="Feldmeisterin / Feldmeister"/>
+<label key="1879084014" value="Hobbitfeind / Hobbitfeindin"/>
+<label key="1879084015" value="Wächterin / Wächter"/>
+<label key="1879084016" value="Zwergenfeind / Zwergenfeindin"/>
+<label key="1879084017" value="Feind der Ehre / Feindin der Ehre"/>
+<label key="1879084018" value="Geißel der Menschen"/>
+<label key="1879084019" value="Elbenfeind / Elbenfeindin"/>
+<label key="1879084020" value="Anführer / Anführerin"/>
+<label key="1879084021" value="Menschengeißler / Menschengeißlerin"/>
+<label key="1879084022" value="Soldat / Soldatin"/>
+<label key="1879084023" value="Soldat / Soldatin"/>
+<label key="1879084024" value="Peiniger / Peinigerin"/>
+<label key="1879084025" value="Menschenbezwinger / Menschenbezwingerin"/>
+<label key="1879084027" value="Schlachtenmeisterin / Schlachtenmeister"/>
+<label key="1879084028" value="Vorfahrin / Vorfahre"/>
+<label key="1879084029" value="Kriegstreiberin / Kriegstreiber"/>
+<label key="1879084030" value="Soldat / Soldatin"/>
+<label key="1879084032" value="Offizierin / Offizier"/>
+<label key="1879084033" value="Schnitter des Leids / Schnitterin des Leids"/>
+<label key="1879084034" value="Feind der Anmut / Feindin der Anmut"/>
+<label key="1879084035" value="Geißel des Kleinen Volkes"/>
+<label key="1879084036" value="Aufseherin / Aufseher"/>
+<label key="1879084037" value="Soldat / Soldatin"/>
+<label key="1879084038" value="Schwarzer Hund / Schwarze Hündin"/>
+<label key="1879084039" value="Geißel des Schönen Volkes"/>
+<label key="1879084040" value="Feind der Unschuld / Feindin der Unschuld"/>
+<label key="1879084198" value="Verwalter / Verwalterin von Eriador"/>
+<label key="1879084199" value="Marschall / Marschallin von Eriador"/>
+<label key="1879084200" value="Truchsess von Eriador"/>
+<label key="1879084408" value="Diener Angmars / Dienerin Angmars"/>
+<label key="1879086560" value="ein Licht aus dem Schatten"/>
+<label key="1879087032" value="Grabwächter / Grabwächterin"/>
+<label key="1879087033" value="Geheimnishüter / Geheimnishütern"/>
+<label key="1879087034" value="Bezwinger / Bezwingerin der Gauradain"/>
+<label key="1879087035" value="Feind / Feindin der Riesen"/>
+<label key="1879087036" value="Gegner / Gegnerin der Bilwisse"/>
+<label key="1879087037" value="Fluch der Kergrim"/>
+<label key="1879087038" value="Vernichter / Vernichterin der Flammen"/>
+<label key="1879088050" value="Mitglied der Gasthausliga"/>
+<label key="1879088137" value="Held / Heldin der Fliegenden Federn"/>
+<label key="1879088138" value="Hühnerjäger / Hühnerjägerin"/>
+<label key="1879088665" value="Schicksal des wiedergeborenen Thorog"/>
+<label key="1879088666" value="Retter / Retterin von Mírdanant"/>
+<label key="1879088667" value="Bezwinger / Bezwingerin der vier Diener"/>
+<label key="1879088668" value="Feind / Feindin der Corcur"/>
+<label key="1879088669" value="Feind / Feindin Angmars"/>
+<label key="1879088670" value="der / die Giftige"/>
+<label key="1879088671" value="der / die von Zaudru Gehasste"/>
+<label key="1879088672" value="der Bezwinger / die Bezwingerin von Zaudru"/>
+<label key="1879088673" value="Storvâgûns Ende"/>
+<label key="1879088674" value="Riesen-Schuldeneintreiber / Riesen-Schuldeneintreiberin"/>
+<label key="1879088675" value="Brutplatz-Reiter / Brutplatz-Reiterin"/>
+<label key="1879088676" value="der / die Selbstlose"/>
+<label key="1879093986" value="Scharfrichter / Scharfrichterin des Bösen"/>
+<label key="1879093987" value="Nemesis der Gefallenen"/>
+<label key="1879093988" value="Brutjäger / Brutjägerin"/>
+<label key="1879093989" value="Totengräber / Totengräberin"/>
+<label key="1879093990" value="Herrin / Herr der Kreaturen"/>
+<label key="1879093991" value="Verräterfluch"/>
+<label key="1879093992" value="Rächer / Rächerin von Sarnûr"/>
+<label key="1879093993" value="Trolltreter / Trolltreterin"/>
+<label key="1879094070" value="der / die Unkluge"/>
+<label key="1879094073" value="Verfahrensdiener / Verfahrensdienerin"/>
+<label key="1879094074" value="Überschreiter der Straßen / Überschreiterin der Straßen"/>
+<label key="1879098910" value="Freund / Freundin der Wildnis"/>
+<label key="1879099327" value="Flügelspalter / Flügelspalterin"/>
+<label key="1879099328" value="Troll-Treiber / Troll-Treiberin"/>
+<label key="1879101828" value="Mentor der Lieder / Mentorin der Lieder"/>
+<label key="1879101829" value="Vorbild der Lieder"/>
+<label key="1879101834" value="Bezwinger / Bezwingerin von Thaurlach"/>
+<label key="1879101835" value="Fürst / Fürstin der zerschmetterten Kette"/>
+<label key="1879101836" value="Zerstörer / Zerstörerin von Thrâng"/>
+<label key="1879101837" value="Retter / Retterin der Eldgang"/>
+<label key="1879101993" value="Trägerin / Träger der Hoffnung"/>
+<label key="key:620758793:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Ehren-Landbüttel"/>
+<label key="key:620758793:175532558" value="Ihr habt den Auenland-Grenzern sehr geholfen und seid zum Ehren-Landbüttel ernannt worden."/>
+<label key="key:620761098:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Lehrling der Gelehrtheit"/>
+<label key="key:620761098:175532558" value="Ihr seid ${PLAYERNAME:ein Gelehrter[m]|eine Gelehrte[f]} der Stufe 1."/>
+<label key="key:620761099:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Meisterin[f]|Meister[m]} der Gelehrtheit (Lehrling)"/>
+<label key="key:620761099:175532558" value="Ihr seid ${PLAYERNAME:ein Meistergelehrter[m]|eine Meistergelehrte[f]} der Stufe 1."/>
+<label key="key:620761114:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Gesellin[f]|Geselle[m]} der Gelehrtheit"/>
+<label key="key:620761114:175532558" value="Ihr seid ${PLAYERNAME:ein Gelehrter[m]|eine Gelehrte[f]} der Stufe 2."/>
+<label key="key:620761115:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Meisterin der Gelehrtheit (Gesellin)[f]|Meister der Gelehrtheit (Geselle)[m]}"/>
+<label key="key:620761115:175532558" value="Ihr seid ${PLAYERNAME:ein Meistergelehrter[m]|eine Meistergelehrte[f]} der Stufe 2."/>
+<label key="key:620761120:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Expertin[f]|Experte[m]} der Gelehrtheit"/>
+<label key="key:620761120:175532558" value="Ihr seid ${PLAYERNAME:ein Gelehrter[m]|eine Gelehrte[f]} der Stufe 3."/>
+<label key="key:620761121:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Meisterin der Gelehrtheit (Expertin)[f]|Meister der Gelehrtheit (Experte)[m]}"/>
+<label key="key:620761121:175532558" value="Ihr seid ${PLAYERNAME:ein Meistergelehrter[m]|eine Meistergelehrte[f]} der Stufe 3."/>
+<label key="key:620761132:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Virtuosin[f]|Virtuose[m]} der Gelehrtheit"/>
+<label key="key:620761132:175532558" value="Ihr seid ${PLAYERNAME:ein Gelehrter[m]|eine Gelehrte[f]} der Stufe 4."/>
+<label key="key:620761133:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Meisterin der Gelehrtheit (Virtuosin)[f]|Meister[m]} der Gelehrtheit (Virtuose)[m]}"/>
+<label key="key:620761133:175532558" value="Ihr seid ${PLAYERNAME:ein Meistergelehrter[m]|eine Meistergelehrte[f]} der Stufe 4."/>
+<label key="key:620761138:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Meisterin[f]|Meister[m]} der Gelehrtheit"/>
+<label key="key:620761138:175532558" value="Ihr seid ${PLAYERNAME:ein Gelehrter[m]|eine Gelehrte[f]} der Stufe 5."/>
+<label key="key:620761139:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Großmeisterin[f]|Großmeister[m]} der Gelehrtheit"/>
+<label key="key:620761139:175532558" value="Ihr seid ${PLAYERNAME:ein Meistergelehrter[m]|eine Meistergelehrte[f]} der Stufe 5."/>
+<label key="key:620761184:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Lehrling der Schmiedekunst"/>
+<label key="key:620761184:175532558" value="Ihr seid ${PLAYERNAME:ein Schmied[m]|eine Schmiedin[f]} der Stufe 1."/>
+<label key="key:620761185:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Meisterin[f]|Meister[m]} der Schmiedekunst (Lehrling)"/>
+<label key="key:620761185:175532558" value="Ihr seid ${PLAYERNAME:ein Meisterschmied[m]|eine Meisterschmiedin[f]} der Stufe 1."/>
+<label key="key:620761203:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Gesellin[f]|Geselle[m]} der Schmiedekunst"/>
+<label key="key:620761203:175532558" value="Ihr seid ${PLAYERNAME:ein Schmied[m]|eine Schmiedin[f]} der Stufe 2."/>
+<label key="key:620761204:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Meisterin der Schmiedekunst (Gesellin)[f]|Meister der Schmiedekunst (Geselle)[m]}"/>
+<label key="key:620761204:175532558" value="Ihr seid ${PLAYERNAME:ein Meisterschmied[m]|eine Meisterschmiedin[f]} der Stufe 2."/>
+<label key="key:620761222:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Expertin[f]|Experte[m]} der Schmiedekunst"/>
+<label key="key:620761222:175532558" value="Ihr seid ${PLAYERNAME:ein Schmied[m]|eine Schmiedin[f]} der Stufe 3."/>
+<label key="key:620761223:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Meisterin der Schmiedekunst (Expertin)[f]|Meister der Schmiedekunst (Experte)[m]}"/>
+<label key="key:620761223:175532558" value="Ihr seid ${PLAYERNAME:ein Meisterschmied[m]|eine Meisterschmiedin[f]} der Stufe 3."/>
+<label key="key:620761242:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Virtuosin[f]|Virtuose[m]} der Schmiedekunst"/>
+<label key="key:620761242:175532558" value="Ihr seid ${PLAYERNAME:ein Schmied[m]|eine Schmiedin[f]} der Stufe 4."/>
+<label key="key:620761243:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Meisterin der Schmiedekunst (Virtuosin)[f]|Meister der Schmiedekunst (Virtuose)[m]}"/>
+<label key="key:620761243:175532558" value="Ihr seid ${PLAYERNAME:ein Meisterschmied[m]|eine Meisterschmiedin[f]} der Stufe 4."/>
+<label key="key:620761262:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Meisterin[f]|Meister[m]} der Schmiedekunst"/>
+<label key="key:620761262:175532558" value="Ihr seid ${PLAYERNAME:ein Schmied[m]|eine Schmiedin[f]} der Stufe 5."/>
+<label key="key:620761263:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Großmeisterin[f]|Großmeister[m]} der Schmiedekunst"/>
+<label key="key:620761263:175532558" value="Ihr seid ${PLAYERNAME:ein Meisterschmied[m]|eine Meisterschmiedin[f]} der Stufe 5."/>
+<label key="key:620761356:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Lehrling der Goldschmiedekunst"/>
+<label key="key:620761356:175532558" value="Ihr seid ${PLAYERNAME:ein Goldschmied[m]|eine Goldschmiedin[f]} der Stufe 1."/>
+<label key="key:620761357:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Meisterin[f]|Meister[m]} der Goldschmiedekunst (Lehrling)"/>
+<label key="key:620761357:175532558" value="Ihr seid ${PLAYERNAME:ein Meistergoldschmied[m]|eine Meistergoldschmiedin[f]} der Stufe 1."/>
+<label key="key:620761368:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Gesellin[f]|Geselle[m]} der Goldschmiedekunst"/>
+<label key="key:620761368:175532558" value="Ihr seid ${PLAYERNAME:ein Goldschmied[m]|eine Goldschmiedin[f]} der Stufe 2."/>
+<label key="key:620761369:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Meisterin der Goldschmiedekunst (Gesellin)[f]|Meister der Goldschmiedekunst (Geselle)[m]}"/>
+<label key="key:620761369:175532558" value="Ihr seid ${PLAYERNAME:ein Meistergoldschmied[m]|eine Meistergoldschmiedin[f]} der Stufe 2."/>
+<label key="key:620761380:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Expertin[f]|Experte[m]} der Goldschmiedekunst"/>
+<label key="key:620761380:175532558" value="Ihr seid ${PLAYERNAME:ein Goldschmied[m]|eine Goldschmiedin[f]} der Stufe 3."/>
+<label key="key:620761381:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Meisterin der Goldschmiedekunst (Expertin)[f]|Meister[m]} der Goldschmiedekunst (Experte)[m]}"/>
+<label key="key:620761381:175532558" value="Ihr seid ${PLAYERNAME:ein Meistergoldschmied[m]|eine Meistergoldschmiedin[f]} der Stufe 3."/>
+<label key="key:620761391:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Virtuosin[f]|Virtuose[m]} der Goldschmiedekunst"/>
+<label key="key:620761391:175532558" value="Ihr seid ${PLAYERNAME:ein Goldschmied[m]|eine Goldschmiedin[f]} der Stufe 4."/>
+<label key="key:620761392:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Meisterin der Goldschmiedekunst (Virtuosin)[f]|Meister der Goldschmiedekunst (Virtuose)[m]}"/>
+<label key="key:620761392:175532558" value="Ihr seid ${PLAYERNAME:ein Meistergoldschmied[m]|eine Meistergoldschmiedin[f]} der Stufe 4."/>
+<label key="key:620761402:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Meisterin[f]|Meister[m]} der Goldschmiedekunst"/>
+<label key="key:620761402:175532558" value="Ihr seid ${PLAYERNAME:ein Goldschmied[m]|eine Goldschmiedin[f]} der Stufe 5."/>
+<label key="key:620761403:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Großmeisterin[f]|Großmeister[m]} der Goldschmiedekunst"/>
+<label key="key:620761403:175532558" value="Ihr seid ${PLAYERNAME:ein Meistergoldschmied[m]|eine Meistergoldschmiedin[f]} der Stufe 5."/>
+<label key="key:620761491:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Lehrling der Schneiderkunst"/>
+<label key="key:620761491:175532558" value="Ihr seid ${PLAYERNAME:ein Schneider[m]|eine Schneiderin[f]} der Stufe 1."/>
+<label key="key:620761492:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Meisterin[f]|Meister[m]} der Schneiderkunst (Lehrling)"/>
+<label key="key:620761492:175532558" value="Ihr seid ${PLAYERNAME:ein Meisterschneider[m]|eine Meisterschneiderin[f]} der Stufe 1."/>
+<label key="key:620761519:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Gesellin[f]|Geselle[m]} der Schneiderkunst"/>
+<label key="key:620761519:175532558" value="Ihr seid ${PLAYERNAME:ein Schneider[m]|eine Schneiderin[f]} der Stufe 2."/>
+<label key="key:620761520:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Meisterin der Schneiderkunst (Gesellin)[f]|Meister der Schneiderkunst (Geselle)[m]}"/>
+<label key="key:620761520:175532558" value="Ihr seid ${PLAYERNAME:ein Meisterschneider[m]|eine Meisterschneiderin[f]} der Stufe 2."/>
+<label key="key:620761547:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Expertin[f]|Experte[m]} der Schneiderkunst"/>
+<label key="key:620761547:175532558" value="Ihr seid ${PLAYERNAME:ein Schneider[m]|eine Schneiderin[f]} der Stufe 3."/>
+<label key="key:620761548:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Meisterin der Schneiderkunst (Expertin)[f]|Meister der Schneiderkunst (Experte)[m]}"/>
+<label key="key:620761548:175532558" value="Ihr seid ${PLAYERNAME:ein Meisterschneider[m]|eine Meisterschneiderin[f]} der Stufe 3."/>
+<label key="key:620761575:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Virtuosin[f]|Virtuose[m]} der Schneiderkunst"/>
+<label key="key:620761575:175532558" value="Ihr seid ${PLAYERNAME:ein Schneider[m]|eine Schneiderin[f]} der Stufe 4."/>
+<label key="key:620761576:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Meisterin der Schneiderkunst (Virtuosin)[f]|Meister[m]} der Schneiderkunst (Virtuose)[m]}"/>
+<label key="key:620761576:175532558" value="Ihr seid ${PLAYERNAME:ein Meisterschneider[m]|eine Meisterschneiderin[f]} der Stufe 4."/>
+<label key="key:620761605:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Meisterin[f]|Meister[m]} der Schneiderkunst"/>
+<label key="key:620761605:175532558" value="Ihr seid ${PLAYERNAME:ein Schneider[m]|eine Schneiderin[f]} der Stufe 5."/>
+<label key="key:620761606:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Großmeisterin[f]|Großmeister[m]} der Schneiderkunst"/>
+<label key="key:620761606:175532558" value="Ihr seid ${PLAYERNAME:ein Meisterschneider[m]|eine Meisterschneiderin[f]} der Stufe 5."/>
+<label key="key:620761694:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Lehrling der Waffenschmiedekunst"/>
+<label key="key:620761694:175532558" value="Ihr seid ${PLAYERNAME:ein Waffenschmied[m]|eine Waffenschmiedin[f]} der Stufe 1."/>
+<label key="key:620761695:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Meisterin[f]|Meister[m]} der Waffenschmiedekunst (Lehrling)"/>
+<label key="key:620761695:175532558" value="Ihr seid ${PLAYERNAME:ein Meisterwaffenschmied[m]|eine Meisterwaffenschmiedin[f]} der Stufe 1."/>
+<label key="key:620761710:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Gesellin[f]|Geselle[m]} der Waffenschmiedekunst"/>
+<label key="key:620761710:175532558" value="Ihr seid ${PLAYERNAME:ein Waffenschmied[m]|eine Waffenschmiedin[f]} der Stufe 2."/>
+<label key="key:620761711:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Meisterin der Waffenschmiedekunst (Gesellin)[f]|Meister der Waffenschmiedekunst (Geselle)[m]}"/>
+<label key="key:620761711:175532558" value="Ihr seid ${PLAYERNAME:ein Meisterwaffenschmied[m]|eine Meisterwaffenschmiedin[f]} der Stufe 2."/>
+<label key="key:620761725:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Expertin[f]|Experte[m]} der Waffenschmiedekunst"/>
+<label key="key:620761725:175532558" value="Ihr seid ${PLAYERNAME:ein Waffenschmied[m]|eine Waffenschmiedin[f]} der Stufe 3."/>
+<label key="key:620761726:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Meisterin der Waffenschmiedekunst (Expertin)[f]|Meister der Waffenschmiedekunst (Experte)[m]}"/>
+<label key="key:620761726:175532558" value="Ihr seid ${PLAYERNAME:ein Meisterwaffenschmied[m]|eine Meisterwaffenschmiedin[f]} der Stufe 3."/>
+<label key="key:620761741:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Virtuosin[f]|Virtuose[m]} der Waffenschmiedekunst"/>
+<label key="key:620761741:175532558" value="Ihr seid ${PLAYERNAME:ein Waffenschmied[m]|eine Waffenschmiedin[f]} der Stufe 4."/>
+<label key="key:620761742:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Meisterin der Waffenschmiedekunst (Virtuosin)[f]|Meister[m]} der Waffenschmiedekunst (Virtuose)[m]}"/>
+<label key="key:620761742:175532558" value="Ihr seid ${PLAYERNAME:ein Meisterwaffenschmied[m]|eine Meisterwaffenschmiedin[f]} der Stufe 4."/>
+<label key="key:620761757:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Meisterin[f]|Meister[m]} der Waffenschmiedekunst"/>
+<label key="key:620761757:175532558" value="Ihr seid ${PLAYERNAME:ein Waffenschmied[m]|eine Waffenschmiedin[f]} der Stufe 5."/>
+<label key="key:620761758:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Großmeisterin[f]|Großmeister[m]} der Waffenschmiedekunst"/>
+<label key="key:620761758:175532558" value="Ihr seid ${PLAYERNAME:ein Meisterwaffenschmied[m]|eine Meisterwaffenschmiedin[f]} der Stufe 5."/>
+<label key="key:620761813:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Lehrling der Drechslerkunst"/>
+<label key="key:620761813:175532558" value="Ihr seid ${PLAYERNAME:ein Drechsler[m]|eine Drechslerin[f]} der Stufe 1."/>
+<label key="key:620761814:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Meisterin[f]|Meister[m]} der Drechslerkunst (Lehrling)"/>
+<label key="key:620761814:175532558" value="Ihr seid ${PLAYERNAME:ein Meisterdrechsler[m]|eine Meisterdrechslerin[f]} der Stufe 1."/>
+<label key="key:620761827:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Gesellin[f]|Geselle[m]} der Drechslerkunst"/>
+<label key="key:620761827:175532558" value="Ihr seid ${PLAYERNAME:ein Drechsler[m]|eine Drechslerin[f]} der Stufe 2."/>
+<label key="key:620761828:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Meisterin der Drechslerkunst (Gesellin)[f]|Meister der Drechslerkunst (Geselle)[m]}"/>
+<label key="key:620761828:175532558" value="Ihr seid ${PLAYERNAME:ein Meisterdrechsler[m]|eine Meisterdrechslerin[f]} der Stufe 2."/>
+<label key="key:620761842:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Expertin[f]|Experte[m]} der Drechslerkunst"/>
+<label key="key:620761842:175532558" value="Ihr seid ${PLAYERNAME:ein Drechsler[m]|eine Drechslerin[f]} der Stufe 3."/>
+<label key="key:620761843:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Meisterin der Drechslerkunst (Expertin)[f]|Meister der Drechslerkunst (Experte)[m]}"/>
+<label key="key:620761843:175532558" value="Ihr seid ${PLAYERNAME:ein Meisterdrechsler[m]|eine Meisterdrechslerin[f]} der Stufe 3."/>
+<label key="key:620761858:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Virtuosin[f]|Virtuose[m]} der Drechslerkunst"/>
+<label key="key:620761858:175532558" value="Ihr seid ${PLAYERNAME:ein Drechsler[m]|eine Drechslerin[f]} der Stufe 4."/>
+<label key="key:620761859:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Meisterin der Drechslerkunst (Virtuosin)[f]|Meister[m]} der Drechslerkunst (Virtuose)[m]}"/>
+<label key="key:620761859:175532558" value="Ihr seid ${PLAYERNAME:ein Meisterdrechsler[m]|eine Meisterdrechslerin[f]} der Stufe 4."/>
+<label key="key:620761874:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Meisterin[f]|Meister[m]} der Drechslerkunst"/>
+<label key="key:620761874:175532558" value="Ihr seid ${PLAYERNAME:ein Drechsler[m]|eine Drechslerin[f]} der Stufe 5."/>
+<label key="key:620761875:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Großmeisterin[f]|Großmeister[m]} der Drechslerkunst"/>
+<label key="key:620761875:175532558" value="Ihr seid ${PLAYERNAME:ein Meisterdrechsler[m]|eine Meisterdrechslerin[f]} der Stufe 5."/>
+<label key="key:620766248:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Lehrling der Kochkunst"/>
+<label key="key:620766248:175532558" value="Ihr seid ${PLAYERNAME:ein Koch[m]|eine Köchin[f]} der Stufe 1."/>
+<label key="key:620766249:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Meisterin[f]|Meister[m]} der Kochkunst (Lehrling)"/>
+<label key="key:620766249:175532558" value="Ihr seid ${PLAYERNAME:ein Meisterkoch[m]|eine Meisterköchin[f]} der Stufe 1."/>
+<label key="key:620766264:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Gesellin[f]|Geselle[m]} der Kochkunst"/>
+<label key="key:620766264:175532558" value="Ihr seid ${PLAYERNAME:ein Koch[m]|eine Köchin[f]} der Stufe 2."/>
+<label key="key:620766265:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Meisterin der Kochkunst (Gesellin)[f]|Meister der Kochkunst (Geselle)[m]}"/>
+<label key="key:620766265:175532558" value="Ihr seid ${PLAYERNAME:ein Meisterkoch[m]|eine Meisterköchin[f]} der Stufe 2."/>
+<label key="key:620766280:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Expertin[f]|Experte[m]} der Kochkunst"/>
+<label key="key:620766280:175532558" value="Ihr seid ${PLAYERNAME:ein Koch[m]|eine Köchin[f]} der Stufe 3."/>
+<label key="key:620766281:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Meisterin der Kochkunst (Expertin)[f]|Meister der Kochkunst (Experte)[m]}"/>
+<label key="key:620766281:175532558" value="Ihr seid ${PLAYERNAME:ein Meisterkoch[m]|eine Meisterköchin[f]} der Stufe 3."/>
+<label key="key:620766296:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Virtuosin[f]|Virtuose[m]} der Kochkunst"/>
+<label key="key:620766296:175532558" value="Ihr seid ${PLAYERNAME:ein Koch[m]|eine Köchin[f]} der Stufe 4."/>
+<label key="key:620766297:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Meisterin der Kochkunst (Virtuosin)[f]|Meister der Kochkunst (Virtuose)[m]}"/>
+<label key="key:620766297:175532558" value="Ihr seid ${PLAYERNAME:ein Meisterkoch[m]|eine Meisterköchin[f]} der Stufe 4."/>
+<label key="key:620766313:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Meisterin[f]|Meister[m]} der Kochkunst"/>
+<label key="key:620766313:175532558" value="Ihr seid ${PLAYERNAME:ein Koch[m]|eine Köchin[f]} der Stufe 5."/>
+<label key="key:620766314:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Großmeisterin[f]|Großmeister[m]} der Kochkunst"/>
+<label key="key:620766314:175532558" value="Ihr seid ${PLAYERNAME:ein Meisterkoch[m]|eine Meisterköchin[f]} der Stufe 5."/>
+<label key="key:620767732:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Lehrling der Schürfkunst"/>
+<label key="key:620767732:175532558" value="Ihr seid ${PLAYERNAME:ein Schürfer[m]|eine Schürferin[f]} der Stufe 1."/>
+<label key="key:620767733:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Meisterin[f]|Meister[m]} der Schürfkunst (Lehrling)"/>
+<label key="key:620767733:175532558" value="Ihr seid ${PLAYERNAME:ein Meisterschürfer[m]|eine Meisterschürferin[f]} der Stufe 1."/>
+<label key="key:620767734:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Gesellin[f]|Geselle[m]} der Schürfkunst"/>
+<label key="key:620767734:175532558" value="Ihr seid ${PLAYERNAME:ein Schürfer[m]|eine Schürferin[f]} der Stufe 2."/>
+<label key="key:620767735:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Meisterin der Schürfkunst (Gesellin)[f]|Meister der Schürfkunst (Geselle)[m]}"/>
+<label key="key:620767735:175532558" value="Ihr seid ${PLAYERNAME:ein Meisterschürfer[m]|eine Meisterschürferin[f]} der Stufe 2."/>
+<label key="key:620767736:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Expertin[f]|Experte[m]} der Schürfkunst"/>
+<label key="key:620767736:175532558" value="Ihr seid ${PLAYERNAME:ein Schürfer[m]|eine Schürferin[f]} der Stufe 3."/>
+<label key="key:620767737:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Meisterin der Schürfkunst (Expertin)[f]|Meister der Schürfkunst (Experte)[m]}"/>
+<label key="key:620767737:175532558" value="Ihr seid ${PLAYERNAME:ein Meisterschürfer[m]|eine Meisterschürferin[f]} der Stufe 3."/>
+<label key="key:620767738:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Virtuosin[f]|Virtuose[m]} der Schürfkunst"/>
+<label key="key:620767738:175532558" value="Ihr seid ${PLAYERNAME:ein Schürfer[m]|eine Schürferin[f]} der Stufe 4."/>
+<label key="key:620767739:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Meisterin der Schürfkunst (Virtuosin)[f]|Meister[m]} der Schürfkunst (Virtuose)[m]}"/>
+<label key="key:620767739:175532558" value="Ihr seid ${PLAYERNAME:ein Meisterschürfer[m]|eine Meisterschürferin[f]} der Stufe 4."/>
+<label key="key:620767740:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Meisterin[f]|Meister[m]} der Schürfkunst"/>
+<label key="key:620767740:175532558" value="Ihr seid ${PLAYERNAME:ein Schürfer[m]|eine Schürferin[f]} der Stufe 5."/>
+<label key="key:620767741:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Großmeisterin[f]|Großmeister[m]} der Schürfkunst"/>
+<label key="key:620767741:175532558" value="Ihr seid ${PLAYERNAME:ein Meisterschürfer[m]|eine Meisterschürferin[f]} der Stufe 5."/>
+<label key="key:620767767:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Lehrling des Forstwesens"/>
+<label key="key:620767767:175532558" value="Ihr seid ${PLAYERNAME:ein Förster[m]|eine Försterin[f]} der Stufe 1."/>
+<label key="key:620767768:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Meisterin[f]|Meister[m]} des Forstwesens (Lehrling)"/>
+<label key="key:620767768:175532558" value="Ihr seid ${PLAYERNAME:ein Meisterförster[m]|eine Meisterförsterin[f]} der Stufe 1."/>
+<label key="key:620767769:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Gesellin[f]|Geselle[m]} des Forstwesens"/>
+<label key="key:620767769:175532558" value="Ihr seid ${PLAYERNAME:ein Förster[m]|eine Försterin[f]} der Stufe 2."/>
+<label key="key:620767770:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Meisterin des Forstwesens (Gesellin)[f]|Meister des Forstwesens (Geselle)[m]}"/>
+<label key="key:620767770:175532558" value="Ihr seid ${PLAYERNAME:ein Meisterförster[m]|eine Meisterförsterin[f]} der Stufe 2."/>
+<label key="key:620767771:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Expertin[f]|Experte[m]} des Forstwesens"/>
+<label key="key:620767771:175532558" value="Ihr seid ${PLAYERNAME:ein Förster[m]|eine Försterin[f]} der Stufe 3."/>
+<label key="key:620767772:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Meisterin des Forstwesens (Expertin)[f]|Meister des Forstwesens (Experte)[m]}"/>
+<label key="key:620767772:175532558" value="Ihr seid ${PLAYERNAME:ein Meisterförster[m]|eine Meisterförsterin[f]} der Stufe 3."/>
+<label key="key:620767773:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Virtuosin[f]|Virtuose[m]} des Forstwesens"/>
+<label key="key:620767773:175532558" value="Ihr seid ${PLAYERNAME:ein Förster[m]|eine Försterin[f]} der Stufe 4."/>
+<label key="key:620767774:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Meisterin des Forstwesens (Virtuosin)[f]|Meister des Forstwesens (Virtuose)[m]}"/>
+<label key="key:620767774:175532558" value="Ihr seid ${PLAYERNAME:ein Meisterförster[m]|eine Meisterförsterin[f]} der Stufe 4."/>
+<label key="key:620767775:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Meisterin[f]|Meister[m]} des Forstwesens"/>
+<label key="key:620767775:175532558" value="Ihr seid ${PLAYERNAME:ein Förster[m]|eine Försterin[f]} der Stufe 5."/>
+<label key="key:620767776:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Großmeisterin[f]|Großmeister[m]} des Forstwesens"/>
+<label key="key:620767776:175532558" value="Ihr seid ${PLAYERNAME:ein Meisterförster[m]|eine Meisterförsterin[f]} der Stufe 5."/>
+<label key="key:620767800:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Lehrling der Landwirtschaft"/>
+<label key="key:620767800:175532558" value="Ihr seid ${PLAYERNAME:ein Bauer[m]|eine Bäuerin[f]} der Stufe 1."/>
+<label key="key:620767801:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Meisterin[f]|Meister[m]} der Landwirtschaft (Lehrling)"/>
+<label key="key:620767801:175532558" value="Ihr seid ${PLAYERNAME:ein Meisterbauer[m]|eine Meisterbäuerin[f]} der Stufe 1."/>
+<label key="key:620767819:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Gesellin[f]|Geselle[m]} der Landwirtschaft"/>
+<label key="key:620767819:175532558" value="Ihr seid ${PLAYERNAME:ein Bauer[m]|eine Bäuerin[f]} der Stufe 2."/>
+<label key="key:620767820:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Meisterin der Landwirtschaft (Gesellin)[f]|Meister der Landwirtschaft (Geselle)[m]}"/>
+<label key="key:620767820:175532558" value="Ihr seid ${PLAYERNAME:ein Meisterbauer[m]|eine Meisterbäuerin[f]} der Stufe 2."/>
+<label key="key:620767830:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Expertin[f]|Experte[m]} der Landwirtschaft"/>
+<label key="key:620767830:175532558" value="Ihr seid ${PLAYERNAME:ein Bauer[m]|eine Bäuerin[f]} der Stufe 3."/>
+<label key="key:620767831:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Meisterin der Landwirtschaft (Expertin)[f]|Meister der Landwirtschaft (Experte)[m]}"/>
+<label key="key:620767831:175532558" value="Ihr seid ${PLAYERNAME:ein Meisterbauer[m]|eine Meisterbäuerin[f]} der Stufe 3."/>
+<label key="key:620767841:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Virtuosin[f]|Virtuose[m]} der Landwirtschaft"/>
+<label key="key:620767841:175532558" value="Ihr seid ${PLAYERNAME:ein Bauer[m]|eine Bäuerin[f]} der Stufe 4."/>
+<label key="key:620767842:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Meisterin der Landwirtschaft (Virtuosin)[f]|Meister der Landwirtschaft (Virtuose)[m]}"/>
+<label key="key:620767842:175532558" value="Ihr seid ${PLAYERNAME:ein Meisterbauer[m]|eine Meisterbäuerin[f]} der Stufe 4."/>
+<label key="key:620767847:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Meisterin[f]|Meister[m]} der Landwirtschaft"/>
+<label key="key:620767847:175532558" value="Ihr seid ${PLAYERNAME:ein Bauer[m]|eine Bäuerin[f]} der Stufe 5."/>
+<label key="key:620767848:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Großmeisterin[f]|Großmeister[m]} der Landwirtschaft"/>
+<label key="key:620767848:175532558" value="Ihr seid ${PLAYERNAME:ein Meisterbauer[m]|eine Meisterbäuerin[f]} der Stufe 5."/>
+<label key="key:620774139:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME} ${NAME:der[m]|die[f]} Verlockende"/>
+<label key="key:620774139:175532558" value="Die Leute finden Euch verlockend."/>
+<label key="key:620774142:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME} ${NAME:der[m]|die[f]} Verwirrende"/>
+<label key="key:620774142:175532558" value="Die Leute finden Euch verwirrend."/>
+<label key="key:620774145:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME} ${NAME:der[m]|die[f]} Geliebte"/>
+<label key="key:620774145:175532558" value="Ihr werdet von einigen geliebt."/>
+<label key="key:620774148:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME} ${NAME:der[m]|die[f]} Belästigte"/>
+<label key="key:620774148:175532558" value="Ihr werdet häufig belästigt."/>
+<label key="key:620774151:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME} ${NAME:der[m]|die[f]} Verspottete"/>
+<label key="key:620774151:175532558" value="Ihr werdet häufig verspottet."/>
+<label key="key:620774154:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME} ${NAME:der[m]|die[f]} Langweilige"/>
+<label key="key:620774154:175532558" value="Die Leute halten Euch für langweilig."/>
+<label key="key:620774222:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME} ${NAME:der[m]|die[f]} Hilfsbereite"/>
+<label key="key:620774222:175532558" value="Viele haben erfahren, wie hilfsbereit Ihr seid."/>
+<label key="key:620774225:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME} ${NAME:der[m]|die[f]} Erzürnende"/>
+<label key="key:620774225:175532558" value="Manche werden bei Eurem Anblick zornig."/>
+<label key="key:620774227:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME} ${NAME:der[m]|die[f]} Beleidigte"/>
+<label key="key:620774227:175532558" value="Ihr werdet häufig beleidigt."/>
+<label key="key:620774229:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME} ${NAME:der[m]|die[f]} Einschüchternde"/>
+<label key="key:620774229:175532558" value="Eure Gegner finden Euch einschüchternd."/>
+<label key="key:620774232:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME} ${NAME:der[m]|die[f]} Ungezogene"/>
+<label key="key:620774232:175532558" value="Viele halten Euch für frech und ungezogen."/>
+<label key="key:620774235:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME} ${NAME:der[m]|die[f]} Siegreiche"/>
+<label key="key:620774235:175532558" value="Ihr werdet als siegreich erachtet."/>
+<label key="key:620774237:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME} ${NAME:die Frühstück-Expertin[f]|der Frühstück-Experte[m]}"/>
+<label key="key:620774237:175532558" value="Ihr seid stets für ein gutes Frühstück zu haben."/>
+<label key="key:620774239:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME} ${NAME:die Fleischesserin[f]|der Fleischesser[m]}"/>
+<label key="key:620774239:175532558" value="Ihr bevorzugt Fleisch."/>
+<label key="key:620774241:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME} ${NAME:die Kuchen-Kennerin[f]|der Kuchen-Kenner[m]}"/>
+<label key="key:620774241:175532558" value="Ihr wisst Kuchen trefflich zu beurteilen."/>
+<label key="key:620774243:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME} ${NAME:die Vegetarierin[f]|der Vegetarier[m]}"/>
+<label key="key:620774243:175532558" value="Ihr bevorzugt Mahlzeiten aus Gemüse und Obst."/>
+<label key="key:620774245:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME} ${NAME:der[m]|die[f]} Wachsame"/>
+<label key="key:620774245:175532558" value="Ihr habt die 5. Stufe erreicht, ohne im Kampf bezwungen worden zu sein."/>
+<label key="key:620774247:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME} ${NAME:der[m]|die[f]} Unbesiegte"/>
+<label key="key:620774247:175532558" value="Ihr habt die 10. Stufe erreicht, ohne im Kampf bezwungen worden zu sein."/>
+<label key="key:620774249:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME} ${NAME:der[m]|die[f]} Unbezwingbare"/>
+<label key="key:620774249:175532558" value="Ihr habt die 14. Stufe erreicht, ohne im Kampf bezwungen worden zu sein."/>
+<label key="key:620774251:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME} ${NAME:der[m]|die[f]} Unversehrte"/>
+<label key="key:620774251:175532558" value="Ihr habt die 17. Stufe erreicht, ohne im Kampf bezwungen worden zu sein."/>
+<label key="key:620774253:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME} ${NAME:der[m]|die[f]} Unsterbliche"/>
+<label key="key:620774253:175532558" value="Ihr habt die 20. Stufe erreicht, ohne im Kampf bezwungen worden zu sein."/>
+<label key="key:620774333:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME} ${NAME:Jäger der Hügelgräberhöhen[m]|Jägerin der Hügelgräberhöhen[f]}"/>
+<label key="key:620774333:175532558" value="Ihr habt viele Barghest verfolgt und getötet, die auf den Hügelgräberhöhen ihr Unwesen treiben."/>
+<label key="key:620774336:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME} ${NAME:Wächter der Straßen[m]|Wächterin der Straßen[f]}"/>
+<label key="key:620774336:175532558" value="Die Bewohner von Breeland preisen Eure Taten, mit denen Ihr die Straßen vor herumtreibenden Banditen geschützt habt."/>
+<label key="key:620774339:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME} ${NAME:Wurzelschläger[m]|Wurzelschlägerin[f]}"/>
+<label key="key:620774339:175532558" value="Ihr seid dem fauligen Hass, den die Bäume des Alten Waldes gegenüber den zweifüßigen Bewohnern von Mittelerde empfinden, erfolgreich entgegengetreten."/>
+<label key="key:620774342:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME} ${NAME:Panzerbrecher[m]|Panzerbrecherin[f]}"/>
+<label key="key:620774342:175532558" value="Wer hätte je gedacht, dass Zirperkirper so groß werden könnten?"/>
+<label key="key:620774345:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME} ${NAME:Verteidiger des Breelands[m]|Verteidigerin des Breelands[f]}"/>
+<label key="key:620774345:175532558" value="Ihr habt im Kampf gegen die Orks, die in das nördlich Breeland eingefallen sind, Euer Talent bewiesen."/>
+<label key="key:620774348:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME} ${NAME:Fliegentöter[m]|Fliegentöterin[f]}"/>
+<label key="key:620774348:175532558" value="Die Leute mögen kichern, aber wie viele von ihnen mussten schon jemals gegen einen dieser Riesen-Blutfänge kämpfen?"/>
+<label key="key:620774351:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME} ${NAME:Spinnenfeind[m]|Spinnenfeindin[f]}"/>
+<label key="key:620774351:175532558" value="Spinnen sind in der letzten Zeit in Breeland zu einer ernsthaften Plage geworden, doch ist weit bekannt, wie tapfer Ihr gegen sie kämpft."/>
+<label key="key:620774354:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME} Fluch der Hügelgräber"/>
+<label key="key:620774354:175532558" value="Die Unholde der Hügelgräberhöhen versetzen Euch nicht mehr in Schrecken. Jetzt findet Ihr sie nur noch zutiefst beunruhigend."/>
+<label key="key:620774357:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Sumpfjäger[m]|Sumpfjägerin[f]}"/>
+<label key="key:620774357:175532558" value="Niemand weiß, woher diese schleimigen Ungeheuer kamen, die die Einsamen Lande befallen haben, aber Ihr habt Euch mit ihnen gemessen."/>
+<label key="key:620774360:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Feind des Todes[m]|Feindin des Todes[f]}"/>
+<label key="key:620774360:175532558" value="Die Fürsten der Aridmanen haben Eure Machenschaften wohl bemerkt ..."/>
+<label key="key:620774363:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Bilwiss-Schläger[m]|Bilwiss-Schlägerin[f]}"/>
+<label key="key:620774363:175532558" value="Wie viele Bilwisse Ihr auch töten mögt, sie scheinen die Einsamen Lande in immer größeren Zahlen zu überfluten."/>
+<label key="key:620774366:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Waffenmeister der Einsamen Lande[m]|Waffenmeisterin der Einsamen Lande[f]}"/>
+<label key="key:620774366:175532558" value="Ohne Eure Stärke würden die Einsamen Lande bestimmt schon mit Orks überschwemmt sein."/>
+<label key="key:620774369:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Spinnenfluch"/>
+<label key="key:620774369:175532558" value="Auch die Einsamen Lande sind von diesen achtbeinigen Ungeheuern befallen, von denen eines stärker ist als das andere. Doch Ihr könnt sie besiegen!"/>
+<label key="key:620774372:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Warg-Jäger[m]|Warg-Jägerin[f]}"/>
+<label key="key:620774372:175532558" value="Mit den Bilwissen sind auch Warge in die Einsamen Lande gekommen. Solange Ihr ihnen Widerstand bietet, könnt Ihr sie im Schach halten!"/>
+<label key="key:620774375:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Bilwiss-Spalter[m]|Bilwiss-Spalterin[f]}"/>
+<label key="key:620774375:175532558" value="Die Bilwisse haben die Höhlen in den Nordhöhen zurückerobert und bevölkern sie jetzt in Scharen. Obwohl sie es gelernt haben, Euren Namen zu fürchten, konntet Ihr ihre Zahl bisher nicht bedeutend schmälern."/>
+<label key="key:620774378:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Held der Nordhöhen[m]|Heldin der Nordhöhen[f]}"/>
+<label key="key:620774378:175532558" value="Die meisten Bewohner der Nordhöhen sind von den Orks vertrieben worden, aber die wenigen, die noch übrig sind, betrachten Euch nun als ihren Retter vor den brutalen Eindringlingen."/>
+<label key="key:620774381:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Feind der Nacht[m]|Feindin der Nacht[f]}"/>
+<label key="key:620774381:175532558" value="Vor langer Zeit fielen zahllose Prinzen und Krieger der Dúnedain auf den Feldern von Fornost. Ihr wisst nicht, ob sie diese Schreckensgestalten sind, aber auf jeden Fall habt Ihr vielen von ihnen den Frieden ihres Grabes zurückgegeben."/>
+<label key="key:620774384:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Troll-Schläger[m]|Troll-Schlägerin[f]}"/>
+<label key="key:620774384:175532558" value="Trolle gehören zu den stärksten und vielleicht auch dümmsten Dienern des Feindes. Und jetzt, so scheint es, durchstreifen diese unmenschlichen Riesen nach Herzenslust die Nordhöhen. Oder würden dies zumindest, wenn Ihr sie nicht aufhalten würdet!"/>
+<label key="key:620774387:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Warg-Feind[m]|Warg-Feindin[f]}"/>
+<label key="key:620774387:175532558" value="Überall dort, wo Bilwisse zu finden sind, sind wahrscheinlich auch Warge unterwegs. Aber dank Eures Einsatzes gibt es jetzt weniger von ihnen in den Nordhöhen."/>
+<label key="key:620774390:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Lindwurm-Schlächter[m]|Lindwurm-Schlächterin[f]}"/>
+<label key="key:620774390:175532558" value="Der Legende nach klügelte der Feind jahrhundertelang die große Rasse der Drachen aus, die in Mittelerde ihr Unwesen treibt. Lindwürmer gehören zu den kleineren Formen, die irgendwann nicht mehr weiterentwickelt wurden. Sie sind dennoch todbringende Feinde, die häufiger vorkommen als ihre größeren Verwandten."/>
+<label key="key:620774393:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Verbündeter der Grenzer[m]|Verbündete der Grenzer[f]}"/>
+<label key="key:620774393:175532558" value="Die Grenzer des Auenlandes sind Euch ob Eurer Hilfe bei den jüngsten Problemen mit den Räubern freundlich gesinnt."/>
+<label key="key:620774396:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Beschützer des Auenlandes[m]|Beschützerin des Auenlandes[f]}"/>
+<label key="key:620774396:175532558" value="Es ist schon eine Weile her, dass Golfimbuls Brut die Völker des Auenlandes bedroht hat. Sie müssen jedoch erst einmal an Euch vorbeikommen."/>
+<label key="key:620774399:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Retter der Ernte[m]|Retterin der Ernte[f]}"/>
+<label key="key:620774399:175532558" value="Die Erntefliegen stellen eher eine Bedrohung für die Feldfrüchte dar als für die Bewohner des Auenlandes, aber die Bauern sind Euch ob Eurer Bemühungen, ihnen beizukommen, sehr verbunden."/>
+<label key="key:620774402:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Schnecken-Quetscher[m]|Schnecken-Quetscherin[f]}"/>
+<label key="key:620774402:175532558" value="Ihr seid nicht sicher, dass dies der Titel war, um den Ihr Euch verdient machen wolltet, als Ihr den Weg eines Abenteurers beschritten habt …"/>
+<label key="key:620774405:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Spinnengeißel"/>
+<label key="key:620774405:175532558" value="Wie so viele andere Orte in Mittelerde ist auch das Auenland in letzter Zeit von gefährlichen Spinnen heimgesucht worden. Sie haben jedoch gelernt, den Stich Eurer Waffe zu fürchten!"/>
+<label key="key:620774408:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Pelzjäger[m]|Pelzjägerin[f]}"/>
+<label key="key:620774408:175532558" value="Die Wölfe bedrohen wieder einmal das Auenland, aber Ihr habt ihnen eine Lektion erteilt, die sie so schnell nicht vergessen werden."/>
+<label key="key:620774411:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Verteidiger der Hallen[m]|Verteidigerin der Hallen[f]}"/>
+<label key="key:620774411:175532558" value="Die Grimmhands haben sich als Stachel im Fleisch von Durins Volk erwiesen, nachdem sie ihren Respekt und ihr Vertrauen verspielt haben."/>
+<label key="key:620774414:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Wächter der Ered Luin[m]|Wächterin der Ered Luin[f]}"/>
+<label key="key:620774414:175532558" value="Bilwisse, die uralten Feinde von Zwerg und Elb, beanspruchen wieder das Land der Ered Luin für sich, doch Ihr steht bereit, sie zurückzuschlagen."/>
+<label key="key:620774417:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Federfeind[m]|Federfeindin[f]}"/>
+<label key="key:620774417:175532558" value="Anders als die stolzen Adler werden die üblen Hendroval als Spione der Meister der Dunkelheit in vielen Landen eingesetzt - so auch in den Ered Luin."/>
+<label key="key:620774420:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Netzschlitzer[m]|Netzschlitzerin[f]}"/>
+<label key="key:620774420:175532558" value="Spinnen leben schon seit langer Zeit in den dunklen Ecken von Mittelerde. Doch zumindest jene in den Ered Luin haben Grund, Euch zu fürchten."/>
+<label key="key:620774423:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Wolfbändiger[m]|Wolfbändigerin[f]}"/>
+<label key="key:620774423:175532558" value="Die Wölfe, die von der Kälte des Nordens nach Süden getrieben wurden, bedrohen immer wieder die Bewohner der Ered Luin, doch Eure Tapferkeit hat noch immer die Oberhand über sie behalten."/>
+<label key="key:620774426:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Verhängnis der Angmarim"/>
+<label key="key:620774426:175532558" value="Diese bösartigen Menschen besitzen schreckliche Kräfte, die ihnen von ihrem Dunklen Herrscher verliehen wurden. Und doch werden sie ihnen nichts nützen, denn Ihr werdet sie bis in die tiefsten Winkel ihrer großen Feste im Norden verfolgen."/>
+<label key="key:620774429:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Fluch der Orks"/>
+<label key="key:620774429:175532558" value="Mit Zehntausenden von Kriegern stellen die Orks schon seit langem die größte Streitmacht innerhalb der feindlichen Armeen. Ihr könnt schon nicht mehr zählen, wie viele dieser üblen Kreaturen bisher vor Euren Augen gefallen sind, und doch scheint ihre Zahl nicht geringer zu werden."/>
+<label key="key:620774432:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Fluch der Trolle"/>
+<label key="key:620774432:175532558" value="Die Trolle von Angmar sind die gefährlichsten, die Euch je begegnet sind. Sie tragen nicht nur Waffen und Rüstungen aus den Schmieden des Feindes sondern besitzen zudem eine grausame Gerissenheit. Selbst große Helden wurden von ihnen bezwungen."/>
+<label key="key:620774435:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Kriegsherr von Angmar[m]| Kriegsherrin von Angmar[f]}"/>
+<label key="key:620774435:175532558" value="Die mächtigen Uruks stellen die Elite-Streitkräfte der Armeen von Angmar dar. Nachdem Ihr so viele davon im Kampf niedergestreckt habt, haben die Uruks so etwas wie Respekt vor Euch und einen noch tieferen Hass als zuvor."/>
+<label key="key:620774438:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Fürst der Reißzähne[m]| Fürstin der Reißzähne[f]}"/>
+<label key="key:620774438:175532558" value="Die in den Zuchtstätten von Angmar aufgezogenen schaurigen Warge kannten keine anderen Meister, bis Ihr auftauchtet. Und doch sieht es nicht so aus, als wollten sie sich von Euch streicheln lassen."/>
+<label key="key:620774441:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Schicksal der Verfluchten"/>
+<label key="key:620774441:175532558" value="Angmar beherbergt ein schauriges Tal der Geister, die der Macht des Hexenkönigs ergeben sind und in Abwesenheit ihres Meisters seine Arbeit erledigen. Diese Hallen sind so furchteinflößend wie sonst kaum ein Ort in Mittelerde - selbst die Orks und Bilwisse machen einen großen Bogen und nur die fanatischsten der Angmarim führen dort ihre dunklen Riten aus."/>
+<label key="key:620774444:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Schicksal der Würmer"/>
+<label key="key:620774444:175532558" value="Als missgebildete Mischlinge der großen Drachen längst vergangener Zeiten besitzen die Lindwürmer von Angmar ein ansehnliches Maß an Kraft und Gerissenheit, dies haben sie mit ihren mächtigen Verwandten gemein . Und doch habt Ihr sie bezwungen und Euch als ebenbürtig erwiesen."/>
+<label key="key:620774447:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Bärenringer"/>
+<label key="key:620774447:175532558" value="Ihr habt gehört, dass die Riesen manchmal die größten Bären als Haustiere züchten - was Euch nicht überraschen würde. Denn hier im Nebelgebirge werden sie groß - sehr groß."/>
+<label key="key:620774450:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Fluch der Titanen"/>
+<label key="key:620774450:175532558" value="Ihr dachtet, dass diese riesigen Kreaturen ins Reich der Legenden und Mythen gehören, als Eure Eltern Euch Geschichten über sie erzählten. Das ist jetzt vorbei. Ihre Stärke steht ihrer Größe in nichts nach, und ihre Tapferkeit ist die einer Kreatur, die weiß, dass sie keine ernstzunehmenden Gegner hat. Trotzdem habt Ihr durch Eure Tapferkeit und die Eurer Gefährten eine beträchtliche Anzahl dieser Feinde töten können."/>
+<label key="key:620774453:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Bestienjäger[m]|Bestienjägerin[f]}"/>
+<label key="key:620774453:175532558" value="Die Schneekreaturen, die das Nebelgebirge bewohnen, sind seltsame Wesen. Bevor Ihr hierher gekommen seid, habt Ihr nur ein paar Geschichten über sie gehört. Die meisten Leute glauben, dass diese Kreaturen ins Reich der Legenden gehören, aber Ihr habt gegen genügend von ihnen gekämpft, um ziemlich sicher zu sein, dass sie wahrhaftig existieren.&#10;&#10;Keiner weiß, woher sie kommen. Vielleicht hat der Gegner sie irgendwo im hohen Norden gefunden, jenseits der Grenzen der Menschen oder Elben."/>
+<label key="key:620774456:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Trollbezwinger[m]|Trollbezwingerin[f]}"/>
+<label key="key:620774456:175532558" value="Als wäre die klirrende Kälte des Nebelgebirges nicht schon schlimm genug, gibt es dort anscheinend auch noch eine besonders unangenehme Art von Trollen. Diese Kreaturen leben in Frost und Eis und lauern auf Reisende, die das Pech haben, ihren Weg zu kreuzen, um sie zu töten und zu verschlingen."/>
+<label key="key:620774459:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Warg-Jäger[m]|Warg-Jägerin[f]}"/>
+<label key="key:620774459:175532558" value="Wo es Bilwisse gibt, gibt es auch Warge. Das Nebelgebirge macht da keine Ausnahme. Durch die tödliche Kälte und die lebensfeindlichen Bedingungen haben diese Warge sich zu besonders bösartigen und tödlichen Kreaturen entwickelt, aber für Euch stellen sie höchstens mittelmäßige Gegner dar."/>
+<label key="key:620774462:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Wurmfluch"/>
+<label key="key:620774462:175532558" value="Man sagt, dass die Würmer lange im hohen Norden in den trostlosen, frostkalten Einöden gelebt haben. Es scheint also nur natürlich zu sein, dass mit der Öffnung der Tore von Angmar viele dieser Kreaturen in die kalten Höhen des Nebelgebirges gekommen sind, wo sie sich vermehren und jeden in Angst und Schrecken versetzen, der die gefährliche Reise durch das Gebirge zu unternehmen versucht."/>
+<label key="key:620774465:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME} Chitin-Zerschmetterer"/>
+<label key="key:620774465:175532558" value="Und Ihr dachtet, nichts wäre schlimmer als die Insekten im Mückenwasser. Diese vielbeinigen Plagen haben Euch zwar eines Besseren belehrt, aber nicht Euren Kampf, Mittelerde zu schützen, aufgehalten."/>
+<label key="key:620774468:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME} ${NAME:Riesen-Bezwinger[m]|Riesen-Bezwingerin[f]}"/>
+<label key="key:620774468:175532558" value="Es brauchte mehr als eine Fliegenklatsche, um so viele dieser sagenhaften Feinde zu töten – wofür Ihr zu Recht bekannt seid."/>
+<label key="key:620774471:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME} ${NAME:Troll-Bezwinger[m]|Troll-Bezwingerin[f]}"/>
+<label key="key:620774471:175532558" value="Diese Ländereien wurden nicht ohne Grund Trollhöhen genannt. Ihr habt sicherlich mehr als genug Scheusale angetroffen, um Euren Eifer unter Beweis zu stellen."/>
+<label key="key:620774474:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME} ${NAME:der Reinigende[m]|die Reinigende[f]}"/>
+<label key="key:620774474:175532558" value="Selbst die Elben von Bruchtal behaupten, nicht zu wissen, woher die schrecklichen Unholde kamen, die die Trollhöhen verseuchen. Und doch habt Ihr viele von ihnen wieder in die Erde geschickt, der sie entfleucht waren."/>
+<label key="key:620774477:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME} ${NAME:Rutenspalter[m]|Rutenspalterin[f]}"/>
+<label key="key:620774477:175532558" value="Die Wölfe, die die Trollhöhen bewohnen, gehören zu den wildesten und stärksten ihrer Rasse. Sie unterwerfen sich weder Menschen noch Bilwissen und jagen jeden, der sich in ihr Territorium wagt - abgesehen von Euch."/>
+<label key="key:620774480:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME} ${NAME:Wurmschlächter[m]|Wurmschlächterin[f]}"/>
+<label key="key:620774480:175532558" value="Wo nur können so viele fürchterliche Bestien versteckt gewesen sein? In den Einöden des weiten Nordens oder vergraben unter den Toren von Angmar? Es spielt eigentlich keine Rolle, woher sie kamen, solange Ihr danach strebt, sie aus Mittelerde zu verjagen."/>
+<label key="key:620774483:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME} der Neuling"/>
+<label key="key:620774483:175532558" value="Ihr gehört noch immer zu den Neulingen in der Schlacht um die Ettenöden."/>
+<label key="key:620774485:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME} ${NAME:der Krieger[m]|die Kriegerin[f]}"/>
+<label key="key:620774485:175532558" value="Ihr gehört nun zu den Kriegern in der Schlacht um die Ettenöden."/>
+<label key="key:620774487:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME} ${NAME:der Veteran[m]|die Veteranin[f]}"/>
+<label key="key:620774487:175532558" value="Ihr gehört nun zu den Veteranen in der Schlacht um die Ettenöden."/>
+<label key="key:620774489:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME} ${NAME}der Hauptmann"/>
+<label key="key:620774489:175532558" value="Ihr gehört nun zu den Hauptleuten in der Schlacht um die Ettenöden."/>
+<label key="key:620774491:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME} ${NAME:der Kriegsherr[m]|die Kriegsherrin[f]}"/>
+<label key="key:620774491:175532558" value="Ihr gehört nun zu den Kriegsherren in der Schlacht um die Ettenöden."/>
+<label key="key:620774493:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} ${NAME:Held[m]|Heldin[f]} der Ettenöden"/>
+<label key="key:620774493:175532558" value="Ihr gehört nun zu den Helden in der Schlacht um die Ettenöden."/>
+<label key="key:620774495:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} ${NAME:Held[m]|Heldin[f]} der Legenden"/>
+<label key="key:620774495:175532558" value="Ihr gehört nun zu den legendären Helden in der Schlacht um die Ettenöden."/>
+<label key="key:620774497:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} ${NAME:Gegner[m]|Gegnerin[f]} der Schwarzpfeile"/>
+<label key="key:620774497:175532558" value="Ihr habt viele Schwarzpfeile getötet."/>
+<label key="key:620774499:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} ${NAME:Feind[m]|Feindin[f]} der Schwarzpfeile"/>
+<label key="key:620774499:175532558" value="Ihr habt viele Schwarzpfeile getötet."/>
+<label key="key:620774501:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} ${NAME:Bezwinger[m]|Bezwingerin[f]} der Schwarzpfeile"/>
+<label key="key:620774501:175532558" value="Ihr habt viele Schwarzpfeile getötet."/>
+<label key="key:620774503:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} Fluch der Schwarzpfeile"/>
+<label key="key:620774503:175532558" value="Ihr habt viele Schwarzpfeile getötet."/>
+<label key="key:620774505:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} ${NAME:Scharfrichter[m]|Scharfrichterin[f]} der Schwarzpfeile"/>
+<label key="key:620774505:175532558" value="Ihr habt viele Schwarzpfeile getötet."/>
+<label key="key:620774507:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} ${NAME:Gegner der Schnitter[m]|Gegnerin der Schnitter[f]}"/>
+<label key="key:620774507:175532558" value="Ihr habt viele Schnitter erschlagen."/>
+<label key="key:620774509:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} ${NAME:Feind der Schnitter[m]|Feindin der Schnitter[f]}"/>
+<label key="key:620774509:175532558" value="Ihr habt viele Schnitter erschlagen."/>
+<label key="key:620774511:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} ${NAME:Bezwinger der Schnitter[m]|Bezwingerin der Schnitter[f]}"/>
+<label key="key:620774511:175532558" value="Ihr habt viele Schnitter erschlagen."/>
+<label key="key:620774513:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} ${NAME:Fluch der Schnitter[m]|Fluch der Schnitter[f]}"/>
+<label key="key:620774513:175532558" value="Ihr habt viele Schnitter erschlagen."/>
+<label key="key:620774515:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} ${NAME:Schnitter-Schlächter[m]|Schnitter-Schlächterin[f]}"/>
+<label key="key:620774515:175532558" value="Ihr habt viele Schnitter erschlagen."/>
+<label key="key:620774517:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} ${NAME:Gegner der Schamanen[m]|Gegnerin der Schamanen[f]}"/>
+<label key="key:620774517:175532558" value="Ihr habt viele Schamanen getötet."/>
+<label key="key:620774519:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} ${NAME:Feind der Schamanen[m]|Feindin der Schamanen[f]}"/>
+<label key="key:620774519:175532558" value="Ihr habt viele Schamanen getötet."/>
+<label key="key:620774521:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} ${NAME:Bezwinger der Schamanen[m]|Bezwingerin der Schamanen[f]}"/>
+<label key="key:620774521:175532558" value="Ihr habt viele Schamanen getötet."/>
+<label key="key:620774523:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} Fluch der Schamanen"/>
+<label key="key:620774523:175532558" value="Ihr habt viele Schamanen getötet."/>
+<label key="key:620774525:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} Schicksal der Schamanen"/>
+<label key="key:620774525:175532558" value="Ihr habt viele Schamanen getötet."/>
+<label key="key:620774527:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} ${NAME:Gegner der Pirscher [m]|Gegnerin der Pirscher [f]}"/>
+<label key="key:620774527:175532558" value="Ihr habt viele Pirscher getötet."/>
+<label key="key:620774529:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} ${NAME:Feind der Pirscher[m]|Feindin der Pirscher[f]}"/>
+<label key="key:620774529:175532558" value="Ihr habt viele Pirscher getötet."/>
+<label key="key:620774531:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} ${NAME:Pirscher-Bezwinger[m]|Pirscher-Bezwingerin[f]}"/>
+<label key="key:620774531:175532558" value="Ihr habt viele Pirscher getötet."/>
+<label key="key:620774533:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} Fluch der Pirscher"/>
+<label key="key:620774533:175532558" value="Ihr habt viele Pirscher getötet."/>
+<label key="key:620774535:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} Alptraum der Pirscher"/>
+<label key="key:620774535:175532558" value="Ihr habt viele Pirscher getötet."/>
+<label key="key:620774537:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} ${NAME:Gegner der Kriegsanführer [m]|Gegnerin der Kriegsanführer [f]}"/>
+<label key="key:620774537:175532558" value="Ihr habt viele Kriegsanführer getötet."/>
+<label key="key:620774539:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} ${NAME:Feind der Kriegsanführer[m]|Feindin der Kriegsanführer[f]}"/>
+<label key="key:620774539:175532558" value="Ihr habt viele Kriegsanführer getötet."/>
+<label key="key:620774541:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} ${NAME:Bezwinger der Kriegsanführer[m]|Bezwingerin der Kriegsanführer[f]}"/>
+<label key="key:620774541:175532558" value="Ihr habt viele Kriegsanführer getötet."/>
+<label key="key:620774543:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} Fluch der Kriegsanführer"/>
+<label key="key:620774543:175532558" value="Ihr habt viele Kriegsanführer getötet."/>
+<label key="key:620774545:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} ${NAME:Verhängnis der Kriegsanführer[m]|Verhängnis der Kriegsanführer[f]}"/>
+<label key="key:620774545:175532558" value="Ihr habt viele Kriegsanführer getötet."/>
+<label key="key:620774547:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} ${NAME:Gegner der Weberspinnen[m]|Gegnerin der Weberspinnen[f]}"/>
+<label key="key:620774547:175532558" value="Ihr habt viele der Weberspinnen erschlagen."/>
+<label key="key:620774549:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} ${NAME:Feind der Weberspinnen[m]|Feindin der Weberspinnen[f]}"/>
+<label key="key:620774549:175532558" value="Ihr habt viele der Weberspinnen erschlagen."/>
+<label key="key:620774551:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} ${NAME:Weberspinnen-Bezwinger[m]|Weberspinnen-Bezwingerin[f]}"/>
+<label key="key:620774551:175532558" value="Ihr habt viele der Weberspinnen erschlagen."/>
+<label key="key:620774553:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} ${NAME}Fluch der Weberspinnen"/>
+<label key="key:620774553:175532558" value="Ihr habt viele der Weberspinnen erschlagen."/>
+<label key="key:620774555:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} ${NAME:Ausrotter der Weberspinnen[m]|Ausrotterin der Weberspinnen[f]}"/>
+<label key="key:620774555:175532558" value="Ihr habt viele Weberspinnen erschlagen."/>
+<label key="key:620774557:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} ${NAME:Eroberer von Tol Ascarnen[m]|Eroberin von Tol Ascarnen[f]}"/>
+<label key="key:620774557:175532558" value="Ihr habt die Häuptlinge von Tol Ascarnen besiegt."/>
+<label key="key:620774559:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} ${NAME:Eroberer von Dargazag[m]|Eroberin von Dargazag[f]}"/>
+<label key="key:620774559:175532558" value="Ihr habt die Häuptlinge von Dargazag besiegt."/>
+<label key="key:620774561:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} ${NAME:Eroberer der Türme[m]|Eroberin der Türme[f]}"/>
+<label key="key:620774561:175532558" value="Ihr habt die Häuptlinge der Türme besiegt."/>
+<label key="key:620774563:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} ${NAME:Eroberer der Ettenöden[m]|Eroberin der Ettenöden[f]}"/>
+<label key="key:620774563:175532558" value="Ihr habt jeden einzelnen der großen Tyrannen der Ettenöden besiegt, und Eure Stärke ist unter all jenen bekannt, die unter dem Banner der Freien Völker kämpfen."/>
+<label key="key:620774565:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Braumeister des Auenlandes[m]|Braumeisterin des Auenlandes[f]}"/>
+<label key="key:620774565:175532558" value="Spezialisiert auf die Biere und Dunkelbiere des Auenlandes."/>
+<label key="key:620774851:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Anführer[m]|Anführerin[f]}"/>
+<label key="key:620774851:175532558" value="Ihr seid ${PLAYERNAME:ein Anführer[m]|eine Anführerin[f]} innerhalb einer Sippe ."/>
+<label key="key:620774852:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Offizierin[f]|Offizier[m]}"/>
+<label key="key:620774852:175532558" value="Ihr seid ${PLAYERNAME:Offizier[m]|Offizierin[f]} einer Sippe."/>
+<label key="key:620774853:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Stammesschwester[f]|Stammesbruder[m]}"/>
+<label key="key:620774853:175532558" value="Ihr gehört einer Sippe an."/>
+<label key="key:620774854:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Gründer[m]|Gründerin[f]}"/>
+<label key="key:620774854:175532558" value="Ihr habt eine Sippe gegründet."/>
+<label key="key:620775361:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME} aus Breeland"/>
+<label key="key:620775361:175532558" value="Ihr seid in Breeland aufgewachsen, das früher zum Nördlichen Königreich von Arnor gehörte, das einst von Elendil dem Großen als Hohem König von Mittelerde und später von dessen ältestem Sohn Isildur regiert wurde. Nun ist es nur noch ein einfaches, ländliches Gebiet, und das Nördliche Königreich existiert nicht mehr."/>
+<label key="key:620775362:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME} aus Thal"/>
+<label key="key:620775362:175532558" value="Ihr kommt aus dem Thalland im Nordosten von Mittelerde, dem Land im Schatten des Einsamen Berges, wo Bard der Bogenschütze den Drachen Smaug tötete und in der Schlacht der Fünf Heere kämpfte."/>
+<label key="key:620775363:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME} aus Gondor"/>
+<label key="key:620775363:175532558" value="Ihr stammt aus dem Land Gondor, dem Südlichen Königreich, das einst gemeinsam von Elendils Söhnen Isildur und Anárion regiert wurde und immer ein wachsames Auge auf die Bedrohung durch Mordor hatte."/>
+<label key="key:620775364:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME} aus Rohan"/>
+<label key="key:620775364:175532558" value="Ihr seid einer der Herren der Rösser aus der Riddermark, dem Reich, das Eorl dem Jungen von Cirion, dem Truchsess von Gondor, gegeben wurde und momentan von Thengels Sohn Théoden regiert wird."/>
+<label key="key:620775365:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME} von den Falbhäuten"/>
+<label key="key:620775365:175532558" value="Die Falbhäute lieben den Wald und die Bäume, und sie waren auch die ersten Hobbits, die ins Auenland kamen. Sie haben meist eine hellere Haut- und Haarfarbe als die Hobbits der anderen Sippen und sind größer und schlanker."/>
+<label key="key:620775366:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME} von den Harfüßen"/>
+<label key="key:620775366:175532558" value="Die Harfüße sind die großartigsten Höhlengräber und waren die ersten, die in den Westen nach Eriador zogen. Sie haben meist eine dunklere Hautfarbe als die Hobbits der anderen Sippen und sind kleiner und gedrungener."/>
+<label key="key:620775367:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME} von den Starren"/>
+<label key="key:620775367:175532558" value="Die Starren waren die letzte Hobbit-Sippe, die ins Auenland zog und sich dort schließlich in den östlichen Marschlanden niederließ. Sie sind meist kräftiger und breiter als die Hobbits der anderen Sippen gebaut."/>
+<label key="key:620775368:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME} aus den Eisenbergen"/>
+<label key="key:620775368:175532558" value="Ihr kommt aus den Eisenbergen, die von den Zwergen als Zuflucht vor den Eisdrachen besiedelt wurden und aus denen Dáin Eisenfuß stammt, König unter dem Berg, aus der Sippe des großen Thorin Eichenschild."/>
+<label key="key:620775369:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME} vom Einsamen Berg"/>
+<label key="key:620775369:175532558" value="Ihr stammt vom Erebor, dem Einsamen Berg, in dem Smaug, der Hüter des Goldes, sein Lager hatte, bis Thorin Eichenschild den Berg für sein Volk zurückeroberte. Dort regiert jetzt Dáin Eisenfuß als König unter dem Berg."/>
+<label key="key:620775370:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME} aus dem Blauen Gebirge"/>
+<label key="key:620775370:175532558" value="Euer Zuhause sind die Ered Luin, das Blaue Gebirge, in dem es einst zwei große Zwergen-Königreiche gab und wo die Gefolgsleute von Thráin und dessen Sohn Thorin Eichenschild im Exil lebten, nachdem Smaug sie vom Einsamen Berg vertrieben hatte."/>
+<label key="key:620775371:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME} aus dem Grauen Gebirge"/>
+<label key="key:620775371:175532558" value="Ihr kommt aus den Ered Mithrin, dem Grauen Gebirge mit dem Gundabadberg als höchstem Gipfel. Von hier kam Durin der Unsterbliche, der Vorvater der Zwerge. Nachdem die Drachen untergegangen waren, kehrte Euer Volk in das Gebirge zurück."/>
+<label key="key:620775372:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME} aus dem Weißen Gebirge"/>
+<label key="key:620775372:175532558" value="Ihr kommt aus den südwestlichen Hallen in den Ered Nimrais, dem Weißen Gebirge im Süden, das an die Länder von Andrast grenzt. Obwohl sich Euer Königreich weit vom Zentralgebirge entfernt befindet, in dem einst Menschen lebten, hat Euer Reich durch die Gerüchte über die Eidbrecher einen schlechten Ruf erhalten."/>
+<label key="key:620775373:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME} aus Lindon"/>
+<label key="key:620775373:175532558" value="Ihr kommt aus Lindon, dem grünen Land der Elben zwischen den Ered Luin und dem Meer, wo einst Gil-galad, der letzte große Elbenkönig, herrschte. Círdan der Schiffsbauer regiert dort jetzt von Mithlond aus, den Grauen Anfurten."/>
+<label key="key:620775374:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME} aus Lórien"/>
+<label key="key:620775374:175532558" value="Ihr kommt aus Lothlórien, den legendären goldenen Wäldern, in denen die Elben hoch in den Mallorn-Bäumen leben und von Celeborn, dem weisesten der Eldar von Mittelerde, und seiner Frau Galadriel regiert werden."/>
+<label key="key:620775375:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME} aus dem Düsterwald"/>
+<label key="key:620775375:175532558" value="Ihr gehört zu den Waldelben aus dem Düsterwald, einst Großer Grünwald genannt, in dem König Thranduil über die wachsende Dunkelheit aus Dol Guldur wacht, der früheren Festung Saurons in seiner Gestalt als Geisterbeschwörer."/>
+<label key="key:620775376:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME} aus Bruchtal"/>
+<label key="key:620775376:175532558" value="Ihr kommt aus Imladris, das von den Menschen Bruchtal genannt wird und von Elrond dem Halbelb als Zuflucht für die Elben aus Eregion erbaut wurde, als sie vor der Zerstörung durch Saurons Hand flohen."/>
+<label key="key:620775377:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME} aus Edhellond"/>
+<label key="key:620775377:175532558" value="Ihr gehört zu den Nandor aus Edhellond, der großen Elben-Anfurt im Süden, die von Amroth an den Mündungen des Anduin erbaut wurde."/>
+<label key="key:620775443:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME: Sohn[m]|Tochter[f]} von"/>
+<label key="key:620775443:175532558" value="Ihr seid das Kind dieses Elternteils."/>
+<label key="key:620775444:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME: Stiefsohn[m]|Stieftochter[f]} von"/>
+<label key="key:620775444:175532558" value="Ihr seid das Stiefkind dieses Elternteils."/>
+<label key="key:620775445:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME: Vater[m]|Mutter[f]} von"/>
+<label key="key:620775445:175532558" value="Ihr seid ${PLAYERNAME:der Vater[m]|die Mutter[f]} dieses Kindes."/>
+<label key="key:620775446:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME: Vater[m]|Mutter[f]} von"/>
+<label key="key:620775446:175532558" value="Ihr seid ${PLAYERNAME:der Vater[m]|die Mutter[f]} dieses Kindes."/>
+<label key="key:620775447:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME: Stiefvater[m]|Stiefmutter[f]} von"/>
+<label key="key:620775447:175532558" value="Ihr seid ${PLAYERNAME:der Stiefvater[m]|die Stiefmutter[f]} dieses Kindes."/>
+<label key="key:620775448:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME: Stiefvater[m]|Stiefmutter[f]} von"/>
+<label key="key:620775448:175532558" value="Ihr seid ${PLAYERNAME:der Stiefvater[m]|die Stiefmutter[f]} dieses Kindes."/>
+<label key="key:620775449:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME: Ehemann[m]|Ehefrau[f]} von"/>
+<label key="key:620775449:175532558" value="Ihr seid mit dieser Person verheiratet."/>
+<label key="key:620775851:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Fürstin[f]|Fürst[m]}"/>
+<label key="key:620775851:175532558" value="Ihr seid ${PLAYERNAME:ein Anführer[m]|eine Anführerin[f]} innerhalb einer Sippe."/>
+<label key="key:620775852:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Seneschall"/>
+<label key="key:620775852:175532558" value="Ihr seid ${PLAYERNAME:Offizier[m]|Offizierin[f]} einer Sippe."/>
+<label key="key:620775853:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Stammesschwester[f]|Stammesbruder[m]}"/>
+<label key="key:620775853:175532558" value="Ihr gehört einer Sippe an."/>
+<label key="key:620775854:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Vater"/>
+<label key="key:620775854:175532558" value="Ihr seid der Begründer einer Sippe."/>
+<label key="key:620775855:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Tûr"/>
+<label key="key:620775855:175532558" value="Ihr seid ${PLAYERNAME:ein Anführer[m]|eine Anführerin[f]} innerhalb einer Sippe."/>
+<label key="key:620775856:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Caun"/>
+<label key="key:620775856:175532558" value="Ihr seid ${PLAYERNAME:Offizier[m]|Offizierin[f]} einer Sippe."/>
+<label key="key:620775857:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Stammesschwester[f]|Stammesbruder[m]}"/>
+<label key="key:620775857:175532558" value="Ihr gehört einer Sippe an."/>
+<label key="key:620775858:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Einior"/>
+<label key="key:620775858:175532558" value="Ihr seid der Begründer einer Sippe."/>
+<label key="key:620775859:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Meisterin[f]|Meister[m]}"/>
+<label key="key:620775859:175532558" value="Ihr seid ${PLAYERNAME:ein Anführer[m]|eine Anführerin[f]} innerhalb einer Sippe ."/>
+<label key="key:620775860:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Vorsteherin[f]|Vorsteher[m]}"/>
+<label key="key:620775860:175532558" value="Ihr seid ${PLAYERNAME:Offizier[m]|Offizierin[f]} einer Sippe."/>
+<label key="key:620775861:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Stammesschwester[f]|Stammesbruder[m]}"/>
+<label key="key:620775861:175532558" value="Ihr gehört einer Sippe an."/>
+<label key="key:620775862:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Gründer[m]|Gründerin[f]}"/>
+<label key="key:620775862:175532558" value="Ihr habt eine Sippe gegründet."/>
+<label key="key:620775863:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Anführer[m]|Anführerin[f]}"/>
+<label key="key:620775863:175532558" value="Ihr seid ${PLAYERNAME:ein Anführer[m]|eine Anführerin[f]} innerhalb einer Sippe."/>
+<label key="key:620775864:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Anführer[m]|Anführerin[f]}"/>
+<label key="key:620775864:175532558" value="Ihr seid ${PLAYERNAME:Offizier[m]|Offizierin[f]} einer Sippe."/>
+<label key="key:620775865:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Stammesschwester[f]|Stammesbruder[m]}"/>
+<label key="key:620775865:175532558" value="Ihr gehört einer Sippe an."/>
+<label key="key:620775866:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Gründer[m]|Gründerin[f]}"/>
+<label key="key:620775866:175532558" value="Ihr habt eine Sippe gegründet."/>
+<label key="key:620778105:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} Günstling Mordiriths"/>
+<label key="key:620778105:175532558" value="Mordirith, der Angmar als Vertreter des Hexenkönigs anführt, betrachtet Euch als ${PLAYERNAME:treuen Diener[m]|treue Dienerin[f]}. Seine Gunst wird Euer Ansehen bei Lugbúrz steigern."/>
+<label key="key:620778107:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} ${NAME:Eroberer von Ringdyr[m]|Eroberin von Ringdyr[f]}"/>
+<label key="key:620778107:175532558" value="Ihr habt die Hauptleute von Ringdyr besiegt."/>
+<label key="key:620778109:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} ${NAME:Eroberer von Tol Ascarnen[m]|Eroberin von Tol Ascarnen[f]}"/>
+<label key="key:620778109:175532558" value="Ihr habt die Hauptleute von Tol Ascarnen besiegt."/>
+<label key="key:620778111:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} ${NAME:Eroberer der Türme[m]|Eroberin der Türme[f]}"/>
+<label key="key:620778111:175532558" value="Ihr habt die Hauptleute der Türme besiegt."/>
+<label key="key:620778113:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} ${NAME:Langfinger-Töter[m]|Langfinger-Töterin[f]}"/>
+<label key="key:620778113:175532558" value="Ihr habt eine stattliche Anzahl dieser lästigen kleinen Verräter erschlagen und ihnen gezeigt, was es bedeutet, sich gegen Angmar zu stellen."/>
+<label key="key:620778115:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} ${NAME:Diebes-Bezwinger[m]|Diebes-Bezwingerin[f]}"/>
+<label key="key:620778115:175532558" value="Jene, die die Herren Angmars bestehlen, werden durch das Schwert sterben, und Ihr habt es vielen von ihnen bewiesen."/>
+<label key="key:620778117:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} ${NAME:Schurken-Schlächter[m]|Schurken-Schlächterin[f]}"/>
+<label key="key:620778117:175532558" value="Traut niemals einem Dieb. Besser noch: Vertraut niemandem!"/>
+<label key="key:620778119:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} Fluch der Schatten"/>
+<label key="key:620778119:175532558" value="Schurken können versuchen, vor Euch zu fliehen, doch sie werden nicht weit kommen. Ihr habt eine große Zahl dieser widerlichen Kreaturen erschlagen."/>
+<label key="key:620778121:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} Geißel der Diebe"/>
+<label key="key:620778121:175532558" value="Falsch und hinterhältig? Ha! Ihr habt gesehen, was von der Durchtriebenheit der Schurken übrig bleibt, wenn sie sich vor Schmerzen winden und Euren tödlichen Streich erwarten. Das ist kaum noch eine würdige Herausforderung für Euch."/>
+<label key="key:620778123:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} ${NAME:Feind[m]|Feindin[f]} der Hauptleute"/>
+<label key="key:620778123:175532558" value="Diese Narren sollen die Streitkräfte der Menschen anführen? Nun, dann sollen sie ihre Armeen aus dem Grab befehligen!"/>
+<label key="key:620778125:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} ${NAME:Bezwinger[m]|Bezwingerin[f]} der Hauptleute"/>
+<label key="key:620778125:175532558" value="So viele Verbündete sie auch um sich geschart haben mögen, Ihr habt Euch dennoch zu ihnen hindurchgekämpft und diese Banner schwingenden Trottel erschlagen."/>
+<label key="key:620778127:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} ${NAME:Zerfetzer[m]|Zerfetzerin[f]} der Banner"/>
+<label key="key:620778127:175532558" value="Die Banner machen es zu einem Kinderspiel, sie auf dem Schlachtfeld zu erkennen und zu erschlagen, wenn Ihr mit Euren Horden aus der Dunkelheit über sie herfallt."/>
+<label key="key:620778129:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} Fluch der Ordnung"/>
+<label key="key:620778129:175532558" value="Ohne ihre Anführer verfallen die Streitkräfte der Menschen oft in Panik und ergreifen feige die Flucht. Ihr seid meisterhaft darin, diese kleinen Funken falscher Hoffnung auszulöschen."/>
+<label key="key:620778131:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} ${NAME:Schlächter[m]|Schlächterin[f]} der Fürsten"/>
+<label key="key:620778131:175532558" value="Nur wenige Dinge erfüllen Euch so sehr mit Genugtuung wie die Gesichter Eurer Feinde, wenn wieder einer ihrer Herren im Kampf fällt.&#10;&#10;Es ist ein Anblick, den Ihr schon oft ausgekostet habt."/>
+<label key="key:620778133:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} ${NAME:Feind[m]|Feindin[f]} der Waffenmeister"/>
+<label key="key:620778133:175532558" value="Diese selbstgerechten Witzfiguren sind schon oft Eurer unerreichten Kraft zum Opfer gefallen."/>
+<label key="key:620778135:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} ${NAME:Bezwinger[m]|Bezwingerin[f]} der Waffenmeister"/>
+<label key="key:620778135:175532558" value="Waffenmeister respektieren Stärke vor allem anderen - und die habt Ihr zur Genüge bewiesen, als Ihr durch ihre Reihen gepflügt seid."/>
+<label key="key:620778137:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} ${NAME:Schwertbrecher[m]|Schwertbrecherin[f]}"/>
+<label key="key:620778137:175532558" value="Jene, die vom Kampf mit dem Schwert leben, müssen damit rechnen, auch durch das Schwert zu sterben.&#10;&#10;Ihr habt es Euch zur Aufgabe gemacht, den närrischen Waffenmeistern diese Weisheit zu beweisen."/>
+<label key="key:620778139:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} Fluch der Tapferkeit"/>
+<label key="key:620778139:175532558" value="Was nützt jemandem sein Mut, der aus vielen Wunden blutend zu Euren Füßen liegt? Wer weiß?&#10;&#10;Wen kümmert es?"/>
+<label key="key:620778141:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} Verhängnis der Helden"/>
+<label key="key:620778141:175532558" value="Ha! Die Waffenmeister, diese selbst ernannten Helden, sterben wie Fliegen durch Euer Schwert. Sie waren und sind keine Gegner für Euch und werden es niemals sein!"/>
+<label key="key:620778143:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} ${NAME:Wächtertöter[m]|Wächtertöterin[f]}"/>
+<label key="key:620778143:175532558" value="Diese selbst ernannten Wächter stehen zwischen Euch und den Städten und Dörfern des Westens, die einladend auf Euch warten.&#10;&#10;Je mehr dieser Wächter Ihr tötet, desto schneller könnt Ihr mit dem Plündern beginnen."/>
+<label key="key:620778145:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} ${NAME:Wächter-Bezwinger[m]|Wächter-Bezwingerin[f]}"/>
+<label key="key:620778145:175532558" value="Warum stellt sich dieser gepanzerte Abschaum zwischen Euch und die Schwachen? Ihr werdet es nie verstehen, doch was kümmert es Euch auch? Schließlich habt Ihr zur Genüge bewiesen, dass Ihr sie jederzeit beiseite fegen könnt."/>
+<label key="key:620778147:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} ${NAME:Schildbrecher[m]|Schildbrecherin[f]}"/>
+<label key="key:620778147:175532558" value="Obwohl sie schwere Schilde tragen und sich in polierten Stahl kleiden, kann keiner von ihnen vor der Macht von Angmar bestehen. Dafür sorgt Ihr schon."/>
+<label key="key:620778149:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} Fluch der Wächter"/>
+<label key="key:620778149:175532558" value="Oh ja, Verteidiger der Schwachen! Wer aber bitte soll diese angeblichen Beschützer vor Euch beschützen?&#10;&#10;Richtig, niemand!"/>
+<label key="key:620778151:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} Verhängnis des Beherzten"/>
+<label key="key:620778151:175532558" value="Jene, die sich der Flut entgegenstellen, sind dazu verdammt, in ihr zu ertrinken.&#10;&#10;Als Teil der Speerspitze der endlosen Armeen Angmars zerschmettert Ihr gnadenlos all jene Wächter, die es wagen, den Armeen des Westens zur Seite zu stehen."/>
+<label key="key:620778153:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} ${NAME:Jägertöter[m]|Jägertöterin[f]}"/>
+<label key="key:620778153:175532558" value="Obwohl diese gefährlichen Gegner versuchen, die Macht Angmars aus der Ferne zu schwächen, tragt Ihr den Kampf mit ihnen von Angesicht zu Angesicht aus."/>
+<label key="key:620778155:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} ${NAME:Späher-Blender[m]|Späher-Blenderin[f]}"/>
+<label key="key:620778155:175532558" value="Ihr habt eine stattliche Anzahl der feindlichen Späher getötet. Sie würden gut daran tun, sich in der Schlacht hinter ihren Verbündeten zu verstecken - doch wo bliebe dann der Spaß?"/>
+<label key="key:620778157:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} ${NAME:Bogenspalter[m]|Bogenspalterin[f]}"/>
+<label key="key:620778157:175532558" value="Da sie weder Schild noch Rüstung tragen, sind Jäger auf dem Schlachtfeld leichte Beute. Ein Pfeil mag zwar schmerzhaft sein, doch der Schmerz ist das Zeichen eines wahren Kriegers."/>
+<label key="key:620778159:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} Fluch der Jäger"/>
+<label key="key:620778159:175532558" value="Ah, welches Vergnügen, wenn die Rollen getauscht werden und der Jäger zum Gejagten wird. So viele dieser Missgeburten habt Ihr erschlagen, dass Ihr fast schon aufgehört habt, sie zu zählen."/>
+<label key="key:620778161:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} Verhängnis des Schützen"/>
+<label key="key:620778161:175532558" value="In der Hand eines Meisters kann ein Bogen zu einer todbringenden Waffe werden, doch er kann ihn nicht vor dem schnellen und sicheren Tod bewahren, den Ihr ihm im Kampf bringt. Diese Jäger sind nur weitere Trophäen Eures Siegeszuges."/>
+<label key="key:620778163:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} ${NAME:Feind der Kundigen[m]|Feindin der Kundigen[f]}"/>
+<label key="key:620778163:175532558" value="Die Weisen? Ha! Wahrhaft Weise bedienen sich allein der Macht der Stärke. Jene, die Weisheit in Büchern suchen, sterben oft durch Eure Hand."/>
+<label key="key:620778165:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} ${NAME:Bezwinger der Weisen[m]|Bezwingerin der Weisen[f]}"/>
+<label key="key:620778165:175532558" value="Keine Zauberei kann diese Bücherwürmer vor Eurem Zorn beschützen. Würden sie nur einen Bruchteil jener Macht verstehen, über die die Herren Angmars gebieten, würden sie sich voller Entsetzen in den Ecken verkriechen, bis der Tod sie ereilt."/>
+<label key="key:620778167:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} ${NAME:Stabbrecher[m]|Stabbrecherin[f]}"/>
+<label key="key:620778167:175532558" value="Was ist an einem Stab so Besonderes? Es ist nur ein Stock, den Ihr zerbrecht - kurz bevor Ihr denjenigen zerschmettert, der ihn geführt hat."/>
+<label key="key:620778169:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} Fluch der Weisen"/>
+<label key="key:620778169:175532558" value="Was nützen jemandem alte Bücher und ein spitzer Hut, der einen Meter Stahl im Leibe hat? Überhaupt nichts! Ihr habt diese Tatsache schon oft genug bewiesen."/>
+<label key="key:620778171:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} Geißel der Gelehrten"/>
+<label key="key:620778171:175532558" value="Kein aufgeblasener Schreiberling kann es auf dem Schlachtfeld mit Euch aufnehmen.&#10;&#10;Schriftrollen, Bücher, Stäbe und Roben ... all das wird in den Feuern Angmars brennen."/>
+<label key="key:620778173:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} ${NAME:Feind der Barden[m]|Feindin der Barden[f]}"/>
+<label key="key:620778173:175532558" value="Welcher Narr betritt das Schlachtfeld, um zu singen anstatt zu kämpfen?&#10;&#10;Ein toter Narr!"/>
+<label key="key:620778175:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} ${NAME:Musikanten-Bezwinger[m]|Musikanten-Bezwingerin[f]}"/>
+<label key="key:620778175:175532558" value="Die Lieder des Westens klingen sehr viel angenehmer in Euren Ohren, wenn sie mit durchgeschnittener Kehle gegurgelt werden."/>
+<label key="key:620778177:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} ${NAME:Harfenbrecher[m]|Harfenbrecherin[f]}"/>
+<label key="key:620778177:175532558" value="Das misstönende Schnappen von Saiten, das Splittern von Holz und die Schreie der Sterbenden sind die Musik, die Euer Wüten begleitet."/>
+<label key="key:620778179:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} Sängerfluch"/>
+<label key="key:620778179:175532558" value="Dem führerlosen Abschaum des Westens wird nachgesagt, dass sie daran glauben, die Welt wäre aus einem Lied geboren worden.&#10;&#10;Mag sein, dass das wahr ist, doch die letzte Musik, die sie vor ihrem Tod hören werden, sind die Kriegstrommeln von Angmar."/>
+<label key="key:620778181:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} ${NAME:Ersticker der Lieder[m]|Erstickerin der Lieder[f]}"/>
+<label key="key:620778181:175532558" value="In der Schlacht umgibt Euch eine unnatürliche Stille, die nur vom Stöhnen der Sterbenden unterbrochen wird.&#10;&#10;Kein Lied liegt auf ihren Lippen, denn sie sind damit beschäftigt, dem Tod entgegenzusehen."/>
+<label key="key:620779370:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME} ${NAME:die Kuchensiegerin[f]|der Kuchensieger[m]}"/>
+<label key="key:620779370:175532558" value="Ihr habt einen Wettbewerb im Kuchenessen gewonnen."/>
+<label key="key:620781893:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} ${NAME:Gundzors Sklave[m]|Gundzors Sklavin[f]}"/>
+<label key="key:620781893:175532558" value="Ihr wart Gundzor zu Diensten und dürft Euch nun zu seinen Sklaven zählen."/>
+<label key="key:620781895:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} ${NAME:Gundzors Lakai[m]|Gundzors Lakai[f]}"/>
+<label key="key:620781895:175532558" value="Ihr habt Euch durch Eure fortwährenden Dienste für Gundzor den Titel eines Lakaien verdient."/>
+<label key="key:620781897:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} Gundzors Faust"/>
+<label key="key:620781897:175532558" value="Ihr seid nun in Gundzors Augen mehr als ${PLAYERNAME:ein Diener[m]|eine Dienerin[f]} - Ihr gehört zu den Verteidigern seines Wachpostens im Grimmwald."/>
+<label key="key:620781899:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} ${NAME:Bûrzgoths Leibeigener[m]|Bûrzgoths Leibeigene[f]}"/>
+<label key="key:620781899:175532558" value="Ihr wart Bûrzgoth zu Diensten und dürft Euch nun zu seinen Knechten zählen."/>
+<label key="key:620781901:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} ${NAME:Bûrzgoths Kriecher[m]|Bûrzgoths Kriecherin[f]}"/>
+<label key="key:620781901:175532558" value="Ihr seid Bûrzgoth auch weiterhin zu Diensten und gehört nun zu seinen Kriechern."/>
+<label key="key:620781903:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} ${NAME:Bûrzgoths Speichellecker[m]|Bûrzgoths Speichelleckerin[f]}"/>
+<label key="key:620781903:175532558" value="Bûrzgoth weiß nun, dass er sich auf Euren unbedingten Gehorsam verlassen kann."/>
+<label key="key:620781905:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} ${NAME:Tharbils Helfer[m]|Tharbils Helferin[f]}"/>
+<label key="key:620781905:175532558" value="Ihr seid dem Herren von Lugazag zu Diensten und dürft Euch nun zu seinen Untertanen zählen."/>
+<label key="key:620781907:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} Tharbils Lakai"/>
+<label key="key:620781907:175532558" value="Durch Euren fortwährenden Dienst an dem Herrn von Lugazag dürft Ihr Euch nun zu seinen Dienern zählen."/>
+<label key="key:620781909:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} Tharbils Peitsche"/>
+<label key="key:620781909:175532558" value="Ihr seid nun in Tharbils Augen mehr als ${PLAYERNAME:ein Diener[m]|eine Dienerin[f]} - Ihr gehört zu den Verteidigern seines Wachpostens in Lugazag."/>
+<label key="key:620781911:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} ${NAME:Diener Barashishs[m]|Dienerin Barashishs[f]}"/>
+<label key="key:620781911:175532558" value="Ihr seid dem Herrn von Tirith Rhaw zu Diensten und dürft Ihr Euch nun zu seinen Dienern zählen."/>
+<label key="key:620781913:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} Bluthund Barashishs"/>
+<label key="key:620781913:175532558" value="Ihr seid in der Gunst des Herrn von Tirith Rhaw gestiegen und dürft euch nun als ${PLAYERNAME:Hund[m]|Hündin[f]} bezeichnen. ${PLAYERNAME:Ein loyaler Hund[m]|Eine loyale Hündin[f]}."/>
+<label key="key:620781915:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} Klinge Barashishs"/>
+<label key="key:620781915:175532558" value="Ihr seid nun in Barashishs Augen mehr als ${PLAYERNAME:ein Diener[m]|eine Dienerin[f]} - Ihr gehört zu den Verteidigern seines Wachpostens in Tirith Rhaw."/>
+<label key="key:620781917:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} ${NAME:Trintrûs Kriecher[m]|Trintrûs Kriecherin[f]}"/>
+<label key="key:620781917:175532558" value="Ihr seid dem Herren von Tol Ascarnen zu Diensten und dürft Euch nun zu seinen Kriechern zählen."/>
+<label key="key:620781919:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} ${NAME:Trintrûs Speichellecker[m]|Trintrûs Speichelleckerin[f]}"/>
+<label key="key:620781919:175532558" value="Ihr seid Trintrû auch weiterhin zu Diensten und dürft Euch zu seinen Speichelleckern zählen."/>
+<label key="key:620781921:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} ${NAME:Trintrûs Schmeichler[m]|Trintrûs Schmeichlerin[f]}"/>
+<label key="key:620781921:175532558" value="Niemand stellt Eure Loyalität Trintrû gegenüber in Frage, deswegen werdet Ihr ${PLAYERNAME:sein Schmeichler[m]|seine Schmeichlerin[f]} genannt."/>
+<label key="key:620782797:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Kuchenbote[m]|Kuchenbotin[f]}"/>
+<label key="key:620782797:175532558" value="Eure Hilfe für Heide Hornbläser hat sie geehrt und hungrige Hobbits in glückliche Hobbits verwandelt."/>
+<label key="key:620782798:172691445" value="${RANK}${RANK: [E]} ${NAME}${SURNAME: [E]}${SURNAME} vom Post-Schnelldienst"/>
+<label key="key:620782798:175532558" value="Für Eure Hilfe beim Post-Schnelldienst hat Euch Postmeister Stolzfuß zum offiziellen Briefträger erklärt."/>
+<label key="key:620782806:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} Hand des Schicksals"/>
+<label key="key:620782806:175532558" value="Euer Kommen kündigt den Untergang an, ist doch durch Eure Hand so mancher Krieger der Freien Völker gefallen."/>
+<label key="key:620782807:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} ${NAME:Elben-Bezwinger[m]|Elben-Bezwingerin[f]}"/>
+<label key="key:620782807:175532558" value="Euer Name ist nun so bekannt unter den Elben, dass sein Klang Entsetzen hervorruft. Sie suchen ihr Heil in kopfloser Flucht, wenn Ihr Euch nähert."/>
+<label key="key:620782808:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} ${NAME:Feind des Heldenmuts[m]|Feindin des Heldenmuts[f]}"/>
+<label key="key:620782808:175532558" value="Der Heldenmut verlässt Eure Gegner, wenn Ihr Euch nähert. Und wenn Ihr erst unter ihnen seid, verlieren die Zwerge ihren Kampfeswillen ebenso schnell wie ihre Köpfe. Der Tod, den Ihr über sie bringt, vertreibt jede Hoffnung."/>
+<label key="key:620782809:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} ${NAME:Menschenfeind[m]|Menschenfeindin[f]}"/>
+<label key="key:620782809:175532558" value="Die Menschen zittern, wenn Euer Name genannt wird, denn Eure Klinge hat schon reichlich von ihrem Blut getrunken."/>
+<label key="key:620782810:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} Hobbitfluch"/>
+<label key="key:620782810:175532558" value="Euer fortwährender Feldzug gegen das Kleine Volk lässt das Entsetzen Einzug in ihre Herzen halten."/>
+<label key="key:620782811:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} ${NAME:Bezwinger des Lichts[m]|Bezwingerin des Lichts[f]}"/>
+<label key="key:620782811:175532558" value="Das Licht schwindet in Eurer Gegenwart. Die Kraft verlässt Eure Feinde, während Eure Finsternis ihre Hoffnung verdunkelt und Entsetzen in ihren Herzen Einzug hält."/>
+<label key="key:620782812:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} Elbenfluch"/>
+<label key="key:620782812:175532558" value="Euer Name ist bekannt unter den Elben. Sein Klang lässt die Jungen vor Angst erzittern."/>
+<label key="key:620782813:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} Geißel unter dem Berg"/>
+<label key="key:620782813:175532558" value="Wenn die Armee Angmars unter Tage marschiert, um sich den Zwergen in ihren Löchern zu stellen, werdet Ihr vielleicht derjenige sein, der die Armee anführt. Ihr habt Euch als fähigster Vernichter dieses Ungeziefers erwiesen!"/>
+<label key="key:620782814:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Kriegsexpertin[f]|Kriegsexperte[m]}"/>
+<label key="key:620782814:175532558" value="Ihr seid ${PLAYERNAME:Offizier[m]|Offizierin[f]} eines Stammes."/>
+<label key="key:620782815:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} ${NAME:Hobbit-Bezwinger[m]|Hobbit-Bezwingerin[f]}"/>
+<label key="key:620782815:175532558" value="Ohne Mitgefühl oder Gnade metzelt Ihr das Kleine Volk nieder und habt es darin zur Meisterschaft gebracht."/>
+<label key="key:620782816:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Knochenflüsterin[f]|Knochenflüsterer[m]}"/>
+<label key="key:620782816:175532558" value="Ihr habt einen Stamm gegründet."/>
+<label key="key:620782817:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} ${NAME:Herold der Finsternis[m]|Heroldin der Finsternis[f]}"/>
+<label key="key:620782817:175532558" value="Ihr seid ${PLAYERNAME:ein Herold[m]|eine Heroldin[f]} des Dunklen Herrschers. Unzählige Feinde habt Ihr auf dem Schlachtfeld ausgelöscht, und keiner konnte Euch entfliehen."/>
+<label key="key:620782818:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} ${NAME:Zwergenschleuder[m]|Zwergenschleuderin[f]}"/>
+<label key="key:620782818:175532558" value="Die Zwerge erzittern vor Euch! Ihr metzelt sie zu hunderten nieder."/>
+<label key="key:620782819:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Häuptling"/>
+<label key="key:620782819:175532558" value="Ihr seid ${PLAYERNAME:ein Anführer[m]|eine Anführerin[f]} innerhalb eines Stammes."/>
+<label key="key:620782820:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Gründer[m]|Gründerin[f]}"/>
+<label key="key:620782820:175532558" value="Ihr habt einen Stamm gegründet."/>
+<label key="key:620782821:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} Fluch des Westens"/>
+<label key="key:620782821:175532558" value="Ihr seid als Fluch des Westens bekannt, hat doch keiner ihrer Krieger gegen Euch bestehen können, und ihre Toten bedecken in großer Zahl das Schlachtfeld."/>
+<label key="key:620782822:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} Zwergenfluch"/>
+<label key="key:620782822:175532558" value="Eure wiederholten Erfolge gegen die Zwerge bringen Euch großen Ruhm ein. In Angmar kennt man Euch als ihren Fluch."/>
+<label key="key:620782823:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Feldmeisterin[f]|Feldmeister[m]}"/>
+<label key="key:620782823:175532558" value="Ihr seid ${PLAYERNAME:Offizier[m]|Offizierin[f]} eines Stammes."/>
+<label key="key:620782824:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} ${NAME:Hobbitfeind[m]|Hobbitfeindin[f]}"/>
+<label key="key:620782824:175532558" value="Das gnadenlose Niedermetzeln des Kleinen Volkes hat Euch den Ruf ${PLAYERNAME:eines wilden Feindes[m]|einer wilden Feindin[f]} eingebracht."/>
+<label key="key:620782825:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Wächterin[f]|Wächter[m]}"/>
+<label key="key:620782825:175532558" value="Ihr seid ${PLAYERNAME:Offizier[m]|Offizierin[f]} eines Stammes."/>
+<label key="key:620782826:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} ${NAME:Zwergenfeind[m]|Zwergenfeindin[f]}"/>
+<label key="key:620782826:175532558" value="Eure Siege gegen das bärtige Volk unter den Bergen machen Euch zu ${PLAYERNAME:ihrem erklärten Feind[m]|ihrer erklärten Feindin[f]}."/>
+<label key="key:620782827:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} ${NAME:Feind der Ehre[m]|Feindin der Ehre[f]}"/>
+<label key="key:620782827:175532558" value="Das Blut unzähliger Menschen klebt an Euren Händen. Ihre Ehre ist ebenso schnell gebrochen wie ihr Wille, wenn Ihr das Schlachtfeld betretet."/>
+<label key="key:620782828:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} Geißel der Menschen"/>
+<label key="key:620782828:175532558" value="Die Menschen fürchten Euch. Es gibt keinen, der Euren Namen nicht kennt, und sie zittern vor Entsetzen, wenn er genannt wird."/>
+<label key="key:620782829:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} ${NAME:Elbenfeind[m]|Elbenfeindin[f]}"/>
+<label key="key:620782829:175532558" value="Eure Klinge hat das Blut vieler Elben gekostet, und sie giert nach mehr."/>
+<label key="key:620782830:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Anführer[m]|Anführerin[f]}"/>
+<label key="key:620782830:175532558" value="Ihr seid ${PLAYERNAME:ein Anführer[m]|eine Anführerin[f]} innerhalb eines Stammes."/>
+<label key="key:620782831:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} ${NAME:Menschengeißler[m]|Menschengeißlerin[f]}"/>
+<label key="key:620782831:175532558" value="Wenn Ihr Euch durch die Reihen der Menschen metzelt, versetzt Euch das in einen Blutrausch. Ihr seid bekannt dafür, Menschen geradezu zu schlachten und in Stücke zu reißen."/>
+<label key="key:620782832:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Soldat[m]|Soldatin[f]}"/>
+<label key="key:620782832:175532558" value="Ihr seid ${PLAYERNAME:Soldat[m]|Soldatin[f]} in einem Stamm."/>
+<label key="key:620782833:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Soldat[m]|Soldatin[f]}"/>
+<label key="key:620782833:175532558" value="Ihr seid ${PLAYERNAME:Soldat[m]|Soldatin[f]} in einem Stamm."/>
+<label key="key:620782834:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} ${NAME:Peiniger[m]|Peinigerin[f]}"/>
+<label key="key:620782834:175532558" value="Ihr seid als ${PLAYERNAME:Peiniger[m]|Peinigerin[f]} der Freien Völker bekannt."/>
+<label key="key:620782835:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} ${NAME:Menschenbezwinger[m]|Menschenbezwingerin[f]}"/>
+<label key="key:620782835:175532558" value="Eure Klinge wütet spielend leicht unter den Menschen. Es gibt nur wenige, die gegen Euch bestehen können."/>
+<label key="key:620782836:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}"/>
+<label key="key:620782836:175532558" value="Euer Rang, Name und Nachname ohne Titel"/>
+<label key="key:620782837:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Schlachtenmeisterin[f]|Schlachtenmeister[m]}"/>
+<label key="key:620782837:175532558" value="Ihr seid ${PLAYERNAME:ein Anführer[m]|eine Anführerin[f]} innerhalb eines Stammes."/>
+<label key="key:620782838:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Vorfahrin[f]|Vorfahre[m]}"/>
+<label key="key:620782838:175532558" value="Ihr habt einen Stamm gegründet."/>
+<label key="key:620782839:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Kriegstreiberin[f]|Kriegstreiber[m]}"/>
+<label key="key:620782839:175532558" value="Ihr seid ${PLAYERNAME:ein Anführer[m]|eine Anführerin[f]} innerhalb eines Stammes."/>
+<label key="key:620782840:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Soldat[m]|Soldatin[f]}"/>
+<label key="key:620782840:175532558" value="Ihr seid ${PLAYERNAME:Soldat[m]|Soldatin[f]} in einem Stamm."/>
+<label key="key:620782842:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Offizierin[f]|Offizier[m]}"/>
+<label key="key:620782842:175532558" value="Ihr seid ${PLAYERNAME:Offizier[m]|Offizierin[f]} eines Stammes."/>
+<label key="key:620782843:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} ${NAME:Schnitter des Leids[m]|Schnitterin des Leids[f]}"/>
+<label key="key:620782843:175532558" value="Das Schlachtfeld ist Euch ein Garten, in dem Ihr die Köpfe der Gefallenen erntet. Ihr seid wahrlich ${PLAYERNAME:ein Schnitter[m]|eine Schnitterin[f]} des Leids."/>
+<label key="key:620782844:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} ${NAME:Feind der Anmut[m]|Feindin der Anmut[f]}"/>
+<label key="key:620782844:175532558" value="Die Anmut stirbt, wenn Ihr Euch nähert. Unter den Elben gibt es niemanden, der gegen Euch bestehen kann. Der Tod durch Eure Hand löscht jede Anmut aus."/>
+<label key="key:620782845:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} Geißel des Kleinen Volkes"/>
+<label key="key:620782845:175532558" value="Unter dem Kleinen Volk gibt es niemanden, der es wagt, sich Euch entgegenzustellen. Eure Überlegenheit über sie ist so groß, dass Ihr durch ihre Reihen metzelt, ohne selbst auch nur geritzt zu werden."/>
+<label key="key:620782846:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Aufseherin[f]|Aufseher[m]}"/>
+<label key="key:620782846:175532558" value="Ihr habt einen Stamm gegründet."/>
+<label key="key:620782847:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Soldat[m]|Soldatin[f]}"/>
+<label key="key:620782847:175532558" value="Ihr seid ${PLAYERNAME:Soldat[m]|Soldatin[f]} in einem Stamm."/>
+<label key="key:620782848:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} ${NAME:Schwarzer Hund[m]|Schwarze Hündin[f]}"/>
+<label key="key:620782848:175532558" value="Angmar sieht mit Wohlgefallen auf Euch, und Ihr gehört zu seinen Elitekämpfern. ${PLAYERNAME:Ein Hund[m]|Eine Hündin[f]} von Mordirith. ${PLAYERNAME:Ein Schwarzer Hund[m]|Eine Schwarze Hündin[f]}!"/>
+<label key="key:620782849:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} Geißel des Schönen Volkes"/>
+<label key="key:620782849:175532558" value="Alle, die mit dem Volk der Elben verbunden sind, fürchten Euren Namen. In großer Zahl treibt Ihr sie von den Schlachtfeldern."/>
+<label key="key:620782850:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} ${NAME:Feind der Unschuld[m]|Feindin der Unschuld[f]}"/>
+<label key="key:620782850:175532558" value="Euer Triumph über das Kleine Volk ist vollkommen. Das Blut, das Ihr vergossen habt, hat die einstige Unschuld dieser Wesen hinfortgespült."/>
+<label key="key:620789002:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Verwalter[m]|Verwalterin[f]} von Eriador"/>
+<label key="key:620789002:175532558" value="Verwalter-Titel für Administratoren."/>
+<label key="key:620789003:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Marschall[m]|Marschallin[f]} von Eriador"/>
+<label key="key:620789003:175532558" value="Marschall-Titel für Administratoren."/>
+<label key="key:620789004:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Truchsess von Eriador"/>
+<label key="key:620789004:175532558" value="Truchsess-Titel für Administratoren."/>
+<label key="key:620789049:172691445" value="${RANK}${RANK: [E]}${NAME} ${SURNAME: [E]}${SURNAME} ${NAME:Diener Angmars[m]|Dienerin Angmars[f]}"/>
+<label key="key:620789049:175532558" value="Ihr seid nun Mitglied der Armee Angmars."/>
+<label key="key:620789509:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ein Licht aus dem Schatten"/>
+<label key="key:620789509:175532558" value="Ihr habt den ersten Band der Schatten von Angmar beendet."/>
+<label key="key:620789815:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Grabwächter[m]| Grabwächterin[f]}"/>
+<label key="key:620789815:175532558" value="Durch Eure Hand ist eine große Zahl der Grabräuber gefallen, die die Ruhestätten der Könige von Annúminas bedroht haben."/>
+<label key="key:620789816:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Geheimnishüter[m]|Geheimnishütern[f]}"/>
+<label key="key:620789816:175532558" value="In den glitzernden Lichtern auf den Feldern von Evendim liegt ein Geheimnis verborgen. Man hat das Gefühl, fast dahinter gekommen zu sein, schafft es aber nie."/>
+<label key="key:620789817:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Bezwinger[m]|Bezwingerin[f]} der Gauradain"/>
+<label key="key:620789817:175532558" value="Die wilden Gauradain haben gelernt, Eure Stärke zu respektieren, vielleicht sogar, Euch zu fürchten – wenn sie in der Schlacht jemals Furcht zeigen würden."/>
+<label key="key:620789818:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Feind[m]|Feindin[f]} der Riesen"/>
+<label key="key:620789818:175532558" value="Die Bergriesen in den Hügeln über Evendim haben Euch zu ihrem Feind erklärt. Sie schmieden bereits Pläne für den Tag, an dem sie Rache üben können."/>
+<label key="key:620789819:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Gegner[m]|Gegnerin[f]} der Bilwisse"/>
+<label key="key:620789819:175532558" value="Die Bilwisse und die merkwürdigen kleinen Irrwichte, die sich am Rande von Evendim herumtreiben, werden einen weiten Bogen um Euch machen, wenn ihnen ihr Leben irgendetwas bedeutet."/>
+<label key="key:620789820:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Fluch der Kergrim"/>
+<label key="key:620789820:175532558" value="Bislang habt Ihr die tödlichen Kergrim immer besiegt und seid nicht zum Opfer ihrer grausamen Krallen geworden.&#10;&#10;Solltet Ihr jemals im Kampf gegen sie einen Fehler machen, werden von Euch nicht einmal die Knochen übrig bleiben."/>
+<label key="key:620789821:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Vernichter[m]|Vernichterin[f]} der Flammen"/>
+<label key="key:620789821:175532558" value="Die Feuergeister von Evendim haben immer wieder versucht, Euch zu vernichten. Doch sie haben keinen Erfolg: Ihr Feuer flackert und erlischt im Angesicht Eurer Macht."/>
+<label key="key:620790584:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Mitglied der Gasthausliga"/>
+<label key="key:620790584:175532558" value="Ihr habt die harte Aufnahmeprüfung der Gasthausliga bestanden und seid nun ein wahres Mitglied."/>
+<label key="key:620790643:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Hühnerjäger[m]|Hühnerjägerin[f]}"/>
+<label key="key:620790643:175532558" value="Ihr habt als Mitglied der Stahlschnäbel während des Lithefestes den Hobnanigan-Wettkampf gewonnen."/>
+<label key="key:620790645:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Held[m]|Heldin[f]} der Fliegenden Federn"/>
+<label key="key:620790645:175532558" value="Ihr habt als Mitglied der Fliegenden Federn während des Sommerfestes den Hobnanigan-Wettkampf gewonnen."/>
+<label key="key:620790830:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Storvâgûns Ende"/>
+<label key="key:620790830:175532558" value="Der Verrat von Storvâgûns hat nun ebenso ein Ende gefunden wie sein Leben."/>
+<label key="key:620790831:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Riesen-Schuldeneintreiber[m]|Riesen-Schuldeneintreiberin[f]}"/>
+<label key="key:620790831:175532558" value="Wer seine Loyalität verkauft hat, hat die Rache der Rechtschaffenen zu spüren bekommen."/>
+<label key="key:620790832:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Brutplatz-Reiter[m]|Brutplatz-Reiterin[f]}"/>
+<label key="key:620790832:175532558" value="Weniger Eis-Brut jetzt und weniger Drachen später, ein Sieg für die Freien Völker!"/>
+<label key="key:620790833:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME} ${NAME:der[m]|die[f]} Selbstlose"/>
+<label key="key:620790833:175532558" value="Um ein wahrer Held zu sein, braucht man mehr als Waffen und einen starken Willen."/>
+<label key="key:620790834:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Schicksal des wiedergeborenen Thorog"/>
+<label key="key:620790834:175532558" value="Selbst der wiedergeborene Drache Thorog wurde von Euch bezwungen."/>
+<label key="key:620790835:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Retter[m]| Retterin[f]} von Mírdanant"/>
+<label key="key:620790835:175532558" value="Viele haben für diesen Sieg gekämpft, aber Ihr steht über dem Rest, wahrlich heldenhaft."/>
+<label key="key:620790836:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Bezwinger[m]|Bezwingerin[f]} der vier Diener"/>
+<label key="key:620790836:175532558" value="Die vier Diener sind vernichtet, und Ihr erstrahlt im Glanz des Sieges."/>
+<label key="key:620790837:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Feind[m]|Feindin[f]} der Corcur"/>
+<label key="key:620790837:175532558" value="Die Corcur von Helegrod kennen Euren Namen, wagen ihn aber nur ängstlich zu flüstern."/>
+<label key="key:620790838:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Feind[m]|Feindin[f]} Angmars"/>
+<label key="key:620790838:175532558" value="Angmar fürchtet nun Euren Namen und die Namen Eurer Verbündeten."/>
+<label key="key:620790839:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME} ${NAME:der[m]|die[f]} Giftige"/>
+<label key="key:620790839:175532558" value="Ihr habt das verderbte Gift von Zaudrus Brut für einen guten Zweck gemolken."/>
+<label key="key:620790840:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME} ${NAME:der[m]|die[f]} von Zaudru Gehasste"/>
+<label key="key:620790840:175532558" value="Viele Nachkömmlinge Zaudrus wurden durch Euch vernichtet."/>
+<label key="key:620790841:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME} ${NAME:der Bezwinger[m]|die Bezwingerin[f]} von Zaudru"/>
+<label key="key:620790841:175532558" value="Selbst die üble Zaudru ist Euch nicht gewachsen."/>
+<label key="key:620793935:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME} ${NAME:Brutjäger[m]|Brutjägerin[f]}"/>
+<label key="key:620793935:175532558" value="Die böse Spinne Gwigon hat das verschlungene Hügelgrab von Haudh Iarchith zu ihrem Nest erkoren. Und dort also vermehrt sich Gwigons Brut – sofern Ihr es nicht schafft, sie zu vernichten."/>
+<label key="key:620793936:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME} ${NAME:Totengräber[m]|Totengräberin[f]}"/>
+<label key="key:620793936:175532558" value="So viele Leichen sind aus ihren Grüften inmitten der labyrinthartigen Hügelgräber Haudh Iarchith gekrochen, dass es scheint, ihr bedürft eher einer Schaufel als eines Schwertes."/>
+<label key="key:620793937:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Herrin[f]|Herr[m]} der Kreaturen"/>
+<label key="key:620793937:175532558" value="Einige grausame und verderbte Kreaturen hausen in den Ruinen von Sarnûr. Sie stehen unter der Herrschaft der Grimmhands und ihrer Verbündeten.&#10;&#10;Euer Wille und Eure Stärke jedoch haben dieses Ungeziefer gemeistert."/>
+<label key="key:620793938:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Verräterfluch"/>
+<label key="key:620793938:175532558" value="Die Grimmhand-Räuber haben eine Festung in den alten Ruinen von Sarnûr errichtet. Aber Eure Kämpfe haben ihre Zahl dezimiert und ihre Stellung geschwächt."/>
+<label key="key:620793940:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME} ${NAME:Scharfrichter[m]|Scharfrichterin[f]} des Bösen"/>
+<label key="key:620793940:175532558" value="Inmitten des verrottenden Schreckens von Haudh Iarchith übt eine Ansammlung verderbter, bösartiger Geschöpfe an einem düsteren Hof ihren Einfluss aus – oder sie taten es, bis Ihr sie gefunden und vernichtet habt."/>
+<label key="key:620793942:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME} Nemesis der Gefallenen"/>
+<label key="key:620793942:175532558" value="Viele gefallene Geister durchstreifen die dunklen Tunnel von Haudh Iarchith, doch falls es unter den Lebenden irgendwen gibt, den sie fürchten, so seid Ihr es."/>
+<label key="key:620793943:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Rächer[m]|Rächerin[f]} von Sarnûr"/>
+<label key="key:620793943:175532558" value="Ein aus Feinden bestehendes Bündnis plant, aus den uralten Ruinen von Sarnûr in die Ered Luin vorzudringen. Die verräterischen Grimmhands sammeln Truppen, um gegen ihre verhassten Vettern, die Langbärte, zu kämpfen. Glücklicherweise habt Ihr in den Ruinen viele ihrer Anführer erschlagen."/>
+<label key="key:620793945:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Trolltreter[m]|Trolltreterin[f]}"/>
+<label key="key:620793945:175532558" value="Wie es scheint, gehören die Trolle in Sarnûr zu einer besonders begriffsstutzigen - wenn auch brutalen - Art.&#10;&#10;Unter der Führung der Grimmhands darf man sie jedoch nicht unterschätzen. Wie lange diese Allianz anhält, ist allerdings ungewiss …"/>
+<label key="key:620794015:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME} ${NAME:der[m]|die[f]} Unkluge"/>
+<label key="key:620794015:175532558" value="Ihr habt den Käse trotz aller Warnhinweise gegessen. Das macht Euch ganz besonders unklug."/>
+<label key="key:620794019:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Überschreiter der Straßen[m]|Überschreiterin der Straßen[f]}"/>
+<label key="key:620794019:175532558" value="Es gibt viele unergründliche Geheimnisse in Mittelerde, aber Ihr wisst ziemlich genau, welche Rolle die Hühner dabei spielen."/>
+<label key="key:620794021:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Verfahrensdiener[m]|Verfahrensdienerin[f]}"/>
+<label key="key:620794021:175532558" value="Hiermit sei allen Menschen, Elben, Zwergen und Hobbits (in der Folge als 'die Freien Völker' bezeichnet) kundgetan, dass Willi Tuffin, der das vorgeschriebene Alter und angemessenen Verstand aufweist und im Auenland sesshaft ist, gemäß geltendem Recht und mit gebührender Sorgfalt vom Inhaber dieses Rechtstitels eine gerichtliche Verfügung zugestellt wurde. Der Kläger, Hob Hügelbraue, fordert angemessenen Schadensersatz in angebrachter Höhe sowie zum Strafzwecke eine über den tatsächlichen Schaden hinausgehende Entschädigung, sofern dies vom Gericht für angebracht gehalten wird. Hochachtungsvoll dargebracht von ${PLAYERNAME:einem Diener[m]|einer Dienerin[f]} des laufenden Verfahrens."/>
+<label key="key:620797328:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Freund[m]| Freundin[f]} der Wildnis"/>
+<label key="key:620797328:175532558" value="Ihr habt Euch als Freund der wilden Kreaturen erwiesen."/>
+<label key="key:620797655:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Flügelspalter[m]| Flügelspalterin[f]}"/>
+<label key="key:620797655:175532558" value="Diese geflügelten Schurken sind kaum mehr als Ungeziefer, aber wenn sie tatsächlich für die dunklen Mächte spionieren, dann ist es gut, dass Ihr die Einsamen Lande von möglichst vielen dieser Kreaturen befreit habt."/>
+<label key="key:620797656:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Troll-Treiber[m]| Troll-Treiberin[f]}"/>
+<label key="key:620797656:175532558" value="Ein Sieg mehr für Euch und Eure Verbündeten - ein Troll weniger, der später Ärger bereiten könnte."/>
+<label key="key:620799632:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Mentor der Lieder[m]|Mentorin der Lieder[f]}"/>
+<label key="key:620799632:175532558" value="Ihr habt Euer Wissen über Musik und Lieder an andere weitergegeben, die die Tradition nun fortführen werden."/>
+<label key="key:620799633:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Vorbild der Lieder"/>
+<label key="key:620799633:175532558" value=":Ihr seid all denen, die Wissen über Musik und Lieder erwerben wollten, ${PLAYERNAME:ein besonders guter Mentor[m]|eine besonders gute Mentorin[f]} gewesen und habt Euer Wissen an viele Schüler weitergegeben."/>
+<label key="key:620799638:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Bezwinger[m]|Bezwingerin[f]} von Thaurlach"/>
+<label key="key:620799638:175532558" value="Mit Hilfe Eurer tapferen Verbündeten und der Elbin Glathlírel habt Ihr den schrecklichen Balrog Thaurlach bezwungen."/>
+<label key="key:620799639:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Fürst[m]|Fürstin[f]} der zerschmetterten Kette"/>
+<label key="key:620799639:175532558" value="Ihr habt Thaurlachs zerschmetterte Kette aufgenommen und als Beweis für die großen Taten Eurer Gefährten ans Licht getragen."/>
+<label key="key:620799640:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Zerstörer[m]|Zerstörerin[f]} von Thrâng"/>
+<label key="key:620799640:175532558" value="Der Ork-Häuptling Thrâng ist dank Eurer Tapferkeit und Fertigkeiten und der Eurer Gefährten gefallen. Dies hat Euch der Zerstörung seines dunklen Meisters einen Schritt näher gebracht."/>
+<label key="key:620799641:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Retter[m]|Retterin[f]} der Eldgang"/>
+<label key="key:620799641:175532558" value="Mit Euren Kämpfen in der Schlucht habt Ihr den Eldgang-Riesen geholfen, die selbst an diesem schrecklichen Ort weiter gegen die Kräfte der Dunkelheit ankämpfen."/>
+<label key="key:620799777:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Trägerin[f]|Träger[m]} der Hoffnung"/>
+<label key="key:620799777:175532558" value="Ihr habt den zweiten Teil des ersten Bands der Schatten von Angmar beendet."/>
+</labels>

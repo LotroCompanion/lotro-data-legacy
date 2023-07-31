@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><enum id="587202600" name="DamageType">
+<entry code="1" key="COMMON" name="key:620757005:68731726"/>
+<entry code="2" key="WESTERNESSE" name="key:620757005:230696997"/>
+<entry code="4" key="ANCIENT_DWARF" name="key:620757005:25019958"/>
+<entry code="8" key="BELERIAND" name="key:620757005:182040548"/>
+<entry code="16" key="FIRE" name="key:620757005:18113029"/>
+<entry code="32" key="SHADOW" name="key:620757005:51182711"/>
+<entry code="64" key="LIGHT" name="key:620757005:22795748"/>
+<entry code="127" name="ALL"/>
+<entry code="128" name="ImplementInherited"/>
+</enum>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><labels locale="en">
+<label key="1879053032" value="In Defence of Middle-Earth"/>
+<label key="1879060192" value="Guardian's Ward"/>
+<label key="1879060866" value="Ballad of War"/>
+<label key="1879073072" value="Motivated"/>
+<label key="1879073120" value="Ballad of Swiftness"/>
+<label key="1879073122" value="Ballad of Unshakeable Will"/>
+<label key="1879073616" value="Dwarf Endurance"/>
+<label key="1879077245" value="Veteran Fortitude"/>
+<label key="1879084065" value="Duty Bound"/>
+<label key="1879095617" value="War-speech"/>
+<label key="key:620774926:106251889" value="+5% Maximum Morale"/>
+<label key="key:620784436:106251889" value="Increases your total morale by ${PERCENTVALUE}."/>
+<label key="key:620795454:106251890" value="-10s Piercing Cry recovery time"/>
+<label key="key:620795454:106251891" value="+25% Piercing Cry critical chance"/>
+</labels>

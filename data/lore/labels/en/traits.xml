@@ -1,0 +1,1709 @@
+<?xml version="1.0" encoding="UTF-8"?><labels locale="en">
+<label key="1879049557" value="Novice"/>
+<label key="1879051500" value="Riding"/>
+<label key="1879052047" value="Appraising Eye"/>
+<label key="1879052057" value="Ambidextrous"/>
+<label key="1879052086" value="Stick and Move"/>
+<label key="1879052124" value="Flashing Blades"/>
+<label key="1879052147" value="Sweep the Leg"/>
+<label key="1879052159" value="Exposed Throat"/>
+<label key="1879052186" value="Noble Savage"/>
+<label key="1879052198" value="March of the Ents"/>
+<label key="1879052209" value="Eagle-friend"/>
+<label key="1879052353" value="Flame of Anor"/>
+<label key="1879052362" value="Hardy Bear"/>
+<label key="1879052432" value="Use of Fire"/>
+<label key="1879052451" value="Enduring Precision"/>
+<label key="1879052460" value="Fast Draw"/>
+<label key="1879052474" value="Bow of the Righteous"/>
+<label key="1879052498" value="Bard's Arrow"/>
+<label key="1879052516" value="Press Onward"/>
+<label key="1879052531" value="Rain of Thorns"/>
+<label key="1879052880" value="Rally!"/>
+<label key="1879052894" value="Song of the Hopeful Heart"/>
+<label key="1879052911" value="Anthem of the Wizards"/>
+<label key="1879052959" value="Glorious Anthem"/>
+<label key="1879052966" value="Medium Armour-use"/>
+<label key="1879053026" value="Defy Corruption"/>
+<label key="1879053048" value="Shield of the Dúnedain"/>
+<label key="1879053061" value="Oathbreaker's Shame"/>
+<label key="1879053068" value="In Defence of Middle-earth"/>
+<label key="1879053115" value="Defiance"/>
+<label key="1879053127" value="Loyalty"/>
+<label key="1879054124" value="Conqueror of the Watching-stones"/>
+<label key="1879054956" value="Craft Scholar Complete Proficiency Tier 1"/>
+<label key="1879054957" value="Craft Scholar Complete mastery Tier 1"/>
+<label key="1879054966" value="Craft Scholar Complete Proficiency Tier 2"/>
+<label key="1879054967" value="Craft Scholar Complete mastery Tier 2"/>
+<label key="1879054974" value="Craft Scholar Complete Proficiency Tier 3"/>
+<label key="1879054975" value="Craft Scholar Complete mastery Tier 3"/>
+<label key="1879054984" value="Craft Scholar Complete Proficiency Tier 4"/>
+<label key="1879054985" value="Craft Scholar Complete mastery Tier 4"/>
+<label key="1879054992" value="Craft Scholar Complete Proficiency Tier 5"/>
+<label key="1879054993" value="Craft Scholar Complete mastery Tier 5"/>
+<label key="1879055089" value="Craft Metalsmith Complete Proficiency Tier 1"/>
+<label key="1879055090" value="Craft Metalsmith Complete mastery Tier 1"/>
+<label key="1879055102" value="Craft Metalsmith Complete Proficiency Tier 2"/>
+<label key="1879055103" value="Craft Metalsmith Complete mastery Tier 2"/>
+<label key="1879055116" value="Craft Metalsmith Complete Proficiency Tier 3"/>
+<label key="1879055117" value="Craft Metalsmith Complete mastery Tier 3"/>
+<label key="1879055131" value="Craft Metalsmith Complete Proficiency Tier 4"/>
+<label key="1879055132" value="Craft Metalsmith Complete mastery Tier 4"/>
+<label key="1879055146" value="Craft Metalsmith Complete Proficiency Tier 5"/>
+<label key="1879055147" value="Craft Metalsmith Complete mastery Tier 5"/>
+<label key="1879055311" value="Craft jeweller Complete Proficiency Tier 1"/>
+<label key="1879055312" value="Craft jeweller Complete mastery Tier 1"/>
+<label key="1879055321" value="Craft jeweller Complete Proficiency Tier 2"/>
+<label key="1879055322" value="Craft jeweller Complete mastery Tier 2"/>
+<label key="1879055331" value="Craft jeweller Complete Proficiency Tier 3"/>
+<label key="1879055332" value="Craft jeweller Complete mastery Tier 3"/>
+<label key="1879055341" value="Craft jeweller Complete Proficiency Tier 4"/>
+<label key="1879055342" value="Craft jeweller Complete mastery Tier 4"/>
+<label key="1879055350" value="Craft jeweller Complete Proficiency Tier 5"/>
+<label key="1879055351" value="Craft jeweller Complete mastery Tier 5"/>
+<label key="1879055488" value="Craft tailor Complete Proficiency Tier 1"/>
+<label key="1879055489" value="Craft tailor Complete mastery Tier 1"/>
+<label key="1879055506" value="Craft tailor Complete Proficiency Tier 2"/>
+<label key="1879055507" value="Craft tailor Complete mastery Tier 2"/>
+<label key="1879055525" value="Craft tailor Complete Proficiency Tier 3"/>
+<label key="1879055526" value="Craft tailor Complete mastery Tier 3"/>
+<label key="1879055545" value="Craft tailor Complete Proficiency Tier 4"/>
+<label key="1879055546" value="Craft tailor Complete mastery Tier 4"/>
+<label key="1879055565" value="Craft tailor Complete Proficiency Tier 5"/>
+<label key="1879055566" value="Craft tailor Complete mastery Tier 5"/>
+<label key="1879055787" value="Craft Weaponsmith Complete Proficiency Tier 1"/>
+<label key="1879055788" value="Craft Weaponsmith Complete mastery Tier 1"/>
+<label key="1879055798" value="Craft Weaponsmith Complete Proficiency Tier 2"/>
+<label key="1879055799" value="Craft Weaponsmith Complete mastery Tier 2"/>
+<label key="1879055810" value="Craft Weaponsmith Complete Proficiency Tier 3"/>
+<label key="1879055811" value="Craft Weaponsmith Complete mastery Tier 3"/>
+<label key="1879055823" value="Craft Weaponsmith Complete Proficiency Tier 4"/>
+<label key="1879055824" value="Craft Weaponsmith Complete mastery Tier 4"/>
+<label key="1879055836" value="Craft Weaponsmith Complete Proficiency Tier 5"/>
+<label key="1879055837" value="Craft Weaponsmith Complete mastery Tier 5"/>
+<label key="1879055951" value="Craft Woodworker Complete Proficiency Tier 1"/>
+<label key="1879055952" value="Craft Woodworker Complete mastery Tier 1"/>
+<label key="1879055962" value="Craft Woodworker Complete Proficiency Tier 2"/>
+<label key="1879055963" value="Craft Woodworker Complete mastery Tier 2"/>
+<label key="1879055974" value="Craft Woodworker Complete Proficiency Tier 3"/>
+<label key="1879055975" value="Craft Woodworker Complete mastery Tier 3"/>
+<label key="1879055987" value="Craft Woodworker Complete Proficiency Tier 4"/>
+<label key="1879055988" value="Craft Woodworker Complete mastery Tier 4"/>
+<label key="1879056000" value="Craft Woodworker Complete Proficiency Tier 5"/>
+<label key="1879056001" value="Craft Woodworker Complete mastery Tier 5"/>
+<label key="1879056133" value="Use of Light"/>
+<label key="1879059852" value="Ferocious Strikes"/>
+<label key="1879059868" value="Fight On!"/>
+<label key="1879059880" value="Explosion of Blades"/>
+<label key="1879059892" value="Controlled Burn"/>
+<label key="1879059926" value="Runic Use"/>
+<label key="1879059934" value="Heavy Shield Use"/>
+<label key="1879059942" value="Vicious Strikes"/>
+<label key="1879060105" value="Parried Blows"/>
+<label key="1879060110" value="Deflected Blows"/>
+<label key="1879060116" value="Shield Spike Use"/>
+<label key="1879060132" value="To the King"/>
+<label key="1879060163" value="Shield-smash"/>
+<label key="1879060179" value="Guardian's Threat"/>
+<label key="1879060190" value="Challenge the Darkness"/>
+<label key="1879060248" value="Master"/>
+<label key="1879060251" value="Captain's Victory"/>
+<label key="1879060257" value="Journeyman"/>
+<label key="1879060258" value="Adept"/>
+<label key="1879060294" value="Blood of Númenor"/>
+<label key="1879060304" value="Now for Wrath"/>
+<label key="1879060313" value="Captain of War"/>
+<label key="1879060322" value="Turn of the Tide"/>
+<label key="1879060328" value="Renewed Voice"/>
+<label key="1879060340" value="Focused Strikes"/>
+<label key="1879060347" value="Captain's Valour"/>
+<label key="1879060378" value="Fear no Darkness"/>
+<label key="1879060386" value="Strong Voice"/>
+<label key="1879060400" value="Captain's Hope"/>
+<label key="1879060432" value="Expert Attacks"/>
+<label key="1879060438" value="Intimidating Shout"/>
+<label key="1879060444" value="Subtle Command"/>
+<label key="1879060491" value="Flurry of Blows"/>
+<label key="1879060496" value="Swift to Anger"/>
+<label key="1879060502" value="Deadly Strikes"/>
+<label key="1879060517" value="Winds of the Storm"/>
+<label key="1879060519" value="Braced Against Defeat"/>
+<label key="1879060524" value="Blood-lust"/>
+<label key="1879060527" value="Call of the Wild"/>
+<label key="1879060534" value="Stalwart Blade"/>
+<label key="1879060538" value="Deep Strikes"/>
+<label key="1879060543" value="At the Ready"/>
+<label key="1879060545" value="Eye of the Storm"/>
+<label key="1879060548" value="Fervent Rage"/>
+<label key="1879060552" value="Time of Need"/>
+<label key="1879060556" value="Patience"/>
+<label key="1879060569" value="Stinging Blow"/>
+<label key="1879060574" value="Reactive Block"/>
+<label key="1879060583" value="Guardian's Ward"/>
+<label key="1879060592" value="Defensive Expertise"/>
+<label key="1879060606" value="Controlled Breathing"/>
+<label key="1879060619" value="Harasser"/>
+<label key="1879060625" value="To the Rescue"/>
+<label key="1879060629" value="Quickness"/>
+<label key="1879060632" value="Grim Challenge"/>
+<label key="1879060635" value="Selfless Defence"/>
+<label key="1879060645" value="Stoic"/>
+<label key="1879060649" value="Strong Lungs"/>
+<label key="1879060653" value="Brave Heart"/>
+<label key="1879060661" value="Heat of Battle"/>
+<label key="1879060668" value="Sturdy Traps"/>
+<label key="1879060680" value="Rapid Recovery"/>
+<label key="1879060682" value="Barbed Fury"/>
+<label key="1879060684" value="Swift and True"/>
+<label key="1879060686" value="Strong Draw"/>
+<label key="1879060688" value="Heightened Senses"/>
+<label key="1879060696" value="Hail of Arrows"/>
+<label key="1879060700" value="Arrow Storm"/>
+<label key="1879060703" value="Deep Concentration"/>
+<label key="1879060708" value="Deadly Precision"/>
+<label key="1879060712" value="True Shot"/>
+<label key="1879060714" value="Graceful Draw"/>
+<label key="1879060717" value="Stealthy Shot"/>
+<label key="1879060724" value="Swift Recovery"/>
+<label key="1879060750" value="Master of the Staff"/>
+<label key="1879060759" value="Power and Wisdom"/>
+<label key="1879060772" value="Light of Hope"/>
+<label key="1879060780" value="Master of Beasts"/>
+<label key="1879060784" value="Deep Lore"/>
+<label key="1879060787" value="Healer"/>
+<label key="1879060794" value="Beast-lore"/>
+<label key="1879060801" value="Dúnadan-learning"/>
+<label key="1879060804" value="Harmony with Nature"/>
+<label key="1879060812" value="Awareness of Body"/>
+<label key="1879060819" value="Subtlety of Wisdom"/>
+<label key="1879060825" value="Proof against All Ills"/>
+<label key="1879060832" value="Knowledge of the Past"/>
+<label key="1879060844" value="Magic Adept"/>
+<label key="1879060864" value="Strength of Voice"/>
+<label key="1879060869" value="Battle-hymn"/>
+<label key="1879060877" value="Heralded Saviour"/>
+<label key="1879060889" value="Harmonious Melody"/>
+<label key="1879060891" value="Herald's Hammer"/>
+<label key="1879060893" value="Smooth Voice"/>
+<label key="1879060895" value="Powerful Voice"/>
+<label key="1879060897" value="Life-singer"/>
+<label key="1879060899" value="Unrelenting"/>
+<label key="1879060901" value="Focused Performance"/>
+<label key="1879060905" value="Light in the Dark"/>
+<label key="1879060910" value="Graceful Demeanour"/>
+<label key="1879060915" value="Silver Tongue"/>
+<label key="1879060920" value="Subtle Movements"/>
+<label key="1879060939" value="Cunning Wound"/>
+<label key="1879060948" value="Swift and Subtle"/>
+<label key="1879060953" value="Perplexing Riddle"/>
+<label key="1879060959" value="Hidden Dagger"/>
+<label key="1879060962" value="Focused Eye"/>
+<label key="1879060965" value="Side-step"/>
+<label key="1879060968" value="Trickster"/>
+<label key="1879060979" value="Strike from Shadows"/>
+<label key="1879060982" value="Footpad"/>
+<label key="1879060987" value="Disabling Attack"/>
+<label key="1879060993" value="Opportunist"/>
+<label key="1879060999" value="Overwhelming Odds"/>
+<label key="1879061006" value="Leaf-walker"/>
+<label key="1879061017" value="Blind Fury"/>
+<label key="1879061263" value="Craft Cook Complete Proficiency Tier 1"/>
+<label key="1879061264" value="Craft Cook Complete mastery Tier 1"/>
+<label key="1879061274" value="Craft Cook Complete Proficiency Tier 2"/>
+<label key="1879061275" value="Craft Cook Complete mastery Tier 2"/>
+<label key="1879061286" value="Craft Cook Complete Proficiency Tier 3"/>
+<label key="1879061287" value="Craft Cook Complete mastery Tier 3"/>
+<label key="1879061298" value="Craft Cook Complete Proficiency Tier 4"/>
+<label key="1879061299" value="Craft Cook Complete mastery Tier 4"/>
+<label key="1879061310" value="Craft Cook Complete Proficiency Tier 5"/>
+<label key="1879061311" value="Craft Cook Complete mastery Tier 5"/>
+<label key="1879061991" value="Superior Forge Access"/>
+<label key="1879062250" value="Superior Oven Access"/>
+<label key="1879062411" value="Superior Study Access"/>
+<label key="1879062506" value="Sword and Staff"/>
+<label key="1879062692" value="Superior Workbench Access"/>
+<label key="1879062819" value="Track Mines"/>
+<label key="1879062822" value="Craft Prospector Complete Proficiency Tier 1"/>
+<label key="1879062823" value="Craft Prospector Complete mastery Tier 1"/>
+<label key="1879062828" value="Craft Prospector Complete Proficiency Tier 2"/>
+<label key="1879062829" value="Craft Prospector Complete mastery Tier 2"/>
+<label key="1879062835" value="Craft Prospector Complete Proficiency Tier 3"/>
+<label key="1879062836" value="Craft Prospector Complete mastery Tier 3"/>
+<label key="1879062843" value="Craft Prospector Complete Proficiency Tier 4"/>
+<label key="1879062844" value="Craft Prospector Complete mastery Tier 4"/>
+<label key="1879062851" value="Craft Prospector Complete Proficiency Tier 5"/>
+<label key="1879062852" value="Craft Prospector Complete mastery Tier 5"/>
+<label key="1879062870" value="Track Wood"/>
+<label key="1879062873" value="Craft Forester Complete Proficiency Tier 1"/>
+<label key="1879062874" value="Craft Forester Complete mastery Tier 1"/>
+<label key="1879062879" value="Craft Forester Complete Proficiency Tier 2"/>
+<label key="1879062880" value="Craft Forester Complete mastery Tier 2"/>
+<label key="1879062885" value="Craft Forester Complete Proficiency Tier 3"/>
+<label key="1879062886" value="Craft Forester Complete mastery Tier 3"/>
+<label key="1879062891" value="Craft Forester Complete Proficiency Tier 4"/>
+<label key="1879062892" value="Craft Forester Complete mastery Tier 4"/>
+<label key="1879062897" value="Craft Forester Complete Proficiency Tier 5"/>
+<label key="1879062898" value="Craft Forester Complete mastery Tier 5"/>
+<label key="1879062909" value="Track Crops"/>
+<label key="1879062912" value="Craft Farmer Complete Proficiency Tier 1"/>
+<label key="1879062913" value="Craft Farmer Complete mastery Tier 1"/>
+<label key="1879062925" value="Craft Farmer Complete Proficiency Tier 2"/>
+<label key="1879062926" value="Craft Farmer Complete mastery Tier 2"/>
+<label key="1879062935" value="Craft Farmer Complete Proficiency Tier 3"/>
+<label key="1879062936" value="Craft Farmer Complete mastery Tier 3"/>
+<label key="1879062945" value="Craft Farmer Complete Proficiency Tier 4"/>
+<label key="1879062946" value="Craft Farmer Complete mastery Tier 4"/>
+<label key="1879062952" value="Craft Farmer Complete Proficiency Tier 5"/>
+<label key="1879062953" value="Craft Farmer Complete mastery Tier 5"/>
+<label key="1879063892" value="Damage"/>
+<label key="1879063893" value="Health"/>
+<label key="1879063894" value="Power"/>
+<label key="1879063895" value="Armour"/>
+<label key="1879063896" value="Avoidance"/>
+<label key="1879063897" value="Resistance"/>
+<label key="1879064086" value="One-Handed Axes"/>
+<label key="1879064087" value="One-Handed Clubs"/>
+<label key="1879064088" value="One-Handed Hammers"/>
+<label key="1879064089" value="One-Handed Maces"/>
+<label key="1879064090" value="One-Handed Swords"/>
+<label key="1879064091" value="Daggers"/>
+<label key="1879064092" value="Dual Wielding"/>
+<label key="1879064093" value="Specialized Equipment"/>
+<label key="1879064094" value="Light Armour"/>
+<label key="1879064095" value="Medium Armour"/>
+<label key="1879064096" value="Horn Use"/>
+<label key="1879064097" value="Parry: Rank 1"/>
+<label key="1879064098" value="Evade: Rank 1"/>
+<label key="1879064099" value="Two-Handed Axes"/>
+<label key="1879064100" value="Two-Handed Hammers"/>
+<label key="1879064101" value="Two-Handed Swords"/>
+<label key="1879064102" value="Spear"/>
+<label key="1879064103" value="Melee Critical: Rank 1"/>
+<label key="1879064104" value="Accuracy: Rank 1"/>
+<label key="1879064105" value="Shields"/>
+<label key="1879064106" value="Evade: Rank 2"/>
+<label key="1879064107" value="Parry: Rank 2"/>
+<label key="1879064108" value="Bows"/>
+<label key="1879064109" value="Heavy Armour"/>
+<label key="1879064110" value="Block : Rank 1"/>
+<label key="1879064111" value="Melee Critical: Rank 2"/>
+<label key="1879064112" value="Block : Rank 2"/>
+<label key="1879064113" value="Accuracy: Rank 2"/>
+<label key="1879064114" value="Parry: Rank 3"/>
+<label key="1879064115" value="Evade: Rank 3"/>
+<label key="1879064116" value="Block : Rank 3"/>
+<label key="1879064118" value="Block : Rank 4"/>
+<label key="1879064119" value="Accuracy: Rank 3"/>
+<label key="1879064120" value="Parry: Rank 4"/>
+<label key="1879064121" value="Evade: Rank 4"/>
+<label key="1879064122" value="Accuracy: Rank 4"/>
+<label key="1879064155" value="Two-Handed Clubs"/>
+<label key="1879064156" value="Melee Critical: Rank 1"/>
+<label key="1879064157" value="Block : Rank 1"/>
+<label key="1879064158" value="Accuracy: Rank 1"/>
+<label key="1879064159" value="Evade: Rank 1"/>
+<label key="1879064160" value="Halberd"/>
+<label key="1879064161" value="Block : Rank 2"/>
+<label key="1879064162" value="Melee Critical: Rank 2"/>
+<label key="1879064163" value="Parry: Rank 1"/>
+<label key="1879064165" value="Block : Rank 3"/>
+<label key="1879064166" value="Parry: Rank 2"/>
+<label key="1879064168" value="Accuracy: Rank 2"/>
+<label key="1879064169" value="Parry: Rank 3"/>
+<label key="1879064170" value="Accuracy: Rank 3"/>
+<label key="1879064171" value="Accuracy: Rank 4"/>
+<label key="1879064172" value="Parry: Rank 4"/>
+<label key="1879064173" value="Summoning Horn Use"/>
+<label key="1879064210" value="Lute Use"/>
+<label key="1879064211" value="Clarinet Use"/>
+<label key="1879064212" value="Flute Use"/>
+<label key="1879064213" value="Harp Use"/>
+<label key="1879064214" value="Evade: Rank 1"/>
+<label key="1879064215" value="Evade: Rank 2"/>
+<label key="1879064216" value="Evade: Rank 3"/>
+<label key="1879064217" value="Block : Rank 1"/>
+<label key="1879064218" value="Block : Rank 2"/>
+<label key="1879064219" value="Block : Rank 3"/>
+<label key="1879064220" value="Block : Rank 4"/>
+<label key="1879064221" value="Accuracy: Rank 1"/>
+<label key="1879064222" value="Accuracy: Rank 2"/>
+<label key="1879064223" value="Accuracy: Rank 3"/>
+<label key="1879064224" value="Accuracy: Rank 4"/>
+<label key="1879064225" value="Melee Critical: Rank 1"/>
+<label key="1879064226" value="Melee Critical: Rank 2"/>
+<label key="1879064227" value="Melee Critical: Rank 3"/>
+<label key="1879064228" value="Melee Critical: Rank 4"/>
+<label key="1879064229" value="Parry: Rank 1"/>
+<label key="1879064230" value="Parry: Rank 2"/>
+<label key="1879064231" value="Parry: Rank 3"/>
+<label key="1879064259" value="Two-Handed Staves"/>
+<label key="1879064260" value="Evade: Rank 1"/>
+<label key="1879064261" value="Parry: Rank 1"/>
+<label key="1879064262" value="Accuracy: Rank 1"/>
+<label key="1879064263" value="Melee Critical: Rank 1"/>
+<label key="1879064264" value="Parry: Rank 2"/>
+<label key="1879064265" value="Accuracy: Rank 2"/>
+<label key="1879064267" value="Melee Critical: Rank 2"/>
+<label key="1879064268" value="Evade: Rank 2"/>
+<label key="1879064269" value="Parry: Rank 3"/>
+<label key="1879064271" value="Accuracy: Rank 3"/>
+<label key="1879064273" value="Accuracy: Rank 4"/>
+<label key="1879064274" value="Evade: Rank 3"/>
+<label key="1879064298" value="Crossbows"/>
+<label key="1879064299" value="Heavy Shields"/>
+<label key="1879064300" value="Accuracy: Rank 1"/>
+<label key="1879064301" value="Accuracy: Rank 2"/>
+<label key="1879064302" value="Accuracy: Rank 3"/>
+<label key="1879064303" value="Accuracy: Rank 4"/>
+<label key="1879064304" value="Block : Rank 1"/>
+<label key="1879064305" value="Block : Rank 2"/>
+<label key="1879064306" value="Block : Rank 3"/>
+<label key="1879064307" value="Block : Rank 4"/>
+<label key="1879064308" value="Melee Critical: Rank 1"/>
+<label key="1879064309" value="Melee Critical: Rank 2"/>
+<label key="1879064312" value="Evade: Rank 1"/>
+<label key="1879064313" value="Evade: Rank 2"/>
+<label key="1879064314" value="Parry: Rank 1"/>
+<label key="1879064315" value="Parry: Rank 2"/>
+<label key="1879064316" value="Parry: Rank 3"/>
+<label key="1879064317" value="Parry: Rank 4"/>
+<label key="1879064344" value="Accuracy: Rank 1"/>
+<label key="1879064345" value="Accuracy: Rank 2"/>
+<label key="1879064346" value="Accuracy: Rank 3"/>
+<label key="1879064347" value="Accuracy: Rank 4"/>
+<label key="1879064348" value="Melee Critical: Rank 1"/>
+<label key="1879064349" value="Melee Critical: Rank 2"/>
+<label key="1879064350" value="Melee Critical: Rank 3"/>
+<label key="1879064351" value="Melee Critical: Rank 4"/>
+<label key="1879064352" value="Evade: Rank 1"/>
+<label key="1879064353" value="Evade: Rank 2"/>
+<label key="1879064354" value="Evade: Rank 3"/>
+<label key="1879064355" value="Evade: Rank 4"/>
+<label key="1879064356" value="Parry: Rank 1"/>
+<label key="1879064357" value="Parry: Rank 2"/>
+<label key="1879064358" value="Parry: Rank 3"/>
+<label key="1879064359" value="Parry: Rank 4"/>
+<label key="1879064400" value="Improved Range"/>
+<label key="1879064401" value="Evade: Rank 1"/>
+<label key="1879064402" value="Ranged Critical: Rank 1"/>
+<label key="1879064403" value="Ranged Evade: Rank 1"/>
+<label key="1879064404" value="Parry: Rank 1"/>
+<label key="1879064405" value="Accuracy: Rank 1"/>
+<label key="1879064406" value="Ranged Evade: Rank 2"/>
+<label key="1879064407" value="Evade: Rank 2"/>
+<label key="1879064408" value="Ranged Evade: Rank 3"/>
+<label key="1879064409" value="Parry: Rank 2"/>
+<label key="1879064410" value="Accuracy: Rank 2"/>
+<label key="1879064411" value="Ranged Evade: Rank 4"/>
+<label key="1879064412" value="Ranged Critical: Rank 2"/>
+<label key="1879064413" value="Accuracy: Rank 3"/>
+<label key="1879064414" value="Parry: Rank 3"/>
+<label key="1879064415" value="Evade: Rank 3"/>
+<label key="1879064416" value="Accuracy: Rank 4"/>
+<label key="1879064417" value="Ranged Critical: Rank 3"/>
+<label key="1879064418" value="Parry: Rank 4"/>
+<label key="1879064419" value="Ranged Critical: Rank 4"/>
+<label key="1879064420" value="Evade: Rank 4"/>
+<label key="1879072425" value="Power Boost"/>
+<label key="1879072426" value="Resistance Boost"/>
+<label key="1879072427" value="Quick Strikes"/>
+<label key="1879072428" value="Burning Blades"/>
+<label key="1879072429" value="Enhanced Skill: Jagged Cut"/>
+<label key="1879072430" value="Enhanced Skill: Glory in Victory"/>
+<label key="1879072431" value="Enhanced Skill: Devastating Strike"/>
+<label key="1879072432" value="Advanced Skill: Resilience"/>
+<label key="1879072435" value="Appearance 1"/>
+<label key="1879072436" value="Appearance 2"/>
+<label key="1879072437" value="Appearance 3"/>
+<label key="1879072438" value="Appearance 4"/>
+<label key="1879072439" value="Appearance 5"/>
+<label key="1879072440" value="Appearance 6"/>
+<label key="1879072441" value="Health Boost"/>
+<label key="1879072442" value="Armour Boost"/>
+<label key="1879072443" value="Regeneration"/>
+<label key="1879072444" value="Swift Weave"/>
+<label key="1879072445" value="Enhanced Skill: Piercing Attack"/>
+<label key="1879072446" value="Enhanced Skill: Tainted Kiss"/>
+<label key="1879072447" value="Steelweave Webs"/>
+<label key="1879072448" value="Advanced Skill: Clinging Webs"/>
+<label key="1879072451" value="Appearance 1"/>
+<label key="1879072452" value="Appearance 2"/>
+<label key="1879072453" value="Appearance 3"/>
+<label key="1879072454" value="Appearance 4"/>
+<label key="1879072455" value="Appearance 5"/>
+<label key="1879072456" value="Appearance 6"/>
+<label key="1879072457" value="Avoidance Boost"/>
+<label key="1879072458" value="Resistance Boost"/>
+<label key="1879072459" value="Deadly Aim"/>
+<label key="1879072460" value="Uncanny Reactions"/>
+<label key="1879072461" value="Enhanced Skill: Hindering Shot"/>
+<label key="1879072462" value="Penetrating Arrows"/>
+<label key="1879072463" value="Swift Draw"/>
+<label key="1879072464" value="Advanced Skill: Set Trap"/>
+<label key="1879072467" value="Appearance 1"/>
+<label key="1879072468" value="Appearance 2"/>
+<label key="1879072469" value="Appearance 3"/>
+<label key="1879072470" value="Appearance 4"/>
+<label key="1879072471" value="Appearance 5"/>
+<label key="1879072472" value="Appearance 6"/>
+<label key="1879072473" value="Damage Boost"/>
+<label key="1879072474" value="Avoidance Boost"/>
+<label key="1879072475" value="Empowering"/>
+<label key="1879072476" value="Shield Mastery"/>
+<label key="1879072477" value="Enhanced Skill: On Your Feet!"/>
+<label key="1879072478" value="Harsh Language"/>
+<label key="1879072479" value="Enhanced Skill: Field Promotion"/>
+<label key="1879072480" value="Advanced Skill: Snap Out of It!"/>
+<label key="1879072483" value="Appearance 1"/>
+<label key="1879072484" value="Appearance 2"/>
+<label key="1879072485" value="Appearance 3"/>
+<label key="1879072486" value="Appearance 4"/>
+<label key="1879072487" value="Appearance 5"/>
+<label key="1879072488" value="Appearance 6"/>
+<label key="1879072489" value="Armour Boost"/>
+<label key="1879072490" value="Resistance Boost"/>
+<label key="1879072491" value="Long Strides"/>
+<label key="1879072492" value="Shadow Fang"/>
+<label key="1879072493" value="Enhanced Skill: Stealth"/>
+<label key="1879072494" value="Enhanced Skill: Sprint"/>
+<label key="1879072495" value="The Element of Surprise"/>
+<label key="1879072496" value="Advanced Skill: Rallying Howl"/>
+<label key="1879072499" value="Appearance 1"/>
+<label key="1879072500" value="Appearance 2"/>
+<label key="1879072501" value="Appearance 3"/>
+<label key="1879072502" value="Appearance 4"/>
+<label key="1879072503" value="Appearance 5"/>
+<label key="1879072505" value="Damage for Health (Rank 1)"/>
+<label key="1879072506" value="Damage for Power (Rank 1)"/>
+<label key="1879072507" value="Health for Damage (Rank 1)"/>
+<label key="1879072508" value="Health for Power (Rank 1)"/>
+<label key="1879072509" value="Power for Damage (Rank 1)"/>
+<label key="1879072510" value="Power for Health (Rank 1)"/>
+<label key="1879072511" value="Common Mitigation Boost (Rank 1)"/>
+<label key="1879072512" value="Fire Mitigation Boost (Rank 1)"/>
+<label key="1879072513" value="Light Mitigation Boost (Rank 1)"/>
+<label key="1879072514" value="Ancient Dwarf Mitigation Boost (Rank 1)"/>
+<label key="1879072515" value="Beleriand Mitigation Boost (Rank 1)"/>
+<label key="1879072516" value="Westernesse Mitigation Boost (Rank 1)"/>
+<label key="1879072517" value="Song Resistance Boost (Rank 1)"/>
+<label key="1879072518" value="Cry Resistance Boost (Rank 1)"/>
+<label key="1879072519" value="Tactical Resistance Boost (Rank 1)"/>
+<label key="1879072520" value="Physical Resistance Boost (Rank 1)"/>
+<label key="1879072521" value="Stealth Detection Boost"/>
+<label key="1879072873" value="Charity"/>
+<label key="1879072874" value="Compassion"/>
+<label key="1879072875" value="Confidence"/>
+<label key="1879072876" value="Determination"/>
+<label key="1879072877" value="Discipline"/>
+<label key="1879072878" value="Empathy"/>
+<label key="1879072879" value="Fidelity"/>
+<label key="1879072880" value="Fortitude"/>
+<label key="1879072881" value="Honesty"/>
+<label key="1879072882" value="Honour"/>
+<label key="1879072883" value="Idealism"/>
+<label key="1879072884" value="Justice"/>
+<label key="1879072885" value="Loyalty"/>
+<label key="1879072886" value="Mercy"/>
+<label key="1879072887" value="Patience"/>
+<label key="1879072888" value="Innocence"/>
+<label key="1879072889" value="Tolerance"/>
+<label key="1879072890" value="Valour"/>
+<label key="1879072891" value="Wisdom"/>
+<label key="1879072892" value="Zeal"/>
+<label key="1879073451" value="Small Size"/>
+<label key="1879073452" value="Hobbit-toughness"/>
+<label key="1879073453" value="Rapid Recovery"/>
+<label key="1879073454" value="Hobbit-courage"/>
+<label key="1879073455" value="Resist Corruption"/>
+<label key="1879073469" value="Stoop for a Stone"/>
+<label key="1879073473" value="Guile and Conviction Bonus"/>
+<label key="1879073475" value="Hobbit Club-damage Bonus"/>
+<label key="1879073477" value="Hobbit-stature"/>
+<label key="1879073479" value="Return to Michel Delving"/>
+<label key="1879073483" value="Return to Rivendell"/>
+<label key="1879073485" value="Hobbit-resilience"/>
+<label key="1879073490" value="Hobbit-stealth"/>
+<label key="1879073494" value="Hobbit-silence"/>
+<label key="1879073502" value="Gift of Men"/>
+<label key="1879073503" value="Diminishing of Mankind"/>
+<label key="1879073504" value="Easily Inspired"/>
+<label key="1879073505" value="Strong Men"/>
+<label key="1879073515" value="Upper-cut"/>
+<label key="1879073519" value="Tactics and Might Bonus"/>
+<label key="1879073521" value="Man Sword-damage Bonus"/>
+<label key="1879073523" value="Man of the Fourth Age"/>
+<label key="1879073525" value="Return to Bree"/>
+<label key="1879073529" value="Duty-bound"/>
+<label key="1879073534" value="Balance of Man"/>
+<label key="1879073536" value="Strength of Morale"/>
+<label key="1879073545" value="Sorrow of the Firstborn"/>
+<label key="1879073546" value="Agility of the Woods"/>
+<label key="1879073547" value="Fading of the Firstborn"/>
+<label key="1879073548" value="Suffer no Illness"/>
+<label key="1879073558" value="Sylvan Shadows"/>
+<label key="1879073561" value="Tactics and Conviction Bonus"/>
+<label key="1879073563" value="Elf Bow-damage Bonus"/>
+<label key="1879073565" value="Friend Of Man"/>
+<label key="1879073570" value="Eldar's Grace"/>
+<label key="1879073574" value="Elf One-handed Sword-damage Bonus"/>
+<label key="1879073576" value="Power of the Eldar"/>
+<label key="1879073582" value="Sturdiness"/>
+<label key="1879073583" value="Stocky"/>
+<label key="1879073584" value="Lost Dwarf-kingdoms"/>
+<label key="1879073585" value="Unwearying in Battle"/>
+<label key="1879073595" value="Head-butt"/>
+<label key="1879073599" value="Guile and Might Bonus"/>
+<label key="1879073601" value="Dwarf Axe-damage Bonus"/>
+<label key="1879073603" value="Fateful Dwarf"/>
+<label key="1879073605" value="Return to Thorin's Gate"/>
+<label key="1879073609" value="Endurance of Stone"/>
+<label key="1879073613" value="Dwarf-endurance"/>
+<label key="1879076057" value="Clever Devices"/>
+<label key="1879076061" value="Tools of the Trade"/>
+<label key="1879076067" value="Books of Lore"/>
+<label key="1879076071" value="Hand Wrought Traps"/>
+<label key="1879076074" value="Fellowship's Heart"/>
+<label key="1879076104" value="Armament Use"/>
+<label key="1879076155" value="Horns of Valour"/>
+<label key="1879076358" value="Shield Brawler"/>
+<label key="1879084084" value="Evade: Rank 2"/>
+<label key="1879088470" value="Drum Use"/>
+<label key="1879088471" value="Theorbo Use"/>
+<label key="1879090925" value="Bow Chants"/>
+<label key="1879091351" value="Damage for Health (Rank 2)"/>
+<label key="1879091352" value="Damage for Power (Rank 2)"/>
+<label key="1879091353" value="Health for Damage (Rank 2)"/>
+<label key="1879091354" value="Health for Power (Rank 2)"/>
+<label key="1879091355" value="Power for Damage (Rank 2)"/>
+<label key="1879091356" value="Power for Health (Rank 2)"/>
+<label key="1879091357" value="Ancient Dwarf Mitigation Boost (Rank 2)"/>
+<label key="1879091358" value="Beleriand Mitigation Boost (Rank 2)"/>
+<label key="1879091359" value="Common Mitigation Boost (Rank 2)"/>
+<label key="1879091360" value="Fire Mitigation Boost (Rank 2)"/>
+<label key="1879091361" value="Light Mitigation Boost (Rank 2)"/>
+<label key="1879091362" value="Westernesse Mitigation Boost (Rank 2)"/>
+<label key="1879091363" value="Cry Resistance Boost (Rank 2)"/>
+<label key="1879091364" value="Tactical Resistance Boost (Rank 2)"/>
+<label key="1879091365" value="Physical Resistance Boost (Rank 2)"/>
+<label key="1879091366" value="Song Resistance Boost (Rank 2)"/>
+<label key="1879092949" value="Virtuous Man"/>
+<label key="1879092950" value="Virtuous Dwarf"/>
+<label key="1879092951" value="Virtuous Elf"/>
+<label key="1879092952" value="Virtuous Hobbit"/>
+<label key="1879093046" value="Track Artifacts"/>
+<label key="1879093481" value="Tracking Guide"/>
+<label key="1879097466" value="Bagpipe Use"/>
+<label key="1879097468" value="Basic Cowbell Use"/>
+<label key="1879097470" value="Moor Cowbell Use"/>
+<label key="1879101492" value="Friend of the Wild"/>
+<label key="1879101513" value="Bree-land Home"/>
+<label key="1879101514" value="Bree-land Home"/>
+<label key="1879101515" value="Bree-land Kinship Hall"/>
+<label key="1879101516" value="Falathlorn Home"/>
+<label key="1879101517" value="Falathlorn Home"/>
+<label key="1879101518" value="Falathlorn Kinship Hall"/>
+<label key="1879101519" value="Shire Home"/>
+<label key="1879101520" value="Shire Home"/>
+<label key="1879101521" value="Shire Kinship Hall"/>
+<label key="1879101522" value="Thorin’s Halls Home"/>
+<label key="1879101523" value="Thorin’s Halls Home"/>
+<label key="1879101524" value="Thorin’s Halls Kinship Hall"/>
+<label key="1879101614" value="Travel to Kinship House"/>
+<label key="1879101615" value="Travel to Personal House"/>
+<label key="1879101895" value="Novice Riding"/>
+<label key="key:620757613:191029568" value="You have an been acknowledged as someone who could one day influence the fate of Middle-Earth"/>
+<label key="key:620757613:54354734" value="You have been acknowledged as someone who could one day influence the fate of Middle-Earth"/>
+<label key="key:620758784:191029568" value="You are able to ride mounts."/>
+<label key="key:620758784:54354734" value="You are able to ride mounts."/>
+<label key="key:620759125:106251890" value="Line Bonus: Increases ${PROPERTY} by ${VALUE}."/>
+<label key="key:620759125:191029568" value="Increased Armour Debuff with Reveal Weakness"/>
+<label key="key:620759125:54354734" value="You are skilled at detecting even the smallest weaknesses in your enemy's armour when using your Reveal Weakness skill."/>
+<label key="key:620759129:106251890" value="Line Bonus: Increases ${PROPERTY} by ${PERCENTVALUE}."/>
+<label key="key:620759129:191029568" value="Increases the damage dealt by your off-hand weapon"/>
+<label key="key:620759129:54354734" value="You are able to wield your off-hand weapon more efficiently, dealing greater damage to your foes."/>
+<label key="key:620759159:191029568" value="This effect enables you to gain critical responses from both critical responses and evade combat events."/>
+<label key="key:620759159:54354734" value="Skills that are normally unlocked by scoring Critical Hits now also unlock when you successfully Evade an attack."/>
+<label key="key:620759185:191029568" value="After using your Double-edged Strike, you can make two attacks against your target."/>
+<label key="key:620759185:54354734" value="After using your Double-edged Strike, you can make two additional attacks against your target."/>
+<label key="key:620759199:106251890" value="Decreases Trip reset time by ${VALUE} Seconds"/>
+<label key="key:620759199:191029568" value="Trip no longer breaks stealth and it reduces it's cooldown by 40 seconds."/>
+<label key="key:620759199:54354734" value="Trip no longer breaks stealth and it reduces it's cooldown by 40 seconds."/>
+<label key="key:620759210:191029568" value="After using your Double-edged Strike, you spy an opening and seize it doing high damage and having a chance of knocking your opposition into a conjuction state."/>
+<label key="key:620759210:54354734" value="After using your Double-edged Strike, you make an additional attack, inflicting high damage, with a chance of initiating an opportunity to execute Fellowship skills against the enemy."/>
+<label key="key:620759231:106251889" value="The Loyalty and stalwart nature of your pets know no bounds."/>
+<label key="key:620759231:191029568" value="Your pets have higher Morale and increased offensive and defensive capabilities. You must resummon the pet for this to take effect."/>
+<label key="key:620759231:54354734" value="Your companions have better morale, attack increase, raised critical chances, increased stealth detection, increased stealth and greater defensive capabilties. You must resummon the companion for this to take effect."/>
+<label key="key:620759242:191029568" value="Only the Eldar and Wizards rival your knowledge of nature, this skill enables you to bring down the wrath of the natural world on your foes."/>
+<label key="key:620759242:54354734" value="Only the Eldar and Wizards rival your knowledge of nature. You are able to bring down the wrath of the natural world upon your foes."/>
+<label key="key:620759255:191029568" value="You are a friend of the eagles and may now summon one to aid you."/>
+<label key="key:620759255:54354734" value="You are a friend of the Eagles and may summon one to aid you."/>
+<label key="key:620759328:106251890" value="Line Bonus: ${PROPERTY} increased ${PERCENTVALUE}"/>
+<label key="key:620759328:106251891" value="Line Bonus: ${PROPERTY} increased ${PERCENTVALUE}"/>
+<label key="key:620759328:191029568" value="Your fire-based skills are more damaging."/>
+<label key="key:620759328:54354734" value="Your fire-based skills inflict 10% greater damage."/>
+<label key="key:620759337:106251890" value="Line Bonus: ${PERCENTVALUE} power costs of all sign skills"/>
+<label key="key:620759337:191029568" value="You are able to summon a more powerful bear."/>
+<label key="key:620759337:54354734" value="The Power of your bear-friend is increased."/>
+<label key="key:620759381:106251891" value="Line Bonus: ${PROPERTY} reduced ${VALUE}s"/>
+<label key="key:620759381:106251892" value="Line Bonus: ${PROPERTY} reduced ${VALUE}s"/>
+<label key="key:620759381:191029568" value="Gain a Focus (Aim) Pip every 10 seconds while in Precision Stance"/>
+<label key="key:620759381:54354734" value="Your Focus increases by 1 every 10 seconds while you are in a Precision Stance."/>
+<label key="key:620759384:106251891" value="Line Bonus: ${PROPERTY} reduced ${VALUE}s"/>
+<label key="key:620759384:106251892" value="Line Bonus: ${PROPERTY} reduced ${VALUE}s"/>
+<label key="key:620759384:191029568" value="Reduced Induction Time for Barbed Arrow &amp; Swift Arrow"/>
+<label key="key:620759384:54354734" value="You are able to release your Barbed Arrow and Swift Bow more quickly."/>
+<label key="key:620759397:191029568" value="Acts as a power heal for each Bow Shot."/>
+<label key="key:620759397:54354734" value="The righteousness of your cause allows you to recover Power with each successful ranged attack."/>
+<label key="key:620759410:191029568" value="You fire with the skill of Bard himself driving fear into evil enemies."/>
+<label key="key:620759410:54354734" value="You attack with the skill of Bard the Bowman himself, driving fear into your enemies."/>
+<label key="key:620759425:191029568" value="When the need is high, a hunter can pack up and move on with little rest, restoring your power and morale."/>
+<label key="key:620759425:54354734" value="When the need is great, you can move on with little rest, restoring your Power and Morale."/>
+<label key="key:620759439:191029568" value="You rain five thorn arrows down upon your enemies, allowing you to pin multiple targets."/>
+<label key="key:620759439:54354734" value="You rain 5 thorn-arrows down upon your enemies, allowing you to root multiple targets."/>
+<label key="key:620759616:191029568" value="The ways of the elder age are not lost to all races yet, you may bring new inspiration to those whose morale has been entirely depleted, reviving a defeated target in combat."/>
+<label key="key:620759616:54354734" value="The ways of the elder ages are not lost to all races yet. You may bring new inspiration to those whose Morale has been entirely depleted, reviving a defeated ally in combat."/>
+<label key="key:620759629:191029568" value="This song enables you to temporarily reduce the dread of an area for sixty seconds."/>
+<label key="key:620759629:54354734" value="This Song enables you to temporarily reduce the Dread of an area for a short time."/>
+<label key="key:620759642:191029568" value="This skill calls upon song to blast your enemies with an area-of-effect of light that will slow the creatures who are hit by it, you have a short window after playing a tier 3 song to play one of these, and it will reset your ballad counter back to start."/>
+<label key="key:620759642:54354734" value="This Anthem allows you to blast your enemies with an area-of-effect of light that slows enemies who are affected by it. You have a short window after playing a tier 3 song to play Anthem, which will reset your Ballad counter to the beginning."/>
+<label key="key:620759684:106251890" value="Line Bonus: ${PROPERTY} ${VALUE}"/>
+<label key="key:620759684:191029568" value="Increases the duration of your Anthems that use duration effects"/>
+<label key="key:620759684:54354734" value="The duration of your Anthems is increased by 15 seconds."/>
+<label key="key:620759687:106251890" value="Line Bonus: ${PROPERTY} ${VALUE}"/>
+<label key="key:620759687:191029568" value="You can use Medium Armour."/>
+<label key="key:620759687:54354734" value="You are able to wear medium armour."/>
+<label key="key:620759750:191029568" value="Your Escape from Darkness ability is greatly improved and your Cry of Vengeance will revive one additional ally."/>
+<label key="key:620759750:54354734" value="Your Escape from Darkness ability is greatly improved and your Cry of Vengeance will revive one additional ally."/>
+<label key="key:620759765:191029568" value="Your voice calls upon the will of the Dunedain protecting a companion but at the cost of half your power."/>
+<label key="key:620759765:54354734" value="You are able to protect a companion, but at the cost of half your Power."/>
+<label key="key:620759778:191029568" value="You levy a curse on your foe which increases the damage you can do to the creature."/>
+<label key="key:620759778:54354734" value="You levy a curse upon your foe which increases the damage you can do to it."/>
+<label key="key:620759791:191029568" value="Your very presence inspires those around you to perform better in combat."/>
+<label key="key:620759791:54354734" value="Your very presence inspires those around you to perform greater deeds in battle."/>
+<label key="key:620759813:106251890" value="Line Bonus: +${PERCENTVALUE} ${PROPERTY}"/>
+<label key="key:620759813:191029568" value="Increases the duration of Last Stand, and you are healed at the end"/>
+<label key="key:620759813:54354734" value="Your Last Stand lasts longer, and you are healed when it ends."/>
+<label key="key:620759817:106251890" value="Line Bonus: +${PERCENTVALUE} ${PROPERTY}"/>
+<label key="key:620759817:191029568" value="Your Herald is better armoured."/>
+<label key="key:620759817:54354734" value="Your Herald wears stronger armour."/>
+<label key="key:620760756:191029568" value="You may pass the watching stones unmolested."/>
+<label key="key:620760756:54354734" value="You can shrug off the worst effects of the Fell Watching-stones' oppressive will."/>
+<label key="key:620761145:191029568" value="Tier 1 proficiency is Completed"/>
+<label key="key:620761145:54354734" value="Completes Tier 1 proficiency"/>
+<label key="key:620761146:191029568" value="Tier 1 mastery is Completed"/>
+<label key="key:620761146:54354734" value="Completes Tier 1 mastery"/>
+<label key="key:620761147:191029568" value="Tier 2 proficiency is Completed"/>
+<label key="key:620761147:54354734" value="Completes Tier 2 proficiency"/>
+<label key="key:620761148:191029568" value="Tier 2 mastery is Completed"/>
+<label key="key:620761148:54354734" value="Completes Tier 2 mastery"/>
+<label key="key:620761149:191029568" value="Tier 3 proficiency is Completed"/>
+<label key="key:620761149:54354734" value="Completes Tier 3 proficiency"/>
+<label key="key:620761150:191029568" value="Tier 3 mastery is Completed"/>
+<label key="key:620761150:54354734" value="Completes Tier 3 mastery"/>
+<label key="key:620761151:191029568" value="Tier 4 proficiency is Completed"/>
+<label key="key:620761151:54354734" value="Completes Tier 4 proficiency"/>
+<label key="key:620761152:191029568" value="Tier 4 mastery is Completed"/>
+<label key="key:620761152:54354734" value="Completes Tier 4 mastery"/>
+<label key="key:620761153:191029568" value="Tier 5 proficiency is Completed"/>
+<label key="key:620761153:54354734" value="Completes Tier 5 proficiency"/>
+<label key="key:620761154:191029568" value="Tier 5 mastery is Completed"/>
+<label key="key:620761154:54354734" value="Completes Tier 5 mastery"/>
+<label key="key:620761282:191029568" value="Tier 1 proficiency is Completed"/>
+<label key="key:620761282:54354734" value="Completes Tier 1 proficiency"/>
+<label key="key:620761283:191029568" value="Tier 1 mastery is Completed"/>
+<label key="key:620761283:54354734" value="Completes Tier 1 mastery"/>
+<label key="key:620761284:191029568" value="Tier 2 proficiency is Completed"/>
+<label key="key:620761284:54354734" value="Completes Tier 2 proficiency"/>
+<label key="key:620761285:191029568" value="Tier 2 mastery is Completed"/>
+<label key="key:620761285:54354734" value="Completes Tier 2 mastery"/>
+<label key="key:620761286:191029568" value="Tier 3 proficiency is Completed"/>
+<label key="key:620761286:54354734" value="Completes Tier 3 proficiency"/>
+<label key="key:620761287:191029568" value="Tier 3 mastery is Completed"/>
+<label key="key:620761287:54354734" value="Completes Tier 3 mastery"/>
+<label key="key:620761288:191029568" value="Tier 4 proficiency is Completed"/>
+<label key="key:620761288:54354734" value="Completes Tier 4 proficiency"/>
+<label key="key:620761289:191029568" value="Tier 4 mastery is Completed"/>
+<label key="key:620761289:54354734" value="Completes Tier 4 mastery"/>
+<label key="key:620761290:191029568" value="Tier 5 proficiency is Completed"/>
+<label key="key:620761290:54354734" value="Completes Tier 5 proficiency"/>
+<label key="key:620761291:191029568" value="Tier 5 mastery is Completed"/>
+<label key="key:620761291:54354734" value="Completes Tier 5 mastery"/>
+<label key="key:620761413:191029568" value="Tier 1 proficiency is Completed"/>
+<label key="key:620761413:54354734" value="Completes Tier 1 proficiency"/>
+<label key="key:620761414:191029568" value="Tier 1 mastery is Completed"/>
+<label key="key:620761414:54354734" value="Completes Tier 1 mastery"/>
+<label key="key:620761415:191029568" value="Tier 2 proficiency is Completed"/>
+<label key="key:620761415:54354734" value="Completes Tier 2 proficiency"/>
+<label key="key:620761416:191029568" value="Tier 2 mastery is Completed"/>
+<label key="key:620761416:54354734" value="Completes Tier 2 mastery"/>
+<label key="key:620761417:191029568" value="Tier 3 proficiency is Completed"/>
+<label key="key:620761417:54354734" value="Completes Tier 3 proficiency"/>
+<label key="key:620761418:191029568" value="Tier 3 mastery is Completed"/>
+<label key="key:620761418:54354734" value="Completes Tier 3 mastery"/>
+<label key="key:620761419:191029568" value="Tier 4 proficiency is Completed"/>
+<label key="key:620761419:54354734" value="Completes Tier 4 proficiency"/>
+<label key="key:620761420:191029568" value="Tier 4 mastery is Completed"/>
+<label key="key:620761420:54354734" value="Completes Tier 4 mastery"/>
+<label key="key:620761421:191029568" value="Tier 5 proficiency is Completed"/>
+<label key="key:620761421:54354734" value="Completes Tier 5 proficiency"/>
+<label key="key:620761422:191029568" value="Tier 5 mastery is Completed"/>
+<label key="key:620761422:54354734" value="Completes Tier 5 mastery"/>
+<label key="key:620761635:191029568" value="Tier 1 proficiency is Completed"/>
+<label key="key:620761635:54354734" value="Completes Tier 1 proficiency"/>
+<label key="key:620761636:191029568" value="Tier 1 mastery is Completed"/>
+<label key="key:620761636:54354734" value="Completes Tier 1 mastery"/>
+<label key="key:620761637:191029568" value="Tier 2 proficiency is Completed"/>
+<label key="key:620761637:54354734" value="Completes Tier 2 proficiency"/>
+<label key="key:620761638:191029568" value="Tier 2 mastery is Completed"/>
+<label key="key:620761638:54354734" value="Completes Tier 2 mastery"/>
+<label key="key:620761639:191029568" value="Tier 3 proficiency is Completed"/>
+<label key="key:620761639:54354734" value="Completes Tier 3 proficiency"/>
+<label key="key:620761640:191029568" value="Tier 3 mastery is Completed"/>
+<label key="key:620761640:54354734" value="Completes Tier 3 mastery"/>
+<label key="key:620761641:191029568" value="Tier 4 proficiency is Completed"/>
+<label key="key:620761641:54354734" value="Completes Tier 4 proficiency"/>
+<label key="key:620761642:191029568" value="Tier 4 mastery is Completed"/>
+<label key="key:620761642:54354734" value="Completes Tier 4 mastery"/>
+<label key="key:620761643:191029568" value="Tier 5 proficiency is Completed"/>
+<label key="key:620761643:54354734" value="Completes Tier 5 proficiency"/>
+<label key="key:620761644:191029568" value="Tier 5 mastery is Completed"/>
+<label key="key:620761644:54354734" value="Completes Tier 5 mastery"/>
+<label key="key:620761773:191029568" value="Tier 1 proficiency is Completed"/>
+<label key="key:620761773:54354734" value="Completes Tier 1 proficiency"/>
+<label key="key:620761774:191029568" value="Tier 1 mastery is Completed"/>
+<label key="key:620761774:54354734" value="Completes Tier 1 mastery"/>
+<label key="key:620761775:191029568" value="Tier 2 proficiency is Completed"/>
+<label key="key:620761775:54354734" value="Completes Tier 2 proficiency"/>
+<label key="key:620761776:191029568" value="Tier 2 mastery is Completed"/>
+<label key="key:620761776:54354734" value="Completes Tier 2 mastery"/>
+<label key="key:620761777:191029568" value="Tier 3 proficiency is Completed"/>
+<label key="key:620761777:54354734" value="Completes Tier 3 proficiency"/>
+<label key="key:620761778:191029568" value="Tier 3 mastery is Completed"/>
+<label key="key:620761778:54354734" value="Completes Tier 3 mastery"/>
+<label key="key:620761779:191029568" value="Tier 4 proficiency is Completed"/>
+<label key="key:620761779:54354734" value="Completes Tier 4 proficiency"/>
+<label key="key:620761780:191029568" value="Tier 4 mastery is Completed"/>
+<label key="key:620761780:54354734" value="Completes Tier 4 mastery"/>
+<label key="key:620761781:191029568" value="Tier 5 proficiency is Completed"/>
+<label key="key:620761781:54354734" value="Completes Tier 5 proficiency"/>
+<label key="key:620761782:191029568" value="Tier 5 mastery is Completed"/>
+<label key="key:620761782:54354734" value="Completes Tier 5 mastery"/>
+<label key="key:620761890:191029568" value="Tier 1 proficiency is Completed"/>
+<label key="key:620761890:54354734" value="Completes Tier 1 proficiency"/>
+<label key="key:620761891:191029568" value="Tier 1 mastery is Completed"/>
+<label key="key:620761891:54354734" value="Completes Tier 1 mastery"/>
+<label key="key:620761892:191029568" value="Tier 2 proficiency is Completed"/>
+<label key="key:620761892:54354734" value="Completes Tier 2 proficiency"/>
+<label key="key:620761893:191029568" value="Tier 2 mastery is Completed"/>
+<label key="key:620761893:54354734" value="Completes Tier 2 mastery"/>
+<label key="key:620761894:191029568" value="Tier 3 proficiency is Completed"/>
+<label key="key:620761894:54354734" value="Completes Tier 3 proficiency"/>
+<label key="key:620761895:191029568" value="Tier 3 mastery is Completed"/>
+<label key="key:620761895:54354734" value="Completes Tier 3 mastery"/>
+<label key="key:620761896:191029568" value="Tier 4 proficiency is Completed"/>
+<label key="key:620761896:54354734" value="Completes Tier 4 proficiency"/>
+<label key="key:620761897:191029568" value="Tier 4 mastery is Completed"/>
+<label key="key:620761897:54354734" value="Completes Tier 4 mastery"/>
+<label key="key:620761898:191029568" value="Tier 5 proficiency is Completed"/>
+<label key="key:620761898:54354734" value="Completes Tier 5 proficiency"/>
+<label key="key:620761899:191029568" value="Tier 5 mastery is Completed"/>
+<label key="key:620761899:54354734" value="Completes Tier 5 mastery"/>
+<label key="key:620761954:191029568" value="Enables the Hunter to apply Fire Oil to their arrows."/>
+<label key="key:620761954:54354734" value="Enables hunters to apply fire-oil to their arrows."/>
+<label key="key:620761960:191029568" value="Enables the Hunter to apply Light Oil to their arrows."/>
+<label key="key:620761960:54354734" value="Enables hunters to apply light-oil to their arrows."/>
+<label key="key:620764878:191029568" value="An aggressive triple attack that engenders threat."/>
+<label key="key:620764878:54354734" value="You make an aggressive triple attack that draws the enemy's attention to yourself."/>
+<label key="key:620764890:191029568" value="A Cry of Defiance that robs the monsters of their ability to use power and gives it to you."/>
+<label key="key:620764890:54354734" value="A cry of defiance that robs enemies of their ability to use Power and transfers it to you."/>
+<label key="key:620764902:191029568" value="A full area-of-effect attack of a huge magnitude but comes at the cost of threat."/>
+<label key="key:620764902:54354734" value="A full area-of-effect attack that inflicts huge damage, while drawing the attention of your enemies to yourself."/>
+<label key="key:620764914:191029568" value="Increases damage and Power regeneration."/>
+<label key="key:620764914:54354734" value="Your damage and Power recovery are increased."/>
+<label key="key:620764938:106251890" value="Line Bonus: Increases ${PROPERTY} by ${VALUE}."/>
+<label key="key:620764938:191029568" value="Allow wielding of Heavy Shields and will lessen the effects of your fervour penalty."/>
+<label key="key:620764938:54354734" value="You have the ability to wield heavy shields."/>
+<label key="key:620764941:106251890" value="Line Bonus: Increases ${PROPERTY} by ${PERCENTVALUE}."/>
+<label key="key:620764941:191029568" value="Increases the critical damage chance of Wild Attack, Savage Strikes, and Brutal Strikes. Fervour also adds an extra bonus to damage."/>
+<label key="key:620764941:54354734" value="Your chance of scoring a Critical Hit is increased for: Brutal, Ferocious, Merciful, Relentless and Savage Strike."/>
+<label key="key:620764946:191029568" value="Allows the usage of Runes."/>
+<label key="key:620764946:54354734" value="Allows the use of Runes."/>
+<label key="key:620765159:106251890" value="Line Bonus: Your parry  response effect lasts an additional 3 sec."/>
+<label key="key:620765159:191029568" value="You regenerate some of your power whenver you parry and incoming attack."/>
+<label key="key:620765159:54354734" value="You recover some of your Power whenever you parry an incoming attack."/>
+<label key="key:620765162:106251890" value="Line Bonus: Your block response effect lasts an additional 3 sec."/>
+<label key="key:620765162:191029568" value="You regenerate some of your power whenver you block and incoming attack."/>
+<label key="key:620765162:54354734" value="You recover some of your Power whenever you block an incoming attack."/>
+<label key="key:620765171:191029568" value="Shield Spike Use"/>
+<label key="key:620765171:54354734" value="Allows the use of shield-spikes"/>
+<label key="key:620765186:191029568" value="You are able to make a powerful attack against an enemy who has suffered from Overwhelm or Shiv, potentially knocking him down."/>
+<label key="key:620765186:54354734" value="You are able to make a powerful attack against an enemy who has suffered from Overwhelm or Thrust, potentially knocking it down."/>
+<label key="key:620765206:191029568" value="After a successful Shield Bash or Shield Taunt, you may bash him again with your shield for greater damage. This skill generates additional threat"/>
+<label key="key:620765206:54354734" value="After a successful Shield-bash or Shield-taunt, you may bash your enemy again with your shield for greater damage. This skill more effectively draws your enemy's attention to yourself."/>
+<label key="key:620765218:191029568" value="You focus yourself on enraging your enemies."/>
+<label key="key:620765218:54354734" value="You focus yourself on enraging your enemies."/>
+<label key="key:620765230:191029568" value="You know how to goad your enemies into attacking you, leaving your allies free to maneuver. This skill generates additional threat and forces nearby opponents to attack you as well as raising guardians ward."/>
+<label key="key:620765230:54354734" value="You know how to goad your enemies into attacking you, leaving your allies free to maneuver. This skill also activates your Guardian's Ward."/>
+<label key="key:620765352:106251890" value="Line Bonus: Mark Skills Reset Timer is reduced ${VALUE} a second."/>
+<label key="key:620765352:191029568" value="Improves the effects of your Banner of Victory"/>
+<label key="key:620765352:54354734" value="The Power-enhancing effects provided by your Herald of Victory are more effective."/>
+<label key="key:620765357:191029568" value="Those that serve the forces of the ring, are beginning to seek conflict with you directly, lest you foil their schemes."/>
+<label key="key:620765357:54354734" value="Those that serve the Dark Lord of Mordor are beginning to seek conflict with you directly, lest you foil their schemes."/>
+<label key="key:620765358:191029568" value="As a hardy warrior of Middle-Earth, you have seen much conflict."/>
+<label key="key:620765358:54354734" value="As a hardy warrior of Middle-Earth, you have seen much conflict."/>
+<label key="key:620765359:191029568" value="The road to saving Middle-Earth is long, but you are already walking it."/>
+<label key="key:620765359:54354734" value="The road to saving Middle-Earth is long, but you are already walking it."/>
+<label key="key:620765392:106251890" value="Line Bonus: ${PROPERTY} +${VALUE}"/>
+<label key="key:620765392:191029568" value="Allies renewed by Escape From Darkness will return with full Morale and more Power."/>
+<label key="key:620765392:54354734" value="Allies revived by Escape From Darkness will return with full Morale and more Power."/>
+<label key="key:620765399:106251890" value="Line Bonus: ${PROPERTY} +${VALUE}"/>
+<label key="key:620765399:191029568" value="Rallying Cry will heal a small amount of power as well"/>
+<label key="key:620765399:54354734" value="Your Rallying Cry will also heal a small amount of power, in addition to its normal effects."/>
+<label key="key:620765406:106251890" value="Line Bonus: Mark Skills Reset Timer is reduced ${VALUE} a second."/>
+<label key="key:620765406:191029568" value="Increases the attack speed buff of War-cry"/>
+<label key="key:620765406:54354734" value="Your War-cry encourages your allies to attack with even greater speed."/>
+<label key="key:620765412:106251890" value="Line Bonus: ${PROPERTY} +${VALUE}"/>
+<label key="key:620765412:191029568" value="Your routing cry does more damage and will apply a stun to everyone it effects"/>
+<label key="key:620765412:54354734" value="Your Routing Cry now stuns your foes and inflicts more damage."/>
+<label key="key:620765416:106251889" value="Battle Shout now recovers ${VALUE} seconds faster."/>
+<label key="key:620765416:106251890" value="Line Bonus: ${PROPERTY} +${VALUE}"/>
+<label key="key:620765416:191029568" value="Your Battle-shout recovers more quickly than before."/>
+<label key="key:620765416:54354734" value="Your Battle-shout recovers more quickly than before."/>
+<label key="key:620765425:106251890" value="Line Bonus: +${PERCENTVALUE} ${PROPERTY}"/>
+<label key="key:620765425:191029568" value="Reduces your Miss Chance Modifier"/>
+<label key="key:620765425:54354734" value="Your skill with arms reduces the chance that your attacks will miss."/>
+<label key="key:620765429:106251890" value="Line Bonus: Mark Skills Reset Timer is reduced ${VALUE} a second."/>
+<label key="key:620765429:191029568" value="Improves the effects of your Banner of War"/>
+<label key="key:620765429:54354734" value="The Might and Agility increases provided by your Herald of War are more effective."/>
+<label key="key:620765459:106251890" value="Line Bonus: ${PROPERTY} +${VALUE}"/>
+<label key="key:620765459:191029568" value="Your Words of Courage will heal more"/>
+<label key="key:620765459:54354734" value="Your Words of Courage greatly increases the morale of your allies."/>
+<label key="key:620765465:106251890" value="Line Bonus: ${PROPERTY} +${VALUE}"/>
+<label key="key:620765465:191029568" value="Reduces the power cost of your Cries and Shouts"/>
+<label key="key:620765465:54354734" value="The power costs of your Cries and Shouts are reduced."/>
+<label key="key:620765476:106251890" value="Line Bonus: Mark Skills Reset Timer is reduced ${VALUE} a second."/>
+<label key="key:620765476:191029568" value="Improves the effects of your Banner of Hope"/>
+<label key="key:620765476:54354734" value="The Morale-enhancing effects provided by your Herald of Hope are more effective."/>
+<label key="key:620765507:106251890" value="Line Bonus: ${PROPERTY} +${VALUE}"/>
+<label key="key:620765507:191029568" value="Increases chance to crit w/ Devastating Blow and Pressing Attack"/>
+<label key="key:620765507:54354734" value="You have a greater chance of landing a Critical Hit with your Devastating Blow and Pressing Attack."/>
+<label key="key:620765511:106251890" value="Line Bonus: ${PROPERTY} +${VALUE}"/>
+<label key="key:620765511:191029568" value="Increases the threat generated by your Threatening Shout"/>
+<label key="key:620765511:54354734" value="Your Threatening Shout more strongly directs the enemy's ire towards you."/>
+<label key="key:620765515:106251890" value="Line Bonus: +${PERCENTVALUE} ${PROPERTY}"/>
+<label key="key:620765515:191029568" value="Reduces the threat generated by your Cries and Heals"/>
+<label key="key:620765515:54354734" value="Your Cries and healing skills draw less attention from your enemies."/>
+<label key="key:620765562:106251890" value="Line Bonus: Increases ${PROPERTY} by ${VALUE}."/>
+<label key="key:620765562:191029568" value="Your Flurry will last an additional 10 seconds and speed you up an extra 5%. Your total Might is also increased."/>
+<label key="key:620765562:54354734" value="Your Flurry lasts longer and your attack speed is increased."/>
+<label key="key:620765566:106251890" value="Line Bonus: Increases ${PROPERTY} by ${VALUE}."/>
+<label key="key:620765566:191029568" value="Your Swift Strike skill now generates a fervour pip on a successful attack. Your total Might is also increased."/>
+<label key="key:620765566:54354734" value="Your Swift Strike skill generates 1 additional Fervour on Critical Hits."/>
+<label key="key:620765571:106251890" value="Line Bonus: Increases ${PROPERTY} by ${PERCENTVALUE}."/>
+<label key="key:620765571:191029568" value="Increases the critical damage multiplier of Wild Attack, Savage Strikes, and Brutal Strikes. Fervour also adds an extra bonus to damage."/>
+<label key="key:620765571:54354734" value="Your damage multiplier for scoring Critical Hits is increased for: Brutal, Ferocious, Merciful, Relentless and Savage Strike."/>
+<label key="key:620765586:106251890" value="Line Bonus: Increases ${PROPERTY} by ${PERCENTVALUE}."/>
+<label key="key:620765586:191029568" value="Your Blade-storm attacks now can effect up to ten targets.  Blade-wall and Blade-storm will also do more damage."/>
+<label key="key:620765586:54354734" value="Your Blade-storm now affects up to 10 targets."/>
+<label key="key:620765588:106251890" value="Line Bonus: Increases ${PROPERTY} by ${PERCENTVALUE}."/>
+<label key="key:620765588:191029568" value="Your Bracing attack provides additional morale for yourself increasing a small amount for each enemy around you. Blade-wall and Blade-storm also do more damage."/>
+<label key="key:620765588:54354734" value="Your Bracing attack provides additional morale for yourself increasing a small amount for each enemy around you."/>
+<label key="key:620765592:106251890" value="Line Bonus: Increases ${PROPERTY} by ${PERCENTVALUE}."/>
+<label key="key:620765592:191029568" value="Your Wild Attack will generate a fervour pip on a critical. Fervour also adds an extra bonus to damage."/>
+<label key="key:620765592:54354734" value="Your Wild Attack now generates 1 additional Fervour after a Critical Hit."/>
+<label key="key:620765595:106251890" value="Line Bonus: Increases ${PROPERTY} by ${VALUE}."/>
+<label key="key:620765595:191029568" value="Your Wild Attack generates additional threat and will lessen the effects of your fervour penalty."/>
+<label key="key:620765595:54354734" value="Your Wild Attack more effectively draws your enemy's attention to yourself."/>
+<label key="key:620765602:106251890" value="Line Bonus: Increases ${PROPERTY} by ${PERCENTVALUE}."/>
+<label key="key:620765602:191029568" value="Your Blade-wall skill will generate a fervour pip on a succesful attack. Blade-wall and Blade-storm will also do more damage."/>
+<label key="key:620765602:54354734" value="Your Blade-wall skill generates 1 Fervour for every succesful attack."/>
+<label key="key:620765606:106251890" value="Line Bonus: Increases ${PROPERTY} by ${PERCENTVALUE}."/>
+<label key="key:620765606:191029568" value="On a critical attack Wild Attack, Savage Strikes, and Brutal Strikes will apply an additional bleed. Fervour also adds an extra bonus to damage."/>
+<label key="key:620765606:54354734" value="On a Critical Hit, the following skills will now apply a bleed: Brutal, Ferocious, Merciful, Relentless and Savage Strike"/>
+<label key="key:620765610:106251890" value="Line Bonus: Increases ${PROPERTY} by ${VALUE}."/>
+<label key="key:620765610:191029568" value="Your base block rate is increasd and will lessen the effects of your fervour penalty."/>
+<label key="key:620765610:54354734" value="You are able to more effectively block attacks."/>
+<label key="key:620765612:106251890" value="Line Bonus: Increases ${PROPERTY} by ${PERCENTVALUE}."/>
+<label key="key:620765612:191029568" value="Your Blade-storm now requires only 3 pips to execute and costs only 3 pips. Blade-wall and Blade-storm will also do more damage."/>
+<label key="key:620765612:54354734" value="Your Blade-storm costs and requires only 3 Fervour to execute."/>
+<label key="key:620765614:106251890" value="Line Bonus: Increases ${PROPERTY} by ${VALUE}."/>
+<label key="key:620765614:191029568" value="Your Battle Frenzy now fill you fervour meter generating 5 pips. Your total Might is also increased."/>
+<label key="key:620765614:54354734" value="Your Battle Frenzy generates 5 Fervour, totally filling your Fervour meter."/>
+<label key="key:620765617:106251890" value="Line Bonus: Increases ${PROPERTY} by ${VALUE}."/>
+<label key="key:620765617:191029568" value="Your Dire Need skill now also increases fervour by 5 pips. Your total Might is also increased."/>
+<label key="key:620765617:54354734" value="Dire Need now increases your Fervour by 5 and recovers 5 minutes faster."/>
+<label key="key:620765621:106251890" value="Line Bonus: Increases ${PROPERTY} by ${VALUE}."/>
+<label key="key:620765621:191029568" value="Your Exchange of Blows procs more often, produces additional threat, and will lessen the effects of your fervour penalty."/>
+<label key="key:620765621:54354734" value="Your Exchange of Blows executes more often and more effectively draws your enemy's attention to yourself."/>
+<label key="key:620765632:106251889" value="-3.0 Sting Recovery Time"/>
+<label key="key:620765632:106251890" value="Line Bonus: Increases ${PROPERTY} by ${VALUE}."/>
+<label key="key:620765632:106251891" value="+10.0% Sting Damage"/>
+<label key="key:620765632:191029568" value="Sting resets more quickly and does more damage. Your base Might is also increased."/>
+<label key="key:620765632:54354734" value="You attack more quickly with your Sting skill, inflicting greater damage."/>
+<label key="key:620765635:106251890" value="Line Bonus: Increases ${PROPERTY} by ${VALUE}."/>
+<label key="key:620765635:191029568" value="Damage your attacker whenever you block an incoming attack. Your base Might is also increased."/>
+<label key="key:620765635:54354734" value="You damage your attacker whenever you block an incoming attack."/>
+<label key="key:620765640:106251890" value="Line Bonus: Skills add additional threat"/>
+<label key="key:620765640:191029568" value="Your Guardian's Ward also increases your natrual damage mitigation. All of your special attacks generate additional threat as well."/>
+<label key="key:620765640:54354734" value="Your Guardian's Ward increases your common damage mitigation."/>
+<label key="key:620765645:106251890" value="Line Bonus: Skills add additional threat"/>
+<label key="key:620765645:191029568" value="Increases the Block Rate &amp; Mitigation boost provided by your shield. All of your special attacks generate additional threat as well."/>
+<label key="key:620765645:54354734" value="You use your shield more efficiently, blocking more and reducing the damage dealt to you."/>
+<label key="key:620765657:106251890" value="Line Bonus: Increases ${PROPERTY} by ${VALUE}."/>
+<label key="key:620765657:191029568" value="Your Catch a Breath skill heals additional morale and also heals power. Your base Vitality is also increased."/>
+<label key="key:620765657:54354734" value="Your Catch a Breath skill heals additional Morale and also heals Power."/>
+<label key="key:620765666:106251890" value="Line Bonus: Increases ${PROPERTY} by ${VALUE}."/>
+<label key="key:620765666:191029568" value="Your Vexing Blow may hit up to two targets in a 90-degree arc and recovers faster. Your base Vitality is also increased."/>
+<label key="key:620765666:54354734" value="Vexing Blow can hit two additional targets in a 90-degree arc and recovers 1.5 seconds faster."/>
+<label key="key:620765670:106251890" value="Line Bonus: Increases ${PROPERTY} by ${VALUE}."/>
+<label key="key:620765670:191029568" value="Your base movement rate is increasted by 5%. Your vitality is also increased."/>
+<label key="key:620765670:54354734" value="You are able to move more quickly in and out of battle."/>
+<label key="key:620765674:106251890" value="Line Bonus: Increases ${PROPERTY} by ${VALUE}."/>
+<label key="key:620765674:191029568" value="Increases your base attack rate by 5%. Your base Might is also increased."/>
+<label key="key:620765674:54354734" value="Your attack speed is increased beyond your normal abilities."/>
+<label key="key:620765676:106251890" value="Line Bonus: Increases ${PROPERTY} by ${VALUE}."/>
+<label key="key:620765676:191029568" value="Your Challenge skills takes less time to reset. Your base Vitality is also increased."/>
+<label key="key:620765676:54354734" value="Your Challenge skill recovers 15 seconds quicker."/>
+<label key="key:620765679:106251890" value="Line Bonus: Skills add additional threat"/>
+<label key="key:620765679:191029568" value="Your Protection skill now reduces the threat generated by your target and increases threat generated by you. All of your special attacks generate additional threat as well."/>
+<label key="key:620765679:54354734" value="Your Protection skill makes your target less threatening."/>
+<label key="key:620765686:106251890" value="Line Bonus: Skills add additional threat"/>
+<label key="key:620765686:191029568" value="Your base vitality and fate are increased. All of your special attacks generate additional threat as well."/>
+<label key="key:620765686:54354734" value="Your stoic nature increases your base Vitality and Fate."/>
+<label key="key:620765690:106251890" value="Line Bonus: Increases ${PROPERTY} by ${VALUE}."/>
+<label key="key:620765690:191029568" value="Deep Breath resets faster and lasts longer. Your base Might is also increased."/>
+<label key="key:620765690:54354734" value="Your strong lungs enable Deep Breath to recover 2.5 minutes quicker."/>
+<label key="key:620765694:106251890" value="Line Bonus: Your Shield Swipe response effect lasts an additional 3 sec."/>
+<label key="key:620765694:191029568" value="Warrior's Heart resets faster and opens up all your base reactionary skills."/>
+<label key="key:620765694:54354734" value="Warrior's Heart recovers 90 seconds quicker and allows you to use your reactive skills."/>
+<label key="key:620765700:106251890" value="Line Bonus: Your Retaliation response effect lasts an additional 3 sec."/>
+<label key="key:620765700:191029568" value="Thrill of Danger resets faster and opens up all your base reactionary skills."/>
+<label key="key:620765700:54354734" value="Thrill of Danger recovers 2 minutes quicker and allows you to use your reactive skills."/>
+<label key="key:620765706:106251890" value="Line Bonus: ${PERCENTVALUE} ${PROPERTY}"/>
+<label key="key:620765706:191029568" value="Decreased chance for monsters to break free of your trap on damage"/>
+<label key="key:620765706:54354734" value="It is more difficult for enemies to break free of your traps."/>
+<label key="key:620765717:106251890" value="Line Bonus: ${PERCENTVALUE} ${PROPERTY}"/>
+<label key="key:620765717:191029568" value="Reduced Recovery Time of all melee skills"/>
+<label key="key:620765717:54354734" value="All of your melee skills recover more quickly than before."/>
+<label key="key:620765719:106251891" value="Line Bonus: ${PROPERTY} increased ${PERCENTVALUE}"/>
+<label key="key:620765719:191029568" value="Increased Magnitude of Barbed Arrow DOT"/>
+<label key="key:620765719:54354734" value="Wounds caused by your Barbed Arrow bleed more profusely."/>
+<label key="key:620765721:106251891" value="Line Bonus: ${PROPERTY} increased ${PERCENTVALUE}"/>
+<label key="key:620765721:191029568" value="Increased Damage with Swift Bow"/>
+<label key="key:620765721:54354734" value="Your Swift Bow inflicts greater damage to your enemies."/>
+<label key="key:620765723:106251891" value="Line Bonus: ${PROPERTY} increased by ${VALUE}"/>
+<label key="key:620765723:191029568" value="Penetrating Shot costs one less Focus (Aim) Pip"/>
+<label key="key:620765723:54354734" value="The Focus cost for your Penetrating Shot is reduced by 1."/>
+<label key="key:620765725:106251890" value="Line Bonus: ${PERCENTVALUE} ${PROPERTY}"/>
+<label key="key:620765725:191029568" value="Increased Tracking range, Track stealthed monsters, Increased overall stealth detection"/>
+<label key="key:620765725:54354734" value="Your exceptional senses allow you to track creatures over a greater distance, even if they are using Stealth, and to more easily detect creatures using Stealth."/>
+<label key="key:620765733:106251891" value="Line Bonus: ${PROPERTY} increased ${PERCENTVALUE}"/>
+<label key="key:620765733:191029568" value="Rain of Arrows now criticals more often"/>
+<label key="key:620765733:54354734" value="You have a greater chance of landing Critical Hits with your Rain of Arrows, and the Critical Hits do more damage."/>
+<label key="key:620765737:106251891" value="Line Bonus: ${PROPERTY} increased by ${VALUE}"/>
+<label key="key:620765737:191029568" value="Rain of Arrows costs one less Focus (Aim) Pip"/>
+<label key="key:620765737:54354734" value="The Focus cost for your Rain of Arrows is reduced by 1."/>
+<label key="key:620765739:106251891" value="Line Bonus: ${PROPERTY} increased by ${VALUE}"/>
+<label key="key:620765739:191029568" value="Intent Concentration also restores some Power"/>
+<label key="key:620765739:54354734" value="Your Intent Concentration also restores some Power, in addition to its normal effects."/>
+<label key="key:620765744:106251891" value="Line Bonus: ${PROPERTY} reduced ${VALUE}s"/>
+<label key="key:620765744:106251892" value="Line Bonus: ${PROPERTY} reduced ${VALUE}s"/>
+<label key="key:620765744:191029568" value="Ranged Critical Hits increase your Focus (Aim) by one Pip"/>
+<label key="key:620765744:54354734" value="When you land a Critical Hit with a ranged attack, your Focus increases by 1."/>
+<label key="key:620765748:106251891" value="Line Bonus: ${PROPERTY} increased ${PERCENTVALUE}"/>
+<label key="key:620765748:191029568" value="Penetrating Shot Bypasses More Mitigation"/>
+<label key="key:620765748:54354734" value="Your Penetrating Shot pierces more deeply through your enemy's armour, ignoring more of the armour's damage reduction."/>
+<label key="key:620765750:106251891" value="Line Bonus: ${PROPERTY} increased by ${VALUE}"/>
+<label key="key:620765750:191029568" value="Endurance Stance further reduces Power Cost of: Barbed Arrow, Penetrating Shot, Merciful Shot, Swift Bow, Rain of Arrows and Quick Shot."/>
+<label key="key:620765750:54354734" value="Your Endurance Stance further reduces the Power cost and threat generation of your ranged skills."/>
+<label key="key:620765752:106251890" value="Line Bonus: ${PERCENTVALUE} ${PROPERTY}"/>
+<label key="key:620765752:191029568" value="Beneath Notice further lowers threat"/>
+<label key="key:620765752:54354734" value="Beneath Notice lasts 10 seconds longer and draws even less attention from your enemies."/>
+<label key="key:620765758:106251889" value="Reduces recovery time by ${VALUE}s."/>
+<label key="key:620765758:106251891" value="Line Bonus: ${PROPERTY} reduced ${VALUE}s"/>
+<label key="key:620765758:106251892" value="Line Bonus: ${PROPERTY} reduced ${VALUE}s"/>
+<label key="key:620765758:191029568" value="Reduced Recovery Time for Needful Haste and Intent Concentration"/>
+<label key="key:620765758:54354734" value="Your Needful Haste and Intent Concentration recover more quickly."/>
+<label key="key:620765783:106251890" value="Morale Increased by ${PERCENTVALUE}"/>
+<label key="key:620765783:106251891" value="Line Bonus: ${PROPERTY} increased ${PERCENTVALUE}"/>
+<label key="key:620765783:191029568" value="You have a chance of stunning an enemy with power from your staff strike and increase your confidence and thus your overall morale."/>
+<label key="key:620765783:54354734" value="Staff Strike is more damaging, can stun opponents and will do bonus damage on flanked enemies.  Your training also makes you more confident in battle."/>
+<label key="key:620765789:106251890" value="Line Bonus: ${PROPERTY} increased ${PERCENTVALUE}"/>
+<label key="key:620765789:106251891" value="Line Bonus: ${PROPERTY} increased ${PERCENTVALUE}"/>
+<label key="key:620765789:191029568" value="This improves the effects of your Ancient Wisdom and enables you to use your Power of Knowledge skill for a longer period of time."/>
+<label key="key:620765789:54354734" value="This improves your Ancient Wisdom effect magnitude and enables you to use your Power of Knowledge skill for a longer period of time."/>
+<label key="key:620765798:106251889" value="-40.0% Morale Cost"/>
+<label key="key:620765798:106251891" value="Reduces Induction Time by ${VALUE} second."/>
+<label key="key:620765798:106251892" value="Line Bonus: ${PROPERTY} increased ${VALUE}"/>
+<label key="key:620765798:191029568" value="Your Beacon of Hope ability costs you less Morale."/>
+<label key="key:620765798:54354734" value="Beacon of Hope has a lower Morale cost, recovers faster and has a shorter cast time."/>
+<label key="key:620765803:106251889" value="-10.0% to Power Costs"/>
+<label key="key:620765803:106251890" value="+120.0 Second to Durations"/>
+<label key="key:620765803:106251891" value="Line Bonus: ${PERCENTVALUE} power costs of all sign skills"/>
+<label key="key:620765803:191029568" value="Your knowledge of the Signs of Animals gives you greater control over them, lessening the skill cost and enhancing their duration."/>
+<label key="key:620765803:54354734" value="Your knowledge of the Signs of the Wild gives you greater control over them, lessening their cost and enhancing their duration."/>
+<label key="key:620765807:106251889" value="${PROPERTY} increased to ${VALUE}"/>
+<label key="key:620765807:106251890" value="Line Bonus: ${PROPERTY} increased ${VALUE}"/>
+<label key="key:620765807:191029568" value="Your number of targets for Fire-lore, Wind-lore, and Herb-lore are increased."/>
+<label key="key:620765807:54354734" value="Your knowledge of herbs, fire, and wind are unmatched, increasing your ability to use them."/>
+<label key="key:620765809:106251890" value="Decreases Induction Time by +50.0%"/>
+<label key="key:620765809:106251892" value="Line Bonus: ${PROPERTY} increased ${PERCENTVALUE}"/>
+<label key="key:620765809:106251893" value="Line Bonus: ${PROPERTY} increased ${PERCENTVALUE}"/>
+<label key="key:620765809:191029568" value="The costs of your remedy skills and the time it takes to execute them are reduced. This includes Beacon of Hope, Tend the Sick, Leechcraft, Share the Power, and Inner Flame"/>
+<label key="key:620765809:54354734" value="You gain a number of bonuses to your healing and restorative skills."/>
+<label key="key:620765815:106251889" value="Your animals have increased health, increased power, attack faster and deal more damage."/>
+<label key="key:620765815:106251890" value="Line Bonus: ${PERCENTVALUE} power costs of all sign skills"/>
+<label key="key:620765815:191029568" value="The combat prowess of your pets is increased."/>
+<label key="key:620765815:54354734" value="The Combat Prowess of your companions are increased.  This includes, attack, defense, and stealth detection."/>
+<label key="key:620765822:106251890" value="Line Bonus: ${PERCENTVALUE} power costs of all sign skills"/>
+<label key="key:620765822:191029568" value="You gain bonuses to the Sign of Righteousness and Sign of Vigilance skills."/>
+<label key="key:620765822:54354734" value="You are well versed in the knowledge of the Dúnedain and their signs, allowing you to increase their duration and effectiveness.  This includes: Sign of Righteousness and Sign of Vigilance."/>
+<label key="key:620765824:106251890" value="Decreases Induction Time by +25.0%"/>
+<label key="key:620765824:106251891" value="Line Bonus: ${PROPERTY} increased ${PERCENTVALUE}"/>
+<label key="key:620765824:191029568" value="You gain a bonus to Power costs for overt displays of magical power. This includes Cracked Earth, Gust of Wind, Test of Will, Light of the Rising Dawn, and Ents go to War."/>
+<label key="key:620765824:54354734" value="Reduces power costs and the casting time of your overt displays of magical power.  This includes: Cracked Earth, Gust of Wind, Test of Will, Light of the Rising Dawn and Ents go to War."/>
+<label key="key:620765830:106251890" value="Line Bonus: ${PROPERTY} increased ${PERCENTVALUE}"/>
+<label key="key:620765830:191029568" value="The Morale costs of your overt displays of magical power are reduced. This includes Cracked Earth, Gust of Wind, Test of Will, Light of the Rising Dawn and Ents go to War."/>
+<label key="key:620765830:54354734" value="This gives you a reduction to the morale costs on overt displays of magical power.  This includes: Cracked Earth, Gust of Wind, Test of Will, Light of the Rising Dawn and Ents go to War."/>
+<label key="key:620765835:106251889" value="Decreased threat when using damaging skills"/>
+<label key="key:620765835:106251890" value="Line Bonus: ${PROPERTY} increased ${PERCENTVALUE}"/>
+<label key="key:620765835:191029568" value="You have a keen understanding of what it means to be a keeper of ancient lore in Middle-earth, often going unnoticed when you do choose to call upon your knowledge."/>
+<label key="key:620765835:54354734" value="You have a keen understanding of what it means to be a keeper of ancient lore in Middle-earth, often going unnoticed when you do choose to call upon your knowledge."/>
+<label key="key:620765840:106251890" value="Line Bonus: ${PROPERTY} increased ${PERCENTVALUE}"/>
+<label key="key:620765840:106251891" value="Line Bonus: ${PROPERTY} increased ${PERCENTVALUE}"/>
+<label key="key:620765840:191029568" value="Your Tend the Sick and Leechcraft skills can affect up to six targets."/>
+<label key="key:620765840:54354734" value="Your Tend the Sick and Leechcraft works on all allies within an area-of-effect.  This also enables Leechcraft to be used in combat."/>
+<label key="key:620765846:106251890" value="Line Bonus: ${PROPERTY} increased ${VALUE}"/>
+<label key="key:620765846:191029568" value="Your skills have a chance to restore a small amount of Power."/>
+<label key="key:620765846:54354734" value="All of your skills have a chance to restore a small amount of Power."/>
+<label key="key:620765855:106251890" value="Line Bonus: ${PROPERTY} increased ${VALUE}"/>
+<label key="key:620765855:191029568" value="Your magical abilities cost less Power. This includes Signs, Cracked Earth, Gust of Wind, Power of Knowledge, Share the Power, Light of the Rising Dawn, and Ents Go to War."/>
+<label key="key:620765855:54354734" value="All of your magical skills have a lower cost to your Power."/>
+<label key="key:620765874:106251890" value="Line Bonus: ${PROPERTY} ${VALUE}"/>
+<label key="key:620765874:191029568" value="Increased Duration of Tier 3 Ballads"/>
+<label key="key:620765874:54354734" value="The duration of your Ballads is increased by 10 seconds."/>
+<label key="key:620765878:106251890" value="Line Bonus: ${PROPERTY} ${VALUE}"/>
+<label key="key:620765878:191029568" value="Increased In-Combat Regen Effect when casting Anthem of Valar"/>
+<label key="key:620765878:54354734" value="When using Anthem of the Valar, your regeneration in combat is increased."/>
+<label key="key:620765883:106251890" value="Line Bonus: ${PROPERTY} ${PERCENTVALUE}"/>
+<label key="key:620765883:191029568" value="Increase the Effectiveness of Song of Aid"/>
+<label key="key:620765883:54354734" value="Your Song of Aid lasts 10 seconds longer and recovers 20% faster."/>
+<label key="key:620765895:106251890" value="Line Bonus: ${PROPERTY} ${VALUE}"/>
+<label key="key:620765895:191029568" value="Increases the duration you have to play the next tier of your ballads."/>
+<label key="key:620765895:54354734" value="Gain a 5 second longer window of opportunity in which to perform tiered Ballads."/>
+<label key="key:620765897:106251890" value="Line Bonus: ${PROPERTY} ${VALUE}"/>
+<label key="key:620765897:191029568" value="Your Heralds Strike is more likely to crit."/>
+<label key="key:620765897:54354734" value="Your Herald's Strike deals double damage."/>
+<label key="key:620765899:106251890" value="Line Bonus: ${PROPERTY} ${VALUE}"/>
+<label key="key:620765899:191029568" value="This skill transforms your Ballad of Vigour and Ballad of Balance to become slower songs, that no longer deal damage but act upon your fellowship for a longer duration."/>
+<label key="key:620765899:54354734" value="This skill transforms your Ballad of Vigour and Ballad of Balance into slower songs that no longer deal damage, but act upon your fellowship for a longer duration."/>
+<label key="key:620765901:106251890" value="Line Bonus: ${PROPERTY} ${VALUE}"/>
+<label key="key:620765901:191029568" value="Reduces the power cost of all cries."/>
+<label key="key:620765901:54354734" value="The Power costs of all your Cries are reduced."/>
+<label key="key:620765903:106251890" value="Line Bonus: ${PROPERTY} ${VALUE}"/>
+<label key="key:620765903:191029568" value="Decreases the powercost for all morale increasing abilities."/>
+<label key="key:620765903:54354734" value="The Power costs for your morale-renewing skills are reduced."/>
+<label key="key:620765905:106251890" value="Line Bonus: ${PROPERTY} ${VALUE}"/>
+<label key="key:620765905:191029568" value="When you land a Critical Hit with your Piercing Cry, your enemy is stunned.  This trait also causes your Piercing Cry to recover faster."/>
+<label key="key:620765905:54354734" value="When you land a Critical Hit with your Piercing Cry, your enemy is stunned.  Piercing Cry gains 25% to it's critical chance and it's cooldown is reduced by 3 seconds."/>
+<label key="key:620765907:106251890" value="Line Bonus: ${PROPERTY} ${PERCENTVALUE}"/>
+<label key="key:620765907:191029568" value="Your inductions are harder to interrupt."/>
+<label key="key:620765907:54354734" value="Your induction skills execute quicker, making you harder to disrupt."/>
+<label key="key:620765910:106251890" value="Line Bonus: ${PROPERTY} ${VALUE}"/>
+<label key="key:620765910:191029568" value="Your Tier 1 and Tier 2 Ballads inflict more damage to your enemies."/>
+<label key="key:620765910:54354734" value="Your Tier 1 and Tier 2 Ballads inflict more damage to your enemies."/>
+<label key="key:620765914:106251890" value="Line Bonus: ${PROPERTY} ${PERCENTVALUE}"/>
+<label key="key:620765914:191029568" value="This adds an increased morale and power resurrection to the skills that bring you back from defeat."/>
+<label key="key:620765914:54354734" value="Enlivening Grace and Rally grant more morale and power.  Rally's cast time is reduced by 2 seconds and it's recovery time is reduced by 5 minutes."/>
+<label key="key:620765919:106251890" value="Line Bonus: ${PROPERTY} ${PERCENTVALUE}"/>
+<label key="key:620765919:191029568" value="Song Skills Recharge Faster"/>
+<label key="key:620765919:54354734" value="All of your Songs recover 20% faster."/>
+<label key="key:620765923:106251890" value="Line Bonus: ${PROPERTY} ${VALUE}"/>
+<label key="key:620765923:191029568" value="Reduced aggro on all special Minstrel abilities."/>
+<label key="key:620765923:54354734" value="The use of your skills draws less attention from your enemies."/>
+<label key="key:620765941:106251890" value="Line Bonus: Increases ${PROPERTY} by ${PERCENTVALUE}."/>
+<label key="key:620765941:191029568" value="DOT magnitude of Cunning Attack increased"/>
+<label key="key:620765941:54354734" value="The wounds caused by your Cunning Attacks bleed more profusely."/>
+<label key="key:620765947:106251890" value="Line Bonus: Increases ${PROPERTY} by ${PERCENTVALUE}."/>
+<label key="key:620765947:191029568" value="Subtle Knife deals increased damage"/>
+<label key="key:620765947:54354734" value="You are able to use your Subtle Stab skill with greater speed, inflicting more damage."/>
+<label key="key:620765950:106251890" value="Line Bonus: Increases ${PROPERTY} by ${VALUE}."/>
+<label key="key:620765950:191029568" value="Riddle stuns before mezing"/>
+<label key="key:620765950:54354734" value="Your Riddles are far more perplexing than your foes can comprehend, both stunning and mesmerizing them."/>
+<label key="key:620765956:106251890" value="Decreases Your Miss Chance"/>
+<label key="key:620765956:106251891" value="Line Bonus: Increases ${PROPERTY} by ${PERCENTVALUE}."/>
+<label key="key:620765956:191029568" value="Decreased chance for Stealth attacks to Miss,Parry,Block,Evade"/>
+<label key="key:620765956:54354734" value="Your attacks while using Stealth are far more accurate, reducing the chances that you may miss or that your enemy may somehow avoid them."/>
+<label key="key:620765958:106251889" value="Reduces the recovery time of Aim by ${VALUE}s."/>
+<label key="key:620765958:106251890" value="Line Bonus: Increases ${PROPERTY} by ${PERCENTVALUE}."/>
+<label key="key:620765958:191029568" value="Reduce the cooldown on Aim"/>
+<label key="key:620765958:54354734" value="You are able to take Aim more quickly than you once did."/>
+<label key="key:620765961:106251890" value="Line Bonus: Increases ${PROPERTY} by ${VALUE}."/>
+<label key="key:620765961:191029568" value="Increased Ability To Evade"/>
+<label key="key:620765961:54354734" value="You are able to evade attacks more easily than before."/>
+<label key="key:620765963:106251889" value="Dust in the Eyes is now AOE."/>
+<label key="key:620765963:106251890" value="Line Bonus: Increases Mischievous Glee Healing by ${PERCENTVALUE} and 1 pulse."/>
+<label key="key:620765963:191029568" value="Dust In The Eyes - Affects multiple nearby targets"/>
+<label key="key:620765963:54354734" value="Your Dust in the Eyes skill affects multiple enemies nearby."/>
+<label key="key:620765974:106251891" value="Line Bonus: Increases ${PROPERTY} by ${PERCENTVALUE}."/>
+<label key="key:620765974:191029568" value="Increased chance for Stealth attacks to score a Critical Hit"/>
+<label key="key:620765974:54354734" value="You are able to land precise blows when attacking while using Stealth, increasing your chances of landing a Critical Hit with Surprise Strike, Cunning Attack, or Provoke."/>
+<label key="key:620765976:106251891" value="Line Bonus: Increases ${PROPERTY} by ${PERCENTVALUE}."/>
+<label key="key:620765976:191029568" value="Increase Effective Stealth Level"/>
+<label key="key:620765976:54354734" value="Your ability to move about with Stealth has developed beyond your natural aptitude."/>
+<label key="key:620765980:106251890" value="Line Bonus: Increases Mischievous Glee Healing by ${PERCENTVALUE} and 1 pulse."/>
+<label key="key:620765980:191029568" value="Disable - Further decrease attack speed"/>
+<label key="key:620765980:54354734" value="You are able to use your Disable skill to greatly reduce your enemy's speed."/>
+<label key="key:620765986:106251890" value="Line Bonus: Increases Mischievous Glee Healing by ${PERCENTVALUE} and 1 pulse."/>
+<label key="key:620765986:191029568" value="Counter Defence - Increase Target Critical Hit Vulnerability"/>
+<label key="key:620765986:54354734" value="Improves your Counter Defence skill to further increase your opponent's vulnerability to Critical Hits."/>
+<label key="key:620765992:106251890" value="Line Bonus: Increases ${PROPERTY} by ${VALUE}."/>
+<label key="key:620765992:191029568" value="Magnitude of your Trick debuffs Increase after participation in a successful conjunction"/>
+<label key="key:620765992:54354734" value="Completing a Fellowship Manoeuvre will empower the burglar, based on what Manoeuvre was completed."/>
+<label key="key:620765998:106251891" value="Line Bonus: Increases ${PROPERTY} by ${PERCENTVALUE}."/>
+<label key="key:620765998:191029568" value="You are able to move more quickly while using Stealth."/>
+<label key="key:620765998:54354734" value="Your Stealth is improved, allowing you to move more quickly while sneaking about."/>
+<label key="key:620766007:106251890" value="Line Bonus: Increases Mischievous Glee Healing by ${PERCENTVALUE} and 1 pulse."/>
+<label key="key:620766007:191029568" value="Enrage - Suppress ranged skills"/>
+<label key="key:620766007:54354734" value="When you Enrage your foes, they are likely to engage you in melee combat."/>
+<label key="key:620766329:191029568" value="Tier 1 proficiency is Completed"/>
+<label key="key:620766329:54354734" value="Completes Tier 1 proficiency"/>
+<label key="key:620766330:191029568" value="Tier 1 mastery is Completed"/>
+<label key="key:620766330:54354734" value="Completes Tier 1 mastery"/>
+<label key="key:620766331:191029568" value="Tier 2 proficiency is Completed"/>
+<label key="key:620766331:54354734" value="Completes Tier 2 proficiency"/>
+<label key="key:620766332:191029568" value="Tier 2 mastery is Completed"/>
+<label key="key:620766332:54354734" value="Completes Tier 2 mastery"/>
+<label key="key:620766333:191029568" value="Tier 3 proficiency is Completed"/>
+<label key="key:620766333:54354734" value="Completes Tier 3 proficiency"/>
+<label key="key:620766334:191029568" value="Tier 3 mastery is Completed"/>
+<label key="key:620766334:54354734" value="Completes Tier 3 mastery"/>
+<label key="key:620766335:191029568" value="Tier 4 proficiency is Completed"/>
+<label key="key:620766335:54354734" value="Completes Tier 4 proficiency"/>
+<label key="key:620766336:191029568" value="Tier 4 mastery is Completed"/>
+<label key="key:620766336:54354734" value="Completes Tier 4 mastery"/>
+<label key="key:620766337:191029568" value="Tier 5 proficiency is Completed"/>
+<label key="key:620766337:54354734" value="Completes Tier 5 proficiency"/>
+<label key="key:620766338:191029568" value="Tier 5 mastery is Completed"/>
+<label key="key:620766338:54354734" value="Completes Tier 5 mastery"/>
+<label key="key:620766959:191029568" value="Superior Forge Access"/>
+<label key="key:620766959:54354734" value="Superior Forge Access"/>
+<label key="key:620767178:191029568" value="Superior Oven Access"/>
+<label key="key:620767178:54354734" value="Superior Oven Access"/>
+<label key="key:620767346:191029568" value="Superior Study Access"/>
+<label key="key:620767346:54354734" value="Superior Study Access"/>
+<label key="key:620767447:106251889" value="This enables you to use a sword."/>
+<label key="key:620767447:106251890" value="This allows the dual wielding of weapons."/>
+<label key="key:620767447:191029568" value="You now may dual-wield a sword and a staff. Your melee skills are also improved."/>
+<label key="key:620767447:54354734" value="You now may dual wield sword and staff as well as gaining some improved skill in melee."/>
+<label key="key:620767613:191029568" value="Superior Workbench Access"/>
+<label key="key:620767613:54354734" value="Superior Workbench Access"/>
+<label key="key:620767742:191029568" value="Mine tracking, baby."/>
+<label key="key:620767742:54354734" value="You are able to track the location of ore deposits."/>
+<label key="key:620767745:191029568" value="Tier 1 proficiency is Completed"/>
+<label key="key:620767745:54354734" value="Completes Tier 1 proficiency"/>
+<label key="key:620767746:191029568" value="Tier 1 mastery is Completed"/>
+<label key="key:620767746:54354734" value="Completes Tier 1 mastery"/>
+<label key="key:620767747:191029568" value="Tier 2 proficiency is Completed"/>
+<label key="key:620767747:54354734" value="Completes Tier 2 proficiency"/>
+<label key="key:620767748:191029568" value="Tier 2 mastery is Completed"/>
+<label key="key:620767748:54354734" value="Completes Tier 2 mastery"/>
+<label key="key:620767749:191029568" value="Tier 3 proficiency is Completed"/>
+<label key="key:620767749:54354734" value="Completes Tier 3 proficiency"/>
+<label key="key:620767750:191029568" value="Tier 3 mastery is Completed"/>
+<label key="key:620767750:54354734" value="Completes Tier 3 mastery"/>
+<label key="key:620767751:191029568" value="Tier 4 proficiency is Completed"/>
+<label key="key:620767751:54354734" value="Completes Tier 4 proficiency"/>
+<label key="key:620767752:191029568" value="Tier 4 mastery is Completed"/>
+<label key="key:620767752:54354734" value="Completes Tier 4 mastery"/>
+<label key="key:620767753:191029568" value="Tier 5 proficiency is Completed"/>
+<label key="key:620767753:54354734" value="Completes Tier 5 proficiency"/>
+<label key="key:620767754:191029568" value="Tier 5 mastery is Completed"/>
+<label key="key:620767754:54354734" value="Completes Tier 5 mastery"/>
+<label key="key:620767777:191029568" value="Wood tracking, baby."/>
+<label key="key:620767777:54354734" value="You are able to track the location of tree branches."/>
+<label key="key:620767780:191029568" value="Tier 1 proficiency is Completed"/>
+<label key="key:620767780:54354734" value="Completes Tier 1 proficiency"/>
+<label key="key:620767781:191029568" value="Tier 1 mastery is Completed"/>
+<label key="key:620767781:54354734" value="Completes Tier 1 mastery"/>
+<label key="key:620767782:191029568" value="Tier 2 proficiency is Completed"/>
+<label key="key:620767782:54354734" value="Completes Tier 2 proficiency"/>
+<label key="key:620767783:191029568" value="Tier 2 mastery is Completed"/>
+<label key="key:620767783:54354734" value="Completes Tier 2 mastery"/>
+<label key="key:620767784:191029568" value="Tier 3 proficiency is Completed"/>
+<label key="key:620767784:54354734" value="Completes Tier 3 proficiency"/>
+<label key="key:620767785:191029568" value="Tier 3 mastery is Completed"/>
+<label key="key:620767785:54354734" value="Completes Tier 3 mastery"/>
+<label key="key:620767786:191029568" value="Tier 4 proficiency is Completed"/>
+<label key="key:620767786:54354734" value="Completes Tier 4 proficiency"/>
+<label key="key:620767787:191029568" value="Tier 4 mastery is Completed"/>
+<label key="key:620767787:54354734" value="Completes Tier 4 mastery"/>
+<label key="key:620767788:191029568" value="Tier 5 proficiency is Completed"/>
+<label key="key:620767788:54354734" value="Completes Tier 5 proficiency"/>
+<label key="key:620767789:191029568" value="Tier 5 mastery is Completed"/>
+<label key="key:620767789:54354734" value="Completes Tier 5 mastery"/>
+<label key="key:620767852:191029568" value="Crop tracking, baby."/>
+<label key="key:620767852:54354734" value="You are able to track the location of crops."/>
+<label key="key:620767855:191029568" value="Tier 1 proficiency is Completed"/>
+<label key="key:620767855:54354734" value="Completes Tier 1 proficiency"/>
+<label key="key:620767856:191029568" value="Tier 1 mastery is Completed"/>
+<label key="key:620767856:54354734" value="Completes Tier 1 mastery"/>
+<label key="key:620767857:191029568" value="Tier 2 proficiency is Completed"/>
+<label key="key:620767857:54354734" value="Completes Tier 2 proficiency"/>
+<label key="key:620767858:191029568" value="Tier 2 mastery is Completed"/>
+<label key="key:620767858:54354734" value="Completes Tier 2 mastery"/>
+<label key="key:620767859:191029568" value="Tier 3 proficiency is Completed"/>
+<label key="key:620767859:54354734" value="Completes Tier 3 proficiency"/>
+<label key="key:620767860:191029568" value="Tier 3 mastery is Completed"/>
+<label key="key:620767860:54354734" value="Completes Tier 3 mastery"/>
+<label key="key:620767861:191029568" value="Tier 4 proficiency is Completed"/>
+<label key="key:620767861:54354734" value="Completes Tier 4 proficiency"/>
+<label key="key:620767862:191029568" value="Tier 4 mastery is Completed"/>
+<label key="key:620767862:54354734" value="Completes Tier 4 mastery"/>
+<label key="key:620767863:191029568" value="Tier 5 proficiency is Completed"/>
+<label key="key:620767863:54354734" value="Completes Tier 5 proficiency"/>
+<label key="key:620767864:191029568" value="Tier 5 mastery is Completed"/>
+<label key="key:620767864:54354734" value="Completes Tier 5 mastery"/>
+<label key="key:620768649:191029568" value="Increases the damage dealt by your attacks."/>
+<label key="key:620768649:54354734" value="Increases the damage dealt by your attacks."/>
+<label key="key:620768650:106251889" value="Increases your total health by ${PERCENTVALUE}."/>
+<label key="key:620768650:191029568" value="Increases your maximum health"/>
+<label key="key:620768650:54354734" value="Increases your maximum health"/>
+<label key="key:620768651:106251889" value="Increases your total power by ${PERCENTVALUE}."/>
+<label key="key:620768651:191029568" value="Increases your maximum power"/>
+<label key="key:620768651:54354734" value="Increases your maximum power"/>
+<label key="key:620768652:191029568" value="Increases your armour protection"/>
+<label key="key:620768652:54354734" value="Increases your armour protection"/>
+<label key="key:620768653:191029568" value="Increases your ability to avoid attacks."/>
+<label key="key:620768653:54354734" value="Increases your ability to avoid attacks."/>
+<label key="key:620768654:191029568" value="Increases your resistance to certain negative effects."/>
+<label key="key:620768654:54354734" value="Increases your resistance to certain negative effects."/>
+<label key="key:620768664:191029568" value="Allows the use of One-Handed Axes"/>
+<label key="key:620768664:54354734" value="Allows the use of One-Handed Axes. Axes have a small chance of reducing the target's armour at the expense of missing more often than with other weapons."/>
+<label key="key:620768665:191029568" value="Allows the use of One-Handed Clubs"/>
+<label key="key:620768665:54354734" value="Allows the use of One-Handed Clubs. Clubs have a small chance of stunning the target."/>
+<label key="key:620768666:191029568" value="Allows the use of One-Handed Hammers"/>
+<label key="key:620768666:54354734" value="Allows the use of One-Handed Hammers. Hammers have a small chance of stunning the target."/>
+<label key="key:620768667:191029568" value="Allows the use of One-Handed Maces"/>
+<label key="key:620768667:54354734" value="Allows the use of One-Handed Maces. Maces have a small chance of stunning the target."/>
+<label key="key:620768668:191029568" value="Allows the use of One-Handed Swords"/>
+<label key="key:620768668:54354734" value="Allows the use of One-Handed Swords. Swords have a small to-hit chance increase."/>
+<label key="key:620768669:191029568" value="Allows the use of Daggers"/>
+<label key="key:620768669:54354734" value="Allows the use of Daggers. Daggers have a small chance of landing Critical Hits at the expense of overall damage."/>
+<label key="key:620768670:191029568" value="Allows wielding of a second weapon in the off-hand."/>
+<label key="key:620768670:54354734" value="Allows the wielding of a second weapon in the off-hand."/>
+<label key="key:620768671:191029568" value="Allows the use of specialized equipment."/>
+<label key="key:620768671:54354734" value="Allows the use of Specialized Equipment."/>
+<label key="key:620768672:191029568" value="Allows the use of Light Armour"/>
+<label key="key:620768672:54354734" value="Allows the use of Light Armour."/>
+<label key="key:620768673:191029568" value="Allows the use of Medium Armour"/>
+<label key="key:620768673:54354734" value="Allows the use of Medium Armour."/>
+<label key="key:620768674:191029568" value="Allows the usage of Horns."/>
+<label key="key:620768674:54354734" value="Allows the use of Horns."/>
+<label key="key:620768677:191029568" value="Allows the use of Two-Handed Axes"/>
+<label key="key:620768677:54354734" value="Allows the use of Two-Handed Axes. Axes have a small chance of reducing the target's armour at the expense of missing more often than with other weapons."/>
+<label key="key:620768678:191029568" value="Allows the use of Two-Handed Hammers"/>
+<label key="key:620768678:54354734" value="Allows the use of Two-Handed Hammers. Hammers have a small chance of stunning the target."/>
+<label key="key:620768679:191029568" value="Allows the use of Two-Handed Swords"/>
+<label key="key:620768679:54354734" value="Allows the use of Two-Handed Swords. Swords have a small to-hit chance increase."/>
+<label key="key:620768680:191029568" value="Allows the use of Spears"/>
+<label key="key:620768680:54354734" value="Allows the use of Spears. Spears have a small chance of wounding the target, inflicting damage over time."/>
+<label key="key:620768683:106251889" value="Reduces Miss by a medium amount."/>
+<label key="key:620768684:191029568" value="Allows the use of Shields"/>
+<label key="key:620768684:54354734" value="Allows the use of Shields."/>
+<label key="key:620768687:191029568" value="Allows the use of Bows"/>
+<label key="key:620768687:54354734" value="Allows the use of Bows. Bows have a small chance of landing Critical Hits when using auto-attack."/>
+<label key="key:620768688:191029568" value="Allows the use of Heavy Armour"/>
+<label key="key:620768688:54354734" value="Allows the use of Heavy Armour."/>
+<label key="key:620768699:106251889" value="Reduces Miss by a medium amount."/>
+<label key="key:620768703:106251889" value="Reduces Miss by a small amount."/>
+<label key="key:620768706:191029568" value="Allows the use of Two-Handed Clubs"/>
+<label key="key:620768706:54354734" value="Allows the use of Two-Handed Clubs. Clubs have a small chance of stunning the target."/>
+<label key="key:620768711:191029568" value="Allows the use of Halberds"/>
+<label key="key:620768711:54354734" value="Allows the use of Halberds. Halberds increase threat level, drawing the attention of your enemies upon yourself."/>
+<label key="key:620768724:191029568" value="Allows the usage of Summoning Horns."/>
+<label key="key:620768724:54354734" value="Allows the use of summoning horns."/>
+<label key="key:620768727:191029568" value="Allows the usage of Lutes."/>
+<label key="key:620768727:54354734" value="Allows the use of Lutes."/>
+<label key="key:620768734:191029568" value="Allows the usage of Clarinets."/>
+<label key="key:620768734:54354734" value="Allows the use of Clarinets."/>
+<label key="key:620768735:191029568" value="Allows the usage of Flutes."/>
+<label key="key:620768735:54354734" value="Allows the use of Flutes."/>
+<label key="key:620768736:191029568" value="Allows the usage of Harps."/>
+<label key="key:620768736:54354734" value="Allows the use of Harps."/>
+<label key="key:620768750:191029568" value="Allows the use of Two-Handed Staves"/>
+<label key="key:620768750:54354734" value="Allows the use of Two-Handed Staves."/>
+<label key="key:620768753:106251889" value="Reduces Miss by a medium amount."/>
+<label key="key:620768756:106251889" value="Reduces Miss by a medium amount."/>
+<label key="key:620768762:106251889" value="Reduces Miss by a medium amount."/>
+<label key="key:620768764:106251889" value="Reduces Miss by a small amount."/>
+<label key="key:620768771:191029568" value="Allows the use of Heavy Shields"/>
+<label key="key:620768771:54354734" value="Allows the use of Heavy Shields."/>
+<label key="key:620768778:191029568" value="Allows the use of Crossbows"/>
+<label key="key:620768778:54354734" value="Allows the use of Crossbows. Crossbows lower your chance of blocking attacks when using auto-attack."/>
+<label key="key:620768802:106251889" value="Adds ${VALUE} meters to maximum distance of ranged auto-attack."/>
+<label key="key:620768802:191029568" value="Increases the maximum distance of your ranged auto-attacks."/>
+<label key="key:620768802:54354734" value="Your skill with ranged weapons allows you to attack from a greater distance than others."/>
+<label key="key:620774667:106251889" value="Increases your total Power by ${PERCENTVALUE}."/>
+<label key="key:620774671:191029568" value="Enables your Jagged Cut skill to sometimes cause damage over time on your targets"/>
+<label key="key:620774671:54354734" value="Enables your Jagged Cut skill to sometimes cause damage over time on your targets"/>
+<label key="key:620774673:191029568" value="When you use Glory in Victory you no longer take additional damage in melee."/>
+<label key="key:620774673:54354734" value="When you use Glory in Victory you no longer take additional damage in melee."/>
+<label key="key:620774674:191029568" value="You can use your Devastating Strike more often."/>
+<label key="key:620774674:54354734" value="You can use your Devastating Strike more often."/>
+<label key="key:620774675:191029568" value="You are hardier than most and can recover from being knocked down and stunned."/>
+<label key="key:620774675:54354734" value="You are hardier than most and can recover from being knocked down and stunned."/>
+<label key="key:620774683:191029568" value="A different visual appearance for your Orc Reaver"/>
+<label key="key:620774683:54354734" value="A different visual appearance for your Orc Reaver"/>
+<label key="key:620774684:191029568" value="A different visual appearance for your Orc Reaver"/>
+<label key="key:620774684:54354734" value="A different visual appearance for your Orc Reaver"/>
+<label key="key:620774685:191029568" value="A different visual appearance for your Orc Reaver"/>
+<label key="key:620774685:54354734" value="A different visual appearance for your Orc Reaver"/>
+<label key="key:620774686:191029568" value="A different visual appearance for your Orc Reaver"/>
+<label key="key:620774686:54354734" value="A different visual appearance for your Orc Reaver"/>
+<label key="key:620774687:191029568" value="A different visual appearance for your Orc Reaver"/>
+<label key="key:620774687:54354734" value="A different visual appearance for your Orc Reaver"/>
+<label key="key:620774688:191029568" value="A different visual appearance for your Orc Reaver"/>
+<label key="key:620774688:54354734" value="A different visual appearance for your Orc Reaver"/>
+<label key="key:620774689:106251889" value="Increases your total Health by ${PERCENTVALUE}."/>
+<label key="key:620774692:191029568" value="Shortens the induction time of your web attacks by .25 seconds."/>
+<label key="key:620774692:54354734" value="Shortens the induction time of your web attacks by .25 seconds."/>
+<label key="key:620774696:191029568" value="You spray your target with clinging, sticky webs, reducing their chance to Parry or Evade."/>
+<label key="key:620774696:54354734" value="You spray your target with clinging, sticky webs, reducing their chance to Parry or Evade."/>
+<label key="key:620774705:191029568" value="A different visual appearance for your Spider Weaver"/>
+<label key="key:620774705:54354734" value="A different visual appearance for your Spider Weaver"/>
+<label key="key:620774706:191029568" value="A different visual appearance for your Spider Weaver"/>
+<label key="key:620774706:54354734" value="A different visual appearance for your Spider Weaver"/>
+<label key="key:620774707:191029568" value="A different visual appearance for your Spider Weaver"/>
+<label key="key:620774707:54354734" value="A different visual appearance for your Spider Weaver"/>
+<label key="key:620774708:191029568" value="A different visual appearance for your Spider Weaver"/>
+<label key="key:620774708:54354734" value="A different visual appearance for your Spider Weaver"/>
+<label key="key:620774709:191029568" value="A different visual appearance for your Spider Weaver"/>
+<label key="key:620774709:54354734" value="A different visual appearance for your Spider Weaver"/>
+<label key="key:620774710:191029568" value="A different visual appearance for your Spider Weaver"/>
+<label key="key:620774710:54354734" value="A different visual appearance for your Spider Weaver"/>
+<label key="key:620774715:191029568" value="In addition to slowing your target, your Hindering Shot will also briefly root them in place."/>
+<label key="key:620774715:54354734" value="In addition to slowing your target, your Hindering Shot will also briefly root them in place."/>
+<label key="key:620774719:191029568" value="You carefully place a snare on the ground to trap your foes."/>
+<label key="key:620774719:54354734" value="You carefully place a snare on the ground to trap your foes."/>
+<label key="key:620774725:191029568" value="A different visual appearance for your Uruk Blackarrow"/>
+<label key="key:620774725:54354734" value="A different visual appearance for your Uruk Blackarrow"/>
+<label key="key:620774726:191029568" value="A different visual appearance for your Uruk Blackarrow"/>
+<label key="key:620774726:54354734" value="A different visual appearance for your Uruk Blackarrow"/>
+<label key="key:620774727:191029568" value="A different visual appearance for your Uruk Blackarrow"/>
+<label key="key:620774727:54354734" value="A different visual appearance for your Uruk Blackarrow"/>
+<label key="key:620774728:191029568" value="A different visual appearance for your Uruk Blackarrow"/>
+<label key="key:620774728:54354734" value="A different visual appearance for your Uruk Blackarrow"/>
+<label key="key:620774729:191029568" value="A different visual appearance for your Uruk Blackarrow"/>
+<label key="key:620774729:54354734" value="A different visual appearance for your Uruk Blackarrow"/>
+<label key="key:620774730:191029568" value="A different visual appearance for your Uruk Blackarrow"/>
+<label key="key:620774730:54354734" value="A different visual appearance for your Uruk Blackarrow"/>
+<label key="key:620774735:191029568" value="Targets are revived at higher health and power. Also, the recovery timer is shortened."/>
+<label key="key:620774735:54354734" value="Targets are revived at higher health and power. Also, the recovery timer is shortened."/>
+<label key="key:620774738:191029568" value="You can shout at an ally who is stunned or knocked down and they will begin to recover."/>
+<label key="key:620774738:54354734" value="You can shout at an ally who is stunned or knocked down and they will begin to recover."/>
+<label key="key:620774746:191029568" value="A different visual appearance for your Uruk Warleader"/>
+<label key="key:620774746:54354734" value="A different visual appearance for your Uruk Warleader"/>
+<label key="key:620774747:191029568" value="A different visual appearance for your Uruk Warleader"/>
+<label key="key:620774747:54354734" value="A different visual appearance for your Uruk Warleader"/>
+<label key="key:620774748:191029568" value="A different visual appearance for your Uruk Warleader"/>
+<label key="key:620774748:54354734" value="A different visual appearance for your Uruk Warleader"/>
+<label key="key:620774749:191029568" value="A different visual appearance for your Uruk Warleader"/>
+<label key="key:620774749:54354734" value="A different visual appearance for your Uruk Warleader"/>
+<label key="key:620774750:191029568" value="A different visual appearance for your Uruk Warleader"/>
+<label key="key:620774750:54354734" value="A different visual appearance for your Uruk Warleader"/>
+<label key="key:620774751:191029568" value="A different visual appearance for your Uruk Warleader"/>
+<label key="key:620774751:54354734" value="A different visual appearance for your Uruk Warleader"/>
+<label key="key:620774756:106251890" value="Increases movement while stealthed by 20%"/>
+<label key="key:620774759:191029568" value="When you defeat an enemy, you can howl to heal yourself and your fellows over time."/>
+<label key="key:620774759:54354734" value="When you defeat an enemy, you can howl to heal yourself and your fellows over time."/>
+<label key="key:620774766:191029568" value="A different visual appearance for your Warg Stalker"/>
+<label key="key:620774766:54354734" value="A different visual appearance for your Warg Stalker"/>
+<label key="key:620774767:191029568" value="A different visual appearance for your Warg Stalker"/>
+<label key="key:620774767:54354734" value="A different visual appearance for your Warg Stalker"/>
+<label key="key:620774768:191029568" value="A different visual appearance for your Warg Stalker"/>
+<label key="key:620774768:54354734" value="A different visual appearance for your Warg Stalker"/>
+<label key="key:620774769:191029568" value="A different visual appearance for your Warg Stalker"/>
+<label key="key:620774769:54354734" value="A different visual appearance for your Warg Stalker"/>
+<label key="key:620774770:191029568" value="A different visual appearance for your Warg Stalker"/>
+<label key="key:620774770:54354734" value="A different visual appearance for your Warg Stalker"/>
+<label key="key:620774772:106251892" value="Decreases your total Health by ${PERCENTVALUE}."/>
+<label key="key:620774772:191029568" value="Corruption traits allow you to increase one aspect of your character at the cost of other aspects."/>
+<label key="key:620774772:54354734" value="Corruption traits allow you to increase one aspect of your character at the cost of other aspects."/>
+<label key="key:620774773:106251892" value="Decreases your total Power by ${PERCENTVALUE}."/>
+<label key="key:620774773:191029568" value="Corruption traits allow you to increase one aspect of your character at the cost of other aspects."/>
+<label key="key:620774773:54354734" value="Corruption traits allow you to increase one aspect of your character at the cost of other aspects."/>
+<label key="key:620774774:106251889" value="Increases your total Health by ${PERCENTVALUE}."/>
+<label key="key:620774774:191029568" value="Corruption traits allow you to increase one aspect of your character at the cost of other aspects."/>
+<label key="key:620774774:54354734" value="Corruption traits allow you to increase one aspect of your character at the cost of other aspects."/>
+<label key="key:620774775:106251889" value="Increases your total Health by ${PERCENTVALUE}."/>
+<label key="key:620774775:106251890" value="Decreases your total Power by ${PERCENTVALUE}."/>
+<label key="key:620774775:191029568" value="Corruption traits allow you to increase one aspect of your character at the cost of other aspects."/>
+<label key="key:620774775:54354734" value="Corruption traits allow you to increase one aspect of your character at the cost of other aspects."/>
+<label key="key:620774776:106251889" value="Increases your total Power by ${PERCENTVALUE}."/>
+<label key="key:620774776:191029568" value="Corruption traits allow you to increase one aspect of your character at the cost of other aspects."/>
+<label key="key:620774776:54354734" value="Corruption traits allow you to increase one aspect of your character at the cost of other aspects."/>
+<label key="key:620774777:106251889" value="Increases your total Power by ${PERCENTVALUE}."/>
+<label key="key:620774777:106251890" value="Decreases your total Health by ${PERCENTVALUE}."/>
+<label key="key:620774777:191029568" value="Corruption traits allow you to increase one aspect of your character at the cost of other aspects."/>
+<label key="key:620774777:54354734" value="Corruption traits allow you to increase one aspect of your character at the cost of other aspects."/>
+<label key="key:620774778:191029568" value="Corruption traits allow you to increase one aspect of your character at the cost of other aspects."/>
+<label key="key:620774778:54354734" value="Corruption traits allow you to increase one aspect of your character at the cost of other aspects."/>
+<label key="key:620774779:191029568" value="Corruption traits allow you to increase one aspect of your character at the cost of other aspects."/>
+<label key="key:620774779:54354734" value="Corruption traits allow you to increase one aspect of your character at the cost of other aspects."/>
+<label key="key:620774780:191029568" value="Corruption traits allow you to increase one aspect of your character at the cost of other aspects."/>
+<label key="key:620774780:54354734" value="Corruption traits allow you to increase one aspect of your character at the cost of other aspects."/>
+<label key="key:620774781:191029568" value="Corruption traits allow you to increase one aspect of your character at the cost of other aspects."/>
+<label key="key:620774781:54354734" value="Corruption traits allow you to increase one aspect of your character at the cost of other aspects."/>
+<label key="key:620774782:191029568" value="Corruption traits allow you to increase one aspect of your character at the cost of other aspects."/>
+<label key="key:620774782:54354734" value="Corruption traits allow you to increase one aspect of your character at the cost of other aspects."/>
+<label key="key:620774783:191029568" value="Corruption traits allow you to increase one aspect of your character at the cost of other aspects."/>
+<label key="key:620774783:54354734" value="Corruption traits allow you to increase one aspect of your character at the cost of other aspects."/>
+<label key="key:620774784:191029568" value="Corruption traits allow you to increase one aspect of your character at the cost of other aspects."/>
+<label key="key:620774784:54354734" value="Corruption traits allow you to increase one aspect of your character at the cost of other aspects."/>
+<label key="key:620774785:191029568" value="Corruption traits allow you to increase one aspect of your character at the cost of other aspects."/>
+<label key="key:620774785:54354734" value="Corruption traits allow you to increase one aspect of your character at the cost of other aspects."/>
+<label key="key:620774786:191029568" value="Corruption traits allow you to increase one aspect of your character at the cost of other aspects."/>
+<label key="key:620774786:54354734" value="Corruption traits allow you to increase one aspect of your character at the cost of other aspects."/>
+<label key="key:620774787:191029568" value="Corruption traits allow you to increase one aspect of your character at the cost of other aspects."/>
+<label key="key:620774787:54354734" value="Corruption traits allow you to increase one aspect of your character at the cost of other aspects."/>
+<label key="key:620774788:191029568" value="Corruption traits allow you to increase one aspect of your character at the cost of other aspects."/>
+<label key="key:620774788:54354734" value="Corruption traits allow you to increase one aspect of your character at the cost of other aspects."/>
+<label key="key:620774804:54354734" value="Charity has its rewards. You find yourself more resistant to wounds, able to defend against ranged attacks more easily, and able to recover your Power more quickly outside of combat."/>
+<label key="key:620774805:54354734" value="Your compassion is one of your greatest strengths. You find that you are able to defend against ranged attacks more easily, are able to recover your Power more quickly outside of combat, and are able to defend against magical attacks more easily."/>
+<label key="key:620774806:54354734" value="Your actions have instilled in you a great sense of confidence. You are more resistant to the effects of fear, your Will is stronger, and you are able to recover your Power more quickly outside of combat."/>
+<label key="key:620774807:54354734" value="Your determination has won you many victories. You have superior Agility, you are able to recover your Morale more quickly in combat, and your Morale is increased."/>
+<label key="key:620774808:54354734" value="The discipline you maintain makes you stronger. Your Might is increased, you are more resistant to diseases, and are able to defend against melee attacks more easily."/>
+<label key="key:620774809:54354734" value="You have a proven empathy for those in need. You know how to use your armour to greater effect, you are destined to a greater Fate, and you are more resistant to the effects of fear."/>
+<label key="key:620774810:54354734" value="Your fidelity has earned you the respect of those around you. You are more resistant to the effects of evil's shadow, you have greater Vitality, and your Power is increased."/>
+<label key="key:620774811:54354734" value="Your struggles have built in you tremendous fortitude. You find that you are able to recover your Morale more quickly outside of combat, your Might is increased, and you are more resistant to diseases."/>
+<label key="key:620774812:54354734" value="Your honesty has earned you the trust of those around you. Your Power is increased, you know how to use your armour to greater effect, and you are destined to a greater Fate."/>
+<label key="key:620774813:54354734" value="Your honour is without peer. You are more resistant to poisons, more resistant to the effects of evil's shadow, and you have greater Vitality."/>
+<label key="key:620774814:54354734" value="Your idealism can brook no fault. You are destined to a greater Fate, you are more resistant to the effects of fear, and your Will is stronger."/>
+<label key="key:620774815:54354734" value="You are a servant of justice. You find that you are able to recover your Morale more quickly in combat, your Morale is increased, and you are able to recover your Morale more quickly outside of combat."/>
+<label key="key:620774816:54354734" value="Your loyalty shall be rewarded. You find that you have greater Vitality, your Power is increased, and you know how to use your armour to greater effect."/>
+<label key="key:620774817:54354734" value="You have learned the value of mercy. You find that you are able to recover your Power more quickly outside of combat, are able to defend against magical attacks more easily, and have superior Agility."/>
+<label key="key:620774818:54354734" value="Patience is a virtue. You find yourself able to recover your Power more quickly outside of combat, more resistant to wounds, and able to defend against ranged attacks more easily."/>
+<label key="key:620774819:54354734" value="Your innocence can be used as a shield. You find yourself able to defend against melee attacks more easily, more resistant to poisons, and more resistant to the effects of evil's shadow."/>
+<label key="key:620774820:54354734" value="Your tolerance of others has earned you great respect. You find that you are able to defend against magical attacks more easily, you have superior Agility, and you are able to recover your Morale more quickly in combat."/>
+<label key="key:620774821:54354734" value="No one can ever question your valour. Your Morale is increased, you are able to recover your Morale more quickly outside of combat, and your Might is increased."/>
+<label key="key:620774822:54354734" value="You have found true wisdom. Your Will is stronger, you are able to recover your Power more quickly outside of combat, and you are more resistant to wounds."/>
+<label key="key:620774823:54354734" value="Your zeal drives you to perfection. You find yourself more resistant to diseases, able to defend against melee attacks more easily, and more resistant to poisons."/>
+<label key="key:620775239:191029568" value="This grants you a short ranged attack."/>
+<label key="key:620775239:54354734" value="You gain a short-distance ranged attack."/>
+<label key="key:620775242:106251889" value="+5.0% to damage from Guile Fellowship Skills"/>
+<label key="key:620775242:106251890" value="+5.0% to morale restoration from Conviction Fellowship Skills"/>
+<label key="key:620775242:191029568" value="Guile and Conviction Fellowship Bonus"/>
+<label key="key:620775242:54354734" value="You receive a bonus to Spider's Guile and Eagle's Cry contributions"/>
+<label key="key:620775244:191029568" value="Man Sword Damage Bonus"/>
+<label key="key:620775244:54354734" value="Hobbit Club-damage Bonus"/>
+<label key="key:620775246:191029568" value="Reduced Might - Hobbits lack the physical strength of other races."/>
+<label key="key:620775246:54354734" value="You have overcome your humble beginnings and play a mighty role in this age. Your Might is improved."/>
+<label key="key:620775248:191029568" value="This enables you to go home to The Shire."/>
+<label key="key:620775248:54354734" value="This enables you to quickly return to Michel Delving."/>
+<label key="key:620775252:191029568" value="You can raise your own hope value through good old fashion hobbit cheer."/>
+<label key="key:620775252:54354734" value="You can raise your Fellowship's Hope value through good old-fashioned hobbit-cheer. This does not stack with other Hope buffs."/>
+<label key="key:620775257:191029568" value="Although untrained you have the ability to move about unseen, though there is a chance enemies may detect you, especially when moving in front of them."/>
+<label key="key:620775257:54354734" value="Although untrained, you have the natural ability to move about unseen, though there is a chance enemies may detect you, especially when moving in front of them."/>
+<label key="key:620775261:191029568" value="Prone hobbits are easily ignored when they are thought of as a tasty dinner, causing enemies to ignore you."/>
+<label key="key:620775261:54354734" value="You can lie prone in complete silence, causing enemies to ignore you."/>
+<label key="key:620775263:191029568" value="Reduced Might - Hobbits lack the physical strength of other races."/>
+<label key="key:620775263:54354734" value="Reduced Might - Hobbits lack the physical strength of other races."/>
+<label key="key:620775264:191029568" value="Improved Vitality - Hobbits are remarkably tough."/>
+<label key="key:620775264:54354734" value="Improved Vitality - Hobbits are remarkably tough."/>
+<label key="key:620775265:191029568" value="Improved out of combat Morale Regeneration - Hobbits recover from trying times faster than other races."/>
+<label key="key:620775265:54354734" value="Improved Morale Regeneration out of combat - Hobbits recover from trying times faster than other races."/>
+<label key="key:620775266:191029568" value="Improved Fear Resistance - The slow-kindled courage of the Hobbit Race."/>
+<label key="key:620775266:54354734" value="Improved Fear Resistance - The slow-kindled courage of the Hobbit Race."/>
+<label key="key:620775267:191029568" value="Improved Shadow Mitigation - Hobbits have a great resistance to temptation."/>
+<label key="key:620775267:54354734" value="Improved Shadow Mitigation - Hobbits have a great resistance to temptation."/>
+<label key="key:620775271:191029568" value="You gain a short-distance melee attack."/>
+<label key="key:620775271:54354734" value="You gain a short-distance melee attack."/>
+<label key="key:620775274:106251889" value="+5.0% to power restoration from Tactics Fellowship Skills"/>
+<label key="key:620775274:106251890" value="+5.0% to damage from Might Fellowship Skills"/>
+<label key="key:620775274:191029568" value="Tactics and Might Fellowship Bonus"/>
+<label key="key:620775274:54354734" value="You receive a bonus to Stallion's Spirit and Ent's Strength contributions."/>
+<label key="key:620775276:191029568" value="Man Sword Damage Bonus"/>
+<label key="key:620775276:54354734" value="Man Sword-damage Bonus"/>
+<label key="key:620775278:191029568" value="Your will is greater then most of your fellows among men."/>
+<label key="key:620775278:54354734" value="You are destined to greatness -- a Man for the Fourth Age -- but for now you must secure the Third. Your Will is improved."/>
+<label key="key:620775280:191029568" value="This enables you to go home to Bree."/>
+<label key="key:620775280:54354734" value="This enables you to quickly return to Bree."/>
+<label key="key:620775284:191029568" value="Adds a bonus to your fellowships morale."/>
+<label key="key:620775284:54354734" value="You provide a bonus to your fellowship's Morale."/>
+<label key="key:620775289:191029568" value="Your will is greater then most of your fellows among men."/>
+<label key="key:620775289:54354734" value="The Race of Man grows eerily proficient at the art of war. Your Will is improved."/>
+<label key="key:620775291:191029568" value="In combat, the Race of Man is known for it's unquenchable spirit."/>
+<label key="key:620775291:54354734" value="In combat, the Race of Man is known for its unquenchable spirit."/>
+<label key="key:620775294:191029568" value="Improved Fate - Men have the greatest destiny of all the Free Peoples."/>
+<label key="key:620775294:54354734" value="Improved Fate - Men have the greatest destiny of all the Free Peoples."/>
+<label key="key:620775295:191029568" value="Decreased Will - Men have weaker wills than the other races."/>
+<label key="key:620775295:54354734" value="Decreased Will - Men have weaker wills than the other races."/>
+<label key="key:620775296:106251889" value="The Race of Man, when pressed, respond well to impassioned speeches that raise morale."/>
+<label key="key:620775296:191029568" value="Increased Morale Restoration- Men can be roused to action faster than the other races.  (heals heal for more on men)"/>
+<label key="key:620775296:54354734" value="Increased Morale Restoration- Men are more quickly emboldened than the other races."/>
+<label key="key:620775297:191029568" value="Improved Strength - The feats of strength that men such as Boromir could accomplish are worthy of song."/>
+<label key="key:620775297:54354734" value="Improved Strength - The feats of strength that men such as Boromir could accomplish are worthy of song."/>
+<label key="key:620775300:191029568" value="Although untrained you have the ability to move about unseen, though there is a chance enemies may detect you, especially when moving in front of them."/>
+<label key="key:620775300:54354734" value="Although untrained, you have the natural ability to move about unseen, though there is a chance enemies may detect you, especially when moving in front of them."/>
+<label key="key:620775303:106251889" value="+5.0% to power restoration from Tactics Fellowship Skills"/>
+<label key="key:620775303:106251890" value="+5.0% to morale restoration from Conviction Fellowship Skills"/>
+<label key="key:620775303:191029568" value="Tactics and Conviction Fellowship Bonus"/>
+<label key="key:620775303:54354734" value="You receive a bonus to Eagle's Cry and Stallion's Spirit contributions."/>
+<label key="key:620775305:191029568" value="Elf Bow Damage Bonus"/>
+<label key="key:620775305:54354734" value="Elf Bow-damage Bonus"/>
+<label key="key:620775307:191029568" value="Improved Fate."/>
+<label key="key:620775307:54354734" value="You are devoted to guiding the race of Man. Your Fate is improved."/>
+<label key="key:620775309:191029568" value="This enables you to go home to Rivendell."/>
+<label key="key:620775309:54354734" value="This enables you to quickly return to Rivendell."/>
+<label key="key:620775313:191029568" value="Although untrained you have the ability to move about unseen, though there is a chance enemies may detect you, especially when moving in front of them."/>
+<label key="key:620775313:54354734" value="With the speed and grace of the Eldar, you can put up a strong parry defence."/>
+<label key="key:620775317:191029568" value="Elf Sword Damage Bonus"/>
+<label key="key:620775317:54354734" value="Elf One-handed Sword-damage Bonus"/>
+<label key="key:620775319:191029568" value="Adds a bonus to your fellowships power."/>
+<label key="key:620775319:54354734" value="You provide a bonus to your fellowship's Power."/>
+<label key="key:620775321:191029568" value="Reduced Morale and Out of Combat Morale Regeneration - Elves feel things more deeply than the other races, and are more subject to sorrow."/>
+<label key="key:620775321:54354734" value="Reduced Morale and Morale Regeneration out of combat - Elves feel things more deeply than the other races and are more subject to sorrow."/>
+<label key="key:620775322:191029568" value="Improved Agility - The Grace of the Eldar is remembered in legend."/>
+<label key="key:620775322:54354734" value="Improved Agility - The Grace of the Eldar is remembered in legend."/>
+<label key="key:620775323:191029568" value="Reduced Fate - The time of the Elves in Middle-earth is nearly at its end."/>
+<label key="key:620775323:54354734" value="Reduced Fate - The time of the Elves in Middle-earth is nearly at its end."/>
+<label key="key:620775324:191029568" value="Improved resistance to Disease and Poison - Elves do not suffer illness."/>
+<label key="key:620775324:54354734" value="Improved resistance to Disease and Poison - Elves do not suffer illness."/>
+<label key="key:620775327:191029568" value="You gain a short-distance melee attack."/>
+<label key="key:620775327:54354734" value="You gain a short-distance melee attack."/>
+<label key="key:620775330:106251889" value="+5.0% to damage from Guile Fellowship Skills"/>
+<label key="key:620775330:106251890" value="+5.0% to damage from Might Fellowship Skills"/>
+<label key="key:620775330:191029568" value="Guile and Might Fellowship Bonus"/>
+<label key="key:620775330:54354734" value="You receive a bonus to Spider's Guile and Ent's Strength contributions."/>
+<label key="key:620775332:191029568" value="Dwarf Axe Damage Bonus"/>
+<label key="key:620775332:54354734" value="Dwarf Axe-damage Bonus"/>
+<label key="key:620775334:191029568" value="Improved Fate - You are one of the Dwarves' of influence at the end of this age."/>
+<label key="key:620775334:54354734" value="You are a dwarf of great influence. Your Fate is improved."/>
+<label key="key:620775336:191029568" value="This enables you to go home to Thorin's Gate."/>
+<label key="key:620775336:54354734" value="This enables you to quickly return to Thorin's Gate."/>
+<label key="key:620775340:191029568" value="For a short amount of time you can withstand blows that would batter a weaker races morale into dust."/>
+<label key="key:620775340:54354734" value="For a short amount of time, you can withstand blows that would batter a weaker race's Morale into dust."/>
+<label key="key:620775344:191029568" value="Adds a bonus to your fellowships vitality."/>
+<label key="key:620775344:54354734" value="You provide a bonus to your fellowship's Vitality."/>
+<label key="key:620775349:191029568" value="Increased Might and Vitality, improved Common damage mitigation - Dwarves are a sturdy race."/>
+<label key="key:620775349:54354734" value="Increased Might and Vitality, improved Common damage mitigation - Dwarves are a sturdy race."/>
+<label key="key:620775350:191029568" value="Reduced Agility - Dwarves are naturally less agile than the other races."/>
+<label key="key:620775350:54354734" value="Reduced Agility - Dwarves are naturally less agile than the other races."/>
+<label key="key:620775351:191029568" value="Reduced Fate - The Dwarves' time in Middle-earth is up."/>
+<label key="key:620775351:54354734" value="Reduced Fate - The Dwarves' time in Middle-earth is fading."/>
+<label key="key:620775352:191029568" value="Bonus to In-Combat morale and power regeneration, penalty to out of combat morale and power regen."/>
+<label key="key:620775352:54354734" value="Bonus to Morale and Power regeneration in combat, penalty to Morale and Power regeneration out of combat."/>
+<label key="key:620777542:191029568" value="Enables the Burglar to use devices such as caltrops, marbles and stun dust."/>
+<label key="key:620777542:54354734" value="Enables burglars to use devices such as caltrops, marbles, and stun dust."/>
+<label key="key:620777545:191029568" value="Enables the Burglar to use special tools to faciliate his clever tricks."/>
+<label key="key:620777545:54354734" value="Enables burglars to use special tools to faciliate their clever tricks."/>
+<label key="key:620777546:191029568" value="Allows the usage of Books of Lore."/>
+<label key="key:620777546:54354734" value="Allows the use of books of lore."/>
+<label key="key:620777551:191029568" value="Hand Wrought Traps"/>
+<label key="key:620777551:54354734" value="Hand-wrought Traps"/>
+<label key="key:620777559:191029568" value="This skill instantly cures any fear effects you have, and also makes the entire fellowship immune to fear for a short period of time, as well as acting as a heal over time."/>
+<label key="key:620777559:54354734" value="This skill instantly cures any fear effects upon you. It also makes your entire fellowship immune to fear for a short period of time, as well as healing them over time."/>
+<label key="key:620777577:191029568" value="Allows the usage of Armaments."/>
+<label key="key:620777577:54354734" value="Allows the wielding of Armaments."/>
+<label key="key:620777591:191029568" value="Allows the usage of Champion Horns."/>
+<label key="key:620777591:54354734" value="Allows the use of champion horns."/>
+<label key="key:620777690:191029568" value="The Dwarf Race are excellent defensive fighters."/>
+<label key="key:620777690:54354734" value="Your defensive combat abilities have been improved."/>
+<label key="key:620790690:191029568" value="Allows the use of Drums."/>
+<label key="key:620790690:54354734" value="Allows the use of Drums."/>
+<label key="key:620790691:191029568" value="Allows the use of Theorbo."/>
+<label key="key:620790691:54354734" value="Allows the use of Theorbo."/>
+<label key="key:620792156:191029568" value="Allows hunters to employ ancient chants to empower their bow to various different ends."/>
+<label key="key:620792156:54354734" value="Allows hunters to employ ancient chants to empower their bow to various different ends."/>
+<label key="key:620792418:106251892" value="Decreases your total Power by ${PERCENTVALUE}."/>
+<label key="key:620792418:191029568" value="Corruption traits allow you to increase one aspect of your character at the cost of other aspects."/>
+<label key="key:620792418:54354734" value="Corruption traits allow you to increase one aspect of your character at the cost of other aspects."/>
+<label key="key:620792419:106251889" value="Increases your total Health by ${PERCENTVALUE}."/>
+<label key="key:620792419:191029568" value="Corruption traits allow you to increase one aspect of your character at the cost of other aspects."/>
+<label key="key:620792419:54354734" value="Corruption traits allow you to increase one aspect of your character at the cost of other aspects."/>
+<label key="key:620792420:106251889" value="Increases your total Health by ${PERCENTVALUE}."/>
+<label key="key:620792420:106251890" value="Decreases your total Power by ${PERCENTVALUE}."/>
+<label key="key:620792420:191029568" value="Corruption traits allow you to increase one aspect of your character at the cost of other aspects."/>
+<label key="key:620792420:54354734" value="Corruption traits allow you to increase one aspect of your character at the cost of other aspects."/>
+<label key="key:620792421:106251889" value="Increases your total Power by ${PERCENTVALUE}."/>
+<label key="key:620792421:191029568" value="Corruption traits allow you to increase one aspect of your character at the cost of other aspects."/>
+<label key="key:620792421:54354734" value="Corruption traits allow you to increase one aspect of your character at the cost of other aspects."/>
+<label key="key:620792422:106251889" value="Increases your total Power by ${PERCENTVALUE}."/>
+<label key="key:620792422:106251890" value="Decreases your total Health by ${PERCENTVALUE}."/>
+<label key="key:620792422:191029568" value="Corruption traits allow you to increase one aspect of your character at the cost of other aspects."/>
+<label key="key:620792422:54354734" value="Corruption traits allow you to increase one aspect of your character at the cost of other aspects."/>
+<label key="key:620792423:191029568" value="Corruption traits allow you to increase one aspect of your character at the cost of other aspects."/>
+<label key="key:620792423:54354734" value="Corruption traits allow you to increase one aspect of your character at the cost of other aspects."/>
+<label key="key:620792424:191029568" value="Corruption traits allow you to increase one aspect of your character at the cost of other aspects."/>
+<label key="key:620792424:54354734" value="Corruption traits allow you to increase one aspect of your character at the cost of other aspects."/>
+<label key="key:620792425:191029568" value="Corruption traits allow you to increase one aspect of your character at the cost of other aspects."/>
+<label key="key:620792425:54354734" value="Corruption traits allow you to increase one aspect of your character at the cost of other aspects."/>
+<label key="key:620792426:191029568" value="Corruption traits allow you to increase one aspect of your character at the cost of other aspects."/>
+<label key="key:620792426:54354734" value="Corruption traits allow you to increase one aspect of your character at the cost of other aspects."/>
+<label key="key:620792427:191029568" value="Corruption traits allow you to increase one aspect of your character at the cost of other aspects."/>
+<label key="key:620792427:54354734" value="Corruption traits allow you to increase one aspect of your character at the cost of other aspects."/>
+<label key="key:620792428:191029568" value="Corruption traits allow you to increase one aspect of your character at the cost of other aspects."/>
+<label key="key:620792428:54354734" value="Corruption traits allow you to increase one aspect of your character at the cost of other aspects."/>
+<label key="key:620792429:191029568" value="Corruption traits allow you to increase one aspect of your character at the cost of other aspects."/>
+<label key="key:620792429:54354734" value="Corruption traits allow you to increase one aspect of your character at the cost of other aspects."/>
+<label key="key:620792430:191029568" value="Corruption traits allow you to increase one aspect of your character at the cost of other aspects."/>
+<label key="key:620792430:54354734" value="Corruption traits allow you to increase one aspect of your character at the cost of other aspects."/>
+<label key="key:620792431:191029568" value="Corruption traits allow you to increase one aspect of your character at the cost of other aspects."/>
+<label key="key:620792431:54354734" value="Corruption traits allow you to increase one aspect of your character at the cost of other aspects."/>
+<label key="key:620792432:191029568" value="Corruption traits allow you to increase one aspect of your character at the cost of other aspects."/>
+<label key="key:620792432:54354734" value="Corruption traits allow you to increase one aspect of your character at the cost of other aspects."/>
+<label key="key:620792433:106251892" value="Decreases your total Health by ${PERCENTVALUE}."/>
+<label key="key:620792433:191029568" value="Corruption traits allow you to increase one aspect of your character at the cost of other aspects."/>
+<label key="key:620792433:54354734" value="Corruption traits allow you to increase one aspect of your character at the cost of other aspects."/>
+<label key="key:620793238:191029568" value="Guile and Conviction Bonus"/>
+<label key="key:620793238:54354734" value="The Virtues of the Hobbits are represented strongly in you."/>
+<label key="key:620793266:191029568" value="Tactics and Might Bonus"/>
+<label key="key:620793266:54354734" value="The Virtues of Men are represented strongly in you."/>
+<label key="key:620793267:191029568" value="Guile and Might Bonus"/>
+<label key="key:620793267:54354734" value="The Virtues of the Dwarves are represented strongly in you."/>
+<label key="key:620793268:191029568" value="Tactics and Conviction Bonus"/>
+<label key="key:620793268:54354734" value="The Virtues of the Elves are represented strongly in you."/>
+<label key="key:620793382:191029568" value="Ruin tracking, baby."/>
+<label key="key:620793382:54354734" value="You are able to track the location of artifacts."/>
+<label key="key:620793629:191029568" value="Allows the Hunter to share the location of his tracked target with his fellowship members. Only information about non-player targets can be shared in this way."/>
+<label key="key:620793629:54354734" value="Allows the Hunter to share the location of his tracked target with his fellowship members. Only information about non-player targets can be shared in this way."/>
+<label key="key:620796145:191029568" value="Allows the use of Bagpipes."/>
+<label key="key:620796145:54354734" value="Allows the use of Bagpipes."/>
+<label key="key:620796148:191029568" value="Allows the use of Cowbells."/>
+<label key="key:620796148:54354734" value="Allows the use of Cowbells."/>
+<label key="key:620796151:191029568" value="Allows the use of advanced Cowbells."/>
+<label key="key:620796151:54354734" value="Allows the use of special Moor Cowbells."/>
+<label key="key:620799379:191029568" value="Allows the use of non-combat companions."/>
+<label key="key:620799379:54354734" value="Allows the use of non-combat companions."/>
+<label key="key:620799396:191029568" value="Bree-land Homestead"/>
+<label key="key:620799396:54354734" value="You are the proud owner of a house in Bree-land. This privilege grants you a 10% discount from neighborhood vendors."/>
+<label key="key:620799397:191029568" value="Shire Kinship Hall"/>
+<label key="key:620799397:54354734" value="You are the proud owner of a kinship hall in the Shire. This privilege grants you a 15% discount from neighborhood vendors."/>
+<label key="key:620799398:191029568" value="Thorin’s Halls Homestead"/>
+<label key="key:620799398:54354734" value="You are the proud owner of a house in Thorin’s Halls. This privilege grants you a 10% discount from neighborhood vendors."/>
+<label key="key:620799399:191029568" value="Thorin’s Halls Homestead"/>
+<label key="key:620799399:54354734" value="You are the proud owner of a house in Thorin’s Halls. This privilege grants you a 20% discount from neighborhood vendors."/>
+<label key="key:620799400:191029568" value="Thorin’s Halls Kinship Hall"/>
+<label key="key:620799400:54354734" value="You are the proud owner of a kinship hall in Thorin’s Halls. This privilege grants you a 15% discount from neighborhood vendors."/>
+<label key="key:620799401:191029568" value="Bree-land Homestead"/>
+<label key="key:620799401:54354734" value="You are the proud owner of a house in Bree-land. This privilege grants you a 20% discount from neighborhood vendors."/>
+<label key="key:620799402:191029568" value="Bree-land Kinship Hall"/>
+<label key="key:620799402:54354734" value="You are the proud owner of a kinship hall in Bree-land. This privilege grants you a 15% discount from neighborhood vendors."/>
+<label key="key:620799403:191029568" value="Falathlorn Homestead"/>
+<label key="key:620799403:54354734" value="You are the proud owner of a house in Falathlorn. This privilege grants you a 10% discount from neighborhood vendors."/>
+<label key="key:620799404:191029568" value="Falathlorn Homestead"/>
+<label key="key:620799404:54354734" value="You are the proud owner of a house in Falathlorn. This privilege grants you a 20% discount from neighborhood vendors."/>
+<label key="key:620799405:191029568" value="Falathlorn Kinship Hall"/>
+<label key="key:620799405:54354734" value="You are the proud owner of a kinship hall in Falathlorn. This privilege grants you a 15% discount from neighborhood vendors."/>
+<label key="key:620799406:191029568" value="Shire Homestead"/>
+<label key="key:620799406:54354734" value="You are the proud owner of a house in the Shire. This privilege grants you a 10% discount from neighborhood vendors."/>
+<label key="key:620799407:191029568" value="Shire Homestead"/>
+<label key="key:620799407:54354734" value="You are the proud owner of a house in the Shire. This privilege grants you a 20% discount from neighborhood vendors."/>
+<label key="key:620799497:191029568" value="You are able to travel quickly to your Personal House."/>
+<label key="key:620799497:54354734" value="You are able to travel quickly to your Personal House."/>
+<label key="key:620799498:191029568" value="You are able to travel quickly to your Kinship House."/>
+<label key="key:620799498:54354734" value="You are able to travel quickly to your Kinship House."/>
+<label key="key:620799689:191029568" value="You are able to ride tame mounts."/>
+<label key="key:620799689:54354734" value="You are able to ride tame mounts."/>
+</labels>
