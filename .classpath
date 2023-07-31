@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry including="*.zip" kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="lib/titleIcons.zip"/>
+	<classpathentry exported="true" kind="lib" path="lib/effectIcons.zip"/>
+	<classpathentry kind="lib" path="/delta-lotro-icons-legacy"/>
+	<classpathentry exported="true" kind="lib" path="lib/areaIcons.zip"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
