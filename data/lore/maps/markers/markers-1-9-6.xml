@@ -2578,11 +2578,11 @@
 <marker id="426696745" label="Curr-olog Hurler" category="71" did="1879080165" parentZoneId="1879063933" longitude="-19.979218" latitude="-36.391094"/>
 <marker id="426696746" label="Corcur Blood-sworn" category="71" did="1879080166" parentZoneId="1879063933" longitude="-19.979218" latitude="-36.391094"/>
 <marker id="426696747" label="Corcur Archer" category="71" did="1879080167" parentZoneId="1879063933" longitude="-19.979218" latitude="-36.391094"/>
-<marker id="426700800" label="Indigo Plant" category="73" did="1879054949" parentZoneId="1879063933" longitude="-20.141298" latitude="-35.477108"/>
-<marker id="426700801" label="Strawberries" category="73" did="1879061415" parentZoneId="1879063933" longitude="-20.141298" latitude="-35.477108"/>
-<marker id="426700802" label="Raspberries" category="73" did="1879061417" parentZoneId="1879063933" longitude="-20.141298" latitude="-35.477108"/>
-<marker id="426700803" label="Tater" category="73" did="1879061257" parentZoneId="1879063933" longitude="-20.141298" latitude="-35.477108"/>
-<marker id="426700804" label="Blackberries" category="73" did="1879061418" parentZoneId="1879063933" longitude="-20.141298" latitude="-35.477108"/>
+<marker id="426700800" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879063933" longitude="-20.141298" latitude="-35.477108"/>
+<marker id="426700801" label="Strawberries" category="77" did="1879061415" parentZoneId="1879063933" longitude="-20.141298" latitude="-35.477108"/>
+<marker id="426700802" label="Raspberries" category="77" did="1879061417" parentZoneId="1879063933" longitude="-20.141298" latitude="-35.477108"/>
+<marker id="426700803" label="Tater" category="77" did="1879061257" parentZoneId="1879063933" longitude="-20.141298" latitude="-35.477108"/>
+<marker id="426700804" label="Blackberries" category="77" did="1879061418" parentZoneId="1879063933" longitude="-20.141298" latitude="-35.477108"/>
 <marker id="426700805" label="Whiskerback Scavenger" category="71" did="1879080140" parentZoneId="1879063933" longitude="-20.141298" latitude="-35.477108"/>
 <marker id="426700806" label="Elder Stonehoof" category="71" did="1879080141" parentZoneId="1879063933" longitude="-20.141298" latitude="-35.477108"/>
 <marker id="426700807" label="Moor-fly Hatcher" category="71" did="1879080142" parentZoneId="1879063933" longitude="-20.141298" latitude="-35.477108"/>
@@ -2591,14 +2591,14 @@
 <marker id="426700810" label="Corrupt Darkclaw" category="71" did="1879080148" parentZoneId="1879063933" longitude="-20.141298" latitude="-35.477108"/>
 <marker id="426700811" label="Snow-mantle Maverick" category="71" did="1879080149" parentZoneId="1879063933" longitude="-20.141298" latitude="-35.477108"/>
 <marker id="426700812" label="Snow-mantle Cow" category="71" did="1879080150" parentZoneId="1879063933" longitude="-20.141298" latitude="-35.477108"/>
-<marker id="426700813" label="Fine Clover Honey" category="73" did="1879061399" parentZoneId="1879063933" longitude="-20.141298" latitude="-35.477108"/>
+<marker id="426700813" label="Fine Clover Honey" category="77" did="1879061399" parentZoneId="1879063933" longitude="-20.141298" latitude="-35.477108"/>
 <marker id="426700814" label="Young Snow-mantle" category="71" did="1879080151" parentZoneId="1879063933" longitude="-20.141298" latitude="-35.477108"/>
-<marker id="426700815" label="Blueberries" category="73" did="1879061342" parentZoneId="1879063933" longitude="-20.141298" latitude="-35.477108"/>
-<marker id="426700816" label="Indigo Plant" category="73" did="1879054949" parentZoneId="1879063933" longitude="-20.164707" latitude="-35.31083"/>
-<marker id="426700817" label="Strawberries" category="73" did="1879061415" parentZoneId="1879063933" longitude="-20.164707" latitude="-35.31083"/>
-<marker id="426700818" label="Raspberries" category="73" did="1879061417" parentZoneId="1879063933" longitude="-20.164707" latitude="-35.31083"/>
-<marker id="426700819" label="Tater" category="73" did="1879061257" parentZoneId="1879063933" longitude="-20.164707" latitude="-35.31083"/>
-<marker id="426700820" label="Blackberries" category="73" did="1879061418" parentZoneId="1879063933" longitude="-20.164707" latitude="-35.31083"/>
+<marker id="426700815" label="Blueberries" category="77" did="1879061342" parentZoneId="1879063933" longitude="-20.141298" latitude="-35.477108"/>
+<marker id="426700816" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879063933" longitude="-20.164707" latitude="-35.31083"/>
+<marker id="426700817" label="Strawberries" category="77" did="1879061415" parentZoneId="1879063933" longitude="-20.164707" latitude="-35.31083"/>
+<marker id="426700818" label="Raspberries" category="77" did="1879061417" parentZoneId="1879063933" longitude="-20.164707" latitude="-35.31083"/>
+<marker id="426700819" label="Tater" category="77" did="1879061257" parentZoneId="1879063933" longitude="-20.164707" latitude="-35.31083"/>
+<marker id="426700820" label="Blackberries" category="77" did="1879061418" parentZoneId="1879063933" longitude="-20.164707" latitude="-35.31083"/>
 <marker id="426700821" label="Whiskerback Scavenger" category="71" did="1879080140" parentZoneId="1879063933" longitude="-20.164707" latitude="-35.31083"/>
 <marker id="426700822" label="Elder Stonehoof" category="71" did="1879080141" parentZoneId="1879063933" longitude="-20.164707" latitude="-35.31083"/>
 <marker id="426700823" label="Moor-fly Hatcher" category="71" did="1879080142" parentZoneId="1879063933" longitude="-20.164707" latitude="-35.31083"/>
@@ -2607,14 +2607,14 @@
 <marker id="426700826" label="Corrupt Darkclaw" category="71" did="1879080148" parentZoneId="1879063933" longitude="-20.164707" latitude="-35.31083"/>
 <marker id="426700827" label="Snow-mantle Maverick" category="71" did="1879080149" parentZoneId="1879063933" longitude="-20.164707" latitude="-35.31083"/>
 <marker id="426700828" label="Snow-mantle Cow" category="71" did="1879080150" parentZoneId="1879063933" longitude="-20.164707" latitude="-35.31083"/>
-<marker id="426700829" label="Fine Clover Honey" category="73" did="1879061399" parentZoneId="1879063933" longitude="-20.164707" latitude="-35.31083"/>
+<marker id="426700829" label="Fine Clover Honey" category="77" did="1879061399" parentZoneId="1879063933" longitude="-20.164707" latitude="-35.31083"/>
 <marker id="426700830" label="Young Snow-mantle" category="71" did="1879080151" parentZoneId="1879063933" longitude="-20.164707" latitude="-35.31083"/>
-<marker id="426700831" label="Blueberries" category="73" did="1879061342" parentZoneId="1879063933" longitude="-20.164707" latitude="-35.31083"/>
-<marker id="426700832" label="Indigo Plant" category="73" did="1879054949" parentZoneId="1879063933" longitude="-20.059658" latitude="-35.34149"/>
-<marker id="426700833" label="Strawberries" category="73" did="1879061415" parentZoneId="1879063933" longitude="-20.059658" latitude="-35.34149"/>
-<marker id="426700834" label="Raspberries" category="73" did="1879061417" parentZoneId="1879063933" longitude="-20.059658" latitude="-35.34149"/>
-<marker id="426700835" label="Tater" category="73" did="1879061257" parentZoneId="1879063933" longitude="-20.059658" latitude="-35.34149"/>
-<marker id="426700836" label="Blackberries" category="73" did="1879061418" parentZoneId="1879063933" longitude="-20.059658" latitude="-35.34149"/>
+<marker id="426700831" label="Blueberries" category="77" did="1879061342" parentZoneId="1879063933" longitude="-20.164707" latitude="-35.31083"/>
+<marker id="426700832" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879063933" longitude="-20.059658" latitude="-35.34149"/>
+<marker id="426700833" label="Strawberries" category="77" did="1879061415" parentZoneId="1879063933" longitude="-20.059658" latitude="-35.34149"/>
+<marker id="426700834" label="Raspberries" category="77" did="1879061417" parentZoneId="1879063933" longitude="-20.059658" latitude="-35.34149"/>
+<marker id="426700835" label="Tater" category="77" did="1879061257" parentZoneId="1879063933" longitude="-20.059658" latitude="-35.34149"/>
+<marker id="426700836" label="Blackberries" category="77" did="1879061418" parentZoneId="1879063933" longitude="-20.059658" latitude="-35.34149"/>
 <marker id="426700837" label="Whiskerback Scavenger" category="71" did="1879080140" parentZoneId="1879063933" longitude="-20.059658" latitude="-35.34149"/>
 <marker id="426700838" label="Elder Stonehoof" category="71" did="1879080141" parentZoneId="1879063933" longitude="-20.059658" latitude="-35.34149"/>
 <marker id="426700839" label="Moor-fly Hatcher" category="71" did="1879080142" parentZoneId="1879063933" longitude="-20.059658" latitude="-35.34149"/>
@@ -2623,14 +2623,14 @@
 <marker id="426700842" label="Corrupt Darkclaw" category="71" did="1879080148" parentZoneId="1879063933" longitude="-20.059658" latitude="-35.34149"/>
 <marker id="426700843" label="Snow-mantle Maverick" category="71" did="1879080149" parentZoneId="1879063933" longitude="-20.059658" latitude="-35.34149"/>
 <marker id="426700844" label="Snow-mantle Cow" category="71" did="1879080150" parentZoneId="1879063933" longitude="-20.059658" latitude="-35.34149"/>
-<marker id="426700845" label="Fine Clover Honey" category="73" did="1879061399" parentZoneId="1879063933" longitude="-20.059658" latitude="-35.34149"/>
+<marker id="426700845" label="Fine Clover Honey" category="77" did="1879061399" parentZoneId="1879063933" longitude="-20.059658" latitude="-35.34149"/>
 <marker id="426700846" label="Young Snow-mantle" category="71" did="1879080151" parentZoneId="1879063933" longitude="-20.059658" latitude="-35.34149"/>
-<marker id="426700847" label="Blueberries" category="73" did="1879061342" parentZoneId="1879063933" longitude="-20.059658" latitude="-35.34149"/>
-<marker id="426700848" label="Indigo Plant" category="73" did="1879054949" parentZoneId="1879063933" longitude="-19.963604" latitude="-35.217285"/>
-<marker id="426700849" label="Strawberries" category="73" did="1879061415" parentZoneId="1879063933" longitude="-19.963604" latitude="-35.217285"/>
-<marker id="426700850" label="Raspberries" category="73" did="1879061417" parentZoneId="1879063933" longitude="-19.963604" latitude="-35.217285"/>
-<marker id="426700851" label="Tater" category="73" did="1879061257" parentZoneId="1879063933" longitude="-19.963604" latitude="-35.217285"/>
-<marker id="426700852" label="Blackberries" category="73" did="1879061418" parentZoneId="1879063933" longitude="-19.963604" latitude="-35.217285"/>
+<marker id="426700847" label="Blueberries" category="77" did="1879061342" parentZoneId="1879063933" longitude="-20.059658" latitude="-35.34149"/>
+<marker id="426700848" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879063933" longitude="-19.963604" latitude="-35.217285"/>
+<marker id="426700849" label="Strawberries" category="77" did="1879061415" parentZoneId="1879063933" longitude="-19.963604" latitude="-35.217285"/>
+<marker id="426700850" label="Raspberries" category="77" did="1879061417" parentZoneId="1879063933" longitude="-19.963604" latitude="-35.217285"/>
+<marker id="426700851" label="Tater" category="77" did="1879061257" parentZoneId="1879063933" longitude="-19.963604" latitude="-35.217285"/>
+<marker id="426700852" label="Blackberries" category="77" did="1879061418" parentZoneId="1879063933" longitude="-19.963604" latitude="-35.217285"/>
 <marker id="426700853" label="Whiskerback Scavenger" category="71" did="1879080140" parentZoneId="1879063933" longitude="-19.963604" latitude="-35.217285"/>
 <marker id="426700854" label="Elder Stonehoof" category="71" did="1879080141" parentZoneId="1879063933" longitude="-19.963604" latitude="-35.217285"/>
 <marker id="426700855" label="Moor-fly Hatcher" category="71" did="1879080142" parentZoneId="1879063933" longitude="-19.963604" latitude="-35.217285"/>
@@ -2639,14 +2639,14 @@
 <marker id="426700858" label="Corrupt Darkclaw" category="71" did="1879080148" parentZoneId="1879063933" longitude="-19.963604" latitude="-35.217285"/>
 <marker id="426700859" label="Snow-mantle Maverick" category="71" did="1879080149" parentZoneId="1879063933" longitude="-19.963604" latitude="-35.217285"/>
 <marker id="426700860" label="Snow-mantle Cow" category="71" did="1879080150" parentZoneId="1879063933" longitude="-19.963604" latitude="-35.217285"/>
-<marker id="426700861" label="Fine Clover Honey" category="73" did="1879061399" parentZoneId="1879063933" longitude="-19.963604" latitude="-35.217285"/>
+<marker id="426700861" label="Fine Clover Honey" category="77" did="1879061399" parentZoneId="1879063933" longitude="-19.963604" latitude="-35.217285"/>
 <marker id="426700862" label="Young Snow-mantle" category="71" did="1879080151" parentZoneId="1879063933" longitude="-19.963604" latitude="-35.217285"/>
-<marker id="426700863" label="Blueberries" category="73" did="1879061342" parentZoneId="1879063933" longitude="-19.963604" latitude="-35.217285"/>
-<marker id="426700864" label="Indigo Plant" category="73" did="1879054949" parentZoneId="1879063933" longitude="-19.806387" latitude="-35.149376"/>
-<marker id="426700865" label="Strawberries" category="73" did="1879061415" parentZoneId="1879063933" longitude="-19.806387" latitude="-35.149376"/>
-<marker id="426700866" label="Raspberries" category="73" did="1879061417" parentZoneId="1879063933" longitude="-19.806387" latitude="-35.149376"/>
-<marker id="426700867" label="Tater" category="73" did="1879061257" parentZoneId="1879063933" longitude="-19.806387" latitude="-35.149376"/>
-<marker id="426700868" label="Blackberries" category="73" did="1879061418" parentZoneId="1879063933" longitude="-19.806387" latitude="-35.149376"/>
+<marker id="426700863" label="Blueberries" category="77" did="1879061342" parentZoneId="1879063933" longitude="-19.963604" latitude="-35.217285"/>
+<marker id="426700864" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879063933" longitude="-19.806387" latitude="-35.149376"/>
+<marker id="426700865" label="Strawberries" category="77" did="1879061415" parentZoneId="1879063933" longitude="-19.806387" latitude="-35.149376"/>
+<marker id="426700866" label="Raspberries" category="77" did="1879061417" parentZoneId="1879063933" longitude="-19.806387" latitude="-35.149376"/>
+<marker id="426700867" label="Tater" category="77" did="1879061257" parentZoneId="1879063933" longitude="-19.806387" latitude="-35.149376"/>
+<marker id="426700868" label="Blackberries" category="77" did="1879061418" parentZoneId="1879063933" longitude="-19.806387" latitude="-35.149376"/>
 <marker id="426700869" label="Whiskerback Scavenger" category="71" did="1879080140" parentZoneId="1879063933" longitude="-19.806387" latitude="-35.149376"/>
 <marker id="426700870" label="Elder Stonehoof" category="71" did="1879080141" parentZoneId="1879063933" longitude="-19.806387" latitude="-35.149376"/>
 <marker id="426700871" label="Moor-fly Hatcher" category="71" did="1879080142" parentZoneId="1879063933" longitude="-19.806387" latitude="-35.149376"/>
@@ -2655,14 +2655,14 @@
 <marker id="426700874" label="Corrupt Darkclaw" category="71" did="1879080148" parentZoneId="1879063933" longitude="-19.806387" latitude="-35.149376"/>
 <marker id="426700875" label="Snow-mantle Maverick" category="71" did="1879080149" parentZoneId="1879063933" longitude="-19.806387" latitude="-35.149376"/>
 <marker id="426700876" label="Snow-mantle Cow" category="71" did="1879080150" parentZoneId="1879063933" longitude="-19.806387" latitude="-35.149376"/>
-<marker id="426700877" label="Fine Clover Honey" category="73" did="1879061399" parentZoneId="1879063933" longitude="-19.806387" latitude="-35.149376"/>
+<marker id="426700877" label="Fine Clover Honey" category="77" did="1879061399" parentZoneId="1879063933" longitude="-19.806387" latitude="-35.149376"/>
 <marker id="426700878" label="Young Snow-mantle" category="71" did="1879080151" parentZoneId="1879063933" longitude="-19.806387" latitude="-35.149376"/>
-<marker id="426700879" label="Blueberries" category="73" did="1879061342" parentZoneId="1879063933" longitude="-19.806387" latitude="-35.149376"/>
-<marker id="426700880" label="Indigo Plant" category="73" did="1879054949" parentZoneId="1879063933" longitude="-19.667274" latitude="-35.095184"/>
-<marker id="426700881" label="Strawberries" category="73" did="1879061415" parentZoneId="1879063933" longitude="-19.667274" latitude="-35.095184"/>
-<marker id="426700882" label="Raspberries" category="73" did="1879061417" parentZoneId="1879063933" longitude="-19.667274" latitude="-35.095184"/>
-<marker id="426700883" label="Tater" category="73" did="1879061257" parentZoneId="1879063933" longitude="-19.667274" latitude="-35.095184"/>
-<marker id="426700884" label="Blackberries" category="73" did="1879061418" parentZoneId="1879063933" longitude="-19.667274" latitude="-35.095184"/>
+<marker id="426700879" label="Blueberries" category="77" did="1879061342" parentZoneId="1879063933" longitude="-19.806387" latitude="-35.149376"/>
+<marker id="426700880" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879063933" longitude="-19.667274" latitude="-35.095184"/>
+<marker id="426700881" label="Strawberries" category="77" did="1879061415" parentZoneId="1879063933" longitude="-19.667274" latitude="-35.095184"/>
+<marker id="426700882" label="Raspberries" category="77" did="1879061417" parentZoneId="1879063933" longitude="-19.667274" latitude="-35.095184"/>
+<marker id="426700883" label="Tater" category="77" did="1879061257" parentZoneId="1879063933" longitude="-19.667274" latitude="-35.095184"/>
+<marker id="426700884" label="Blackberries" category="77" did="1879061418" parentZoneId="1879063933" longitude="-19.667274" latitude="-35.095184"/>
 <marker id="426700885" label="Whiskerback Scavenger" category="71" did="1879080140" parentZoneId="1879063933" longitude="-19.667274" latitude="-35.095184"/>
 <marker id="426700886" label="Elder Stonehoof" category="71" did="1879080141" parentZoneId="1879063933" longitude="-19.667274" latitude="-35.095184"/>
 <marker id="426700887" label="Moor-fly Hatcher" category="71" did="1879080142" parentZoneId="1879063933" longitude="-19.667274" latitude="-35.095184"/>
@@ -2671,14 +2671,14 @@
 <marker id="426700890" label="Corrupt Darkclaw" category="71" did="1879080148" parentZoneId="1879063933" longitude="-19.667274" latitude="-35.095184"/>
 <marker id="426700891" label="Snow-mantle Maverick" category="71" did="1879080149" parentZoneId="1879063933" longitude="-19.667274" latitude="-35.095184"/>
 <marker id="426700892" label="Snow-mantle Cow" category="71" did="1879080150" parentZoneId="1879063933" longitude="-19.667274" latitude="-35.095184"/>
-<marker id="426700893" label="Fine Clover Honey" category="73" did="1879061399" parentZoneId="1879063933" longitude="-19.667274" latitude="-35.095184"/>
+<marker id="426700893" label="Fine Clover Honey" category="77" did="1879061399" parentZoneId="1879063933" longitude="-19.667274" latitude="-35.095184"/>
 <marker id="426700894" label="Young Snow-mantle" category="71" did="1879080151" parentZoneId="1879063933" longitude="-19.667274" latitude="-35.095184"/>
-<marker id="426700895" label="Blueberries" category="73" did="1879061342" parentZoneId="1879063933" longitude="-19.667274" latitude="-35.095184"/>
-<marker id="426700896" label="Indigo Plant" category="73" did="1879054949" parentZoneId="1879063933" longitude="-19.637627" latitude="-34.965702"/>
-<marker id="426700897" label="Strawberries" category="73" did="1879061415" parentZoneId="1879063933" longitude="-19.637627" latitude="-34.965702"/>
-<marker id="426700898" label="Raspberries" category="73" did="1879061417" parentZoneId="1879063933" longitude="-19.637627" latitude="-34.965702"/>
-<marker id="426700899" label="Tater" category="73" did="1879061257" parentZoneId="1879063933" longitude="-19.637627" latitude="-34.965702"/>
-<marker id="426700900" label="Blackberries" category="73" did="1879061418" parentZoneId="1879063933" longitude="-19.637627" latitude="-34.965702"/>
+<marker id="426700895" label="Blueberries" category="77" did="1879061342" parentZoneId="1879063933" longitude="-19.667274" latitude="-35.095184"/>
+<marker id="426700896" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879063933" longitude="-19.637627" latitude="-34.965702"/>
+<marker id="426700897" label="Strawberries" category="77" did="1879061415" parentZoneId="1879063933" longitude="-19.637627" latitude="-34.965702"/>
+<marker id="426700898" label="Raspberries" category="77" did="1879061417" parentZoneId="1879063933" longitude="-19.637627" latitude="-34.965702"/>
+<marker id="426700899" label="Tater" category="77" did="1879061257" parentZoneId="1879063933" longitude="-19.637627" latitude="-34.965702"/>
+<marker id="426700900" label="Blackberries" category="77" did="1879061418" parentZoneId="1879063933" longitude="-19.637627" latitude="-34.965702"/>
 <marker id="426700901" label="Whiskerback Scavenger" category="71" did="1879080140" parentZoneId="1879063933" longitude="-19.637627" latitude="-34.965702"/>
 <marker id="426700902" label="Elder Stonehoof" category="71" did="1879080141" parentZoneId="1879063933" longitude="-19.637627" latitude="-34.965702"/>
 <marker id="426700903" label="Moor-fly Hatcher" category="71" did="1879080142" parentZoneId="1879063933" longitude="-19.637627" latitude="-34.965702"/>
@@ -2687,9 +2687,9 @@
 <marker id="426700906" label="Corrupt Darkclaw" category="71" did="1879080148" parentZoneId="1879063933" longitude="-19.637627" latitude="-34.965702"/>
 <marker id="426700907" label="Snow-mantle Maverick" category="71" did="1879080149" parentZoneId="1879063933" longitude="-19.637627" latitude="-34.965702"/>
 <marker id="426700908" label="Snow-mantle Cow" category="71" did="1879080150" parentZoneId="1879063933" longitude="-19.637627" latitude="-34.965702"/>
-<marker id="426700909" label="Fine Clover Honey" category="73" did="1879061399" parentZoneId="1879063933" longitude="-19.637627" latitude="-34.965702"/>
+<marker id="426700909" label="Fine Clover Honey" category="77" did="1879061399" parentZoneId="1879063933" longitude="-19.637627" latitude="-34.965702"/>
 <marker id="426700910" label="Young Snow-mantle" category="71" did="1879080151" parentZoneId="1879063933" longitude="-19.637627" latitude="-34.965702"/>
-<marker id="426700911" label="Blueberries" category="73" did="1879061342" parentZoneId="1879063933" longitude="-19.637627" latitude="-34.965702"/>
+<marker id="426700911" label="Blueberries" category="77" did="1879061342" parentZoneId="1879063933" longitude="-19.637627" latitude="-34.965702"/>
 <marker id="426758144" label="Minas Agor" category="43" did="1879063768" parentZoneId="1879063933" longitude="-19.194658" latitude="-36.80286"/>
 <marker id="426758145" label="Curr-olog Scourge" category="71" did="1879080164" parentZoneId="1879063933" longitude="-19.42163" latitude="-36.85376"/>
 <marker id="426758146" label="Curr-olog Hurler" category="71" did="1879080165" parentZoneId="1879063933" longitude="-19.42163" latitude="-36.85376"/>
@@ -2803,11 +2803,11 @@
 <marker id="426762277" label="Curr-olog Hurler" category="71" did="1879080165" parentZoneId="1879063933" longitude="-19.34913" latitude="-35.996902"/>
 <marker id="426762278" label="Corcur Blood-sworn" category="71" did="1879080166" parentZoneId="1879063933" longitude="-19.34913" latitude="-35.996902"/>
 <marker id="426762279" label="Corcur Archer" category="71" did="1879080167" parentZoneId="1879063933" longitude="-19.34913" latitude="-35.996902"/>
-<marker id="426766336" label="Indigo Plant" category="73" did="1879054949" parentZoneId="1879063933" longitude="-19.240936" latitude="-35.435303"/>
-<marker id="426766337" label="Strawberries" category="73" did="1879061415" parentZoneId="1879063933" longitude="-19.240936" latitude="-35.435303"/>
-<marker id="426766338" label="Raspberries" category="73" did="1879061417" parentZoneId="1879063933" longitude="-19.240936" latitude="-35.435303"/>
-<marker id="426766339" label="Tater" category="73" did="1879061257" parentZoneId="1879063933" longitude="-19.240936" latitude="-35.435303"/>
-<marker id="426766340" label="Blackberries" category="73" did="1879061418" parentZoneId="1879063933" longitude="-19.240936" latitude="-35.435303"/>
+<marker id="426766336" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879063933" longitude="-19.240936" latitude="-35.435303"/>
+<marker id="426766337" label="Strawberries" category="77" did="1879061415" parentZoneId="1879063933" longitude="-19.240936" latitude="-35.435303"/>
+<marker id="426766338" label="Raspberries" category="77" did="1879061417" parentZoneId="1879063933" longitude="-19.240936" latitude="-35.435303"/>
+<marker id="426766339" label="Tater" category="77" did="1879061257" parentZoneId="1879063933" longitude="-19.240936" latitude="-35.435303"/>
+<marker id="426766340" label="Blackberries" category="77" did="1879061418" parentZoneId="1879063933" longitude="-19.240936" latitude="-35.435303"/>
 <marker id="426766341" label="Whiskerback Scavenger" category="71" did="1879080140" parentZoneId="1879063933" longitude="-19.240936" latitude="-35.435303"/>
 <marker id="426766342" label="Elder Stonehoof" category="71" did="1879080141" parentZoneId="1879063933" longitude="-19.240936" latitude="-35.435303"/>
 <marker id="426766343" label="Moor-fly Hatcher" category="71" did="1879080142" parentZoneId="1879063933" longitude="-19.240936" latitude="-35.435303"/>
@@ -2816,14 +2816,14 @@
 <marker id="426766346" label="Corrupt Darkclaw" category="71" did="1879080148" parentZoneId="1879063933" longitude="-19.240936" latitude="-35.435303"/>
 <marker id="426766347" label="Snow-mantle Maverick" category="71" did="1879080149" parentZoneId="1879063933" longitude="-19.240936" latitude="-35.435303"/>
 <marker id="426766348" label="Snow-mantle Cow" category="71" did="1879080150" parentZoneId="1879063933" longitude="-19.240936" latitude="-35.435303"/>
-<marker id="426766349" label="Fine Clover Honey" category="73" did="1879061399" parentZoneId="1879063933" longitude="-19.240936" latitude="-35.435303"/>
+<marker id="426766349" label="Fine Clover Honey" category="77" did="1879061399" parentZoneId="1879063933" longitude="-19.240936" latitude="-35.435303"/>
 <marker id="426766350" label="Young Snow-mantle" category="71" did="1879080151" parentZoneId="1879063933" longitude="-19.240936" latitude="-35.435303"/>
-<marker id="426766351" label="Blueberries" category="73" did="1879061342" parentZoneId="1879063933" longitude="-19.240936" latitude="-35.435303"/>
-<marker id="426766352" label="Indigo Plant" category="73" did="1879054949" parentZoneId="1879063933" longitude="-19.170567" latitude="-35.293797"/>
-<marker id="426766353" label="Strawberries" category="73" did="1879061415" parentZoneId="1879063933" longitude="-19.170567" latitude="-35.293797"/>
-<marker id="426766354" label="Raspberries" category="73" did="1879061417" parentZoneId="1879063933" longitude="-19.170567" latitude="-35.293797"/>
-<marker id="426766355" label="Tater" category="73" did="1879061257" parentZoneId="1879063933" longitude="-19.170567" latitude="-35.293797"/>
-<marker id="426766356" label="Blackberries" category="73" did="1879061418" parentZoneId="1879063933" longitude="-19.170567" latitude="-35.293797"/>
+<marker id="426766351" label="Blueberries" category="77" did="1879061342" parentZoneId="1879063933" longitude="-19.240936" latitude="-35.435303"/>
+<marker id="426766352" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879063933" longitude="-19.170567" latitude="-35.293797"/>
+<marker id="426766353" label="Strawberries" category="77" did="1879061415" parentZoneId="1879063933" longitude="-19.170567" latitude="-35.293797"/>
+<marker id="426766354" label="Raspberries" category="77" did="1879061417" parentZoneId="1879063933" longitude="-19.170567" latitude="-35.293797"/>
+<marker id="426766355" label="Tater" category="77" did="1879061257" parentZoneId="1879063933" longitude="-19.170567" latitude="-35.293797"/>
+<marker id="426766356" label="Blackberries" category="77" did="1879061418" parentZoneId="1879063933" longitude="-19.170567" latitude="-35.293797"/>
 <marker id="426766357" label="Whiskerback Scavenger" category="71" did="1879080140" parentZoneId="1879063933" longitude="-19.170567" latitude="-35.293797"/>
 <marker id="426766358" label="Elder Stonehoof" category="71" did="1879080141" parentZoneId="1879063933" longitude="-19.170567" latitude="-35.293797"/>
 <marker id="426766359" label="Moor-fly Hatcher" category="71" did="1879080142" parentZoneId="1879063933" longitude="-19.170567" latitude="-35.293797"/>
@@ -2832,14 +2832,14 @@
 <marker id="426766362" label="Corrupt Darkclaw" category="71" did="1879080148" parentZoneId="1879063933" longitude="-19.170567" latitude="-35.293797"/>
 <marker id="426766363" label="Snow-mantle Maverick" category="71" did="1879080149" parentZoneId="1879063933" longitude="-19.170567" latitude="-35.293797"/>
 <marker id="426766364" label="Snow-mantle Cow" category="71" did="1879080150" parentZoneId="1879063933" longitude="-19.170567" latitude="-35.293797"/>
-<marker id="426766365" label="Fine Clover Honey" category="73" did="1879061399" parentZoneId="1879063933" longitude="-19.170567" latitude="-35.293797"/>
+<marker id="426766365" label="Fine Clover Honey" category="77" did="1879061399" parentZoneId="1879063933" longitude="-19.170567" latitude="-35.293797"/>
 <marker id="426766366" label="Young Snow-mantle" category="71" did="1879080151" parentZoneId="1879063933" longitude="-19.170567" latitude="-35.293797"/>
-<marker id="426766367" label="Blueberries" category="73" did="1879061342" parentZoneId="1879063933" longitude="-19.170567" latitude="-35.293797"/>
-<marker id="426766368" label="Indigo Plant" category="73" did="1879054949" parentZoneId="1879063933" longitude="-19.269384" latitude="-35.26781"/>
-<marker id="426766369" label="Strawberries" category="73" did="1879061415" parentZoneId="1879063933" longitude="-19.269384" latitude="-35.26781"/>
-<marker id="426766370" label="Raspberries" category="73" did="1879061417" parentZoneId="1879063933" longitude="-19.269384" latitude="-35.26781"/>
-<marker id="426766371" label="Tater" category="73" did="1879061257" parentZoneId="1879063933" longitude="-19.269384" latitude="-35.26781"/>
-<marker id="426766372" label="Blackberries" category="73" did="1879061418" parentZoneId="1879063933" longitude="-19.269384" latitude="-35.26781"/>
+<marker id="426766367" label="Blueberries" category="77" did="1879061342" parentZoneId="1879063933" longitude="-19.170567" latitude="-35.293797"/>
+<marker id="426766368" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879063933" longitude="-19.269384" latitude="-35.26781"/>
+<marker id="426766369" label="Strawberries" category="77" did="1879061415" parentZoneId="1879063933" longitude="-19.269384" latitude="-35.26781"/>
+<marker id="426766370" label="Raspberries" category="77" did="1879061417" parentZoneId="1879063933" longitude="-19.269384" latitude="-35.26781"/>
+<marker id="426766371" label="Tater" category="77" did="1879061257" parentZoneId="1879063933" longitude="-19.269384" latitude="-35.26781"/>
+<marker id="426766372" label="Blackberries" category="77" did="1879061418" parentZoneId="1879063933" longitude="-19.269384" latitude="-35.26781"/>
 <marker id="426766373" label="Whiskerback Scavenger" category="71" did="1879080140" parentZoneId="1879063933" longitude="-19.269384" latitude="-35.26781"/>
 <marker id="426766374" label="Elder Stonehoof" category="71" did="1879080141" parentZoneId="1879063933" longitude="-19.269384" latitude="-35.26781"/>
 <marker id="426766375" label="Moor-fly Hatcher" category="71" did="1879080142" parentZoneId="1879063933" longitude="-19.269384" latitude="-35.26781"/>
@@ -2848,14 +2848,14 @@
 <marker id="426766378" label="Corrupt Darkclaw" category="71" did="1879080148" parentZoneId="1879063933" longitude="-19.269384" latitude="-35.26781"/>
 <marker id="426766379" label="Snow-mantle Maverick" category="71" did="1879080149" parentZoneId="1879063933" longitude="-19.269384" latitude="-35.26781"/>
 <marker id="426766380" label="Snow-mantle Cow" category="71" did="1879080150" parentZoneId="1879063933" longitude="-19.269384" latitude="-35.26781"/>
-<marker id="426766381" label="Fine Clover Honey" category="73" did="1879061399" parentZoneId="1879063933" longitude="-19.269384" latitude="-35.26781"/>
+<marker id="426766381" label="Fine Clover Honey" category="77" did="1879061399" parentZoneId="1879063933" longitude="-19.269384" latitude="-35.26781"/>
 <marker id="426766382" label="Young Snow-mantle" category="71" did="1879080151" parentZoneId="1879063933" longitude="-19.269384" latitude="-35.26781"/>
-<marker id="426766383" label="Blueberries" category="73" did="1879061342" parentZoneId="1879063933" longitude="-19.269384" latitude="-35.26781"/>
-<marker id="426766384" label="Indigo Plant" category="73" did="1879054949" parentZoneId="1879063933" longitude="-19.450468" latitude="-35.186707"/>
-<marker id="426766385" label="Strawberries" category="73" did="1879061415" parentZoneId="1879063933" longitude="-19.450468" latitude="-35.186707"/>
-<marker id="426766386" label="Raspberries" category="73" did="1879061417" parentZoneId="1879063933" longitude="-19.450468" latitude="-35.186707"/>
-<marker id="426766387" label="Tater" category="73" did="1879061257" parentZoneId="1879063933" longitude="-19.450468" latitude="-35.186707"/>
-<marker id="426766388" label="Blackberries" category="73" did="1879061418" parentZoneId="1879063933" longitude="-19.450468" latitude="-35.186707"/>
+<marker id="426766383" label="Blueberries" category="77" did="1879061342" parentZoneId="1879063933" longitude="-19.269384" latitude="-35.26781"/>
+<marker id="426766384" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879063933" longitude="-19.450468" latitude="-35.186707"/>
+<marker id="426766385" label="Strawberries" category="77" did="1879061415" parentZoneId="1879063933" longitude="-19.450468" latitude="-35.186707"/>
+<marker id="426766386" label="Raspberries" category="77" did="1879061417" parentZoneId="1879063933" longitude="-19.450468" latitude="-35.186707"/>
+<marker id="426766387" label="Tater" category="77" did="1879061257" parentZoneId="1879063933" longitude="-19.450468" latitude="-35.186707"/>
+<marker id="426766388" label="Blackberries" category="77" did="1879061418" parentZoneId="1879063933" longitude="-19.450468" latitude="-35.186707"/>
 <marker id="426766389" label="Whiskerback Scavenger" category="71" did="1879080140" parentZoneId="1879063933" longitude="-19.450468" latitude="-35.186707"/>
 <marker id="426766390" label="Elder Stonehoof" category="71" did="1879080141" parentZoneId="1879063933" longitude="-19.450468" latitude="-35.186707"/>
 <marker id="426766391" label="Moor-fly Hatcher" category="71" did="1879080142" parentZoneId="1879063933" longitude="-19.450468" latitude="-35.186707"/>
@@ -2864,14 +2864,14 @@
 <marker id="426766394" label="Corrupt Darkclaw" category="71" did="1879080148" parentZoneId="1879063933" longitude="-19.450468" latitude="-35.186707"/>
 <marker id="426766395" label="Snow-mantle Maverick" category="71" did="1879080149" parentZoneId="1879063933" longitude="-19.450468" latitude="-35.186707"/>
 <marker id="426766396" label="Snow-mantle Cow" category="71" did="1879080150" parentZoneId="1879063933" longitude="-19.450468" latitude="-35.186707"/>
-<marker id="426766397" label="Fine Clover Honey" category="73" did="1879061399" parentZoneId="1879063933" longitude="-19.450468" latitude="-35.186707"/>
+<marker id="426766397" label="Fine Clover Honey" category="77" did="1879061399" parentZoneId="1879063933" longitude="-19.450468" latitude="-35.186707"/>
 <marker id="426766398" label="Young Snow-mantle" category="71" did="1879080151" parentZoneId="1879063933" longitude="-19.450468" latitude="-35.186707"/>
-<marker id="426766399" label="Blueberries" category="73" did="1879061342" parentZoneId="1879063933" longitude="-19.450468" latitude="-35.186707"/>
-<marker id="426766400" label="Indigo Plant" category="73" did="1879054949" parentZoneId="1879063933" longitude="-19.291826" latitude="-35.15486"/>
-<marker id="426766401" label="Strawberries" category="73" did="1879061415" parentZoneId="1879063933" longitude="-19.291826" latitude="-35.15486"/>
-<marker id="426766402" label="Raspberries" category="73" did="1879061417" parentZoneId="1879063933" longitude="-19.291826" latitude="-35.15486"/>
-<marker id="426766403" label="Tater" category="73" did="1879061257" parentZoneId="1879063933" longitude="-19.291826" latitude="-35.15486"/>
-<marker id="426766404" label="Blackberries" category="73" did="1879061418" parentZoneId="1879063933" longitude="-19.291826" latitude="-35.15486"/>
+<marker id="426766399" label="Blueberries" category="77" did="1879061342" parentZoneId="1879063933" longitude="-19.450468" latitude="-35.186707"/>
+<marker id="426766400" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879063933" longitude="-19.291826" latitude="-35.15486"/>
+<marker id="426766401" label="Strawberries" category="77" did="1879061415" parentZoneId="1879063933" longitude="-19.291826" latitude="-35.15486"/>
+<marker id="426766402" label="Raspberries" category="77" did="1879061417" parentZoneId="1879063933" longitude="-19.291826" latitude="-35.15486"/>
+<marker id="426766403" label="Tater" category="77" did="1879061257" parentZoneId="1879063933" longitude="-19.291826" latitude="-35.15486"/>
+<marker id="426766404" label="Blackberries" category="77" did="1879061418" parentZoneId="1879063933" longitude="-19.291826" latitude="-35.15486"/>
 <marker id="426766405" label="Whiskerback Scavenger" category="71" did="1879080140" parentZoneId="1879063933" longitude="-19.291826" latitude="-35.15486"/>
 <marker id="426766406" label="Elder Stonehoof" category="71" did="1879080141" parentZoneId="1879063933" longitude="-19.291826" latitude="-35.15486"/>
 <marker id="426766407" label="Moor-fly Hatcher" category="71" did="1879080142" parentZoneId="1879063933" longitude="-19.291826" latitude="-35.15486"/>
@@ -2880,14 +2880,14 @@
 <marker id="426766410" label="Corrupt Darkclaw" category="71" did="1879080148" parentZoneId="1879063933" longitude="-19.291826" latitude="-35.15486"/>
 <marker id="426766411" label="Snow-mantle Maverick" category="71" did="1879080149" parentZoneId="1879063933" longitude="-19.291826" latitude="-35.15486"/>
 <marker id="426766412" label="Snow-mantle Cow" category="71" did="1879080150" parentZoneId="1879063933" longitude="-19.291826" latitude="-35.15486"/>
-<marker id="426766413" label="Fine Clover Honey" category="73" did="1879061399" parentZoneId="1879063933" longitude="-19.291826" latitude="-35.15486"/>
+<marker id="426766413" label="Fine Clover Honey" category="77" did="1879061399" parentZoneId="1879063933" longitude="-19.291826" latitude="-35.15486"/>
 <marker id="426766414" label="Young Snow-mantle" category="71" did="1879080151" parentZoneId="1879063933" longitude="-19.291826" latitude="-35.15486"/>
-<marker id="426766415" label="Blueberries" category="73" did="1879061342" parentZoneId="1879063933" longitude="-19.291826" latitude="-35.15486"/>
-<marker id="426766416" label="Indigo Plant" category="73" did="1879054949" parentZoneId="1879063933" longitude="-19.167528" latitude="-35.036583"/>
-<marker id="426766417" label="Strawberries" category="73" did="1879061415" parentZoneId="1879063933" longitude="-19.167528" latitude="-35.036583"/>
-<marker id="426766418" label="Raspberries" category="73" did="1879061417" parentZoneId="1879063933" longitude="-19.167528" latitude="-35.036583"/>
-<marker id="426766419" label="Tater" category="73" did="1879061257" parentZoneId="1879063933" longitude="-19.167528" latitude="-35.036583"/>
-<marker id="426766420" label="Blackberries" category="73" did="1879061418" parentZoneId="1879063933" longitude="-19.167528" latitude="-35.036583"/>
+<marker id="426766415" label="Blueberries" category="77" did="1879061342" parentZoneId="1879063933" longitude="-19.291826" latitude="-35.15486"/>
+<marker id="426766416" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879063933" longitude="-19.167528" latitude="-35.036583"/>
+<marker id="426766417" label="Strawberries" category="77" did="1879061415" parentZoneId="1879063933" longitude="-19.167528" latitude="-35.036583"/>
+<marker id="426766418" label="Raspberries" category="77" did="1879061417" parentZoneId="1879063933" longitude="-19.167528" latitude="-35.036583"/>
+<marker id="426766419" label="Tater" category="77" did="1879061257" parentZoneId="1879063933" longitude="-19.167528" latitude="-35.036583"/>
+<marker id="426766420" label="Blackberries" category="77" did="1879061418" parentZoneId="1879063933" longitude="-19.167528" latitude="-35.036583"/>
 <marker id="426766421" label="Whiskerback Scavenger" category="71" did="1879080140" parentZoneId="1879063933" longitude="-19.167528" latitude="-35.036583"/>
 <marker id="426766422" label="Elder Stonehoof" category="71" did="1879080141" parentZoneId="1879063933" longitude="-19.167528" latitude="-35.036583"/>
 <marker id="426766423" label="Moor-fly Hatcher" category="71" did="1879080142" parentZoneId="1879063933" longitude="-19.167528" latitude="-35.036583"/>
@@ -2896,14 +2896,14 @@
 <marker id="426766426" label="Corrupt Darkclaw" category="71" did="1879080148" parentZoneId="1879063933" longitude="-19.167528" latitude="-35.036583"/>
 <marker id="426766427" label="Snow-mantle Maverick" category="71" did="1879080149" parentZoneId="1879063933" longitude="-19.167528" latitude="-35.036583"/>
 <marker id="426766428" label="Snow-mantle Cow" category="71" did="1879080150" parentZoneId="1879063933" longitude="-19.167528" latitude="-35.036583"/>
-<marker id="426766429" label="Fine Clover Honey" category="73" did="1879061399" parentZoneId="1879063933" longitude="-19.167528" latitude="-35.036583"/>
+<marker id="426766429" label="Fine Clover Honey" category="77" did="1879061399" parentZoneId="1879063933" longitude="-19.167528" latitude="-35.036583"/>
 <marker id="426766430" label="Young Snow-mantle" category="71" did="1879080151" parentZoneId="1879063933" longitude="-19.167528" latitude="-35.036583"/>
-<marker id="426766431" label="Blueberries" category="73" did="1879061342" parentZoneId="1879063933" longitude="-19.167528" latitude="-35.036583"/>
-<marker id="426766432" label="Indigo Plant" category="73" did="1879054949" parentZoneId="1879063933" longitude="-18.998936" latitude="-34.97789"/>
-<marker id="426766433" label="Strawberries" category="73" did="1879061415" parentZoneId="1879063933" longitude="-18.998936" latitude="-34.97789"/>
-<marker id="426766434" label="Raspberries" category="73" did="1879061417" parentZoneId="1879063933" longitude="-18.998936" latitude="-34.97789"/>
-<marker id="426766435" label="Tater" category="73" did="1879061257" parentZoneId="1879063933" longitude="-18.998936" latitude="-34.97789"/>
-<marker id="426766436" label="Blackberries" category="73" did="1879061418" parentZoneId="1879063933" longitude="-18.998936" latitude="-34.97789"/>
+<marker id="426766431" label="Blueberries" category="77" did="1879061342" parentZoneId="1879063933" longitude="-19.167528" latitude="-35.036583"/>
+<marker id="426766432" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879063933" longitude="-18.998936" latitude="-34.97789"/>
+<marker id="426766433" label="Strawberries" category="77" did="1879061415" parentZoneId="1879063933" longitude="-18.998936" latitude="-34.97789"/>
+<marker id="426766434" label="Raspberries" category="77" did="1879061417" parentZoneId="1879063933" longitude="-18.998936" latitude="-34.97789"/>
+<marker id="426766435" label="Tater" category="77" did="1879061257" parentZoneId="1879063933" longitude="-18.998936" latitude="-34.97789"/>
+<marker id="426766436" label="Blackberries" category="77" did="1879061418" parentZoneId="1879063933" longitude="-18.998936" latitude="-34.97789"/>
 <marker id="426766437" label="Whiskerback Scavenger" category="71" did="1879080140" parentZoneId="1879063933" longitude="-18.998936" latitude="-34.97789"/>
 <marker id="426766438" label="Elder Stonehoof" category="71" did="1879080141" parentZoneId="1879063933" longitude="-18.998936" latitude="-34.97789"/>
 <marker id="426766439" label="Moor-fly Hatcher" category="71" did="1879080142" parentZoneId="1879063933" longitude="-18.998936" latitude="-34.97789"/>
@@ -2912,14 +2912,14 @@
 <marker id="426766442" label="Corrupt Darkclaw" category="71" did="1879080148" parentZoneId="1879063933" longitude="-18.998936" latitude="-34.97789"/>
 <marker id="426766443" label="Snow-mantle Maverick" category="71" did="1879080149" parentZoneId="1879063933" longitude="-18.998936" latitude="-34.97789"/>
 <marker id="426766444" label="Snow-mantle Cow" category="71" did="1879080150" parentZoneId="1879063933" longitude="-18.998936" latitude="-34.97789"/>
-<marker id="426766445" label="Fine Clover Honey" category="73" did="1879061399" parentZoneId="1879063933" longitude="-18.998936" latitude="-34.97789"/>
+<marker id="426766445" label="Fine Clover Honey" category="77" did="1879061399" parentZoneId="1879063933" longitude="-18.998936" latitude="-34.97789"/>
 <marker id="426766446" label="Young Snow-mantle" category="71" did="1879080151" parentZoneId="1879063933" longitude="-18.998936" latitude="-34.97789"/>
-<marker id="426766447" label="Blueberries" category="73" did="1879061342" parentZoneId="1879063933" longitude="-18.998936" latitude="-34.97789"/>
-<marker id="426766448" label="Indigo Plant" category="73" did="1879054949" parentZoneId="1879063933" longitude="-18.83497" latitude="-34.975674"/>
-<marker id="426766449" label="Strawberries" category="73" did="1879061415" parentZoneId="1879063933" longitude="-18.83497" latitude="-34.975674"/>
-<marker id="426766450" label="Raspberries" category="73" did="1879061417" parentZoneId="1879063933" longitude="-18.83497" latitude="-34.975674"/>
-<marker id="426766451" label="Tater" category="73" did="1879061257" parentZoneId="1879063933" longitude="-18.83497" latitude="-34.975674"/>
-<marker id="426766452" label="Blackberries" category="73" did="1879061418" parentZoneId="1879063933" longitude="-18.83497" latitude="-34.975674"/>
+<marker id="426766447" label="Blueberries" category="77" did="1879061342" parentZoneId="1879063933" longitude="-18.998936" latitude="-34.97789"/>
+<marker id="426766448" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879063933" longitude="-18.83497" latitude="-34.975674"/>
+<marker id="426766449" label="Strawberries" category="77" did="1879061415" parentZoneId="1879063933" longitude="-18.83497" latitude="-34.975674"/>
+<marker id="426766450" label="Raspberries" category="77" did="1879061417" parentZoneId="1879063933" longitude="-18.83497" latitude="-34.975674"/>
+<marker id="426766451" label="Tater" category="77" did="1879061257" parentZoneId="1879063933" longitude="-18.83497" latitude="-34.975674"/>
+<marker id="426766452" label="Blackberries" category="77" did="1879061418" parentZoneId="1879063933" longitude="-18.83497" latitude="-34.975674"/>
 <marker id="426766453" label="Whiskerback Scavenger" category="71" did="1879080140" parentZoneId="1879063933" longitude="-18.83497" latitude="-34.975674"/>
 <marker id="426766454" label="Elder Stonehoof" category="71" did="1879080141" parentZoneId="1879063933" longitude="-18.83497" latitude="-34.975674"/>
 <marker id="426766455" label="Moor-fly Hatcher" category="71" did="1879080142" parentZoneId="1879063933" longitude="-18.83497" latitude="-34.975674"/>
@@ -2928,14 +2928,14 @@
 <marker id="426766458" label="Corrupt Darkclaw" category="71" did="1879080148" parentZoneId="1879063933" longitude="-18.83497" latitude="-34.975674"/>
 <marker id="426766459" label="Snow-mantle Maverick" category="71" did="1879080149" parentZoneId="1879063933" longitude="-18.83497" latitude="-34.975674"/>
 <marker id="426766460" label="Snow-mantle Cow" category="71" did="1879080150" parentZoneId="1879063933" longitude="-18.83497" latitude="-34.975674"/>
-<marker id="426766461" label="Fine Clover Honey" category="73" did="1879061399" parentZoneId="1879063933" longitude="-18.83497" latitude="-34.975674"/>
+<marker id="426766461" label="Fine Clover Honey" category="77" did="1879061399" parentZoneId="1879063933" longitude="-18.83497" latitude="-34.975674"/>
 <marker id="426766462" label="Young Snow-mantle" category="71" did="1879080151" parentZoneId="1879063933" longitude="-18.83497" latitude="-34.975674"/>
-<marker id="426766463" label="Blueberries" category="73" did="1879061342" parentZoneId="1879063933" longitude="-18.83497" latitude="-34.975674"/>
-<marker id="426766464" label="Indigo Plant" category="73" did="1879054949" parentZoneId="1879063933" longitude="-19.015078" latitude="-34.845955"/>
-<marker id="426766465" label="Strawberries" category="73" did="1879061415" parentZoneId="1879063933" longitude="-19.015078" latitude="-34.845955"/>
-<marker id="426766466" label="Raspberries" category="73" did="1879061417" parentZoneId="1879063933" longitude="-19.015078" latitude="-34.845955"/>
-<marker id="426766467" label="Tater" category="73" did="1879061257" parentZoneId="1879063933" longitude="-19.015078" latitude="-34.845955"/>
-<marker id="426766468" label="Blackberries" category="73" did="1879061418" parentZoneId="1879063933" longitude="-19.015078" latitude="-34.845955"/>
+<marker id="426766463" label="Blueberries" category="77" did="1879061342" parentZoneId="1879063933" longitude="-18.83497" latitude="-34.975674"/>
+<marker id="426766464" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879063933" longitude="-19.015078" latitude="-34.845955"/>
+<marker id="426766465" label="Strawberries" category="77" did="1879061415" parentZoneId="1879063933" longitude="-19.015078" latitude="-34.845955"/>
+<marker id="426766466" label="Raspberries" category="77" did="1879061417" parentZoneId="1879063933" longitude="-19.015078" latitude="-34.845955"/>
+<marker id="426766467" label="Tater" category="77" did="1879061257" parentZoneId="1879063933" longitude="-19.015078" latitude="-34.845955"/>
+<marker id="426766468" label="Blackberries" category="77" did="1879061418" parentZoneId="1879063933" longitude="-19.015078" latitude="-34.845955"/>
 <marker id="426766469" label="Whiskerback Scavenger" category="71" did="1879080140" parentZoneId="1879063933" longitude="-19.015078" latitude="-34.845955"/>
 <marker id="426766470" label="Elder Stonehoof" category="71" did="1879080141" parentZoneId="1879063933" longitude="-19.015078" latitude="-34.845955"/>
 <marker id="426766471" label="Moor-fly Hatcher" category="71" did="1879080142" parentZoneId="1879063933" longitude="-19.015078" latitude="-34.845955"/>
@@ -2944,14 +2944,14 @@
 <marker id="426766474" label="Corrupt Darkclaw" category="71" did="1879080148" parentZoneId="1879063933" longitude="-19.015078" latitude="-34.845955"/>
 <marker id="426766475" label="Snow-mantle Maverick" category="71" did="1879080149" parentZoneId="1879063933" longitude="-19.015078" latitude="-34.845955"/>
 <marker id="426766476" label="Snow-mantle Cow" category="71" did="1879080150" parentZoneId="1879063933" longitude="-19.015078" latitude="-34.845955"/>
-<marker id="426766477" label="Fine Clover Honey" category="73" did="1879061399" parentZoneId="1879063933" longitude="-19.015078" latitude="-34.845955"/>
+<marker id="426766477" label="Fine Clover Honey" category="77" did="1879061399" parentZoneId="1879063933" longitude="-19.015078" latitude="-34.845955"/>
 <marker id="426766478" label="Young Snow-mantle" category="71" did="1879080151" parentZoneId="1879063933" longitude="-19.015078" latitude="-34.845955"/>
-<marker id="426766479" label="Blueberries" category="73" did="1879061342" parentZoneId="1879063933" longitude="-19.015078" latitude="-34.845955"/>
-<marker id="426766480" label="Indigo Plant" category="73" did="1879054949" parentZoneId="1879063933" longitude="-19.171162" latitude="-34.847363"/>
-<marker id="426766481" label="Strawberries" category="73" did="1879061415" parentZoneId="1879063933" longitude="-19.171162" latitude="-34.847363"/>
-<marker id="426766482" label="Raspberries" category="73" did="1879061417" parentZoneId="1879063933" longitude="-19.171162" latitude="-34.847363"/>
-<marker id="426766483" label="Tater" category="73" did="1879061257" parentZoneId="1879063933" longitude="-19.171162" latitude="-34.847363"/>
-<marker id="426766484" label="Blackberries" category="73" did="1879061418" parentZoneId="1879063933" longitude="-19.171162" latitude="-34.847363"/>
+<marker id="426766479" label="Blueberries" category="77" did="1879061342" parentZoneId="1879063933" longitude="-19.015078" latitude="-34.845955"/>
+<marker id="426766480" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879063933" longitude="-19.171162" latitude="-34.847363"/>
+<marker id="426766481" label="Strawberries" category="77" did="1879061415" parentZoneId="1879063933" longitude="-19.171162" latitude="-34.847363"/>
+<marker id="426766482" label="Raspberries" category="77" did="1879061417" parentZoneId="1879063933" longitude="-19.171162" latitude="-34.847363"/>
+<marker id="426766483" label="Tater" category="77" did="1879061257" parentZoneId="1879063933" longitude="-19.171162" latitude="-34.847363"/>
+<marker id="426766484" label="Blackberries" category="77" did="1879061418" parentZoneId="1879063933" longitude="-19.171162" latitude="-34.847363"/>
 <marker id="426766485" label="Whiskerback Scavenger" category="71" did="1879080140" parentZoneId="1879063933" longitude="-19.171162" latitude="-34.847363"/>
 <marker id="426766486" label="Elder Stonehoof" category="71" did="1879080141" parentZoneId="1879063933" longitude="-19.171162" latitude="-34.847363"/>
 <marker id="426766487" label="Moor-fly Hatcher" category="71" did="1879080142" parentZoneId="1879063933" longitude="-19.171162" latitude="-34.847363"/>
@@ -2960,14 +2960,14 @@
 <marker id="426766490" label="Corrupt Darkclaw" category="71" did="1879080148" parentZoneId="1879063933" longitude="-19.171162" latitude="-34.847363"/>
 <marker id="426766491" label="Snow-mantle Maverick" category="71" did="1879080149" parentZoneId="1879063933" longitude="-19.171162" latitude="-34.847363"/>
 <marker id="426766492" label="Snow-mantle Cow" category="71" did="1879080150" parentZoneId="1879063933" longitude="-19.171162" latitude="-34.847363"/>
-<marker id="426766493" label="Fine Clover Honey" category="73" did="1879061399" parentZoneId="1879063933" longitude="-19.171162" latitude="-34.847363"/>
+<marker id="426766493" label="Fine Clover Honey" category="77" did="1879061399" parentZoneId="1879063933" longitude="-19.171162" latitude="-34.847363"/>
 <marker id="426766494" label="Young Snow-mantle" category="71" did="1879080151" parentZoneId="1879063933" longitude="-19.171162" latitude="-34.847363"/>
-<marker id="426766495" label="Blueberries" category="73" did="1879061342" parentZoneId="1879063933" longitude="-19.171162" latitude="-34.847363"/>
-<marker id="426766496" label="Indigo Plant" category="73" did="1879054949" parentZoneId="1879063933" longitude="-19.409004" latitude="-34.909286"/>
-<marker id="426766497" label="Strawberries" category="73" did="1879061415" parentZoneId="1879063933" longitude="-19.409004" latitude="-34.909286"/>
-<marker id="426766498" label="Raspberries" category="73" did="1879061417" parentZoneId="1879063933" longitude="-19.409004" latitude="-34.909286"/>
-<marker id="426766499" label="Tater" category="73" did="1879061257" parentZoneId="1879063933" longitude="-19.409004" latitude="-34.909286"/>
-<marker id="426766500" label="Blackberries" category="73" did="1879061418" parentZoneId="1879063933" longitude="-19.409004" latitude="-34.909286"/>
+<marker id="426766495" label="Blueberries" category="77" did="1879061342" parentZoneId="1879063933" longitude="-19.171162" latitude="-34.847363"/>
+<marker id="426766496" label="Indigo Plant" category="77" did="1879054949" parentZoneId="1879063933" longitude="-19.409004" latitude="-34.909286"/>
+<marker id="426766497" label="Strawberries" category="77" did="1879061415" parentZoneId="1879063933" longitude="-19.409004" latitude="-34.909286"/>
+<marker id="426766498" label="Raspberries" category="77" did="1879061417" parentZoneId="1879063933" longitude="-19.409004" latitude="-34.909286"/>
+<marker id="426766499" label="Tater" category="77" did="1879061257" parentZoneId="1879063933" longitude="-19.409004" latitude="-34.909286"/>
+<marker id="426766500" label="Blackberries" category="77" did="1879061418" parentZoneId="1879063933" longitude="-19.409004" latitude="-34.909286"/>
 <marker id="426766501" label="Whiskerback Scavenger" category="71" did="1879080140" parentZoneId="1879063933" longitude="-19.409004" latitude="-34.909286"/>
 <marker id="426766502" label="Elder Stonehoof" category="71" did="1879080141" parentZoneId="1879063933" longitude="-19.409004" latitude="-34.909286"/>
 <marker id="426766503" label="Moor-fly Hatcher" category="71" did="1879080142" parentZoneId="1879063933" longitude="-19.409004" latitude="-34.909286"/>
@@ -2976,7 +2976,7 @@
 <marker id="426766506" label="Corrupt Darkclaw" category="71" did="1879080148" parentZoneId="1879063933" longitude="-19.409004" latitude="-34.909286"/>
 <marker id="426766507" label="Snow-mantle Maverick" category="71" did="1879080149" parentZoneId="1879063933" longitude="-19.409004" latitude="-34.909286"/>
 <marker id="426766508" label="Snow-mantle Cow" category="71" did="1879080150" parentZoneId="1879063933" longitude="-19.409004" latitude="-34.909286"/>
-<marker id="426766509" label="Fine Clover Honey" category="73" did="1879061399" parentZoneId="1879063933" longitude="-19.409004" latitude="-34.909286"/>
+<marker id="426766509" label="Fine Clover Honey" category="77" did="1879061399" parentZoneId="1879063933" longitude="-19.409004" latitude="-34.909286"/>
 <marker id="426766510" label="Young Snow-mantle" category="71" did="1879080151" parentZoneId="1879063933" longitude="-19.409004" latitude="-34.909286"/>
-<marker id="426766511" label="Blueberries" category="73" did="1879061342" parentZoneId="1879063933" longitude="-19.409004" latitude="-34.909286"/>
+<marker id="426766511" label="Blueberries" category="77" did="1879061342" parentZoneId="1879063933" longitude="-19.409004" latitude="-34.909286"/>
 </markers>

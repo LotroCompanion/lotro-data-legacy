@@ -1,4 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?><resourcesMaps>
+<resourcesMap profession="COOK" tier="2">
+<item id="1879061257" name="Tater"/>
+<item id="1879061342" name="Blueberries"/>
+<item id="1879061345" name="Cabbage"/>
+<item id="1879061395" name="Honey"/>
+<map id="268437576"/>
+<map id="268437592"/>
+<map id="268437603"/>
+<map id="268437634"/>
+<map id="268437653"/>
+<map id="268437678"/>
+<map id="268437716"/>
+<map id="268439511"/>
+</resourcesMap>
+<resourcesMap profession="COOK" tier="3">
+<item id="1879061259" name="Green Onions"/>
+<map id="268437603"/>
+<map id="268437634"/>
+<map id="268437653"/>
+<map id="268437678"/>
+</resourcesMap>
+<resourcesMap profession="COOK" tier="4">
+<item id="1879061415" name="Strawberries"/>
+<item id="1879061417" name="Raspberries"/>
+<map id="268437576"/>
+<map id="268437592"/>
+<map id="268437603"/>
+<map id="268437634"/>
+<map id="268437653"/>
+<map id="268437678"/>
+<map id="268437716"/>
+<map id="268439511"/>
+</resourcesMap>
+<resourcesMap profession="COOK" tier="5">
+<item id="1879061399" name="Fine Clover Honey"/>
+<item id="1879061414" name="Golden Shire Taters"/>
+<item id="1879061416" name="Rhubarb"/>
+<item id="1879061418" name="Blackberries"/>
+<map id="268437576"/>
+<map id="268437592"/>
+<map id="268437603"/>
+<map id="268437653"/>
+<map id="268437678"/>
+<map id="268437716"/>
+<map id="268439511"/>
+</resourcesMap>
 <resourcesMap profession="FORESTER" tier="1">
 <item id="1879077553" name="Rowan Branches"/>
 <item id="1879087940" name="Heavy Rowan Branches"/>
@@ -96,10 +142,20 @@
 <map id="1879092138"/>
 </resourcesMap>
 <resourcesMap profession="SCHOLAR" tier="1">
+<item id="1879054949" name="Indigo Plant"/>
+<item id="1879066722" name="Yarrow Root"/>
+<item id="1879070248" name="Woad Plant"/>
 <item id="1879077557" name="Shattered Pitcher"/>
 <map id="268437576"/>
+<map id="268437592"/>
+<map id="268437603"/>
+<map id="268437634"/>
 <map id="268437653"/>
 <map id="268437678"/>
+<map id="268437716"/>
+<map id="268437719"/>
+<map id="268439511"/>
+<map id="1879048508"/>
 </resourcesMap>
 <resourcesMap profession="SCHOLAR" tier="2">
 <item id="1879077512" name="Broken Urn"/>
