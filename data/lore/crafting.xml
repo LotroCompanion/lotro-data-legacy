@@ -575,11 +575,11 @@
 </professionTier>
 </profession>
 <profession identifier="1879062817" key="FORESTER" name="Forester" description="key:620767766:54354734" enabledProperty="Craft_Forester_Enabled" masteryLevelProperty="Craft_Forester_MasteryLevel" masteryXpProperty="Craft_Forester_MasteryXP" proficiencyLevelProperty="Craft_Forester_ProficiencyLevel" proficiencyXpProperty="Craft_Forester_ProficiencyXP" extraRecipesProperty="Craft_Forester_ExtraRecipeArray">
-<professionTier identifier="0" name="Beginner" icon="">
+<professionTier identifier="0" name="Beginner" icon="1091388632-1090522692-1091388623">
 <proficiency xp="0"/>
 <mastery xp="0"/>
 </professionTier>
-<professionTier identifier="1" name="Apprentice" icon="">
+<professionTier identifier="1" name="Apprentice" icon="1091388632-1090522692-1091388623">
 <recipe id="1879062875"/>
 <recipe id="1879062876"/>
 <proficiency titleId="1879062871" xp="200"/>
@@ -591,19 +591,19 @@
 <proficiency titleId="1879062877" xp="280"/>
 <mastery titleId="1879062878" xp="560"/>
 </professionTier>
-<professionTier identifier="3" name="Expert" icon="">
+<professionTier identifier="3" name="Expert" icon="1091388632-1090522692-1091388623">
 <recipe id="1879062887"/>
 <recipe id="1879062888"/>
 <proficiency titleId="1879062883" xp="360"/>
 <mastery titleId="1879062884" xp="720"/>
 </professionTier>
-<professionTier identifier="4" name="Artisan" icon="">
+<professionTier identifier="4" name="Artisan" icon="1091388632-1090522692-1091388623">
 <recipe id="1879062893"/>
 <recipe id="1879062894"/>
 <proficiency titleId="1879062889" xp="440"/>
 <mastery titleId="1879062890" xp="880"/>
 </professionTier>
-<professionTier identifier="5" name="Master" icon="">
+<professionTier identifier="5" name="Master" icon="1091388632-1090522692-1091388623">
 <recipe id="1879062899"/>
 <recipe id="1879062900"/>
 <recipe id="1879092713"/>
@@ -613,24 +613,24 @@
 </professionTier>
 </profession>
 <profession identifier="1879062818" key="PROSPECTOR" name="Prospector" description="key:620767731:54354734" enabledProperty="Craft_Prospector_Enabled" masteryLevelProperty="Craft_Prospector_MasteryLevel" masteryXpProperty="Craft_Prospector_MasteryXP" proficiencyLevelProperty="Craft_Prospector_ProficiencyLevel" proficiencyXpProperty="Craft_Prospector_ProficiencyXP" extraRecipesProperty="Craft_Prospector_ExtraRecipeArray">
-<professionTier identifier="0" name="Beginner" icon="">
+<professionTier identifier="0" name="Beginner" icon="1090536809-1090522692-1090536810">
 <proficiency xp="0"/>
 <mastery xp="0"/>
 </professionTier>
-<professionTier identifier="1" name="Apprentice" icon="">
+<professionTier identifier="1" name="Apprentice" icon="1090536809-1090522692-1090536810">
 <recipe id="1879062824"/>
 <recipe id="1879062825"/>
 <proficiency titleId="1879062820" xp="200"/>
 <mastery titleId="1879062821" xp="400"/>
 </professionTier>
-<professionTier identifier="2" name="Journeyman" icon="">
+<professionTier identifier="2" name="Journeyman" icon="1090536809-1090522692-1090536810">
 <recipe id="1879062830"/>
 <recipe id="1879062831"/>
 <recipe id="1879062832"/>
 <proficiency titleId="1879062826" xp="280"/>
 <mastery titleId="1879062827" xp="560"/>
 </professionTier>
-<professionTier identifier="3" name="Expert" icon="">
+<professionTier identifier="3" name="Expert" icon="1090536809-1090522692-1090536810">
 <recipe id="1879062837"/>
 <recipe id="1879062838"/>
 <recipe id="1879062839"/>
@@ -638,7 +638,7 @@
 <proficiency titleId="1879062833" xp="360"/>
 <mastery titleId="1879062834" xp="720"/>
 </professionTier>
-<professionTier identifier="4" name="Artisan" icon="">
+<professionTier identifier="4" name="Artisan" icon="1090536809-1090522692-1090536810">
 <recipe id="1879062845"/>
 <recipe id="1879062846"/>
 <recipe id="1879062847"/>
@@ -646,7 +646,7 @@
 <proficiency titleId="1879062841" xp="440"/>
 <mastery titleId="1879062842" xp="880"/>
 </professionTier>
-<professionTier identifier="5" name="Master" icon="">
+<professionTier identifier="5" name="Master" icon="1090536809-1090522692-1090536810">
 <recipe id="1879062853"/>
 <recipe id="1879062854"/>
 <recipe id="1879062855"/>
