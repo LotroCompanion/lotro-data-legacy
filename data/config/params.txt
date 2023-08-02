@@ -4,7 +4,7 @@ default.server=EoA1
 # Max character level
 max.character.level=50
 # Max virtue rank
-max.virtue.rank=20
+max.virtue.rank=10
 # Max item level for a legendary item
 max.li.itemLevel=480
 
