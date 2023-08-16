@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><classes>
-<class id="1879064034" code="172" key="Champion" name="Champion" tag="" iconId="1090552269" smallIconId="0" abbreviation="CHN" description="key:620768662:209557171">
-<proficiencies>
+<class id="1879064034" code="172" key="Champion" name="Champion" tag="" iconId="1090552269" abbreviation="CHN" description="key:620768662:209557171">
+<proficiencies armourTypeForMitigations="HEAVY">
 <weapon type="ONE_HANDED_AXE" level="1"/>
 <weapon type="ONE_HANDED_CLUB" level="1"/>
 <weapon type="ONE_HANDED_HAMMER" level="1"/>
@@ -95,8 +95,8 @@
 <classSkill minLevel="12" skillId="1879064083" skillName="Spider's Guile (Melee)"/>
 <classSkill minLevel="20" skillId="1879064084" skillName="Shoot"/>
 </class>
-<class id="1879064035" code="24" key="Captain" name="Captain" tag="" iconId="1090552307" smallIconId="0" abbreviation="CPT" description="key:620768705:209557171">
-<proficiencies>
+<class id="1879064035" code="24" key="Captain" name="Captain" tag="" iconId="1090552307" abbreviation="CPT" description="key:620768705:209557171">
+<proficiencies armourTypeForMitigations="HEAVY">
 <weapon type="ONE_HANDED_AXE" level="1"/>
 <weapon type="ONE_HANDED_CLUB" level="1"/>
 <weapon type="ONE_HANDED_HAMMER" level="1"/>
@@ -194,8 +194,8 @@
 <classSkill minLevel="50" skillId="1879091730" skillName="Time of Need"/>
 <classSkill minLevel="30" skillId="1879092634" skillName="Blade of Elendil"/>
 </class>
-<class id="1879064036" code="31" key="Minstrel" name="Minstrel" tag="" iconId="1090552311" smallIconId="0" abbreviation="MNS" description="key:620768726:209557171">
-<proficiencies>
+<class id="1879064036" code="31" key="Minstrel" name="Minstrel" tag="" iconId="1090552311" abbreviation="MNS" description="key:620768726:209557171">
+<proficiencies armourTypeForMitigations="LIGHT">
 <weapon type="DAGGER" level="1"/>
 <weapon type="ONE_HANDED_SWORD" level="1"/>
 <weapon type="ONE_HANDED_MACE" level="1"/>
@@ -291,8 +291,8 @@
 <classSkill minLevel="30" skillId="1879099271" skillName="Mentor : Clarinet"/>
 <classSkill minLevel="36" skillId="1879099272" skillName="Mentor : Cowbell"/>
 </class>
-<class id="1879064037" code="185" key="Lore-master" name="Lore-master" tag="" iconId="1090552316" smallIconId="0" abbreviation="LRM" description="key:620768749:209557171">
-<proficiencies>
+<class id="1879064037" code="185" key="Lore-master" name="Lore-master" tag="" iconId="1090552316" abbreviation="LRM" description="key:620768749:209557171">
+<proficiencies armourTypeForMitigations="LIGHT">
 <weapon type="STAFF" level="1"/>
 <armour type="LIGHT" level="1"/>
 </proficiencies>
@@ -361,8 +361,8 @@
 <classSkill minLevel="32" skillId="1879097282" skillName="Back from the Brink"/>
 <classSkill minLevel="20" skillId="1879098760" skillName="Knowledge of the Lore-master"/>
 </class>
-<class id="1879064038" code="23" key="Guardian" name="Guardian" tag="" iconId="1090552319" smallIconId="0" abbreviation="GRD" description="key:620768766:209557171">
-<proficiencies>
+<class id="1879064038" code="23" key="Guardian" name="Guardian" tag="" iconId="1090552319" abbreviation="GRD" description="key:620768766:209557171">
+<proficiencies armourTypeForMitigations="HEAVY">
 <weapon type="ONE_HANDED_AXE" level="1"/>
 <weapon type="ONE_HANDED_CLUB" level="1"/>
 <weapon type="ONE_HANDED_HAMMER" level="1"/>
@@ -453,8 +453,8 @@
 <classSkill minLevel="12" skillId="1879064080" skillName="Stallion's Spirit"/>
 <classSkill minLevel="38" skillId="1879064297" skillName="Guardian's Promise"/>
 </class>
-<class id="1879064039" code="40" key="Burglar" name="Burglar" tag="" iconId="1090551431" smallIconId="0" abbreviation="BUR" description="key:620768787:209557171">
-<proficiencies>
+<class id="1879064039" code="40" key="Burglar" name="Burglar" tag="" iconId="1090551431" abbreviation="BUR" description="key:620768787:209557171">
+<proficiencies armourTypeForMitigations="MEDIUM">
 <weapon type="ONE_HANDED_MACE" level="1"/>
 <weapon type="ONE_HANDED_SWORD" level="1"/>
 <weapon type="DAGGER" level="1"/>
@@ -523,8 +523,8 @@
 <classSkill minLevel="12" skillId="1879064080" skillName="Stallion's Spirit"/>
 <classSkill minLevel="26" skillId="1879064343" skillName="Cure Poison"/>
 </class>
-<class id="1879064040" code="162" key="Hunter" name="Hunter" tag="" iconId="1090552321" smallIconId="0" abbreviation="HNT" description="key:620768801:209557171">
-<proficiencies>
+<class id="1879064040" code="162" key="Hunter" name="Hunter" tag="" iconId="1090552321" abbreviation="HNT" description="key:620768801:209557171">
+<proficiencies armourTypeForMitigations="MEDIUM">
 <weapon type="ONE_HANDED_AXE" level="1"/>
 <weapon type="ONE_HANDED_SWORD" level="1"/>
 <weapon type="BOW" level="1"/>
