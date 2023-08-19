@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><speedTables>
+<speedTable type="TWO_HANDED_SWORD">
+<entry code="1" duration="2.8" modifier="0.075"/>
+<entry code="2" duration="3.0" modifier="0.1"/>
+<entry code="3" duration="2.6" modifier="0.05"/>
+<entry code="4" duration="3.2" modifier="0.125"/>
+<entry code="5" duration="3.4" modifier="0.15"/>
+<entry code="6" duration="2.4" modifier="0.025"/>
+<speedTable type="TWO_HANDED_CLUB">
+<entry code="1" duration="2.6" modifier="0.075"/>
+<entry code="2" duration="2.8" modifier="0.1"/>
+<entry code="3" duration="2.4" modifier="0.05"/>
+<entry code="4" duration="3.0" modifier="0.125"/>
+<entry code="5" duration="3.2" modifier="0.15"/>
+<entry code="6" duration="2.2" modifier="0.025"/>
+<speedTable type="TWO_HANDED_MACE">
+<entry code="1" duration="2.9" modifier="0.075"/>
+<entry code="2" duration="3.1" modifier="0.1"/>
+<entry code="3" duration="2.7" modifier="0.05"/>
+<entry code="4" duration="3.3" modifier="0.125"/>
+<entry code="5" duration="3.5" modifier="0.15"/>
+<entry code="6" duration="2.5" modifier="0.025"/>
+<speedTable type="TWO_HANDED_AXE">
+<entry code="1" duration="3.1" modifier="0.075"/>
+<entry code="2" duration="3.3" modifier="0.1"/>
+<entry code="3" duration="2.9" modifier="0.05"/>
+<entry code="4" duration="3.4" modifier="0.125"/>
+<entry code="5" duration="3.5" modifier="0.15"/>
+<entry code="6" duration="2.7" modifier="0.025"/>
+<speedTable type="BOW">
+<entry code="1" duration="2.4" modifier="0.0"/>
+<entry code="2" duration="2.6" modifier="0.0"/>
+<entry code="3" duration="2.2" modifier="-0.05"/>
+<entry code="4" duration="2.8" modifier="0.05"/>
+<entry code="5" duration="3.0" modifier="0.1"/>
+<entry code="6" duration="2.0" modifier="-0.1"/>
+<speedTable type="ONE_HANDED_HAMMER">
+<entry code="1" duration="2.1" modifier="-0.05"/>
+<entry code="2" duration="2.2" modifier="0.0"/>
+<entry code="3" duration="2.0" modifier="-0.1"/>
+<entry code="4" duration="2.3" modifier="0.05"/>
+<entry code="5" duration="2.4" modifier="0.05"/>
+<entry code="6" duration="1.9" modifier="-0.15"/>
+<speedTable type="SPEAR">
+<entry code="1" duration="1.9" modifier="0.05"/>
+<entry code="2" duration="2.0" modifier="0.075"/>
+<entry code="3" duration="1.8" modifier="0.025"/>
+<entry code="4" duration="2.1" modifier="0.1"/>
+<entry code="5" duration="2.2" modifier="0.125"/>
+<entry code="6" duration="1.7" modifier="0.0"/>
+<speedTable type="CROSSBOW">
+<entry code="1" duration="2.4" modifier="0.0"/>
+<entry code="2" duration="2.5" modifier="0.0"/>
+<entry code="3" duration="2.3" modifier="-0.05"/>
+<entry code="4" duration="2.6" modifier="0.05"/>
+<entry code="5" duration="2.7" modifier="0.1"/>
+<entry code="6" duration="2.2" modifier="-0.1"/>
+<speedTable type="TWO_HANDED_HAMMER">
+<entry code="1" duration="3.0" modifier="0.075"/>
+<entry code="2" duration="3.2" modifier="0.1"/>
+<entry code="3" duration="2.8" modifier="0.05"/>
+<entry code="4" duration="3.4" modifier="0.125"/>
+<entry code="5" duration="3.5" modifier="0.15"/>
+<entry code="6" duration="2.6" modifier="0.025"/>
+<speedTable type="HALBERD">
+<entry code="1" duration="3.2" modifier="0.075"/>
+<entry code="2" duration="3.3" modifier="0.1"/>
+<entry code="3" duration="3.1" modifier="0.05"/>
+<entry code="4" duration="3.4" modifier="0.125"/>
+<entry code="5" duration="3.5" modifier="0.15"/>
+<entry code="6" duration="3.0" modifier="0.025"/>
+<speedTable type="DAGGER">
+<entry code="1" duration="1.7" modifier="-0.1"/>
+<entry code="2" duration="1.8" modifier="-0.05"/>
+<entry code="3" duration="1.6" modifier="-0.15"/>
+<entry code="4" duration="1.9" modifier="0.0"/>
+<entry code="5" duration="2.0" modifier="0.0"/>
+<entry code="6" duration="1.5" modifier="-0.2"/>
+<speedTable type="STAFF">
+<entry code="1" duration="2.5" modifier="0.05"/>
+<entry code="2" duration="2.6" modifier="0.075"/>
+<entry code="3" duration="2.4" modifier="0.025"/>
+<entry code="4" duration="2.7" modifier="0.1"/>
+<entry code="5" duration="2.8" modifier="0.125"/>
+<entry code="6" duration="2.3" modifier="0.0"/>
+<speedTable type="ONE_HANDED_AXE">
+<entry code="1" duration="2.4" modifier="-0.05"/>
+<entry code="2" duration="2.5" modifier="0.0"/>
+<entry code="3" duration="2.3" modifier="-0.1"/>
+<entry code="4" duration="2.6" modifier="0.05"/>
+<entry code="5" duration="2.7" modifier="0.05"/>
+<entry code="6" duration="2.2" modifier="-0.15"/>
+<speedTable type="ONE_HANDED_CLUB">
+<entry code="1" duration="1.8" modifier="-0.05"/>
+<entry code="2" duration="1.9" modifier="0.0"/>
+<entry code="3" duration="1.7" modifier="-0.1"/>
+<entry code="4" duration="2.0" modifier="0.05"/>
+<entry code="5" duration="2.1" modifier="0.05"/>
+<entry code="6" duration="1.6" modifier="-0.15"/>
+<speedTable type="ONE_HANDED_MACE">
+<entry code="1" duration="2.3" modifier="-0.05"/>
+<entry code="2" duration="2.4" modifier="0.0"/>
+<entry code="3" duration="2.2" modifier="-0.1"/>
+<entry code="4" duration="2.5" modifier="0.05"/>
+<entry code="5" duration="2.6" modifier="0.05"/>
+<entry code="6" duration="2.1" modifier="-0.15"/>
+<speedTable type="ONE_HANDED_SWORD">
+<entry code="1" duration="2.0" modifier="-0.05"/>
+<entry code="2" duration="2.1" modifier="0.0"/>
+<entry code="3" duration="1.9" modifier="-0.1"/>
+<entry code="4" duration="2.2" modifier="0.05"/>
+<entry code="5" duration="2.3" modifier="0.05"/>
+<entry code="6" duration="1.8" modifier="-0.15"/>
+</speedTables>
