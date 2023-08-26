@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><consumables>
 <consumable identifier="1879049653" name="Roast Pork">
-<stat name="OCMR" constant="4.866667"/>
-<stat name="OCPR" constant="5.5"/>
+<stat name="OCMR" constant="292.0"/>
+<stat name="OCPR" constant="330.0"/>
 </consumable>
 <consumable identifier="1879049715" name="Mushroom Pie">
-<stat name="OCMR" constant="4.866667"/>
-<stat name="OCPR" constant="5.5"/>
+<stat name="OCMR" constant="292.0"/>
+<stat name="OCPR" constant="330.0"/>
 </consumable>
 <consumable identifier="1879049716" name="Cooked Carrots">
 <stat name="VITALITY" constant="2.0"/>
@@ -71,24 +71,24 @@
 <stat name="ForwardSource_ComboMode_Hunter_DamageType" operator="SET" constant="39.0"/>
 </consumable>
 <consumable identifier="1879054301" name="Simple Rations">
-<stat name="OCMR" constant="1.8"/>
-<stat name="OCPR" constant="2.9166667"/>
+<stat name="OCMR" constant="108.0"/>
+<stat name="OCPR" constant="175.0"/>
 </consumable>
 <consumable identifier="1879054302" name="Dry Rations">
-<stat name="OCMR" constant="8.1"/>
-<stat name="OCPR" constant="9.916667"/>
+<stat name="OCMR" constant="486.00003"/>
+<stat name="OCPR" constant="595.0"/>
 </consumable>
 <consumable identifier="1879054303" name="Hard Rations">
-<stat name="OCMR" constant="11.6"/>
-<stat name="OCPR" constant="14.083333"/>
+<stat name="OCMR" constant="696.0"/>
+<stat name="OCPR" constant="845.0"/>
 </consumable>
 <consumable identifier="1879054304" name="Rich Rations">
-<stat name="OCMR" constant="15.1"/>
-<stat name="OCPR" constant="18.25"/>
+<stat name="OCMR" constant="906.0"/>
+<stat name="OCPR" constant="1095.0"/>
 </consumable>
 <consumable identifier="1879054305" name="Tasty Rations">
-<stat name="OCMR" constant="18.6"/>
-<stat name="OCPR" constant="22.416666"/>
+<stat name="OCMR" constant="1116.0"/>
+<stat name="OCPR" constant="1345.0"/>
 </consumable>
 <consumable identifier="1879054998" name="Scroll of Minor Metalworking Lore">
 <stat name="METALSMITH_CRIT_CHANCE_PERCENTAGE" constant="1.0"/>
@@ -195,20 +195,20 @@
 <specialEffect label="Set damage type of all skills to Westernesse"/>
 </consumable>
 <consumable identifier="1879061229" name="Hard Biscuits">
-<stat name="OCMR" constant="3.2"/>
-<stat name="OCPR" constant="4.3333335"/>
+<stat name="OCMR" constant="192.0"/>
+<stat name="OCPR" constant="260.0"/>
 </consumable>
 <consumable identifier="1879061320" name="Superior Hard Biscuits">
-<stat name="OCMR" constant="6.4166665"/>
-<stat name="OCPR" constant="7.516667"/>
+<stat name="OCMR" constant="385.0"/>
+<stat name="OCPR" constant="451.0"/>
 </consumable>
 <consumable identifier="1879061321" name="Superior Mushroom Pie">
-<stat name="OCMR" constant="8.36"/>
-<stat name="OCPR" constant="9.35"/>
+<stat name="OCMR" constant="501.59998"/>
+<stat name="OCPR" constant="561.0"/>
 </consumable>
 <consumable identifier="1879061323" name="Superior Roast Pork">
-<stat name="OCMR" constant="8.36"/>
-<stat name="OCPR" constant="9.35"/>
+<stat name="OCMR" constant="501.59998"/>
+<stat name="OCPR" constant="561.0"/>
 </consumable>
 <consumable identifier="1879061325" name="Superior Fried Mushrooms">
 <stat name="AGILITY" constant="6.0"/>
@@ -220,28 +220,28 @@
 <stat name="VITALITY" constant="6.0"/>
 </consumable>
 <consumable identifier="1879061336" name="Coney Pie">
-<stat name="OCMR" constant="8.1"/>
-<stat name="OCPR" constant="9.916667"/>
+<stat name="OCMR" constant="486.00003"/>
+<stat name="OCPR" constant="595.0"/>
 </consumable>
 <consumable identifier="1879061337" name="Superior Coney Pie">
-<stat name="OCMR" constant="17.966667"/>
-<stat name="OCPR" constant="15.491667"/>
+<stat name="OCMR" constant="1078.0"/>
+<stat name="OCPR" constant="929.5"/>
 </consumable>
 <consumable identifier="1879061340" name="Blueberry Muffins">
-<stat name="OCMR" constant="11.4"/>
-<stat name="OCPR" constant="12.25"/>
+<stat name="OCMR" constant="684.0"/>
+<stat name="OCPR" constant="735.0"/>
 </consumable>
 <consumable identifier="1879061341" name="Superior Blueberry Muffins">
-<stat name="OCMR" constant="22.22"/>
-<stat name="OCPR" constant="18.975"/>
+<stat name="OCMR" constant="1333.2"/>
+<stat name="OCPR" constant="1138.5"/>
 </consumable>
 <consumable identifier="1879061343" name="Stuffed Cabbage">
-<stat name="OCMR" constant="13.5"/>
-<stat name="OCPR" constant="15.75"/>
+<stat name="OCMR" constant="810.0"/>
+<stat name="OCPR" constant="945.0"/>
 </consumable>
 <consumable identifier="1879061344" name="Superior Stuffed Cabbage">
-<stat name="OCMR" constant="28.6"/>
-<stat name="OCPR" constant="24.2"/>
+<stat name="OCMR" constant="1716.0"/>
+<stat name="OCPR" constant="1452.0"/>
 </consumable>
 <consumable identifier="1879061346" name="Pork Sausage">
 <stat name="AGILITY" constant="6.0"/>
@@ -262,28 +262,28 @@
 <stat name="VITALITY" constant="14.0"/>
 </consumable>
 <consumable identifier="1879061357" name="Steak and Kidney Pie">
-<stat name="OCMR" constant="15.1"/>
-<stat name="OCPR" constant="18.25"/>
+<stat name="OCMR" constant="906.0"/>
+<stat name="OCPR" constant="1095.0"/>
 </consumable>
 <consumable identifier="1879061358" name="Superior Steak and Kidney Pie">
-<stat name="OCMR" constant="29.7"/>
-<stat name="OCPR" constant="24.658333"/>
+<stat name="OCMR" constant="1782.0"/>
+<stat name="OCPR" constant="1479.5"/>
 </consumable>
 <consumable identifier="1879061360" name="Hard Tack Ration">
-<stat name="OCMR" constant="20.733334"/>
-<stat name="OCPR" constant="22.25"/>
+<stat name="OCMR" constant="1244.0"/>
+<stat name="OCPR" constant="1335.0"/>
 </consumable>
 <consumable identifier="1879061361" name="Superior Hard Tack Ration">
-<stat name="OCMR" constant="36.52"/>
-<stat name="OCPR" constant="29.975"/>
+<stat name="OCMR" constant="2191.2"/>
+<stat name="OCPR" constant="1798.5"/>
 </consumable>
 <consumable identifier="1879061363" name="Beef Stew">
-<stat name="OCMR" constant="20.733334"/>
-<stat name="OCPR" constant="22.25"/>
+<stat name="OCMR" constant="1244.0"/>
+<stat name="OCPR" constant="1335.0"/>
 </consumable>
 <consumable identifier="1879061364" name="Superior Beef Stew">
-<stat name="OCMR" constant="36.52"/>
-<stat name="OCPR" constant="29.975"/>
+<stat name="OCMR" constant="2191.2"/>
+<stat name="OCPR" constant="1798.5"/>
 </consumable>
 <consumable identifier="1879061365" name="Delicious Crispy Bacon">
 <stat name="AGILITY" constant="12.0"/>
@@ -304,31 +304,31 @@
 <stat name="VITALITY" constant="23.0"/>
 </consumable>
 <consumable identifier="1879061375" name="Shire Rations">
-<stat name="OCMR" constant="22.1"/>
-<stat name="OCPR" constant="26.333334"/>
+<stat name="OCMR" constant="1326.0"/>
+<stat name="OCPR" constant="1580.0"/>
 </consumable>
 <consumable identifier="1879061376" name="Superior Shire Rations">
-<stat name="OCMR" constant="42.533333"/>
-<stat name="OCPR" constant="33.55"/>
+<stat name="OCMR" constant="2552.0"/>
+<stat name="OCPR" constant="2013.0"/>
 </consumable>
 <consumable identifier="1879061377" name="Roasted Chicken">
 <stat name="VITALITY" constant="18.0"/>
 </consumable>
 <consumable identifier="1879061379" name="Spiced Apple Pie">
-<stat name="OCMR" constant="30.066668"/>
-<stat name="OCPR" constant="32.0"/>
+<stat name="OCMR" constant="1804.0"/>
+<stat name="OCPR" constant="1920.0"/>
 </consumable>
 <consumable identifier="1879061380" name="Superior Spiced Apple Pie">
-<stat name="OCMR" constant="51.92"/>
-<stat name="OCPR" constant="40.7"/>
+<stat name="OCMR" constant="3115.2"/>
+<stat name="OCPR" constant="2442.0"/>
 </consumable>
 <consumable identifier="1879061383" name="Stew of Kings">
-<stat name="OCMR" constant="30.066668"/>
-<stat name="OCPR" constant="32.0"/>
+<stat name="OCMR" constant="1804.0"/>
+<stat name="OCPR" constant="1920.0"/>
 </consumable>
 <consumable identifier="1879061384" name="Superior Stew of Kings">
-<stat name="OCMR" constant="51.92"/>
-<stat name="OCPR" constant="40.7"/>
+<stat name="OCMR" constant="3115.2"/>
+<stat name="OCPR" constant="2442.0"/>
 </consumable>
 <consumable identifier="1879061386" name="Salted Beef Delights">
 <stat name="AGILITY" constant="18.0"/>
@@ -346,28 +346,28 @@
 <stat name="VITALITY" constant="32.0"/>
 </consumable>
 <consumable identifier="1879061396" name="Lembas">
-<stat name="OCMR" constant="29.1"/>
-<stat name="OCPR" constant="34.666668"/>
+<stat name="OCMR" constant="1746.0"/>
+<stat name="OCPR" constant="2080.0"/>
 </consumable>
 <consumable identifier="1879061397" name="Superior Lembas">
-<stat name="OCMR" constant="55.366665"/>
-<stat name="OCPR" constant="42.716667"/>
+<stat name="OCMR" constant="3322.0"/>
+<stat name="OCPR" constant="2563.0"/>
 </consumable>
 <consumable identifier="1879061400" name="Perfect Pie">
-<stat name="OCMR" constant="39.4"/>
-<stat name="OCPR" constant="42.0"/>
+<stat name="OCMR" constant="2364.0"/>
+<stat name="OCPR" constant="2520.0"/>
 </consumable>
 <consumable identifier="1879061401" name="Superior Perfect Pie">
-<stat name="OCMR" constant="67.32"/>
-<stat name="OCPR" constant="51.7"/>
+<stat name="OCMR" constant="4039.2"/>
+<stat name="OCPR" constant="3102.0"/>
 </consumable>
 <consumable identifier="1879061403" name="Ultimate Carrot Cake">
-<stat name="OCMR" constant="39.4"/>
-<stat name="OCPR" constant="42.0"/>
+<stat name="OCMR" constant="2364.0"/>
+<stat name="OCPR" constant="2520.0"/>
 </consumable>
 <consumable identifier="1879061404" name="Superior Ultimate Carrot Cake">
-<stat name="OCMR" constant="67.32"/>
-<stat name="OCPR" constant="51.7"/>
+<stat name="OCMR" constant="4039.2"/>
+<stat name="OCPR" constant="3102.0"/>
 </consumable>
 <consumable identifier="1879061407" name="Delicious Steak">
 <stat name="AGILITY" constant="24.0"/>
@@ -397,8 +397,8 @@
 <stat name="Combat_BaseMissRate" descriptionOverride="-" constant="15.000001"/>
 </consumable>
 <consumable identifier="1879062265" name="Serene Stew">
-<stat name="OCMR" constant="8.1"/>
-<stat name="OCPR" constant="9.916667"/>
+<stat name="OCMR" constant="486.00003"/>
+<stat name="OCPR" constant="595.0"/>
 </consumable>
 <consumable identifier="1879062270" name="Green Dragon's Breath Ale">
 <stat name="Combat_BaseMissRate" descriptionOverride="-" constant="10.0"/>
@@ -413,15 +413,15 @@
 <stat name="Combat_BaseMissRate" descriptionOverride="-" constant="10.0"/>
 </consumable>
 <consumable identifier="1879064047" name="Waybread of Imladris">
-<stat name="OCMR" constant="8.1"/>
-<stat name="OCPR" constant="9.916667"/>
+<stat name="OCMR" constant="486.00003"/>
+<stat name="OCPR" constant="595.0"/>
 </consumable>
 <consumable identifier="1879064049" name="Glass of Aglaral">
 <stat name="HOPE" constant="1.0"/>
 </consumable>
 <consumable identifier="1879064055" name="Lembas of Duillond">
-<stat name="OCMR" constant="8.1"/>
-<stat name="OCPR" constant="9.916667"/>
+<stat name="OCMR" constant="486.00003"/>
+<stat name="OCPR" constant="595.0"/>
 </consumable>
 <consumable identifier="1879067223" name="Dull Edhelharn Token">
 <stat name="HOPE" constant="1.0"/>
@@ -481,8 +481,8 @@
 <stat name="ForwardSource_Movement_MountSpeedMultiplier" operator="SUBSTRACT" constant="25.0"/>
 </consumable>
 <consumable identifier="1879071944" name="Roast of Heroes">
-<stat name="OCMR" constant="56.375"/>
-<stat name="OCPR" constant="44.55"/>
+<stat name="OCMR" constant="3382.5"/>
+<stat name="OCPR" constant="2673.0"/>
 </consumable>
 <consumable identifier="1879074276" name="Gwatham">
 <stat name="STEALTH_LEVEL" descriptionOverride="-" constant="2.0"/>
@@ -503,12 +503,12 @@
 <stat name="Combat_BaseMissRate" descriptionOverride="-" constant="15.000001"/>
 </consumable>
 <consumable identifier="1879083986" name="Superior Hornblower's Pie">
-<stat name="OCMR" constant="22.22"/>
-<stat name="OCPR" constant="18.975"/>
+<stat name="OCMR" constant="1333.2"/>
+<stat name="OCPR" constant="1138.5"/>
 </consumable>
 <consumable identifier="1879083987" name="Hornblower's Pie">
-<stat name="OCMR" constant="11.4"/>
-<stat name="OCPR" constant="12.25"/>
+<stat name="OCMR" constant="684.0"/>
+<stat name="OCPR" constant="735.0"/>
 </consumable>
 <consumable identifier="1879083992" name="Limael's Vintage">
 <stat name="Combat_BaseMissRate" descriptionOverride="-" constant="10.0"/>
@@ -538,24 +538,24 @@
 <stat name="Item_Guardian_ShieldSpikes_Damage" constant="3.0"/>
 </consumable>
 <consumable identifier="1879084484" name="Maggoty Meat">
-<stat name="OCMR" constant="7.5"/>
-<stat name="OCPR" constant="1.5"/>
+<stat name="OCMR" constant="450.0"/>
+<stat name="OCPR" constant="90.0"/>
 </consumable>
 <consumable identifier="1879084485" name="Slug Mash">
-<stat name="OCMR" constant="18.0"/>
-<stat name="OCPR" constant="3.75"/>
+<stat name="OCMR" constant="1080.0"/>
+<stat name="OCPR" constant="225.0"/>
 </consumable>
 <consumable identifier="1879084486" name="Rat-folk Stew">
-<stat name="OCMR" constant="25.0"/>
-<stat name="OCPR" constant="6.0"/>
+<stat name="OCMR" constant="1500.0"/>
+<stat name="OCPR" constant="360.0"/>
 </consumable>
 <consumable identifier="1879085602" name="Boar Jerky">
-<stat name="OCMR" constant="8.1"/>
-<stat name="OCPR" constant="9.916667"/>
+<stat name="OCMR" constant="486.00003"/>
+<stat name="OCPR" constant="595.0"/>
 </consumable>
 <consumable identifier="1879085603" name="Aurochs Jerky">
-<stat name="OCMR" constant="8.1"/>
-<stat name="OCPR" constant="9.916667"/>
+<stat name="OCMR" constant="486.00003"/>
+<stat name="OCPR" constant="595.0"/>
 </consumable>
 <consumable identifier="1879085771" name="Snapper Soup">
 <stat name="VITALITY" constant="12.0"/>
@@ -588,28 +588,28 @@
 <stat name="Combat_BaseMissRate" descriptionOverride="-" constant="15.000001"/>
 </consumable>
 <consumable identifier="1879087827" name="Summer Squash">
-<stat name="OCMR" constant="9.5"/>
-<stat name="OCPR" constant="11.583333"/>
+<stat name="OCMR" constant="570.0"/>
+<stat name="OCPR" constant="695.0"/>
 </consumable>
 <consumable identifier="1879087828" name="Summer Sausage">
-<stat name="OCMR" constant="13.0"/>
-<stat name="OCPR" constant="15.75"/>
+<stat name="OCMR" constant="780.0"/>
+<stat name="OCPR" constant="945.0"/>
 </consumable>
 <consumable identifier="1879087829" name="Summer Pudding">
-<stat name="OCMR" constant="16.5"/>
-<stat name="OCPR" constant="19.916666"/>
+<stat name="OCMR" constant="990.0"/>
+<stat name="OCPR" constant="1195.0"/>
 </consumable>
 <consumable identifier="1879087830" name="Summer Greens">
-<stat name="OCMR" constant="3.2"/>
-<stat name="OCPR" constant="4.3333335"/>
+<stat name="OCMR" constant="192.0"/>
+<stat name="OCPR" constant="260.0"/>
 </consumable>
 <consumable identifier="1879087831" name="Summer Grouse">
-<stat name="OCMR" constant="20.0"/>
-<stat name="OCPR" constant="23.833334"/>
+<stat name="OCMR" constant="1200.0"/>
+<stat name="OCPR" constant="1430.0"/>
 </consumable>
 <consumable identifier="1879087879" name="Waybread of Imladris">
-<stat name="OCMR" constant="94.875"/>
-<stat name="OCPR" constant="72.05"/>
+<stat name="OCMR" constant="5692.5"/>
+<stat name="OCPR" constant="4323.0"/>
 </consumable>
 <consumable identifier="1879087895" name="Dragon-tooth Shard">
 <stat name="TACTICAL_DAMAGE_PERCENTAGE" descriptionOverride="key:620790283:106251889" constant="10.0"/>
@@ -623,8 +623,8 @@
 <stat name="Skill_HealingMultiplier_Item" descriptionOverride="key:620790288:106251889" constant="15.000001"/>
 </consumable>
 <consumable identifier="1879087898" name="Cram Biscuit">
-<stat name="OCMR" constant="94.875"/>
-<stat name="OCPR" constant="72.05"/>
+<stat name="OCMR" constant="5692.5"/>
+<stat name="OCPR" constant="4323.0"/>
 </consumable>
 <consumable identifier="1879087899" name="Flask of Imladris Miruvor">
 <stat name="SHADOW_MITIGATION_PERCENTAGE" constant="10.0"/>
@@ -639,16 +639,16 @@
 <stat name="FIRE_MITIGATION_PERCENTAGE" constant="3.0"/>
 </consumable>
 <consumable identifier="1879087996" name="Nestadgarab">
-<stat name="OCMR" constant="75.02"/>
-<stat name="OCPR" constant="57.2"/>
+<stat name="OCMR" constant="4501.1997"/>
+<stat name="OCPR" constant="3432.0"/>
 </consumable>
 <consumable identifier="1879087997" name="Nestathol">
-<stat name="OCMR" constant="75.02"/>
-<stat name="OCPR" constant="57.2"/>
+<stat name="OCMR" constant="4501.1997"/>
+<stat name="OCPR" constant="3432.0"/>
 </consumable>
 <consumable identifier="1879087998" name="Nestathar">
-<stat name="OCMR" constant="75.02"/>
-<stat name="OCPR" constant="57.2"/>
+<stat name="OCMR" constant="4501.1997"/>
+<stat name="OCPR" constant="3432.0"/>
 </consumable>
 <consumable identifier="1879087999" name="Atli's Cloth Shoes">
 <stat name="ForwardSource_Movement_SpeedMultiplier" descriptionOverride="key:620789930:106251889" constant="25.0"/>
@@ -723,12 +723,12 @@
 <stat name="ThreatInputModifier_Healing" constant="-12.0"/>
 </consumable>
 <consumable identifier="1879088146" name="Sandson's Famous Hardboiled Eggs">
-<stat name="OCMR" constant="4.866667"/>
-<stat name="OCPR" constant="5.5"/>
+<stat name="OCMR" constant="292.0"/>
+<stat name="OCPR" constant="330.0"/>
 </consumable>
 <consumable identifier="1879088147" name="Superior Sandson's Famous Hardboiled Eggs">
-<stat name="OCMR" constant="8.36"/>
-<stat name="OCPR" constant="9.35"/>
+<stat name="OCMR" constant="501.59998"/>
+<stat name="OCPR" constant="561.0"/>
 </consumable>
 <consumable identifier="1879088545" name="Mace of the Deep Pool">
 <stat name="MIGHT" descriptionOverride="key:620789958:106251889" constant="21.0"/>
@@ -873,8 +873,8 @@
 <stat name="MIGHT" descriptionOverride="key:620789958:106251889" constant="22.0"/>
 </consumable>
 <consumable identifier="1879089934" name="Sig-hálm">
-<stat name="OCMR" constant="75.02"/>
-<stat name="OCPR" constant="57.2"/>
+<stat name="OCMR" constant="4501.1997"/>
+<stat name="OCPR" constant="3432.0"/>
 </consumable>
 <consumable identifier="1879089970" name="William's Doom">
 <stat name="MIGHT" descriptionOverride="key:620789949:106251889" constant="9.0"/>
@@ -943,24 +943,24 @@
 <stat name="Combat_BaseMissRate" descriptionOverride="-" constant="15.000001"/>
 </consumable>
 <consumable identifier="1879098884" name="Fall Squash">
-<stat name="OCMR" constant="9.5"/>
-<stat name="OCPR" constant="11.583333"/>
+<stat name="OCMR" constant="570.0"/>
+<stat name="OCPR" constant="695.0"/>
 </consumable>
 <consumable identifier="1879098885" name="Fall Sausage">
-<stat name="OCMR" constant="13.0"/>
-<stat name="OCPR" constant="15.75"/>
+<stat name="OCMR" constant="780.0"/>
+<stat name="OCPR" constant="945.0"/>
 </consumable>
 <consumable identifier="1879098886" name="Cranberry Pudding">
-<stat name="OCMR" constant="16.5"/>
-<stat name="OCPR" constant="19.916666"/>
+<stat name="OCMR" constant="990.0"/>
+<stat name="OCPR" constant="1195.0"/>
 </consumable>
 <consumable identifier="1879098887" name="Fall Greens">
-<stat name="OCMR" constant="3.2"/>
-<stat name="OCPR" constant="4.3333335"/>
+<stat name="OCMR" constant="192.0"/>
+<stat name="OCPR" constant="260.0"/>
 </consumable>
 <consumable identifier="1879098888" name="Fall Grouse">
-<stat name="OCMR" constant="20.0"/>
-<stat name="OCPR" constant="23.833334"/>
+<stat name="OCMR" constant="1200.0"/>
+<stat name="OCPR" constant="1430.0"/>
 </consumable>
 <consumable identifier="1879101989" name="The Ranger's Cloak">
 <stat name="ForwardSource_Movement_SpeedMultiplier" constant="5.0"/>
