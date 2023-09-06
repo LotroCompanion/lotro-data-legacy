@@ -405,6 +405,16 @@
 <label key="1879101836" value="Fléau de Thrâng"/>
 <label key="1879101837" value="Sauveur / Sauveuse des Eldgangs"/>
 <label key="1879101993" value="Porteur / Porteuse d’espoir"/>
+<label key="1894514704" value="?"/>
+<label key="1894514705" value="?"/>
+<label key="1894514706" value="?"/>
+<label key="1894514707" value="?"/>
+<label key="1894514708" value="?"/>
+<label key="1894514709" value="?"/>
+<label key="1894514710" value="?"/>
+<label key="1894514711" value="?"/>
+<label key="1894514712" value="?"/>
+<label key="1894514713" value="?"/>
 <label key="key:620758793:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Shiriffe honoraire"/>
 <label key="key:620758793:175532558" value="Vous avez grandement aidé les Frontaliers de la Comté et obtenu le titre de Shiriffe honoraire."/>
 <label key="key:620761098:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:apprenti érudit[m]|apprentie érudite[f]}"/>

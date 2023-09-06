@@ -6316,16 +6316,17 @@
 </selectOneOf>
 </rewards>
 </quest>
-<quest id="1879048606" name="Chapter 5: Mordirith's Fall" rawName="key:620759546:228870261" category="5" level="50" size="SMALL_FELLOWSHIP" description="key:620759546:54354734">
+<quest id="1879048606" name="Chapter 5: Mordirith's Fall" rawName="key:620759546:228870261" category="5" level="50" size="FELLOWSHIP" description="key:620759546:54354734">
 <bestower npcId="1879048605" npcName="Golodir" text="key:620759546:218649169"/>
 <objectives>
 <objective index="1" text="key:620759546:94621393">
 <dialog npcId="1879048605" npcName="Golodir" text="key:620759546:63183937"/>
-<questComplete index="1" progressOverride="key:620759546:22075073" showBillboardText="false" achievableId="1879093326"/>
+<dialog text="key:620759546:218649171"/>
+<condition type="CLEAR_CAMP" index="1" progressOverride="key:620759546:22075073"/>
 </objective>
 <objective index="2" text="key:620759546:94621394">
 <dialog npcId="1879048605" npcName="Golodir" text="key:620759546:218649170"/>
-<npcTalk index="1" progressOverride="key:620759546:22075074" npcId="1879048605" npcName="Golodir"/>
+<npcTalk index="1" progressOverride="key:620759546:22075075" npcId="1879048605" npcName="Golodir"/>
 </objective>
 </objectives>
 <completionComment>
@@ -39106,7 +39107,7 @@
 <quest id="1879095683" name="Blackfang" rawName="key:620795507:228870261" category="18" level="46" description="key:620795507:54354734">
 <bestower npcId="1879094991" npcName="Nogmeldis" text="key:620795507:218649169"/>
 <objectives>
-<objective index="1" text="key:620795507:94621393" progressOverride="key:620795507:22075073" billboardOverride="key:620795507:22075074">
+<objective index="1" text="key:620795507:94621393" progressOverride="key:620795507:22075073">
 <itemUsed index="1" itemId="1879095785" itemName="Totem of Challenge"/>
 <condition type="KUNG_FU" index="1"/>
 </objective>

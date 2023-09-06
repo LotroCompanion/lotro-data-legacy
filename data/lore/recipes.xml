@@ -4018,7 +4018,7 @@
 <ingredientItem itemId="1879055378" name="Polished Bloodstone" icon="1091401335-1090519042-1090640816"/>
 </ingredient>
 <ingredient>
-<ingredientItem itemId="1879091378" name="Ruby Shard" icon="1090527606-1090519043-1090640816"/>
+<ingredientItem itemId="1879091377" name="Sapphire Shard" icon="1090533168-1090519043-1090640816"/>
 </ingredient>
 <result>
 <resultItem itemId="1879092978" name="Engraved Bloodstone Earring" icon="1090527701-1090519043-1090527703-1090527702"/>
@@ -4038,7 +4038,7 @@
 <ingredientItem itemId="1879055378" name="Polished Bloodstone" icon="1091401335-1090519042-1090640816"/>
 </ingredient>
 <ingredient>
-<ingredientItem itemId="1879091378" name="Ruby Shard" icon="1090527606-1090519043-1090640816"/>
+<ingredientItem itemId="1879091377" name="Sapphire Shard" icon="1090533168-1090519043-1090640816"/>
 </ingredient>
 <result>
 <resultItem itemId="1879068358" name="Engraved Bloodstone Ring" icon="1090530263-1090519043-1090530264-1090536002"/>
@@ -4078,7 +4078,7 @@
 <ingredientItem itemId="1879055380" name="Polished Opal" icon="1090535604-1090519042-1090640816"/>
 </ingredient>
 <ingredient>
-<ingredientItem itemId="1879091378" name="Ruby Shard" icon="1090527606-1090519043-1090640816"/>
+<ingredientItem itemId="1879091377" name="Sapphire Shard" icon="1090533168-1090519043-1090640816"/>
 </ingredient>
 <result>
 <resultItem itemId="1879092977" name="Engraved Opal Bracelet" icon="1090524756-1090519043-1090524757-1090527699"/>
@@ -4098,7 +4098,7 @@
 <ingredientItem itemId="1879055380" name="Polished Opal" icon="1090535604-1090519042-1090640816"/>
 </ingredient>
 <ingredient>
-<ingredientItem itemId="1879091378" name="Ruby Shard" icon="1090527606-1090519043-1090640816"/>
+<ingredientItem itemId="1879091377" name="Sapphire Shard" icon="1090533168-1090519043-1090640816"/>
 </ingredient>
 <result>
 <resultItem itemId="1879068361" name="Engraved Opal Necklace" icon="1090524205-1090519043-1090524762-1090528044"/>
@@ -4558,7 +4558,7 @@
 <ingredientItem itemId="1879055210" name="Polished Ruby" icon="1090527606-1090519042-1090640816"/>
 </ingredient>
 <ingredient>
-<ingredientItem itemId="1879091379" name="Adamant Shard" icon="1090641795-1090519043-1090640816"/>
+<ingredientItem itemId="1879091378" name="Ruby Shard" icon="1090527606-1090519043-1090640816"/>
 </ingredient>
 <result>
 <resultItem itemId="1879092994" name="Engraved Ruby Earring" icon="1090524760-1090519043-1090524761-1090528045"/>
@@ -4578,7 +4578,7 @@
 <ingredientItem itemId="1879055210" name="Polished Ruby" icon="1090527606-1090519042-1090640816"/>
 </ingredient>
 <ingredient>
-<ingredientItem itemId="1879091379" name="Adamant Shard" icon="1090641795-1090519043-1090640816"/>
+<ingredientItem itemId="1879091378" name="Ruby Shard" icon="1090527606-1090519043-1090640816"/>
 </ingredient>
 <result>
 <resultItem itemId="1879069991" name="Engraved Ruby Ring" icon="1090528462-1090519043-1090528464-1090528463"/>
@@ -4618,7 +4618,7 @@
 <ingredientItem itemId="1879055394" name="Polished Sapphire" icon="1090533168-1090519042-1090640816"/>
 </ingredient>
 <ingredient>
-<ingredientItem itemId="1879091379" name="Adamant Shard" icon="1090641795-1090519043-1090640816"/>
+<ingredientItem itemId="1879091378" name="Ruby Shard" icon="1090527606-1090519043-1090640816"/>
 </ingredient>
 <result>
 <resultItem itemId="1879092993" name="Engraved Sapphire Bracelet" icon="1090531632-1090519043-1090531634-1090531633"/>
@@ -4638,7 +4638,7 @@
 <ingredientItem itemId="1879055394" name="Polished Sapphire" icon="1090533168-1090519042-1090640816"/>
 </ingredient>
 <ingredient>
-<ingredientItem itemId="1879091379" name="Adamant Shard" icon="1090641795-1090519043-1090640816"/>
+<ingredientItem itemId="1879091378" name="Ruby Shard" icon="1090527606-1090519043-1090640816"/>
 </ingredient>
 <result>
 <resultItem itemId="1879069995" name="Engraved Sapphire Necklace" icon="1090531418-1090519043-1090531420-1090531419"/>
@@ -5134,7 +5134,7 @@
 <ingredientItem itemId="1879055408" name="Polished Adamant" icon="1090641795-1090519043-1090640816"/>
 </ingredient>
 <ingredient>
-<ingredientItem itemId="1879091376" name="Beryl Shard" icon="1090537508-1090519043-1090640816"/>
+<ingredientItem itemId="1879091379" name="Adamant Shard" icon="1090641795-1090519043-1090640816"/>
 </ingredient>
 <result>
 <resultItem itemId="1879093009" name="Engraved Adamant Bracelet" icon="1090523224-1090519043-1090523226-1090523225"/>
@@ -5154,7 +5154,7 @@
 <ingredientItem itemId="1879055408" name="Polished Adamant" icon="1090641795-1090519043-1090640816"/>
 </ingredient>
 <ingredient>
-<ingredientItem itemId="1879091376" name="Beryl Shard" icon="1090537508-1090519043-1090640816"/>
+<ingredientItem itemId="1879091379" name="Adamant Shard" icon="1090641795-1090519043-1090640816"/>
 </ingredient>
 <result>
 <resultItem itemId="1879093010" name="Engraved Adamant Earring" icon="1090524760-1090519043-1090524761-1090528045"/>
@@ -5174,7 +5174,7 @@
 <ingredientItem itemId="1879055408" name="Polished Adamant" icon="1090641795-1090519043-1090640816"/>
 </ingredient>
 <ingredient>
-<ingredientItem itemId="1879091376" name="Beryl Shard" icon="1090537508-1090519043-1090640816"/>
+<ingredientItem itemId="1879091379" name="Adamant Shard" icon="1090641795-1090519043-1090640816"/>
 </ingredient>
 <result>
 <resultItem itemId="1879070276" name="Engraved Adamant Necklace" icon="1090524205-1090519043-1090524762-1090528044"/>
@@ -5214,7 +5214,7 @@
 <ingredientItem itemId="1879055408" name="Polished Adamant" icon="1090641795-1090519043-1090640816"/>
 </ingredient>
 <ingredient>
-<ingredientItem itemId="1879091376" name="Beryl Shard" icon="1090537508-1090519043-1090640816"/>
+<ingredientItem itemId="1879091379" name="Adamant Shard" icon="1090641795-1090519043-1090640816"/>
 </ingredient>
 <result>
 <resultItem itemId="1879070272" name="Engraved Adamant Ring" icon="1090530263-1090519043-1090530264-1090536002"/>
@@ -7101,7 +7101,7 @@
 <ingredientItem itemId="1879055638" name="Tough Leather Pads" icon="1090537083-1090519042-1090640816"/>
 </ingredient>
 <ingredient>
-<ingredientItem itemId="1879091378" name="Ruby Shard" icon="1090527606-1090519043-1090640816"/>
+<ingredientItem itemId="1879091377" name="Sapphire Shard" icon="1090533168-1090519043-1090640816"/>
 </ingredient>
 <result>
 <resultItem itemId="1879068370" name="Forge-Crafted Armour" icon="1090524828-1090519043-1090524830-1090524829"/>
@@ -7147,7 +7147,7 @@
 <ingredientItem itemId="1879055638" name="Tough Leather Pads" icon="1090537083-1090519042-1090640816"/>
 </ingredient>
 <ingredient>
-<ingredientItem itemId="1879091378" name="Ruby Shard" icon="1090527606-1090519043-1090640816"/>
+<ingredientItem itemId="1879091377" name="Sapphire Shard" icon="1090533168-1090519043-1090640816"/>
 </ingredient>
 <result>
 <resultItem itemId="1879068373" name="Forge-Crafted Boots" icon="1090524796-1090519043-1090524798-1090524797"/>
@@ -7193,7 +7193,7 @@
 <ingredientItem itemId="1879055638" name="Tough Leather Pads" icon="1090537083-1090519042-1090640816"/>
 </ingredient>
 <ingredient>
-<ingredientItem itemId="1879091378" name="Ruby Shard" icon="1090527606-1090519043-1090640816"/>
+<ingredientItem itemId="1879091377" name="Sapphire Shard" icon="1090533168-1090519043-1090640816"/>
 </ingredient>
 <result>
 <resultItem itemId="1879068367" name="Forge-Crafted Gloves" icon="1090524908-1090519043-1090524910-1090524909"/>
@@ -7239,7 +7239,7 @@
 <ingredientItem itemId="1879055638" name="Tough Leather Pads" icon="1090537083-1090519042-1090640816"/>
 </ingredient>
 <ingredient>
-<ingredientItem itemId="1879091378" name="Ruby Shard" icon="1090527606-1090519043-1090640816"/>
+<ingredientItem itemId="1879091377" name="Sapphire Shard" icon="1090533168-1090519043-1090640816"/>
 </ingredient>
 <result>
 <resultItem itemId="1879068364" name="Forge-Crafted Helm" icon="1090524911-1090519043-1090524913-1090524912"/>
@@ -7285,7 +7285,7 @@
 <ingredientItem itemId="1879055638" name="Tough Leather Pads" icon="1090537083-1090519042-1090640816"/>
 </ingredient>
 <ingredient>
-<ingredientItem itemId="1879091378" name="Ruby Shard" icon="1090527606-1090519043-1090640816"/>
+<ingredientItem itemId="1879091377" name="Sapphire Shard" icon="1090533168-1090519043-1090640816"/>
 </ingredient>
 <result>
 <resultItem itemId="1879068179" name="Forge-Crafted Leggings" icon="1090523456-1090519043-1090523458-1090523457"/>
@@ -7331,7 +7331,7 @@
 <ingredientItem itemId="1879055638" name="Tough Leather Pads" icon="1090537083-1090519042-1090640816"/>
 </ingredient>
 <ingredient>
-<ingredientItem itemId="1879091378" name="Ruby Shard" icon="1090527606-1090519043-1090640816"/>
+<ingredientItem itemId="1879091377" name="Sapphire Shard" icon="1090533168-1090519043-1090640816"/>
 </ingredient>
 <result>
 <resultItem itemId="1879068175" name="Forge-Crafted Shoulder Guards" icon="1090524994-1090519043-1090524996-1090524995"/>
@@ -7762,7 +7762,7 @@
 <ingredientItem itemId="1879055638" name="Tough Leather Pads" icon="1090537083-1090519042-1090640816"/>
 </ingredient>
 <ingredient>
-<ingredientItem itemId="1879091378" name="Ruby Shard" icon="1090527606-1090519043-1090640816"/>
+<ingredientItem itemId="1879091377" name="Sapphire Shard" icon="1090533168-1090519043-1090640816"/>
 </ingredient>
 <result>
 <resultItem itemId="1879100318" name="Dwarf Forge-Crafted Armour" icon="1090525742-1090519043-1090525744-1090525743"/>
@@ -7785,7 +7785,7 @@
 <ingredientItem itemId="1879055638" name="Tough Leather Pads" icon="1090537083-1090519042-1090640816"/>
 </ingredient>
 <ingredient>
-<ingredientItem itemId="1879091378" name="Ruby Shard" icon="1090527606-1090519043-1090640816"/>
+<ingredientItem itemId="1879091377" name="Sapphire Shard" icon="1090533168-1090519043-1090640816"/>
 </ingredient>
 <result>
 <resultItem itemId="1879099825" name="Dwarf Forge-Crafted Boots" icon="1090525685-1090519043-1090525687-1090525686"/>
@@ -7808,7 +7808,7 @@
 <ingredientItem itemId="1879055638" name="Tough Leather Pads" icon="1090537083-1090519042-1090640816"/>
 </ingredient>
 <ingredient>
-<ingredientItem itemId="1879091378" name="Ruby Shard" icon="1090527606-1090519043-1090640816"/>
+<ingredientItem itemId="1879091377" name="Sapphire Shard" icon="1090533168-1090519043-1090640816"/>
 </ingredient>
 <result>
 <resultItem itemId="1879099922" name="Dwarf Forge-Crafted Gloves" icon="1090525872-1090519043-1090525874-1090525873"/>
@@ -7831,7 +7831,7 @@
 <ingredientItem itemId="1879055638" name="Tough Leather Pads" icon="1090537083-1090519042-1090640816"/>
 </ingredient>
 <ingredient>
-<ingredientItem itemId="1879091378" name="Ruby Shard" icon="1090527606-1090519043-1090640816"/>
+<ingredientItem itemId="1879091377" name="Sapphire Shard" icon="1090533168-1090519043-1090640816"/>
 </ingredient>
 <result>
 <resultItem itemId="1879100101" name="Dwarf Forge-Crafted Leggings" icon="1090525986-1090519043-1090525988-1090525987"/>
@@ -7854,7 +7854,7 @@
 <ingredientItem itemId="1879055638" name="Tough Leather Pads" icon="1090537083-1090519042-1090640816"/>
 </ingredient>
 <ingredient>
-<ingredientItem itemId="1879091378" name="Ruby Shard" icon="1090527606-1090519043-1090640816"/>
+<ingredientItem itemId="1879091377" name="Sapphire Shard" icon="1090533168-1090519043-1090640816"/>
 </ingredient>
 <result>
 <resultItem itemId="1879100405" name="Dwarf Forge-Crafted Shoulder Guards" icon="1090526048-1090519043-1090526050-1090526049"/>
@@ -8222,7 +8222,7 @@
 <ingredientItem itemId="1879055638" name="Tough Leather Pads" icon="1090537083-1090519042-1090640816"/>
 </ingredient>
 <ingredient>
-<ingredientItem itemId="1879091378" name="Ruby Shard" icon="1090527606-1090519043-1090640816"/>
+<ingredientItem itemId="1879091377" name="Sapphire Shard" icon="1090533168-1090519043-1090640816"/>
 </ingredient>
 <result>
 <resultItem itemId="1879099667" name="Elf Forge-Crafted Armour" icon="1090528483-1090519043-1090528485-1090528484"/>
@@ -8245,7 +8245,7 @@
 <ingredientItem itemId="1879055638" name="Tough Leather Pads" icon="1090537083-1090519042-1090640816"/>
 </ingredient>
 <ingredient>
-<ingredientItem itemId="1879091378" name="Ruby Shard" icon="1090527606-1090519043-1090640816"/>
+<ingredientItem itemId="1879091377" name="Sapphire Shard" icon="1090533168-1090519043-1090640816"/>
 </ingredient>
 <result>
 <resultItem itemId="1879100048" name="Elf Forge-Crafted Boots" icon="1090552827-1090519043-1090552829-1090552828"/>
@@ -8268,7 +8268,7 @@
 <ingredientItem itemId="1879055638" name="Tough Leather Pads" icon="1090537083-1090519042-1090640816"/>
 </ingredient>
 <ingredient>
-<ingredientItem itemId="1879091378" name="Ruby Shard" icon="1090527606-1090519043-1090640816"/>
+<ingredientItem itemId="1879091377" name="Sapphire Shard" icon="1090533168-1090519043-1090640816"/>
 </ingredient>
 <result>
 <resultItem itemId="1879099857" name="Elf Forge-Crafted Gloves" icon="1090539015-1090519043-1090539017-1090539016"/>
@@ -8291,7 +8291,7 @@
 <ingredientItem itemId="1879055638" name="Tough Leather Pads" icon="1090537083-1090519042-1090640816"/>
 </ingredient>
 <ingredient>
-<ingredientItem itemId="1879091378" name="Ruby Shard" icon="1090527606-1090519043-1090640816"/>
+<ingredientItem itemId="1879091377" name="Sapphire Shard" icon="1090533168-1090519043-1090640816"/>
 </ingredient>
 <result>
 <resultItem itemId="1879099495" name="Elf Forge-Crafted Leggings" icon="1090552799-1090519043-1090552801-1090552800"/>
@@ -8314,7 +8314,7 @@
 <ingredientItem itemId="1879055638" name="Tough Leather Pads" icon="1090537083-1090519042-1090640816"/>
 </ingredient>
 <ingredient>
-<ingredientItem itemId="1879091378" name="Ruby Shard" icon="1090527606-1090519043-1090640816"/>
+<ingredientItem itemId="1879091377" name="Sapphire Shard" icon="1090533168-1090519043-1090640816"/>
 </ingredient>
 <result>
 <resultItem itemId="1879099580" name="Elf Forge-Crafted Shoulder Guards" icon="1090534428-1090519043-1090534430-1090534429"/>

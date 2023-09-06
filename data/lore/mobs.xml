@@ -2249,7 +2249,7 @@
 <mob id="1879084450" name="Caitir Adder-kiss" alignment="3" class="51" classFilter="2" genus="3" species="61" reputationTrophyListId="1879093536" trophyListId="1879091631" remoteLootable="false"/>
 <mob id="1879084455" name="Kurth" alignment="3" class="51" classFilter="2" genus="7" species="22" subSpecies="105" reputationTrophyListId="1879093536" trophyListId="1879091636" remoteLootable="false"/>
 <mob id="1879084457" name="Akharn" alignment="3" class="51" classFilter="2" genus="3" species="39" subSpecies="44" reputationTrophyListId="1879093536" trophyListId="1879091647" remoteLootable="false"/>
-<mob id="1879084917" name="Golodir" alignment="1" class="51" classFilter="3" genus="3" species="23" subSpecies="132"/>
+<mob id="1879084917" name="Golodir" alignment="1" class="51" classFilter="3" genus="2" species="23" subSpecies="132"/>
 <mob id="1879084976" name="Rogue Fire-drake" alignment="3" class="10" classFilter="2" genus="6" species="44"/>
 <mob id="1879085060" name="Ongbúrz Soldier" alignment="3" class="51" classFilter="2" genus="1" species="7" trophyListId="1879082804" remoteLootable="false"/>
 <mob id="1879085061" name="Coldfells Sergeant" alignment="1" class="51" classFilter="2" genus="3" species="23" subSpecies="96" trophyListId="1879083034" remoteLootable="false"/>
