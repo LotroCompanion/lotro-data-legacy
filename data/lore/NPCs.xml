@@ -1,1216 +1,1216 @@
 <?xml version="1.0" encoding="UTF-8"?><NPCs>
-<NPC id="1879048194" name="Carlo Blagrove" title="key:620767098:229802005"/>
-<NPC id="1879048197" name="Shirriff Robin Smallburrow"/>
-<NPC id="1879048206" name="Alken Chubb"/>
-<NPC id="1879048210" name="Barmy Rootknot" title="key:620767205:229802005"/>
-<NPC id="1879048213" name="Ponto Hopsbloom" title="key:620767212:229802005"/>
-<NPC id="1879048215" name="Ruby Hollowbanks"/>
-<NPC id="1879048218" name="Halson Tubwort" title="key:620758881:229802005"/>
-<NPC id="1879048220" name="Rollo Bunce"/>
-<NPC id="1879048223" name="Fogo Fallohide"/>
-<NPC id="1879048225" name="Gunderic Grubb" title="key:620767220:229802005"/>
-<NPC id="1879048227" name="Pansy Proudfoot"/>
-<NPC id="1879048230" name="Bill Ferny"/>
-<NPC id="1879048234" name="Jailor Ned Pruner"/>
-<NPC id="1879048238" name="Jon Brackenbrook"/>
-<NPC id="1879048242" name="Fenton Marshley"/>
-<NPC id="1879048248" name="Arinora"/>
-<NPC id="1879048253" name="Candac Brightwood"/>
-<NPC id="1879048258" name="Gadaric Munce"/>
-<NPC id="1879048261" name="Hunulf Munce"/>
-<NPC id="1879048267" name="Lieva Dourlily"/>
-<NPC id="1879048269" name="Old Mugwort"/>
-<NPC id="1879048274" name="Kobbi Stonestar"/>
-<NPC id="1879048277" name="Falster the Fox"/>
-<NPC id="1879048281" name="Anlaf the Forlorn" title="key:620757892:229802005"/>
-<NPC id="1879048287" name="Palma Brownlock"/>
-<NPC id="1879048296" name="Brúni Stonehelm" title="key:620767519:229802005"/>
-<NPC id="1879048298" name="Kobbi" title="key:620764932:229802005"/>
-<NPC id="1879048302" name="Jolfur" title="key:620759374:229802005"/>
-<NPC id="1879048305" name="Reykur" title="key:620759680:229802005"/>
-<NPC id="1879048309" name="Bávor"/>
-<NPC id="1879048318" name="Glasi Ironhand"/>
-<NPC id="1879048321" name="Heikki Goldwatcher"/>
-<NPC id="1879048323" name="Tyrvi" title="key:620767570:229802005"/>
-<NPC id="1879048327" name="Sindri" title="key:620766962:229802005"/>
-<NPC id="1879048331" name="Novice Jeweller" title="key:620767373:229802005"/>
-<NPC id="1879048333" name="Dofri" title="key:620767189:229802005"/>
-<NPC id="1879048335" name="Lothinn" title="key:620767396:229802005"/>
-<NPC id="1879048339" name="Guard-captain Unnarr"/>
-<NPC id="1879048344" name="Master of Apprentices" title="key:620767902:229802005"/>
-<NPC id="1879048354" name="Dwalin"/>
-<NPC id="1879048361" name="Naut" title="key:620765178:229802005"/>
-<NPC id="1879048365" name="Ivy Spokes" title="key:620765314:229802005"/>
-<NPC id="1879048369" name="Petula Barley" title="key:620759146:229802005"/>
-<NPC id="1879048372" name="Granger Halifax" title="key:620759849:229802005"/>
-<NPC id="1879048376" name="Dragmáll" title="key:620767703:229802005"/>
-<NPC id="1879048380" name="Egil Oldbeard"/>
-<NPC id="1879048382" name="Thithrandi" title="key:620767092:229802005"/>
-<NPC id="1879048384" name="Harthgríp" title="key:620767086:229802005"/>
-<NPC id="1879048386" name="Expert Metalsmith" title="key:620767154:229802005"/>
-<NPC id="1879048388" name="Gríss Stonesmasher"/>
-<NPC id="1879048391" name="Amdir"/>
+<NPC id="1879048194" name="Carlo Blagrove" gender="MALE" title="key:620767098:229802005"/>
+<NPC id="1879048197" name="Shirriff Robin Smallburrow" gender="MALE"/>
+<NPC id="1879048206" name="Alken Chubb" gender="MALE"/>
+<NPC id="1879048210" name="Barmy Rootknot" gender="MALE" title="key:620767205:229802005"/>
+<NPC id="1879048213" name="Ponto Hopsbloom" gender="MALE" title="key:620767212:229802005"/>
+<NPC id="1879048215" name="Ruby Hollowbanks" gender="FEMALE"/>
+<NPC id="1879048218" name="Halson Tubwort" gender="MALE" title="key:620758881:229802005"/>
+<NPC id="1879048220" name="Rollo Bunce" gender="MALE"/>
+<NPC id="1879048223" name="Fogo Fallohide" gender="MALE"/>
+<NPC id="1879048225" name="Gunderic Grubb" gender="MALE" title="key:620767220:229802005"/>
+<NPC id="1879048227" name="Pansy Proudfoot" gender="FEMALE"/>
+<NPC id="1879048230" name="Bill Ferny" gender="MALE"/>
+<NPC id="1879048234" name="Jailor Ned Pruner" gender="MALE"/>
+<NPC id="1879048238" name="Jon Brackenbrook" gender="MALE"/>
+<NPC id="1879048242" name="Fenton Marshley" gender="MALE"/>
+<NPC id="1879048248" name="Arinora" gender="FEMALE"/>
+<NPC id="1879048253" name="Candac Brightwood" gender="MALE"/>
+<NPC id="1879048258" name="Gadaric Munce" gender="MALE"/>
+<NPC id="1879048261" name="Hunulf Munce" gender="MALE"/>
+<NPC id="1879048267" name="Lieva Dourlily" gender="FEMALE"/>
+<NPC id="1879048269" name="Old Mugwort" gender="MALE"/>
+<NPC id="1879048274" name="Kobbi Stonestar" gender="MALE"/>
+<NPC id="1879048277" name="Falster the Fox" gender="MALE"/>
+<NPC id="1879048281" name="Anlaf the Forlorn" gender="MALE" title="key:620757892:229802005"/>
+<NPC id="1879048287" name="Palma Brownlock" gender="FEMALE"/>
+<NPC id="1879048296" name="Brúni Stonehelm" gender="MALE" title="key:620767519:229802005"/>
+<NPC id="1879048298" name="Kobbi" gender="MALE" title="key:620764932:229802005"/>
+<NPC id="1879048302" name="Jolfur" gender="MALE" title="key:620759374:229802005"/>
+<NPC id="1879048305" name="Reykur" gender="MALE" title="key:620759680:229802005"/>
+<NPC id="1879048309" name="Bávor" gender="MALE"/>
+<NPC id="1879048318" name="Glasi Ironhand" gender="MALE"/>
+<NPC id="1879048321" name="Heikki Goldwatcher" gender="MALE"/>
+<NPC id="1879048323" name="Tyrvi" gender="MALE" title="key:620767570:229802005"/>
+<NPC id="1879048327" name="Sindri" gender="MALE" title="key:620766962:229802005"/>
+<NPC id="1879048331" name="Novice Jeweller" gender="MALE" title="key:620767373:229802005"/>
+<NPC id="1879048333" name="Dofri" gender="MALE" title="key:620767189:229802005"/>
+<NPC id="1879048335" name="Lothinn" gender="MALE" title="key:620767396:229802005"/>
+<NPC id="1879048339" name="Guard-captain Unnarr" gender="MALE"/>
+<NPC id="1879048344" name="Master of Apprentices" gender="MALE" title="key:620767902:229802005"/>
+<NPC id="1879048354" name="Dwalin" gender="MALE"/>
+<NPC id="1879048361" name="Naut" gender="MALE" title="key:620765178:229802005"/>
+<NPC id="1879048365" name="Ivy Spokes" gender="FEMALE" title="key:620765314:229802005"/>
+<NPC id="1879048369" name="Petula Barley" gender="FEMALE" title="key:620759146:229802005"/>
+<NPC id="1879048372" name="Granger Halifax" gender="MALE" title="key:620759849:229802005"/>
+<NPC id="1879048376" name="Dragmáll" gender="MALE" title="key:620767703:229802005"/>
+<NPC id="1879048380" name="Egil Oldbeard" gender="MALE"/>
+<NPC id="1879048382" name="Thithrandi" gender="MALE" title="key:620767092:229802005"/>
+<NPC id="1879048384" name="Harthgríp" gender="MALE" title="key:620767086:229802005"/>
+<NPC id="1879048386" name="Expert Metalsmith" gender="MALE" title="key:620767154:229802005"/>
+<NPC id="1879048388" name="Gríss Stonesmasher" gender="MALE"/>
+<NPC id="1879048391" name="Amdir" gender="MALE"/>
 <NPC id="1879048394" name="Detector"/>
-<NPC id="1879048395" name="Celandine Brandybuck"/>
-<NPC id="1879048396" name="Amdir"/>
-<NPC id="1879048397" name="Mundo Sackville-Baggins"/>
-<NPC id="1879048401" name="Elrohir"/>
-<NPC id="1879048405" name="Gimli"/>
-<NPC id="1879048407" name="Gandalf"/>
-<NPC id="1879048409" name="Otur"/>
-<NPC id="1879048411" name="Vitharr"/>
-<NPC id="1879048436" name="Gildor Inglorion"/>
-<NPC id="1879048441" name="Halbarad"/>
+<NPC id="1879048395" name="Celandine Brandybuck" gender="FEMALE"/>
+<NPC id="1879048396" name="Amdir" gender="MALE"/>
+<NPC id="1879048397" name="Mundo Sackville-Baggins" gender="MALE"/>
+<NPC id="1879048401" name="Elrohir" gender="MALE"/>
+<NPC id="1879048405" name="Gimli" gender="MALE"/>
+<NPC id="1879048407" name="Gandalf" gender="MALE"/>
+<NPC id="1879048409" name="Otur" gender="MALE"/>
+<NPC id="1879048411" name="Vitharr" gender="MALE"/>
+<NPC id="1879048436" name="Gildor Inglorion" gender="MALE"/>
+<NPC id="1879048441" name="Halbarad" gender="MALE"/>
 <NPC id="1879048453" name="Of Arthedain and its Settlements"/>
-<NPC id="1879048456" name="Nellie Boskins"/>
-<NPC id="1879048460" name="Jennet Brockhouse" title="key:620759147:229802005"/>
-<NPC id="1879048461" name="Nelson Blake" title="key:620759850:229802005"/>
-<NPC id="1879048462" name="Sheldon Roper" title="key:620764963:229802005"/>
-<NPC id="1879048463" name="Garrett Beardsley" title="key:620765242:229802005"/>
-<NPC id="1879048464" name="Juniper Smith" title="key:620765131:229802005"/>
-<NPC id="1879048465" name="Barton Tanner" title="key:620765315:229802005"/>
-<NPC id="1879048466" name="Marjorie Wainwright" title="key:620759712:229802005"/>
-<NPC id="1879048468" name="Master of Apprentices" title="key:620767903:229802005"/>
-<NPC id="1879048469" name="Novice Woodworker" title="key:620767712:229802005"/>
-<NPC id="1879048470" name="Novice Jeweller" title="key:620767382:229802005"/>
-<NPC id="1879048471" name="Novice Tailor" title="key:620767705:229802005"/>
-<NPC id="1879048472" name="Novice Scholar" title="key:620767401:229802005"/>
-<NPC id="1879048473" name="Novice Weaponcrafter" title="key:620767014:229802005"/>
-<NPC id="1879048474" name="Novice Metalsmith" title="key:620767087:229802005"/>
-<NPC id="1879048475" name="Novice Cook" title="key:620767195:229802005"/>
-<NPC id="1879048477" name="Isferon"/>
-<NPC id="1879048480" name="Leigh Putnam"/>
-<NPC id="1879048482" name="Ford Beecher"/>
-<NPC id="1879048483" name="Gail Beecher"/>
-<NPC id="1879048484" name="Lind Newell"/>
-<NPC id="1879048489" name="Olin"/>
-<NPC id="1879048494" name="Halmur Stoneshaper"/>
-<NPC id="1879048498" name="Postman Took"/>
-<NPC id="1879048502" name="Tom Bombadil"/>
-<NPC id="1879048510" name="Gerebert Took"/>
-<NPC id="1879048513" name="The Witch-king" title="key:620779048:229802005"/>
-<NPC id="1879048515" name="Tom Bombadil"/>
-<NPC id="1879048519" name="Bounder Primstone"/>
-<NPC id="1879048526" name="Thain Paladin Took II"/>
-<NPC id="1879048529" name="Pervinca Took"/>
-<NPC id="1879048531" name="Adelard Took"/>
+<NPC id="1879048456" name="Nellie Boskins" gender="FEMALE"/>
+<NPC id="1879048460" name="Jennet Brockhouse" gender="FEMALE" title="key:620759147:229802005"/>
+<NPC id="1879048461" name="Nelson Blake" gender="MALE" title="key:620759850:229802005"/>
+<NPC id="1879048462" name="Sheldon Roper" gender="MALE" title="key:620764963:229802005"/>
+<NPC id="1879048463" name="Garrett Beardsley" gender="MALE" title="key:620765242:229802005"/>
+<NPC id="1879048464" name="Juniper Smith" gender="FEMALE" title="key:620765131:229802005"/>
+<NPC id="1879048465" name="Barton Tanner" gender="MALE" title="key:620765315:229802005"/>
+<NPC id="1879048466" name="Marjorie Wainwright" gender="FEMALE" title="key:620759712:229802005"/>
+<NPC id="1879048468" name="Master of Apprentices" gender="MALE" title="key:620767903:229802005"/>
+<NPC id="1879048469" name="Novice Woodworker" gender="MALE" title="key:620767712:229802005"/>
+<NPC id="1879048470" name="Novice Jeweller" gender="FEMALE" title="key:620767382:229802005"/>
+<NPC id="1879048471" name="Novice Tailor" gender="MALE" title="key:620767705:229802005"/>
+<NPC id="1879048472" name="Novice Scholar" gender="FEMALE" title="key:620767401:229802005"/>
+<NPC id="1879048473" name="Novice Weaponcrafter" gender="MALE" title="key:620767014:229802005"/>
+<NPC id="1879048474" name="Novice Metalsmith" gender="MALE" title="key:620767087:229802005"/>
+<NPC id="1879048475" name="Novice Cook" gender="MALE" title="key:620767195:229802005"/>
+<NPC id="1879048477" name="Isferon" gender="MALE"/>
+<NPC id="1879048480" name="Leigh Putnam" gender="FEMALE"/>
+<NPC id="1879048482" name="Ford Beecher" gender="MALE"/>
+<NPC id="1879048483" name="Gail Beecher" gender="FEMALE"/>
+<NPC id="1879048484" name="Lind Newell" gender="MALE"/>
+<NPC id="1879048489" name="Olin" gender="MALE"/>
+<NPC id="1879048494" name="Halmur Stoneshaper" gender="MALE"/>
+<NPC id="1879048498" name="Postman Took" gender="MALE"/>
+<NPC id="1879048502" name="Tom Bombadil" gender="MALE"/>
+<NPC id="1879048510" name="Gerebert Took" gender="MALE"/>
+<NPC id="1879048513" name="The Witch-king" gender="MALE" title="key:620779048:229802005"/>
+<NPC id="1879048515" name="Tom Bombadil" gender="MALE"/>
+<NPC id="1879048519" name="Bounder Primstone" gender="MALE"/>
+<NPC id="1879048526" name="Thain Paladin Took II" gender="MALE"/>
+<NPC id="1879048529" name="Pervinca Took" gender="FEMALE"/>
+<NPC id="1879048531" name="Adelard Took" gender="MALE"/>
 <NPC id="1879048537" name="Small Bookshelf"/>
-<NPC id="1879048539" name="Captain Brackenbrook"/>
-<NPC id="1879048543" name="Ellie Cutleaf"/>
-<NPC id="1879048554" name="Toradan"/>
-<NPC id="1879048558" name="Barliman Butterbur" title="key:620757737:229802005"/>
-<NPC id="1879048565" name="Bob"/>
-<NPC id="1879048568" name="Strider"/>
-<NPC id="1879048574" name="Gandalf"/>
-<NPC id="1879048576" name="Piper Prescott"/>
-<NPC id="1879048581" name="Archivist Arodel" title="key:620767162:229802005"/>
-<NPC id="1879048585" name="Researcher Mallennor" title="key:620767169:229802005"/>
-<NPC id="1879048587" name="Laerdan"/>
-<NPC id="1879048593" name="Fimreg"/>
-<NPC id="1879048598" name="Lunathron"/>
-<NPC id="1879048601" name="Lorniel"/>
-<NPC id="1879048605" name="Golodir"/>
-<NPC id="1879048608" name="Húriel"/>
-<NPC id="1879048610" name="Thoriel"/>
-<NPC id="1879048613" name="Donaith"/>
-<NPC id="1879048617" name="Osbail"/>
-<NPC id="1879048622" name="Táni"/>
-<NPC id="1879048626" name="Throst"/>
-<NPC id="1879048628" name="Thorth" title="key:620763065:229802005"/>
-<NPC id="1879048630" name="Gormal"/>
-<NPC id="1879048633" name="Bethad"/>
-<NPC id="1879048641" name="Aragorn"/>
-<NPC id="1879048646" name="Mundol"/>
-<NPC id="1879048649" name="Lizbeth Honeymeade" title="key:620766887:229802005"/>
-<NPC id="1879048651" name="Toradan"/>
-<NPC id="1879048654" name="Novice Jeweller" title="key:620767365:229802005"/>
-<NPC id="1879048655" name="Novice Scholar" title="key:620767383:229802005"/>
-<NPC id="1879048656" name="Expert Scholar" title="key:620767343:229802005"/>
-<NPC id="1879048658" name="Expert Jeweller" title="key:620767421:229802005"/>
-<NPC id="1879048660" name="Deluros"/>
-<NPC id="1879048665" name="Gandalf"/>
-<NPC id="1879048668" name="Elrond"/>
-<NPC id="1879048685" name="Dorset Oakes"/>
-<NPC id="1879048688" name="Novice Cook" title="key:620767185:229802005"/>
-<NPC id="1879048689" name="Lindir"/>
-<NPC id="1879048702" name="Bilbo Baggins"/>
-<NPC id="1879048711" name="Lenglinn"/>
-<NPC id="1879049229" name="Torthann"/>
-<NPC id="1879049235" name="Strider"/>
-<NPC id="1879049238" name="Constable Underhill"/>
-<NPC id="1879049258" name="Constable Tanglerush"/>
-<NPC id="1879049272" name="Leecher Cartwell" title="key:620766891:229802005"/>
-<NPC id="1879049547" name="Jon Brackenbrook"/>
-<NPC id="1879049554" name="Mundo Sackville-Baggins"/>
-<NPC id="1879049562" name="Jailor Ned Pruner"/>
-<NPC id="1879049563" name="Amdir"/>
-<NPC id="1879049564" name="Celandine Brandybuck"/>
-<NPC id="1879049565" name="Peg Pruner"/>
-<NPC id="1879049576" name="Keeper Brombard Foxtail"/>
-<NPC id="1879049588" name="Mayor Will Whitfoot"/>
-<NPC id="1879049591" name="Lobelia Sackville-Baggins"/>
-<NPC id="1879049592" name="Lotho Sackville-Baggins"/>
-<NPC id="1879049595" name="Mat Harfoot"/>
-<NPC id="1879049596" name="Second Shirriff Bodo Bunce"/>
-<NPC id="1879049599" name="Belco Brockhouse"/>
-<NPC id="1879049600" name="Bingo Bolger"/>
-<NPC id="1879049601" name="Bodo Goodbody"/>
-<NPC id="1879049602" name="Bounder"/>
+<NPC id="1879048539" name="Captain Brackenbrook" gender="MALE"/>
+<NPC id="1879048543" name="Ellie Cutleaf" gender="FEMALE"/>
+<NPC id="1879048554" name="Toradan" gender="MALE"/>
+<NPC id="1879048558" name="Barliman Butterbur" gender="MALE" title="key:620757737:229802005"/>
+<NPC id="1879048565" name="Bob" gender="MALE"/>
+<NPC id="1879048568" name="Strider" gender="MALE"/>
+<NPC id="1879048574" name="Gandalf" gender="MALE"/>
+<NPC id="1879048576" name="Piper Prescott" gender="MALE"/>
+<NPC id="1879048581" name="Archivist Arodel" gender="MALE" title="key:620767162:229802005"/>
+<NPC id="1879048585" name="Researcher Mallennor" gender="MALE" title="key:620767169:229802005"/>
+<NPC id="1879048587" name="Laerdan" gender="MALE"/>
+<NPC id="1879048593" name="Fimreg" gender="FEMALE"/>
+<NPC id="1879048598" name="Lunathron" gender="MALE"/>
+<NPC id="1879048601" name="Lorniel" gender="FEMALE"/>
+<NPC id="1879048605" name="Golodir" gender="MALE"/>
+<NPC id="1879048608" name="Húriel" gender="FEMALE"/>
+<NPC id="1879048610" name="Thoriel" gender="FEMALE"/>
+<NPC id="1879048613" name="Donaith" gender="MALE"/>
+<NPC id="1879048617" name="Osbail" gender="FEMALE"/>
+<NPC id="1879048622" name="Táni" gender="MALE"/>
+<NPC id="1879048626" name="Throst" gender="MALE"/>
+<NPC id="1879048628" name="Thorth" gender="MALE" title="key:620763065:229802005"/>
+<NPC id="1879048630" name="Gormal" gender="MALE"/>
+<NPC id="1879048633" name="Bethad" gender="MALE"/>
+<NPC id="1879048641" name="Aragorn" gender="MALE"/>
+<NPC id="1879048646" name="Mundol" gender="MALE"/>
+<NPC id="1879048649" name="Lizbeth Honeymeade" gender="FEMALE" title="key:620766887:229802005"/>
+<NPC id="1879048651" name="Toradan" gender="MALE"/>
+<NPC id="1879048654" name="Novice Jeweller" gender="FEMALE" title="key:620767365:229802005"/>
+<NPC id="1879048655" name="Novice Scholar" gender="MALE" title="key:620767383:229802005"/>
+<NPC id="1879048656" name="Expert Scholar" gender="MALE" title="key:620767343:229802005"/>
+<NPC id="1879048658" name="Expert Jeweller" gender="FEMALE" title="key:620767421:229802005"/>
+<NPC id="1879048660" name="Deluros" gender="MALE"/>
+<NPC id="1879048665" name="Gandalf" gender="MALE"/>
+<NPC id="1879048668" name="Elrond" gender="MALE"/>
+<NPC id="1879048685" name="Dorset Oakes" gender="MALE"/>
+<NPC id="1879048688" name="Novice Cook" gender="FEMALE" title="key:620767185:229802005"/>
+<NPC id="1879048689" name="Lindir" gender="MALE"/>
+<NPC id="1879048702" name="Bilbo Baggins" gender="MALE"/>
+<NPC id="1879048711" name="Lenglinn" gender="MALE"/>
+<NPC id="1879049229" name="Torthann" gender="MALE"/>
+<NPC id="1879049235" name="Strider" gender="MALE"/>
+<NPC id="1879049238" name="Constable Underhill" gender="MALE"/>
+<NPC id="1879049258" name="Constable Tanglerush" gender="FEMALE"/>
+<NPC id="1879049272" name="Leecher Cartwell" gender="MALE" title="key:620766891:229802005"/>
+<NPC id="1879049547" name="Jon Brackenbrook" gender="MALE"/>
+<NPC id="1879049554" name="Mundo Sackville-Baggins" gender="MALE"/>
+<NPC id="1879049562" name="Jailor Ned Pruner" gender="MALE"/>
+<NPC id="1879049563" name="Amdir" gender="MALE"/>
+<NPC id="1879049564" name="Celandine Brandybuck" gender="FEMALE"/>
+<NPC id="1879049565" name="Peg Pruner" gender="FEMALE"/>
+<NPC id="1879049576" name="Keeper Brombard Foxtail" gender="MALE"/>
+<NPC id="1879049588" name="Mayor Will Whitfoot" gender="MALE"/>
+<NPC id="1879049591" name="Lobelia Sackville-Baggins" gender="FEMALE"/>
+<NPC id="1879049592" name="Lotho Sackville-Baggins" gender="MALE"/>
+<NPC id="1879049595" name="Mat Harfoot" gender="MALE"/>
+<NPC id="1879049596" name="Second Shirriff Bodo Bunce" gender="MALE"/>
+<NPC id="1879049599" name="Belco Brockhouse" gender="MALE"/>
+<NPC id="1879049600" name="Bingo Bolger" gender="MALE"/>
+<NPC id="1879049601" name="Bodo Goodbody" gender="MALE"/>
+<NPC id="1879049602" name="Bounder" gender="MALE"/>
 <NPC id="1879049603" name="Bounder Chubb"/>
-<NPC id="1879049604" name="Bounder Greenfield"/>
-<NPC id="1879049605" name="Cam Puddifoot"/>
-<NPC id="1879049606" name="Daisy Bunce"/>
-<NPC id="1879049607" name="Dora Brownlock"/>
-<NPC id="1879049608" name="Edilina Proudfoot"/>
-<NPC id="1879049609" name="Everard Holebourne"/>
-<NPC id="1879049610" name="Farmer Maggot" title="key:620757644:229802005"/>
-<NPC id="1879049611" name="Farmer Sandson"/>
-<NPC id="1879049612" name="Filibert Bolger"/>
-<NPC id="1879049613" name="Gaffer Gamgee" title="key:620766373:229802005"/>
-<NPC id="1879049614" name="Gammer Boffin" title="key:620758963:229802005"/>
-<NPC id="1879049615" name="Gammer Tunnelly"/>
-<NPC id="1879049616" name="Gerd Whitfoot" title="key:620758807:229802005"/>
-<NPC id="1879049617" name="Griffo Boffin"/>
-<NPC id="1879049618" name="Hal Hornblower"/>
-<NPC id="1879049619" name="Hamson Mugwort"/>
-<NPC id="1879049620" name="Hart Holeman"/>
-<NPC id="1879049621" name="Hildifons Took II"/>
-<NPC id="1879049622" name="Shirriff Hob Hayward"/>
-<NPC id="1879049623" name="Hobson Broadbean"/>
-<NPC id="1879049624" name="Holly Hornblower"/>
-<NPC id="1879049625" name="Hyacinth Took"/>
-<NPC id="1879049626" name="Lily Proudfoot"/>
-<NPC id="1879049627" name="Linda Bolger"/>
-<NPC id="1879049628" name="Longo Burrow"/>
-<NPC id="1879049629" name="Milo Bolger"/>
-<NPC id="1879049630" name="Milo Hornblower"/>
-<NPC id="1879049631" name="Mungo Burrows"/>
-<NPC id="1879049632" name="Odovacar Bolger"/>
-<NPC id="1879049633" name="Opal Goodbody"/>
-<NPC id="1879049634" name="Otho Broadbelt"/>
-<NPC id="1879049635" name="Pansy Tunnelly"/>
-<NPC id="1879049636" name="Peony Grubb"/>
-<NPC id="1879049637" name="Polo Proudfoot"/>
-<NPC id="1879049638" name="Ponto Hornblower"/>
-<NPC id="1879049639" name="Prisca Underhill"/>
-<NPC id="1879049640" name="Rollo Boffin" title="key:620758941:229802005"/>
-<NPC id="1879049641" name="Ruby Primstone"/>
-<NPC id="1879049642" name="Rudigar Burrows"/>
-<NPC id="1879049643" name="Soradoc Proudfoot"/>
-<NPC id="1879049644" name="Wilcome Tunnelly"/>
-<NPC id="1879049645" name="Wilimar Bolger"/>
-<NPC id="1879049646" name="Lorgo Bunce"/>
-<NPC id="1879049707" name="Gil Sandheaver"/>
-<NPC id="1879049708" name="Goldberry"/>
-<NPC id="1879049710" name="Saradoc Brandybuck"/>
-<NPC id="1879049711" name="Doderic Brandybuck"/>
-<NPC id="1879049712" name="Rollo Maggot"/>
-<NPC id="1879049721" name="Celandine Brandybuck"/>
-<NPC id="1879049750" name="Adso Haybank"/>
-<NPC id="1879049766" name="Dannasen"/>
-<NPC id="1879049789" name="Ham Rushlight"/>
-<NPC id="1879049833" name="Langlas"/>
-<NPC id="1879049843" name="Halros"/>
-<NPC id="1879049851" name="Radagast the Brown"/>
-<NPC id="1879049852" name="Radagast the Brown"/>
-<NPC id="1879049864" name="Candaith"/>
-<NPC id="1879049878" name="Aric the Stone-speaker"/>
-<NPC id="1879049880" name="Emelin"/>
-<NPC id="1879049891" name="Dannasen"/>
-<NPC id="1879049892" name="Elsa the Bold"/>
-<NPC id="1879049893" name="Eriac the Strong"/>
-<NPC id="1879049894" name="Defender of Ost Guruth"/>
-<NPC id="1879049902" name="Frideric the Elder"/>
-<NPC id="1879049905" name="Narthan"/>
-<NPC id="1879049979" name="Elsa the Bold"/>
-<NPC id="1879049980" name="Hana the Young" title="key:620758738:229802005"/>
-<NPC id="1879050011" name="Saeradan"/>
-<NPC id="1879050093" name="Chief Watcher Grimbriar"/>
-<NPC id="1879050200" name="Thomas Thistlewool"/>
-<NPC id="1879051324" name="Kekkonen"/>
-<NPC id="1879051352" name="Eriac the Strong"/>
-<NPC id="1879051354" name="Guardsman Otley"/>
-<NPC id="1879051357" name="Lily Sandheaver" title="key:620758683:229802005"/>
-<NPC id="1879051499" name="Mayor Graeme Tenderlarch"/>
+<NPC id="1879049604" name="Bounder Greenfield" gender="FEMALE"/>
+<NPC id="1879049605" name="Cam Puddifoot" gender="MALE"/>
+<NPC id="1879049606" name="Daisy Bunce" gender="FEMALE"/>
+<NPC id="1879049607" name="Dora Brownlock" gender="FEMALE"/>
+<NPC id="1879049608" name="Edilina Proudfoot" gender="FEMALE"/>
+<NPC id="1879049609" name="Everard Holebourne" gender="MALE"/>
+<NPC id="1879049610" name="Farmer Maggot" gender="MALE" title="key:620757644:229802005"/>
+<NPC id="1879049611" name="Farmer Sandson" gender="MALE"/>
+<NPC id="1879049612" name="Filibert Bolger" gender="MALE"/>
+<NPC id="1879049613" name="Gaffer Gamgee" gender="MALE" title="key:620766373:229802005"/>
+<NPC id="1879049614" name="Gammer Boffin" gender="FEMALE" title="key:620758963:229802005"/>
+<NPC id="1879049615" name="Gammer Tunnelly" gender="FEMALE"/>
+<NPC id="1879049616" name="Gerd Whitfoot" gender="MALE" title="key:620758807:229802005"/>
+<NPC id="1879049617" name="Griffo Boffin" gender="MALE"/>
+<NPC id="1879049618" name="Hal Hornblower" gender="MALE"/>
+<NPC id="1879049619" name="Hamson Mugwort" gender="MALE"/>
+<NPC id="1879049620" name="Hart Holeman" gender="MALE"/>
+<NPC id="1879049621" name="Hildifons Took II" gender="MALE"/>
+<NPC id="1879049622" name="Shirriff Hob Hayward" gender="MALE"/>
+<NPC id="1879049623" name="Hobson Broadbean" gender="MALE"/>
+<NPC id="1879049624" name="Holly Hornblower" gender="FEMALE"/>
+<NPC id="1879049625" name="Hyacinth Took" gender="FEMALE"/>
+<NPC id="1879049626" name="Lily Proudfoot" gender="FEMALE"/>
+<NPC id="1879049627" name="Linda Bolger" gender="FEMALE"/>
+<NPC id="1879049628" name="Longo Burrow" gender="MALE"/>
+<NPC id="1879049629" name="Milo Bolger" gender="MALE"/>
+<NPC id="1879049630" name="Milo Hornblower" gender="MALE"/>
+<NPC id="1879049631" name="Mungo Burrows" gender="MALE"/>
+<NPC id="1879049632" name="Odovacar Bolger" gender="MALE"/>
+<NPC id="1879049633" name="Opal Goodbody" gender="FEMALE"/>
+<NPC id="1879049634" name="Otho Broadbelt" gender="MALE"/>
+<NPC id="1879049635" name="Pansy Tunnelly" gender="FEMALE"/>
+<NPC id="1879049636" name="Peony Grubb" gender="FEMALE"/>
+<NPC id="1879049637" name="Polo Proudfoot" gender="MALE"/>
+<NPC id="1879049638" name="Ponto Hornblower" gender="MALE"/>
+<NPC id="1879049639" name="Prisca Underhill" gender="FEMALE"/>
+<NPC id="1879049640" name="Rollo Boffin" gender="MALE" title="key:620758941:229802005"/>
+<NPC id="1879049641" name="Ruby Primstone" gender="FEMALE"/>
+<NPC id="1879049642" name="Rudigar Burrows" gender="MALE"/>
+<NPC id="1879049643" name="Soradoc Proudfoot" gender="MALE"/>
+<NPC id="1879049644" name="Wilcome Tunnelly" gender="MALE"/>
+<NPC id="1879049645" name="Wilimar Bolger" gender="MALE"/>
+<NPC id="1879049646" name="Lorgo Bunce" gender="MALE"/>
+<NPC id="1879049707" name="Gil Sandheaver" gender="MALE"/>
+<NPC id="1879049708" name="Goldberry" gender="FEMALE"/>
+<NPC id="1879049710" name="Saradoc Brandybuck" gender="MALE"/>
+<NPC id="1879049711" name="Doderic Brandybuck" gender="MALE"/>
+<NPC id="1879049712" name="Rollo Maggot" gender="MALE"/>
+<NPC id="1879049721" name="Celandine Brandybuck" gender="FEMALE"/>
+<NPC id="1879049750" name="Adso Haybank" gender="MALE"/>
+<NPC id="1879049766" name="Dannasen" gender="MALE"/>
+<NPC id="1879049789" name="Ham Rushlight" gender="MALE"/>
+<NPC id="1879049833" name="Langlas" gender="MALE"/>
+<NPC id="1879049843" name="Halros" gender="MALE"/>
+<NPC id="1879049851" name="Radagast the Brown" gender="MALE"/>
+<NPC id="1879049852" name="Radagast the Brown" gender="MALE"/>
+<NPC id="1879049864" name="Candaith" gender="MALE"/>
+<NPC id="1879049878" name="Aric the Stone-speaker" gender="MALE"/>
+<NPC id="1879049880" name="Emelin" gender="MALE"/>
+<NPC id="1879049891" name="Dannasen" gender="MALE"/>
+<NPC id="1879049892" name="Elsa the Bold" gender="FEMALE"/>
+<NPC id="1879049893" name="Eriac the Strong" gender="MALE"/>
+<NPC id="1879049894" name="Defender of Ost Guruth" gender="MALE"/>
+<NPC id="1879049902" name="Frideric the Elder" gender="MALE"/>
+<NPC id="1879049905" name="Narthan" gender="MALE"/>
+<NPC id="1879049979" name="Elsa the Bold" gender="FEMALE"/>
+<NPC id="1879049980" name="Hana the Young" gender="FEMALE" title="key:620758738:229802005"/>
+<NPC id="1879050011" name="Saeradan" gender="MALE"/>
+<NPC id="1879050093" name="Chief Watcher Grimbriar" gender="MALE"/>
+<NPC id="1879050200" name="Thomas Thistlewool" gender="MALE"/>
+<NPC id="1879051324" name="Kekkonen" gender="MALE"/>
+<NPC id="1879051352" name="Eriac the Strong" gender="MALE"/>
+<NPC id="1879051354" name="Guardsman Otley" gender="MALE"/>
+<NPC id="1879051357" name="Lily Sandheaver" gender="FEMALE" title="key:620758683:229802005"/>
+<NPC id="1879051499" name="Mayor Graeme Tenderlarch" gender="MALE"/>
 <NPC id="1879051507" name="Lost Shade"/>
-<NPC id="1879051511" name="Áskell"/>
-<NPC id="1879051546" name="Ivo Brockhouse"/>
-<NPC id="1879051550" name="Sapphira Bolger"/>
-<NPC id="1879051554" name="Myrtle Oddfoot"/>
-<NPC id="1879051558" name="Wydo Boffin"/>
-<NPC id="1879051562" name="Hugo Broadbelt"/>
-<NPC id="1879051566" name="Iris Chubb"/>
-<NPC id="1879051569" name="Poppy Grubb"/>
-<NPC id="1879051572" name="Primrose Proudfoot"/>
-<NPC id="1879051578" name="Daisy Hornblower"/>
+<NPC id="1879051511" name="Áskell" gender="MALE"/>
+<NPC id="1879051546" name="Ivo Brockhouse" gender="MALE"/>
+<NPC id="1879051550" name="Sapphira Bolger" gender="FEMALE"/>
+<NPC id="1879051554" name="Myrtle Oddfoot" gender="FEMALE"/>
+<NPC id="1879051558" name="Wydo Boffin" gender="MALE"/>
+<NPC id="1879051562" name="Hugo Broadbelt" gender="MALE"/>
+<NPC id="1879051566" name="Iris Chubb" gender="FEMALE"/>
+<NPC id="1879051569" name="Poppy Grubb" gender="FEMALE"/>
+<NPC id="1879051572" name="Primrose Proudfoot" gender="FEMALE"/>
+<NPC id="1879051578" name="Daisy Hornblower" gender="FEMALE"/>
 <NPC id="1879051660" name="Hiding Content"/>
-<NPC id="1879051664" name="Onar"/>
-<NPC id="1879051692" name="Esilia Took" title="key:620758933:229802005"/>
-<NPC id="1879051755" name="Ulfar" title="key:620758994:229802005"/>
-<NPC id="1879051786" name="Rothgar"/>
-<NPC id="1879051790" name="Nos Grimsong"/>
-<NPC id="1879051805" name="Skógi"/>
-<NPC id="1879051810" name="Dwalin"/>
-<NPC id="1879051811" name="Eilian"/>
-<NPC id="1879051951" name="Kate Henseed"/>
-<NPC id="1879051971" name="Fastred Burrows" title="key:620759122:229802005"/>
-<NPC id="1879051972" name="Edgar Standish" title="key:620759811:229802005"/>
-<NPC id="1879051973" name="Aldred Cartwright" title="key:620764943:229802005"/>
-<NPC id="1879051974" name="Teal Saddler" title="key:620765164:229802005"/>
-<NPC id="1879051975" name="Darren Mills" title="key:620759387:229802005"/>
-<NPC id="1879051976" name="Cuthbert Rook" title="key:620765303:229802005"/>
-<NPC id="1879051977" name="Tolman Gardner" title="key:620759704:229802005"/>
-<NPC id="1879051979" name="Dirk Mudbrick"/>
-<NPC id="1879051986" name="Calder Cob"/>
-<NPC id="1879052037" name="Albra Lowbanks" title="key:620759132:229802005"/>
-<NPC id="1879052038" name="Falco Broadhouse" title="key:620759135:229802005"/>
-<NPC id="1879052039" name="Hugo Broadhouse" title="key:620759138:229802005"/>
-<NPC id="1879052040" name="Celsia 'Lightfinger' Gosling" title="key:620759139:229802005"/>
-<NPC id="1879052041" name="Lilabet Roper" title="key:620759140:229802005"/>
-<NPC id="1879052042" name="Elmo Brown" title="key:620759141:229802005"/>
-<NPC id="1879052049" name="Palma Brownlock"/>
-<NPC id="1879052052" name="Atherol Took"/>
-<NPC id="1879052058" name="Atherol Took"/>
-<NPC id="1879052062" name="Sterling Proudfoot"/>
-<NPC id="1879052166" name="Boromir"/>
-<NPC id="1879052175" name="Glorfindel"/>
-<NPC id="1879052206" name="Isdi"/>
-<NPC id="1879052220" name="Istuienn"/>
-<NPC id="1879052221" name="Hemeldir"/>
-<NPC id="1879052224" name="Elladan"/>
-<NPC id="1879052228" name="Legolas"/>
-<NPC id="1879052231" name="Elrohir"/>
-<NPC id="1879052237" name="Glóin"/>
-<NPC id="1879052258" name="Daervunn"/>
-<NPC id="1879052265" name="Arwen"/>
-<NPC id="1879052270" name="Gwaemithrin"/>
-<NPC id="1879052314" name="Dalton Willow" title="key:620759320:229802005"/>
-<NPC id="1879052315" name="Athradir" title="key:620759344:229802005"/>
-<NPC id="1879052316" name="Ráthorm" title="key:620759345:229802005"/>
-<NPC id="1879052317" name="Pennastan" title="key:620759346:229802005"/>
-<NPC id="1879052318" name="Stafford Bailey" title="key:620765286:229802005"/>
-<NPC id="1879052319" name="Gwalothir" title="key:620765287:229802005"/>
-<NPC id="1879052320" name="Glambaen" title="key:620765288:229802005"/>
-<NPC id="1879052321" name="Shepherd Snowden" title="key:620765301:229802005"/>
-<NPC id="1879052322" name="Elwen" title="key:620765302:229802005"/>
-<NPC id="1879052340" name="Isferon"/>
-<NPC id="1879052355" name="Dorset Oakes"/>
-<NPC id="1879052369" name="Dorongúr Whitethorn"/>
-<NPC id="1879052370" name="Malthendring" title="key:620764953:229802005"/>
-<NPC id="1879052371" name="Anglor" title="key:620765241:229802005"/>
-<NPC id="1879052372" name="Glanwen" title="key:620765130:229802005"/>
-<NPC id="1879052373" name="Thalchyl" title="key:620759711:229802005"/>
-<NPC id="1879052379" name="Elladan"/>
-<NPC id="1879052382" name="Merethen"/>
-<NPC id="1879052385" name="Elrond"/>
-<NPC id="1879052386" name="Talagan Silvertongue"/>
-<NPC id="1879052414" name="Dori"/>
-<NPC id="1879052419" name="Grímr" title="key:620764944:229802005"/>
-<NPC id="1879052420" name="Snorri" title="key:620765157:229802005"/>
-<NPC id="1879052421" name="Nial" title="key:620759703:229802005"/>
-<NPC id="1879052422" name="Reklar" title="key:620759388:229802005"/>
-<NPC id="1879052423" name="Otur"/>
-<NPC id="1879052424" name="Nos Grimsong"/>
-<NPC id="1879052425" name="Bolli"/>
-<NPC id="1879052439" name="Flambard Took" title="key:620765119:229802005"/>
-<NPC id="1879052440" name="Erydhriel" title="key:620765124:229802005"/>
-<NPC id="1879052441" name="Dagfinn" title="key:620765125:229802005"/>
-<NPC id="1879052442" name="Reklar" title="key:620765126:229802005"/>
-<NPC id="1879052443" name="Gaellant" title="key:620765127:229802005"/>
-<NPC id="1879052444" name="Bolo Boffin" title="key:620765128:229802005"/>
-<NPC id="1879052445" name="Mallenhadh" title="key:620765129:229802005"/>
-<NPC id="1879052446" name="Gytha Lainey"/>
-<NPC id="1879052452" name="Gammer Boffin" title="key:620777552:229802005"/>
-<NPC id="1879052453" name="Hart Holeman"/>
-<NPC id="1879052454" name="Otho Broadbelt"/>
-<NPC id="1879052455" name="Postman Boffin"/>
-<NPC id="1879052461" name="Gytha Lainey"/>
-<NPC id="1879052562" name="Thoroniel"/>
-<NPC id="1879052567" name="Barachen" title="key:620765023:229802005"/>
-<NPC id="1879052568" name="Rochwen"/>
-<NPC id="1879052584" name="Calenthon"/>
-<NPC id="1879052592" name="Anhebir"/>
-<NPC id="1879052596" name="Heithur Ironfist"/>
-<NPC id="1879052598" name="Alphlanc"/>
-<NPC id="1879052621" name="Gimli"/>
-<NPC id="1879052710" name="Areneth"/>
-<NPC id="1879052736" name="Toram" title="key:620763113:229802005"/>
-<NPC id="1879052743" name="Raghnall"/>
-<NPC id="1879052778" name="Braigiar"/>
-<NPC id="1879052921" name="Baillindiel"/>
-<NPC id="1879052935" name="Burt Ninetails" title="key:620759695:229802005"/>
-<NPC id="1879052936" name="Melthindir" title="key:620759696:229802005"/>
-<NPC id="1879052937" name="Galfi" title="key:620759697:229802005"/>
-<NPC id="1879052938" name="Nial" title="key:620759699:229802005"/>
-<NPC id="1879052939" name="Gelirwen" title="key:620759700:229802005"/>
-<NPC id="1879052940" name="Ardo Aleford" title="key:620759701:229802005"/>
-<NPC id="1879052941" name="Bailinn" title="key:620759702:229802005"/>
-<NPC id="1879052955" name="Leigh Putnam" title="key:620759715:229802005"/>
-<NPC id="1879052961" name="Leland Underhill"/>
-<NPC id="1879053065" name="Dawn Stockard"/>
-<NPC id="1879053080" name="Dawn Appledore" title="key:620759829:229802005"/>
-<NPC id="1879053081" name="Nelson Grimm" title="key:620759844:229802005"/>
-<NPC id="1879053082" name="Wren Levy" title="key:620759845:229802005"/>
-<NPC id="1879053083" name="Thenimbor" title="key:620759846:229802005"/>
-<NPC id="1879053084" name="Hayley Carver" title="key:620759847:229802005"/>
-<NPC id="1879053085" name="Heath Wheaton" title="key:620759848:229802005"/>
-<NPC id="1879053110" name="Jarl Copperbrace"/>
-<NPC id="1879053119" name="Jarl Copperbrace"/>
-<NPC id="1879053122" name="Hazel Kenton"/>
-<NPC id="1879053182" name="Corunir"/>
-<NPC id="1879054100" name="Arohir"/>
+<NPC id="1879051664" name="Onar" gender="MALE"/>
+<NPC id="1879051692" name="Esilia Took" gender="FEMALE" title="key:620758933:229802005"/>
+<NPC id="1879051755" name="Ulfar" gender="MALE" title="key:620758994:229802005"/>
+<NPC id="1879051786" name="Rothgar" gender="MALE"/>
+<NPC id="1879051790" name="Nos Grimsong" gender="MALE"/>
+<NPC id="1879051805" name="Skógi" gender="MALE"/>
+<NPC id="1879051810" name="Dwalin" gender="MALE"/>
+<NPC id="1879051811" name="Eilian" gender="FEMALE"/>
+<NPC id="1879051951" name="Kate Henseed" gender="FEMALE"/>
+<NPC id="1879051971" name="Fastred Burrows" gender="MALE" title="key:620759122:229802005"/>
+<NPC id="1879051972" name="Edgar Standish" gender="MALE" title="key:620759811:229802005"/>
+<NPC id="1879051973" name="Aldred Cartwright" gender="MALE" title="key:620764943:229802005"/>
+<NPC id="1879051974" name="Teal Saddler" gender="FEMALE" title="key:620765164:229802005"/>
+<NPC id="1879051975" name="Darren Mills" gender="MALE" title="key:620759387:229802005"/>
+<NPC id="1879051976" name="Cuthbert Rook" gender="MALE" title="key:620765303:229802005"/>
+<NPC id="1879051977" name="Tolman Gardner" gender="MALE" title="key:620759704:229802005"/>
+<NPC id="1879051979" name="Dirk Mudbrick" gender="MALE"/>
+<NPC id="1879051986" name="Calder Cob" gender="MALE"/>
+<NPC id="1879052037" name="Albra Lowbanks" gender="FEMALE" title="key:620759132:229802005"/>
+<NPC id="1879052038" name="Falco Broadhouse" gender="MALE" title="key:620759135:229802005"/>
+<NPC id="1879052039" name="Hugo Broadhouse" gender="MALE" title="key:620759138:229802005"/>
+<NPC id="1879052040" name="Celsia 'Lightfinger' Gosling" gender="FEMALE" title="key:620759139:229802005"/>
+<NPC id="1879052041" name="Lilabet Roper" gender="FEMALE" title="key:620759140:229802005"/>
+<NPC id="1879052042" name="Elmo Brown" gender="MALE" title="key:620759141:229802005"/>
+<NPC id="1879052049" name="Palma Brownlock" gender="FEMALE"/>
+<NPC id="1879052052" name="Atherol Took" gender="MALE"/>
+<NPC id="1879052058" name="Atherol Took" gender="MALE"/>
+<NPC id="1879052062" name="Sterling Proudfoot" gender="MALE"/>
+<NPC id="1879052166" name="Boromir" gender="MALE"/>
+<NPC id="1879052175" name="Glorfindel" gender="MALE"/>
+<NPC id="1879052206" name="Isdi" gender="FEMALE"/>
+<NPC id="1879052220" name="Istuienn" gender="FEMALE"/>
+<NPC id="1879052221" name="Hemeldir" gender="MALE"/>
+<NPC id="1879052224" name="Elladan" gender="MALE"/>
+<NPC id="1879052228" name="Legolas" gender="MALE"/>
+<NPC id="1879052231" name="Elrohir" gender="MALE"/>
+<NPC id="1879052237" name="Glóin" gender="MALE"/>
+<NPC id="1879052258" name="Daervunn" gender="MALE"/>
+<NPC id="1879052265" name="Arwen" gender="FEMALE"/>
+<NPC id="1879052270" name="Gwaemithrin" gender="FEMALE"/>
+<NPC id="1879052314" name="Dalton Willow" gender="MALE" title="key:620759320:229802005"/>
+<NPC id="1879052315" name="Athradir" gender="MALE" title="key:620759344:229802005"/>
+<NPC id="1879052316" name="Ráthorm" gender="MALE" title="key:620759345:229802005"/>
+<NPC id="1879052317" name="Pennastan" gender="FEMALE" title="key:620759346:229802005"/>
+<NPC id="1879052318" name="Stafford Bailey" gender="MALE" title="key:620765286:229802005"/>
+<NPC id="1879052319" name="Gwalothir" gender="MALE" title="key:620765287:229802005"/>
+<NPC id="1879052320" name="Glambaen" gender="MALE" title="key:620765288:229802005"/>
+<NPC id="1879052321" name="Shepherd Snowden" gender="MALE" title="key:620765301:229802005"/>
+<NPC id="1879052322" name="Elwen" gender="FEMALE" title="key:620765302:229802005"/>
+<NPC id="1879052340" name="Isferon" gender="MALE"/>
+<NPC id="1879052355" name="Dorset Oakes" gender="MALE"/>
+<NPC id="1879052369" name="Dorongúr Whitethorn" gender="MALE"/>
+<NPC id="1879052370" name="Malthendring" gender="MALE" title="key:620764953:229802005"/>
+<NPC id="1879052371" name="Anglor" gender="FEMALE" title="key:620765241:229802005"/>
+<NPC id="1879052372" name="Glanwen" gender="FEMALE" title="key:620765130:229802005"/>
+<NPC id="1879052373" name="Thalchyl" gender="MALE" title="key:620759711:229802005"/>
+<NPC id="1879052379" name="Elladan" gender="MALE"/>
+<NPC id="1879052382" name="Merethen" gender="FEMALE"/>
+<NPC id="1879052385" name="Elrond" gender="MALE"/>
+<NPC id="1879052386" name="Talagan Silvertongue" gender="MALE"/>
+<NPC id="1879052414" name="Dori" gender="MALE"/>
+<NPC id="1879052419" name="Grímr" gender="MALE" title="key:620764944:229802005"/>
+<NPC id="1879052420" name="Snorri" gender="MALE" title="key:620765157:229802005"/>
+<NPC id="1879052421" name="Nial" gender="MALE" title="key:620759703:229802005"/>
+<NPC id="1879052422" name="Reklar" gender="MALE" title="key:620759388:229802005"/>
+<NPC id="1879052423" name="Otur" gender="MALE"/>
+<NPC id="1879052424" name="Nos Grimsong" gender="MALE"/>
+<NPC id="1879052425" name="Bolli" gender="MALE"/>
+<NPC id="1879052439" name="Flambard Took" gender="MALE" title="key:620765119:229802005"/>
+<NPC id="1879052440" name="Erydhriel" gender="FEMALE" title="key:620765124:229802005"/>
+<NPC id="1879052441" name="Dagfinn" gender="MALE" title="key:620765125:229802005"/>
+<NPC id="1879052442" name="Reklar" gender="MALE" title="key:620765126:229802005"/>
+<NPC id="1879052443" name="Gaellant" gender="FEMALE" title="key:620765127:229802005"/>
+<NPC id="1879052444" name="Bolo Boffin" gender="MALE" title="key:620765128:229802005"/>
+<NPC id="1879052445" name="Mallenhadh" gender="FEMALE" title="key:620765129:229802005"/>
+<NPC id="1879052446" name="Gytha Lainey" gender="FEMALE"/>
+<NPC id="1879052452" name="Gammer Boffin" gender="FEMALE" title="key:620777552:229802005"/>
+<NPC id="1879052453" name="Hart Holeman" gender="MALE"/>
+<NPC id="1879052454" name="Otho Broadbelt" gender="MALE"/>
+<NPC id="1879052455" name="Postman Boffin" gender="MALE"/>
+<NPC id="1879052461" name="Gytha Lainey" gender="FEMALE"/>
+<NPC id="1879052562" name="Thoroniel" gender="FEMALE"/>
+<NPC id="1879052567" name="Barachen" gender="MALE" title="key:620765023:229802005"/>
+<NPC id="1879052568" name="Rochwen" gender="FEMALE"/>
+<NPC id="1879052584" name="Calenthon" gender="MALE"/>
+<NPC id="1879052592" name="Anhebir" gender="MALE"/>
+<NPC id="1879052596" name="Heithur Ironfist" gender="MALE"/>
+<NPC id="1879052598" name="Alphlanc" gender="FEMALE"/>
+<NPC id="1879052621" name="Gimli" gender="MALE"/>
+<NPC id="1879052710" name="Areneth" gender="MALE"/>
+<NPC id="1879052736" name="Toram" gender="MALE" title="key:620763113:229802005"/>
+<NPC id="1879052743" name="Raghnall" gender="MALE"/>
+<NPC id="1879052778" name="Braigiar" gender="MALE"/>
+<NPC id="1879052921" name="Baillindiel" gender="FEMALE"/>
+<NPC id="1879052935" name="Burt Ninetails" gender="MALE" title="key:620759695:229802005"/>
+<NPC id="1879052936" name="Melthindir" gender="MALE" title="key:620759696:229802005"/>
+<NPC id="1879052937" name="Galfi" gender="MALE" title="key:620759697:229802005"/>
+<NPC id="1879052938" name="Nial" gender="MALE" title="key:620759699:229802005"/>
+<NPC id="1879052939" name="Gelirwen" gender="FEMALE" title="key:620759700:229802005"/>
+<NPC id="1879052940" name="Ardo Aleford" gender="MALE" title="key:620759701:229802005"/>
+<NPC id="1879052941" name="Bailinn" gender="MALE" title="key:620759702:229802005"/>
+<NPC id="1879052955" name="Leigh Putnam" gender="FEMALE" title="key:620759715:229802005"/>
+<NPC id="1879052961" name="Leland Underhill" gender="MALE"/>
+<NPC id="1879053065" name="Dawn Stockard" gender="FEMALE"/>
+<NPC id="1879053080" name="Dawn Appledore" gender="FEMALE" title="key:620759829:229802005"/>
+<NPC id="1879053081" name="Nelson Grimm" gender="MALE" title="key:620759844:229802005"/>
+<NPC id="1879053082" name="Wren Levy" gender="FEMALE" title="key:620759845:229802005"/>
+<NPC id="1879053083" name="Thenimbor" gender="MALE" title="key:620759846:229802005"/>
+<NPC id="1879053084" name="Hayley Carver" gender="FEMALE" title="key:620759847:229802005"/>
+<NPC id="1879053085" name="Heath Wheaton" gender="MALE" title="key:620759848:229802005"/>
+<NPC id="1879053110" name="Jarl Copperbrace" gender="MALE"/>
+<NPC id="1879053119" name="Jarl Copperbrace" gender="MALE"/>
+<NPC id="1879053122" name="Hazel Kenton" gender="FEMALE"/>
+<NPC id="1879053182" name="Corunir" gender="MALE"/>
+<NPC id="1879054100" name="Arohir" gender="MALE"/>
 <NPC id="1879054118" name="Ancient Watching-stone"/>
-<NPC id="1879054127" name="Una"/>
-<NPC id="1879054136" name="Branan"/>
-<NPC id="1879054158" name="Chief Tuokki"/>
-<NPC id="1879054164" name="Ranger Maedhrusc"/>
-<NPC id="1879054214" name="Mincham"/>
-<NPC id="1879054226" name="Amarion"/>
-<NPC id="1879054230" name="Colbert the Mad" title="key:620760834:229802005"/>
-<NPC id="1879054244" name="Captain Trotter"/>
-<NPC id="1879054257" name="William Peake"/>
-<NPC id="1879054322" name="Dallin Endholder"/>
-<NPC id="1879054336" name="Hannar"/>
-<NPC id="1879054337" name="Dori"/>
-<NPC id="1879054371" name="Orthonn"/>
-<NPC id="1879054411" name="Dagoras"/>
-<NPC id="1879054417" name="Gatson"/>
-<NPC id="1879054418" name="Gilmar"/>
-<NPC id="1879054432" name="Aglardir"/>
-<NPC id="1879054440" name="Londrandir"/>
-<NPC id="1879054472" name="Hornbori"/>
+<NPC id="1879054127" name="Una" gender="FEMALE"/>
+<NPC id="1879054136" name="Branan" gender="MALE"/>
+<NPC id="1879054158" name="Chief Tuokki" gender="MALE"/>
+<NPC id="1879054164" name="Ranger Maedhrusc" gender="MALE"/>
+<NPC id="1879054214" name="Mincham" gender="MALE"/>
+<NPC id="1879054226" name="Amarion" gender="MALE"/>
+<NPC id="1879054230" name="Colbert the Mad" gender="MALE" title="key:620760834:229802005"/>
+<NPC id="1879054244" name="Captain Trotter" gender="MALE"/>
+<NPC id="1879054257" name="William Peake" gender="MALE"/>
+<NPC id="1879054322" name="Dallin Endholder" gender="MALE"/>
+<NPC id="1879054336" name="Hannar" gender="MALE"/>
+<NPC id="1879054337" name="Dori" gender="MALE"/>
+<NPC id="1879054371" name="Orthonn" gender="MALE"/>
+<NPC id="1879054411" name="Dagoras" gender="MALE"/>
+<NPC id="1879054417" name="Gatson" gender="MALE"/>
+<NPC id="1879054418" name="Gilmar" gender="MALE"/>
+<NPC id="1879054432" name="Aglardir" gender="MALE"/>
+<NPC id="1879054440" name="Londrandir" gender="MALE"/>
+<NPC id="1879054472" name="Hornbori" gender="MALE"/>
 <NPC id="1879054479" name="Plundered Waggon"/>
 <NPC id="1879054480" name="Bones"/>
 <NPC id="1879054481" name="Empty Crate"/>
 <NPC id="1879054482" name="Smashed Barrel"/>
-<NPC id="1879054483" name="Torfi Hammerhorn"/>
-<NPC id="1879054495" name="Ragnarr Hornsounder"/>
-<NPC id="1879054502" name="Elder Tahvo"/>
+<NPC id="1879054483" name="Torfi Hammerhorn" gender="MALE"/>
+<NPC id="1879054495" name="Ragnarr Hornsounder" gender="MALE"/>
+<NPC id="1879054502" name="Elder Tahvo" gender="MALE"/>
 <NPC id="1879054556" name="Founding Stone"/>
 <NPC id="1879054557" name="Founding Stone"/>
 <NPC id="1879054558" name="Founding Stone"/>
 <NPC id="1879054559" name="Founding Stone"/>
 <NPC id="1879054560" name="Founding Stone"/>
-<NPC id="1879056938" name="Eilig"/>
-<NPC id="1879056939" name="Machar"/>
-<NPC id="1879056940" name="Torquil"/>
-<NPC id="1879059564" name="Talbot Hinton"/>
-<NPC id="1879059568" name="Aggy Digweed"/>
-<NPC id="1879059674" name="Crannog"/>
-<NPC id="1879059695" name="Earth-kin Scout"/>
-<NPC id="1879059721" name="Arzhur"/>
-<NPC id="1879059801" name="Garvan"/>
-<NPC id="1879059802" name="Morven"/>
-<NPC id="1879059889" name="Gwesgylliel"/>
-<NPC id="1879059906" name="Oggur" title="key:620764945:229802005"/>
-<NPC id="1879059907" name="Drambor" title="key:620764947:229802005"/>
-<NPC id="1879059908" name="Haflith" title="key:620764948:229802005"/>
-<NPC id="1879059909" name="Grímr" title="key:620764949:229802005"/>
-<NPC id="1879059910" name="Brethilthor" title="key:620764950:229802005"/>
-<NPC id="1879059911" name="Geirr" title="key:620764951:229802005"/>
-<NPC id="1879059912" name="Celeblas" title="key:620764952:229802005"/>
-<NPC id="1879059929" name="Slade Ransford"/>
-<NPC id="1879059936" name="Ultan Foebane"/>
-<NPC id="1879059952" name="Ringhul"/>
-<NPC id="1879060056" name="Arrod"/>
-<NPC id="1879060065" name="Faimir"/>
-<NPC id="1879060066" name="Narlinn"/>
-<NPC id="1879060081" name="Glóin"/>
-<NPC id="1879060082" name="Balin"/>
-<NPC id="1879060083" name="Dori"/>
-<NPC id="1879060084" name="Dwalin"/>
-<NPC id="1879060085" name="Thorin Oakenshield"/>
+<NPC id="1879056938" name="Eilig" gender="MALE"/>
+<NPC id="1879056939" name="Machar" gender="MALE"/>
+<NPC id="1879056940" name="Torquil" gender="MALE"/>
+<NPC id="1879059564" name="Talbot Hinton" gender="MALE"/>
+<NPC id="1879059568" name="Aggy Digweed" gender="FEMALE"/>
+<NPC id="1879059674" name="Crannog" gender="MALE"/>
+<NPC id="1879059695" name="Earth-kin Scout" gender="MALE"/>
+<NPC id="1879059721" name="Arzhur" gender="MALE"/>
+<NPC id="1879059801" name="Garvan" gender="MALE"/>
+<NPC id="1879059802" name="Morven" gender="FEMALE"/>
+<NPC id="1879059889" name="Gwesgylliel" gender="FEMALE"/>
+<NPC id="1879059906" name="Oggur" gender="MALE" title="key:620764945:229802005"/>
+<NPC id="1879059907" name="Drambor" gender="MALE" title="key:620764947:229802005"/>
+<NPC id="1879059908" name="Haflith" gender="MALE" title="key:620764948:229802005"/>
+<NPC id="1879059909" name="Grímr" gender="MALE" title="key:620764949:229802005"/>
+<NPC id="1879059910" name="Brethilthor" gender="MALE" title="key:620764950:229802005"/>
+<NPC id="1879059911" name="Geirr" gender="MALE" title="key:620764951:229802005"/>
+<NPC id="1879059912" name="Celeblas" gender="FEMALE" title="key:620764952:229802005"/>
+<NPC id="1879059929" name="Slade Ransford" gender="MALE"/>
+<NPC id="1879059936" name="Ultan Foebane" gender="MALE"/>
+<NPC id="1879059952" name="Ringhul" gender="MALE"/>
+<NPC id="1879060056" name="Arrod" gender="MALE"/>
+<NPC id="1879060065" name="Faimir" gender="FEMALE"/>
+<NPC id="1879060066" name="Narlinn" gender="FEMALE"/>
+<NPC id="1879060081" name="Glóin" gender="MALE"/>
+<NPC id="1879060082" name="Balin" gender="MALE"/>
+<NPC id="1879060083" name="Dori" gender="MALE"/>
+<NPC id="1879060084" name="Dwalin" gender="MALE"/>
+<NPC id="1879060085" name="Thorin Oakenshield" gender="MALE"/>
 <NPC id="1879060086" name="Troll"/>
-<NPC id="1879060087" name="Dwarf-miner"/>
-<NPC id="1879060093" name="Tralli" title="key:620765165:229802005"/>
-<NPC id="1879060094" name="Gwathel" title="key:620765170:229802005"/>
-<NPC id="1879060095" name="Mergeth" title="key:620765173:229802005"/>
-<NPC id="1879060096" name="Snorri" title="key:620765174:229802005"/>
-<NPC id="1879060097" name="Dagorom" title="key:620765175:229802005"/>
-<NPC id="1879060098" name="Rollo Hemming" title="key:620765176:229802005"/>
-<NPC id="1879060099" name="Mirdoron" title="key:620765177:229802005"/>
-<NPC id="1879060100" name="Severin Wheeler"/>
-<NPC id="1879060106" name="Severin Wheeler"/>
-<NPC id="1879060108" name="Oswin Leek"/>
-<NPC id="1879060112" name="Wáli"/>
-<NPC id="1879060131" name="Samwise Gamgee"/>
-<NPC id="1879060199" name="Gailthin" title="key:620765257:229802005"/>
-<NPC id="1879060208" name="Laergil"/>
-<NPC id="1879060221" name="Regin" title="key:620765293:229802005"/>
-<NPC id="1879060241" name="Amdir"/>
-<NPC id="1879060242" name="Bounder Boffin"/>
-<NPC id="1879060243" name="Gildor"/>
-<NPC id="1879061037" name="Cardavor"/>
-<NPC id="1879061039" name="Athal"/>
-<NPC id="1879061046" name="Dorongúr Whitethorn"/>
-<NPC id="1879061055" name="Gailthin"/>
-<NPC id="1879061069" name="Nithi"/>
-<NPC id="1879061073" name="Mathi"/>
-<NPC id="1879061075" name="Glamír"/>
-<NPC id="1879061084" name="Golhador"/>
-<NPC id="1879061113" name="Bregar"/>
-<NPC id="1879061119" name="Svanr"/>
-<NPC id="1879061128" name="Toronn"/>
-<NPC id="1879061149" name="Calengil" title="key:620766116:229802005"/>
-<NPC id="1879061160" name="Thinglaer"/>
-<NPC id="1879061185" name="Dora's Chicken"/>
-<NPC id="1879061211" name="Callum"/>
-<NPC id="1879061426" name="Assistant Fallohide"/>
-<NPC id="1879061442" name="Orthir"/>
-<NPC id="1879061461" name="Greta Fallohide"/>
+<NPC id="1879060087" name="Dwarf-miner" gender="MALE"/>
+<NPC id="1879060093" name="Tralli" gender="MALE" title="key:620765165:229802005"/>
+<NPC id="1879060094" name="Gwathel" gender="FEMALE" title="key:620765170:229802005"/>
+<NPC id="1879060095" name="Mergeth" gender="MALE" title="key:620765173:229802005"/>
+<NPC id="1879060096" name="Snorri" gender="MALE" title="key:620765174:229802005"/>
+<NPC id="1879060097" name="Dagorom" gender="MALE" title="key:620765175:229802005"/>
+<NPC id="1879060098" name="Rollo Hemming" gender="MALE" title="key:620765176:229802005"/>
+<NPC id="1879060099" name="Mirdoron" gender="MALE" title="key:620765177:229802005"/>
+<NPC id="1879060100" name="Severin Wheeler" gender="MALE"/>
+<NPC id="1879060106" name="Severin Wheeler" gender="MALE"/>
+<NPC id="1879060108" name="Oswin Leek" gender="MALE"/>
+<NPC id="1879060112" name="Wáli" gender="MALE"/>
+<NPC id="1879060131" name="Samwise Gamgee" gender="MALE"/>
+<NPC id="1879060199" name="Gailthin" gender="FEMALE" title="key:620765257:229802005"/>
+<NPC id="1879060208" name="Laergil" gender="FEMALE"/>
+<NPC id="1879060221" name="Regin" gender="MALE" title="key:620765293:229802005"/>
+<NPC id="1879060241" name="Amdir" gender="MALE"/>
+<NPC id="1879060242" name="Bounder Boffin" gender="MALE"/>
+<NPC id="1879060243" name="Gildor" gender="MALE"/>
+<NPC id="1879061037" name="Cardavor" gender="MALE"/>
+<NPC id="1879061039" name="Athal" gender="MALE"/>
+<NPC id="1879061046" name="Dorongúr Whitethorn" gender="MALE"/>
+<NPC id="1879061055" name="Gailthin" gender="FEMALE"/>
+<NPC id="1879061069" name="Nithi" gender="MALE"/>
+<NPC id="1879061073" name="Mathi" gender="MALE"/>
+<NPC id="1879061075" name="Glamír" gender="MALE"/>
+<NPC id="1879061084" name="Golhador" gender="MALE"/>
+<NPC id="1879061113" name="Bregar" gender="MALE"/>
+<NPC id="1879061119" name="Svanr" gender="MALE"/>
+<NPC id="1879061128" name="Toronn" gender="MALE"/>
+<NPC id="1879061149" name="Calengil" gender="MALE" title="key:620766116:229802005"/>
+<NPC id="1879061160" name="Thinglaer" gender="MALE"/>
+<NPC id="1879061185" name="Dora's Chicken" gender="FEMALE"/>
+<NPC id="1879061211" name="Callum" gender="MALE"/>
+<NPC id="1879061426" name="Assistant Fallohide" gender="MALE"/>
+<NPC id="1879061442" name="Orthir" gender="MALE"/>
+<NPC id="1879061461" name="Greta Fallohide" gender="FEMALE"/>
 <NPC id="1879061465" name="Black Rider"/>
-<NPC id="1879061496" name="Newbold Leafcutter"/>
-<NPC id="1879061921" name="Bogi Deepdelver"/>
-<NPC id="1879061923" name="Expert Weaponcrafter" title="key:620766916:229802005"/>
-<NPC id="1879061924" name="Expert Weaponcrafter" title="key:620766951:229802005"/>
-<NPC id="1879061925" name="Expert Weaponcrafter" title="key:620766952:229802005"/>
-<NPC id="1879061926" name="Expert Weaponcrafter" title="key:620766953:229802005"/>
-<NPC id="1879061927" name="Expert Weaponcrafter" title="key:620766954:229802005"/>
-<NPC id="1879061928" name="Cristaran" title="key:620766955:229802005"/>
-<NPC id="1879061929" name="Tralli Hammerfist"/>
-<NPC id="1879061987" name="Ottar"/>
-<NPC id="1879061988" name="Jaki Stonehand"/>
-<NPC id="1879061993" name="Novice Weaponcrafter" title="key:620767009:229802005"/>
-<NPC id="1879061994" name="Novice Weaponcrafter" title="key:620767010:229802005"/>
-<NPC id="1879061995" name="Novice Weaponcrafter" title="key:620767011:229802005"/>
-<NPC id="1879061996" name="Novice Weaponcrafter" title="key:620767012:229802005"/>
-<NPC id="1879061997" name="Novice Weaponcrafter" title="key:620767013:229802005"/>
-<NPC id="1879062048" name="Jon Whetstone"/>
-<NPC id="1879062049" name="Novice Metalsmith" title="key:620767015:229802005"/>
-<NPC id="1879062143" name="Novice Metalsmith" title="key:620767081:229802005"/>
-<NPC id="1879062144" name="Novice Metalsmith" title="key:620767082:229802005"/>
-<NPC id="1879062145" name="Novice Metalsmith" title="key:620767083:229802005"/>
-<NPC id="1879062146" name="Novice Metalsmith" title="key:620767084:229802005"/>
-<NPC id="1879062163" name="Expert Metalsmith" title="key:620767107:229802005"/>
-<NPC id="1879062164" name="Expert Metalsmith" title="key:620767148:229802005"/>
-<NPC id="1879062165" name="Expert Metalsmith" title="key:620767149:229802005"/>
-<NPC id="1879062166" name="Expert Metalsmith" title="key:620767150:229802005"/>
-<NPC id="1879062167" name="Expert Metalsmith" title="key:620767151:229802005"/>
-<NPC id="1879062168" name="Rothir" title="key:620767152:229802005"/>
-<NPC id="1879062169" name="Birrungur Blacksteel"/>
-<NPC id="1879062245" name="Rollo Hamson"/>
-<NPC id="1879062251" name="Esmerelda Burrows"/>
-<NPC id="1879062253" name="Novice Cook" title="key:620767190:229802005"/>
-<NPC id="1879062254" name="Novice Cook" title="key:620767191:229802005"/>
-<NPC id="1879062255" name="Novice Cook" title="key:620767192:229802005"/>
-<NPC id="1879062256" name="Novice Cook" title="key:620767193:229802005"/>
-<NPC id="1879062281" name="Constable Thistlewool"/>
-<NPC id="1879062285" name="Cal Sprigley"/>
-<NPC id="1879062288" name="Peg Pruner" title="key:620767266:229802005"/>
-<NPC id="1879062291" name="Cal Sprigley"/>
-<NPC id="1879062301" name="Atli Spider-bane"/>
-<NPC id="1879062302" name="Holly Sprigley"/>
-<NPC id="1879062351" name="Fonn"/>
-<NPC id="1879062388" name="Expert Scholar" title="key:620767406:229802005"/>
-<NPC id="1879062389" name="Expert Scholar" title="key:620767407:229802005"/>
-<NPC id="1879062390" name="Expert Scholar" title="key:620767408:229802005"/>
-<NPC id="1879062391" name="Expert Scholar" title="key:620767409:229802005"/>
-<NPC id="1879062392" name="Pethwenn" title="key:620767410:229802005"/>
-<NPC id="1879062393" name="Expert Scholar" title="key:620767411:229802005"/>
-<NPC id="1879062394" name="Idhremmin"/>
-<NPC id="1879062406" name="Harry Wheelwright"/>
-<NPC id="1879062413" name="Novice Jeweller" title="key:620767374:229802005"/>
-<NPC id="1879062414" name="Novice Jeweller" title="key:620767375:229802005"/>
-<NPC id="1879062415" name="Novice Jeweller" title="key:620767376:229802005"/>
-<NPC id="1879062416" name="Novice Jeweller" title="key:620767377:229802005"/>
-<NPC id="1879062418" name="Novice Scholar" title="key:620767397:229802005"/>
-<NPC id="1879062419" name="Novice Scholar" title="key:620767398:229802005"/>
-<NPC id="1879062420" name="Novice Scholar" title="key:620767399:229802005"/>
-<NPC id="1879062421" name="Novice Scholar" title="key:620767400:229802005"/>
-<NPC id="1879062424" name="Glorenglir"/>
-<NPC id="1879062451" name="Nathronwen"/>
-<NPC id="1879062466" name="Expert Jeweller" title="key:620767423:229802005"/>
-<NPC id="1879062467" name="Expert Jeweller" title="key:620767424:229802005"/>
-<NPC id="1879062468" name="Expert Jeweller" title="key:620767425:229802005"/>
-<NPC id="1879062469" name="Expert Jeweller" title="key:620767426:229802005"/>
-<NPC id="1879062470" name="Expert Jeweller" title="key:620767427:229802005"/>
-<NPC id="1879062471" name="Miradan" title="key:620767428:229802005"/>
-<NPC id="1879062472" name="Merilos"/>
-<NPC id="1879062485" name="Ollie Redbrush"/>
-<NPC id="1879062508" name="Frodo Baggins"/>
-<NPC id="1879062511" name="Sam"/>
-<NPC id="1879062514" name="Halli Shimmershield"/>
-<NPC id="1879062515" name="Geitir"/>
-<NPC id="1879062516" name="Óláfr"/>
-<NPC id="1879062524" name="Tindr"/>
-<NPC id="1879062528" name="Otkell"/>
-<NPC id="1879062553" name="Orlygr" title="key:620767502:229802005"/>
-<NPC id="1879062577" name="Larus Sharpshard"/>
-<NPC id="1879062617" name="Novice Woodworker" title="key:620767706:229802005"/>
-<NPC id="1879062618" name="Novice Woodworker" title="key:620767710:229802005"/>
-<NPC id="1879062619" name="Novice Woodworker" title="key:620767711:229802005"/>
-<NPC id="1879062620" name="Novice Woodworker" title="key:620767713:229802005"/>
-<NPC id="1879062621" name="Novice Woodworker" title="key:620767714:229802005"/>
-<NPC id="1879062622" name="Sarabeth Lowbanks"/>
-<NPC id="1879062669" name="Millicent Greenlake"/>
-<NPC id="1879062682" name="Novice Tailor" title="key:620767618:229802005"/>
-<NPC id="1879062683" name="Novice Tailor" title="key:620767696:229802005"/>
-<NPC id="1879062684" name="Novice Tailor" title="key:620767697:229802005"/>
-<NPC id="1879062685" name="Novice Tailor" title="key:620767698:229802005"/>
-<NPC id="1879062686" name="Novice Tailor" title="key:620767699:229802005"/>
-<NPC id="1879062688" name="Supervisor Beecher"/>
-<NPC id="1879062791" name="Carver Greenlake"/>
-<NPC id="1879062793" name="Erandir"/>
-<NPC id="1879062804" name="Mistress of Apprentices" title="key:620767904:229802005"/>
-<NPC id="1879062805" name="Master of Apprentices" title="key:620767721:229802005"/>
-<NPC id="1879062806" name="Mistress of Apprentices" title="key:620767899:229802005"/>
-<NPC id="1879062807" name="Master of Apprenticess" title="key:620767900:229802005"/>
-<NPC id="1879062808" name="Mistress of Apprentices" title="key:620767901:229802005"/>
-<NPC id="1879063054" name="Expert Cook" title="key:620767923:229802005"/>
-<NPC id="1879063055" name="Expert Cook" title="key:620767924:229802005"/>
-<NPC id="1879063056" name="Expert Cook" title="key:620767925:229802005"/>
-<NPC id="1879063057" name="Expert Cook" title="key:620767926:229802005"/>
-<NPC id="1879063064" name="Expert Tailor" title="key:620767927:229802005"/>
-<NPC id="1879063065" name="Expert Tailor" title="key:620767928:229802005"/>
-<NPC id="1879063066" name="Expert Tailor" title="key:620767929:229802005"/>
-<NPC id="1879063067" name="Expert Tailor" title="key:620767930:229802005"/>
-<NPC id="1879063068" name="Expert Woodworker" title="key:620767931:229802005"/>
-<NPC id="1879063069" name="Expert Woodworker" title="key:620767932:229802005"/>
-<NPC id="1879063070" name="Expert Woodworker" title="key:620767933:229802005"/>
-<NPC id="1879063071" name="Expert Woodworker" title="key:620767934:229802005"/>
-<NPC id="1879063074" name="Armourer Vocation Trainer"/>
-<NPC id="1879063082" name="Novice Farmhand" title="key:620767942:229802005"/>
-<NPC id="1879063083" name="Expert Farmhand" title="key:620767943:229802005"/>
-<NPC id="1879063088" name="Deloric" title="key:620767947:229802005"/>
-<NPC id="1879063089" name="Santach" title="key:620767948:229802005"/>
-<NPC id="1879063090" name="Kyven" title="key:620767949:229802005"/>
-<NPC id="1879063091" name="Rahan" title="key:620767950:229802005"/>
-<NPC id="1879063092" name="Chenan" title="key:620767951:229802005"/>
-<NPC id="1879063093" name="Almaric" title="key:620767952:229802005"/>
-<NPC id="1879063094" name="Brennos" title="key:620767953:229802005"/>
-<NPC id="1879063095" name="Gladir" title="key:620767954:229802005"/>
-<NPC id="1879063096" name="Olmóth" title="key:620767955:229802005"/>
-<NPC id="1879063097" name="Bólwerk" title="key:620767956:229802005"/>
-<NPC id="1879063098" name="Buckley Sheppard" title="key:620767957:229802005"/>
-<NPC id="1879063099" name="Holly Greyfeather" title="key:620767958:229802005"/>
-<NPC id="1879063100" name="Jasper Greensmith" title="key:620767959:229802005"/>
-<NPC id="1879063101" name="Aran Greyfeather" title="key:620767960:229802005"/>
-<NPC id="1879063103" name="Hodor Thornberry" title="key:620767962:229802005"/>
-<NPC id="1879063104" name="Mason Boyle" title="key:620767963:229802005"/>
-<NPC id="1879063105" name="Harlan Reed" title="key:620767964:229802005"/>
-<NPC id="1879063107" name="Maynard Thistle" title="key:620767966:229802005"/>
-<NPC id="1879063108" name="Boyden Fir" title="key:620767967:229802005"/>
-<NPC id="1879063109" name="Turner Thisleleaf" title="key:620767968:229802005"/>
-<NPC id="1879063110" name="James Clover" title="key:620767969:229802005"/>
-<NPC id="1879063111" name="Miller Chicory" title="key:620767970:229802005"/>
-<NPC id="1879063112" name="Thomas Cleelan" title="key:620767971:229802005"/>
-<NPC id="1879063113" name="Wystan Milkweed" title="key:620767972:229802005"/>
-<NPC id="1879063116" name="Cooper Basilleaf" title="key:620767975:229802005"/>
-<NPC id="1879063117" name="Dolph Boxthorn" title="key:620767976:229802005"/>
-<NPC id="1879063118" name="Windle Moorneedle" title="key:620767977:229802005"/>
-<NPC id="1879063121" name="Taylor Birchman" title="key:620767980:229802005"/>
-<NPC id="1879063122" name="Allan Coal" title="key:620767981:229802005"/>
-<NPC id="1879063123" name="Githa Hawkweed" title="key:620767982:229802005"/>
+<NPC id="1879061496" name="Newbold Leafcutter" gender="MALE"/>
+<NPC id="1879061921" name="Bogi Deepdelver" gender="MALE"/>
+<NPC id="1879061923" name="Expert Weaponcrafter" gender="FEMALE" title="key:620766916:229802005"/>
+<NPC id="1879061924" name="Expert Weaponcrafter" gender="MALE" title="key:620766951:229802005"/>
+<NPC id="1879061925" name="Expert Weaponcrafter" gender="FEMALE" title="key:620766952:229802005"/>
+<NPC id="1879061926" name="Expert Weaponcrafter" gender="MALE" title="key:620766953:229802005"/>
+<NPC id="1879061927" name="Expert Weaponcrafter" gender="FEMALE" title="key:620766954:229802005"/>
+<NPC id="1879061928" name="Cristaran" gender="MALE" title="key:620766955:229802005"/>
+<NPC id="1879061929" name="Tralli Hammerfist" gender="MALE"/>
+<NPC id="1879061987" name="Ottar" gender="MALE"/>
+<NPC id="1879061988" name="Jaki Stonehand" gender="MALE"/>
+<NPC id="1879061993" name="Novice Weaponcrafter" gender="FEMALE" title="key:620767009:229802005"/>
+<NPC id="1879061994" name="Novice Weaponcrafter" gender="MALE" title="key:620767010:229802005"/>
+<NPC id="1879061995" name="Novice Weaponcrafter" gender="FEMALE" title="key:620767011:229802005"/>
+<NPC id="1879061996" name="Novice Weaponcrafter" gender="MALE" title="key:620767012:229802005"/>
+<NPC id="1879061997" name="Novice Weaponcrafter" gender="FEMALE" title="key:620767013:229802005"/>
+<NPC id="1879062048" name="Jon Whetstone" gender="MALE"/>
+<NPC id="1879062049" name="Novice Metalsmith" gender="MALE" title="key:620767015:229802005"/>
+<NPC id="1879062143" name="Novice Metalsmith" gender="FEMALE" title="key:620767081:229802005"/>
+<NPC id="1879062144" name="Novice Metalsmith" gender="MALE" title="key:620767082:229802005"/>
+<NPC id="1879062145" name="Novice Metalsmith" gender="FEMALE" title="key:620767083:229802005"/>
+<NPC id="1879062146" name="Novice Metalsmith" gender="FEMALE" title="key:620767084:229802005"/>
+<NPC id="1879062163" name="Expert Metalsmith" gender="FEMALE" title="key:620767107:229802005"/>
+<NPC id="1879062164" name="Expert Metalsmith" gender="MALE" title="key:620767148:229802005"/>
+<NPC id="1879062165" name="Expert Metalsmith" gender="FEMALE" title="key:620767149:229802005"/>
+<NPC id="1879062166" name="Expert Metalsmith" gender="MALE" title="key:620767150:229802005"/>
+<NPC id="1879062167" name="Expert Metalsmith" gender="FEMALE" title="key:620767151:229802005"/>
+<NPC id="1879062168" name="Rothir" gender="MALE" title="key:620767152:229802005"/>
+<NPC id="1879062169" name="Birrungur Blacksteel" gender="MALE"/>
+<NPC id="1879062245" name="Rollo Hamson" gender="MALE"/>
+<NPC id="1879062251" name="Esmerelda Burrows" gender="FEMALE"/>
+<NPC id="1879062253" name="Novice Cook" gender="MALE" title="key:620767190:229802005"/>
+<NPC id="1879062254" name="Novice Cook" gender="FEMALE" title="key:620767191:229802005"/>
+<NPC id="1879062255" name="Novice Cook" gender="MALE" title="key:620767192:229802005"/>
+<NPC id="1879062256" name="Novice Cook" gender="FEMALE" title="key:620767193:229802005"/>
+<NPC id="1879062281" name="Constable Thistlewool" gender="MALE"/>
+<NPC id="1879062285" name="Cal Sprigley" gender="MALE"/>
+<NPC id="1879062288" name="Peg Pruner" gender="FEMALE" title="key:620767266:229802005"/>
+<NPC id="1879062291" name="Cal Sprigley" gender="MALE"/>
+<NPC id="1879062301" name="Atli Spider-bane" gender="MALE"/>
+<NPC id="1879062302" name="Holly Sprigley" gender="FEMALE"/>
+<NPC id="1879062351" name="Fonn" gender="MALE"/>
+<NPC id="1879062388" name="Expert Scholar" gender="MALE" title="key:620767406:229802005"/>
+<NPC id="1879062389" name="Expert Scholar" gender="FEMALE" title="key:620767407:229802005"/>
+<NPC id="1879062390" name="Expert Scholar" gender="FEMALE" title="key:620767408:229802005"/>
+<NPC id="1879062391" name="Expert Scholar" gender="MALE" title="key:620767409:229802005"/>
+<NPC id="1879062392" name="Pethwenn" gender="FEMALE" title="key:620767410:229802005"/>
+<NPC id="1879062393" name="Expert Scholar" gender="MALE" title="key:620767411:229802005"/>
+<NPC id="1879062394" name="Idhremmin" gender="MALE"/>
+<NPC id="1879062406" name="Harry Wheelwright" gender="MALE"/>
+<NPC id="1879062413" name="Novice Jeweller" gender="MALE" title="key:620767374:229802005"/>
+<NPC id="1879062414" name="Novice Jeweller" gender="FEMALE" title="key:620767375:229802005"/>
+<NPC id="1879062415" name="Novice Jeweller" gender="MALE" title="key:620767376:229802005"/>
+<NPC id="1879062416" name="Novice Jeweller" gender="MALE" title="key:620767377:229802005"/>
+<NPC id="1879062418" name="Novice Scholar" gender="FEMALE" title="key:620767397:229802005"/>
+<NPC id="1879062419" name="Novice Scholar" gender="FEMALE" title="key:620767398:229802005"/>
+<NPC id="1879062420" name="Novice Scholar" gender="MALE" title="key:620767399:229802005"/>
+<NPC id="1879062421" name="Novice Scholar" gender="MALE" title="key:620767400:229802005"/>
+<NPC id="1879062424" name="Glorenglir" gender="FEMALE"/>
+<NPC id="1879062451" name="Nathronwen" gender="FEMALE"/>
+<NPC id="1879062466" name="Expert Jeweller" gender="MALE" title="key:620767423:229802005"/>
+<NPC id="1879062467" name="Expert Jeweller" gender="MALE" title="key:620767424:229802005"/>
+<NPC id="1879062468" name="Expert Jeweller" gender="FEMALE" title="key:620767425:229802005"/>
+<NPC id="1879062469" name="Expert Jeweller" gender="MALE" title="key:620767426:229802005"/>
+<NPC id="1879062470" name="Expert Jeweller" gender="FEMALE" title="key:620767427:229802005"/>
+<NPC id="1879062471" name="Miradan" gender="MALE" title="key:620767428:229802005"/>
+<NPC id="1879062472" name="Merilos" gender="FEMALE"/>
+<NPC id="1879062485" name="Ollie Redbrush" gender="MALE"/>
+<NPC id="1879062508" name="Frodo Baggins" gender="MALE"/>
+<NPC id="1879062511" name="Sam" gender="MALE"/>
+<NPC id="1879062514" name="Halli Shimmershield" gender="MALE"/>
+<NPC id="1879062515" name="Geitir" gender="MALE"/>
+<NPC id="1879062516" name="Óláfr" gender="MALE"/>
+<NPC id="1879062524" name="Tindr" gender="MALE"/>
+<NPC id="1879062528" name="Otkell" gender="MALE"/>
+<NPC id="1879062553" name="Orlygr" gender="MALE" title="key:620767502:229802005"/>
+<NPC id="1879062577" name="Larus Sharpshard" gender="MALE"/>
+<NPC id="1879062617" name="Novice Woodworker" gender="FEMALE" title="key:620767706:229802005"/>
+<NPC id="1879062618" name="Novice Woodworker" gender="MALE" title="key:620767710:229802005"/>
+<NPC id="1879062619" name="Novice Woodworker" gender="FEMALE" title="key:620767711:229802005"/>
+<NPC id="1879062620" name="Novice Woodworker" gender="MALE" title="key:620767713:229802005"/>
+<NPC id="1879062621" name="Novice Woodworker" gender="FEMALE" title="key:620767714:229802005"/>
+<NPC id="1879062622" name="Sarabeth Lowbanks" gender="FEMALE"/>
+<NPC id="1879062669" name="Millicent Greenlake" gender="FEMALE"/>
+<NPC id="1879062682" name="Novice Tailor" gender="FEMALE" title="key:620767618:229802005"/>
+<NPC id="1879062683" name="Novice Tailor" gender="MALE" title="key:620767696:229802005"/>
+<NPC id="1879062684" name="Novice Tailor" gender="FEMALE" title="key:620767697:229802005"/>
+<NPC id="1879062685" name="Novice Tailor" gender="MALE" title="key:620767698:229802005"/>
+<NPC id="1879062686" name="Novice Tailor" gender="FEMALE" title="key:620767699:229802005"/>
+<NPC id="1879062688" name="Supervisor Beecher" gender="MALE"/>
+<NPC id="1879062791" name="Carver Greenlake" gender="MALE"/>
+<NPC id="1879062793" name="Erandir" gender="MALE"/>
+<NPC id="1879062804" name="Mistress of Apprentices" gender="FEMALE" title="key:620767904:229802005"/>
+<NPC id="1879062805" name="Master of Apprentices" gender="MALE" title="key:620767721:229802005"/>
+<NPC id="1879062806" name="Mistress of Apprentices" gender="FEMALE" title="key:620767899:229802005"/>
+<NPC id="1879062807" name="Master of Apprenticess" gender="MALE" title="key:620767900:229802005"/>
+<NPC id="1879062808" name="Mistress of Apprentices" gender="FEMALE" title="key:620767901:229802005"/>
+<NPC id="1879063054" name="Expert Cook" gender="MALE" title="key:620767923:229802005"/>
+<NPC id="1879063055" name="Expert Cook" gender="MALE" title="key:620767924:229802005"/>
+<NPC id="1879063056" name="Expert Cook" gender="MALE" title="key:620767925:229802005"/>
+<NPC id="1879063057" name="Expert Cook" gender="MALE" title="key:620767926:229802005"/>
+<NPC id="1879063064" name="Expert Tailor" gender="MALE" title="key:620767927:229802005"/>
+<NPC id="1879063065" name="Expert Tailor" gender="FEMALE" title="key:620767928:229802005"/>
+<NPC id="1879063066" name="Expert Tailor" gender="FEMALE" title="key:620767929:229802005"/>
+<NPC id="1879063067" name="Expert Tailor" gender="FEMALE" title="key:620767930:229802005"/>
+<NPC id="1879063068" name="Expert Woodworker" gender="MALE" title="key:620767931:229802005"/>
+<NPC id="1879063069" name="Expert Woodworker" gender="FEMALE" title="key:620767932:229802005"/>
+<NPC id="1879063070" name="Expert Woodworker" gender="MALE" title="key:620767933:229802005"/>
+<NPC id="1879063071" name="Expert Woodworker" gender="MALE" title="key:620767934:229802005"/>
+<NPC id="1879063074" name="Armourer Vocation Trainer" gender="MALE"/>
+<NPC id="1879063082" name="Novice Farmhand" gender="MALE" title="key:620767942:229802005"/>
+<NPC id="1879063083" name="Expert Farmhand" gender="MALE" title="key:620767943:229802005"/>
+<NPC id="1879063088" name="Deloric" gender="MALE" title="key:620767947:229802005"/>
+<NPC id="1879063089" name="Santach" gender="MALE" title="key:620767948:229802005"/>
+<NPC id="1879063090" name="Kyven" gender="MALE" title="key:620767949:229802005"/>
+<NPC id="1879063091" name="Rahan" gender="MALE" title="key:620767950:229802005"/>
+<NPC id="1879063092" name="Chenan" gender="MALE" title="key:620767951:229802005"/>
+<NPC id="1879063093" name="Almaric" gender="MALE" title="key:620767952:229802005"/>
+<NPC id="1879063094" name="Brennos" gender="MALE" title="key:620767953:229802005"/>
+<NPC id="1879063095" name="Gladir" gender="MALE" title="key:620767954:229802005"/>
+<NPC id="1879063096" name="Olmóth" gender="MALE" title="key:620767955:229802005"/>
+<NPC id="1879063097" name="Bólwerk" gender="MALE" title="key:620767956:229802005"/>
+<NPC id="1879063098" name="Buckley Sheppard" gender="MALE" title="key:620767957:229802005"/>
+<NPC id="1879063099" name="Holly Greyfeather" gender="FEMALE" title="key:620767958:229802005"/>
+<NPC id="1879063100" name="Jasper Greensmith" gender="MALE" title="key:620767959:229802005"/>
+<NPC id="1879063101" name="Aran Greyfeather" gender="MALE" title="key:620767960:229802005"/>
+<NPC id="1879063103" name="Hodor Thornberry" gender="MALE" title="key:620767962:229802005"/>
+<NPC id="1879063104" name="Mason Boyle" gender="MALE" title="key:620767963:229802005"/>
+<NPC id="1879063105" name="Harlan Reed" gender="MALE" title="key:620767964:229802005"/>
+<NPC id="1879063107" name="Maynard Thistle" gender="MALE" title="key:620767966:229802005"/>
+<NPC id="1879063108" name="Boyden Fir" gender="MALE" title="key:620767967:229802005"/>
+<NPC id="1879063109" name="Turner Thisleleaf" gender="MALE" title="key:620767968:229802005"/>
+<NPC id="1879063110" name="James Clover" gender="MALE" title="key:620767969:229802005"/>
+<NPC id="1879063111" name="Miller Chicory" gender="MALE" title="key:620767970:229802005"/>
+<NPC id="1879063112" name="Thomas Cleelan" gender="MALE" title="key:620767971:229802005"/>
+<NPC id="1879063113" name="Wystan Milkweed" gender="MALE" title="key:620767972:229802005"/>
+<NPC id="1879063116" name="Cooper Basilleaf" gender="MALE" title="key:620767975:229802005"/>
+<NPC id="1879063117" name="Dolph Boxthorn" gender="MALE" title="key:620767976:229802005"/>
+<NPC id="1879063118" name="Windle Moorneedle" gender="MALE" title="key:620767977:229802005"/>
+<NPC id="1879063121" name="Taylor Birchman" gender="MALE" title="key:620767980:229802005"/>
+<NPC id="1879063122" name="Allan Coal" gender="MALE" title="key:620767981:229802005"/>
+<NPC id="1879063123" name="Githa Hawkweed" gender="FEMALE" title="key:620767982:229802005"/>
 <NPC id="1879063125" name="DELETE ME!"/>
-<NPC id="1879063132" name="Edenithil" title="key:620767991:229802005"/>
-<NPC id="1879063133" name="Elgirion" title="key:620767992:229802005"/>
-<NPC id="1879063134" name="Gilbor" title="key:620767993:229802005"/>
-<NPC id="1879063135" name="Gilfalas" title="key:620767994:229802005"/>
-<NPC id="1879063136" name="Brethilas" title="key:620767995:229802005"/>
-<NPC id="1879063137" name="Hithbar" title="key:620767996:229802005"/>
-<NPC id="1879063138" name="Fanhir" title="key:620767997:229802005"/>
-<NPC id="1879063139" name="Limlor" title="key:620767998:229802005"/>
-<NPC id="1879063140" name="Tímar" title="key:620767999:229802005"/>
-<NPC id="1879063141" name="Algar Anvil-song" title="key:620768000:229802005"/>
-<NPC id="1879063142" name="Bór" title="key:620768001:229802005"/>
-<NPC id="1879063143" name="Aglinn" title="key:620768002:229802005"/>
-<NPC id="1879063144" name="Egon Malt-water" title="key:620768003:229802005"/>
-<NPC id="1879063145" name="Adwyn Flame-eye" title="key:620768004:229802005"/>
-<NPC id="1879063146" name="Aldwulf" title="key:620768005:229802005"/>
-<NPC id="1879063147" name="Invar" title="key:620768006:229802005"/>
-<NPC id="1879063148" name="Ranald" title="key:620768007:229802005"/>
-<NPC id="1879063149" name="Durstan" title="key:620768008:229802005"/>
-<NPC id="1879063150" name="Kimbur Green-tree" title="key:620768009:229802005"/>
-<NPC id="1879063151" name="Lafi" title="key:620768010:229802005"/>
-<NPC id="1879063152" name="Dannel" title="key:620768011:229802005"/>
-<NPC id="1879063153" name="Gowan Smith-son" title="key:620768012:229802005"/>
-<NPC id="1879063154" name="Kieri" title="key:620768013:229802005"/>
-<NPC id="1879063155" name="Torri" title="key:620768014:229802005"/>
-<NPC id="1879063156" name="Grithur" title="key:620768015:229802005"/>
-<NPC id="1879063157" name="Dúri Bold-hammer" title="key:620768016:229802005"/>
-<NPC id="1879063160" name="Albryc Long-foot" title="key:620768019:229802005"/>
-<NPC id="1879063161" name="Belgen" title="key:620768020:229802005"/>
-<NPC id="1879063162" name="Kragg Stout-heart" title="key:620768021:229802005"/>
-<NPC id="1879063163" name="Dagg Dour-face" title="key:620768022:229802005"/>
-<NPC id="1879063164" name="Hagan Storm-sword" title="key:620768023:229802005"/>
-<NPC id="1879063165" name="Kyma Grey-bear" title="key:620768024:229802005"/>
-<NPC id="1879063166" name="Rhodri Blue-boots" title="key:620768025:229802005"/>
-<NPC id="1879063167" name="Thorvald Thunder-hall" title="key:620768026:229802005"/>
-<NPC id="1879063168" name="Roland Ambermoon" title="key:620768027:229802005"/>
-<NPC id="1879063169" name="Barl Audley" title="key:620768028:229802005"/>
-<NPC id="1879063170" name="Rupe Tenstone" title="key:620768029:229802005"/>
-<NPC id="1879063171" name="Jess Fairchild" title="key:620768030:229802005"/>
-<NPC id="1879063172" name="Dirk Crowhaven" title="key:620768031:229802005"/>
-<NPC id="1879063173" name="Martin Shadowhyrst" title="key:620768032:229802005"/>
-<NPC id="1879063174" name="Daegwalt" title="key:620768033:229802005"/>
-<NPC id="1879063175" name="Jaster Glenwood" title="key:620768034:229802005"/>
-<NPC id="1879063177" name="Donan Finloch" title="key:620768036:229802005"/>
-<NPC id="1879063178" name="Gestr Quicksilver" title="key:620768037:229802005"/>
-<NPC id="1879063179" name="Mallennor" title="key:620768038:229802005"/>
-<NPC id="1879063181" name="Faronwen" title="key:620768040:229802005"/>
-<NPC id="1879063183" name="Arastil" title="key:620768042:229802005"/>
-<NPC id="1879063184" name="Gondranc" title="key:620768043:229802005"/>
-<NPC id="1879063187" name="Elúr" title="key:620768046:229802005"/>
-<NPC id="1879063189" name="Melthindir" title="key:620768048:229802005"/>
-<NPC id="1879063191" name="Adelin Swiftrunner" title="key:620768050:229802005"/>
-<NPC id="1879063195" name="Neldo Oaklane" title="key:620768054:229802005"/>
-<NPC id="1879063196" name="Holba Blackiron" title="key:620768055:229802005"/>
-<NPC id="1879063197" name="Aldo Topleaf" title="key:620768056:229802005"/>
-<NPC id="1879063198" name="Filimer Took" title="key:620768057:229802005"/>
-<NPC id="1879063199" name="Hardo Thorney" title="key:620768058:229802005"/>
-<NPC id="1879063203" name="Griffin Bunce" title="key:620768062:229802005"/>
-<NPC id="1879063204" name="Gilda Sweetwater" title="key:620768063:229802005"/>
-<NPC id="1879063206" name="Gilly Bracegirdle" title="key:620768065:229802005"/>
-<NPC id="1879063208" name="Indor Weaver" title="key:620768067:229802005"/>
-<NPC id="1879063210" name="Dudo Greenacre" title="key:620768069:229802005"/>
-<NPC id="1879063211" name="Brinley Gardener" title="key:620768070:229802005"/>
-<NPC id="1879063226" name="Ruthlas" title="key:620768085:229802005"/>
-<NPC id="1879063227" name="Gelluigon" title="key:620768086:229802005"/>
-<NPC id="1879063229" name="Ninimiel" title="key:620768088:229802005"/>
-<NPC id="1879063231" name="Haerel" title="key:620768090:229802005"/>
-<NPC id="1879063233" name="Pigedhryn" title="key:620768092:229802005"/>
-<NPC id="1879063234" name="Limruineth" title="key:620768093:229802005"/>
-<NPC id="1879063235" name="Silivremir" title="key:620768094:229802005"/>
-<NPC id="1879063236" name="Owen Oaks" title="key:620777999:229802005"/>
-<NPC id="1879063237" name="Steinn Silvertongue" title="key:620777998:229802005"/>
-<NPC id="1879063238" name="Gammer Took" title="key:620777997:229802005"/>
-<NPC id="1879063239" name="Tarkripper Quartermaster" title="key:620768095:229802005"/>
-<NPC id="1879063240" name="Mildred Catchfly" title="key:620768096:229802005"/>
-<NPC id="1879063242" name="Edwin Miller" title="key:620768098:229802005"/>
-<NPC id="1879063243" name="Bail Threespot" title="key:620768099:229802005"/>
-<NPC id="1879063244" name="Dora Brandybuck" title="key:620768100:229802005"/>
-<NPC id="1879063245" name="Lara Boffin" title="key:620768101:229802005"/>
-<NPC id="1879063246" name="Malvo Goldworthy" title="key:620768102:229802005"/>
-<NPC id="1879063247" name="Dono Boffin" title="key:620768103:229802005"/>
-<NPC id="1879063248" name="Rorimac Bolger" title="key:620768104:229802005"/>
-<NPC id="1879063250" name="Morgan Darkraven" title="key:620768106:229802005"/>
-<NPC id="1879063251" name="Mag Hardhammer" title="key:620768107:229802005"/>
-<NPC id="1879063252" name="Nate Fleetfoot" title="key:620768108:229802005"/>
-<NPC id="1879063253" name="Karl Quickfire" title="key:620768109:229802005"/>
-<NPC id="1879063254" name="Lowell Wickham" title="key:620768110:229802005"/>
-<NPC id="1879063255" name="Pell Stoneleaf" title="key:620768111:229802005"/>
-<NPC id="1879063256" name="Otwell Gowen" title="key:620768112:229802005"/>
-<NPC id="1879063257" name="Raf Silverwind" title="key:620768113:229802005"/>
-<NPC id="1879063258" name="Gareth Somerset" title="key:620768114:229802005"/>
-<NPC id="1879063259" name="Orrick Fleetfoot" title="key:620768115:229802005"/>
-<NPC id="1879063260" name="Ithilvir" title="key:620768116:229802005"/>
-<NPC id="1879063261" name="Ari Longarrow" title="key:620768117:229802005"/>
-<NPC id="1879063262" name="Ivor Yewbend" title="key:620768118:229802005"/>
-<NPC id="1879063263" name="Ludde Blackeagle" title="key:620768119:229802005"/>
-<NPC id="1879063264" name="Hákan Ironhammer" title="key:620768120:229802005"/>
-<NPC id="1879063265" name="Galti son of Geitir" title="key:620768121:229802005"/>
-<NPC id="1879063266" name="Jórunn Firesong" title="key:620768122:229802005"/>
-<NPC id="1879063267" name="Nál Bellowsbreath" title="key:620768123:229802005"/>
-<NPC id="1879063268" name="Kettil Hardhelm" title="key:620768124:229802005"/>
-<NPC id="1879063269" name="Fengari Frostmere" title="key:620768125:229802005"/>
-<NPC id="1879063270" name="Ovi Redforge" title="key:620768126:229802005"/>
-<NPC id="1879063271" name="Alvari son of Breki" title="key:620768127:229802005"/>
-<NPC id="1879063272" name="Brymir Hammerhand" title="key:620768128:229802005"/>
-<NPC id="1879063273" name="Garett Wort" title="key:620768129:229802005"/>
-<NPC id="1879063274" name="Refr Quicksilver" title="key:620768130:229802005"/>
-<NPC id="1879063282" name="Jon Carver" title="key:620768138:229802005"/>
-<NPC id="1879063283" name="Joseph Thornrose" title="key:620768139:229802005"/>
-<NPC id="1879063284" name="Abbey Primrose" title="key:620768140:229802005"/>
-<NPC id="1879063285" name="Jarred Mason" title="key:620768141:229802005"/>
-<NPC id="1879063286" name="Bailey Willowlark" title="key:620768142:229802005"/>
-<NPC id="1879063287" name="Darrin Crane" title="key:620768143:229802005"/>
-<NPC id="1879063288" name="Belgo Redsmith" title="key:620768144:229802005"/>
-<NPC id="1879063289" name="Felderic Willowwood" title="key:620768145:229802005"/>
-<NPC id="1879063290" name="Mirabell Gammidge" title="key:620768146:229802005"/>
-<NPC id="1879063291" name="Brinley Gardener" title="key:620768147:229802005"/>
-<NPC id="1879063292" name="Tala Handyman" title="key:620768148:229802005"/>
-<NPC id="1879063293" name="Daisy Newbuck" title="key:620768149:229802005"/>
-<NPC id="1879063294" name="Rasco Chubb" title="key:620768150:229802005"/>
-<NPC id="1879063295" name="Britho Woodvine" title="key:620768151:229802005"/>
-<NPC id="1879063296" name="Gorhendad Greenholm" title="key:620768152:229802005"/>
-<NPC id="1879063297" name="Opal Stonefield" title="key:620768153:229802005"/>
-<NPC id="1879063299" name="Fathrem" title="key:620768155:229802005"/>
-<NPC id="1879063300" name="Calenhen" title="key:620768156:229802005"/>
-<NPC id="1879063301" name="Sidlinn" title="key:620768157:229802005"/>
-<NPC id="1879063302" name="Rodgam" title="key:620768158:229802005"/>
-<NPC id="1879063303" name="Maendan" title="key:620768159:229802005"/>
-<NPC id="1879063304" name="Gwathdal" title="key:620768160:229802005"/>
-<NPC id="1879063305" name="Glorielvir" title="key:620768161:229802005"/>
-<NPC id="1879063307" name="Gruinthír" title="key:620768163:229802005"/>
-<NPC id="1879063308" name="Dúrvenel" title="key:620768164:229802005"/>
-<NPC id="1879063309" name="Orodlin" title="key:620768165:229802005"/>
-<NPC id="1879063310" name="Berenin" title="key:620768166:229802005"/>
-<NPC id="1879063311" name="Daerlaw" title="key:620768167:229802005"/>
-<NPC id="1879063328" name="Bert Goldenleaf" title="key:620778307:229802005"/>
-<NPC id="1879063330" name="Bill Rosewood" title="key:620778308:229802005"/>
-<NPC id="1879063338" name="Wíli" title="key:620780432:229802005"/>
-<NPC id="1879063341" name="Bogi" title="key:620768173:229802005"/>
-<NPC id="1879063349" name="Edenithil" title="key:620768178:229802005"/>
-<NPC id="1879063350" name="Grithur" title="key:620768179:229802005"/>
-<NPC id="1879063351" name="Hithbar" title="key:620768180:229802005"/>
-<NPC id="1879063352" name="Fanhir" title="key:620768181:229802005"/>
-<NPC id="1879063355" name="Foreman Ori" title="key:620768183:229802005"/>
-<NPC id="1879063356" name="Ketill" title="key:620768184:229802005"/>
-<NPC id="1879063366" name="Sigdan" title="key:620780579:229802005"/>
-<NPC id="1879063372" name="Leithi" title="key:620768194:229802005"/>
-<NPC id="1879063373" name="Kolskegg" title="key:620768195:229802005"/>
-<NPC id="1879063382" name="Hwestiel" title="key:620768204:229802005"/>
-<NPC id="1879063383" name="Faellindiel" title="key:620778395:229802005"/>
-<NPC id="1879063384" name="Gwenhíril" title="key:620768205:229802005"/>
-<NPC id="1879063385" name="Vault-keeper" title="key:620778397:229802005"/>
-<NPC id="1879063386" name="Maegamel" title="key:620768206:229802005"/>
-<NPC id="1879063388" name="Colchyl" title="key:620778422:229802005"/>
-<NPC id="1879063391" name="Roherdir" title="key:620778445:229802005"/>
-<NPC id="1879063392" name="Laergil" title="key:620768209:229802005"/>
-<NPC id="1879063404" name="Hending Gamgee" title="key:620778480:229802005"/>
-<NPC id="1879063406" name="Provisioner" title="key:620768220:229802005"/>
-<NPC id="1879063407" name="Andfast Tunnelly" title="key:620778485:229802005"/>
-<NPC id="1879063408" name="Expert Cook" title="key:620768221:229802005"/>
-<NPC id="1879063409" name="Vault-keeper" title="key:620778499:229802005"/>
-<NPC id="1879063414" name="Peaseblossom Tunnelly" title="key:620768224:229802005"/>
-<NPC id="1879063415" name="Gardenia Bracegirdle" title="key:620768225:229802005"/>
-<NPC id="1879063427" name="Bogo Chubb" title="key:620778605:229802005"/>
+<NPC id="1879063132" name="Edenithil" gender="MALE" title="key:620767991:229802005"/>
+<NPC id="1879063133" name="Elgirion" gender="MALE" title="key:620767992:229802005"/>
+<NPC id="1879063134" name="Gilbor" gender="MALE" title="key:620767993:229802005"/>
+<NPC id="1879063135" name="Gilfalas" gender="MALE" title="key:620767994:229802005"/>
+<NPC id="1879063136" name="Brethilas" gender="MALE" title="key:620767995:229802005"/>
+<NPC id="1879063137" name="Hithbar" gender="MALE" title="key:620767996:229802005"/>
+<NPC id="1879063138" name="Fanhir" gender="FEMALE" title="key:620767997:229802005"/>
+<NPC id="1879063139" name="Limlor" gender="MALE" title="key:620767998:229802005"/>
+<NPC id="1879063140" name="Tímar" gender="MALE" title="key:620767999:229802005"/>
+<NPC id="1879063141" name="Algar Anvil-song" gender="MALE" title="key:620768000:229802005"/>
+<NPC id="1879063142" name="Bór" gender="MALE" title="key:620768001:229802005"/>
+<NPC id="1879063143" name="Aglinn" gender="MALE" title="key:620768002:229802005"/>
+<NPC id="1879063144" name="Egon Malt-water" gender="MALE" title="key:620768003:229802005"/>
+<NPC id="1879063145" name="Adwyn Flame-eye" gender="MALE" title="key:620768004:229802005"/>
+<NPC id="1879063146" name="Aldwulf" gender="MALE" title="key:620768005:229802005"/>
+<NPC id="1879063147" name="Invar" gender="MALE" title="key:620768006:229802005"/>
+<NPC id="1879063148" name="Ranald" gender="MALE" title="key:620768007:229802005"/>
+<NPC id="1879063149" name="Durstan" gender="MALE" title="key:620768008:229802005"/>
+<NPC id="1879063150" name="Kimbur Green-tree" gender="MALE" title="key:620768009:229802005"/>
+<NPC id="1879063151" name="Lafi" gender="MALE" title="key:620768010:229802005"/>
+<NPC id="1879063152" name="Dannel" gender="MALE" title="key:620768011:229802005"/>
+<NPC id="1879063153" name="Gowan Smith-son" gender="MALE" title="key:620768012:229802005"/>
+<NPC id="1879063154" name="Kieri" gender="MALE" title="key:620768013:229802005"/>
+<NPC id="1879063155" name="Torri" gender="MALE" title="key:620768014:229802005"/>
+<NPC id="1879063156" name="Grithur" gender="MALE" title="key:620768015:229802005"/>
+<NPC id="1879063157" name="Dúri Bold-hammer" gender="MALE" title="key:620768016:229802005"/>
+<NPC id="1879063160" name="Albryc Long-foot" gender="MALE" title="key:620768019:229802005"/>
+<NPC id="1879063161" name="Belgen" gender="MALE" title="key:620768020:229802005"/>
+<NPC id="1879063162" name="Kragg Stout-heart" gender="MALE" title="key:620768021:229802005"/>
+<NPC id="1879063163" name="Dagg Dour-face" gender="MALE" title="key:620768022:229802005"/>
+<NPC id="1879063164" name="Hagan Storm-sword" gender="MALE" title="key:620768023:229802005"/>
+<NPC id="1879063165" name="Kyma Grey-bear" gender="MALE" title="key:620768024:229802005"/>
+<NPC id="1879063166" name="Rhodri Blue-boots" gender="MALE" title="key:620768025:229802005"/>
+<NPC id="1879063167" name="Thorvald Thunder-hall" gender="MALE" title="key:620768026:229802005"/>
+<NPC id="1879063168" name="Roland Ambermoon" gender="MALE" title="key:620768027:229802005"/>
+<NPC id="1879063169" name="Barl Audley" gender="MALE" title="key:620768028:229802005"/>
+<NPC id="1879063170" name="Rupe Tenstone" gender="MALE" title="key:620768029:229802005"/>
+<NPC id="1879063171" name="Jess Fairchild" gender="MALE" title="key:620768030:229802005"/>
+<NPC id="1879063172" name="Dirk Crowhaven" gender="MALE" title="key:620768031:229802005"/>
+<NPC id="1879063173" name="Martin Shadowhyrst" gender="MALE" title="key:620768032:229802005"/>
+<NPC id="1879063174" name="Daegwalt" gender="MALE" title="key:620768033:229802005"/>
+<NPC id="1879063175" name="Jaster Glenwood" gender="MALE" title="key:620768034:229802005"/>
+<NPC id="1879063177" name="Donan Finloch" gender="MALE" title="key:620768036:229802005"/>
+<NPC id="1879063178" name="Gestr Quicksilver" gender="MALE" title="key:620768037:229802005"/>
+<NPC id="1879063179" name="Mallennor" gender="MALE" title="key:620768038:229802005"/>
+<NPC id="1879063181" name="Faronwen" gender="FEMALE" title="key:620768040:229802005"/>
+<NPC id="1879063183" name="Arastil" gender="MALE" title="key:620768042:229802005"/>
+<NPC id="1879063184" name="Gondranc" gender="MALE" title="key:620768043:229802005"/>
+<NPC id="1879063187" name="Elúr" gender="MALE" title="key:620768046:229802005"/>
+<NPC id="1879063189" name="Melthindir" gender="MALE" title="key:620768048:229802005"/>
+<NPC id="1879063191" name="Adelin Swiftrunner" gender="MALE" title="key:620768050:229802005"/>
+<NPC id="1879063195" name="Neldo Oaklane" gender="MALE" title="key:620768054:229802005"/>
+<NPC id="1879063196" name="Holba Blackiron" gender="MALE" title="key:620768055:229802005"/>
+<NPC id="1879063197" name="Aldo Topleaf" gender="MALE" title="key:620768056:229802005"/>
+<NPC id="1879063198" name="Filimer Took" gender="MALE" title="key:620768057:229802005"/>
+<NPC id="1879063199" name="Hardo Thorney" gender="MALE" title="key:620768058:229802005"/>
+<NPC id="1879063203" name="Griffin Bunce" gender="MALE" title="key:620768062:229802005"/>
+<NPC id="1879063204" name="Gilda Sweetwater" gender="FEMALE" title="key:620768063:229802005"/>
+<NPC id="1879063206" name="Gilly Bracegirdle" gender="FEMALE" title="key:620768065:229802005"/>
+<NPC id="1879063208" name="Indor Weaver" gender="MALE" title="key:620768067:229802005"/>
+<NPC id="1879063210" name="Dudo Greenacre" gender="MALE" title="key:620768069:229802005"/>
+<NPC id="1879063211" name="Brinley Gardener" gender="MALE" title="key:620768070:229802005"/>
+<NPC id="1879063226" name="Ruthlas" gender="MALE" title="key:620768085:229802005"/>
+<NPC id="1879063227" name="Gelluigon" gender="MALE" title="key:620768086:229802005"/>
+<NPC id="1879063229" name="Ninimiel" gender="FEMALE" title="key:620768088:229802005"/>
+<NPC id="1879063231" name="Haerel" gender="FEMALE" title="key:620768090:229802005"/>
+<NPC id="1879063233" name="Pigedhryn" gender="MALE" title="key:620768092:229802005"/>
+<NPC id="1879063234" name="Limruineth" gender="FEMALE" title="key:620768093:229802005"/>
+<NPC id="1879063235" name="Silivremir" gender="MALE" title="key:620768094:229802005"/>
+<NPC id="1879063236" name="Owen Oaks" gender="MALE" title="key:620777999:229802005"/>
+<NPC id="1879063237" name="Steinn Silvertongue" gender="MALE" title="key:620777998:229802005"/>
+<NPC id="1879063238" name="Gammer Took" gender="FEMALE" title="key:620777997:229802005"/>
+<NPC id="1879063239" name="Tarkripper Quartermaster" gender="MALE" title="key:620768095:229802005"/>
+<NPC id="1879063240" name="Mildred Catchfly" gender="FEMALE" title="key:620768096:229802005"/>
+<NPC id="1879063242" name="Edwin Miller" gender="MALE" title="key:620768098:229802005"/>
+<NPC id="1879063243" name="Bail Threespot" gender="MALE" title="key:620768099:229802005"/>
+<NPC id="1879063244" name="Dora Brandybuck" gender="FEMALE" title="key:620768100:229802005"/>
+<NPC id="1879063245" name="Lara Boffin" gender="FEMALE" title="key:620768101:229802005"/>
+<NPC id="1879063246" name="Malvo Goldworthy" gender="MALE" title="key:620768102:229802005"/>
+<NPC id="1879063247" name="Dono Boffin" gender="MALE" title="key:620768103:229802005"/>
+<NPC id="1879063248" name="Rorimac Bolger" gender="MALE" title="key:620768104:229802005"/>
+<NPC id="1879063250" name="Morgan Darkraven" gender="MALE" title="key:620768106:229802005"/>
+<NPC id="1879063251" name="Mag Hardhammer" gender="MALE" title="key:620768107:229802005"/>
+<NPC id="1879063252" name="Nate Fleetfoot" gender="MALE" title="key:620768108:229802005"/>
+<NPC id="1879063253" name="Karl Quickfire" gender="MALE" title="key:620768109:229802005"/>
+<NPC id="1879063254" name="Lowell Wickham" gender="MALE" title="key:620768110:229802005"/>
+<NPC id="1879063255" name="Pell Stoneleaf" gender="MALE" title="key:620768111:229802005"/>
+<NPC id="1879063256" name="Otwell Gowen" gender="MALE" title="key:620768112:229802005"/>
+<NPC id="1879063257" name="Raf Silverwind" gender="MALE" title="key:620768113:229802005"/>
+<NPC id="1879063258" name="Gareth Somerset" gender="MALE" title="key:620768114:229802005"/>
+<NPC id="1879063259" name="Orrick Fleetfoot" gender="MALE" title="key:620768115:229802005"/>
+<NPC id="1879063260" name="Ithilvir" gender="MALE" title="key:620768116:229802005"/>
+<NPC id="1879063261" name="Ari Longarrow" gender="MALE" title="key:620768117:229802005"/>
+<NPC id="1879063262" name="Ivor Yewbend" gender="MALE" title="key:620768118:229802005"/>
+<NPC id="1879063263" name="Ludde Blackeagle" gender="MALE" title="key:620768119:229802005"/>
+<NPC id="1879063264" name="Hákan Ironhammer" gender="MALE" title="key:620768120:229802005"/>
+<NPC id="1879063265" name="Galti son of Geitir" gender="MALE" title="key:620768121:229802005"/>
+<NPC id="1879063266" name="Jórunn Firesong" gender="MALE" title="key:620768122:229802005"/>
+<NPC id="1879063267" name="Nál Bellowsbreath" gender="MALE" title="key:620768123:229802005"/>
+<NPC id="1879063268" name="Kettil Hardhelm" gender="MALE" title="key:620768124:229802005"/>
+<NPC id="1879063269" name="Fengari Frostmere" gender="MALE" title="key:620768125:229802005"/>
+<NPC id="1879063270" name="Ovi Redforge" gender="MALE" title="key:620768126:229802005"/>
+<NPC id="1879063271" name="Alvari son of Breki" gender="MALE" title="key:620768127:229802005"/>
+<NPC id="1879063272" name="Brymir Hammerhand" gender="MALE" title="key:620768128:229802005"/>
+<NPC id="1879063273" name="Garett Wort" gender="MALE" title="key:620768129:229802005"/>
+<NPC id="1879063274" name="Refr Quicksilver" gender="MALE" title="key:620768130:229802005"/>
+<NPC id="1879063282" name="Jon Carver" gender="MALE" title="key:620768138:229802005"/>
+<NPC id="1879063283" name="Joseph Thornrose" gender="MALE" title="key:620768139:229802005"/>
+<NPC id="1879063284" name="Abbey Primrose" gender="FEMALE" title="key:620768140:229802005"/>
+<NPC id="1879063285" name="Jarred Mason" gender="MALE" title="key:620768141:229802005"/>
+<NPC id="1879063286" name="Bailey Willowlark" gender="MALE" title="key:620768142:229802005"/>
+<NPC id="1879063287" name="Darrin Crane" gender="MALE" title="key:620768143:229802005"/>
+<NPC id="1879063288" name="Belgo Redsmith" gender="MALE" title="key:620768144:229802005"/>
+<NPC id="1879063289" name="Felderic Willowwood" gender="MALE" title="key:620768145:229802005"/>
+<NPC id="1879063290" name="Mirabell Gammidge" gender="FEMALE" title="key:620768146:229802005"/>
+<NPC id="1879063291" name="Brinley Gardener" gender="MALE" title="key:620768147:229802005"/>
+<NPC id="1879063292" name="Tala Handyman" gender="FEMALE" title="key:620768148:229802005"/>
+<NPC id="1879063293" name="Daisy Newbuck" gender="FEMALE" title="key:620768149:229802005"/>
+<NPC id="1879063294" name="Rasco Chubb" gender="MALE" title="key:620768150:229802005"/>
+<NPC id="1879063295" name="Britho Woodvine" gender="MALE" title="key:620768151:229802005"/>
+<NPC id="1879063296" name="Gorhendad Greenholm" gender="MALE" title="key:620768152:229802005"/>
+<NPC id="1879063297" name="Opal Stonefield" gender="FEMALE" title="key:620768153:229802005"/>
+<NPC id="1879063299" name="Fathrem" gender="MALE" title="key:620768155:229802005"/>
+<NPC id="1879063300" name="Calenhen" gender="MALE" title="key:620768156:229802005"/>
+<NPC id="1879063301" name="Sidlinn" gender="MALE" title="key:620768157:229802005"/>
+<NPC id="1879063302" name="Rodgam" gender="MALE" title="key:620768158:229802005"/>
+<NPC id="1879063303" name="Maendan" gender="MALE" title="key:620768159:229802005"/>
+<NPC id="1879063304" name="Gwathdal" gender="MALE" title="key:620768160:229802005"/>
+<NPC id="1879063305" name="Glorielvir" gender="MALE" title="key:620768161:229802005"/>
+<NPC id="1879063307" name="Gruinthír" gender="MALE" title="key:620768163:229802005"/>
+<NPC id="1879063308" name="Dúrvenel" gender="MALE" title="key:620768164:229802005"/>
+<NPC id="1879063309" name="Orodlin" gender="MALE" title="key:620768165:229802005"/>
+<NPC id="1879063310" name="Berenin" gender="MALE" title="key:620768166:229802005"/>
+<NPC id="1879063311" name="Daerlaw" gender="MALE" title="key:620768167:229802005"/>
+<NPC id="1879063328" name="Bert Goldenleaf" gender="MALE" title="key:620778307:229802005"/>
+<NPC id="1879063330" name="Bill Rosewood" gender="MALE" title="key:620778308:229802005"/>
+<NPC id="1879063338" name="Wíli" gender="MALE" title="key:620780432:229802005"/>
+<NPC id="1879063341" name="Bogi" gender="MALE" title="key:620768173:229802005"/>
+<NPC id="1879063349" name="Edenithil" gender="MALE" title="key:620768178:229802005"/>
+<NPC id="1879063350" name="Grithur" gender="MALE" title="key:620768179:229802005"/>
+<NPC id="1879063351" name="Hithbar" gender="MALE" title="key:620768180:229802005"/>
+<NPC id="1879063352" name="Fanhir" gender="FEMALE" title="key:620768181:229802005"/>
+<NPC id="1879063355" name="Foreman Ori" gender="MALE" title="key:620768183:229802005"/>
+<NPC id="1879063356" name="Ketill" gender="MALE" title="key:620768184:229802005"/>
+<NPC id="1879063366" name="Sigdan" gender="MALE" title="key:620780579:229802005"/>
+<NPC id="1879063372" name="Leithi" gender="MALE" title="key:620768194:229802005"/>
+<NPC id="1879063373" name="Kolskegg" gender="MALE" title="key:620768195:229802005"/>
+<NPC id="1879063382" name="Hwestiel" gender="FEMALE" title="key:620768204:229802005"/>
+<NPC id="1879063383" name="Faellindiel" gender="FEMALE" title="key:620778395:229802005"/>
+<NPC id="1879063384" name="Gwenhíril" gender="FEMALE" title="key:620768205:229802005"/>
+<NPC id="1879063385" name="Vault-keeper" gender="FEMALE" title="key:620778397:229802005"/>
+<NPC id="1879063386" name="Maegamel" gender="FEMALE" title="key:620768206:229802005"/>
+<NPC id="1879063388" name="Colchyl" gender="MALE" title="key:620778422:229802005"/>
+<NPC id="1879063391" name="Roherdir" gender="MALE" title="key:620778445:229802005"/>
+<NPC id="1879063392" name="Laergil" gender="FEMALE" title="key:620768209:229802005"/>
+<NPC id="1879063404" name="Hending Gamgee" gender="MALE" title="key:620778480:229802005"/>
+<NPC id="1879063406" name="Provisioner" gender="MALE" title="key:620768220:229802005"/>
+<NPC id="1879063407" name="Andfast Tunnelly" gender="MALE" title="key:620778485:229802005"/>
+<NPC id="1879063408" name="Expert Cook" gender="FEMALE" title="key:620768221:229802005"/>
+<NPC id="1879063409" name="Vault-keeper" gender="MALE" title="key:620778499:229802005"/>
+<NPC id="1879063414" name="Peaseblossom Tunnelly" gender="FEMALE" title="key:620768224:229802005"/>
+<NPC id="1879063415" name="Gardenia Bracegirdle" gender="FEMALE" title="key:620768225:229802005"/>
+<NPC id="1879063427" name="Bogo Chubb" gender="MALE" title="key:620778605:229802005"/>
 <NPC id="1879063430" name="Tavern Keep" title="key:620768238:229802005"/>
-<NPC id="1879063440" name="Expert Woodworker" title="key:620768247:229802005"/>
-<NPC id="1879063446" name="Tanner Boffin" title="key:620768253:229802005"/>
-<NPC id="1879063451" name="Marmadoc Bolger" title="key:620768258:229802005"/>
-<NPC id="1879063453" name="Rory Primstone" title="key:620778746:229802005"/>
-<NPC id="1879063456" name="Provisioner" title="key:620768262:229802005"/>
-<NPC id="1879063457" name="Peridot Bolger" title="key:620768263:229802005"/>
-<NPC id="1879063458" name="Fosco Boffin" title="key:620768264:229802005"/>
-<NPC id="1879063466" name="Gundo Bracegirdle" title="key:620778838:229802005"/>
-<NPC id="1879063481" name="Sully Brandybuck" title="key:620778917:229802005"/>
-<NPC id="1879063511" name="Graham Larkspur" title="key:620768313:229802005"/>
-<NPC id="1879063538" name="Hal Fincham" title="key:620780832:229802005"/>
-<NPC id="1879063539" name="Alf Grimble" title="key:620768337:229802005"/>
-<NPC id="1879063544" name="Vault-keeper" title="key:620779179:229802005"/>
-<NPC id="1879063551" name="Pothlír" title="key:620780887:229802005"/>
+<NPC id="1879063440" name="Expert Woodworker" gender="FEMALE" title="key:620768247:229802005"/>
+<NPC id="1879063446" name="Tanner Boffin" gender="MALE" title="key:620768253:229802005"/>
+<NPC id="1879063451" name="Marmadoc Bolger" gender="MALE" title="key:620768258:229802005"/>
+<NPC id="1879063453" name="Rory Primstone" gender="MALE" title="key:620778746:229802005"/>
+<NPC id="1879063456" name="Provisioner" gender="FEMALE" title="key:620768262:229802005"/>
+<NPC id="1879063457" name="Peridot Bolger" gender="MALE" title="key:620768263:229802005"/>
+<NPC id="1879063458" name="Fosco Boffin" gender="MALE" title="key:620768264:229802005"/>
+<NPC id="1879063466" name="Gundo Bracegirdle" gender="MALE" title="key:620778838:229802005"/>
+<NPC id="1879063481" name="Sully Brandybuck" gender="MALE" title="key:620778917:229802005"/>
+<NPC id="1879063511" name="Graham Larkspur" gender="MALE" title="key:620768313:229802005"/>
+<NPC id="1879063538" name="Hal Fincham" gender="MALE" title="key:620780832:229802005"/>
+<NPC id="1879063539" name="Alf Grimble" gender="MALE" title="key:620768337:229802005"/>
+<NPC id="1879063544" name="Vault-keeper" gender="MALE" title="key:620779179:229802005"/>
+<NPC id="1879063551" name="Pothlír" gender="MALE" title="key:620780887:229802005"/>
 <NPC id="1879063567" name="Múli" title="key:620768363:229802005"/>
-<NPC id="1879063568" name="Éogar, son of Hadorgar" title="key:620768364:229802005"/>
-<NPC id="1879063572" name="Whelan Appledore" title="key:620768367:229802005"/>
-<NPC id="1879063574" name="Walt Hollytree" title="key:620768369:229802005"/>
-<NPC id="1879063588" name="Himloc Grouse" title="key:620768383:229802005"/>
-<NPC id="1879063595" name="Jack Cloverdale" title="key:620779440:229802005"/>
-<NPC id="1879063596" name="Janie Sprigleaf" title="key:620779441:229802005"/>
-<NPC id="1879063597" name="Nan Ragwort" title="key:620768390:229802005"/>
-<NPC id="1879063600" name="Provisioner" title="key:620768393:229802005"/>
-<NPC id="1879063606" name="Kate Henseed" title="key:620768399:229802005"/>
-<NPC id="1879063620" name="Foreman Elmwood" title="key:620768413:229802005"/>
-<NPC id="1879063638" name="Brethilwen" title="key:620768431:229802005"/>
-<NPC id="1879063642" name="Sam Pickwell" title="key:620781069:229802005"/>
-<NPC id="1879063653" name="Hithlim" title="key:620768445:229802005"/>
-<NPC id="1879063654" name="Arochon" title="key:620781102:229802005"/>
-<NPC id="1879063658" name="Garchadron" title="key:620781120:229802005"/>
-<NPC id="1879063659" name="Pip Wortley" title="key:620779752:229802005"/>
-<NPC id="1879063663" name="Provisioner" title="key:620768450:229802005"/>
-<NPC id="1879063664" name="Expert Tailor" title="key:620768451:229802005"/>
-<NPC id="1879063665" name="Expert Woodworker" title="key:620768452:229802005"/>
-<NPC id="1879063666" name="Nestadam" title="key:620768453:229802005"/>
-<NPC id="1879063672" name="Tavas" title="key:620781228:229802005"/>
-<NPC id="1879063713" name="Unni" title="key:620779925:229802005"/>
-<NPC id="1879063715" name="Strangsig" title="key:620768496:229802005"/>
-<NPC id="1879063751" name="Dolith" title="key:620781835:229802005"/>
-<NPC id="1879063752" name="Gavran" title="key:620781836:229802005"/>
-<NPC id="1879063762" name="Cinaid" title="key:620781889:229802005"/>
-<NPC id="1879063763" name="Malavin" title="key:620781890:229802005"/>
-<NPC id="1879063778" name="Breglobor" title="key:620780189:229802005"/>
-<NPC id="1879063779" name="Fimgris" title="key:620768552:229802005"/>
-<NPC id="1879063790" name="Coldfells Provisioner" title="key:620768563:229802005"/>
-<NPC id="1879063792" name="Fileglin" title="key:620780251:229802005"/>
-<NPC id="1879063793" name="Rimdal" title="key:620782134:229802005"/>
-<NPC id="1879063802" name="Ladrochan" title="key:620780243:229802005"/>
-<NPC id="1879063805" name="Provisioner" title="key:620768574:229802005"/>
-<NPC id="1879063817" name="Vault-keeper" title="key:620780267:229802005"/>
-<NPC id="1879063819" name="Tralli Gemfinder" title="key:620768586:229802005"/>
-<NPC id="1879063823" name="Enefan" title="key:620768590:229802005"/>
-<NPC id="1879063824" name="Auctioneer" title="key:620780292:229802005"/>
-<NPC id="1879063844" name="Vault-keeper" title="key:620782267:229802005"/>
+<NPC id="1879063568" name="Éogar, son of Hadorgar" gender="MALE" title="key:620768364:229802005"/>
+<NPC id="1879063572" name="Whelan Appledore" gender="MALE" title="key:620768367:229802005"/>
+<NPC id="1879063574" name="Walt Hollytree" gender="MALE" title="key:620768369:229802005"/>
+<NPC id="1879063588" name="Himloc Grouse" gender="MALE" title="key:620768383:229802005"/>
+<NPC id="1879063595" name="Jack Cloverdale" gender="MALE" title="key:620779440:229802005"/>
+<NPC id="1879063596" name="Janie Sprigleaf" gender="FEMALE" title="key:620779441:229802005"/>
+<NPC id="1879063597" name="Nan Ragwort" gender="FEMALE" title="key:620768390:229802005"/>
+<NPC id="1879063600" name="Provisioner" gender="FEMALE" title="key:620768393:229802005"/>
+<NPC id="1879063606" name="Kate Henseed" gender="FEMALE" title="key:620768399:229802005"/>
+<NPC id="1879063620" name="Foreman Elmwood" gender="MALE" title="key:620768413:229802005"/>
+<NPC id="1879063638" name="Brethilwen" gender="FEMALE" title="key:620768431:229802005"/>
+<NPC id="1879063642" name="Sam Pickwell" gender="MALE" title="key:620781069:229802005"/>
+<NPC id="1879063653" name="Hithlim" gender="MALE" title="key:620768445:229802005"/>
+<NPC id="1879063654" name="Arochon" gender="MALE" title="key:620781102:229802005"/>
+<NPC id="1879063658" name="Garchadron" gender="MALE" title="key:620781120:229802005"/>
+<NPC id="1879063659" name="Pip Wortley" gender="MALE" title="key:620779752:229802005"/>
+<NPC id="1879063663" name="Provisioner" gender="MALE" title="key:620768450:229802005"/>
+<NPC id="1879063664" name="Expert Tailor" gender="MALE" title="key:620768451:229802005"/>
+<NPC id="1879063665" name="Expert Woodworker" gender="FEMALE" title="key:620768452:229802005"/>
+<NPC id="1879063666" name="Nestadam" gender="FEMALE" title="key:620768453:229802005"/>
+<NPC id="1879063672" name="Tavas" gender="MALE" title="key:620781228:229802005"/>
+<NPC id="1879063713" name="Unni" gender="MALE" title="key:620779925:229802005"/>
+<NPC id="1879063715" name="Strangsig" gender="FEMALE" title="key:620768496:229802005"/>
+<NPC id="1879063751" name="Dolith" gender="FEMALE" title="key:620781835:229802005"/>
+<NPC id="1879063752" name="Gavran" gender="MALE" title="key:620781836:229802005"/>
+<NPC id="1879063762" name="Cinaid" gender="MALE" title="key:620781889:229802005"/>
+<NPC id="1879063763" name="Malavin" gender="FEMALE" title="key:620781890:229802005"/>
+<NPC id="1879063778" name="Breglobor" gender="MALE" title="key:620780189:229802005"/>
+<NPC id="1879063779" name="Fimgris" gender="MALE" title="key:620768552:229802005"/>
+<NPC id="1879063790" name="Coldfells Provisioner" gender="MALE" title="key:620768563:229802005"/>
+<NPC id="1879063792" name="Fileglin" gender="MALE" title="key:620780251:229802005"/>
+<NPC id="1879063793" name="Rimdal" gender="MALE" title="key:620782134:229802005"/>
+<NPC id="1879063802" name="Ladrochan" gender="MALE" title="key:620780243:229802005"/>
+<NPC id="1879063805" name="Provisioner" gender="MALE" title="key:620768574:229802005"/>
+<NPC id="1879063817" name="Vault-keeper" gender="MALE" title="key:620780267:229802005"/>
+<NPC id="1879063819" name="Tralli Gemfinder" gender="MALE" title="key:620768586:229802005"/>
+<NPC id="1879063823" name="Enefan" gender="MALE" title="key:620768590:229802005"/>
+<NPC id="1879063824" name="Auctioneer" gender="MALE" title="key:620780292:229802005"/>
+<NPC id="1879063844" name="Vault-keeper" gender="MALE" title="key:620782267:229802005"/>
 <NPC id="1879063846" name="Tavern Keep" title="key:620768611:229802005"/>
-<NPC id="1879063847" name="Belg" title="key:620768612:229802005"/>
-<NPC id="1879063848" name="Lóthinn" title="key:620768613:229802005"/>
-<NPC id="1879063850" name="Auctioneer" title="key:620780358:229802005"/>
-<NPC id="1879063851" name="Auctioneer" title="key:620780357:229802005"/>
-<NPC id="1879063852" name="Auctioneer" title="key:620780360:229802005"/>
-<NPC id="1879063853" name="Auctioneer" title="key:620780359:229802005"/>
-<NPC id="1879063861" name="Polly Leafcutter" title="key:620768614:229802005"/>
-<NPC id="1879063877" name="Salabdúr" title="key:620768617:229802005"/>
-<NPC id="1879063881" name="Aesseryn" title="key:620768618:229802005"/>
-<NPC id="1879072017" name="Postmaster Proudfoot"/>
-<NPC id="1879072032" name="Postman Newbuck"/>
-<NPC id="1879072065" name="Postman Twofoot"/>
-<NPC id="1879072069" name="Postman Redsmith"/>
-<NPC id="1879072074" name="Postman Took"/>
-<NPC id="1879072078" name="Postman Grubb"/>
-<NPC id="1879072081" name="Postman Boffin"/>
-<NPC id="1879072084" name="Postman Oddfoot"/>
-<NPC id="1879072088" name="Postman Spinner"/>
-<NPC id="1879072091" name="Postman Smallburrow"/>
-<NPC id="1879072094" name="Postman Bolger"/>
-<NPC id="1879072097" name="Postman Digswell"/>
-<NPC id="1879072368" name="Postman Moresby"/>
-<NPC id="1879072385" name="Postman Cotton"/>
-<NPC id="1879072399" name="Postman Maggot"/>
-<NPC id="1879074050" name="Quest Barrel 1"/>
-<NPC id="1879074076" name="Test Completer"/>
-<NPC id="1879074078" name="Test Bestower"/>
-<NPC id="1879074082" name="NPC Used Test"/>
+<NPC id="1879063847" name="Belg" gender="MALE" title="key:620768612:229802005"/>
+<NPC id="1879063848" name="Lóthinn" gender="MALE" title="key:620768613:229802005"/>
+<NPC id="1879063850" name="Auctioneer" gender="FEMALE" title="key:620780358:229802005"/>
+<NPC id="1879063851" name="Auctioneer" gender="MALE" title="key:620780357:229802005"/>
+<NPC id="1879063852" name="Auctioneer" gender="MALE" title="key:620780360:229802005"/>
+<NPC id="1879063853" name="Auctioneer" gender="FEMALE" title="key:620780359:229802005"/>
+<NPC id="1879063861" name="Polly Leafcutter" gender="FEMALE" title="key:620768614:229802005"/>
+<NPC id="1879063877" name="Salabdúr" gender="MALE" title="key:620768617:229802005"/>
+<NPC id="1879063881" name="Aesseryn" gender="FEMALE" title="key:620768618:229802005"/>
+<NPC id="1879072017" name="Postmaster Proudfoot" gender="MALE"/>
+<NPC id="1879072032" name="Postman Newbuck" gender="MALE"/>
+<NPC id="1879072065" name="Postman Twofoot" gender="MALE"/>
+<NPC id="1879072069" name="Postman Redsmith" gender="MALE"/>
+<NPC id="1879072074" name="Postman Took" gender="MALE"/>
+<NPC id="1879072078" name="Postman Grubb" gender="MALE"/>
+<NPC id="1879072081" name="Postman Boffin" gender="MALE"/>
+<NPC id="1879072084" name="Postman Oddfoot" gender="MALE"/>
+<NPC id="1879072088" name="Postman Spinner" gender="MALE"/>
+<NPC id="1879072091" name="Postman Smallburrow" gender="MALE"/>
+<NPC id="1879072094" name="Postman Bolger" gender="MALE"/>
+<NPC id="1879072097" name="Postman Digswell" gender="MALE"/>
+<NPC id="1879072368" name="Postman Moresby" gender="MALE"/>
+<NPC id="1879072385" name="Postman Cotton" gender="MALE"/>
+<NPC id="1879072399" name="Postman Maggot" gender="MALE"/>
+<NPC id="1879074050" name="Quest Barrel 1" gender="MALE"/>
+<NPC id="1879074076" name="Test Completer" gender="MALE"/>
+<NPC id="1879074078" name="Test Bestower" gender="MALE"/>
+<NPC id="1879074082" name="NPC Used Test" gender="MALE"/>
 <NPC id="1879076118" name="Test MP Controller"/>
 <NPC id="1879076148" name="Fell Scrying Pool"/>
 <NPC id="1879076364" name="PE Birdbath"/>
-<NPC id="1879076366" name="Mauno"/>
-<NPC id="1879076376" name="Pasco Grubb"/>
-<NPC id="1879076377" name="Branda Rumble"/>
-<NPC id="1879076378" name="Gile Chadwick"/>
-<NPC id="1879076381" name="Ruinhiril" title="key:620777755:229802005"/>
-<NPC id="1879076394" name="Expert Tailor" title="key:620777757:229802005"/>
-<NPC id="1879076395" name="Expert Tailor" title="key:620777758:229802005"/>
-<NPC id="1879076403" name="Expert Woodworker" title="key:620777759:229802005"/>
-<NPC id="1879076783" name="Arwen"/>
-<NPC id="1879076784" name="Dwalin"/>
-<NPC id="1879076785" name="Gormr Doursmith"/>
-<NPC id="1879076786" name="Mathi Stouthand"/>
+<NPC id="1879076366" name="Mauno" gender="MALE"/>
+<NPC id="1879076376" name="Pasco Grubb" gender="MALE"/>
+<NPC id="1879076377" name="Branda Rumble" gender="FEMALE"/>
+<NPC id="1879076378" name="Gile Chadwick" gender="MALE"/>
+<NPC id="1879076381" name="Ruinhiril" gender="FEMALE" title="key:620777755:229802005"/>
+<NPC id="1879076394" name="Expert Tailor" gender="MALE" title="key:620777757:229802005"/>
+<NPC id="1879076395" name="Expert Tailor" gender="MALE" title="key:620777758:229802005"/>
+<NPC id="1879076403" name="Expert Woodworker" gender="MALE" title="key:620777759:229802005"/>
+<NPC id="1879076783" name="Arwen" gender="FEMALE"/>
+<NPC id="1879076784" name="Dwalin" gender="MALE"/>
+<NPC id="1879076785" name="Gormr Doursmith" gender="MALE"/>
+<NPC id="1879076786" name="Mathi Stouthand" gender="MALE"/>
 <NPC id="1879076787" name="Detector"/>
 <NPC id="1879076788" name="Detector"/>
 <NPC id="1879076795" name="Sheep"/>
-<NPC id="1879076796" name="Townsperson"/>
+<NPC id="1879076796" name="Townsperson" gender="MALE"/>
 <NPC id="1879076797" name="Pig"/>
 <NPC id="1879076798" name="Chicken"/>
-<NPC id="1879076799" name="Townsperson"/>
-<NPC id="1879076802" name="Townsperson"/>
-<NPC id="1879076881" name="Earth-kin chieftain"/>
-<NPC id="1879077006" name="Watcher"/>
-<NPC id="1879077007" name="Townsperson"/>
-<NPC id="1879077008" name="Townsperson"/>
-<NPC id="1879077014" name="Townsperson"/>
-<NPC id="1879077015" name="Townsperson"/>
-<NPC id="1879077016" name="Watcher"/>
-<NPC id="1879077017" name="Watcher"/>
-<NPC id="1879077018" name="Watcher"/>
-<NPC id="1879077019" name="Watcher"/>
-<NPC id="1879077020" name="Watcher"/>
-<NPC id="1879077021" name="Watcher"/>
+<NPC id="1879076799" name="Townsperson" gender="MALE"/>
+<NPC id="1879076802" name="Townsperson" gender="FEMALE"/>
+<NPC id="1879076881" name="Earth-kin chieftain" gender="MALE"/>
+<NPC id="1879077006" name="Watcher" gender="MALE"/>
+<NPC id="1879077007" name="Townsperson" gender="FEMALE"/>
+<NPC id="1879077008" name="Townsperson" gender="MALE"/>
+<NPC id="1879077014" name="Townsperson" gender="FEMALE"/>
+<NPC id="1879077015" name="Townsperson" gender="MALE"/>
+<NPC id="1879077016" name="Watcher" gender="MALE"/>
+<NPC id="1879077017" name="Watcher" gender="FEMALE"/>
+<NPC id="1879077018" name="Watcher" gender="FEMALE"/>
+<NPC id="1879077019" name="Watcher" gender="MALE"/>
+<NPC id="1879077020" name="Watcher" gender="FEMALE"/>
+<NPC id="1879077021" name="Watcher" gender="MALE"/>
 <NPC id="1879077023" name="Cat"/>
 <NPC id="1879077333" name="Brigand"/>
-<NPC id="1879077352" name="Restless Shade"/>
+<NPC id="1879077352" name="Restless Shade" gender="MALE"/>
 <NPC id="1879077395" name="Drama Color Shouter"/>
-<NPC id="1879077410" name="Jimmy the Minstrel"/>
-<NPC id="1879077411" name="Woman of Bree"/>
-<NPC id="1879077484" name="Skorgrím"/>
-<NPC id="1879077530" name="Ingólfr"/>
-<NPC id="1879077606" name="Bregedúr"/>
-<NPC id="1879077607" name="Gwaloth"/>
-<NPC id="1879077608" name="Guleneth"/>
-<NPC id="1879077613" name="Brethilwen"/>
-<NPC id="1879077629" name="Mibrethil"/>
-<NPC id="1879077635" name="Dolengyl"/>
-<NPC id="1879077643" name="Penglir"/>
-<NPC id="1879077647" name="Lubathred" title="key:620778423:229802005"/>
+<NPC id="1879077410" name="Jimmy the Minstrel" gender="MALE"/>
+<NPC id="1879077411" name="Woman of Bree" gender="FEMALE"/>
+<NPC id="1879077484" name="Skorgrím" gender="MALE"/>
+<NPC id="1879077530" name="Ingólfr" gender="MALE"/>
+<NPC id="1879077606" name="Bregedúr" gender="MALE"/>
+<NPC id="1879077607" name="Gwaloth" gender="FEMALE"/>
+<NPC id="1879077608" name="Guleneth" gender="MALE"/>
+<NPC id="1879077613" name="Brethilwen" gender="FEMALE"/>
+<NPC id="1879077629" name="Mibrethil" gender="MALE"/>
+<NPC id="1879077635" name="Dolengyl" gender="FEMALE"/>
+<NPC id="1879077643" name="Penglir" gender="MALE"/>
+<NPC id="1879077647" name="Lubathred" gender="MALE" title="key:620778423:229802005"/>
 <NPC id="1879077649" name="Reflecting Pool"/>
-<NPC id="1879077654" name="Celairant"/>
-<NPC id="1879077675" name="Raindis"/>
-<NPC id="1879077676" name="Laegon"/>
-<NPC id="1879077690" name="Townsperson"/>
-<NPC id="1879077695" name="Hungry Hobbit"/>
-<NPC id="1879077696" name="Alf Goodcliff"/>
-<NPC id="1879077699" name="Emerald Borings"/>
-<NPC id="1879077701" name="Hungry Hobbit"/>
+<NPC id="1879077654" name="Celairant" gender="MALE"/>
+<NPC id="1879077675" name="Raindis" gender="FEMALE"/>
+<NPC id="1879077676" name="Laegon" gender="MALE"/>
+<NPC id="1879077690" name="Townsperson" gender="MALE"/>
+<NPC id="1879077695" name="Hungry Hobbit" gender="FEMALE"/>
+<NPC id="1879077696" name="Alf Goodcliff" gender="MALE"/>
+<NPC id="1879077699" name="Emerald Borings" gender="FEMALE"/>
+<NPC id="1879077701" name="Hungry Hobbit" gender="MALE"/>
 <NPC id="1879077726" name="Horse"/>
-<NPC id="1879077734" name="Nosey Hobbit"/>
-<NPC id="1879077738" name="Rollo Newbuck"/>
-<NPC id="1879077739" name="Polo Brockhouse"/>
-<NPC id="1879077740" name="Odo Pipes"/>
-<NPC id="1879077741" name="Wistan Whitfoot" title="key:620778500:229802005"/>
-<NPC id="1879077742" name="Marigold Twospade"/>
+<NPC id="1879077734" name="Nosey Hobbit" gender="MALE"/>
+<NPC id="1879077738" name="Rollo Newbuck" gender="MALE"/>
+<NPC id="1879077739" name="Polo Brockhouse" gender="MALE"/>
+<NPC id="1879077740" name="Odo Pipes" gender="MALE"/>
+<NPC id="1879077741" name="Wistan Whitfoot" gender="MALE" title="key:620778500:229802005"/>
+<NPC id="1879077742" name="Marigold Twospade" gender="FEMALE"/>
 <NPC id="1879077743" name="Reflecting Pool"/>
-<NPC id="1879077744" name="Townsperson"/>
-<NPC id="1879077745" name="Townsperson"/>
-<NPC id="1879077746" name="Lorgo Boffin"/>
-<NPC id="1879077753" name="Daisy Brockhouse"/>
-<NPC id="1879077780" name="Nosey Hobbit"/>
-<NPC id="1879077781" name="Ned Diggins"/>
+<NPC id="1879077744" name="Townsperson" gender="MALE"/>
+<NPC id="1879077745" name="Townsperson" gender="FEMALE"/>
+<NPC id="1879077746" name="Lorgo Boffin" gender="MALE"/>
+<NPC id="1879077753" name="Daisy Brockhouse" gender="FEMALE"/>
+<NPC id="1879077780" name="Nosey Hobbit" gender="FEMALE"/>
+<NPC id="1879077781" name="Ned Diggins" gender="MALE"/>
 <NPC id="1879077785" name="Cow"/>
-<NPC id="1879077787" name="Rooster"/>
+<NPC id="1879077787" name="Rooster" gender="MALE"/>
 <NPC id="1879077891" name="Bird"/>
-<NPC id="1879077899" name="Ted Sandyman"/>
-<NPC id="1879077900" name="Daddy Twofoot"/>
-<NPC id="1879077906" name="Watcher"/>
-<NPC id="1879077915" name="Townsperson"/>
-<NPC id="1879077941" name="Crocus Stonybanks"/>
+<NPC id="1879077899" name="Ted Sandyman" gender="MALE"/>
+<NPC id="1879077900" name="Daddy Twofoot" gender="MALE"/>
+<NPC id="1879077906" name="Watcher" gender="FEMALE"/>
+<NPC id="1879077915" name="Townsperson" gender="MALE"/>
+<NPC id="1879077941" name="Crocus Stonybanks" gender="FEMALE"/>
 <NPC id="1879077970" name="Frog"/>
-<NPC id="1879077971" name="Skinner Grubb" title="key:620778664:229802005"/>
-<NPC id="1879078018" name="Black Rider"/>
-<NPC id="1879078044" name="Drama Coach"/>
-<NPC id="1879078064" name="Townsperson"/>
-<NPC id="1879078065" name="Odo Mudbottom"/>
+<NPC id="1879077971" name="Skinner Grubb" gender="MALE" title="key:620778664:229802005"/>
+<NPC id="1879078018" name="Black Rider" gender="MALE"/>
+<NPC id="1879078044" name="Drama Coach" gender="MALE"/>
+<NPC id="1879078064" name="Townsperson" gender="FEMALE"/>
+<NPC id="1879078065" name="Odo Mudbottom" gender="MALE"/>
 <NPC id="1879078100" name="Snake"/>
-<NPC id="1879078137" name="Brigand"/>
-<NPC id="1879078138" name="Brigand"/>
-<NPC id="1879078139" name="Elf"/>
+<NPC id="1879078137" name="Brigand" gender="MALE"/>
+<NPC id="1879078138" name="Brigand" gender="MALE"/>
+<NPC id="1879078139" name="Elf" gender="MALE"/>
 <NPC id="1879078196" name="Fox"/>
-<NPC id="1879078199" name="Veronica"/>
-<NPC id="1879078203" name="Fang"/>
-<NPC id="1879078204" name="Grip"/>
-<NPC id="1879078205" name="Wolf"/>
-<NPC id="1879078206" name="Hammy Maggot"/>
-<NPC id="1879078217" name="Fang"/>
-<NPC id="1879078218" name="Grip"/>
-<NPC id="1879078219" name="Wolf"/>
-<NPC id="1879078259" name="Hodric Bracegirdle"/>
-<NPC id="1879078273" name="Bruner Stoutthrush"/>
-<NPC id="1879078279" name="Roger Hawkling"/>
-<NPC id="1879078322" name="Toly Brockhouse"/>
-<NPC id="1879078328" name="Gillemin Brandybuck"/>
-<NPC id="1879078513" name="Aradia"/>
-<NPC id="1879078514" name="Peren"/>
-<NPC id="1879078515" name="Relondir"/>
-<NPC id="1879078519" name="Townsperson"/>
-<NPC id="1879078554" name="Skorgrím"/>
-<NPC id="1879078573" name="Kenton Thistleway"/>
-<NPC id="1879078574" name="Lofar Ironband"/>
-<NPC id="1879078581" name="Flint Oakhewer"/>
-<NPC id="1879078582" name="Matt Haywood"/>
-<NPC id="1879078583" name="Pete Shadetree"/>
-<NPC id="1879078588" name="Naerandir"/>
-<NPC id="1879078606" name="Oddvarr"/>
-<NPC id="1879078614" name="Cam Applewood" title="key:620779087:229802005"/>
-<NPC id="1879078689" name="Shield-brother's Shade"/>
+<NPC id="1879078199" name="Veronica" gender="FEMALE"/>
+<NPC id="1879078203" name="Fang" gender="MALE"/>
+<NPC id="1879078204" name="Grip" gender="MALE"/>
+<NPC id="1879078205" name="Wolf" gender="MALE"/>
+<NPC id="1879078206" name="Hammy Maggot" gender="MALE"/>
+<NPC id="1879078217" name="Fang" gender="MALE"/>
+<NPC id="1879078218" name="Grip" gender="MALE"/>
+<NPC id="1879078219" name="Wolf" gender="MALE"/>
+<NPC id="1879078259" name="Hodric Bracegirdle" gender="MALE"/>
+<NPC id="1879078273" name="Bruner Stoutthrush" gender="MALE"/>
+<NPC id="1879078279" name="Roger Hawkling" gender="MALE"/>
+<NPC id="1879078322" name="Toly Brockhouse" gender="MALE"/>
+<NPC id="1879078328" name="Gillemin Brandybuck" gender="MALE"/>
+<NPC id="1879078513" name="Aradia" gender="FEMALE"/>
+<NPC id="1879078514" name="Peren" gender="FEMALE"/>
+<NPC id="1879078515" name="Relondir" gender="MALE"/>
+<NPC id="1879078519" name="Townsperson" gender="MALE"/>
+<NPC id="1879078554" name="Skorgrím" gender="MALE"/>
+<NPC id="1879078573" name="Kenton Thistleway" gender="MALE"/>
+<NPC id="1879078574" name="Lofar Ironband" gender="MALE"/>
+<NPC id="1879078581" name="Flint Oakhewer" gender="MALE"/>
+<NPC id="1879078582" name="Matt Haywood" gender="MALE"/>
+<NPC id="1879078583" name="Pete Shadetree" gender="MALE"/>
+<NPC id="1879078588" name="Naerandir" gender="MALE"/>
+<NPC id="1879078606" name="Oddvarr" gender="MALE"/>
+<NPC id="1879078614" name="Cam Applewood" gender="MALE" title="key:620779087:229802005"/>
+<NPC id="1879078689" name="Shield-brother's Shade" gender="MALE"/>
 <NPC id="1879078690" name="Freed Shade"/>
-<NPC id="1879078725" name="Foreman Rosethorn"/>
-<NPC id="1879078731" name="Rose Thornley"/>
-<NPC id="1879078748" name="Mat Heathertoes"/>
+<NPC id="1879078725" name="Foreman Rosethorn" gender="MALE"/>
+<NPC id="1879078731" name="Rose Thornley" gender="FEMALE"/>
+<NPC id="1879078748" name="Mat Heathertoes" gender="MALE"/>
 <NPC id="1879078749" name="Half-starved Pony"/>
-<NPC id="1879078753" name="Addie Wheatley"/>
-<NPC id="1879078765" name="Harry Goatleaf"/>
-<NPC id="1879078766" name="Watchman Cardoon"/>
+<NPC id="1879078753" name="Addie Wheatley" gender="FEMALE"/>
+<NPC id="1879078765" name="Harry Goatleaf" gender="MALE"/>
+<NPC id="1879078766" name="Watchman Cardoon" gender="MALE"/>
 <NPC id="1879078796" name="Squirrel"/>
-<NPC id="1879078803" name="Townsperson"/>
-<NPC id="1879078807" name="Townsperson"/>
-<NPC id="1879078808" name="Bonnie Milkweed" title="key:620779215:229802005"/>
+<NPC id="1879078803" name="Townsperson" gender="MALE"/>
+<NPC id="1879078807" name="Townsperson" gender="FEMALE"/>
+<NPC id="1879078808" name="Bonnie Milkweed" gender="FEMALE" title="key:620779215:229802005"/>
 <NPC id="1879078809" name="Reflecting Pool"/>
-<NPC id="1879078811" name="Dora Longburrow"/>
-<NPC id="1879078814" name="Townsperson"/>
-<NPC id="1879078817" name="Emma Rosethorn"/>
-<NPC id="1879078861" name="Primrose Burrows"/>
-<NPC id="1879078864" name="Clem Whitethorne"/>
-<NPC id="1879078865" name="Verity Tyne"/>
-<NPC id="1879078868" name="Bree Town Watcher"/>
-<NPC id="1879078870" name="Second-watcher Heathstraw"/>
-<NPC id="1879078873" name="Osur Stouthammer"/>
-<NPC id="1879078879" name="Lolo Wendingway"/>
-<NPC id="1879078883" name="Watcher Redweed"/>
-<NPC id="1879078892" name="Gammy Boggs"/>
-<NPC id="1879078905" name="Falco Greenhand"/>
-<NPC id="1879078907" name="Ethelinda Burr"/>
-<NPC id="1879078908" name="Ferdibrand Took"/>
-<NPC id="1879078909" name="Lily Underhill"/>
-<NPC id="1879078910" name="Ferumbras Attereeve"/>
-<NPC id="1879078911" name="Longo Daegmund"/>
-<NPC id="1879078922" name="Eldo Swatmidge"/>
-<NPC id="1879078923" name="Asphodel Froghorn"/>
-<NPC id="1879078941" name="Gar"/>
-<NPC id="1879078954" name="Willowsong"/>
-<NPC id="1879078971" name="Burl Beeman"/>
-<NPC id="1879078974" name="Seward Proudfoot"/>
-<NPC id="1879078975" name="Amlan"/>
-<NPC id="1879078976" name="Dob Sandheaver"/>
-<NPC id="1879078984" name="Tad Hollyway"/>
-<NPC id="1879078992" name="Humbert Sandheaver"/>
-<NPC id="1879078993" name="Humbert Sandheaver"/>
-<NPC id="1879079005" name="Townsperson"/>
-<NPC id="1879079022" name="Clayton Cole"/>
-<NPC id="1879079038" name="Watcher Reedy"/>
-<NPC id="1879079046" name="Odo Pickthorn"/>
-<NPC id="1879079057" name="Constable Sageford"/>
-<NPC id="1879079060" name="Rurik Fennel"/>
-<NPC id="1879079061" name="Gail Catchpole"/>
+<NPC id="1879078811" name="Dora Longburrow" gender="FEMALE"/>
+<NPC id="1879078814" name="Townsperson" gender="MALE"/>
+<NPC id="1879078817" name="Emma Rosethorn" gender="FEMALE"/>
+<NPC id="1879078861" name="Primrose Burrows" gender="FEMALE"/>
+<NPC id="1879078864" name="Clem Whitethorne" gender="MALE"/>
+<NPC id="1879078865" name="Verity Tyne" gender="FEMALE"/>
+<NPC id="1879078868" name="Bree Town Watcher" gender="MALE"/>
+<NPC id="1879078870" name="Second-watcher Heathstraw" gender="MALE"/>
+<NPC id="1879078873" name="Osur Stouthammer" gender="MALE"/>
+<NPC id="1879078879" name="Lolo Wendingway" gender="MALE"/>
+<NPC id="1879078883" name="Watcher Redweed" gender="MALE"/>
+<NPC id="1879078892" name="Gammy Boggs" gender="FEMALE"/>
+<NPC id="1879078905" name="Falco Greenhand" gender="MALE"/>
+<NPC id="1879078907" name="Ethelinda Burr" gender="FEMALE"/>
+<NPC id="1879078908" name="Ferdibrand Took" gender="MALE"/>
+<NPC id="1879078909" name="Lily Underhill" gender="FEMALE"/>
+<NPC id="1879078910" name="Ferumbras Attereeve" gender="MALE"/>
+<NPC id="1879078911" name="Longo Daegmund" gender="MALE"/>
+<NPC id="1879078922" name="Eldo Swatmidge" gender="MALE"/>
+<NPC id="1879078923" name="Asphodel Froghorn" gender="FEMALE"/>
+<NPC id="1879078941" name="Gar" gender="MALE"/>
+<NPC id="1879078954" name="Willowsong" gender="FEMALE"/>
+<NPC id="1879078971" name="Burl Beeman" gender="MALE"/>
+<NPC id="1879078974" name="Seward Proudfoot" gender="MALE"/>
+<NPC id="1879078975" name="Amlan" gender="MALE"/>
+<NPC id="1879078976" name="Dob Sandheaver" gender="MALE"/>
+<NPC id="1879078984" name="Tad Hollyway" gender="MALE"/>
+<NPC id="1879078992" name="Humbert Sandheaver" gender="MALE"/>
+<NPC id="1879078993" name="Humbert Sandheaver" gender="MALE"/>
+<NPC id="1879079005" name="Townsperson" gender="FEMALE"/>
+<NPC id="1879079022" name="Clayton Cole" gender="MALE"/>
+<NPC id="1879079038" name="Watcher Reedy" gender="FEMALE"/>
+<NPC id="1879079046" name="Odo Pickthorn" gender="MALE"/>
+<NPC id="1879079057" name="Constable Sageford" gender="MALE"/>
+<NPC id="1879079060" name="Rurik Fennel" gender="MALE"/>
+<NPC id="1879079061" name="Gail Catchpole" gender="FEMALE"/>
 <NPC id="1879079062" name="Rabbit"/>
-<NPC id="1879079065" name="Maida Woodwright"/>
-<NPC id="1879079067" name="Leighton Howard"/>
-<NPC id="1879079087" name="Constable Wren"/>
-<NPC id="1879079093" name="Biddy Dogwort"/>
-<NPC id="1879079100" name="Lenglinn"/>
-<NPC id="1879079142" name="Ted Pickthorn"/>
-<NPC id="1879079143" name="Roderick Carver"/>
-<NPC id="1879079144" name="Geoffrey Fuller"/>
-<NPC id="1879079153" name="Mason Thorne"/>
-<NPC id="1879079155" name="Molly Needler, Cobbler"/>
-<NPC id="1879079161" name="Edward Carver"/>
-<NPC id="1879079167" name="Guard"/>
-<NPC id="1879079178" name="Sergeant Redroot"/>
-<NPC id="1879079179" name="Guardsman Finchwater"/>
+<NPC id="1879079065" name="Maida Woodwright" gender="FEMALE"/>
+<NPC id="1879079067" name="Leighton Howard" gender="MALE"/>
+<NPC id="1879079087" name="Constable Wren" gender="FEMALE"/>
+<NPC id="1879079093" name="Biddy Dogwort" gender="FEMALE"/>
+<NPC id="1879079100" name="Lenglinn" gender="MALE"/>
+<NPC id="1879079142" name="Ted Pickthorn" gender="MALE"/>
+<NPC id="1879079143" name="Roderick Carver" gender="MALE"/>
+<NPC id="1879079144" name="Geoffrey Fuller" gender="MALE"/>
+<NPC id="1879079153" name="Mason Thorne" gender="MALE"/>
+<NPC id="1879079155" name="Molly Needler, Cobbler" gender="FEMALE"/>
+<NPC id="1879079161" name="Edward Carver" gender="MALE"/>
+<NPC id="1879079167" name="Guard" gender="MALE"/>
+<NPC id="1879079178" name="Sergeant Redroot" gender="MALE"/>
+<NPC id="1879079179" name="Guardsman Finchwater" gender="MALE"/>
 <NPC id="1879079187" name="Blacksmith"/>
-<NPC id="1879079188" name="Sergeant Redroot"/>
+<NPC id="1879079188" name="Sergeant Redroot" gender="MALE"/>
 <NPC id="1879079206" name="Guard"/>
 <NPC id="1879079207" name="Otto the Brigand"/>
 <NPC id="1879079208" name="Godwig the Lazy"/>
-<NPC id="1879079209" name="Constable Thistlewool"/>
-<NPC id="1879079211" name="Farmhand"/>
+<NPC id="1879079209" name="Constable Thistlewool" gender="MALE"/>
+<NPC id="1879079211" name="Farmhand" gender="MALE"/>
 <NPC id="1879079213" name="Builder Borin"/>
-<NPC id="1879079214" name="Builder Earur"/>
-<NPC id="1879079233" name="Jon Brackenbrook"/>
-<NPC id="1879079234" name="Hunter"/>
-<NPC id="1879079235" name="Celandine Brandybuck"/>
+<NPC id="1879079214" name="Builder Earur" gender="MALE"/>
+<NPC id="1879079233" name="Jon Brackenbrook" gender="MALE"/>
+<NPC id="1879079234" name="Hunter" gender="MALE"/>
+<NPC id="1879079235" name="Celandine Brandybuck" gender="FEMALE"/>
 <NPC id="1879079237" name="Brigand Prisoner"/>
-<NPC id="1879079238" name="Peg Pruner"/>
-<NPC id="1879079252" name="Taylor Green"/>
+<NPC id="1879079238" name="Peg Pruner" gender="FEMALE"/>
+<NPC id="1879079252" name="Taylor Green" gender="MALE"/>
 <NPC id="1879079277" name="Wheat Field"/>
 <NPC id="1879079295" name="Hunter"/>
-<NPC id="1879079296" name="Dead Hunter"/>
-<NPC id="1879079316" name="Wanetta"/>
-<NPC id="1879079318" name="Boll Needler"/>
+<NPC id="1879079296" name="Dead Hunter" gender="MALE"/>
+<NPC id="1879079316" name="Wanetta" gender="FEMALE"/>
+<NPC id="1879079318" name="Boll Needler" gender="MALE"/>
 <NPC id="1879079319" name="Old Bauman"/>
-<NPC id="1879079320" name="Posco Burrows"/>
-<NPC id="1879079321" name="Ember Hayes"/>
-<NPC id="1879079325" name="Woodcutter Hornbeam" title="key:620779631:229802005"/>
-<NPC id="1879079333" name="Filbert Burrows"/>
-<NPC id="1879079363" name="Atli Spider-bane"/>
-<NPC id="1879079365" name="Ann Granger"/>
+<NPC id="1879079320" name="Posco Burrows" gender="MALE"/>
+<NPC id="1879079321" name="Ember Hayes" gender="FEMALE"/>
+<NPC id="1879079325" name="Woodcutter Hornbeam" gender="MALE" title="key:620779631:229802005"/>
+<NPC id="1879079333" name="Filbert Burrows" gender="MALE"/>
+<NPC id="1879079363" name="Atli Spider-bane" gender="MALE"/>
+<NPC id="1879079365" name="Ann Granger" gender="FEMALE"/>
 <NPC id="1879079367" name="Hunter"/>
 <NPC id="1879079368" name="Guard"/>
 <NPC id="1879079369" name="Guard"/>
-<NPC id="1879079372" name="Nate Whisperwood"/>
-<NPC id="1879079471" name="Roderick Neeker-friend"/>
-<NPC id="1879079472" name="Sniken"/>
-<NPC id="1879079494" name="Barton Tyne"/>
-<NPC id="1879079537" name="Constable Bram Ashleaf"/>
-<NPC id="1879079540" name="Glynn Harper"/>
-<NPC id="1879079541" name="Sorel Dorson"/>
-<NPC id="1879079657" name="Defender of Ost Guruth"/>
-<NPC id="1879079749" name="Stanric"/>
-<NPC id="1879079819" name="Tortwil"/>
+<NPC id="1879079372" name="Nate Whisperwood" gender="MALE"/>
+<NPC id="1879079471" name="Roderick Neeker-friend" gender="MALE"/>
+<NPC id="1879079472" name="Sniken" gender="MALE"/>
+<NPC id="1879079494" name="Barton Tyne" gender="MALE"/>
+<NPC id="1879079537" name="Constable Bram Ashleaf" gender="MALE"/>
+<NPC id="1879079540" name="Glynn Harper" gender="MALE"/>
+<NPC id="1879079541" name="Sorel Dorson" gender="FEMALE"/>
+<NPC id="1879079657" name="Defender of Ost Guruth" gender="FEMALE"/>
+<NPC id="1879079749" name="Stanric" gender="MALE"/>
+<NPC id="1879079819" name="Tortwil" gender="MALE"/>
 <NPC id="1879079822" name="Reflecting Pool"/>
 <NPC id="1879079869" name="Earth-kin Hunter"/>
-<NPC id="1879079964" name="Warrior-shade"/>
-<NPC id="1879080388" name="Townsperson"/>
-<NPC id="1879080397" name="Peregrin Took"/>
-<NPC id="1879080403" name="Meriadoc Brandybuck"/>
-<NPC id="1879080406" name="Malthenor"/>
-<NPC id="1879080429" name="Vighar Roadwalker"/>
+<NPC id="1879079964" name="Warrior-shade" gender="MALE"/>
+<NPC id="1879080388" name="Townsperson" gender="MALE"/>
+<NPC id="1879080397" name="Peregrin Took" gender="MALE"/>
+<NPC id="1879080403" name="Meriadoc Brandybuck" gender="MALE"/>
+<NPC id="1879080406" name="Malthenor" gender="FEMALE"/>
+<NPC id="1879080429" name="Vighar Roadwalker" gender="MALE"/>
 <NPC id="1879080455" name="Reflecting Pool"/>
-<NPC id="1879080552" name="Fell Spirit"/>
+<NPC id="1879080552" name="Fell Spirit" gender="MALE"/>
 <NPC id="1879080635" name="Deer"/>
-<NPC id="1879080644" name="Uglash" title="key:620781843:229802005"/>
-<NPC id="1879080689" name="Erynwen"/>
-<NPC id="1879080709" name="Ormr"/>
-<NPC id="1879080710" name="Nefi Gemcutter"/>
-<NPC id="1879080714" name="Gísli"/>
-<NPC id="1879080722" name="Tryggwi"/>
-<NPC id="1879080723" name="Unnarr"/>
-<NPC id="1879080725" name="Dourhand Dwarf"/>
-<NPC id="1879080728" name="Gagi Cloudbrow"/>
+<NPC id="1879080644" name="Uglash" gender="MALE" title="key:620781843:229802005"/>
+<NPC id="1879080689" name="Erynwen" gender="FEMALE"/>
+<NPC id="1879080709" name="Ormr" gender="MALE"/>
+<NPC id="1879080710" name="Nefi Gemcutter" gender="MALE"/>
+<NPC id="1879080714" name="Gísli" gender="MALE"/>
+<NPC id="1879080722" name="Tryggwi" gender="MALE"/>
+<NPC id="1879080723" name="Unnarr" gender="MALE"/>
+<NPC id="1879080725" name="Dourhand Dwarf" gender="MALE"/>
+<NPC id="1879080728" name="Gagi Cloudbrow" gender="MALE"/>
 <NPC id="1879080731" name="Reflecting Pool"/>
-<NPC id="1879080738" name="Flosi"/>
-<NPC id="1879080766" name="Selur"/>
-<NPC id="1879080770" name="Orodlin"/>
-<NPC id="1879080773" name="Vífill"/>
-<NPC id="1879080777" name="Grímkell Stonebearer"/>
-<NPC id="1879080783" name="Bolli"/>
-<NPC id="1879080791" name="Miner Onar" title="key:620780507:229802005"/>
+<NPC id="1879080738" name="Flosi" gender="MALE"/>
+<NPC id="1879080766" name="Selur" gender="MALE"/>
+<NPC id="1879080770" name="Orodlin" gender="MALE"/>
+<NPC id="1879080773" name="Vífill" gender="MALE"/>
+<NPC id="1879080777" name="Grímkell Stonebearer" gender="MALE"/>
+<NPC id="1879080783" name="Bolli" gender="MALE"/>
+<NPC id="1879080791" name="Miner Onar" gender="MALE" title="key:620780507:229802005"/>
 <NPC id="1879080832" name="Goblin"/>
-<NPC id="1879080833" name="Guard"/>
-<NPC id="1879080837" name="Guard"/>
-<NPC id="1879080840" name="Skorgrím"/>
-<NPC id="1879080841" name="Dorongúr Whitethorn"/>
+<NPC id="1879080833" name="Guard" gender="MALE"/>
+<NPC id="1879080837" name="Guard" gender="FEMALE"/>
+<NPC id="1879080840" name="Skorgrím" gender="MALE"/>
+<NPC id="1879080841" name="Dorongúr Whitethorn" gender="MALE"/>
 <NPC id="1879080845" name="Snow-troll"/>
 <NPC id="1879080859" name="Goblin"/>
 <NPC id="1879080860" name="Goblin"/>
-<NPC id="1879080890" name="Kolskegg Gemcounter"/>
+<NPC id="1879080890" name="Kolskegg Gemcounter" gender="MALE"/>
 <NPC id="1879080891" name="Aurochs"/>
-<NPC id="1879080892" name="Solvi Scrollbearer"/>
-<NPC id="1879080900" name="Efi Plateshaper"/>
-<NPC id="1879080901" name="Ingi Steambeard"/>
-<NPC id="1879080942" name="Thrasi"/>
+<NPC id="1879080892" name="Solvi Scrollbearer" gender="MALE"/>
+<NPC id="1879080900" name="Efi Plateshaper" gender="MALE"/>
+<NPC id="1879080901" name="Ingi Steambeard" gender="MALE"/>
+<NPC id="1879080942" name="Thrasi" gender="MALE"/>
 <NPC id="1879080951" name="Abandoned Den"/>
 <NPC id="1879080956" name="Lynx-cub"/>
-<NPC id="1879081003" name="Dongandel"/>
-<NPC id="1879081051" name="Bartelot Took"/>
-<NPC id="1879081062" name="Olnathron"/>
-<NPC id="1879081067" name="Váli"/>
-<NPC id="1879081068" name="Bôrk" title="key:620780700:229802005"/>
-<NPC id="1879081069" name="Lengloth"/>
-<NPC id="1879081070" name="Lovenol"/>
-<NPC id="1879081071" name="Silith"/>
-<NPC id="1879081072" name="Penny Took"/>
-<NPC id="1879081073" name="Gareth Copp"/>
-<NPC id="1879081074" name="Emma Slee"/>
-<NPC id="1879081075" name="Arch Widdup"/>
-<NPC id="1879081197" name="Mattie Woodruff"/>
-<NPC id="1879081198" name="Noll Tobbit"/>
-<NPC id="1879081205" name="Elsie Woodruff"/>
-<NPC id="1879081266" name="Marla Shelton"/>
-<NPC id="1879081267" name="Kemp the Wheelwright"/>
-<NPC id="1879081325" name="Agnes Martlet"/>
-<NPC id="1879081329" name="Camilla Peake"/>
-<NPC id="1879081331" name="Nathan Hodges"/>
-<NPC id="1879081334" name="Iorhu"/>
-<NPC id="1879081405" name="Raidmaster Hargrut"/>
-<NPC id="1879081415" name="Lieutenant Thistlebur"/>
+<NPC id="1879081003" name="Dongandel" gender="MALE"/>
+<NPC id="1879081051" name="Bartelot Took" gender="MALE"/>
+<NPC id="1879081062" name="Olnathron" gender="FEMALE"/>
+<NPC id="1879081067" name="Váli" gender="MALE"/>
+<NPC id="1879081068" name="Bôrk" gender="MALE" title="key:620780700:229802005"/>
+<NPC id="1879081069" name="Lengloth" gender="FEMALE"/>
+<NPC id="1879081070" name="Lovenol" gender="FEMALE"/>
+<NPC id="1879081071" name="Silith" gender="MALE"/>
+<NPC id="1879081072" name="Penny Took" gender="FEMALE"/>
+<NPC id="1879081073" name="Gareth Copp" gender="MALE"/>
+<NPC id="1879081074" name="Emma Slee" gender="FEMALE"/>
+<NPC id="1879081075" name="Arch Widdup" gender="MALE"/>
+<NPC id="1879081197" name="Mattie Woodruff" gender="MALE"/>
+<NPC id="1879081198" name="Noll Tobbit" gender="MALE"/>
+<NPC id="1879081205" name="Elsie Woodruff" gender="FEMALE"/>
+<NPC id="1879081266" name="Marla Shelton" gender="FEMALE"/>
+<NPC id="1879081267" name="Kemp the Wheelwright" gender="MALE"/>
+<NPC id="1879081325" name="Agnes Martlet" gender="FEMALE"/>
+<NPC id="1879081329" name="Camilla Peake" gender="FEMALE"/>
+<NPC id="1879081331" name="Nathan Hodges" gender="MALE"/>
+<NPC id="1879081334" name="Iorhu" gender="MALE"/>
+<NPC id="1879081405" name="Raidmaster Hargrut" gender="MALE"/>
+<NPC id="1879081415" name="Lieutenant Thistlebur" gender="MALE"/>
 <NPC id="1879081460" name="Black Fire Crate"/>
-<NPC id="1879081553" name="Medlichen"/>
-<NPC id="1879081579" name="Thaliollang"/>
-<NPC id="1879081582" name="Baranwen"/>
-<NPC id="1879081584" name="Gandelin"/>
-<NPC id="1879081586" name="Silefalas"/>
+<NPC id="1879081553" name="Medlichen" gender="MALE"/>
+<NPC id="1879081579" name="Thaliollang" gender="MALE"/>
+<NPC id="1879081582" name="Baranwen" gender="FEMALE"/>
+<NPC id="1879081584" name="Gandelin" gender="FEMALE"/>
+<NPC id="1879081586" name="Silefalas" gender="FEMALE"/>
 <NPC id="1879081596" name="Bog-guardian"/>
-<NPC id="1879081597" name="Townsperson"/>
-<NPC id="1879081598" name="Townsperson"/>
-<NPC id="1879081599" name="Holly"/>
-<NPC id="1879081634" name="Quartermaster Orgrin"/>
-<NPC id="1879081636" name="Birgir Listmaker"/>
-<NPC id="1879081637" name="Hlája Sagasong"/>
-<NPC id="1879081652" name="Iivari"/>
-<NPC id="1879081657" name="Oskari"/>
-<NPC id="1879081680" name="Holger Tanner"/>
+<NPC id="1879081597" name="Townsperson" gender="FEMALE"/>
+<NPC id="1879081598" name="Townsperson" gender="MALE"/>
+<NPC id="1879081599" name="Holly" gender="FEMALE"/>
+<NPC id="1879081634" name="Quartermaster Orgrin" gender="MALE"/>
+<NPC id="1879081636" name="Birgir Listmaker" gender="MALE"/>
+<NPC id="1879081637" name="Hlája Sagasong" gender="MALE"/>
+<NPC id="1879081652" name="Iivari" gender="MALE"/>
+<NPC id="1879081657" name="Oskari" gender="MALE"/>
+<NPC id="1879081680" name="Holger Tanner" gender="MALE"/>
 <NPC id="1879081697" name="Squirrel"/>
-<NPC id="1879081705" name="Celephadh"/>
+<NPC id="1879081705" name="Celephadh" gender="MALE"/>
 <NPC id="1879081754" name="Chronicle of the Mount Gram Invasion"/>
-<NPC id="1879081764" name="Hobbit Farmer"/>
+<NPC id="1879081764" name="Hobbit Farmer" gender="MALE"/>
 <NPC id="1879081776" name="Tribesman"/>
-<NPC id="1879081784" name="Taraghlan"/>
-<NPC id="1879081785" name="Lakhina"/>
-<NPC id="1879081786" name="Taran"/>
-<NPC id="1879081787" name="Cuinthorn"/>
+<NPC id="1879081784" name="Taraghlan" gender="MALE"/>
+<NPC id="1879081785" name="Lakhina" gender="FEMALE"/>
+<NPC id="1879081786" name="Taran" gender="MALE"/>
+<NPC id="1879081787" name="Cuinthorn" gender="FEMALE"/>
 <NPC id="1879081788" name="Clan Hunter"/>
 <NPC id="1879081789" name="Clan Herder"/>
-<NPC id="1879081818" name="Othran"/>
-<NPC id="1879081867" name="Aarnikka"/>
-<NPC id="1879081877" name="Raith"/>
-<NPC id="1879081879" name="Soltakh"/>
+<NPC id="1879081818" name="Othran" gender="MALE"/>
+<NPC id="1879081867" name="Aarnikka" gender="MALE"/>
+<NPC id="1879081877" name="Raith" gender="MALE"/>
+<NPC id="1879081879" name="Soltakh" gender="MALE"/>
 <NPC id="1879081902" name="Reflecting Pool"/>
-<NPC id="1879081993" name="Lady of the Circle"/>
-<NPC id="1879082095" name="Sara Oakheart"/>
-<NPC id="1879082184" name="Cormag"/>
-<NPC id="1879082189" name="Lornë"/>
-<NPC id="1879082223" name="Dwarf-prisoner"/>
-<NPC id="1879082224" name="Elf-prisoner"/>
-<NPC id="1879082225" name="Man-prisoner"/>
-<NPC id="1879082226" name="Elf-prisoner"/>
-<NPC id="1879082227" name="Man-prisoner"/>
-<NPC id="1879082252" name="Rodakhan"/>
+<NPC id="1879081993" name="Lady of the Circle" gender="FEMALE"/>
+<NPC id="1879082095" name="Sara Oakheart" gender="FEMALE"/>
+<NPC id="1879082184" name="Cormag" gender="MALE"/>
+<NPC id="1879082189" name="Lornë" gender="FEMALE"/>
+<NPC id="1879082223" name="Dwarf-prisoner" gender="MALE"/>
+<NPC id="1879082224" name="Elf-prisoner" gender="FEMALE"/>
+<NPC id="1879082225" name="Man-prisoner" gender="FEMALE"/>
+<NPC id="1879082226" name="Elf-prisoner" gender="MALE"/>
+<NPC id="1879082227" name="Man-prisoner" gender="MALE"/>
+<NPC id="1879082252" name="Rodakhan" gender="MALE"/>
 <NPC id="1879082444" name="Eithel Úmfaer"/>
 <NPC id="1879082447" name="Spirit of Morgoth"/>
-<NPC id="1879082465" name="Nethraw"/>
-<NPC id="1879083432" name="Wárr Ink-sleeve" title="key:620782270:229802005"/>
-<NPC id="1879083436" name="Black Rider"/>
-<NPC id="1879083452" name="Tvistur"/>
+<NPC id="1879082465" name="Nethraw" gender="MALE"/>
+<NPC id="1879083432" name="Wárr Ink-sleeve" gender="MALE" title="key:620782270:229802005"/>
+<NPC id="1879083436" name="Black Rider" gender="MALE"/>
+<NPC id="1879083452" name="Tvistur" gender="MALE"/>
 <NPC id="1879083456" name="Cave-claw"/>
-<NPC id="1879083480" name="Skorgrím"/>
-<NPC id="1879083481" name="Ivar the Blood-hand"/>
-<NPC id="1879083559" name="Ivar the Blood-hand"/>
+<NPC id="1879083480" name="Skorgrím" gender="MALE"/>
+<NPC id="1879083481" name="Ivar the Blood-hand" gender="MALE"/>
+<NPC id="1879083559" name="Ivar the Blood-hand" gender="MALE"/>
 <NPC id="1879083608" name="Guard"/>
-<NPC id="1879083624" name="Harvi the Mapmaker"/>
-<NPC id="1879083632" name="Watcher"/>
-<NPC id="1879083633" name="Tate Puddifoot"/>
-<NPC id="1879083663" name="Townsperson"/>
-<NPC id="1879083682" name="Grobo Dogwort"/>
-<NPC id="1879083683" name="Reniolind"/>
+<NPC id="1879083624" name="Harvi the Mapmaker" gender="MALE"/>
+<NPC id="1879083632" name="Watcher" gender="MALE"/>
+<NPC id="1879083633" name="Tate Puddifoot" gender="MALE"/>
+<NPC id="1879083663" name="Townsperson" gender="FEMALE"/>
+<NPC id="1879083682" name="Grobo Dogwort" gender="MALE"/>
+<NPC id="1879083683" name="Reniolind" gender="MALE"/>
 <NPC id="1879083684" name="Ruffian"/>
 <NPC id="1879083685" name="Chicken"/>
 <NPC id="1879083686" name="Chicken"/>
-<NPC id="1879083705" name="Guleneth" title="key:620782579:229802005"/>
-<NPC id="1879083750" name="Sigrun"/>
-<NPC id="1879083751" name="Greip"/>
-<NPC id="1879083752" name="Ormulf Worm-hunter"/>
-<NPC id="1879083753" name="Wegeir"/>
-<NPC id="1879083754" name="Anornaneth"/>
-<NPC id="1879083755" name="Gonediad"/>
+<NPC id="1879083705" name="Guleneth" gender="MALE" title="key:620782579:229802005"/>
+<NPC id="1879083750" name="Sigrun" gender="MALE"/>
+<NPC id="1879083751" name="Greip" gender="MALE"/>
+<NPC id="1879083752" name="Ormulf Worm-hunter" gender="MALE"/>
+<NPC id="1879083753" name="Wegeir" gender="MALE"/>
+<NPC id="1879083754" name="Anornaneth" gender="FEMALE"/>
+<NPC id="1879083755" name="Gonediad" gender="MALE"/>
 <NPC id="1879083867" name="Test CP Controller"/>
-<NPC id="1879083975" name="Efa" title="key:620782795:229802005"/>
+<NPC id="1879083975" name="Efa" gender="FEMALE" title="key:620782795:229802005"/>
 <NPC id="1879084125" name="Ongbúrz Archer"/>
 <NPC id="1879084126" name="Broodling"/>
 <NPC id="1879084127" name="Warg Scout"/>
@@ -1218,382 +1218,382 @@
 <NPC id="1879084129" name="Ongbúrz Troll"/>
 <NPC id="1879084130" name="Ongbúrz Warrior"/>
 <NPC id="1879084146" name="Reflecting Pool"/>
-<NPC id="1879084156" name="Giric" title="key:620787844:229802005"/>
+<NPC id="1879084156" name="Giric" gender="MALE" title="key:620787844:229802005"/>
 <NPC id="1879084163" name="Aslak"/>
 <NPC id="1879084164" name="Pirkka"/>
 <NPC id="1879084165" name="Reko"/>
 <NPC id="1879084166" name="Eetu"/>
 <NPC id="1879084167" name="Santtu"/>
-<NPC id="1879084228" name="Bilbo Baggins"/>
-<NPC id="1879084229" name="Deluros"/>
-<NPC id="1879084230" name="Elrond"/>
-<NPC id="1879084231" name="Glóin"/>
-<NPC id="1879084232" name="Greip"/>
-<NPC id="1879084234" name="Sigrun"/>
-<NPC id="1879084236" name="Calbeniel" title="key:620783084:229802005"/>
-<NPC id="1879084237" name="Vault-keeper" title="key:620783042:229802005"/>
-<NPC id="1879084238" name="Vault-keeper" title="key:620783043:229802005"/>
+<NPC id="1879084228" name="Bilbo Baggins" gender="MALE"/>
+<NPC id="1879084229" name="Deluros" gender="MALE"/>
+<NPC id="1879084230" name="Elrond" gender="MALE"/>
+<NPC id="1879084231" name="Glóin" gender="MALE"/>
+<NPC id="1879084232" name="Greip" gender="MALE"/>
+<NPC id="1879084234" name="Sigrun" gender="MALE"/>
+<NPC id="1879084236" name="Calbeniel" gender="FEMALE" title="key:620783084:229802005"/>
+<NPC id="1879084237" name="Vault-keeper" gender="FEMALE" title="key:620783042:229802005"/>
+<NPC id="1879084238" name="Vault-keeper" gender="FEMALE" title="key:620783043:229802005"/>
 <NPC id="1879084246" name="Supplier" title="key:620788018:229802005"/>
-<NPC id="1879084250" name="Arwen"/>
-<NPC id="1879084544" name="Ranger"/>
-<NPC id="1879085054" name="Watcher"/>
-<NPC id="1879085581" name="Murdaigán"/>
-<NPC id="1879085620" name="Sovairlë" title="key:620788019:229802005"/>
-<NPC id="1879085683" name="Captain Brackenbrook"/>
-<NPC id="1879085690" name="Ailsa"/>
-<NPC id="1879085696" name="Cána"/>
-<NPC id="1879085862" name="Tearlach" title="key:620789370:229802005"/>
-<NPC id="1879085863" name="Bonny Thatcher" title="key:620789371:229802005"/>
-<NPC id="1879085864" name="Serlo Brockhouse" title="key:620789372:229802005"/>
-<NPC id="1879085865" name="Leofric Brandybuck" title="key:620789373:229802005"/>
-<NPC id="1879085866" name="Rosebud Bolger" title="key:620789374:229802005"/>
-<NPC id="1879085867" name="Aglallen" title="key:620789375:229802005"/>
-<NPC id="1879085868" name="Todd Brushwood" title="key:620789376:229802005"/>
-<NPC id="1879085869" name="Rudbessain" title="key:620789377:229802005"/>
-<NPC id="1879085870" name="Áfast" title="key:620789378:229802005"/>
-<NPC id="1879085871" name="Marigold Grubb" title="key:620789379:229802005"/>
-<NPC id="1879085872" name="Farald" title="key:620789380:229802005"/>
-<NPC id="1879085873" name="Raenfer" title="key:620789381:229802005"/>
-<NPC id="1879085874" name="Gilfiniel" title="key:620789382:229802005"/>
-<NPC id="1879085875" name="Hatt" title="key:620789383:229802005"/>
-<NPC id="1879085876" name="Walter Mabbot" title="key:620789384:229802005"/>
-<NPC id="1879085891" name="Naeremil" title="key:620789391:229802005"/>
-<NPC id="1879085903" name="Nomad Provisioner" title="key:620789404:229802005"/>
-<NPC id="1879085904" name="Nomad Healer" title="key:620789403:229802005"/>
-<NPC id="1879086466" name="Malgannel" title="key:620789484:229802005"/>
-<NPC id="1879086609" name="Hallam Comfrey" title="key:620789524:229802005"/>
-<NPC id="1879086688" name="Aragorn"/>
-<NPC id="1879086689" name="Arwen"/>
-<NPC id="1879086690" name="Bilbo Baggins"/>
-<NPC id="1879086694" name="Elrond"/>
-<NPC id="1879086695" name="Frodo Baggins"/>
-<NPC id="1879086696" name="Gandalf"/>
-<NPC id="1879086699" name="Hemeldir"/>
-<NPC id="1879086718" name="Orso" title="key:620789560:229802005"/>
-<NPC id="1879086810" name="Balchelos"/>
-<NPC id="1879086811" name="Calatherdir"/>
-<NPC id="1879086812" name="Culang"/>
-<NPC id="1879086813" name="Sid Waring"/>
-<NPC id="1879086814" name="Gil Symes"/>
-<NPC id="1879086815" name="Humfrey Rumming"/>
-<NPC id="1879086816" name="Hob Hillbrow"/>
-<NPC id="1879086818" name="Hal Gamgee"/>
-<NPC id="1879086819" name="Nod Gardener"/>
-<NPC id="1879086820" name="Nibs Chubb"/>
-<NPC id="1879086821" name="Balbo Brockhouse"/>
-<NPC id="1879086832" name="Ronald Dwale"/>
-<NPC id="1879086852" name="Calenglad"/>
-<NPC id="1879086853" name="Gwindeth"/>
-<NPC id="1879086854" name="Robin Dunkley"/>
-<NPC id="1879086855" name="Astiul"/>
-<NPC id="1879086856" name="Forchon"/>
-<NPC id="1879086857" name="Naethmunn"/>
-<NPC id="1879086858" name="Unfriendly Man"/>
-<NPC id="1879086859" name="Nat Rapkins"/>
-<NPC id="1879087060" name="Longbough"/>
-<NPC id="1879087178" name="Lithuifin" title="key:620789902:229802005"/>
-<NPC id="1879087179" name="Erchiel" title="key:620789903:229802005"/>
-<NPC id="1879087456" name="Litli"/>
-<NPC id="1879087499" name="Maid of Lions" title="key:620790128:229802005"/>
-<NPC id="1879087500" name="Constant Gardener" title="key:620790129:229802005"/>
-<NPC id="1879087501" name="Amlug" title="key:620790130:229802005"/>
-<NPC id="1879087502" name="Keth" title="key:620790131:229802005"/>
-<NPC id="1879087550" name="Rhidden" title="key:620790172:229802005"/>
+<NPC id="1879084250" name="Arwen" gender="FEMALE"/>
+<NPC id="1879084544" name="Ranger" gender="MALE"/>
+<NPC id="1879085054" name="Watcher" gender="FEMALE"/>
+<NPC id="1879085581" name="Murdaigán" gender="MALE"/>
+<NPC id="1879085620" name="Sovairlë" gender="MALE" title="key:620788019:229802005"/>
+<NPC id="1879085683" name="Captain Brackenbrook" gender="MALE"/>
+<NPC id="1879085690" name="Ailsa" gender="FEMALE"/>
+<NPC id="1879085696" name="Cána" gender="FEMALE"/>
+<NPC id="1879085862" name="Tearlach" gender="MALE" title="key:620789370:229802005"/>
+<NPC id="1879085863" name="Bonny Thatcher" gender="FEMALE" title="key:620789371:229802005"/>
+<NPC id="1879085864" name="Serlo Brockhouse" gender="MALE" title="key:620789372:229802005"/>
+<NPC id="1879085865" name="Leofric Brandybuck" gender="MALE" title="key:620789373:229802005"/>
+<NPC id="1879085866" name="Rosebud Bolger" gender="FEMALE" title="key:620789374:229802005"/>
+<NPC id="1879085867" name="Aglallen" gender="MALE" title="key:620789375:229802005"/>
+<NPC id="1879085868" name="Todd Brushwood" gender="MALE" title="key:620789376:229802005"/>
+<NPC id="1879085869" name="Rudbessain" gender="FEMALE" title="key:620789377:229802005"/>
+<NPC id="1879085870" name="Áfast" gender="MALE" title="key:620789378:229802005"/>
+<NPC id="1879085871" name="Marigold Grubb" gender="FEMALE" title="key:620789379:229802005"/>
+<NPC id="1879085872" name="Farald" gender="MALE" title="key:620789380:229802005"/>
+<NPC id="1879085873" name="Raenfer" gender="MALE" title="key:620789381:229802005"/>
+<NPC id="1879085874" name="Gilfiniel" gender="FEMALE" title="key:620789382:229802005"/>
+<NPC id="1879085875" name="Hatt" gender="MALE" title="key:620789383:229802005"/>
+<NPC id="1879085876" name="Walter Mabbot" gender="MALE" title="key:620789384:229802005"/>
+<NPC id="1879085891" name="Naeremil" gender="FEMALE" title="key:620789391:229802005"/>
+<NPC id="1879085903" name="Nomad Provisioner" gender="FEMALE" title="key:620789404:229802005"/>
+<NPC id="1879085904" name="Nomad Healer" gender="MALE" title="key:620789403:229802005"/>
+<NPC id="1879086466" name="Malgannel" gender="MALE" title="key:620789484:229802005"/>
+<NPC id="1879086609" name="Hallam Comfrey" gender="MALE" title="key:620789524:229802005"/>
+<NPC id="1879086688" name="Aragorn" gender="MALE"/>
+<NPC id="1879086689" name="Arwen" gender="FEMALE"/>
+<NPC id="1879086690" name="Bilbo Baggins" gender="MALE"/>
+<NPC id="1879086694" name="Elrond" gender="MALE"/>
+<NPC id="1879086695" name="Frodo Baggins" gender="MALE"/>
+<NPC id="1879086696" name="Gandalf" gender="MALE"/>
+<NPC id="1879086699" name="Hemeldir" gender="MALE"/>
+<NPC id="1879086718" name="Orso" gender="MALE" title="key:620789560:229802005"/>
+<NPC id="1879086810" name="Balchelos" gender="MALE"/>
+<NPC id="1879086811" name="Calatherdir" gender="MALE"/>
+<NPC id="1879086812" name="Culang" gender="MALE"/>
+<NPC id="1879086813" name="Sid Waring" gender="MALE"/>
+<NPC id="1879086814" name="Gil Symes" gender="MALE"/>
+<NPC id="1879086815" name="Humfrey Rumming" gender="MALE"/>
+<NPC id="1879086816" name="Hob Hillbrow" gender="MALE"/>
+<NPC id="1879086818" name="Hal Gamgee" gender="MALE"/>
+<NPC id="1879086819" name="Nod Gardener" gender="MALE"/>
+<NPC id="1879086820" name="Nibs Chubb" gender="MALE"/>
+<NPC id="1879086821" name="Balbo Brockhouse" gender="MALE"/>
+<NPC id="1879086832" name="Ronald Dwale" gender="MALE"/>
+<NPC id="1879086852" name="Calenglad" gender="MALE"/>
+<NPC id="1879086853" name="Gwindeth" gender="FEMALE"/>
+<NPC id="1879086854" name="Robin Dunkley" gender="MALE"/>
+<NPC id="1879086855" name="Astiul" gender="MALE"/>
+<NPC id="1879086856" name="Forchon" gender="MALE"/>
+<NPC id="1879086857" name="Naethmunn" gender="MALE"/>
+<NPC id="1879086858" name="Unfriendly Man" gender="MALE"/>
+<NPC id="1879086859" name="Nat Rapkins" gender="MALE"/>
+<NPC id="1879087060" name="Longbough" gender="MALE"/>
+<NPC id="1879087178" name="Lithuifin" gender="MALE" title="key:620789902:229802005"/>
+<NPC id="1879087179" name="Erchiel" gender="FEMALE" title="key:620789903:229802005"/>
+<NPC id="1879087456" name="Litli" gender="MALE"/>
+<NPC id="1879087499" name="Maid of Lions" gender="FEMALE" title="key:620790128:229802005"/>
+<NPC id="1879087500" name="Constant Gardener" gender="MALE" title="key:620790129:229802005"/>
+<NPC id="1879087501" name="Amlug" gender="MALE" title="key:620790130:229802005"/>
+<NPC id="1879087502" name="Keth" gender="MALE" title="key:620790131:229802005"/>
+<NPC id="1879087550" name="Rhidden" gender="MALE" title="key:620790172:229802005"/>
 <NPC id="1879087592" name="Tavern Keep" title="key:620790196:229802005"/>
-<NPC id="1879087614" name="Basil Gummidge" title="key:620790213:229802005"/>
+<NPC id="1879087614" name="Basil Gummidge" gender="MALE" title="key:620790213:229802005"/>
 <NPC id="1879087653" name="Town Crier"/>
 <NPC id="1879087654" name="Town Crier"/>
 <NPC id="1879087656" name="Town Crier"/>
 <NPC id="1879087659" name="Town Crier"/>
-<NPC id="1879087660" name="Ada Musgrove" title="key:620790263:229802005"/>
-<NPC id="1879087661" name="Robert Greenverge"/>
-<NPC id="1879087663" name="Amabel Redfern" title="key:620790269:229802005"/>
-<NPC id="1879087664" name="Galmi" title="key:620790271:229802005"/>
-<NPC id="1879087665" name="Ambi"/>
-<NPC id="1879087666" name="Haggo Boffin" title="key:620790275:229802005"/>
-<NPC id="1879087667" name="Carnelian Bracegirdle" title="key:620790277:229802005"/>
-<NPC id="1879087668" name="Oger Brockhouse" title="key:620790278:229802005"/>
-<NPC id="1879087669" name="Foxglove Tunnelly"/>
-<NPC id="1879087670" name="Ailward Chubb" title="key:620790280:229802005"/>
-<NPC id="1879087671" name="Bluebell Grubb" title="key:620790281:229802005"/>
-<NPC id="1879087672" name="Ernulf Brandybuck" title="key:620790244:229802005"/>
-<NPC id="1879087673" name="Daylily Bolger" title="key:620790245:229802005"/>
-<NPC id="1879087674" name="Fulk Proudfoot" title="key:620790246:229802005"/>
-<NPC id="1879087675" name="Moonlight Sandheaver" title="key:620790247:229802005"/>
-<NPC id="1879087676" name="Ioco Underhill" title="key:620790248:229802005"/>
-<NPC id="1879087677" name="Nedhrien" title="key:620790250:229802005"/>
-<NPC id="1879087678" name="Lalfor"/>
-<NPC id="1879087679" name="Alger Hazelhurst" title="key:620790254:229802005"/>
-<NPC id="1879087680" name="Bernard Oaksey" title="key:620790256:229802005"/>
-<NPC id="1879087681" name="Liv Selwood" title="key:620790258:229802005"/>
-<NPC id="1879087682" name="Húni" title="key:620790260:229802005"/>
-<NPC id="1879087683" name="Sparr" title="key:620790262:229802005"/>
-<NPC id="1879087684" name="Oxi" title="key:620790264:229802005"/>
-<NPC id="1879087685" name="Glad Goodbody" title="key:620790266:229802005"/>
-<NPC id="1879087686" name="Heartsease Whitfoot" title="key:620790268:229802005"/>
-<NPC id="1879087687" name="Turbert Took" title="key:620790270:229802005"/>
-<NPC id="1879087688" name="Dringil" title="key:620790272:229802005"/>
-<NPC id="1879087689" name="Noreth" title="key:620790274:229802005"/>
-<NPC id="1879087690" name="Gaeriel" title="key:620790276:229802005"/>
-<NPC id="1879087701" name="Carlo Williams"/>
-<NPC id="1879087702" name="Jack Lewisdown"/>
-<NPC id="1879087703" name="Owen Farfield"/>
-<NPC id="1879087781" name="Gwindeth"/>
-<NPC id="1879088152" name="Andy Deepwell" title="key:620790714:229802005"/>
-<NPC id="1879088153" name="Nat Collop" title="key:620790715:229802005"/>
-<NPC id="1879088154" name="Walerand Puddy" title="key:620790713:229802005"/>
-<NPC id="1879088540" name="Coldfells Quartermaster" title="key:620790719:229802005"/>
+<NPC id="1879087660" name="Ada Musgrove" gender="FEMALE" title="key:620790263:229802005"/>
+<NPC id="1879087661" name="Robert Greenverge" gender="MALE"/>
+<NPC id="1879087663" name="Amabel Redfern" gender="FEMALE" title="key:620790269:229802005"/>
+<NPC id="1879087664" name="Galmi" gender="MALE" title="key:620790271:229802005"/>
+<NPC id="1879087665" name="Ambi" gender="MALE"/>
+<NPC id="1879087666" name="Haggo Boffin" gender="MALE" title="key:620790275:229802005"/>
+<NPC id="1879087667" name="Carnelian Bracegirdle" gender="FEMALE" title="key:620790277:229802005"/>
+<NPC id="1879087668" name="Oger Brockhouse" gender="MALE" title="key:620790278:229802005"/>
+<NPC id="1879087669" name="Foxglove Tunnelly" gender="FEMALE"/>
+<NPC id="1879087670" name="Ailward Chubb" gender="MALE" title="key:620790280:229802005"/>
+<NPC id="1879087671" name="Bluebell Grubb" gender="FEMALE" title="key:620790281:229802005"/>
+<NPC id="1879087672" name="Ernulf Brandybuck" gender="MALE" title="key:620790244:229802005"/>
+<NPC id="1879087673" name="Daylily Bolger" gender="FEMALE" title="key:620790245:229802005"/>
+<NPC id="1879087674" name="Fulk Proudfoot" gender="MALE" title="key:620790246:229802005"/>
+<NPC id="1879087675" name="Moonlight Sandheaver" gender="FEMALE" title="key:620790247:229802005"/>
+<NPC id="1879087676" name="Ioco Underhill" gender="MALE" title="key:620790248:229802005"/>
+<NPC id="1879087677" name="Nedhrien" gender="FEMALE" title="key:620790250:229802005"/>
+<NPC id="1879087678" name="Lalfor" gender="MALE"/>
+<NPC id="1879087679" name="Alger Hazelhurst" gender="MALE" title="key:620790254:229802005"/>
+<NPC id="1879087680" name="Bernard Oaksey" gender="MALE" title="key:620790256:229802005"/>
+<NPC id="1879087681" name="Liv Selwood" gender="FEMALE" title="key:620790258:229802005"/>
+<NPC id="1879087682" name="Húni" gender="MALE" title="key:620790260:229802005"/>
+<NPC id="1879087683" name="Sparr" gender="MALE" title="key:620790262:229802005"/>
+<NPC id="1879087684" name="Oxi" gender="MALE" title="key:620790264:229802005"/>
+<NPC id="1879087685" name="Glad Goodbody" gender="FEMALE" title="key:620790266:229802005"/>
+<NPC id="1879087686" name="Heartsease Whitfoot" gender="FEMALE" title="key:620790268:229802005"/>
+<NPC id="1879087687" name="Turbert Took" gender="MALE" title="key:620790270:229802005"/>
+<NPC id="1879087688" name="Dringil" gender="FEMALE" title="key:620790272:229802005"/>
+<NPC id="1879087689" name="Noreth" gender="FEMALE" title="key:620790274:229802005"/>
+<NPC id="1879087690" name="Gaeriel" gender="FEMALE" title="key:620790276:229802005"/>
+<NPC id="1879087701" name="Carlo Williams" gender="MALE"/>
+<NPC id="1879087702" name="Jack Lewisdown" gender="MALE"/>
+<NPC id="1879087703" name="Owen Farfield" gender="MALE"/>
+<NPC id="1879087781" name="Gwindeth" gender="FEMALE"/>
+<NPC id="1879088152" name="Andy Deepwell" gender="MALE" title="key:620790714:229802005"/>
+<NPC id="1879088153" name="Nat Collop" gender="MALE" title="key:620790715:229802005"/>
+<NPC id="1879088154" name="Walerand Puddy" gender="MALE" title="key:620790713:229802005"/>
+<NPC id="1879088540" name="Coldfells Quartermaster" gender="MALE" title="key:620790719:229802005"/>
 <NPC id="1879088572" name="Sergeant-at-Arms Irminric"/>
 <NPC id="1879088573" name="Sergeant-at-Arms Igul"/>
 <NPC id="1879088574" name="Sergeant-at-Arms Saxburg"/>
 <NPC id="1879088575" name="Sergeant-at-Arms Glorellin"/>
-<NPC id="1879088659" name="Bert Yould"/>
-<NPC id="1879088696" name="Sara Oakheart"/>
-<NPC id="1879088739" name="Amarthiel"/>
-<NPC id="1879088740" name="Black Númenórean" title="key:620790907:229802005"/>
-<NPC id="1879088807" name="Calenglad"/>
-<NPC id="1879088958" name="Elf-smith"/>
-<NPC id="1879088981" name="Ferrif"/>
-<NPC id="1879089147" name="Pantlinn" title="key:620791151:229802005"/>
-<NPC id="1879089148" name="Birn Hornblower" title="key:620791152:229802005"/>
-<NPC id="1879089149" name="William Asquith" title="key:620791153:229802005"/>
-<NPC id="1879089150" name="Maggie Twilburr" title="key:620791154:229802005"/>
-<NPC id="1879089151" name="Fundo Delver" title="key:620791155:229802005"/>
-<NPC id="1879089152" name="Rundo Delver" title="key:620791156:229802005"/>
-<NPC id="1879089153" name="Dofri Gold-mead" title="key:620791157:229802005"/>
-<NPC id="1879089154" name="Orren Gresham" title="key:620791164:229802005"/>
-<NPC id="1879089155" name="Stan Chesham" title="key:620791158:229802005"/>
-<NPC id="1879089156" name="Dora Basing" title="key:620791159:229802005"/>
-<NPC id="1879089157" name="Owen Fairfax" title="key:620791165:229802005"/>
-<NPC id="1879089158" name="Prudence Dewey" title="key:620791166:229802005"/>
-<NPC id="1879089159" name="Nick Howell" title="key:620791167:229802005"/>
-<NPC id="1879089161" name="Derek Benchman" title="key:620791169:229802005"/>
-<NPC id="1879089163" name="Uiriel" title="key:620791160:229802005"/>
-<NPC id="1879089164" name="Rosebud Bolger" title="key:620791161:229802005"/>
-<NPC id="1879089165" name="Farald" title="key:620791162:229802005"/>
-<NPC id="1879089166" name="Rudbessain" title="key:620791163:229802005"/>
-<NPC id="1879089167" name="Dreda Penney" title="key:620791177:229802005"/>
-<NPC id="1879089168" name="Inurawen" title="key:620791171:229802005"/>
-<NPC id="1879089169" name="Uirod" title="key:620791172:229802005"/>
-<NPC id="1879089170" name="Tirnedhruith" title="key:620791173:229802005"/>
-<NPC id="1879089171" name="Cúlith" title="key:620791174:229802005"/>
-<NPC id="1879089172" name="Celairen" title="key:620791175:229802005"/>
-<NPC id="1879089173" name="Nírthathar" title="key:620791176:229802005"/>
-<NPC id="1879089473" name="Unity Tilden"/>
-<NPC id="1879089474" name="Harmony Grayson"/>
-<NPC id="1879089475" name="Halsey Reed"/>
-<NPC id="1879089476" name="Kelsey West"/>
-<NPC id="1879089504" name="Clark Standish"/>
-<NPC id="1879089505" name="Ballard Wilmer"/>
-<NPC id="1879089506" name="Rowena Parker"/>
-<NPC id="1879089507" name="Poppy Seaton"/>
-<NPC id="1879089508" name="Ferrod"/>
-<NPC id="1879089509" name="Torogethir"/>
-<NPC id="1879089510" name="Helechír"/>
-<NPC id="1879089512" name="Uidon"/>
-<NPC id="1879089513" name="Brúnfair"/>
+<NPC id="1879088659" name="Bert Yould" gender="MALE"/>
+<NPC id="1879088696" name="Sara Oakheart" gender="FEMALE"/>
+<NPC id="1879088739" name="Amarthiel" gender="FEMALE"/>
+<NPC id="1879088740" name="Black Númenórean" gender="MALE" title="key:620790907:229802005"/>
+<NPC id="1879088807" name="Calenglad" gender="MALE"/>
+<NPC id="1879088958" name="Elf-smith" gender="MALE"/>
+<NPC id="1879088981" name="Ferrif" gender="MALE"/>
+<NPC id="1879089147" name="Pantlinn" gender="MALE" title="key:620791151:229802005"/>
+<NPC id="1879089148" name="Birn Hornblower" gender="MALE" title="key:620791152:229802005"/>
+<NPC id="1879089149" name="William Asquith" gender="MALE" title="key:620791153:229802005"/>
+<NPC id="1879089150" name="Maggie Twilburr" gender="FEMALE" title="key:620791154:229802005"/>
+<NPC id="1879089151" name="Fundo Delver" gender="MALE" title="key:620791155:229802005"/>
+<NPC id="1879089152" name="Rundo Delver" gender="MALE" title="key:620791156:229802005"/>
+<NPC id="1879089153" name="Dofri Gold-mead" gender="MALE" title="key:620791157:229802005"/>
+<NPC id="1879089154" name="Orren Gresham" gender="FEMALE" title="key:620791164:229802005"/>
+<NPC id="1879089155" name="Stan Chesham" gender="MALE" title="key:620791158:229802005"/>
+<NPC id="1879089156" name="Dora Basing" gender="FEMALE" title="key:620791159:229802005"/>
+<NPC id="1879089157" name="Owen Fairfax" gender="MALE" title="key:620791165:229802005"/>
+<NPC id="1879089158" name="Prudence Dewey" gender="FEMALE" title="key:620791166:229802005"/>
+<NPC id="1879089159" name="Nick Howell" gender="MALE" title="key:620791167:229802005"/>
+<NPC id="1879089161" name="Derek Benchman" gender="MALE" title="key:620791169:229802005"/>
+<NPC id="1879089163" name="Uiriel" gender="FEMALE" title="key:620791160:229802005"/>
+<NPC id="1879089164" name="Rosebud Bolger" gender="FEMALE" title="key:620791161:229802005"/>
+<NPC id="1879089165" name="Farald" gender="MALE" title="key:620791162:229802005"/>
+<NPC id="1879089166" name="Rudbessain" gender="FEMALE" title="key:620791163:229802005"/>
+<NPC id="1879089167" name="Dreda Penney" gender="FEMALE" title="key:620791177:229802005"/>
+<NPC id="1879089168" name="Inurawen" gender="FEMALE" title="key:620791171:229802005"/>
+<NPC id="1879089169" name="Uirod" gender="MALE" title="key:620791172:229802005"/>
+<NPC id="1879089170" name="Tirnedhruith" gender="MALE" title="key:620791173:229802005"/>
+<NPC id="1879089171" name="Cúlith" gender="MALE" title="key:620791174:229802005"/>
+<NPC id="1879089172" name="Celairen" gender="FEMALE" title="key:620791175:229802005"/>
+<NPC id="1879089173" name="Nírthathar" gender="MALE" title="key:620791176:229802005"/>
+<NPC id="1879089473" name="Unity Tilden" gender="FEMALE"/>
+<NPC id="1879089474" name="Harmony Grayson" gender="FEMALE"/>
+<NPC id="1879089475" name="Halsey Reed" gender="MALE"/>
+<NPC id="1879089476" name="Kelsey West" gender="MALE"/>
+<NPC id="1879089504" name="Clark Standish" gender="MALE"/>
+<NPC id="1879089505" name="Ballard Wilmer" gender="MALE"/>
+<NPC id="1879089506" name="Rowena Parker" gender="FEMALE"/>
+<NPC id="1879089507" name="Poppy Seaton" gender="FEMALE"/>
+<NPC id="1879089508" name="Ferrod" gender="MALE"/>
+<NPC id="1879089509" name="Torogethir" gender="MALE"/>
+<NPC id="1879089510" name="Helechír" gender="MALE"/>
+<NPC id="1879089512" name="Uidon" gender="MALE"/>
+<NPC id="1879089513" name="Brúnfair" gender="MALE"/>
 <NPC id="1879089652" name="Reflecting Pool"/>
-<NPC id="1879089797" name="Bob Proudfoot"/>
-<NPC id="1879089816" name="Parr Chopley"/>
-<NPC id="1879089817" name="Spring Standish"/>
+<NPC id="1879089797" name="Bob Proudfoot" gender="MALE"/>
+<NPC id="1879089816" name="Parr Chopley" gender="MALE"/>
+<NPC id="1879089817" name="Spring Standish" gender="FEMALE"/>
 <NPC id="1879090262" name="Superior Repair Anvil" title="key:620792009:229802005"/>
 <NPC id="1879090263" name="Repair Anvil" title="key:620792010:229802005"/>
-<NPC id="1879090868" name="Badhordam"/>
-<NPC id="1879090870" name="Calaneth"/>
-<NPC id="1879090871" name="Cuguminuial"/>
-<NPC id="1879090872" name="Dannassel"/>
-<NPC id="1879090873" name="Eirieniel"/>
-<NPC id="1879090874" name="Rosselloth"/>
-<NPC id="1879090875" name="Fainneleg"/>
-<NPC id="1879090876" name="Amarthiel"/>
-<NPC id="1879090877" name="Glangilith"/>
-<NPC id="1879090878" name="Harthadril"/>
-<NPC id="1879090879" name="Legrindavor"/>
-<NPC id="1879090880" name="Rosselloth"/>
-<NPC id="1879090881" name="Ringlor"/>
-<NPC id="1879090882" name="Tadan"/>
-<NPC id="1879090883" name="Laerdan"/>
-<NPC id="1879091324" name="Mordrambor"/>
-<NPC id="1879091527" name="Torcall"/>
-<NPC id="1879091528" name="Maerchiniath"/>
-<NPC id="1879091529" name="Horace Roxhythe"/>
-<NPC id="1879091530" name="Hogahild"/>
-<NPC id="1879091531" name="Trumswith"/>
-<NPC id="1879091661" name="Annábla" title="key:620792622:229802005"/>
-<NPC id="1879091662" name="Hróar" title="key:620792624:229802005"/>
-<NPC id="1879091685" name="Tad Leafcutter" title="key:620792639:229802005"/>
-<NPC id="1879091686" name="Anglinn" title="key:620792640:229802005"/>
-<NPC id="1879091687" name="Maggie Smallwood" title="key:620792635:229802005"/>
-<NPC id="1879091688" name="Tórth" title="key:620792636:229802005"/>
-<NPC id="1879091689" name="Ásgeir" title="key:620792637:229802005"/>
-<NPC id="1879091690" name="Ísrath" title="key:620792638:229802005"/>
-<NPC id="1879092315" name="Imyl" title="key:620792885:229802005"/>
-<NPC id="1879092316" name="Cachúnir" title="key:620792887:229802005"/>
-<NPC id="1879092435" name="Cannuion" title="key:620792993:229802005"/>
-<NPC id="1879092436" name="Cannasgam" title="key:620792997:229802005"/>
-<NPC id="1879092437" name="Nethúr" title="key:620792998:229802005"/>
-<NPC id="1879092438" name="Techeron" title="key:620792999:229802005"/>
+<NPC id="1879090868" name="Badhordam" gender="MALE"/>
+<NPC id="1879090870" name="Calaneth" gender="FEMALE"/>
+<NPC id="1879090871" name="Cuguminuial" gender="FEMALE"/>
+<NPC id="1879090872" name="Dannassel" gender="FEMALE"/>
+<NPC id="1879090873" name="Eirieniel" gender="FEMALE"/>
+<NPC id="1879090874" name="Rosselloth" gender="FEMALE"/>
+<NPC id="1879090875" name="Fainneleg" gender="MALE"/>
+<NPC id="1879090876" name="Amarthiel" gender="FEMALE"/>
+<NPC id="1879090877" name="Glangilith" gender="MALE"/>
+<NPC id="1879090878" name="Harthadril" gender="FEMALE"/>
+<NPC id="1879090879" name="Legrindavor" gender="MALE"/>
+<NPC id="1879090880" name="Rosselloth" gender="FEMALE"/>
+<NPC id="1879090881" name="Ringlor" gender="FEMALE"/>
+<NPC id="1879090882" name="Tadan" gender="MALE"/>
+<NPC id="1879090883" name="Laerdan" gender="MALE"/>
+<NPC id="1879091324" name="Mordrambor" gender="MALE"/>
+<NPC id="1879091527" name="Torcall" gender="MALE"/>
+<NPC id="1879091528" name="Maerchiniath" gender="MALE"/>
+<NPC id="1879091529" name="Horace Roxhythe" gender="MALE"/>
+<NPC id="1879091530" name="Hogahild" gender="FEMALE"/>
+<NPC id="1879091531" name="Trumswith" gender="MALE"/>
+<NPC id="1879091661" name="Annábla" gender="FEMALE" title="key:620792622:229802005"/>
+<NPC id="1879091662" name="Hróar" gender="MALE" title="key:620792624:229802005"/>
+<NPC id="1879091685" name="Tad Leafcutter" gender="MALE" title="key:620792639:229802005"/>
+<NPC id="1879091686" name="Anglinn" gender="MALE" title="key:620792640:229802005"/>
+<NPC id="1879091687" name="Maggie Smallwood" gender="FEMALE" title="key:620792635:229802005"/>
+<NPC id="1879091688" name="Tórth" gender="MALE" title="key:620792636:229802005"/>
+<NPC id="1879091689" name="Ásgeir" gender="MALE" title="key:620792637:229802005"/>
+<NPC id="1879091690" name="Ísrath" gender="MALE" title="key:620792638:229802005"/>
+<NPC id="1879092315" name="Imyl" gender="FEMALE" title="key:620792885:229802005"/>
+<NPC id="1879092316" name="Cachúnir" gender="MALE" title="key:620792887:229802005"/>
+<NPC id="1879092435" name="Cannuion" gender="MALE" title="key:620792993:229802005"/>
+<NPC id="1879092436" name="Cannasgam" gender="FEMALE" title="key:620792997:229802005"/>
+<NPC id="1879092437" name="Nethúr" gender="FEMALE" title="key:620792998:229802005"/>
+<NPC id="1879092438" name="Techeron" gender="MALE" title="key:620792999:229802005"/>
 <NPC id="1879092740" name="Hafgrím" title="key:620793133:229802005"/>
-<NPC id="1879092741" name="Tully Hopwood" title="key:620793134:229802005"/>
-<NPC id="1879092742" name="Authun" title="key:620793135:229802005"/>
+<NPC id="1879092741" name="Tully Hopwood" gender="MALE" title="key:620793134:229802005"/>
+<NPC id="1879092742" name="Authun" gender="MALE" title="key:620793135:229802005"/>
 <NPC id="1879092743" name="Celegdes" title="key:620793136:229802005"/>
 <NPC id="1879092744" name="Malenfang" title="key:620793137:229802005"/>
 <NPC id="1879092745" name="Atharbain" title="key:620793138:229802005"/>
-<NPC id="1879092746" name="Maneser Goodbody" title="key:620793139:229802005"/>
-<NPC id="1879092819" name="Billina"/>
-<NPC id="1879092835" name="George"/>
-<NPC id="1879092836" name="Fox"/>
-<NPC id="1879092837" name="Chicken"/>
-<NPC id="1879092838" name="Chicken"/>
-<NPC id="1879092839" name="Chicken"/>
-<NPC id="1879092876" name="Wink"/>
-<NPC id="1879092877" name="Horse"/>
-<NPC id="1879092878" name="Gray squirrel"/>
-<NPC id="1879092879" name="Cow"/>
-<NPC id="1879092880" name="Roheryn"/>
-<NPC id="1879093062" name="Wald Sandson"/>
-<NPC id="1879093392" name="Tortured Prisoner"/>
-<NPC id="1879093457" name="Dinhiril" title="key:620793596:229802005"/>
-<NPC id="1879093458" name="Ariel" title="key:620793597:229802005"/>
-<NPC id="1879093459" name="Ningwen" title="key:620793598:229802005"/>
-<NPC id="1879093466" name="Greylond Bottomley" title="key:620793624:229802005"/>
-<NPC id="1879093467" name="Eustoma Muddybanks" title="key:620793626:229802005"/>
-<NPC id="1879093468" name="Baldwin Foxtail" title="key:620793627:229802005"/>
-<NPC id="1879093903" name="Aranhir" title="key:620793892:229802005"/>
-<NPC id="1879093904" name="Argirion" title="key:620793893:229802005"/>
-<NPC id="1879093905" name="Mindambeth" title="key:620793894:229802005"/>
-<NPC id="1879093940" name="Dúcheryn" title="key:620793918:229802005"/>
-<NPC id="1879093941" name="Colveril" title="key:620793917:229802005"/>
-<NPC id="1879094090" name="Tens" title="key:620794047:229802005"/>
+<NPC id="1879092746" name="Maneser Goodbody" gender="MALE" title="key:620793139:229802005"/>
+<NPC id="1879092819" name="Billina" gender="FEMALE"/>
+<NPC id="1879092835" name="George" gender="MALE"/>
+<NPC id="1879092836" name="Fox" gender="MALE"/>
+<NPC id="1879092837" name="Chicken" gender="FEMALE"/>
+<NPC id="1879092838" name="Chicken" gender="FEMALE"/>
+<NPC id="1879092839" name="Chicken" gender="FEMALE"/>
+<NPC id="1879092876" name="Wink" gender="MALE"/>
+<NPC id="1879092877" name="Horse" gender="MALE"/>
+<NPC id="1879092878" name="Gray squirrel" gender="MALE"/>
+<NPC id="1879092879" name="Cow" gender="FEMALE"/>
+<NPC id="1879092880" name="Roheryn" gender="MALE"/>
+<NPC id="1879093062" name="Wald Sandson" gender="MALE"/>
+<NPC id="1879093392" name="Tortured Prisoner" gender="MALE"/>
+<NPC id="1879093457" name="Dinhiril" gender="FEMALE" title="key:620793596:229802005"/>
+<NPC id="1879093458" name="Ariel" gender="FEMALE" title="key:620793597:229802005"/>
+<NPC id="1879093459" name="Ningwen" gender="FEMALE" title="key:620793598:229802005"/>
+<NPC id="1879093466" name="Greylond Bottomley" gender="MALE" title="key:620793624:229802005"/>
+<NPC id="1879093467" name="Eustoma Muddybanks" gender="FEMALE" title="key:620793626:229802005"/>
+<NPC id="1879093468" name="Baldwin Foxtail" gender="MALE" title="key:620793627:229802005"/>
+<NPC id="1879093903" name="Aranhir" gender="MALE" title="key:620793892:229802005"/>
+<NPC id="1879093904" name="Argirion" gender="MALE" title="key:620793893:229802005"/>
+<NPC id="1879093905" name="Mindambeth" gender="FEMALE" title="key:620793894:229802005"/>
+<NPC id="1879093940" name="Dúcheryn" gender="FEMALE" title="key:620793918:229802005"/>
+<NPC id="1879093941" name="Colveril" gender="FEMALE" title="key:620793917:229802005"/>
+<NPC id="1879094090" name="Tens" gender="MALE" title="key:620794047:229802005"/>
 <NPC id="1879094878" name="Ongbúrz Defiler" title="key:620794660:229802005"/>
-<NPC id="1879094960" name="Galthoniel"/>
-<NPC id="1879094961" name="Dúnedain"/>
-<NPC id="1879094962" name="Dúnedain"/>
-<NPC id="1879094963" name="Tadan"/>
-<NPC id="1879094964" name="Idhreneth"/>
-<NPC id="1879094965" name="Garbert"/>
-<NPC id="1879094966" name="Wéthorm"/>
-<NPC id="1879094967" name="Muildir"/>
-<NPC id="1879094968" name="Candelleth"/>
-<NPC id="1879094969" name="Daervellas"/>
-<NPC id="1879094970" name="Tongannel"/>
-<NPC id="1879094971" name="Bainthir"/>
-<NPC id="1879094972" name="Mordrambor"/>
-<NPC id="1879094973" name="Lavanthir"/>
-<NPC id="1879094974" name="Afanen"/>
-<NPC id="1879094975" name="Laerdan"/>
-<NPC id="1879094976" name="Mordirith"/>
-<NPC id="1879094977" name="Narmaleth"/>
-<NPC id="1879094978" name="Sara Oakheart"/>
-<NPC id="1879094979" name="Indor"/>
-<NPC id="1879094980" name="Cerys"/>
-<NPC id="1879094981" name="Wistan"/>
-<NPC id="1879094982" name="Garbert"/>
-<NPC id="1879094983" name="Sneaking Creature"/>
-<NPC id="1879094984" name="Wistan"/>
-<NPC id="1879094986" name="Adwold"/>
-<NPC id="1879094987" name="Tordúril"/>
-<NPC id="1879094988" name="Nora Strawley"/>
-<NPC id="1879094989" name="Glorwen"/>
-<NPC id="1879094990" name="Eywind"/>
-<NPC id="1879094991" name="Nogmeldis"/>
-<NPC id="1879094992" name="Thorgest"/>
+<NPC id="1879094960" name="Galthoniel" gender="FEMALE"/>
+<NPC id="1879094961" name="Dúnedain" gender="FEMALE"/>
+<NPC id="1879094962" name="Dúnedain" gender="MALE"/>
+<NPC id="1879094963" name="Tadan" gender="MALE"/>
+<NPC id="1879094964" name="Idhreneth" gender="FEMALE"/>
+<NPC id="1879094965" name="Garbert" gender="MALE"/>
+<NPC id="1879094966" name="Wéthorm" gender="MALE"/>
+<NPC id="1879094967" name="Muildir" gender="MALE"/>
+<NPC id="1879094968" name="Candelleth" gender="FEMALE"/>
+<NPC id="1879094969" name="Daervellas" gender="MALE"/>
+<NPC id="1879094970" name="Tongannel" gender="FEMALE"/>
+<NPC id="1879094971" name="Bainthir" gender="MALE"/>
+<NPC id="1879094972" name="Mordrambor" gender="MALE"/>
+<NPC id="1879094973" name="Lavanthir" gender="MALE"/>
+<NPC id="1879094974" name="Afanen" gender="FEMALE"/>
+<NPC id="1879094975" name="Laerdan" gender="MALE"/>
+<NPC id="1879094976" name="Mordirith" gender="MALE"/>
+<NPC id="1879094977" name="Narmaleth" gender="FEMALE"/>
+<NPC id="1879094978" name="Sara Oakheart" gender="FEMALE"/>
+<NPC id="1879094979" name="Indor" gender="MALE"/>
+<NPC id="1879094980" name="Cerys" gender="FEMALE"/>
+<NPC id="1879094981" name="Wistan" gender="MALE"/>
+<NPC id="1879094982" name="Garbert" gender="MALE"/>
+<NPC id="1879094983" name="Sneaking Creature" gender="MALE"/>
+<NPC id="1879094984" name="Wistan" gender="MALE"/>
+<NPC id="1879094986" name="Adwold" gender="MALE"/>
+<NPC id="1879094987" name="Tordúril" gender="FEMALE"/>
+<NPC id="1879094988" name="Nora Strawley" gender="FEMALE"/>
+<NPC id="1879094989" name="Glorwen" gender="FEMALE"/>
+<NPC id="1879094990" name="Eywind" gender="MALE"/>
+<NPC id="1879094991" name="Nogmeldis" gender="MALE"/>
+<NPC id="1879094992" name="Thorgest" gender="MALE"/>
 <NPC id="1879095647" name="Large Footprint"/>
 <NPC id="1879095648" name="Stray Barrel"/>
-<NPC id="1879095882" name="Barz"/>
-<NPC id="1879095883" name="Hillmen Worker"/>
-<NPC id="1879096839" name="Rúni" title="key:620795821:229802005"/>
-<NPC id="1879096840" name="Barchiril" title="key:620795822:229802005"/>
-<NPC id="1879096841" name="Andy Brockhouse" title="key:620795823:229802005"/>
-<NPC id="1879096842" name="Nan Henwood" title="key:620795824:229802005"/>
-<NPC id="1879097166" name="Avon" title="key:620795904:229802005"/>
-<NPC id="1879097167" name="Orion" title="key:620795905:229802005"/>
-<NPC id="1879097168" name="Danger Dan" title="key:620795906:229802005"/>
-<NPC id="1879097169" name="Berenfan" title="key:620795907:229802005"/>
-<NPC id="1879097170" name="Kehleyr" title="key:620795908:229802005"/>
-<NPC id="1879097171" name="Wrinklor" title="key:620795909:229802005"/>
-<NPC id="1879097172" name="Denour" title="key:620795910:229802005"/>
-<NPC id="1879097173" name="Temerity" title="key:620795911:229802005"/>
-<NPC id="1879097174" name="Iceman" title="key:620795912:229802005"/>
-<NPC id="1879097175" name="Slayde" title="key:620795913:229802005"/>
-<NPC id="1879097190" name="Afwald" title="key:620795920:229802005"/>
-<NPC id="1879097293" name="Iorelen"/>
-<NPC id="1879097297" name="Eimyr" title="key:620796020:229802005"/>
-<NPC id="1879097301" name="Galasebdir"/>
-<NPC id="1879097303" name="Jónsi"/>
-<NPC id="1879097308" name="TBD Giant B"/>
-<NPC id="1879097311" name="Tortrygg" title="key:620796022:229802005"/>
-<NPC id="1879097319" name="Asmólf" title="key:620796019:229802005"/>
-<NPC id="1879097321" name="Rolf Bracegirdle" title="key:620796026:229802005"/>
-<NPC id="1879097380" name="Haradir"/>
-<NPC id="1879097381" name="Nestael" title="key:620796073:229802005"/>
-<NPC id="1879097488" name="Fantus" title="key:620796167:229802005"/>
+<NPC id="1879095882" name="Barz" gender="MALE"/>
+<NPC id="1879095883" name="Hillmen Worker" gender="MALE"/>
+<NPC id="1879096839" name="Rúni" gender="MALE" title="key:620795821:229802005"/>
+<NPC id="1879096840" name="Barchiril" gender="FEMALE" title="key:620795822:229802005"/>
+<NPC id="1879096841" name="Andy Brockhouse" gender="MALE" title="key:620795823:229802005"/>
+<NPC id="1879096842" name="Nan Henwood" gender="FEMALE" title="key:620795824:229802005"/>
+<NPC id="1879097166" name="Avon" gender="MALE" title="key:620795904:229802005"/>
+<NPC id="1879097167" name="Orion" gender="MALE" title="key:620795905:229802005"/>
+<NPC id="1879097168" name="Danger Dan" gender="MALE" title="key:620795906:229802005"/>
+<NPC id="1879097169" name="Berenfan" gender="MALE" title="key:620795907:229802005"/>
+<NPC id="1879097170" name="Kehleyr" gender="FEMALE" title="key:620795908:229802005"/>
+<NPC id="1879097171" name="Wrinklor" gender="MALE" title="key:620795909:229802005"/>
+<NPC id="1879097172" name="Denour" gender="MALE" title="key:620795910:229802005"/>
+<NPC id="1879097173" name="Temerity" gender="MALE" title="key:620795911:229802005"/>
+<NPC id="1879097174" name="Iceman" gender="MALE" title="key:620795912:229802005"/>
+<NPC id="1879097175" name="Slayde" gender="MALE" title="key:620795913:229802005"/>
+<NPC id="1879097190" name="Afwald" gender="MALE" title="key:620795920:229802005"/>
+<NPC id="1879097293" name="Iorelen" gender="MALE"/>
+<NPC id="1879097297" name="Eimyr" gender="MALE" title="key:620796020:229802005"/>
+<NPC id="1879097301" name="Galasebdir" gender="MALE"/>
+<NPC id="1879097303" name="Jónsi" gender="MALE"/>
+<NPC id="1879097308" name="TBD Giant B" gender="MALE"/>
+<NPC id="1879097311" name="Tortrygg" gender="MALE" title="key:620796022:229802005"/>
+<NPC id="1879097319" name="Asmólf" gender="MALE" title="key:620796019:229802005"/>
+<NPC id="1879097321" name="Rolf Bracegirdle" gender="MALE" title="key:620796026:229802005"/>
+<NPC id="1879097380" name="Haradir" gender="MALE"/>
+<NPC id="1879097381" name="Nestael" gender="FEMALE" title="key:620796073:229802005"/>
+<NPC id="1879097488" name="Fantus" gender="MALE" title="key:620796167:229802005"/>
 <NPC id="1879097543" name="Quest Barrel"/>
-<NPC id="1879097579" name="Gandalf"/>
-<NPC id="1879097583" name="Glathlírel"/>
-<NPC id="1879097773" name="Forgamdir" title="key:620796382:229802005"/>
-<NPC id="1879097774" name="Coruchador" title="key:620796383:229802005"/>
-<NPC id="1879097775" name="Istuigon" title="key:620796384:229802005"/>
-<NPC id="1879097776" name="Ruinestel" title="key:620796385:229802005"/>
-<NPC id="1879097777" name="Himhúl" title="key:620796386:229802005"/>
-<NPC id="1879097778" name="Rudhrod" title="key:620796387:229802005"/>
-<NPC id="1879097779" name="Amban" title="key:620796388:229802005"/>
-<NPC id="1879097780" name="Arodinnas" title="key:620796389:229802005"/>
-<NPC id="1879097781" name="Faradwon" title="key:620796381:229802005"/>
-<NPC id="1879098206" name="Ísleif"/>
-<NPC id="1879098207" name="Badennas"/>
-<NPC id="1879098208" name="Graland Whitfoot"/>
-<NPC id="1879098209" name="Tad Ashmead"/>
-<NPC id="1879098289" name="Gunnlaug" title="key:620796834:229802005"/>
-<NPC id="1879098290" name="Utrygg" title="key:620796835:229802005"/>
-<NPC id="1879098291" name="Raskulf" title="key:620796833:229802005"/>
-<NPC id="1879098294" name="Dýri" title="key:620796838:229802005"/>
-<NPC id="1879098295" name="Kylfa" title="key:620796839:229802005"/>
-<NPC id="1879098296" name="Malenfas" title="key:620796840:229802005"/>
-<NPC id="1879098297" name="Torelleth" title="key:620796841:229802005"/>
-<NPC id="1879098298" name="Sawlo Puddifoot" title="key:620796842:229802005"/>
-<NPC id="1879098299" name="Rosa Hornblower" title="key:620796843:229802005"/>
-<NPC id="1879098301" name="Will Peartree" title="key:620796845:229802005"/>
-<NPC id="1879098302" name="Bess Forester" title="key:620796846:229802005"/>
-<NPC id="1879098303" name="Alf Mossman" title="key:620796847:229802005"/>
-<NPC id="1879098305" name="Astiul"/>
-<NPC id="1879098306" name="Fleet-wing"/>
-<NPC id="1879098308" name="Cuguminuial"/>
-<NPC id="1879098310" name="Culang"/>
-<NPC id="1879098313" name="Fainneleg"/>
-<NPC id="1879098315" name="Forchon"/>
+<NPC id="1879097579" name="Gandalf" gender="MALE"/>
+<NPC id="1879097583" name="Glathlírel" gender="FEMALE"/>
+<NPC id="1879097773" name="Forgamdir" gender="MALE" title="key:620796382:229802005"/>
+<NPC id="1879097774" name="Coruchador" gender="MALE" title="key:620796383:229802005"/>
+<NPC id="1879097775" name="Istuigon" gender="MALE" title="key:620796384:229802005"/>
+<NPC id="1879097776" name="Ruinestel" gender="MALE" title="key:620796385:229802005"/>
+<NPC id="1879097777" name="Himhúl" gender="MALE" title="key:620796386:229802005"/>
+<NPC id="1879097778" name="Rudhrod" gender="MALE" title="key:620796387:229802005"/>
+<NPC id="1879097779" name="Amban" gender="MALE" title="key:620796388:229802005"/>
+<NPC id="1879097780" name="Arodinnas" gender="MALE" title="key:620796389:229802005"/>
+<NPC id="1879097781" name="Faradwon" gender="MALE" title="key:620796381:229802005"/>
+<NPC id="1879098206" name="Ísleif" gender="MALE"/>
+<NPC id="1879098207" name="Badennas" gender="FEMALE"/>
+<NPC id="1879098208" name="Graland Whitfoot" gender="MALE"/>
+<NPC id="1879098209" name="Tad Ashmead" gender="FEMALE"/>
+<NPC id="1879098289" name="Gunnlaug" gender="MALE" title="key:620796834:229802005"/>
+<NPC id="1879098290" name="Utrygg" gender="MALE" title="key:620796835:229802005"/>
+<NPC id="1879098291" name="Raskulf" gender="MALE" title="key:620796833:229802005"/>
+<NPC id="1879098294" name="Dýri" gender="MALE" title="key:620796838:229802005"/>
+<NPC id="1879098295" name="Kylfa" gender="MALE" title="key:620796839:229802005"/>
+<NPC id="1879098296" name="Malenfas" gender="MALE" title="key:620796840:229802005"/>
+<NPC id="1879098297" name="Torelleth" gender="FEMALE" title="key:620796841:229802005"/>
+<NPC id="1879098298" name="Sawlo Puddifoot" gender="MALE" title="key:620796842:229802005"/>
+<NPC id="1879098299" name="Rosa Hornblower" gender="FEMALE" title="key:620796843:229802005"/>
+<NPC id="1879098301" name="Will Peartree" gender="MALE" title="key:620796845:229802005"/>
+<NPC id="1879098302" name="Bess Forester" gender="FEMALE" title="key:620796846:229802005"/>
+<NPC id="1879098303" name="Alf Mossman" gender="MALE" title="key:620796847:229802005"/>
+<NPC id="1879098305" name="Astiul" gender="MALE"/>
+<NPC id="1879098306" name="Fleet-wing" gender="MALE"/>
+<NPC id="1879098308" name="Cuguminuial" gender="FEMALE"/>
+<NPC id="1879098310" name="Culang" gender="MALE"/>
+<NPC id="1879098313" name="Fainneleg" gender="MALE"/>
+<NPC id="1879098315" name="Forchon" gender="MALE"/>
 <NPC id="1879098355" name="Cairn of Stones for Tadan"/>
 <NPC id="1879098356" name="Cairn of Stones for Carchammadel"/>
 <NPC id="1879098357" name="Cairn of Stones for Colhamnir"/>
-<NPC id="1879098757" name="Muildir"/>
-<NPC id="1879098859" name="Clar Whitethorn" title="key:620797290:229802005"/>
-<NPC id="1879098898" name="Sparrow"/>
-<NPC id="1879098899" name="Hare"/>
-<NPC id="1879098900" name="Turtle"/>
+<NPC id="1879098757" name="Muildir" gender="MALE"/>
+<NPC id="1879098859" name="Clar Whitethorn" gender="MALE" title="key:620797290:229802005"/>
+<NPC id="1879098898" name="Sparrow" gender="FEMALE"/>
+<NPC id="1879098899" name="Hare" gender="MALE"/>
+<NPC id="1879098900" name="Turtle" gender="MALE"/>
 <NPC id="1879098914" name="Town Crier"/>
 <NPC id="1879098915" name="Town Crier"/>
 <NPC id="1879098917" name="Town Crier"/>
 <NPC id="1879098920" name="Town Crier"/>
-<NPC id="1879098921" name="Bernard Oaksey" title="key:620797345:229802005"/>
-<NPC id="1879098922" name="Sparr" title="key:620797346:229802005"/>
-<NPC id="1879098923" name="Heartsease Whitfoot" title="key:620797347:229802005"/>
-<NPC id="1879098924" name="Noreth" title="key:620797348:229802005"/>
+<NPC id="1879098921" name="Bernard Oaksey" gender="MALE" title="key:620797345:229802005"/>
+<NPC id="1879098922" name="Sparr" gender="MALE" title="key:620797346:229802005"/>
+<NPC id="1879098923" name="Heartsease Whitfoot" gender="FEMALE" title="key:620797347:229802005"/>
+<NPC id="1879098924" name="Noreth" gender="FEMALE" title="key:620797348:229802005"/>
 <NPC id="1879099010" name="Brazier"/>
-<NPC id="1879099175" name="Afanen"/>
-<NPC id="1879099180" name="Marigold Gamgee"/>
-<NPC id="1879101496" name="Dúsi" title="key:620799382:229802005"/>
-<NPC id="1879101497" name="Barthavron" title="key:620799383:229802005"/>
-<NPC id="1879101498" name="Bill Twiggins" title="key:620799384:229802005"/>
-<NPC id="1879101630" name="Merchant" title="key:620799512:229802005"/>
-<NPC id="1879101631" name="Merchant" title="key:620799509:229802005"/>
-<NPC id="1879101632" name="Merchant" title="key:620799510:229802005"/>
-<NPC id="1879101633" name="Merchant" title="key:620799511:229802005"/>
-<NPC id="1879101634" name="Healer"/>
-<NPC id="1879101635" name="Healer"/>
-<NPC id="1879101636" name="Healer"/>
-<NPC id="1879101637" name="Healer"/>
+<NPC id="1879099175" name="Afanen" gender="FEMALE"/>
+<NPC id="1879099180" name="Marigold Gamgee" gender="MALE"/>
+<NPC id="1879101496" name="Dúsi" gender="MALE" title="key:620799382:229802005"/>
+<NPC id="1879101497" name="Barthavron" gender="MALE" title="key:620799383:229802005"/>
+<NPC id="1879101498" name="Bill Twiggins" gender="MALE" title="key:620799384:229802005"/>
+<NPC id="1879101630" name="Merchant" gender="MALE" title="key:620799512:229802005"/>
+<NPC id="1879101631" name="Merchant" gender="MALE" title="key:620799509:229802005"/>
+<NPC id="1879101632" name="Merchant" gender="MALE" title="key:620799510:229802005"/>
+<NPC id="1879101633" name="Merchant" gender="MALE" title="key:620799511:229802005"/>
+<NPC id="1879101634" name="Healer" gender="MALE"/>
+<NPC id="1879101635" name="Healer" gender="MALE"/>
+<NPC id="1879101636" name="Healer" gender="MALE"/>
+<NPC id="1879101637" name="Healer" gender="MALE"/>
 <NPC id="1879101859" name="Gaelm, son of Éogar" title="key:620799658:229802005"/>
 <NPC id="1879101883" name="Gaelm, son of Éogar" title="key:620799678:229802005"/>
-<NPC id="1879101922" name="Sally Threshing" title="key:620799713:229802005"/>
-<NPC id="1879102215" name="Tweggi" title="key:620799958:229802005"/>
+<NPC id="1879101922" name="Sally Threshing" gender="FEMALE" title="key:620799713:229802005"/>
+<NPC id="1879102215" name="Tweggi" gender="MALE" title="key:620799958:229802005"/>
 </NPCs>
