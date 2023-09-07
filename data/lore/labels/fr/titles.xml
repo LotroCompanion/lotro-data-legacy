@@ -405,16 +405,16 @@
 <label key="1879101836" value="Fléau de Thrâng"/>
 <label key="1879101837" value="Sauveur / Sauveuse des Eldgangs"/>
 <label key="1879101993" value="Porteur / Porteuse d’espoir"/>
-<label key="1894514704" value="?"/>
-<label key="1894514705" value="?"/>
-<label key="1894514706" value="?"/>
-<label key="1894514707" value="?"/>
-<label key="1894514708" value="?"/>
-<label key="1894514709" value="?"/>
-<label key="1894514710" value="?"/>
-<label key="1894514711" value="?"/>
-<label key="1894514712" value="?"/>
-<label key="1894514713" value="?"/>
+<label key="1894514704" value="the Explorer"/>
+<label key="1894514705" value="Spear of Oromë"/>
+<label key="1894514706" value="the Learned"/>
+<label key="1894514707" value="Defender of Middle-Earth"/>
+<label key="1894514708" value="Liberator of Norbury"/>
+<label key="1894514709" value="Saviour of the Lady"/>
+<label key="1894514710" value="Sambrog's Bane"/>
+<label key="1894514711" value="Calantar"/>
+<label key="1894514712" value="the Legend"/>
+<label key="1894514713" value="the Insane"/>
 <label key="key:620758793:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Shiriffe honoraire"/>
 <label key="key:620758793:175532558" value="Vous avez grandement aidé les Frontaliers de la Comté et obtenu le titre de Shiriffe honoraire."/>
 <label key="key:620761098:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:apprenti érudit[m]|apprentie érudite[f]}"/>
@@ -1229,4 +1229,24 @@
 <label key="key:620799641:175532558" value="Les combats que vous avez livrés au fond de la faille ont aidé les géants du clan des Eldgangs, qui luttent contre les puissances des ténèbres en ce terrible endroit."/>
 <label key="key:620799777:172691445" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, ${NAME:Porteur[m]|Porteuse[f]} d’espoir"/>
 <label key="key:620799777:175532558" value="Vous avez terminé la première partie du deuxième volume des Ombres d’Angmar."/>
+<label key="key:636223488:133344739" value="Hardcore challenge reward for completing quests in all zones."/>
+<label key="key:636223488:14171138" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME} the Insane"/>
+<label key="key:636223488:154107121" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Saviour of the Lady"/>
+<label key="key:636223488:154107122" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Sambrog's Bane"/>
+<label key="key:636223488:159719968" value="Hardcore challenge reward for reaching level 50 without dying."/>
+<label key="key:636223488:167493988" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Liberator of Norbury"/>
+<label key="key:636223488:18718558" value="Hardcore challenge reward for exploring all zones."/>
+<label key="key:636223488:206281285" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Spear of Oromë"/>
+<label key="key:636223488:211612992" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME} the Legend"/>
+<label key="key:636223488:221492867" value="Hardcore challenge reward for completing all three leveling dungeons."/>
+<label key="key:636223488:236725557" value="Hardcore challenge reward for hunting rare monsters."/>
+<label key="key:636223488:243331790" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME} the Explorer"/>
+<label key="key:636223488:259804115" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Defender of Middle-Earth"/>
+<label key="key:636223488:36742548" value="Hardcore challenge reward for completing Fornost."/>
+<label key="key:636223488:40850518" value="Hardcore challenge reward for completing Epic Volume I Books 1 through 6."/>
+<label key="key:636223488:66200070" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME}, Calantar"/>
+<label key="key:636223488:752323" value="${RANK}${RANK: [E]}${NAME}${SURNAME: [E]}${SURNAME} the Learned"/>
+<label key="key:636223488:75314017" value="Hardcore challenge reward for completing Garth Agarwen."/>
+<label key="key:636223488:75314018" value="Hardcore challenge reward for completing The Great Barrow."/>
+<label key="key:636223488:96594722" value="Hardcore challenge reward for completing all the availalble challenges."/>
 </labels>
