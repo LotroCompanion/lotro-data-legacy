@@ -1047,6 +1047,7 @@
 <label key="1879098722" value="Plus grande vulnérabilité aux ombres"/>
 <label key="1879098723" value="Plus grande vulnérabilité à la peur"/>
 <label key="1879098828" value="Flammèche invoquée"/>
+<label key="1879098830" value="Don du Poing de Marteau amélioré"/>
 <label key="1879098854" value="Trempé par la flamme"/>
 <label key="1879098901" value="Appel d’oiseau"/>
 <label key="1879098902" value="Appel de lapin"/>
@@ -1059,6 +1060,18 @@
 <label key="1879098946" value="Dissiper la peur"/>
 <label key="1879098947" value="Dissiper le poison"/>
 <label key="1879098948" value="Dissiper les blessures"/>
+<label key="1879099106" value="Contrôle de l'effet d'aura de créature apprivoisée"/>
+<label key="1879099119" value="Contrôle de l'effet d'aura de créature apprivoisée"/>
+<label key="1879099120" value="Contrôle de l'effet d'aura de créature apprivoisée"/>
+<label key="1879099121" value="Contrôle de l'effet d'aura de créature apprivoisée"/>
+<label key="1879099122" value="Contrôle de l'effet d'aura de créature apprivoisée"/>
+<label key="1879099123" value="Défense contre l'ombre"/>
+<label key="1879099124" value="Contrôle de l'effet d'aura de créature apprivoisée"/>
+<label key="1879099125" value="Contrôle de l'effet d'aura de créature apprivoisée"/>
+<label key="1879099126" value="Contrôle de l'effet d'aura de créature apprivoisée"/>
+<label key="1879099127" value="Contrôle de l'effet d'aura de créature apprivoisée"/>
+<label key="1879099128" value="Contrôle de l'effet d'aura de créature apprivoisée"/>
+<label key="1879099129" value="Contrôle de l'effet d'aura de créature apprivoisée"/>
 <label key="1879099163" value="Dissiper la peur mineure"/>
 <label key="1879099164" value="Dissiper le poison mineur"/>
 <label key="1879099176" value="Retrait de pointe"/>
@@ -1537,11 +1550,15 @@
 <label key="key:620796892:181298206" value="Effraye pendant 10 s max."/>
 <label key="key:620797179:54354734" value="Réduit la limitation des dégâts des ombres"/>
 <label key="key:620797180:54354734" value="Réduit la résistance à la peur."/>
+<label key="key:620797275:209988549" value="Don du Poing de Marteau absorbe tous les dégâts."/>
+<label key="key:620797275:54354734" value="Tous les dégâts au Moral que vous recevez sont transformés en dégâts à la puissance."/>
 <label key="key:620797287:106251889" value="Annule tous les dégâts reçus"/>
 <label key="key:620797334:54354734" value="Vous avez récemment pris une géode."/>
 <label key="key:620797335:54354734" value="Vous avez récemment pris un parchemin."/>
 <label key="key:620797336:54354734" value="Vous avez récemment attrapé une pomme."/>
 <label key="key:620797337:54354734" value="Vous avez récemment ramassé une citrouille."/>
+<label key="key:620797493:209988549" value="Hérauts &amp; étendards améliorés"/>
+<label key="key:620797493:54354734" value="Hérauts &amp; étendards améliorés contre l'Ombre"/>
 <label key="key:620797511:54354734" value="La chaîne du Balrog frappe le sol juste derrière vous. Le choc vous projette dans les airs."/>
 <label key="key:620797667:54354734" value="Le Balrog semble vous considérer comme la proie idéale."/>
 <label key="key:620799392:181298206" value="Rendez-vous à votre maison personnelle à ${DESTINATION}."/>

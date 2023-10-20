@@ -1047,6 +1047,7 @@
 <label key="1879098722" value="Größere Verletzbarkeit gegenüber Schatten"/>
 <label key="1879098723" value="Größere Anfälligkeit gegen Furcht"/>
 <label key="1879098828" value="Beschworener Feuerhauch"/>
+<label key="1879098830" value="Verbesserte Gabe der Hammerhand"/>
 <label key="1879098854" value="Flammengestählt"/>
 <label key="1879098901" value="Vogel-Lockruf[m]"/>
 <label key="1879098902" value="Kaninchen-Lockruf[m]"/>
@@ -1059,6 +1060,18 @@
 <label key="1879098946" value="Furcht beseitigen"/>
 <label key="1879098947" value="Gift entfernen"/>
 <label key="1879098948" value="Wunden entfernen"/>
+<label key="1879099106" value="Pet Efect Aura Override"/>
+<label key="1879099119" value="Pet Efect Aura Override"/>
+<label key="1879099120" value="Pet Efect Aura Override"/>
+<label key="1879099121" value="Pet Efect Aura Override"/>
+<label key="1879099122" value="Pet Efect Aura Override"/>
+<label key="1879099123" value="Schattenschild"/>
+<label key="1879099124" value="Pet Efect Aura Override"/>
+<label key="1879099125" value="Pet Efect Aura Override"/>
+<label key="1879099126" value="Pet Efect Aura Override"/>
+<label key="1879099127" value="Pet Efect Aura Override"/>
+<label key="1879099128" value="Pet Efect Aura Override"/>
+<label key="1879099129" value="Pet Efect Aura Override"/>
 <label key="1879099163" value="Geringfügige Furcht beseitigen"/>
 <label key="1879099164" value="Leichtes Gift entfernen"/>
 <label key="1879099176" value="Dorn entfernen"/>
@@ -1537,11 +1550,15 @@
 <label key="key:620796892:181298206" value="Versetzt für bis zu 10 Sek. in Furcht"/>
 <label key="key:620797179:54354734" value="Verringert Schadensminderung durch Schatten."/>
 <label key="key:620797180:54354734" value="Verringert die Widerstandskraft gegen Furcht."/>
+<label key="key:620797275:209988549" value="Die Gabe der Hammerhand absorbiert den gesamten Schaden."/>
+<label key="key:620797275:54354734" value="Aller erlittener Moralschaden wird in Kraftschaden umgewandelt."/>
 <label key="key:620797287:106251889" value="Annulliert fast den gesamten erlittenen Schaden."/>
 <label key="key:620797334:54354734" value="Ihr habt kürzlich nach Geoden gesucht."/>
 <label key="key:620797335:54354734" value="Ihr habt kürzlich nach einer Schriftrolle gesucht."/>
 <label key="key:620797336:54354734" value="Ihr habt kürzlich nach Äpfeln geschnappt."/>
 <label key="key:620797337:54354734" value="Ihr habt kürzlich einen Kürbis geerntet."/>
+<label key="key:620797493:209988549" value="Herolde und Standarten mindern Schattenschaden."/>
+<label key="key:620797493:54354734" value="Herolde und Standarten verbessert gegen Schatten"/>
 <label key="key:620797511:54354734" value="Die Kette des Balrogs löst sich und schlägt direkt hinter Euch auf dem Boden auf, so dass Ihr nach vorn geschleudert werdet."/>
 <label key="key:620797667:54354734" value="Der Balrog scheint Euch als künftiges Ziel ausgesucht zu haben."/>
 <label key="key:620799392:181298206" value="Reist zu Eurem eigenen Haus (${DESTINATION})."/>

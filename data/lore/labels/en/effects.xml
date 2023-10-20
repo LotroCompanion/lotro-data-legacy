@@ -1047,6 +1047,7 @@
 <label key="1879098722" value="Greater Shadow Vulnerability"/>
 <label key="1879098723" value="Greater Susceptibility to Fear"/>
 <label key="1879098828" value="Summoned Fire-wisp"/>
+<label key="1879098830" value="Improved Gift of the Hammerhand"/>
 <label key="1879098854" value="Tempered by Flame"/>
 <label key="1879098901" value="Bird Call"/>
 <label key="1879098902" value="Rabbit Call"/>
@@ -1059,6 +1060,18 @@
 <label key="1879098946" value="Remove Fear"/>
 <label key="1879098947" value="Remove Poison"/>
 <label key="1879098948" value="Remove Wounds"/>
+<label key="1879099106" value="Pet Efect Aura Override"/>
+<label key="1879099119" value="Pet Efect Aura Override"/>
+<label key="1879099120" value="Pet Efect Aura Override"/>
+<label key="1879099121" value="Pet Efect Aura Override"/>
+<label key="1879099122" value="Pet Efect Aura Override"/>
+<label key="1879099123" value="Shadow Ward"/>
+<label key="1879099124" value="Pet Efect Aura Override"/>
+<label key="1879099125" value="Pet Efect Aura Override"/>
+<label key="1879099126" value="Pet Efect Aura Override"/>
+<label key="1879099127" value="Pet Efect Aura Override"/>
+<label key="1879099128" value="Pet Efect Aura Override"/>
+<label key="1879099129" value="Pet Efect Aura Override"/>
 <label key="1879099163" value="Remove Minor Fear"/>
 <label key="1879099164" value="Remove Minor Poison"/>
 <label key="1879099176" value="Remove Spike"/>
@@ -1537,11 +1550,15 @@
 <label key="key:620796892:181298206" value="Fears for up to 10s"/>
 <label key="key:620797179:54354734" value="Lowers shadow damage mitigation."/>
 <label key="key:620797180:54354734" value="Lowers resistance to fear."/>
+<label key="key:620797275:209988549" value="Gift of the Hammerhand absorbs all damage."/>
+<label key="key:620797275:54354734" value="All incoming Morale damage is transformed into Power damage."/>
 <label key="key:620797287:106251889" value="Negates nearly all incoming damage"/>
 <label key="key:620797334:54354734" value="You have recently hunted for geodes."/>
 <label key="key:620797335:54354734" value="You have recently searched for a scroll."/>
 <label key="key:620797336:54354734" value="You have recently bobbed for apples."/>
 <label key="key:620797337:54354734" value="You have recently picked a pumpkin."/>
+<label key="key:620797493:209988549" value="Heralds &amp; Standards mitigate Shadow Damage."/>
+<label key="key:620797493:54354734" value="Heralds &amp; Standards improved against Shadow"/>
 <label key="key:620797511:54354734" value="The Balrog's chain lashes out and strikes the ground just behind you, sending you flying forward."/>
 <label key="key:620797667:54354734" value="The Balrog appears to have singled you out for future woe."/>
 <label key="key:620799392:181298206" value="Travel to your personal house at ${DESTINATION}."/>

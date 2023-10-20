@@ -2635,6 +2635,7 @@
 <stat name="Resist_Additional_Resistance_Fear" operator="SUBSTRACT" constant="20.0"/>
 </propertyModEffect>
 <effect id="1879098828" name="Summoned Fire-wisp"/>
+<propertyModEffect id="1879098830" name="Improved Gift of the Hammerhand" appliedDescription="key:620797275:54354734" iconId="1090519170"/>
 <propertyModEffect id="1879098854" name="Tempered by Flame" iconId="1090555708">
 <stat name="MELEE_DEFENCE_PERCENTAGE" operator="SET" descriptionOverride="key:620797287:106251889" constant="5.0"/>
 <stat name="RANGED_DEFENCE_PERCENTAGE" operator="SET" constant="5.0"/>
@@ -2651,6 +2652,18 @@
 <dispelByResist id="1879098946" name="Remove Fear" maxDispelCount="1" resistCategories="7" useStrengthRestriction="true"/>
 <dispelByResist id="1879098947" name="Remove Poison" maxDispelCount="1" resistCategories="8" useStrengthRestriction="true"/>
 <dispelByResist id="1879098948" name="Remove Wounds" maxDispelCount="1" resistCategories="4" useStrengthRestriction="true"/>
+<propertyModEffect id="1879099106" name="Pet Efect Aura Override" iconId="1090519170"/>
+<propertyModEffect id="1879099119" name="Pet Efect Aura Override" iconId="1090519170"/>
+<propertyModEffect id="1879099120" name="Pet Efect Aura Override" iconId="1090519170"/>
+<propertyModEffect id="1879099121" name="Pet Efect Aura Override" iconId="1090519170"/>
+<propertyModEffect id="1879099122" name="Pet Efect Aura Override" iconId="1090519170"/>
+<propertyModEffect id="1879099123" name="Shadow Ward" appliedDescription="key:620797493:54354734" iconId="1090519170"/>
+<propertyModEffect id="1879099124" name="Pet Efect Aura Override" iconId="1090519170"/>
+<propertyModEffect id="1879099125" name="Pet Efect Aura Override" iconId="1090519170"/>
+<propertyModEffect id="1879099126" name="Pet Efect Aura Override" iconId="1090519170"/>
+<propertyModEffect id="1879099127" name="Pet Efect Aura Override" iconId="1090519170"/>
+<propertyModEffect id="1879099128" name="Pet Efect Aura Override" iconId="1090519170"/>
+<propertyModEffect id="1879099129" name="Pet Efect Aura Override" iconId="1090519170"/>
 <dispelByResist id="1879099163" name="Remove Minor Fear" maxDispelCount="1" resistCategories="7" useStrengthRestriction="true" strengthOffset="2"/>
 <dispelByResist id="1879099164" name="Remove Minor Poison" maxDispelCount="1" resistCategories="8" useStrengthRestriction="true" strengthOffset="2"/>
 <effect id="1879099176" name="Remove Spike"/>
