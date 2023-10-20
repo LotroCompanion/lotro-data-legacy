@@ -502,6 +502,7 @@
 </bonus>
 <bonus nbItems="6">
 <stat name="Skill_RiftSet_Absorb_Shadow" descriptionOverride="key:620794546:108054838" constant="15.000001"/>
+<effect id="1879098830" name="Improved Gift of the Hammerhand"/>
 </bonus>
 </set>
 <set id="1879094710" name="Doom-hunter's Armour" level="50" description="key:620794553:54354734">
@@ -561,6 +562,18 @@
 </bonus>
 <bonus nbItems="6">
 <stat name="Skill_RiftSet_Absorb_Shadow" descriptionOverride="key:620794563:108054838" constant="15.000001"/>
+<effect id="1879099119" name="Pet Efect Aura Override"/>
+<effect id="1879099120" name="Pet Efect Aura Override"/>
+<effect id="1879099121" name="Pet Efect Aura Override"/>
+<effect id="1879099122" name="Pet Efect Aura Override"/>
+<effect id="1879099123" name="Shadow Ward"/>
+<effect id="1879099106" name="Pet Efect Aura Override"/>
+<effect id="1879099124" name="Pet Efect Aura Override"/>
+<effect id="1879099126" name="Pet Efect Aura Override"/>
+<effect id="1879099128" name="Pet Efect Aura Override"/>
+<effect id="1879099125" name="Pet Efect Aura Override"/>
+<effect id="1879099127" name="Pet Efect Aura Override"/>
+<effect id="1879099129" name="Pet Efect Aura Override"/>
 </bonus>
 </set>
 <set id="1879094713" name="Rift-defender's Armour" level="50" description="key:620794564:54354734">
