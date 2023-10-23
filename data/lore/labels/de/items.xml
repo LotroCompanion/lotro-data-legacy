@@ -28403,12 +28403,6 @@
 <label key="key:620790820:54354734" value="Diese Lederstiefel können aktiviert werden, um die Geschwindigkeit des Trägers über kurze Zeit zu verbessern."/>
 <label key="key:620790821:54354734" value="Diese Stiefel aus Zwergenfertigung können aktiviert werden, um die Geschwindigkeit des Trägers über kurze Zeit zu verbessern."/>
 <label key="key:620790848:54354734" value="Ein Fass mit einer süßlich riechenden Flüssigkeit, die das Gift neutralisieren soll, das dem Weißquell-Fluss zugeführt wurde."/>
-<label key="key:620790878:106251889" value="Bessere Bedrohungsreduzierung im Kampf"/>
-<label key="key:620790879:106251889" value="Größere Bedrohungsreduzierung im Kampf"/>
-<label key="key:620790880:106251889" value="Leichte Bedrohungsreduzierung im Kampf"/>
-<label key="key:620790881:106251889" value="Begrenzte Bedrohungsreduzierung im Kampf"/>
-<label key="key:620790882:106251889" value="Größere Bedrohungsreduzierung im Kampf"/>
-<label key="key:620790883:106251889" value="Geringe Bedrohungsreduzierung im Kampf"/>
 <label key="key:620790900:54354734" value="Der Steinhelm-Schild kann aktiviert werden, um über Zeit jeglichen Schaden zu verhindern. Allerdings bleibt der Spieler angewurzelt auf der Stelle stehen."/>
 <label key="key:620790931:54354734" value="Besonders effektive Rüstung aus Zwergenfertigung, die aktiviert werden kann, um dem Träger Kraft über Zeit zu verleihen."/>
 <label key="key:620790932:54354734" value="Durch Verwendung dieser Schriftrolle erhaltet Ihr ein Rezept für Gesellen der Drechslerkunst."/>
@@ -29300,7 +29294,6 @@
 <label key="key:620793839:54354734" value="Auf diesem Steckbrief steht Euer Name!"/>
 <label key="key:620793840:54354734" value="Auf diesem Steckbrief steht Euer Name!"/>
 <label key="key:620793849:54354734" value="Ein riesiger Kessel mit Eintopf. Wahrscheinlich sollte man besser nicht zu genau darüber nachdenken, welche Zutaten er enthält."/>
-<label key="key:620793900:106251889" value="Moral-Höchstwert +10 %"/>
 <label key="key:620793906:54354734" value="Diese ramponierte Kiste sieht aus, als wäre sie kürzlich ans Ufer gespült worden."/>
 <label key="key:620793908:54354734" value="Eine stabile Spitzhacke, die Euch von Regin geliehen wurde."/>
 <label key="key:620793929:54354734" value="Eine Kiste, die das Vermögen der Freien Völker aus den Ettenöden enthält"/>
@@ -29372,10 +29365,6 @@
 <label key="key:620794112:54354734" value="Dieser Gegenstand ermöglicht es Euch, ein unbewegliches Banner zu setzen, das Euch dieselben Vorteile wie ein Hoffnungsherold der Stufe 45 verschafft. Allerdings könnt Ihr keinen Herold rufen, während dieser Gegenstand angelegt ist."/>
 <label key="key:620794113:54354734" value="Verbessert die Rüstung des Artillerie-Herolds des Hauptmanns in wesentlichem Maße."/>
 <label key="key:620794114:54354734" value="Dieser Gegenstand ermöglicht es Euch, ein unbewegliches Banner zu setzen, das Euch dieselben Vorteile wie ein Hoffnungsherold der Stufe 35 verschafft. Allerdings könnt Ihr keinen Herold rufen, während dieser Gegenstand angelegt ist."/>
-<label key="key:620794123:106251889" value="Moral-Höchstwert +20 %"/>
-<label key="key:620794124:106251889" value="Moral-Höchstwert +15 %"/>
-<label key="key:620794125:106251889" value="Kraft-Höchstwert +5 %"/>
-<label key="key:620794126:106251889" value="Kraft-Höchstwert +10 %"/>
 <label key="key:620794187:54354734" value="Ein Feuerwerk, das wie eine Flöte klingt. Ein Überbleibsel von Bilbos 111. Geburtstag. Man kann darauf das Wort \qThal\q ausmachen."/>
 <label key="key:620794189:54354734" value="Ein Feuerwerk, das wie ein Zimbal klingt. Ein Überbleibsel von Bilbos 111. Geburtstag. Man kann darauf das Wort \qThal\q ausmachen."/>
 <label key="key:620794561:106251892" value="+50 % Suchgeschwindigkeit"/>
@@ -29524,14 +29513,6 @@
 <label key="key:620796155:54354734" value="Diese Figur aus massivem Silber ist zwar klein, aber schwer. Sie ist offensichtlich nicht als Kinderspielzeug gedacht."/>
 <label key="key:620796156:54354734" value="Güldene Stränge, die zu einer wunderschönen Armkette gewunden sind."/>
 <label key="key:620796161:54354734" value="Ein Ring mit zwei Edelsteinen"/>
-<label key="key:620796193:106251889" value="Lässt Euren Raben wie einen Blutraben aussehen."/>
-<label key="key:620796196:106251889" value="Lässt Euren Raben wie einen Frostraben aussehen."/>
-<label key="key:620796198:106251889" value="Lässt Euren Bären wie einen Eisbären aussehen."/>
-<label key="key:620796199:106251889" value="Lässt Euren Bären wie einen Schwarzbären aussehen."/>
-<label key="key:620796200:106251889" value="Lässt Euren Adler wie einen Schneehauben-Adler aussehen."/>
-<label key="key:620796202:106251889" value="Lässt Euren Adler wie einen Grauadler aussehen."/>
-<label key="key:620796204:106251889" value="Lässt Euren Luchs wie einen Frostluchs aussehen."/>
-<label key="key:620796206:106251889" value="Lässt Euren Luchs wie einen gefleckten Luchs aussehen."/>
 <label key="key:620796236:54354734" value="Eine Gold-Halskette mit strukturierter Oberfläche und Anhänger"/>
 <label key="key:620796237:54354734" value="Ein großer Diamant mit Rosenschliff schmückt die Mitte dieses edlen Goldrings."/>
 <label key="key:620796238:54354734" value="Ein polierter Hämatit-Ring"/>
@@ -29596,9 +29577,6 @@
 <label key="key:620796734:54354734" value="Ein leuchtender, wunderschöner Rubin. Er kann für den Tauschhandel mit den Waldläufern verwendet werden."/>
 <label key="key:620796735:54354734" value="Münzen, die aus dem gesammelten Spalteisen und Obsidian hergestellt wurden. Sie können für den Tauschhandel mit den Waldläufern verwendet werden."/>
 <label key="key:620796743:54354734" value="Ein seltener, gefährlicher Pilz, der in der Nûrz-Ghâshu-Spalte wächst."/>
-<label key="key:620796746:106251889" value="Lässt Euren Bären wie einen Wildtatzenbären aussehen."/>
-<label key="key:620796750:106251889" value="Lässt Euren Luchs wie einen Schwarzluchs aussehen."/>
-<label key="key:620796751:106251889" value="Lässt Euren Raben wie einen gefleckten Raben aussehen."/>
 <label key="key:620796766:54354734" value="Eine kunstvolle Holzkiste, die mit einem großen Metallschloss verriegelt ist."/>
 <label key="key:620796767:54354734" value="Eine kunstvolle Holzkiste, die mit einem großen Metallschloss verriegelt ist."/>
 <label key="key:620796768:54354734" value="Eine kunstvolle Holzkiste, die mit einem großen Metallschloss verriegelt ist."/>

@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><labels locale="de">
+<label key="1879049208" value="Armbrustschwächung"/>
+<label key="1879049210" value="Schwertpräzision"/>
+<label key="1879049211" value="Schwertpräzision"/>
+<label key="1879049212" value="Hellebardenbedrohung"/>
+<label key="1879049213" value="Bogenpräzision"/>
 <label key="1879049339" value="Gelenkter Angriff"/>
 <label key="1879049342" value="Räuber-Wolf-Begleiter beschwören"/>
 <label key="1879049427" value="Verhöhnen"/>
@@ -639,6 +644,7 @@
 <label key="1879084530" value="Verbesserte Kraft"/>
 <label key="1879084540" value="Verpflichtet"/>
 <label key="1879084788" value="Hoffnung geben"/>
+<label key="1879085059" value="Schwerer Schild"/>
 <label key="1879085064" value="Beschworener Ork-Bogenschütze"/>
 <label key="1879085067" value="Beschworener Jäger"/>
 <label key="1879085068" value="Verhöhnen"/>
@@ -677,6 +683,7 @@
 <label key="1879085804" value="Schmerzhafter Preis"/>
 <label key="1879085805" value="Schattengriff"/>
 <label key="1879085950" value="Durchbohrende Wunde"/>
+<label key="1879086274" value="Dolchpräzision"/>
 <label key="1879086302" value="Großes latentes Gift"/>
 <label key="1879086398" value="Achillessehne"/>
 <label key="1879086711" value="Hang südlich von Calenthon"/>
@@ -1101,6 +1108,10 @@
 <label key="1879102276" value="Induce Wraith Stun"/>
 <label key="1879102277" value="Gurthul Advanced Hint"/>
 <label key="1879102280" value="Ruf des Falken"/>
+<label key="key:620757391:181298206" value="Waffe führen: Eure Trefferwahrscheinlichkeit ist leicht erhöht."/>
+<label key="key:620757393:181298206" value="Waffe führen: Eure Trefferwahrscheinlichkeit ist leicht erhöht."/>
+<label key="key:620757396:181298206" value="Waffe führen: Eure automatischen Angriffe sind 5 % schwieriger zu blocken."/>
+<label key="key:620757398:181298206" value="Waffe führen: Eure Angriffe stellen eine größere Bedrohung dar."/>
 <label key="key:620757552:54354734" value="Sendet einen Ruf an alle Freunde, das Ziel anzugreifen, auf das dieser Effekt angewendet wird."/>
 <label key="key:620757557:54354734" value="Das Monster ist wütend."/>
 <label key="key:620757563:54354734" value="Der Biss der Kreatur hat Euer Bein verwundet, und Ihr werdet langsamer."/>
@@ -1359,6 +1370,7 @@
 <label key="key:620789288:54354734" value="Das Benutzen von geheimen Pfaden ermöglicht die schnelle Reise nach Tol Ascarnen."/>
 <label key="key:620789323:181298206" value="Von Wurzeln befreien."/>
 <label key="key:620789350:54354734" value="Entzieht dem Ziel Moral und heilt den grausamen Geist"/>
+<label key="key:620789445:106251889" value="Waffe führen: 1 % Wahrscheinlichkeit auf kritische Treffer bei automatischen Angriffen"/>
 <label key="key:620789465:54354734" value="Gift kreist in Euren Blutbahnen und wartet darauf, sich zu manifestieren."/>
 <label key="key:620789473:106251889" value="Vermindert die Bewegungsgeschwindigkeit um 30 %."/>
 <label key="key:620789867:54354734" value="Sendet einen Ruf an den in der Nähe des Ziels befindlichen Meister, am Kampf teilzunehmen."/>

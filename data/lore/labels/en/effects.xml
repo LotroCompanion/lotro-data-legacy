@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><labels locale="en">
+<label key="1879049208" value="Crossbow Debuf"/>
+<label key="1879049210" value="Sword Precision"/>
+<label key="1879049211" value="Sword Precision"/>
+<label key="1879049212" value="Halberd Threat"/>
+<label key="1879049213" value="Bow Precision"/>
 <label key="1879049339" value="Directed Attack"/>
 <label key="1879049342" value="Summon Brigand Wolf Pet"/>
 <label key="1879049427" value="Force Attack"/>
@@ -639,6 +644,7 @@
 <label key="1879084530" value="Increased Power"/>
 <label key="1879084540" value="Duty Bound"/>
 <label key="1879084788" value="Give Hope[e]"/>
+<label key="1879085059" value="Heavy Shield"/>
 <label key="1879085064" value="Summoned Orc Archer"/>
 <label key="1879085067" value="Summoned Hunter"/>
 <label key="1879085068" value="Force Attack"/>
@@ -677,6 +683,7 @@
 <label key="1879085804" value="Painful Price"/>
 <label key="1879085805" value="Shadow Grip"/>
 <label key="1879085950" value="Piercing Wound"/>
+<label key="1879086274" value="Dagger Precision"/>
 <label key="1879086302" value="Greater Latent Poison"/>
 <label key="1879086398" value="Hamstring"/>
 <label key="1879086711" value="Slope south of Calenthon"/>
@@ -1101,6 +1108,10 @@
 <label key="1879102276" value="Induce Wraith Stun"/>
 <label key="1879102277" value="Gurthul Advanced Hint"/>
 <label key="1879102280" value="Falcon Cry"/>
+<label key="key:620757391:181298206" value="Wield: Your Hit-chance is slightly increased."/>
+<label key="key:620757393:181298206" value="Wield: Your Hit-chance is slightly increased."/>
+<label key="key:620757396:181298206" value="Wield: Your Auto-attacks are 5% tougher to Block."/>
+<label key="key:620757398:181298206" value="Wield: Your attacks generate greater threat."/>
 <label key="key:620757552:54354734" value="Sends a call to friends to attack the target of this effect."/>
 <label key="key:620757557:54354734" value="The monster is infuriated."/>
 <label key="key:620757563:54354734" value="The creature's bite wounded your leg, slowing you."/>
@@ -1359,6 +1370,7 @@
 <label key="key:620789288:54354734" value="Using secret paths allows for swift travel near Tol Ascarnen."/>
 <label key="key:620789323:181298206" value="Break free from Roots"/>
 <label key="key:620789350:54354734" value="Drains the morale of the target, healing the fell-spirit"/>
+<label key="key:620789445:106251889" value="Wield: 1% Auto-attack Critical Hit Chance"/>
 <label key="key:620789465:54354734" value="Poison courses through afflicted veins, waiting to manifest."/>
 <label key="key:620789473:106251889" value="Slows movement speed by 30%"/>
 <label key="key:620789867:54354734" value="Sends a call to master nearby the target to join in the combat."/>

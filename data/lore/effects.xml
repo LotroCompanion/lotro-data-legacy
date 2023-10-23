@@ -1,4 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><effects>
+<propertyModEffect id="1879049208" name="Crossbow Debuf" description="key:620757396:181298206" iconId="1090519170">
+<stat name="Skill_AutoAttack_BlockChance" constant="-5.0"/>
+</propertyModEffect>
+<propertyModEffect id="1879049210" name="Sword Precision" description="key:620757393:181298206" iconId="1090519170">
+<stat name="Combat_MissChanceModifier" operator="SUBSTRACT" constant="1.0"/>
+</propertyModEffect>
+<propertyModEffect id="1879049211" name="Sword Precision" description="key:620757391:181298206" iconId="1090519170">
+<stat name="Combat_MissChanceModifier" operator="SUBSTRACT" constant="2.0"/>
+</propertyModEffect>
+<propertyModEffect id="1879049212" name="Halberd Threat" description="key:620757398:181298206" iconId="1090519170">
+<stat name="Skill_AdditionalThreat_AllSkillsMod" scaling="1879087232"/>
+</propertyModEffect>
+<propertyModEffect id="1879049213" name="Bow Precision" iconId="1090519170">
+<stat name="RANGED_AUTO_ATTACKS_CRIT_CHANCE_PERCENTAGE" constant="1.0"/>
+</propertyModEffect>
 <effect id="1879049339" name="Directed Attack" appliedDescription="key:620757552:54354734"/>
 <effect id="1879049342" name="Summon Brigand Wolf Pet"/>
 <effect id="1879049427" name="Force Attack" appliedDescription="key:620757557:54354734" iconId="1090522264" duration="10.0"/>
@@ -625,7 +640,9 @@
 <propertyModEffect id="1879060118" name="Small Shield Spikes" iconId="1090540518" duration="300.0">
 <stat name="Item_Guardian_ShieldSpikes_Damage" constant="2.0"/>
 </propertyModEffect>
-<propertyModEffect id="1879060119" name="Westernesse Spikes" iconId="1090540521" duration="600.0"/>
+<propertyModEffect id="1879060119" name="Westernesse Spikes" iconId="1090540521" duration="600.0">
+<specialEffect label="Set damage type of all skills to Westernesse"/>
+</propertyModEffect>
 <propertyModEffect id="1879060238" name="Well Fed" iconId="1090640715" duration="1200.0">
 <stat name="AGILITY" scaling="1879060239"/>
 </propertyModEffect>
@@ -977,7 +994,9 @@
 <propertyModEffect id="1879070111" name="Medium Shield Spikes" iconId="1090540518" duration="600.0">
 <stat name="Item_Guardian_ShieldSpikes_Damage" constant="3.0"/>
 </propertyModEffect>
-<propertyModEffect id="1879070114" name="Ancient Dwarf Spikes" iconId="1090552934" duration="600.0"/>
+<propertyModEffect id="1879070114" name="Ancient Dwarf Spikes" iconId="1090552934" duration="600.0">
+<specialEffect label="Set damage type of all skills to Ancient Dwarf-make"/>
+</propertyModEffect>
 <propertyModEffect id="1879070118" name="Caltrops Slow Tier 2" iconId="1090552838">
 <stat name="ForwardSource_Movement_SpeedMultiplier" operator="SUBSTRACT" descriptionOverride="key:620771663:106251889" constant="25.0"/>
 <stat name="ForwardSource_Movement_MountSpeedMultiplier" operator="SUBSTRACT" constant="25.0"/>
@@ -1058,7 +1077,9 @@
 <propertyModEffect id="1879070436" name="Large Shield Spikes" iconId="1090540518" duration="900.0">
 <stat name="Item_Guardian_ShieldSpikes_Damage" constant="4.0"/>
 </propertyModEffect>
-<propertyModEffect id="1879070439" name="Beleriand Spikes" iconId="1090552948" duration="600.0"/>
+<propertyModEffect id="1879070439" name="Beleriand Spikes" iconId="1090552948" duration="600.0">
+<specialEffect label="Set damage type of all skills to Beleriand"/>
+</propertyModEffect>
 <propertyModEffect id="1879070443" name="Caltrops Slow Tier 3" iconId="1090552838">
 <stat name="ForwardSource_Movement_SpeedMultiplier" operator="SUBSTRACT" descriptionOverride="key:620771892:106251889" constant="25.0"/>
 <stat name="ForwardSource_Movement_MountSpeedMultiplier" operator="SUBSTRACT" constant="25.0"/>
@@ -1552,21 +1573,27 @@
 <propertyModEffect id="1879084265" name="Medium Shield Spikes" iconId="1090540518" duration="600.0">
 <stat name="Item_Guardian_ShieldSpikes_Damage" constant="4.0"/>
 </propertyModEffect>
-<propertyModEffect id="1879084267" name="Westernesse Spikes" iconId="1090540521" duration="900.0"/>
+<propertyModEffect id="1879084267" name="Westernesse Spikes" iconId="1090540521" duration="900.0">
+<specialEffect label="Set damage type of all skills to Westernesse"/>
+</propertyModEffect>
 <propertyModEffect id="1879084269" name="Large Shield Spikes" iconId="1090540518" duration="900.0">
 <stat name="Item_Guardian_ShieldSpikes_Damage" constant="5.0"/>
 </propertyModEffect>
 <instantVitalEffect id="1879084274" name="Increased Power" stat="Power_MaxLevel">
 <vitalChange min="220.0" max="220.0"/>
 </instantVitalEffect>
-<propertyModEffect id="1879084278" name="Ancient Dwarf Spikes" iconId="1090552934" duration="900.0"/>
+<propertyModEffect id="1879084278" name="Ancient Dwarf Spikes" iconId="1090552934" duration="900.0">
+<specialEffect label="Set damage type of all skills to Ancient Dwarf-make"/>
+</propertyModEffect>
 <instantVitalEffect id="1879084280" name="Increased Morale" stat="Health_MaxLevel">
 <vitalChange min="520.0" max="520.0"/>
 </instantVitalEffect>
 <instantVitalEffect id="1879084284" name="Increased Morale" stat="Health_MaxLevel">
 <vitalChange min="620.0" max="620.0"/>
 </instantVitalEffect>
-<propertyModEffect id="1879084288" name="Beleriand Spikes" iconId="1090552948" duration="900.0"/>
+<propertyModEffect id="1879084288" name="Beleriand Spikes" iconId="1090552948" duration="900.0">
+<specialEffect label="Set damage type of all skills to Beleriand"/>
+</propertyModEffect>
 <propertyModEffect id="1879084290" name="Small Shield Spikes" iconId="1090540518" duration="300.0">
 <stat name="Item_Guardian_ShieldSpikes_Damage" constant="3.0"/>
 </propertyModEffect>
@@ -1651,6 +1678,10 @@
 <propertyModEffect id="1879084788" name="Give Hope[e]" iconId="1090537016" duration="300.0">
 <stat name="HOPE" constant="1.0"/>
 </propertyModEffect>
+<propertyModEffect id="1879085059" name="Heavy Shield" iconId="1090519170">
+<stat name="EVADE_PERCENTAGE" operator="SUBSTRACT" constant="2.0"/>
+<stat name="RANGED_DEFENCE_PERCENTAGE" constant="-10.0"/>
+</propertyModEffect>
 <effect id="1879085064" name="Summoned Orc Archer" description="key:620784471:181298206"/>
 <effect id="1879085067" name="Summoned Hunter" description="key:620784435:181298206"/>
 <effect id="1879085068" name="Force Attack" appliedDescription="key:620757557:54354734" iconId="1090522264" duration="10.0"/>
@@ -1703,6 +1734,9 @@
 </instantVitalEffect>
 <effect id="1879085805" name="Shadow Grip" appliedDescription="key:620789350:54354734" iconId="1090532173" duration="4.0" pulseCount="3"/>
 <vitalOverTimeEffect id="1879085950" name="Piercing Wound" iconId="1090523948" duration="3.0" pulseCount="3" stat="Health_MaxLevel" damageType="1"/>
+<propertyModEffect id="1879086274" name="Dagger Precision" iconId="1090519170">
+<stat name="Skill_DaggerAutoAttackCriticalHitChance" descriptionOverride="key:620789445:106251889" constant="1.0"/>
+</propertyModEffect>
 <propertyModEffect id="1879086302" name="Greater Latent Poison" appliedDescription="key:620789465:54354734" iconId="1090522398" duration="5.0" pulseCount="3">
 <stat name="POWER" scaling="1879086303"/>
 </propertyModEffect>
@@ -2080,7 +2114,9 @@
 <propertyModEffect id="1879089502" name="Affliction through Shadow" appliedDescription="key:620791434:54354734" iconId="1090625091" duration="10.0" pulseCount="1">
 <stat name="MORALE" scaling="1879087315"/>
 </propertyModEffect>
-<propertyModEffect id="1879089503" name="Affliction through Flame" appliedDescription="key:620791436:54354734" iconId="1090625105" duration="10.0" pulseCount="1"/>
+<propertyModEffect id="1879089503" name="Affliction through Flame" appliedDescription="key:620791436:54354734" iconId="1090625105" duration="10.0" pulseCount="1">
+<specialEffect label="key:620791436:106251889"/>
+</propertyModEffect>
 <propertyModEffect id="1879089620" name="Lesser Persistence" iconId="1090648226" duration="15.0">
 <stat name="Combat_Agent_Armor_Value" descriptionOverride="key:620791508:106251889" constant="350.0"/>
 </propertyModEffect>
@@ -2556,14 +2592,30 @@
 </propertyModEffect>
 <effect id="1879097484" name="Summon Toad Pet on Left" description="key:620796162:181298206"/>
 <effect id="1879097485" name="Summon Toad Pet on Right" description="key:620796163:181298206"/>
-<propertyModEffect id="1879097489" name="Bear Appearance 2" iconId="1091401112"/>
-<propertyModEffect id="1879097490" name="Bear Appearance 3" iconId="1091401112"/>
-<propertyModEffect id="1879097491" name="Giant Eagle Appearance 2" iconId="1091401112"/>
-<propertyModEffect id="1879097492" name="Giant Eagle Appearance 3" iconId="1091401112"/>
-<propertyModEffect id="1879097493" name="Lynx Appearance 2" iconId="1091401112"/>
-<propertyModEffect id="1879097494" name="Lynx Appearance 3" iconId="1091401112"/>
-<propertyModEffect id="1879097495" name="Raven Appearance 2" iconId="1091401112"/>
-<propertyModEffect id="1879097496" name="Raven Appearance 3" iconId="1091401112"/>
+<propertyModEffect id="1879097489" name="Bear Appearance 2" iconId="1091401112">
+<specialEffect label="key:620796198:106251889"/>
+</propertyModEffect>
+<propertyModEffect id="1879097490" name="Bear Appearance 3" iconId="1091401112">
+<specialEffect label="key:620796199:106251889"/>
+</propertyModEffect>
+<propertyModEffect id="1879097491" name="Giant Eagle Appearance 2" iconId="1091401112">
+<specialEffect label="key:620796200:106251889"/>
+</propertyModEffect>
+<propertyModEffect id="1879097492" name="Giant Eagle Appearance 3" iconId="1091401112">
+<specialEffect label="key:620796202:106251889"/>
+</propertyModEffect>
+<propertyModEffect id="1879097493" name="Lynx Appearance 2" iconId="1091401112">
+<specialEffect label="key:620796204:106251889"/>
+</propertyModEffect>
+<propertyModEffect id="1879097494" name="Lynx Appearance 3" iconId="1091401112">
+<specialEffect label="key:620796206:106251889"/>
+</propertyModEffect>
+<propertyModEffect id="1879097495" name="Raven Appearance 2" iconId="1091401112">
+<specialEffect label="key:620796193:106251889"/>
+</propertyModEffect>
+<propertyModEffect id="1879097496" name="Raven Appearance 3" iconId="1091401112">
+<specialEffect label="key:620796196:106251889"/>
+</propertyModEffect>
 <propertyModEffect id="1879097590" name="Sulfur Deception" appliedDescription="key:620796251:54354734" iconId="1091402345" duration="45.0">
 <stat name="Combat_BaseEvadeRate_Ranged" operator="SET" descriptionOverride="key:620796251:106251889" constant="50.0"/>
 </propertyModEffect>
@@ -2618,9 +2670,15 @@
 <effect id="1879098176" name="Virulent Mushroom Miasma" spellcraft="50.0"/>
 </hotspot>
 </genesis>
-<propertyModEffect id="1879098180" name="Raven Appearance 4" iconId="1091401112"/>
-<propertyModEffect id="1879098185" name="Bear Appearance 4" iconId="1091401112"/>
-<propertyModEffect id="1879098187" name="Lynx Appearance 4" iconId="1091401112"/>
+<propertyModEffect id="1879098180" name="Raven Appearance 4" iconId="1091401112">
+<specialEffect label="key:620796751:106251889"/>
+</propertyModEffect>
+<propertyModEffect id="1879098185" name="Bear Appearance 4" iconId="1091401112">
+<specialEffect label="key:620796746:106251889"/>
+</propertyModEffect>
+<propertyModEffect id="1879098187" name="Lynx Appearance 4" iconId="1091401112">
+<specialEffect label="key:620796750:106251889"/>
+</propertyModEffect>
 <propertyModEffect id="1879098190" name="Melted Armour" appliedDescription="key:620796753:54354734" iconId="1090531635" duration="30.0">
 <stat name="Combat_Agent_Armor_Value" scaling="1879085473"/>
 </propertyModEffect>
@@ -2635,7 +2693,9 @@
 <stat name="Resist_Additional_Resistance_Fear" operator="SUBSTRACT" constant="20.0"/>
 </propertyModEffect>
 <effect id="1879098828" name="Summoned Fire-wisp"/>
-<propertyModEffect id="1879098830" name="Improved Gift of the Hammerhand" appliedDescription="key:620797275:54354734" iconId="1090519170"/>
+<propertyModEffect id="1879098830" name="Improved Gift of the Hammerhand" appliedDescription="key:620797275:54354734" iconId="1090519170">
+<specialEffect label="key:620797275:209988549"/>
+</propertyModEffect>
 <propertyModEffect id="1879098854" name="Tempered by Flame" iconId="1090555708">
 <stat name="MELEE_DEFENCE_PERCENTAGE" operator="SET" descriptionOverride="key:620797287:106251889" constant="5.0"/>
 <stat name="RANGED_DEFENCE_PERCENTAGE" operator="SET" constant="5.0"/>
@@ -2657,7 +2717,9 @@
 <propertyModEffect id="1879099120" name="Pet Efect Aura Override" iconId="1090519170"/>
 <propertyModEffect id="1879099121" name="Pet Efect Aura Override" iconId="1090519170"/>
 <propertyModEffect id="1879099122" name="Pet Efect Aura Override" iconId="1090519170"/>
-<propertyModEffect id="1879099123" name="Shadow Ward" appliedDescription="key:620797493:54354734" iconId="1090519170"/>
+<propertyModEffect id="1879099123" name="Shadow Ward" appliedDescription="key:620797493:54354734" iconId="1090519170">
+<specialEffect label="key:620797493:209988549"/>
+</propertyModEffect>
 <propertyModEffect id="1879099124" name="Pet Efect Aura Override" iconId="1090519170"/>
 <propertyModEffect id="1879099125" name="Pet Efect Aura Override" iconId="1090519170"/>
 <propertyModEffect id="1879099126" name="Pet Efect Aura Override" iconId="1090519170"/>

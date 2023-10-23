@@ -28403,12 +28403,6 @@
 <label key="key:620790820:54354734" value="These leather boots can be invoked to give the wearer a short boost of speed."/>
 <label key="key:620790821:54354734" value="These dwarven-made boots can be invoked to give the wearer a short boost of speed."/>
 <label key="key:620790848:54354734" value="A barrel filled with sweet smelling liquid meant to counteract a vile poison introduced to the Hoarwell River."/>
-<label key="key:620790878:106251889" value="Better Threat Reduction During Combat"/>
-<label key="key:620790879:106251889" value="Greater Threat Reduction During Combat"/>
-<label key="key:620790880:106251889" value="Slight Threat Reduction During Combat"/>
-<label key="key:620790881:106251889" value="Limited Threat Reduction During Combat"/>
-<label key="key:620790882:106251889" value="Larger Threat Reduction During Combat"/>
-<label key="key:620790883:106251889" value="Small Threat Reduction During Combat"/>
 <label key="key:620790900:54354734" value="The Stonehelm Shield can be invoked, preventing all damage for a length of time but rooting the user in place."/>
 <label key="key:620790931:54354734" value="Extremely effective dwarven-made armour that can be invoked to grant the wearer power-over-time."/>
 <label key="key:620790932:54354734" value="Using this scroll grants a Journeyman Woodworker recipe."/>
@@ -29300,7 +29294,6 @@
 <label key="key:620793839:54354734" value="This wanted poster has your name on it!"/>
 <label key="key:620793840:54354734" value="This wanted poster has your name on it!"/>
 <label key="key:620793849:54354734" value="A huge pot of stew. It is best if you do not think too hard about what might be in it."/>
-<label key="key:620793900:106251889" value="+10% Maximum Morale"/>
 <label key="key:620793906:54354734" value="This battered crate looks like it recently washed ashore."/>
 <label key="key:620793908:54354734" value="A strong Mining Pick loaned to you by Regin."/>
 <label key="key:620793929:54354734" value="A chest containing the wealth of the Free Peoples in the Ettenmoors."/>
@@ -29372,10 +29365,6 @@
 <label key="key:620794112:54354734" value="This item enables you to plant an immobile banner that gives the same benefits as a Level 45 Herald of Hope.  However while this item is equipped you cannot have a herald summoned."/>
 <label key="key:620794113:54354734" value="Significantly increases the Captain's Maid-at-arms Herald's Armour."/>
 <label key="key:620794114:54354734" value="This item enables you to plant an immobile banner that gives the same benefits as a Level 35 Herald of Hope.  However while this item is equipped you cannot have a herald summoned."/>
-<label key="key:620794123:106251889" value="+20% Maximum Morale"/>
-<label key="key:620794124:106251889" value="+15% Maximum Morale"/>
-<label key="key:620794125:106251889" value="+5% Maximum Power"/>
-<label key="key:620794126:106251889" value="+10% Maximum Power"/>
 <label key="key:620794187:54354734" value="A flute sounding musical cracker left over from Bilbo’s One Hundred and Eleventh Birthday.  It bears the mark of DALE on it."/>
 <label key="key:620794189:54354734" value="A dulcimer sounding musical cracker left over from Bilbo’s One Hundred and Eleventh Birthday.  It bears the mark of DALE on it."/>
 <label key="key:620794561:106251892" value="+50% Search Speed"/>
@@ -29524,14 +29513,6 @@
 <label key="key:620796155:54354734" value="The solid silver figurine is small but heavy. It's clearly not a child's plaything."/>
 <label key="key:620796156:54354734" value="Bands of gold folded and twisted to form a beautiful bracelet."/>
 <label key="key:620796161:54354734" value="Ring fashioned from two precious gems."/>
-<label key="key:620796193:106251889" value="Changes the appearance of your Raven to a Blood-raven."/>
-<label key="key:620796196:106251889" value="Changes the appearance of your Raven to a Frost-raven."/>
-<label key="key:620796198:106251889" value="Changes the appearance of your Bear to a Polar Bear."/>
-<label key="key:620796199:106251889" value="Changes the appearance of your Bear to a Black Bear."/>
-<label key="key:620796200:106251889" value="Changes the appearance of your Eagle to a Snowcrest Eagle."/>
-<label key="key:620796202:106251889" value="Changes the appearance of your Eagle to an Ashen Eagle."/>
-<label key="key:620796204:106251889" value="Changes the appearance of your Lynx to a Frost-lynx."/>
-<label key="key:620796206:106251889" value="Changes the appearance of your Lynx to a Spotted Lynx."/>
 <label key="key:620796236:54354734" value="A textured gold necklace with a hanging pendant."/>
 <label key="key:620796237:54354734" value="A large rose-cut diamond is the centerpiece to this fine golden ring."/>
 <label key="key:620796238:54354734" value="A polished hematite ring."/>
@@ -29596,9 +29577,6 @@
 <label key="key:620796734:54354734" value="A shining beautiful Ruby.  This can be used to barter with the Rangers."/>
 <label key="key:620796735:54354734" value="Coins made from the collected Rift-Iron and Obsidian.  This can be used to barter with the Rangers."/>
 <label key="key:620796743:54354734" value="A rare and dangerous mushroom found within The Rift of Nûrz Ghâshu."/>
-<label key="key:620796746:106251889" value="Changes the appearance of your Bear to a Wildpaw-bear."/>
-<label key="key:620796750:106251889" value="Changes the appearance of your Lynx to an Ebony Lynx."/>
-<label key="key:620796751:106251889" value="Changes the appearance of your Raven to a Mottled-wing Raven."/>
 <label key="key:620796766:54354734" value="A fancy wood chest clasped closed with a large metal lock."/>
 <label key="key:620796767:54354734" value="A fancy wood chest clasped closed with a large metal lock."/>
 <label key="key:620796768:54354734" value="A fancy wood chest clasped closed with a large metal lock."/>

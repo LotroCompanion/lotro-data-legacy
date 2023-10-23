@@ -28403,12 +28403,6 @@
 <label key="key:620790820:54354734" value="Ces bottes en cuir peuvent conférer à leur pouvoir une brève pointe de vitesse quand on invoque leur pouvoir."/>
 <label key="key:620790821:54354734" value="Ces bottes fabriquées par les nains peuvent conférer à leur pouvoir une brève pointe de vitesse quand on invoque leur pouvoir."/>
 <label key="key:620790848:54354734" value="Tonneau empli d'un liquide douceâtre censé servir d'antidote au poison versé dans la rivière Valgivre."/>
-<label key="key:620790878:106251889" value="Meilleure réduction de menace au combat"/>
-<label key="key:620790879:106251889" value="Réduction de menace plus importante au combat"/>
-<label key="key:620790880:106251889" value="Légère réduction de menace au combat"/>
-<label key="key:620790881:106251889" value="Réduction de menace limitée au combat"/>
-<label key="key:620790882:106251889" value="Plus grande réduction de menace au combat"/>
-<label key="key:620790883:106251889" value="Petite réduction de menace au combat"/>
 <label key="key:620790900:54354734" value="Lorsque le pouvoir de ce bouclier est invoqué, son porteur est immunisé contre tous les dégâts pendant un certain temps mais se retrouve dans l'incapacité de se déplacer."/>
 <label key="key:620790931:54354734" value="Cette armure de nain extrêmement efficace confère le pouvoir de contrôler le temps quand on l'invoque."/>
 <label key="key:620790932:54354734" value="Lire ce parchemin permet d'apprendre une méthode de préparation de compagnon menuisier."/>
@@ -29300,7 +29294,6 @@
 <label key="key:620793839:54354734" value="Il y a votre nom sur cet avis de recherche !"/>
 <label key="key:620793840:54354734" value="Il y a votre nom sur cet avis de recherche !"/>
 <label key="key:620793849:54354734" value="Enorme chaudron de ragoût. Il vaut mieux ne pas trop penser à ce qu'il peut contenir."/>
-<label key="key:620793900:106251889" value="Moral maximal +10%"/>
 <label key="key:620793906:54354734" value="Cette caisse a l'air d'avoir passé un certain temps dans l'eau avant d'être rejetée sur le rivage."/>
 <label key="key:620793908:54354734" value="Cette solide pioche vous a été prêtée par Regin."/>
 <label key="key:620793929:54354734" value="Coffre contenant la fortune des Peuples Libres dans les Landes d'Etten."/>
@@ -29372,10 +29365,6 @@
 <label key="key:620794112:54354734" value="Cet objet vous permet de planter dans le sol une bannière immobile offrant les mêmes avantages qu'un héraut d'espoir de niveau 45. Cependant, vous ne pouvez pas appeler votre héraut si vous utilisez déjà cet objet."/>
 <label key="key:620794113:54354734" value="Augmente de façon importante l'armure de héraut femme d'armes du capitaine."/>
 <label key="key:620794114:54354734" value="Cet objet vous permet de planter dans le sol une bannière immobile offrant les mêmes avantages qu'un héraut d'espoir de niveau 35. Cependant, vous ne pouvez pas appeler votre héraut si vous utilisez déjà cet objet."/>
-<label key="key:620794123:106251889" value="Moral maximum +20 %"/>
-<label key="key:620794124:106251889" value="Moral maximum +15 %"/>
-<label key="key:620794125:106251889" value="Puissance maximum +5 %"/>
-<label key="key:620794126:106251889" value="Puissance maximum +10 %"/>
 <label key="key:620794187:54354734" value="Pétard musical faisant un bruit de flûte. Il provient du cent onzième anniversaire de Bilbon et arbore la marque de DALE."/>
 <label key="key:620794189:54354734" value="Pétard musical faisant un bruit de tympanon. Il provient du cent onzième anniversaire de Bilbon et arbore la marque de DALE."/>
 <label key="key:620794561:106251892" value="+50% à la vitesse de recherche"/>
@@ -29524,14 +29513,6 @@
 <label key="key:620796155:54354734" value="Cette figurine en argent massif est petite mais fait son poids. Ce n'est apparemment pas un jouet d'enfant."/>
 <label key="key:620796156:54354734" value="Anneaux d'or pliés et tordus pour former un magnifique bracelet."/>
 <label key="key:620796161:54354734" value="Anneau façonné à partir de deux pierres précieuses."/>
-<label key="key:620796193:106251889" value="Transforme l'apparence de votre corbeau en corbeau sanguinaire."/>
-<label key="key:620796196:106251889" value="Transforme l'apparence de votre corbeau en corbeau du givre."/>
-<label key="key:620796198:106251889" value="Transforme l'apparence de votre ours en ours polaire."/>
-<label key="key:620796199:106251889" value="Transforme l'apparence de votre ours en ours noir."/>
-<label key="key:620796200:106251889" value="Transforme l'apparence de votre aigle en aigle des cimes enneigées."/>
-<label key="key:620796202:106251889" value="Transforme l'apparence de votre aigle en aigle cendré."/>
-<label key="key:620796204:106251889" value="Transforme l'apparence de votre lynx en lynx du givre."/>
-<label key="key:620796206:106251889" value="Transforme l'apparence de votre lynx en lynx tacheté."/>
 <label key="key:620796236:54354734" value="Collier d'or tissé avec pendentif."/>
 <label key="key:620796237:54354734" value="Un imposant diamant taillé en rose est enchâssé dans ce magnifique anneau en or."/>
 <label key="key:620796238:54354734" value="Anneau en hématite polie."/>
@@ -29596,9 +29577,6 @@
 <label key="key:620796734:54354734" value="Magnifique rubis brillant. Echangeable avec les Rôdeurs."/>
 <label key="key:620796735:54354734" value="Pièces fabriquées avec du fer provenant de la faille et d'obsidienne. Echangeable avec les Rôdeurs."/>
 <label key="key:620796743:54354734" value="Un champignon rare et dangereux, découvert dans la Faille de Nûrz Ghâshu."/>
-<label key="key:620796746:106251889" value="Transforme l'apparence de votre ours en ours écorcheur."/>
-<label key="key:620796750:106251889" value="Transforme l'apparence de votre lynx en lynx noir."/>
-<label key="key:620796751:106251889" value="Transforme l'apparence de votre corbeau en corbeau à ailes mouchetées."/>
 <label key="key:620796766:54354734" value="Joli coffre en bois, fermé par un gros verrou en métal."/>
 <label key="key:620796767:54354734" value="Joli coffre en bois, fermé par un gros verrou en métal."/>
 <label key="key:620796768:54354734" value="Joli coffre en bois, fermé par un gros verrou en métal."/>

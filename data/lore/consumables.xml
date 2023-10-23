@@ -731,16 +731,16 @@
 <stat name="OCPR" constant="561.0"/>
 </consumable>
 <consumable identifier="1879088545" name="Mace of the Deep Pool">
-<stat name="MIGHT" descriptionOverride="key:620789958:106251889" constant="21.0"/>
+<stat name="MIGHT" descriptionOverride="key:620789958:106251889" constant="24.0"/>
 </consumable>
 <consumable identifier="1879088546" name="Tarist">
-<stat name="VITALITY" descriptionOverride="key:620789953:106251889" constant="19.0"/>
+<stat name="VITALITY" descriptionOverride="key:620789953:106251889" constant="22.0"/>
 </consumable>
 <consumable identifier="1879088547" name="Green-hill Spear">
-<stat name="AGILITY" descriptionOverride="key:620789951:106251889" constant="19.0"/>
+<stat name="AGILITY" descriptionOverride="key:620789951:106251889" constant="22.0"/>
 </consumable>
 <consumable identifier="1879088551" name="Avorist">
-<stat name="AGILITY" descriptionOverride="key:620789951:106251889" constant="21.0"/>
+<stat name="AGILITY" descriptionOverride="key:620789951:106251889" constant="24.0"/>
 </consumable>
 <consumable identifier="1879088647" name="Elven Striding Shoes">
 <stat name="ForwardSource_Movement_SpeedMultiplier" descriptionOverride="key:620789918:106251889" constant="15.000001"/>
@@ -752,7 +752,7 @@
 <stat name="ForwardSource_Movement_SpeedMultiplier" descriptionOverride="key:620789918:106251889" constant="15.000001"/>
 </consumable>
 <consumable identifier="1879088737" name="Robe of the Moors">
-<stat name="VITALITY" descriptionOverride="key:620789953:106251889" constant="29.0"/>
+<stat name="VITALITY" descriptionOverride="key:620789953:106251889" constant="30.0"/>
 </consumable>
 <consumable identifier="1879088738" name="Stonehelm Shield">
 <stat name="MELEE_DAMAGE_PERCENTAGE" descriptionOverride="-" constant="10.0"/>
@@ -822,52 +822,52 @@
 <stat name="Combat_BaseMissRate" descriptionOverride="-" constant="15.000001"/>
 </consumable>
 <consumable identifier="1879089705" name="Limdail">
-<stat name="FATE" descriptionOverride="key:620789956:106251889" constant="12.0"/>
+<stat name="FATE" descriptionOverride="key:620789956:106251889" constant="13.0"/>
 </consumable>
 <consumable identifier="1879089706" name="Curugarab">
-<stat name="POWER" descriptionOverride="key:620789991:106251889" constant="34.0"/>
+<stat name="POWER" descriptionOverride="key:620789991:106251889" constant="38.0"/>
 </consumable>
 <consumable identifier="1879089711" name="Calatherdir's Boots">
-<stat name="WILL" descriptionOverride="key:620789954:106251889" constant="11.0"/>
+<stat name="WILL" descriptionOverride="key:620789954:106251889" constant="13.0"/>
 </consumable>
 <consumable identifier="1879089715" name="Golubadanir">
-<stat name="POWER" descriptionOverride="key:620789992:106251889" constant="73.0"/>
+<stat name="POWER" descriptionOverride="key:620789992:106251889" constant="82.0"/>
 </consumable>
 <consumable identifier="1879089718" name="Defender of Bonedigger Isle">
-<stat name="MIGHT" descriptionOverride="key:620789949:106251889" constant="12.0"/>
+<stat name="MIGHT" descriptionOverride="key:620789949:106251889" constant="13.0"/>
 </consumable>
 <consumable identifier="1879089720" name="Messenger's Cloak">
-<stat name="MIGHT" descriptionOverride="key:620789958:106251889" constant="22.0"/>
+<stat name="MIGHT" descriptionOverride="key:620789958:106251889" constant="25.0"/>
 </consumable>
 <consumable identifier="1879089751" name="Panthavron's Bangle">
-<stat name="WILL" descriptionOverride="key:620789954:106251889" constant="11.0"/>
+<stat name="WILL" descriptionOverride="key:620789954:106251889" constant="12.0"/>
 </consumable>
 <consumable identifier="1879089754" name="Elloch">
-<stat name="AGILITY" descriptionOverride="key:620789950:106251889" constant="12.0"/>
+<stat name="AGILITY" descriptionOverride="key:620789950:106251889" constant="13.0"/>
 </consumable>
 <consumable identifier="1879089756" name="Faerinn">
-<stat name="FATE" descriptionOverride="key:620789956:106251889" constant="11.0"/>
+<stat name="FATE" descriptionOverride="key:620789956:106251889" constant="12.0"/>
 </consumable>
 <consumable identifier="1879089761" name="Calatherdir's Buckler">
-<stat name="MORALE" descriptionOverride="key:620789990:106251889" constant="32.0"/>
+<stat name="MORALE" descriptionOverride="key:620789990:106251889" constant="38.0"/>
 </consumable>
 <consumable identifier="1879089763" name="Calatherdir's Wall">
-<stat name="FATE" descriptionOverride="key:620789956:106251889" constant="11.0"/>
+<stat name="FATE" descriptionOverride="key:620789956:106251889" constant="13.0"/>
 </consumable>
 <consumable identifier="1879089771" name="Gwindeth's Greatsword">
-<stat name="FATE" descriptionOverride="key:620789957:106251889" constant="22.0"/>
+<stat name="FATE" descriptionOverride="key:620789957:106251889" constant="25.0"/>
 </consumable>
 <consumable identifier="1879089774" name="Thief-taker's Bane">
-<stat name="MIGHT" descriptionOverride="key:620789949:106251889" constant="12.0"/>
+<stat name="MIGHT" descriptionOverride="key:620789949:106251889" constant="13.0"/>
 </consumable>
 <consumable identifier="1879089779" name="Steak Tenderizer">
-<stat name="MORALE" descriptionOverride="key:620789990:106251889" constant="29.0"/>
+<stat name="MORALE" descriptionOverride="key:620789990:106251889" constant="34.0"/>
 </consumable>
 <consumable identifier="1879089781" name="Ithilnaith">
-<stat name="AGILITY" descriptionOverride="key:620789950:106251889" constant="12.0"/>
+<stat name="AGILITY" descriptionOverride="key:620789950:106251889" constant="14.0"/>
 </consumable>
 <consumable identifier="1879089917" name="Sam's Kitchen Knife">
-<stat name="FATE" descriptionOverride="key:620789956:106251889" constant="8.0"/>
+<stat name="FATE" descriptionOverride="key:620789956:106251889" constant="10.0"/>
 </consumable>
 <consumable identifier="1879089927" name="White-warg Hunter">
 <stat name="MIGHT" descriptionOverride="key:620789958:106251889" constant="22.0"/>
@@ -877,7 +877,7 @@
 <stat name="OCPR" constant="3432.0"/>
 </consumable>
 <consumable identifier="1879089970" name="William's Doom">
-<stat name="MIGHT" descriptionOverride="key:620789949:106251889" constant="9.0"/>
+<stat name="MIGHT" descriptionOverride="key:620789949:106251889" constant="11.0"/>
 </consumable>
 <consumable identifier="1879090928" name="Simple Fire-oil">
 <stat name="ForwardSource_ComboMode_Hunter_DamageType" operator="SET" constant="39.0"/>
@@ -907,10 +907,10 @@
 <stat name="Skill_HealingMultiplier_Item" descriptionOverride="key:620793476:106251889" constant="10.0"/>
 </consumable>
 <consumable identifier="1879092279" name="Tallos">
-<stat name="AGILITY" descriptionOverride="key:620789950:106251889" constant="15.0"/>
+<stat name="AGILITY" descriptionOverride="key:620789950:106251889" constant="13.0"/>
 </consumable>
 <consumable identifier="1879096857" name="Lucky Horseshoe">
-<stat name="FATE" descriptionOverride="key:620789956:106251889" scaling="1879049801"/>
+<stat name="FATE" descriptionOverride="key:620789956:106251889" constant="5.0"/>
 </consumable>
 <consumable identifier="1879096878" name="Scented Candle">
 <stat name="HOPE" constant="1.0"/>

@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><labels locale="fr">
+<label key="1879049208" value="Affaiblissement à l'arbalète"/>
+<label key="1879049210" value="Précision à l'épée"/>
+<label key="1879049211" value="Précision à l'épée"/>
+<label key="1879049212" value="Menace de hallebarde"/>
+<label key="1879049213" value="Précision à l'arc"/>
 <label key="1879049339" value="Attaque dirigée"/>
 <label key="1879049342" value="Invoquer un loup apprivoisé de brigand"/>
 <label key="1879049427" value="Attaque en force"/>
@@ -639,6 +644,7 @@
 <label key="1879084530" value="Puissance augmentée"/>
 <label key="1879084540" value="Lié par le devoir"/>
 <label key="1879084788" value="Don d'espoir[n]"/>
+<label key="1879085059" value="Bouclier lourd"/>
 <label key="1879085064" value="Archer orque invoqué"/>
 <label key="1879085067" value="Chasseur invoqué"/>
 <label key="1879085068" value="Attaque en force"/>
@@ -677,6 +683,7 @@
 <label key="1879085804" value="Prix douloureux"/>
 <label key="1879085805" value="Etreinte de l'ombre"/>
 <label key="1879085950" value="Blessure perforante"/>
+<label key="1879086274" value="Précision à la dague"/>
 <label key="1879086302" value="Poison latent supérieur"/>
 <label key="1879086398" value="Attaque aux jarrets"/>
 <label key="1879086711" value="Pente au sud de Calenthon"/>
@@ -1101,6 +1108,10 @@
 <label key="1879102276" value="Déclencher Etourdissement d’esprit spectral"/>
 <label key="1879102277" value="Gurthul Advanced Hint"/>
 <label key="1879102280" value="Cri du faucon"/>
+<label key="key:620757391:181298206" value="Porté : vos chances de toucher augmentent légèrement."/>
+<label key="key:620757393:181298206" value="Porté : vos chances de toucher augmentent légèrement."/>
+<label key="key:620757396:181298206" value="Porté : vos attaques automatiques sont 5% plus difficiles à bloquer."/>
+<label key="key:620757398:181298206" value="Porté : vos attaques génèrent davantage de menace."/>
 <label key="key:620757552:54354734" value="Envoie un appel aux amis pour qu'ils attaquent la cible de cet effet."/>
 <label key="key:620757557:54354734" value="Le monstre est fou de rage."/>
 <label key="key:620757563:54354734" value="La morsure que vous avez reçue à la jambe vous ralentit."/>
@@ -1359,6 +1370,7 @@
 <label key="key:620789288:54354734" value="L'utilisation de passages secrets permet de se déplacer rapidement aux abords de Tol Ascarnen."/>
 <label key="key:620789323:181298206" value="Permet de se libérer des racines"/>
 <label key="key:620789350:54354734" value="Absorbe le moral de la cible, ce qui soigne l'esprit cruel"/>
+<label key="key:620789445:106251889" value="Porté : 1% de chance d'obtenir un coup critique en cas d'attaque automatique."/>
 <label key="key:620789465:54354734" value="Le poison est là, tapi, attendant de se manifester."/>
 <label key="key:620789473:106251889" value="Ralentit la vitesse de déplacement de 30%"/>
 <label key="key:620789867:54354734" value="Appelle le maître à côté de la cible afin qu'il prenne part au combat."/>
