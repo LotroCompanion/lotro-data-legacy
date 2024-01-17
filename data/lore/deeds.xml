@@ -1880,6 +1880,9 @@
 </deed>
 <deed id="1879071646" key="The_Wary_(Deed)" name="The Wary" rawName="key:620774244:228870261" type="REPUTATION" minLevel="1" category="10" level="5" description="key:620774244:54354734">
 <objectives>
+<failureConditions>
+<condition type="SELF_DIED"/>
+</failureConditions>
 <objective index="1" text="key:620774244:94621393">
 <level loreInfo="key:620774244:118018273" progressOverride="key:620774244:22075073" showBillboardText="false" level="5"/>
 </objective>
@@ -1891,6 +1894,9 @@
 </deed>
 <deed id="1879071647" key="The_Undefeated_(Deed)" name="The Undefeated" rawName="key:620774246:228870261" type="REPUTATION" minLevel="1" category="10" level="10" description="key:620774246:54354734">
 <objectives>
+<failureConditions>
+<condition type="SELF_DIED"/>
+</failureConditions>
 <objective index="1" text="key:620774246:94621393">
 <level loreInfo="key:620774246:118018273" progressOverride="key:620774246:22075073" showBillboardText="false" level="10"/>
 </objective>
@@ -1902,6 +1908,9 @@
 </deed>
 <deed id="1879071648" key="The_Indomitable_(Deed)" name="The Indomitable" rawName="key:620774248:228870261" type="REPUTATION" minLevel="1" category="10" level="14" description="key:620774248:54354734">
 <objectives>
+<failureConditions>
+<condition type="SELF_DIED"/>
+</failureConditions>
 <objective index="1" text="key:620774248:94621393">
 <level loreInfo="key:620774248:118018273" progressOverride="key:620774248:22075073" showBillboardText="false" level="14"/>
 </objective>
@@ -1913,6 +1922,9 @@
 </deed>
 <deed id="1879071649" key="The_Unscathed_(Deed)" name="The Unscathed" rawName="key:620774250:228870261" type="REPUTATION" minLevel="1" category="10" level="17" description="key:620774250:54354734">
 <objectives>
+<failureConditions>
+<condition type="SELF_DIED"/>
+</failureConditions>
 <objective index="1" text="key:620774250:94621393">
 <level loreInfo="key:620774250:118018273" progressOverride="key:620774250:22075073" showBillboardText="false" level="17"/>
 </objective>
@@ -1924,6 +1936,9 @@
 </deed>
 <deed id="1879071650" key="The_Undying_(Deed)" name="The Undying" rawName="key:620774252:228870261" type="REPUTATION" minLevel="1" category="10" level="20" description="key:620774252:54354734">
 <objectives>
+<failureConditions>
+<condition type="SELF_DIED"/>
+</failureConditions>
 <objective index="1" text="key:620774252:94621393">
 <level loreInfo="key:620774252:118018273" progressOverride="key:620774252:22075073" showBillboardText="false" level="20"/>
 </objective>
@@ -2278,18 +2293,30 @@
 </monsterDied>
 </objective>
 <objective index="2" text="key:620774276:94621394">
+<compoundEvent>
 <itemUsed itemId="1879071985" itemName="Journal of Cardolan, Page 5"/>
 <inventoryItem showBillboardText="false" itemId="1879071985" itemName="Journal of Cardolan, Page 5"/>
+</compoundEvent>
+<compoundEvent>
 <itemUsed itemId="1879071986" itemName="Journal of Cardolan, Page 7"/>
 <inventoryItem showBillboardText="false" itemId="1879071986" itemName="Journal of Cardolan, Page 7"/>
+</compoundEvent>
+<compoundEvent>
 <itemUsed itemId="1879071987" itemName="Journal of Cardolan, Page 15"/>
 <inventoryItem showBillboardText="false" itemId="1879071987" itemName="Journal of Cardolan, Page 15"/>
+</compoundEvent>
+<compoundEvent>
 <itemUsed itemId="1879071988" itemName="Journal of Cardolan, Page 16"/>
 <inventoryItem showBillboardText="false" itemId="1879071988" itemName="Journal of Cardolan, Page 16"/>
+</compoundEvent>
+<compoundEvent>
 <itemUsed itemId="1879071989" itemName="Journal of Cardolan, Page 22"/>
 <inventoryItem showBillboardText="false" itemId="1879071989" itemName="Journal of Cardolan, Page 22"/>
+</compoundEvent>
+<compoundEvent>
 <itemUsed itemId="1879071990" itemName="Journal of Cardolan, Page 28"/>
 <inventoryItem showBillboardText="false" itemId="1879071990" itemName="Journal of Cardolan, Page 28"/>
+</compoundEvent>
 </objective>
 </objectives>
 <rewards>

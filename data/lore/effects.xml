@@ -14,6 +14,17 @@
 <propertyModEffect id="1879049213" name="Bow Precision" iconId="1090519170">
 <stat name="RANGED_AUTO_ATTACKS_CRIT_CHANCE_PERCENTAGE" constant="1.0"/>
 </propertyModEffect>
+<effect id="1879049269" name="Block Response" appliedDescription="key:620757522:54354734" iconId="1090519260" duration="6.0"/>
+<effect id="1879049270" name="Parry Response" appliedDescription="key:620757523:54354734" iconId="1090519700" duration="6.0"/>
+<propertyModEffect id="1879049330" name="Hounding Fear" appliedDescription="key:620757541:54354734" iconId="1090522260" duration="7.0">
+<stat name="ForwardSource_Movement_SpeedMultiplier" operator="SUBSTRACT" constant="25.0"/>
+<stat name="ForwardSource_Movement_MountSpeedMultiplier" operator="SET" constant="75.0"/>
+</propertyModEffect>
+<propertyModEffect id="1879049334" name="Distraction" iconId="1090522261">
+<stat name="RANGED_DAMAGE_PERCENTAGE" operator="SUBSTRACT" constant="50.0"/>
+<stat name="Combat_BaseMissRate" constant="10.0"/>
+</propertyModEffect>
+<effect id="1879049336" name="Suppression Vulnerability" iconId="1090522263"/>
 <effect id="1879049339" name="Directed Attack" appliedDescription="key:620757552:54354734"/>
 <effect id="1879049342" name="Summon Brigand Wolf Pet"/>
 <effect id="1879049427" name="Force Attack" appliedDescription="key:620757557:54354734" iconId="1090522264" duration="10.0"/>
@@ -62,6 +73,7 @@
 <propertyModEffect id="1879049495" name="Latent Poison" appliedDescription="key:620757588:54354734" iconId="1090522398" duration="10.0" pulseCount="2">
 <stat name="POWER" scaling="1879049497"/>
 </propertyModEffect>
+<propertyModEffect id="1879049499" name="RunAwaySelf" iconId="1090522264" duration="10.0"/>
 <vitalOverTimeEffect id="1879049532" name="Minor Disease" iconId="1090522615" duration="3.0" pulseCount="4" stat="Power_MaxLevel" damageType="1">
 <overTimeChange progressionID="1879049533"/>
 </vitalOverTimeEffect>
@@ -78,7 +90,7 @@
 <stat name="ICMR" scaling="1879049542"/>
 <stat name="ICPR" scaling="1879049543"/>
 </propertyModEffect>
-<effect id="1879049583" name="Travel Home" description="key:620757625:181298206"/>
+<recallEffect id="1879049583" name="Travel Home" description="key:620757625:181298206"/>
 <instantVitalEffect id="1879049655" name="Increased Power" stat="Power_MaxLevel">
 <vitalChange min="120.0" max="120.0"/>
 </instantVitalEffect>
@@ -272,6 +284,9 @@
 <instantVitalEffect id="1879052109" name="Increased Power" stat="Power_MaxLevel">
 <vitalChange min="520.0" max="520.0"/>
 </instantVitalEffect>
+<effect id="1879052126" name="Dispel Double Edged."/>
+<effect id="1879052127" name="Dispel Aim."/>
+<effect id="1879052129" name="Double Edged" appliedDescription="key:620765327:54354734" iconId="1090540966" duration="5.0"/>
 <propertyModEffect id="1879052132" name="Aiming" iconId="1090540967" duration="10.0">
 <stat name="Skill_ChanceCriticalHit_AimMod" constant="50000.0"/>
 <stat name="Skill_ChanceMiss_AimMod" operator="SUBSTRACT" constant="50000.0"/>
@@ -347,11 +362,15 @@
 <effect id="1879052926" name="Hope"/>
 </hotspot>
 </genesis>
+<effect id="1879052913" name="Dispel Serenade"/>
+<effect id="1879052915" name="Ballad Tier 3" appliedDescription="key:620759663:54354734" iconId="1090532802" duration="10.0"/>
 <propertyModEffect id="1879052917" name="Anthem of the Wizards: Slowed" iconId="1090532788" duration="30.0">
 <stat name="ForwardSource_Movement_SpeedMultiplier" operator="SUBSTRACT" descriptionOverride="key:620759644:106251889" constant="30.0"/>
 <stat name="ATTACK_DURATION_PERCENTAGE" descriptionOverride="key:620759644:106251890" constant="20.0"/>
 <stat name="ForwardSource_Movement_MountSpeedMultiplier" operator="SUBSTRACT" constant="30.0"/>
 </propertyModEffect>
+<effect id="1879052918" name="Ballad Tier 1" appliedDescription="key:620759664:54354734" iconId="1090532803" duration="10.0"/>
+<effect id="1879052919" name="Ballad Tier 2" appliedDescription="key:620759665:54354734" iconId="1090532804" duration="10.0"/>
 <propertyModEffect id="1879052926" name="Hope" appliedDescription="key:620759662:54354734" iconId="1090532791">
 <stat name="HOPE" descriptionOverride="key:620759662:106251891" constant="4.0"/>
 </propertyModEffect>
@@ -413,6 +432,9 @@
 <instantVitalEffect id="1879054405" name="Healing" stat="Health_MaxLevel">
 <vitalChange progressionID="1879054406" variance="5.0"/>
 </instantVitalEffect>
+<propertyModEffect id="1879054547" name="Charge" appliedDescription="key:620760980:54354734" iconId="1090536069" duration="8.0">
+<stat name="ForwardSource_Movement_SpeedMultiplier" constant="50.0"/>
+</propertyModEffect>
 <effect id="1879054551" name="Interrupt Induction" appliedDescription="This effect interrupts all interruptable inductions on the target."/>
 <vitalOverTimeEffect id="1879054594" name="Grab" iconId="1090536144" duration="2.0" pulseCount="5" stat="Health_MaxLevel" damageType="1">
 <initialChange progressionID="1879054596"/>
@@ -564,10 +586,13 @@
 <stat name="RANGED_DEFENCE_PERCENTAGE" operator="SUBSTRACT" constant="5.0"/>
 <stat name="ATTACK_DURATION_PERCENTAGE" operator="SUBSTRACT" constant="5.0"/>
 </propertyModEffect>
+<effect id="1879056991" name="Dispel Frenzy"/>
+<effect id="1879056992" name="Dispel Response"/>
 <vitalOverTimeEffect id="1879056993" name="Major Renewal" iconId="1090538247" duration="4.0" pulseCount="5" stat="Health_MaxLevel">
 <initialChange progressionID="1879056994"/>
 <overTimeChange progressionID="1879056994"/>
 </vitalOverTimeEffect>
+<effect id="1879056995" name="Dispel Conjunction"/>
 <reactiveVitalEffect id="1879057006" name="Damage Reflection" description="key:620762799:181298206" appliedDescription="key:620762799:54354734" iconId="1090527700" damageTypes="1">
 <attacker>
 <reactiveVital progressionID="1879085941" probability="0.1"/>
@@ -602,6 +627,13 @@
 <initialChange progressionID="1879052692"/>
 <overTimeChange progressionID="1879052693"/>
 </vitalOverTimeEffect>
+<vitalOverTimeEffect id="1879058407" name="Cleansing Fire" iconId="1090538926" duration="4.0" stat="Health_MaxLevel">
+<overTimeChange progressionID="1879059592"/>
+</vitalOverTimeEffect>
+<vitalOverTimeEffect id="1879058882" name="Falling Rocks" iconId="1090529658" duration="1.0" stat="Health_MaxLevel" damageType="1">
+<initialChange progressionID="1879050066"/>
+<overTimeChange progressionID="1879050066"/>
+</vitalOverTimeEffect>
 <effect id="1879059058" name="Knockback"/>
 <propertyModEffect id="1879059587" name="Shattered Armour" appliedDescription="key:620764689:54354734" iconId="1090531635" duration="10.0" pulseCount="3">
 <stat name="Combat_Agent_Armor_Value" scaling="1879059588"/>
@@ -617,7 +649,16 @@
 <stat name="MELEE_DAMAGE_PERCENTAGE" constant="10.0"/>
 <stat name="MELEE_DEFENCE_PERCENTAGE" constant="10.0"/>
 </propertyModEffect>
+<effect id="1879059646" name="Blood Gift" iconId="1090519170"/>
 <propertyModEffect id="1879059659" name="Blood Pact Protection" appliedDescription="key:620764739:54354734" iconId="1090539325" duration="120.0"/>
+<vitalOverTimeEffect id="1879059705" name="Impale" iconId="1090539333" duration="2.0" stat="Health_MaxLevel" damageType="1">
+<initialChange progressionID="1879054596"/>
+<overTimeChange progressionID="1879058883"/>
+</vitalOverTimeEffect>
+<propertyModEffect id="1879059706" name="Impaled" appliedDescription="key:620764763:54354734" iconId="1090539334">
+<stat name="AI_Hints" constant="1.34217728E8"/>
+<specialEffect label="key:620764763:106251889"/>
+</propertyModEffect>
 <effect id="1879059707" name="Drain Life" iconId="1090519170"/>
 <propertyModEffect id="1879059813" name="Improved Stealth" iconId="1090519170">
 <stat name="STEALTH_LEVEL" constant="10.0"/>
@@ -626,6 +667,14 @@
 <effect id="1879059816" name="Stealth Breaker" appliedDescription="This breaks stealth"/>
 <induceCombatState id="1879059825" name="Induce Stunned" probability="0.25"/>
 <effect id="1879059870" name="Fight on" iconId="1090519170"/>
+<effect id="1879059882" name="Dispel Fighting Dirty"/>
+<propertyModEffect id="1879059887" name="Fighting Dirty" appliedDescription="key:620764917:54354734" iconId="1090539722" duration="30.0">
+<stat name="Skill_DamageMultiplier_ChampionAoeMod" constant="25.0"/>
+</propertyModEffect>
+<propertyModEffect id="1879059894" name="Controlled Burn" iconId="1090539704">
+<stat name="ICPR" scaling="1879059895"/>
+<stat name="MELEE_DAMAGE_PERCENTAGE" constant="15.000001"/>
+</propertyModEffect>
 <propertyModEffect id="1879059925" name="Rune of Striking" iconId="1090519170">
 <stat name="STRIKE_SKILLS_POWER_COST_PERCENTAGE" constant="-1.0"/>
 </propertyModEffect>
@@ -651,6 +700,20 @@
 <propertyModEffect id="1879060119" name="Westernesse Spikes" iconId="1090540521" duration="600.0">
 <specialEffect label="Set damage type of all skills to Westernesse"/>
 </propertyModEffect>
+<effect id="1879060134" name="Dispel Shield Taunt or Bash"/>
+<propertyModEffect id="1879060135" name="To the King!" iconId="1090540523" duration="10.0">
+<stat name="ForwardSource_Movement_SpeedMultiplier" constant="15.000001"/>
+</propertyModEffect>
+<effect id="1879060137" name="Shiv or Overwhelm Response" appliedDescription="key:620765203:54354734" iconId="1090540656" duration="6.0"/>
+<effect id="1879060165" name="Dispel Shield Taunt or Bash"/>
+<effect id="1879060167" name="Bash or Shield Taunt Response" appliedDescription="key:620765240:54354734" iconId="1090540664" duration="6.0"/>
+<propertyModEffect id="1879060181" name="Guardian's Threat Stance" iconId="1090540660">
+<stat name="PERCEIVED_THREAT" constant="20.0"/>
+</propertyModEffect>
+<propertyModEffect id="1879060192" name="Guardian's Ward" iconId="1090540663" duration="10.0">
+<stat name="PARRY_PERCENTAGE" scaling="1879060194"/>
+<stat name="BLOCK_PERCENTAGE" scaling="1879060195"/>
+</propertyModEffect>
 <propertyModEffect id="1879060238" name="Well Fed" iconId="1090640715" duration="1200.0">
 <stat name="AGILITY" scaling="1879060239"/>
 </propertyModEffect>
@@ -664,9 +727,15 @@
 <overTimeChange progressionID="1879060299"/>
 </vitalOverTimeEffect>
 <effect id="1879060301" name="Escape From Darkness"/>
+<effect id="1879060308" name="Dispel Enemy Defeat"/>
 <effect id="1879060310" name="Enemy Defeat Response" appliedDescription="key:620765404:54354734" iconId="1090541069" duration="8.0"/>
 <propertyModEffect id="1879060318" name="War-cry" iconId="1090541071" duration="60.0">
 <stat name="ATTACK_DURATION_PERCENTAGE" constant="-10.0"/>
+</propertyModEffect>
+<effect id="1879060329" name="Heroic Strike/Heroic Cry Combo"/>
+<effect id="1879060330" name="Battle-readied" appliedDescription="key:620765422:54354734" iconId="1090541076" duration="10.0"/>
+<propertyModEffect id="1879060341" name="Defending" iconId="1090642768" duration="10.0">
+<stat name="Combat_Agent_Armor_Value" scaling="1879060344"/>
 </propertyModEffect>
 <effect id="1879060349" name="Call to Arms: Improved Herald of War"/>
 <effect id="1879060364" name="Call to Arms: Herald of War"/>
@@ -681,10 +750,30 @@
 <effect id="1879060420" name="Call to Arms: Herald of Hope"/>
 <effect id="1879060422" name="Call to Arms: Herald of Hope"/>
 <effect id="1879060424" name="Call to Arms: Herald of Hope"/>
+<effect id="1879060433" name="Dispel Readied."/>
 <effect id="1879060554" name="Dire Need" iconId="1090519170"/>
+<effect id="1879060575" name="Dispel Block"/>
+<effect id="1879060576" name="Shield Swipe" appliedDescription="key:620765638:54354734" iconId="1090541163" duration="6.0"/>
+<effect id="1879060612" name="Dispel Evade"/>
 <instantVitalEffect id="1879060614" name="Catch a Breath Morale Heal" stat="Health_MaxLevel">
 <vitalChange progressionID="1879060615" variance="5.0"/>
 </instantVitalEffect>
+<propertyModEffect id="1879060637" name="Protection" iconId="1090541176">
+<stat name="EVADE_PERCENTAGE" scaling="1879060640"/>
+<stat name="PARRY_PERCENTAGE" scaling="1879060641"/>
+<stat name="BLOCK_PERCENTAGE" scaling="1879060642"/>
+</propertyModEffect>
+<propertyModEffect id="1879060639" name="Protection" iconId="1090541176">
+<stat name="EVADE_PERCENTAGE" scaling="1879060640"/>
+<stat name="PARRY_PERCENTAGE" scaling="1879060641"/>
+<stat name="BLOCK_PERCENTAGE" scaling="1879060642"/>
+<stat name="PERCEIVED_THREAT" constant="-10.0"/>
+</propertyModEffect>
+<propertyModEffect id="1879060646" name="Guardian's Pledge" iconId="1090541178" duration="15.0">
+<stat name="EVADE_PERCENTAGE" constant="50.0"/>
+<stat name="PARRY_PERCENTAGE" constant="50.0"/>
+<stat name="BLOCK_PERCENTAGE" constant="50.0"/>
+</propertyModEffect>
 <effect id="1879060650" name="Deep Breath"/>
 <propertyModEffect id="1879060655" name="Warrior's Heart" iconId="1090541182" duration="60.0">
 <stat name="MORALE" scaling="1879060657"/>
@@ -711,6 +800,8 @@
 <stat name="ATTACK_DURATION_PERCENTAGE" operator="SUBSTRACT" constant="25.0"/>
 </propertyModEffect>
 <effect id="1879060754" name="Flanked! Improved Staff Strike"/>
+<effect id="1879060762" name="Draw Power" appliedDescription="key:620765795:54354734" iconId="1090541206" duration="1.0"/>
+<effect id="1879060763" name="Improved Draw Power" appliedDescription="key:620765792:54354734" iconId="1090541206" duration="1.0"/>
 <instantVitalEffect id="1879060776" name="Hope" stat="Health_MaxLevel">
 <vitalChange progressionID="1879060777" variance="5.0"/>
 </instantVitalEffect>
@@ -759,6 +850,11 @@
 <propertyModEffect id="1879060873" name="Anthem of the Free People" iconId="1090541080" duration="30.0">
 <stat name="ICMR" scaling="1879060874"/>
 </propertyModEffect>
+<effect id="1879060881" name="Song of Aid" iconId="1090519170"/>
+<effect id="1879060883" name="Song of Aid Improved" iconId="1090519170"/>
+<propertyModEffect id="1879060906" name="Ballad of Resonance" iconId="1090541245" duration="10.0">
+<stat name="TACTICAL_DAMAGE_PERCENTAGE" constant="10.0"/>
+</propertyModEffect>
 <effect id="1879060912" name="Enlivening Grace"/>
 <effect id="1879060917" name="Dispel Silence"/>
 <effect id="1879060924" name="Soothing Song"/>
@@ -783,6 +879,10 @@
 <propertyModEffect id="1879061009" name="Improved Stealth" iconId="1090541274" duration="10.0">
 <stat name="STEALTH_LEVEL" constant="10.0"/>
 <specialEffect label="key:620766001:106251890"/>
+</propertyModEffect>
+<propertyModEffect id="1879061013" name="Simple Stealth" iconId="1090519170">
+<stat name="ForwardSource_Movement_SpeedMultiplier" operator="SUBSTRACT" constant="50.0"/>
+<stat name="ForwardSource_Combat_CurrentCombo" operator="SET" constant="34.0"/>
 </propertyModEffect>
 <propertyModEffect id="1879061019" name="Trick: Enraged (Trick)" appliedDescription="key:620766010:54354734" iconId="1090522262" duration="10.0" pulseCount="3">
 <stat name="AI_Threat_DesireOverride" operator="SET" descriptionOverride="key:620766010:106251890" constant="0.9"/>
@@ -822,10 +922,19 @@
 </propertyModEffect>
 <effect id="1879062461" name="Ballad of Aiglos[sp]" iconId="1090641996" duration="301.0"/>
 <effect id="1879062463" name="Chant of the Stalwart[E]" iconId="1090641995" duration="301.0"/>
+<propertyModEffect id="1879062868" name="Track Mines" iconId="1090519170">
+<stat name="Discovery_Tracking_Resource" operator="SET" descriptionOverride="key:620767744:106251889" constant="2.0"/>
+</propertyModEffect>
+<propertyModEffect id="1879062907" name="Track Wood" iconId="1090519170">
+<stat name="Discovery_Tracking_Resource" operator="SET" descriptionOverride="key:620767779:106251889" constant="3.0"/>
+</propertyModEffect>
 <effect id="1879062970" name="Smoking Pipe-weed"/>
 <effect id="1879062980" name="Smoking Pipe-weed"/>
 <effect id="1879062998" name="Smoking Pipe-weed"/>
 <effect id="1879063015" name="Smoking Pipe-weed"/>
+<propertyModEffect id="1879063044" name="Track Crops" iconId="1090519170">
+<stat name="Discovery_Tracking_Resource" operator="SET" descriptionOverride="key:620767854:106251889" constant="4.0"/>
+</propertyModEffect>
 <vitalOverTimeEffect id="1879064498" name="Wound" iconId="1090519171" duration="4.0" pulseCount="5" stat="Health_MaxLevel" damageType="1">
 <initialChange progressionID="1879064499"/>
 <overTimeChange progressionID="1879064499"/>
@@ -871,6 +980,7 @@
 <overTimeChange progressionID="1879064546"/>
 </vitalOverTimeEffect>
 <propertyModEffect id="1879064555" name="Weeping Wound" appliedDescription="key:620768920:54354734" iconId="1090522395" duration="15.0" pulseCount="1"/>
+<effect id="1879064557" name="Noble Cry"/>
 <vitalOverTimeEffect id="1879064560" name="Heroic Conviction" iconId="1090541083" duration="2.0" pulseCount="8" stat="Health_MaxLevel">
 <initialChange progressionID="1879064546"/>
 <overTimeChange progressionID="1879064546"/>
@@ -1163,14 +1273,31 @@
 <stat name="PARRY_PERCENTAGE" operator="SUBSTRACT" constant="15.000001"/>
 <stat name="EVADE_PERCENTAGE" operator="SUBSTRACT" constant="15.000001"/>
 </propertyModEffect>
+<propertyModEffect id="1879072539" name="Trapdoor Sanctuary" iconId="1090553284">
+<specialEffect label="key:620774701:106251889"/>
+</propertyModEffect>
+<propertyModEffect id="1879072540" name="Burrowed Stealth" iconId="1090519170">
+<stat name="STEALTH_LEVEL" constant="10.0"/>
+<stat name="ForwardSource_Combat_CurrentCombo" operator="SET" constant="34.0"/>
+</propertyModEffect>
+<effect id="1879072552" iconId="1090519170"/>
 <propertyModEffect id="1879072564" name="Improved Stealth" iconId="1090553331" duration="10.0">
 <stat name="STEALTH_LEVEL" constant="10.0"/>
 <specialEffect label="key:620774765:106251890"/>
+</propertyModEffect>
+<propertyModEffect id="1879072566" name="Simple Stealth" iconId="1090519170">
+<stat name="ForwardSource_Movement_SpeedMultiplier" operator="SUBSTRACT" descriptionOverride="key:620774799:106251889" constant="50.0"/>
+<stat name="ForwardSource_Combat_CurrentCombo" operator="SET" constant="34.0"/>
 </propertyModEffect>
 <induceCombatState id="1879072994" name="Induce Cowering"/>
 <propertyModEffect id="1879073001" name="Full" iconId="1090640715" duration="30.0">
 <stat name="OCMR" scaling="1879049659"/>
 <stat name="OCPR" scaling="1879049660"/>
+</propertyModEffect>
+<propertyModEffect id="1879073012" name="Champion's Fervour" iconId="1090539704">
+<stat name="ICPR" scaling="1879059895"/>
+<stat name="MELEE_DAMAGE_PERCENTAGE" constant="15.000001"/>
+<specialEffect label="key:620774876:106251891"/>
 </propertyModEffect>
 <propertyModEffect id="1879073017" name="Flurry" iconId="1090541123" duration="20.0">
 <stat name="ATTACK_DURATION_PERCENTAGE" constant="-15.000001"/>
@@ -1180,6 +1307,9 @@
 <reactiveVital progressionID="1879060559" probability="0.5"/>
 </attacker>
 </reactiveVitalEffect>
+<instantVitalEffect id="1879073025" name="Bracing Attack Heal" stat="Health_MaxLevel">
+<vitalChange progressionID="1879073029"/>
+</instantVitalEffect>
 <vitalOverTimeEffect id="1879073032" name="Light Wound" iconId="1090541133" duration="2.0" pulseCount="6" probability="0.5" stat="Health_MaxLevel" damageType="1">
 <initialChange progressionID="1879060541"/>
 <overTimeChange progressionID="1879060541"/>
@@ -1200,6 +1330,11 @@
 <initialChange progressionID="1879073060"/>
 <overTimeChange progressionID="1879073060"/>
 </vitalOverTimeEffect>
+<propertyModEffect id="1879073061" name="Telling Mark" appliedDescription="key:620774916:54354734" iconId="1090553776">
+<stat name="MELEE_DEFENCE_PERCENTAGE" constant="2.0"/>
+<stat name="RANGED_DEFENCE_PERCENTAGE" descriptionOverride="-" constant="4.0"/>
+<stat name="TACTICAL_DEFENCE_PERCENTAGE" descriptionOverride="-" constant="5.0"/>
+</propertyModEffect>
 <propertyModEffect id="1879073063" name="Make Haste" iconId="1090533151" duration="20.0">
 <stat name="ForwardSource_Movement_SpeedMultiplier" constant="25.0"/>
 </propertyModEffect>
@@ -1218,19 +1353,51 @@
 <stat name="CRITICAL_RANGED_PERCENTAGE" constant="3.0"/>
 <stat name="CRITICAL_TACTICAL_PERCENTAGE" constant="3.0"/>
 </propertyModEffect>
+<reactiveVitalEffect id="1879073076" name="Coordinate Attack" appliedDescription="key:620774933:54354734" iconId="1090553777" damageTypes="127">
+<attacker>
+<reactiveVital constant="-0.15" probability="1.0" multiplicative="true"/>
+</attacker>
+</reactiveVitalEffect>
+<effect id="1879073077" name="Dispel Fellow Defeat"/>
+<propertyModEffect id="1879073080" name="Cry of Vengeance" iconId="1090541066" duration="20.0">
+<stat name="MIGHT" scaling="1879073081"/>
+<stat name="AGILITY" scaling="1879073082"/>
+<stat name="VITALITY" scaling="1879073083"/>
+<stat name="WILL" scaling="1879073084"/>
+<stat name="FATE" scaling="1879073085"/>
+<stat name="ATTACK_DURATION_PERCENTAGE" scaling="1879073086"/>
+<stat name="Combat_Agent_Armor_Value" scaling="1879073087"/>
+</propertyModEffect>
+<effect id="1879073088" name="In Harm's Way" iconId="1090553786" duration="20.0"/>
 <propertyModEffect id="1879073090" name="Focus" iconId="1090553787" duration="1800.0">
 <stat name="ICPR" constant="60.0"/>
 </propertyModEffect>
 <effect id="1879073091" name="Kneel!" appliedDescription="key:620774944:54354734"/>
+<propertyModEffect id="1879073093" name="Herald Strike Healing Boon" iconId="1090553789" duration="20.0">
+<stat name="Mood_Healing_Modifier" constant="10.0"/>
+</propertyModEffect>
+<effect id="1879073097" name="Noble Cause Chain Down Combo"/>
+<fellowshipEffect id="1879073098" name="Herald's Strike Heal" description="key:620774958:181298206" applyToPets="true" applyToTarget="true" range="20.0">
+<effect id="1879073106" name="Noble Cause Combo Herald's Strike"/>
+</fellowshipEffect>
 <effect id="1879073100" name="Noble Cause (3 left)" appliedDescription="key:620774953:54354734" iconId="1090553790" duration="600.0"/>
 <propertyModEffect id="1879073105" name="Noble Cause" appliedDescription="key:620774960:54354734" iconId="1090553792" duration="60.0">
 <stat name="ForwardSource_Combat_CurrentCombo" operator="SET" descriptionOverride="-" constant="10.0"/>
 </propertyModEffect>
+<instantVitalEffect id="1879073106" name="Noble Cause Combo Herald's Strike" stat="Health_MaxLevel">
+<vitalChange progressionID="1879073107"/>
+</instantVitalEffect>
 <instantVitalEffect id="1879073110" name="Lesser Raise the Spirit" stat="Health_MaxLevel">
 <vitalChange progressionID="1879073111"/>
 </instantVitalEffect>
 <propertyModEffect id="1879073112" name="Ballad of Vigour" iconId="1090553794" duration="10.0">
 <stat name="VITALITY" scaling="1879053034"/>
+</propertyModEffect>
+<propertyModEffect id="1879073118" name="Ballad of Steel" iconId="1090553796" duration="10.0">
+<stat name="Combat_Agent_Armor_Value" scaling="1879073119"/>
+</propertyModEffect>
+<propertyModEffect id="1879073120" name="Ballad of Swiftness" iconId="1090553797" duration="10.0">
+<stat name="ATTACK_DURATION_PERCENTAGE" operator="SUBSTRACT" scaling="1879073121"/>
 </propertyModEffect>
 <propertyModEffect id="1879073122" name="Ballad of Unshakeable Will" iconId="1090553798" duration="20.0">
 <stat name="Resist_Additional_Resistance_Fear" scaling="1879073123"/>
@@ -1246,10 +1413,14 @@
 <propertyModEffect id="1879073133" name="Ballad of Balance" iconId="1090553800" duration="10.0">
 <stat name="EVADE_PERCENTAGE" scaling="1879073134"/>
 </propertyModEffect>
+<effect id="1879073135" name="Noble Cause Reset"/>
 <instantVitalEffect id="1879073139" name="Greater Raise the Spirit" stat="Health_MaxLevel">
 <vitalChange progressionID="1879073140"/>
 </instantVitalEffect>
 <effect id="1879073142" name="Dispel Defeat"/>
+<propertyModEffect id="1879073157" name="Anthem of Compassion" iconId="1090553812" duration="30.0">
+<stat name="ThreatInputModifier_Healing" constant="-40.0"/>
+</propertyModEffect>
 <instantVitalEffect id="1879073162" name="Triumphant Spirit" stat="Health_MaxLevel">
 <vitalChange progressionID="1879073163"/>
 </instantVitalEffect>
@@ -1259,6 +1430,13 @@
 <propertyModEffect id="1879073167" name="Song of Distraction" iconId="1090553816">
 <stat name="AI_PerceptionRadius" operator="SUBSTRACT" constant="75.0"/>
 </propertyModEffect>
+<propertyModEffect id="1879073168" name="Ballad of the Stout" iconId="1090553817" duration="10.0">
+<stat name="Resist_Additional_Resistance_Poison" scaling="1879073169"/>
+<stat name="Resist_Additional_Resistance_Wound" scaling="1879073170"/>
+<stat name="Resist_Additional_Resistance_Disease" scaling="1879073171"/>
+</propertyModEffect>
+<propertyModEffect id="1879073174" name="Still As Death" iconId="1090553818"/>
+<propertyModEffect id="1879073176" name="Lay of the Hammerhand" appliedDescription="key:620775021:54354734" iconId="1090553819"/>
 <vitalOverTimeEffect id="1879073180" name="Burning Embers" iconId="1090553820" duration="5.0" pulseCount="2" stat="Health_MaxLevel" damageType="16">
 <overTimeChange progressionID="1879073181"/>
 </vitalOverTimeEffect>
@@ -1271,6 +1449,10 @@
 <stat name="PHYSICAL_MITIGATION_PERCENTAGE" constant="20.0"/>
 <stat name="SHADOW_MITIGATION_PERCENTAGE" constant="30.000002"/>
 </propertyModEffect>
+<vitalOverTimeEffect id="1879073202" name="Inner Focus" iconId="1090553873" duration="1.0" stat="Health_MaxLevel">
+<initialChange progressionID="1879073203"/>
+<overTimeChange progressionID="1879073203"/>
+</vitalOverTimeEffect>
 <propertyModEffect id="1879073207" name="Gust of Wind" iconId="1090553874" duration="120.0">
 <stat name="Combat_BaseMissRate" constant="7.0"/>
 </propertyModEffect>
@@ -1309,22 +1491,48 @@
 <induceCombatState id="1879073247" name="Induce Rooted" description="key:620775081:181298206"/>
 <effect id="1879073248" name="Call to Arda"/>
 <induceCombatState id="1879073252" name="Induce Dazed" description="key:620775085:181298206"/>
+<propertyModEffect id="1879073261" name="Guardian's Block Stance" iconId="1090553894">
+<stat name="BLOCK_PERCENTAGE" constant="5.0"/>
+</propertyModEffect>
+<effect id="1879073263" name="Dispel Parry"/>
+<effect id="1879073264" name="Retaliation" appliedDescription="key:620775099:54354734" iconId="1090553897" duration="6.0"/>
+<effect id="1879073267" name="Dispel Shield Swipe"/>
+<effect id="1879073271" name="Dispel Retaliate"/>
+<propertyModEffect id="1879073273" name="Guardian's Parry Stance" iconId="1090553900">
+<stat name="PARRY_PERCENTAGE" constant="5.0"/>
+</propertyModEffect>
 <vitalOverTimeEffect id="1879073276" name="Deep Wound" iconId="1090553903" duration="2.0" pulseCount="4" stat="Health_MaxLevel" damageType="1">
 <initialChange progressionID="1879073277"/>
 <overTimeChange progressionID="1879073277"/>
 </vitalOverTimeEffect>
+<genesis id="1879073283" name="Create Mark Of Protection" appliedDescription="key:620775113:54354734" permanent="true">
+<summoned id="1879073284" name="Acorn Whistle[v]"/>
+</genesis>
 <vitalOverTimeEffect id="1879073294" name="Cunning Attack" iconId="1090541253" duration="2.0" pulseCount="10" stat="Health_MaxLevel" damageType="1">
 <overTimeChange progressionID="1879073295"/>
 </vitalOverTimeEffect>
 <vitalOverTimeEffect id="1879073296" name="Improved Cunning Attack" iconId="1090541253" duration="2.0" pulseCount="15" stat="Health_MaxLevel" damageType="1">
 <overTimeChange progressionID="1879060944"/>
 </vitalOverTimeEffect>
+<effect id="1879073303" name="Dispel Critical"/>
+<effect id="1879073304" name="Exploit Weakness" appliedDescription="key:620775127:54354734" iconId="1090553913" duration="5.0"/>
+<effect id="1879073307" name="Dispel Burglar's Advantage."/>
 <induceCombatState id="1879073312" name="Induce Fellowship Manoeuvre Stunned" description="key:620775131:181298206"/>
 <propertyModEffect id="1879073314" name="Befuddle" iconId="1090553916" duration="30.0">
 <stat name="Skill_InductionDuration_MonsterSkillsMod" descriptionOverride="key:620775133:106251889" constant="0.5"/>
 </propertyModEffect>
 <effect id="1879073316" name="Twist and Tricks"/>
 <effect id="1879073318" name="Mischievous Glee"/>
+<propertyModEffect id="1879073321" name="Reveal Weakness" appliedDescription="key:620775143:54354734" iconId="1090519172">
+<stat name="MELEE_DEFENCE_PERCENTAGE" constant="8.0"/>
+<stat name="RANGED_DEFENCE_PERCENTAGE" constant="8.0"/>
+<stat name="TACTICAL_DEFENCE_PERCENTAGE" constant="8.0"/>
+</propertyModEffect>
+<propertyModEffect id="1879073322" name="Reveal Weakness" appliedDescription="key:620775142:54354734" iconId="1090519172">
+<stat name="MELEE_DEFENCE_PERCENTAGE" constant="10.0"/>
+<stat name="RANGED_DEFENCE_PERCENTAGE" constant="10.0"/>
+<stat name="TACTICAL_DEFENCE_PERCENTAGE" constant="10.0"/>
+</propertyModEffect>
 <effect id="1879073323" name="Ready and Able"/>
 <propertyModEffect id="1879073324" name="Touch and Go" iconId="1090553920" duration="30.0">
 <stat name="EVADE_PERCENTAGE" scaling="1879073325"/>
@@ -1332,6 +1540,9 @@
 <instantVitalEffect id="1879073326" name="Find Footing" stat="Health_MaxLevel">
 <vitalChange progressionID="1879073163" variance="5.0"/>
 </instantVitalEffect>
+<propertyModEffect id="1879073327" name="Track Treasure" iconId="1090519170">
+<stat name="Discovery_Tracking_Resource" operator="SET" descriptionOverride="key:620775151:106251889" constant="1.0"/>
+</propertyModEffect>
 <effect id="1879073328" name="Pickpocket"/>
 <vitalOverTimeEffect id="1879073366" name="Barbed Arrow" iconId="1090553904" duration="2.0" pulseCount="10" stat="Health_MaxLevel" damageType="1">
 <initialChange progressionID="1879073367"/>
@@ -1350,6 +1561,7 @@
 <stat name="ForwardSource_Movement_MountSpeedMultiplier" operator="SUBSTRACT" constant="50.0"/>
 </propertyModEffect>
 <effect id="1879073395" name="Flensing Slash/Barbed Arrow Combo"/>
+<effect id="1879073405" name="findthepath" iconId="1090519170"/>
 <propertyModEffect id="1879073407" name="Cleanse Poison Resistance" iconId="1090553945" duration="15.0">
 <stat name="Resist_Additional_Resistance_Poison" scaling="1879073408"/>
 </propertyModEffect>
@@ -1357,22 +1569,53 @@
 <stat name="OCPR" scaling="1879073414"/>
 <stat name="OCMR" scaling="1879073415"/>
 </propertyModEffect>
-<effect id="1879073418" name="Hunter Travel to Nearest Rally Point"/>
-<effect id="1879073420" name="Hunter Travel to Thorin's Hall"/>
-<effect id="1879073421" name="Hunter Travel to Bree"/>
-<effect id="1879073422" name="Hunter Travel to Esteldin"/>
-<effect id="1879073423" name="Hunter Travel to Rivendell"/>
+<recallEffect id="1879073418" name="Hunter Travel to Nearest Rally Point"/>
+<recallEffect id="1879073420" name="Hunter Travel to Thorin's Hall"/>
+<recallEffect id="1879073421" name="Hunter Travel to Bree"/>
+<recallEffect id="1879073422" name="Hunter Travel to Esteldin"/>
+<recallEffect id="1879073423" name="Hunter Travel to Rivendell"/>
 <effect id="1879073426" name="Hunter Nature Tracking"/>
 <effect id="1879073427" name="Hunter Foe Tracking"/>
 <effect id="1879073428" name="Hunter Shadow Tracking"/>
-<effect id="1879073482" name="Hobbit Travel to The Shire"/>
+<propertyModEffect id="1879073429" name="Camouflage" iconId="1090519170">
+<stat name="STEALTH_LEVEL" constant="1.0"/>
+<stat name="ForwardSource_Combat_CurrentCombo" operator="SET" constant="34.0"/>
+</propertyModEffect>
+<propertyModEffect id="1879073433" name="Stance: Precision" appliedDescription="key:620775227:54354734" iconId="1090553958">
+<stat name="Skill_ChanceEvade_RangedMod" operator="SUBSTRACT" descriptionOverride="key:620775227:106251889" constant="5.0"/>
+<stat name="Skill_ChanceBlock_RangedMod" operator="SUBSTRACT" constant="5.0"/>
+<stat name="Combat_BaseMissRate" operator="SUBSTRACT" descriptionOverride="key:620775227:106251891" constant="25.0"/>
+<stat name="Skill_ChanceCriticalHit_Hunter_Stance_Precision" constant="10.0"/>
+</propertyModEffect>
+<propertyModEffect id="1879073434" name="Stance: Strength" appliedDescription="key:620775229:54354734" iconId="1090553959">
+<stat name="RANGED_DAMAGE_PERCENTAGE" descriptionOverride="key:620775229:106251889" constant="10.0"/>
+<stat name="Skill_VitalCost_RangedMod" descriptionOverride="key:620775229:106251890" constant="15.000001"/>
+<stat name="ThreatInputModifier_Damage" descriptionOverride="key:620775229:106251891" constant="15.000001"/>
+</propertyModEffect>
+<propertyModEffect id="1879073435" name="Strength Stance Upgrade: Crippling Shot" iconId="1090519170"/>
+<propertyModEffect id="1879073438" name="Stance: Endurance" appliedDescription="key:620775235:54354734" iconId="1090553960">
+<stat name="Skill_VitalCost_RangedMod" operator="SUBSTRACT" descriptionOverride="key:620775235:106251890" constant="10.0"/>
+<stat name="ThreatInputModifier_Damage" operator="SUBSTRACT" descriptionOverride="key:620775235:106251891" constant="10.0"/>
+<stat name="Skill_AdditionalThreat_Hunter_QuickShot" operator="SUBSTRACT" scaling="1879073440"/>
+</propertyModEffect>
+<propertyModEffect id="1879073439" name="Stance: Endurance" appliedDescription="key:620775234:54354734" iconId="1090553960">
+<stat name="Skill_VitalCost_RangedMod" operator="SUBSTRACT" descriptionOverride="key:620775234:106251890" constant="20.0"/>
+<stat name="ThreatInputModifier_Damage" operator="SUBSTRACT" descriptionOverride="key:620775234:106251891" constant="20.0"/>
+<stat name="Skill_AdditionalThreat_Hunter_QuickShot" operator="SUBSTRACT" scaling="1879073440"/>
+</propertyModEffect>
+<recallEffect id="1879073482" name="Hobbit Travel to The Shire"/>
 <fellowshipEffect id="1879073487" name="Hobbit's Hope." description="key:620775254:181298206" appliedDescription="key:620775254:54354734" applyToTarget="true" range="20.0">
 <effect id="1879073488" name="Hobbit Resilience"/>
 </fellowshipEffect>
 <propertyModEffect id="1879073488" name="Hobbit Resilience" appliedDescription="key:620775255:54354734" iconId="1090553973" duration="600.0">
 <stat name="HOPE" constant="1.0"/>
 </propertyModEffect>
-<effect id="1879073527" name="Race of Man Travel to Bree"/>
+<propertyModEffect id="1879073492" name="Hobbit Stealth" iconId="1090519170">
+<stat name="ForwardSource_Movement_SpeedMultiplier" operator="SUBSTRACT" descriptionOverride="key:620775259:106251889" constant="60.0"/>
+<stat name="STEALTH_LEVEL" operator="SUBSTRACT" constant="3.0"/>
+<stat name="ForwardSource_Combat_CurrentCombo" operator="SET" constant="34.0"/>
+</propertyModEffect>
+<recallEffect id="1879073527" name="Race of Man Travel to Bree"/>
 <fellowshipEffect id="1879073531" name="Power of the Eldar" description="key:620775286:181298206" appliedDescription="key:620775286:54354734" applyToPets="true" applyToTarget="true" range="20.0">
 <effect id="1879073532" name="Power of the Eldar"/>
 </fellowshipEffect>
@@ -1382,11 +1625,11 @@
 <instantVitalEffect id="1879073538" name="Strength of Morale" stat="Health_MaxLevel">
 <vitalChange min="2200.0" max="2200.0"/>
 </instantVitalEffect>
-<effect id="1879073568" name="Elf Travel to Rivendell"/>
+<recallEffect id="1879073568" name="Elf Travel to Rivendell"/>
 <propertyModEffect id="1879073572" name="Eldar's Grace" appliedDescription="key:620775315:54354734" iconId="1090532784" duration="10.0">
 <stat name="PARRY_PERCENTAGE" constant="75.0"/>
 </propertyModEffect>
-<effect id="1879073607" name="Dwarf Travel to Thorin's Hall"/>
+<recallEffect id="1879073607" name="Dwarf Travel to Thorin's Hall"/>
 <propertyModEffect id="1879073611" name="Hunker Down" appliedDescription="key:620775342:54354734" iconId="1090554031" duration="10.0">
 <stat name="PHYSICAL_MITIGATION_PERCENTAGE" constant="75.0"/>
 <stat name="SHADOW_MITIGATION_PERCENTAGE" constant="75.0"/>
@@ -1423,6 +1666,7 @@
 <stat name="RANGED_DEFENCE_PERCENTAGE" operator="SET" constant="10.0"/>
 <stat name="TACTICAL_DEFENCE_PERCENTAGE" operator="SET" constant="10.0"/>
 </propertyModEffect>
+<effect id="1879073734" iconId="1090519170"/>
 <propertyModEffect id="1879073746" name="Snaring Webs" appliedDescription="key:620775421:54354734" iconId="1090555726" duration="8.0">
 <stat name="AI_Hints" constant="1.34217728E8"/>
 </propertyModEffect>
@@ -1498,6 +1742,14 @@
 <stat name="MELEE_DAMAGE_PERCENTAGE" constant="-10.0"/>
 <stat name="RANGED_DAMAGE_PERCENTAGE" constant="-10.0"/>
 </propertyModEffect>
+<vitalOverTimeEffect id="1879078540" name="Vicious Bite" iconId="1090576545" duration="2.0" stat="Health_MaxLevel" damageType="1">
+<initialChange progressionID="1879054596"/>
+<overTimeChange progressionID="1879058883"/>
+</vitalOverTimeEffect>
+<propertyModEffect id="1879078541" name="Grappled" appliedDescription="key:620779038:54354734" iconId="1090576546">
+<stat name="AI_Hints" constant="1.34217728E8"/>
+<specialEffect label="key:620779038:106251889"/>
+</propertyModEffect>
 <effect id="1879078721" name="Summoned Neeker Broodling" description="key:620779149:181298206"/>
 <effect id="1879079637" name="Smite Player" appliedDescription="Smites a player"/>
 <effect id="1879079859" name="Summon Root" description="key:620779954:181298206"/>
@@ -1512,6 +1764,7 @@
 <effect id="1879079963" name="Summon Root" description="key:620779999:181298206"/>
 <propertyModEffect id="1879080113" name="Disregarded" appliedDescription="key:620780078:54354734" iconId="1090586730" duration="10.0"/>
 <effect id="1879080114" name="Knockaway"/>
+<effect id="1879080115" name="Impulse Straight Up" appliedDescription="Sends the target straight up."/>
 <effect id="1879080116" name="Knockback"/>
 <propertyModEffect id="1879080117" name="Watery Prison" appliedDescription="key:620780084:54354734" iconId="1090586731" duration="20.0">
 <stat name="AI_Hints" descriptionOverride="-" constant="1.34217728E8"/>
@@ -1532,17 +1785,18 @@
 <stat name="AI_Threat_DesireOverride" operator="SET" descriptionOverride="key:620781386:106251890" constant="0.9"/>
 <stat name="RANGED_DEFENCE_PERCENTAGE" constant="5.0"/>
 </propertyModEffect>
+<effect id="1879082156" name="Summon Elite Uruk" description="key:620781395:181298206" probability="0.1"/>
 <effect id="1879082157" name="Summon Elite Uruk" description="key:620781393:181298206"/>
 <effect id="1879082158" name="Summon Elite Uruk" description="key:620781394:181298206" probability="0.1"/>
 <effect id="1879082163" name="Summon Illusory Reflection" description="key:620781400:181298206"/>
 <effect id="1879082541" name="Summon Elite Angmarim" description="key:620781633:181298206" probability="0.1"/>
 <effect id="1879082542" name="Summon Elite Angmarim" description="key:620781631:181298206"/>
 <effect id="1879082543" name="Summon Elite Angmarim" description="key:620781632:181298206" probability="0.1"/>
-<effect id="1879082987" name="Secret Paths: Grimwood Location One" appliedDescription="key:620781937:54354734"/>
-<effect id="1879082988" name="Secret Paths: Grothum Location One" appliedDescription="key:620781941:54354734"/>
-<effect id="1879082989" name="Secret Paths: Lugazag Location One" appliedDescription="key:620781945:54354734"/>
-<effect id="1879082990" name="Secret Paths: Tirith Rhaw Location One" appliedDescription="key:620781949:54354734"/>
-<effect id="1879082991" name="Secret Paths: Tol Ascarnen Location One" appliedDescription="key:620781953:54354734"/>
+<recallEffect id="1879082987" name="Secret Paths: Grimwood Location One" appliedDescription="key:620781937:54354734"/>
+<recallEffect id="1879082988" name="Secret Paths: Grothum Location One" appliedDescription="key:620781941:54354734"/>
+<recallEffect id="1879082989" name="Secret Paths: Lugazag Location One" appliedDescription="key:620781945:54354734"/>
+<recallEffect id="1879082990" name="Secret Paths: Tirith Rhaw Location One" appliedDescription="key:620781949:54354734"/>
+<recallEffect id="1879082991" name="Secret Paths: Tol Ascarnen Location One" appliedDescription="key:620781953:54354734"/>
 <propertyModEffect id="1879083300" name="Fatal Poison" appliedDescription="key:620782202:54354734" iconId="1090616922" duration="15.0" pulseCount="1">
 <stat name="POWER" scaling="1879049497"/>
 </propertyModEffect>
@@ -1556,6 +1810,7 @@
 <propertyModEffect id="1879083704" name="Protected" appliedDescription="key:620782578:54354734" iconId="1090599071">
 <stat name="AI_Hints" constant="131072.0"/>
 </propertyModEffect>
+<effect id="1879083713" name="Summoned Goblin Spear-thrower" description="key:620782588:181298206"/>
 <effect id="1879083714" name="Summoned Orc Leader" description="key:620782586:181298206"/>
 <effect id="1879083715" name="Summoned Orc Shaman" description="key:620782587:181298206"/>
 <effect id="1879083725" name="Summon Raven" description="key:620782596:181298206"/>
@@ -1736,6 +1991,7 @@
 <stat name="MELEE_DAMAGE_PERCENTAGE" constant="10.0"/>
 </propertyModEffect>
 <effect id="1879085206" name="Stolen Breath" iconId="1090519170"/>
+<effect id="1879085209" name="Noble Cry"/>
 <effect id="1879085339" name="Track Dwarves"/>
 <effect id="1879085340" name="Improved Track Dwarves"/>
 <effect id="1879085341" name="Track Elves"/>
@@ -1748,7 +2004,7 @@
 <induceCombatState id="1879085384" name="Horn" description="key:620783960:181298206"/>
 <induceCombatState id="1879085385" name="Induce Feared" description="key:620783940:181298206"/>
 <induceCombatState id="1879085397" name="Horn" description="key:620783959:181298206"/>
-<effect id="1879085490" name="Secret Paths: Gramsfoot" appliedDescription="key:620784537:54354734"/>
+<recallEffect id="1879085490" name="Secret Paths: Gramsfoot" appliedDescription="key:620784537:54354734"/>
 <vitalOverTimeEffect id="1879085510" name="Mortal Terror" iconId="1090625091" duration="4.0" pulseCount="8" stat="Health_MaxLevel" damageType="32">
 <initialChange progressionID="1879085511"/>
 <overTimeChange progressionID="1879085512"/>
@@ -1760,26 +2016,42 @@
 <propertyModEffect id="1879085535" name="Hardened Bark" appliedDescription="key:620789248:54354734" iconId="1090552382">
 <stat name="BLOCK_PERCENTAGE" constant="10.0"/>
 </propertyModEffect>
+<propertyModEffect id="1879085537" name="Crushing Root" appliedDescription="key:620789249:54354734" iconId="1090536145">
+<stat name="AI_Hints" constant="1.34217728E8"/>
+<specialEffect label="key:620789249:106251889"/>
+</propertyModEffect>
+<vitalOverTimeEffect id="1879085538" name="Constricting Root" iconId="1090536144" duration="2.0" stat="Health_MaxLevel" damageType="1">
+<initialChange progressionID="1879052010"/>
+<overTimeChange progressionID="1879052011"/>
+</vitalOverTimeEffect>
 <effect id="1879085539" name="Summon Root" description="key:620789252:181298206"/>
-<effect id="1879085667" name="Secret Paths: Grimwood Location Two" appliedDescription="key:620789279:54354734"/>
-<effect id="1879085668" name="Secret Paths: Grimwood Location Three" appliedDescription="key:620789280:54354734"/>
-<effect id="1879085669" name="Secret Paths: Grothum Location Two" appliedDescription="key:620789281:54354734"/>
-<effect id="1879085670" name="Secret Paths: Grothum Location Three" appliedDescription="key:620789282:54354734"/>
-<effect id="1879085671" name="Secret Paths: Lugazag Location Two" appliedDescription="key:620789283:54354734"/>
-<effect id="1879085672" name="Secret Paths: Lugazag Location Three" appliedDescription="key:620789284:54354734"/>
-<effect id="1879085673" name="Secret Paths: Tirith Rhaw Location Two" appliedDescription="key:620789285:54354734"/>
-<effect id="1879085674" name="Secret Paths: Tirith Rhaw Location Three" appliedDescription="key:620789286:54354734"/>
-<effect id="1879085675" name="Secret Paths: Tol Ascarnen Location Two" appliedDescription="key:620789287:54354734"/>
-<effect id="1879085676" name="Secret Paths: Tolascarnen Location Three" appliedDescription="key:620789288:54354734"/>
+<recallEffect id="1879085667" name="Secret Paths: Grimwood Location Two" appliedDescription="key:620789279:54354734"/>
+<recallEffect id="1879085668" name="Secret Paths: Grimwood Location Three" appliedDescription="key:620789280:54354734"/>
+<recallEffect id="1879085669" name="Secret Paths: Grothum Location Two" appliedDescription="key:620789281:54354734"/>
+<recallEffect id="1879085670" name="Secret Paths: Grothum Location Three" appliedDescription="key:620789282:54354734"/>
+<recallEffect id="1879085671" name="Secret Paths: Lugazag Location Two" appliedDescription="key:620789283:54354734"/>
+<recallEffect id="1879085672" name="Secret Paths: Lugazag Location Three" appliedDescription="key:620789284:54354734"/>
+<recallEffect id="1879085673" name="Secret Paths: Tirith Rhaw Location Two" appliedDescription="key:620789285:54354734"/>
+<recallEffect id="1879085674" name="Secret Paths: Tirith Rhaw Location Three" appliedDescription="key:620789286:54354734"/>
+<recallEffect id="1879085675" name="Secret Paths: Tol Ascarnen Location Two" appliedDescription="key:620789287:54354734"/>
+<recallEffect id="1879085676" name="Secret Paths: Tolascarnen Location Three" appliedDescription="key:620789288:54354734"/>
 <effect id="1879085777" name="Exit Rooted" description="key:620789323:181298206"/>
 <effect id="1879085778" name="Exit Dazed and Stunned" description="key:620783932:181298206"/>
 <instantVitalEffect id="1879085804" name="Painful Price" stat="Health_MaxLevel">
 <vitalChange min="-174.0" max="-174.0"/>
 </instantVitalEffect>
 <effect id="1879085805" name="Shadow Grip" appliedDescription="key:620789350:54354734" iconId="1090532173" duration="4.0" pulseCount="3"/>
+<vitalOverTimeEffect id="1879085807" name="Noble Mark" iconId="1090644695" duration="10.0" stat="Health_MaxLevel" damageType="64">
+<initialChange progressionID="1879085808" variance="2.5"/>
+<overTimeChange progressionID="1879085808" variance="2.5"/>
+</vitalOverTimeEffect>
+<propertyModEffect id="1879085848" name="Anthem of the Free Peoples Threat" iconId="1090553812" duration="30.0">
+<stat name="ThreatInputModifier_Healing" descriptionOverride="-" constant="20.0"/>
+</propertyModEffect>
 <vitalOverTimeEffect id="1879085950" name="Piercing Wound" iconId="1090523948" duration="3.0" pulseCount="3" stat="Health_MaxLevel" damageType="1">
 <overTimeChange progressionID="1879050155"/>
 </vitalOverTimeEffect>
+<effect id="1879085988" name="Exit All Harmful States Except Dread" description="key:620789434:181298206"/>
 <propertyModEffect id="1879086274" name="Dagger Precision" iconId="1090519170">
 <stat name="Skill_DaggerAutoAttackCriticalHitChance" descriptionOverride="key:620789445:106251889" constant="1.0"/>
 </propertyModEffect>
@@ -1791,6 +2063,11 @@
 <stat name="ForwardSource_Movement_MountSpeedMultiplier" operator="SUBSTRACT" constant="30.0"/>
 </propertyModEffect>
 <effect id="1879086711" name="Slope south of Calenthon" iconId="1090522263"/>
+<propertyModEffect id="1879086995" name="Glory" iconId="1090644842">
+<stat name="ICPR" scaling="1879059895"/>
+<stat name="ThreatInputModifier_Damage" descriptionOverride="key:620789802:106251890" constant="50.0"/>
+<stat name="MELEE_DAMAGE_PERCENTAGE" operator="SUBSTRACT" constant="25.0"/>
+</propertyModEffect>
 <effect id="1879087113" name="Call to Master" appliedDescription="key:620789867:54354734"/>
 <instantVitalEffect id="1879087130" name="Heroics" stat="Power_MaxLevel">
 <vitalChange constant="1.0" variance="25.0"/>
@@ -1919,7 +2196,10 @@
 <instantVitalEffect id="1879087521" name="Increased Power" stat="Power_MaxLevel">
 <vitalChange progressionID="1879088976"/>
 </instantVitalEffect>
-<effect id="1879087580" name="Travel to the Eyes and Guard Tavern"/>
+<propertyModEffect id="1879087549" name="Protected" appliedDescription="key:620790173:54354734" iconId="1090599071">
+<stat name="AI_Hints" constant="131072.0"/>
+</propertyModEffect>
+<recallEffect id="1879087580" name="Travel to the Eyes and Guard Tavern"/>
 <effect id="1879087641" name="Call to Pack" appliedDescription="key:620790233:54354734"/>
 <effect id="1879087643" name="Summon Wolf"/>
 <effect id="1879087644" name="Summon Wolf"/>
@@ -2041,7 +2321,7 @@
 <effect id="1879088472" name="Launching Fireworks" appliedDescription="key:620790785:54354734"/>
 <effect id="1879088473" name="Launching Fireworks" appliedDescription="key:620790786:54354734"/>
 <effect id="1879088474" name="Launching Fireworks" appliedDescription="key:620790787:54354734"/>
-<effect id="1879088539" name="Travel to Glân Vraig" appliedDescription="key:620790717:54354734"/>
+<recallEffect id="1879088539" name="Travel to Glân Vraig" appliedDescription="key:620790717:54354734"/>
 <effect id="1879088613" name="Launching Fireworks" appliedDescription="key:620790788:54354734"/>
 <propertyModEffect id="1879088716" name="Ballad - Threat" iconId="1090519170">
 <stat name="PERCEIVED_THREAT" descriptionOverride="key:620790883:106251889" constant="-2.0"/>
@@ -2117,6 +2397,9 @@
 <effect id="1879085522" name="Roaring Inferno"/>
 </hotspot>
 </genesis>
+<propertyModEffect id="1879089200" name="Anthem of the Valar: Healing" iconId="1090541080" duration="30.0">
+<stat name="ICMR" scaling="1879060874"/>
+</propertyModEffect>
 <propertyModEffect id="1879089202" name="Breached Armour" appliedDescription="key:620791203:54354734" iconId="1090531635" duration="30.0">
 <stat name="Combat_Agent_Armor_Value" scaling="1879085473"/>
 </propertyModEffect>
@@ -2166,15 +2449,34 @@
 <propertyModEffect id="1879089620" name="Lesser Persistence" iconId="1090648226" duration="15.0">
 <stat name="Combat_Agent_Armor_Value" descriptionOverride="key:620791508:106251889" constant="350.0"/>
 </propertyModEffect>
+<fellowshipEffect id="1879089625" name="Inspire" description="key:620791513:181298206" appliedDescription="key:620791513:54354734" applyToPets="true" applyToTarget="true" range="10.0">
+<effect id="1879089626" name="Heroic Strike/Heroic Cry Combo"/>
+</fellowshipEffect>
+<effect id="1879089626" name="Heroic Strike/Heroic Cry Combo"/>
+<effect id="1879089627" name="Shield-brother" appliedDescription="key:620791516:54354734" iconId="1091037683"/>
 <effect id="1879089794" name="Exit Torch Carrying" appliedDescription="key:620791663:54354734"/>
-<effect id="1879089863" name="Hunter Travel to West Angmar"/>
-<effect id="1879089864" name="Hunter Travel to East Angmar"/>
-<effect id="1879089865" name="Return to Camp" description="key:620791708:181298206"/>
-<effect id="1879089866" name="Hunter Travel to Ost Guruth"/>
-<effect id="1879089867" name="Hunter Travel to Michel Delving"/>
-<effect id="1879089868" name="Hunter Travel to Evendim"/>
+<propertyModEffect id="1879089820" name="Dunedain Mark" iconId="1091116225">
+<stat name="EVADE_PERCENTAGE" operator="SUBSTRACT" constant="15.000001"/>
+<stat name="BLOCK_PERCENTAGE" operator="SUBSTRACT" constant="15.000001"/>
+</propertyModEffect>
+<recallEffect id="1879089863" name="Hunter Travel to West Angmar"/>
+<recallEffect id="1879089864" name="Hunter Travel to East Angmar"/>
+<recallEffect id="1879089865" name="Return to Camp" description="key:620791708:181298206"/>
+<recallEffect id="1879089866" name="Hunter Travel to Ost Guruth"/>
+<recallEffect id="1879089867" name="Hunter Travel to Michel Delving"/>
+<recallEffect id="1879089868" name="Hunter Travel to Evendim"/>
+<vitalOverTimeEffect id="1879089879" name="Strength of the Earth" iconId="1091388956" duration="1.0" stat="Power_MaxLevel">
+<overTimeChange progressionID="1879060300"/>
+</vitalOverTimeEffect>
 <induceCombatState id="1879089968" name="Ranger Rooted" description="key:620791778:181298206"/>
+<propertyModEffect id="1879090229" name="Rampage" iconId="1091388975">
+<stat name="MELEE_DAMAGE_PERCENTAGE" constant="200.0"/>
+<stat name="ATTACK_DURATION_PERCENTAGE" constant="-50.0"/>
+<stat name="ForwardSource_Movement_SpeedMultiplier" operator="SUBSTRACT" descriptionOverride="key:620791979:106251891" constant="50.0"/>
+<stat name="ForwardSource_Movement_MountSpeedMultiplier" operator="SUBSTRACT" constant="50.0"/>
+</propertyModEffect>
 <effect id="1879090239" name="Knockaway"/>
+<effect id="1879090246" name="Dispel Pummel."/>
 <propertyModEffect id="1879090247" name="Roar" iconId="1091388974" duration="10.0">
 <stat name="Skill_ChanceCriticalHit_AimMod" constant="50000.0"/>
 </propertyModEffect>
@@ -2254,7 +2556,25 @@
 <fellowshipEffect id="1879092192" name="Awaken" appliedDescription="key:620792779:54354734" applyToTarget="true" range="20.0">
 <effect id="1879085778" name="Exit Dazed and Stunned"/>
 </fellowshipEffect>
+<propertyModEffect id="1879092291" name="Withdrawn" iconId="1091037686" duration="30.0">
+<stat name="MELEE_DAMAGE_PERCENTAGE" operator="SUBSTRACT" descriptionOverride="key:620792862:106251889" constant="30.000002"/>
+<stat name="RANGED_DAMAGE_PERCENTAGE" operator="SUBSTRACT" descriptionOverride="-" constant="30.000002"/>
+<stat name="TACTICAL_DAMAGE_PERCENTAGE" operator="SUBSTRACT" descriptionOverride="-" constant="30.000002"/>
+</propertyModEffect>
+<propertyModEffect id="1879092466" name="Simple Stealth" iconId="1090519170">
+<stat name="ForwardSource_Movement_SpeedMultiplier" operator="SUBSTRACT" descriptionOverride="key:620793010:106251889" constant="30.0"/>
+<stat name="ForwardSource_Combat_CurrentCombo" operator="SET" constant="34.0"/>
+</propertyModEffect>
 <effect id="1879092469" name="Dispel Hope"/>
+<fellowshipEffect id="1879092632" name="To Arms" description="key:620793041:181298206" appliedDescription="key:620793041:54354734" applyToPets="true" applyToTarget="true" range="10.0">
+<effect id="1879092633" name="To Arms Combo"/>
+</fellowshipEffect>
+<effect id="1879092633" name="To Arms Combo"/>
+<fellowshipEffect id="1879092635" name="Light of Elendil" description="key:620793045:181298206" applyToPets="true" applyToTarget="true" range="20.0">
+<effect id="1879093699" name="Light of Elendil"/>
+</fellowshipEffect>
+<effect id="1879092636" name="Dispel Battle-hardened"/>
+<effect id="1879092638" name="Battle-hardened" appliedDescription="key:620793047:54354734" iconId="1091232037" duration="10.0"/>
 <propertyModEffect id="1879092722" name="Light of Dúnachar" appliedDescription="key:620793115:54354734" iconId="1090537016" duration="15.0">
 <stat name="MELEE_DEFENCE_PERCENTAGE" operator="SET" constant="190.0"/>
 <stat name="RANGED_DEFENCE_PERCENTAGE" operator="SET" constant="190.0"/>
@@ -2270,9 +2590,13 @@
 <propertyModEffect id="1879092776" name="Mordirith Advanced Hint" iconId="1090552382" duration="30.0">
 <stat name="AI_Hints" constant="2.0"/>
 </propertyModEffect>
+<effect id="1879092783" name="Cosmetic" iconId="1090523647"/>
 <propertyModEffect id="1879092803" name="Herald Appearance A" iconId="1091037686"/>
 <propertyModEffect id="1879092804" name="Mordirith Vulnerable Hint" iconId="1090552382" duration="45.0">
 <stat name="AI_Hints" constant="32.0"/>
+</propertyModEffect>
+<propertyModEffect id="1879093045" name="Track Artifacts" iconId="1090519170">
+<stat name="Discovery_Tracking_Resource" operator="SET" descriptionOverride="key:620793365:106251889" constant="5.0"/>
 </propertyModEffect>
 <propertyModEffect id="1879093085" name="Fowl Fleetness" iconId="1091388976" duration="30.0">
 <stat name="ForwardSource_Movement_SpeedMultiplier" constant="50.0"/>
@@ -2289,6 +2613,18 @@
 <effect id="1879093217" name="Worms" appliedDescription="key:620793431:54354734"/>
 <propertyModEffect id="1879093312" name="Responsibility" iconId="1090648227" duration="10.0">
 <stat name="Skill_HealingMultiplier_Item" descriptionOverride="key:620793476:106251889" constant="10.0"/>
+</propertyModEffect>
+<vitalOverTimeEffect id="1879093331" name="Growing Fire" iconId="1090623588" duration="1.0" stat="Health_MaxLevel" damageType="16">
+<initialChange progressionID="1879050066"/>
+<overTimeChange progressionID="1879050066"/>
+</vitalOverTimeEffect>
+<fellowshipEffect id="1879093337" name="Strength of Will" description="key:620793549:181298206" appliedDescription="key:620793549:54354734" applyToPets="true" applyToTarget="true" range="10.0">
+<effect id="1879093339" name="Words of Victory Combo"/>
+</fellowshipEffect>
+<effect id="1879093339" name="Words of Victory Combo"/>
+<propertyModEffect id="1879093699" name="Light of Elendil" appliedDescription="key:620793720:54354734" iconId="1091155262" duration="30.0"/>
+<propertyModEffect id="1879093703" name="Marked" appliedDescription="key:620793722:54354734" iconId="1090531784">
+<stat name="AI_Hints" descriptionOverride="-" constant="1.7592186E13"/>
 </propertyModEffect>
 <reactiveVitalEffect id="1879093754" name="Wigskold's Revenge" description="key:620793768:181298206" appliedDescription="key:620793768:54354734" iconId="1090527700" damageTypes="1" damageTypeOverride="4">
 <attacker>
@@ -2328,6 +2664,8 @@
 <effect id="1879093799" name="Summon Orc" description="key:620793795:181298206" probability="0.05"/>
 <effect id="1879093803" name="Grave Wound Combo"/>
 <instantVitalEffect id="1879093822" name="Percent Power Damage To Target" stat="Power_MaxLevel" multiplicative="true"/>
+<effect id="1879093829" name="Summoned Spectral Warrior"/>
+<effect id="1879093830" name="Summoned Spectral Warrior"/>
 <propertyModEffect id="1879093858" name="Grasping Shade" appliedDescription="key:620793852:54354734" iconId="1090623592" duration="15.0">
 <stat name="AI_Hints" descriptionOverride="-" constant="1.34217728E8"/>
 <specialEffect label="key:620793852:106251889"/>
@@ -2340,8 +2678,13 @@
 <stat name="MORALE" operator="MULTIPLY" descriptionOverride="key:620793900:106251889" constant="1.1"/>
 </propertyModEffect>
 <effect id="1879093942" name="Cry of Vengeance"/>
+<fellowshipEffect id="1879093944" name="Cry of Vengeance" applyToPets="true" applyToTarget="true" range="10.0">
+<effect id="1879073080" name="Cry of Vengeance"/>
+</fellowshipEffect>
 <propertyModEffect id="1879094002" name="Herald Human Female Appearance A" iconId="1091037686"/>
 <propertyModEffect id="1879094007" name="Herald Dwarf Male Appearance A" iconId="1091037686"/>
+<effect id="1879094071" name="Cosmetic" description="key:620794022:181298206" iconId="1090523647"/>
+<effect id="1879094072" name="Cosmetic" description="key:620794020:181298206" iconId="1090523647"/>
 <effect id="1879094076" name="Cosmetic" description="key:620794023:181298206" iconId="1090523647"/>
 <induceCombatState id="1879094089" name="Induce Knockeddown" description="key:620794037:181298206"/>
 <propertyModEffect id="1879094210" name="Herald Human Female Appearance B" iconId="1091037686"/>
@@ -2360,12 +2703,24 @@
 <propertyModEffect id="1879094217" name="Captain Standard Power Buff" iconId="1090519170">
 <stat name="POWER" operator="MULTIPLY" descriptionOverride="key:620794125:106251889" constant="1.05"/>
 </propertyModEffect>
+<propertyModEffect id="1879094298" name="Possum Impersonation" appliedDescription="key:620794199:54354734" iconId="1091388979">
+<stat name="FeignedDeath_ResistChanceModifier" constant="-999.0"/>
+</propertyModEffect>
 <vitalOverTimeEffect id="1879094299" name="Blood of the Dunedain" iconId="1090539151" duration="4.0" pulseCount="5" stat="Health_MaxLevel">
 <initialChange progressionID="1879094300"/>
 <overTimeChange progressionID="1879094300"/>
 </vitalOverTimeEffect>
+<effect id="1879094317" name="Corrupt Cheese" description="key:620794210:181298206" appliedDescription="key:620794210:54354734" iconId="1090541681" duration="1200.0"/>
 <effect id="1879094623" name="Summon Blue Troll-keeper"/>
 <effect id="1879094624" name="Summon Red Troll-keeper"/>
+<propertyModEffect id="1879094625" name="Master's Command" appliedDescription="key:620794511:54354734" iconId="1090642114">
+<stat name="AI_Hints" constant="2.68435456E8"/>
+<stat name="AI_Threat_DesireOverride" operator="SET" constant="0.9"/>
+<stat name="MELEE_DAMAGE_PERCENTAGE" operator="SET" constant="400.0"/>
+<stat name="MELEE_DEFENCE_PERCENTAGE" operator="SET" constant="25.0"/>
+<stat name="RANGED_DEFENCE_PERCENTAGE" operator="SET" constant="25.0"/>
+<stat name="TACTICAL_DEFENCE_PERCENTAGE" operator="SET" constant="25.0"/>
+</propertyModEffect>
 <effect id="1879094741" name="Aura of Command" iconId="1090519170" duration="60.0"/>
 <propertyModEffect id="1879094786" name="Paranoia" appliedDescription="key:620794612:54354734" iconId="1091399128" duration="60.0">
 <stat name="Stealth_StealthDetectionLevelModifier" constant="49.0"/>
@@ -2407,6 +2762,9 @@
 <effect id="1879094829" name="Sticky Tar"/>
 </hotspot>
 </genesis>
+<effect id="1879094874" name="Tale of Heroism" iconId="1090519170"/>
+<effect id="1879094883" name="Tale of Warding" iconId="1090519170"/>
+<effect id="1879094887" name="Tale of Battle" iconId="1090519170"/>
 <propertyModEffect id="1879095021" name="The Call of Arda" iconId="1091400033" duration="10.0">
 <stat name="Combat_MitigationPercentage_Light" constant="-10.0"/>
 </propertyModEffect>
@@ -2416,6 +2774,43 @@
 <instantVitalEffect id="1879095065" name="Morale Drain" stat="Health_MaxLevel" multiplicative="true">
 <vitalChange constant="-0.4"/>
 </instantVitalEffect>
+<propertyModEffect id="1879095086" name="The Call of the Second Age" iconId="1091400179" duration="10.0">
+<stat name="Movement_InCombat_Speed_AddMod" constant="10.0"/>
+</propertyModEffect>
+<fellowshipEffect id="1879095089" name="Call of the Second Age" applyToPets="true" applyToTarget="true" range="5.0">
+<effect id="1879095086" name="The Call of the Second Age"/>
+</fellowshipEffect>
+<propertyModEffect id="1879095105" name="Threatening Gaze" appliedDescription="key:620794981:54354734" iconId="1090532174" duration="10.0">
+<stat name="AI_Hints" constant="2.68435456E8"/>
+</propertyModEffect>
+<vitalOverTimeEffect id="1879095427" name="Regen" iconId="1090541083" duration="2.0" pulseCount="5" stat="Power_MaxLevel">
+<initialChange progressionID="1879102079"/>
+<overTimeChange progressionID="1879102079"/>
+</vitalOverTimeEffect>
+<vitalOverTimeEffect id="1879095428" name="Regen" iconId="1090541083" duration="2.0" pulseCount="5" stat="Power_MaxLevel">
+<initialChange progressionID="1879102087"/>
+<overTimeChange progressionID="1879102087"/>
+</vitalOverTimeEffect>
+<vitalOverTimeEffect id="1879095429" name="Regen" iconId="1090541083" duration="2.0" pulseCount="7" stat="Power_MaxLevel">
+<initialChange progressionID="1879102079"/>
+<overTimeChange progressionID="1879102079"/>
+</vitalOverTimeEffect>
+<vitalOverTimeEffect id="1879095430" name="Regen" iconId="1090541083" duration="2.0" pulseCount="5" stat="Power_MaxLevel">
+<initialChange progressionID="1879102088"/>
+<overTimeChange progressionID="1879102088"/>
+</vitalOverTimeEffect>
+<vitalOverTimeEffect id="1879095431" name="Regen" iconId="1090541083" duration="2.0" pulseCount="5" stat="Power_MaxLevel">
+<initialChange progressionID="1879102077"/>
+<overTimeChange progressionID="1879102077"/>
+</vitalOverTimeEffect>
+<vitalOverTimeEffect id="1879095432" name="Regen" iconId="1090541083" duration="2.0" pulseCount="9" stat="Power_MaxLevel">
+<initialChange progressionID="1879102079"/>
+<overTimeChange progressionID="1879102079"/>
+</vitalOverTimeEffect>
+<vitalOverTimeEffect id="1879095433" name="Regen" iconId="1090541083" duration="2.0" pulseCount="5" stat="Power_MaxLevel">
+<initialChange progressionID="1879102085"/>
+<overTimeChange progressionID="1879102085"/>
+</vitalOverTimeEffect>
 <effect id="1879095434" name="Drain Power" iconId="1090519170"/>
 <effect id="1879095435" name="Drain Power" iconId="1090519170"/>
 <effect id="1879095436" name="Drain Life" iconId="1090519170"/>
@@ -2472,7 +2867,18 @@
 <initialChange constant="-600.0"/>
 <overTimeChange constant="-1000.0"/>
 </vitalOverTimeEffect>
+<propertyModEffect id="1879095494" name="The Call of the Fellowship" iconId="1091400692" duration="15.0">
+<stat name="Skill_DamageMultiplier_Trait_Race_Conjuction_Guile" descriptionOverride="key:620795364:106251889" constant="10.0"/>
+<stat name="Skill_PowerMoraleMultiplier_Trait_Race_Conjuction_Tactics" descriptionOverride="-" constant="10.0"/>
+<stat name="Skill_HealingMultiplier_Trait_Race_Conjuction_Conviction" descriptionOverride="-" constant="10.0"/>
+<stat name="Skill_DamageMultiplier_Trait_Race_Conjuction_Might" descriptionOverride="-" constant="10.0"/>
+</propertyModEffect>
 <effect id="1879095498" name="Call to Greatness"/>
+<fellowshipEffect id="1879095499" name="Call of the Fellowship" applyToTarget="true" range="25.0">
+<effect id="1879095494" name="The Call of the Fellowship"/>
+</fellowshipEffect>
+<effect id="1879095500" name="Noble Cry"/>
+<effect id="1879095501" name="Noble Cry"/>
 <propertyModEffect id="1879095502" name="Hope[e]" iconId="1090537016" duration="600.0">
 <stat name="HOPE" constant="1.0"/>
 </propertyModEffect>
@@ -2493,12 +2899,27 @@
 <stat name="ICMR" operator="MULTIPLY" descriptionOverride="key:620795443:106251890" constant="0.5"/>
 </propertyModEffect>
 <propertyModEffect id="1879095615" name="Creeping Disease" appliedDescription="key:620795449:54354734" iconId="1090522395" duration="15.0" pulseCount="1"/>
+<propertyModEffect id="1879095617" name="War-speech" iconId="1091400695">
+<stat name="Skill_HealingMultiplier_Item" constant="-50.0"/>
+<stat name="Skill_RecoveryTime_SmoothVoiceDurationRecharge" descriptionOverride="key:620795454:106251890" constant="-10.0"/>
+<stat name="Skill_ChanceCriticalHit_Minstrel_Warspeech" descriptionOverride="key:620795454:106251891" constant="25.0"/>
+<stat name="ForwardSource_Combat_TraitCombo6" operator="SET" constant="45.0"/>
+</propertyModEffect>
 <propertyModEffect id="1879095622" name="Gift of the hammerhand effect" appliedDescription="key:620795455:54354734" iconId="1091400697" duration="10.0"/>
 <genesis id="1879095623" name=".." appliedDescription="key:620795456:54354734" summonDuration="30.0">
 <hotspot id="1879095624" name="Dread Aura Tier 1">
 <effect id="1879061532" name="Dread"/>
 </hotspot>
 </genesis>
+<propertyModEffect id="1879095698" name="Ire of the Oathbreaker" iconId="1091400693">
+<stat name="Resist_Additional_Resistance_Song" descriptionOverride="key:620795518:106251889" constant="-3.0"/>
+<stat name="Resist_Additional_Resistance_Cry" descriptionOverride="-" constant="-3.0"/>
+</propertyModEffect>
+<vitalOverTimeEffect id="1879095699" name="Ire of the Oathbreaker" appliedDescription="key:620795519:54354734" iconId="1091400693" duration="5.0" stat="Health_MaxLevel" damageType="1">
+<initialChange progressionID="1879095700"/>
+<overTimeChange progressionID="1879095700"/>
+</vitalOverTimeEffect>
+<effect id="1879095831" name="Channelling The Void" iconId="1090532173"/>
 <vitalOverTimeEffect id="1879095832" name="Grievous Wound" iconId="1090625105" duration="2.0" pulseCount="15" stat="Health_MaxLevel" damageType="1">
 <initialChange progressionID="1879081263"/>
 <overTimeChange progressionID="1879081264"/>
@@ -2514,6 +2935,14 @@
 <instantVitalEffect id="1879096315" name="Chord of Salvation" stat="Health_MaxLevel">
 <vitalChange progressionID="1879096320"/>
 </instantVitalEffect>
+<propertyModEffect id="1879096323" name="Wrath of the Oathbreakers" iconId="1091400694">
+<stat name="Resist_Additional_Resistance_Song" descriptionOverride="key:620795676:106251889" constant="-5.0"/>
+<stat name="Resist_Additional_Resistance_Cry" descriptionOverride="-" constant="-5.0"/>
+</propertyModEffect>
+<vitalOverTimeEffect id="1879096324" name="Wrath of the Oathbreakers" appliedDescription="key:620795677:54354734" iconId="1091400694" duration="5.0" stat="Health_MaxLevel" damageType="1">
+<initialChange progressionID="1879096325"/>
+<overTimeChange progressionID="1879096325"/>
+</vitalOverTimeEffect>
 <effect id="1879096327" name="Summon Bat" description="key:620795683:181298206"/>
 <effect id="1879096509" name="Drain Life" iconId="1090519170"/>
 <effect id="1879096511" name="Drain Power" iconId="1090519170"/>
@@ -2677,7 +3106,9 @@
 </propertyModEffect>
 <effect id="1879097694" name="Weaken" description="key:620796344:181298206" iconId="1090519170"/>
 <effect id="1879097710" name="Zogtark's Bane" appliedDescription="key:620796360:54354734"/>
+<effect id="1879097782" name="Blood Gift" iconId="1090519170"/>
 <effect id="1879097786" name="Summoned Orc Worm Pet" description="key:620796392:181298206"/>
+<effect id="1879097792" name="Bone Grind" iconId="1090519170"/>
 <propertyModEffect id="1879097795" name="Weakness to Fire" appliedDescription="key:620796400:54354734" iconId="1090623585" duration="25.0">
 <stat name="FIRE_MITIGATION_PERCENTAGE" operator="SUBSTRACT" constant="5.0"/>
 </propertyModEffect>
@@ -2760,6 +3191,9 @@
 <dispelByResist id="1879098946" name="Remove Fear" maxDispelCount="1" resistCategories="7" useStrengthRestriction="true"/>
 <dispelByResist id="1879098947" name="Remove Poison" maxDispelCount="1" resistCategories="8" useStrengthRestriction="true"/>
 <dispelByResist id="1879098948" name="Remove Wounds" maxDispelCount="1" resistCategories="4" useStrengthRestriction="true"/>
+<propertyModEffect id="1879099078" name="Scribe Stance" appliedDescription="key:620797424:54354734" iconId="1091403997">
+<stat name="ForwardSource_Combat_TraitCombo7" operator="SET" descriptionOverride="-" constant="46.0"/>
+</propertyModEffect>
 <propertyModEffect id="1879099106" name="Pet Efect Aura Override" iconId="1090519170"/>
 <propertyModEffect id="1879099119" name="Pet Efect Aura Override" iconId="1090519170"/>
 <propertyModEffect id="1879099120" name="Pet Efect Aura Override" iconId="1090519170"/>
@@ -2778,6 +3212,33 @@
 <dispelByResist id="1879099164" name="Remove Minor Poison" maxDispelCount="1" resistCategories="8" useStrengthRestriction="true" strengthOffset="2"/>
 <effect id="1879099176" name="Remove Spike"/>
 <effect id="1879099177" name="Recalling Chain" appliedDescription="key:620797511:54354734"/>
+<genesis id="1879099261" permanent="true">
+<summoned id="1879099252" name="Manual of the Bagpipes"/>
+</genesis>
+<genesis id="1879099262" permanent="true">
+<summoned id="1879099253" name="Manual of the Clarinet"/>
+</genesis>
+<genesis id="1879099263" permanent="true">
+<summoned id="1879099254" name="Manual of the Cowbell"/>
+</genesis>
+<genesis id="1879099264" permanent="true">
+<summoned id="1879099255" name="Manual of the Drums"/>
+</genesis>
+<genesis id="1879099265" permanent="true">
+<summoned id="1879099256" name="Manual of the Flute"/>
+</genesis>
+<genesis id="1879099266" permanent="true">
+<summoned id="1879099257" name="Manual of the Harp"/>
+</genesis>
+<genesis id="1879099267" permanent="true">
+<summoned id="1879099258" name="Manual of the Horn"/>
+</genesis>
+<genesis id="1879099268" permanent="true">
+<summoned id="1879099259" name="Manual of the Moor Cowbell"/>
+</genesis>
+<genesis id="1879099269" permanent="true">
+<summoned id="1879099260" name="Manual of the Theorbo"/>
+</genesis>
 <dispelByResist id="1879099365" name="Remove Disease" maxDispelCount="-1" resistCategories="2"/>
 <dispelByResist id="1879099366" name="Remove Fear" maxDispelCount="-1" resistCategories="7"/>
 <dispelByResist id="1879099367" name="Remove Poison" maxDispelCount="1" resistCategories="8"/>
@@ -2786,11 +3247,14 @@
 <stat name="AI_Hints" constant="32.0"/>
 </propertyModEffect>
 <effect id="1879099379" name="Raised Minion"/>
-<effect id="1879101508" name="Travel to Kinship House" description="key:620799394:181298206"/>
-<effect id="1879101509" name="Travel to House" description="key:620799392:181298206"/>
+<recallEffect id="1879101508" name="Travel to Kinship House" description="key:620799394:181298206"/>
+<recallEffect id="1879101509" name="Travel to House" description="key:620799392:181298206"/>
 <propertyModEffect id="1879101629" name="Protected" iconId="1090607905">
 <stat name="AI_Hints" constant="131072.0"/>
 </propertyModEffect>
+<vitalOverTimeEffect id="1879101639" name="Distraction" iconId="1091404966" duration="4.0" stat="Health_MaxLevel" damageType="64">
+<overTimeChange progressionID="1879101804"/>
+</vitalOverTimeEffect>
 <propertyModEffect id="1879101732" name="Hatchlings" appliedDescription="key:620799561:54354734" iconId="1090522398" duration="10.0" pulseCount="1">
 <stat name="POWER" scaling="1879086303"/>
 </propertyModEffect>
@@ -2802,12 +3266,12 @@
 </vitalOverTimeEffect>
 <effect id="1879101894" name="Novice Riding" appliedDescription="key:620799667:54354734" iconId="1090523647"/>
 <effect id="1879101996" name="Recalling Root" appliedDescription="key:620799781:54354734"/>
-<effect id="1879102249" name="Chicken Travel - Angmar"/>
-<effect id="1879102250" name="Chicken Travel - Breeland"/>
-<effect id="1879102251" name="Chicken Travel - Ered Luin"/>
-<effect id="1879102252" name="Chicken Travel - Evendim"/>
-<effect id="1879102253" name="Chicken Travel - North Downs"/>
-<effect id="1879102254" name="Chicken Travel - Trollshaws"/>
+<recallEffect id="1879102249" name="Chicken Travel - Angmar"/>
+<recallEffect id="1879102250" name="Chicken Travel - Breeland"/>
+<recallEffect id="1879102251" name="Chicken Travel - Ered Luin"/>
+<recallEffect id="1879102252" name="Chicken Travel - Evendim"/>
+<recallEffect id="1879102253" name="Chicken Travel - North Downs"/>
+<recallEffect id="1879102254" name="Chicken Travel - Trollshaws"/>
 <effect id="1879102275" name="Exit all Immune States" description="key:620799982:181298206"/>
 <induceCombatState id="1879102276" name="Induce Wraith Stun"/>
 <propertyModEffect id="1879102277" name="Gurthul Advanced Hint" iconId="1090552382" duration="17.0">
