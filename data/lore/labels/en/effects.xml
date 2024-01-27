@@ -271,6 +271,9 @@
 <label key="1879060318" value="War-cry"/>
 <label key="1879060329" value="Heroic Strike/Heroic Cry Combo"/>
 <label key="1879060330" value="Battle-readied"/>
+<label key="1879060334" value="Heroic Strike"/>
+<label key="1879060335" value="Heroic Strike/Heroic Cry"/>
+<label key="1879060336" value="Heroic Cry"/>
 <label key="1879060341" value="Defending"/>
 <label key="1879060349" value="Call to Arms: Improved Herald of War"/>
 <label key="1879060364" value="Call to Arms: Herald of War"/>
@@ -301,6 +304,7 @@
 <label key="1879060721" value="Beneath Notice"/>
 <label key="1879060726" value="Needful Haste"/>
 <label key="1879060754" value="Flanked! Improved Staff Strike"/>
+<label key="1879060755" value="Flanked! Improved Staff Strike"/>
 <label key="1879060762" value="Draw Power"/>
 <label key="1879060763" value="Improved Draw Power"/>
 <label key="1879060776" value="Hope"/>
@@ -491,6 +495,10 @@
 <label key="1879073097" value="Noble Cause Chain Down Combo"/>
 <label key="1879073098" value="Herald's Strike Heal"/>
 <label key="1879073100" value="Noble Cause (3 left)"/>
+<label key="1879073101" value="Noble Cause (2 left)"/>
+<label key="1879073102" value="Noble Cause Chain Down Combo"/>
+<label key="1879073103" value="Dispel Noble Cause"/>
+<label key="1879073104" value="Dispel Noble Cause"/>
 <label key="1879073105" value="Noble Cause"/>
 <label key="1879073106" value="Noble Cause Combo Herald's Strike"/>
 <label key="1879073110" value="Lesser Raise the Spirit"/>
@@ -522,6 +530,7 @@
 <label key="1879073222" value="Shatter Arms"/>
 <label key="1879073228" value="Sign of Power: Istari"/>
 <label key="1879073229" value="Sign of Power: Wizardry"/>
+<label key="1879073230" value="Sign of Power: Istari Heal"/>
 <label key="1879073233" value="Sign of Power: Command"/>
 <label key="1879073235" value="Induce Immune"/>
 <label key="1879073236" value="Dispel Silence"/>
@@ -549,7 +558,9 @@
 <label key="1879073312" value="Induce Fellowship Manoeuvre Stunned"/>
 <label key="1879073314" value="Befuddle"/>
 <label key="1879073316" value="Twist and Tricks"/>
+<label key="1879073317" value="Induce Startling Twist Stunned"/>
 <label key="1879073318" value="Mischievous Glee"/>
+<label key="1879073319" value="Mischievous Glee"/>
 <label key="1879073321" value="Reveal Weakness"/>
 <label key="1879073322" value="Reveal Weakness"/>
 <label key="1879073323" value="Ready and Able"/>
@@ -562,6 +573,7 @@
 <label key="1879073370" value="Burning Arrow"/>
 <label key="1879073391" value="Slowing Cut"/>
 <label key="1879073395" value="Flensing Slash/Barbed Arrow Combo"/>
+<label key="1879073396" value="Flensing Slash Damage"/>
 <label key="1879073405" value="findthepath"/>
 <label key="1879073407" value="Cleanse Poison Resistance"/>
 <label key="1879073413" value="Camp"/>
@@ -977,6 +989,7 @@
 <label key="1879091597" value="Remove Oil"/>
 <label key="1879091598" value="Enable Banner Standards"/>
 <label key="1879091604" value="Withdraw"/>
+<label key="1879092058" value="To Arms"/>
 <label key="1879092192" value="Awaken"/>
 <label key="1879092291" value="Withdrawn"/>
 <label key="1879092466" value="Simple Stealth"/>
@@ -1004,6 +1017,7 @@
 <label key="1879093331" value="Growing Fire"/>
 <label key="1879093337" value="Strength of Will"/>
 <label key="1879093339" value="Words of Victory Combo"/>
+<label key="1879093395" value="Strength of Will"/>
 <label key="1879093699" value="Light of Elendil"/>
 <label key="1879093703" value="Marked"/>
 <label key="1879093754" value="Wigskold's Revenge"/>
@@ -1015,7 +1029,9 @@
 <label key="1879093796" value="Corrupt Cheese"/>
 <label key="1879093798" value="Summon Orc"/>
 <label key="1879093799" value="Summon Orc"/>
+<label key="1879093801" value="Inspired"/>
 <label key="1879093803" value="Grave Wound Combo"/>
+<label key="1879093804" value="Aggressive Stance"/>
 <label key="1879093822" value="Percent Power Damage To Target"/>
 <label key="1879093829" value="Summoned Spectral Warrior"/>
 <label key="1879093830" value="Summoned Spectral Warrior"/>
@@ -1186,6 +1202,11 @@
 <label key="1879097495" value="Raven Appearance 2"/>
 <label key="1879097496" value="Raven Appearance 3"/>
 <label key="1879097590" value="Sulfur Deception"/>
+<label key="1879097591" value="Minor Breach"/>
+<label key="1879097592" value="Small Breach"/>
+<label key="1879097593" value="Large Breach"/>
+<label key="1879097594" value="Major Breach"/>
+<label key="1879097595" value="Grievous Breach"/>
 <label key="1879097598" value="Aura of Protection"/>
 <label key="1879097599" value="Aura of Restoration"/>
 <label key="1879097600" value="Aura of Rage"/>
@@ -1212,6 +1233,9 @@
 <label key="1879098187" value="Lynx Appearance 4"/>
 <label key="1879098190" value="Melted Armour"/>
 <label key="1879098211" value="Stop Hovering"/>
+<label key="1879098321" value="Exposing Strke Chain Up Combo"/>
+<label key="1879098322" value="Exposing Strke Chain Up Combo"/>
+<label key="1879098323" value="Exposing Strke Chain Up Combo"/>
 <label key="1879098324" value="Exposing Strke Chain Up Base"/>
 <label key="1879098336" value="Induce Dazed"/>
 <label key="1879098376" value="Induce Feared"/>
@@ -1459,6 +1483,7 @@
 <label key="key:620774933:54354734" value="Damage dealt to the marked target has a restoring effect on the attacker."/>
 <label key="key:620774944:54354734" value="Causes the target to kneel."/>
 <label key="key:620774953:54354734" value="Your Herald Strike attacks give you back morale."/>
+<label key="key:620774954:54354734" value="Your Herald Strike attacks give you back morale."/>
 <label key="key:620774958:181298206" value="Instant Fellowship Heal"/>
 <label key="key:620774960:54354734" value="Special attacks are improved."/>
 <label key="key:620775021:54354734" value="Incoming Morale damage is transformed into Power damage."/>
@@ -1471,6 +1496,7 @@
 <label key="key:620775127:54354734" value="Exploit Weakness's use has opened new combat opportunities."/>
 <label key="key:620775131:181298206" value="Stuns for 5s"/>
 <label key="key:620775133:106251889" value="Doubles the target's induction durations."/>
+<label key="key:620775136:181298206" value="Stuns for 8s"/>
 <label key="key:620775142:54354734" value="Target takes 10% more damage from attacks."/>
 <label key="key:620775143:54354734" value="Target takes 8% more damage from attacks."/>
 <label key="key:620775151:106251889" value="Treasure Tracking"/>
@@ -1686,6 +1712,7 @@
 <label key="key:620792385:106251889" value="Your bow skills generate less threat."/>
 <label key="key:620792385:54354734" value="An ancient song imbues your bow with new power."/>
 <label key="key:620792389:181298206" value="About-face: A portion of Morale is transferred to Power."/>
+<label key="key:620792711:54354734" value="Your attacks deal 25% more damage."/>
 <label key="key:620792779:54354734" value="The fellowship is awaken from stuns."/>
 <label key="key:620792862:106251889" value="-${PERCENTVALUE} Damage"/>
 <label key="key:620792991:106251890" value="Your stealth is not broken by damage."/>
@@ -1703,6 +1730,7 @@
 <label key="key:620793476:106251889" value="You heal ${PERCENTVALUE} more."/>
 <label key="key:620793549:181298206" value="Your Shield-brother recovers 5% more Morale from healing."/>
 <label key="key:620793549:54354734" value="You recover 5% more Morale from healing."/>
+<label key="key:620793551:54354734" value="+5% more Morale from healing."/>
 <label key="key:620793720:54354734" value="You have a chance to deal additional Light Damage to your opponent."/>
 <label key="key:620793722:54354734" value="Cannot be affected by the Eagle's Sacrifice."/>
 <label key="key:620793768:181298206" value="Wigskold's Revenge: Reflects a portion of common damage back to the attacker in the form of Ancient Dwarf-make damage."/>
@@ -1786,6 +1814,16 @@
 <label key="key:620796251:54354734" value="The sulfur raised by the Balrog now provides obscuring cover."/>
 <label key="key:620796252:54354734" value="The Balrog emanates a palpable aura, empowering itself and its allies nearby."/>
 <label key="key:620796254:54354734" value="The Balrog emanates a palpable aura, empowering itself and its allies nearby."/>
+<label key="key:620796255:106251889" value="+${PERCENTVALUE} Critical Vulnerability"/>
+<label key="key:620796255:54354734" value="The force of the Balrog's attack leaves you moderately exposed to devastating strikes to follow."/>
+<label key="key:620796256:106251889" value="+${PERCENTVALUE} Critical Vulnerability"/>
+<label key="key:620796256:54354734" value="The force of the Balrog's attack leaves you more exposed to devastating strikes to follow."/>
+<label key="key:620796257:106251889" value="+${PERCENTVALUE} Critical Vulnerability"/>
+<label key="key:620796257:54354734" value="The force of the Balrog's attack leaves you quite exposed to devastating strikes to follow."/>
+<label key="key:620796258:106251889" value="+${PERCENTVALUE} Critical Vulnerability"/>
+<label key="key:620796258:54354734" value="The force of the Balrog's attack leaves you significantly exposed to devastating strikes to follow."/>
+<label key="key:620796259:106251889" value="+${PERCENTVALUE} Critical Vulnerability"/>
+<label key="key:620796259:54354734" value="The force of the Balrog's attack leaves you extremely exposed to devastating strikes to follow."/>
 <label key="key:620796285:181298206" value="5% chance of stunning targets inflicting damage on you."/>
 <label key="key:620796285:54354734" value="5% chance of stunning targets inflicting damage on you."/>
 <label key="key:620796344:181298206" value="Usage: Slightly damages the target while granting you Power."/>

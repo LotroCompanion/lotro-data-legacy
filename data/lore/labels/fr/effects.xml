@@ -271,6 +271,9 @@
 <label key="1879060318" value="Cri de guerre"/>
 <label key="1879060329" value="Combo attaque héroïque/cri héroïque"/>
 <label key="1879060330" value="Battle Readied"/>
+<label key="1879060334" value="Attaque héroïque"/>
+<label key="1879060335" value="Attaque héroïque/Cri héroïque"/>
+<label key="1879060336" value="Cri héroïque"/>
 <label key="1879060341" value="En défense"/>
 <label key="1879060349" value="Appel aux armes :&#10;Héraut de guerre amélioré"/>
 <label key="1879060364" value="Appel aux armes :&#10;Héraut de guerre"/>
@@ -301,6 +304,7 @@
 <label key="1879060721" value="Insignifiance"/>
 <label key="1879060726" value="Hâte nécessaire"/>
 <label key="1879060754" value="Contournement Coup de bâton amélioré"/>
+<label key="1879060755" value="Contournement Coup de bâton amélioré"/>
 <label key="1879060762" value="Absorption de pouvoir"/>
 <label key="1879060763" value="Aspiration de puissance améliorée"/>
 <label key="1879060776" value="Espoir"/>
@@ -491,6 +495,10 @@
 <label key="1879073097" value="Combo de baisse de chaîne de Noble cause"/>
 <label key="1879073098" value="Guérison de l'Attaque du héraut"/>
 <label key="1879073100" value="Noble cause (reste 3)"/>
+<label key="1879073101" value="Noble cause (reste 2)"/>
+<label key="1879073102" value="Combo de baisse de chaîne de Noble cause"/>
+<label key="1879073103" value="Dissipation de noble cause"/>
+<label key="1879073104" value="Dissipation de noble cause"/>
 <label key="1879073105" value="Noble Cause"/>
 <label key="1879073106" value="Noble cause combo Attaque du héraut"/>
 <label key="1879073110" value="Petite hausse de courage"/>
@@ -522,6 +530,7 @@
 <label key="1879073222" value="Ecrasement de bras"/>
 <label key="1879073228" value="Signe du pouvoir : Istari"/>
 <label key="1879073229" value="Signe du pouvoir : magie"/>
+<label key="1879073230" value="Signe du pouvoir : guérison Istari"/>
 <label key="1879073233" value="Signe du pouvoir : injonction"/>
 <label key="1879073235" value="Déclencher immunité"/>
 <label key="1879073236" value="Dissipation de silence"/>
@@ -549,7 +558,9 @@
 <label key="1879073312" value="Déclencher manoeuvre de communauté Etourdi"/>
 <label key="1879073314" value="Confusion"/>
 <label key="1879073316" value="Manoeuvre et trucs"/>
+<label key="1879073317" value="Déclencher Manoeuvre saisissante Etourdi"/>
 <label key="1879073318" value="Jubilation malicieuse"/>
+<label key="1879073319" value="Jubilation malicieuse"/>
 <label key="1879073321" value="Révélation de faiblesse"/>
 <label key="1879073322" value="Révélation de faiblesse"/>
 <label key="1879073323" value="Prêt à l'action"/>
@@ -562,6 +573,7 @@
 <label key="1879073370" value="Flèche brûlante"/>
 <label key="1879073391" value="Coupure ralentissante"/>
 <label key="1879073395" value="Combo botte d'escrime/Flèche barbelée"/>
+<label key="1879073396" value="Dégâts de botte d'escrime"/>
 <label key="1879073405" value="orientation"/>
 <label key="1879073407" value="Résistance de purification du poison"/>
 <label key="1879073413" value="Camp"/>
@@ -977,6 +989,7 @@
 <label key="1879091597" value="Retrait d'huile"/>
 <label key="1879091598" value="Activation des étendards de bannières"/>
 <label key="1879091604" value="Repli"/>
+<label key="1879092058" value="Aux armes !"/>
 <label key="1879092192" value="Eveil"/>
 <label key="1879092291" value="Retrait"/>
 <label key="1879092466" value="Discrétion simple"/>
@@ -1004,6 +1017,7 @@
 <label key="1879093331" value="Flammes montantes"/>
 <label key="1879093337" value="Volonté"/>
 <label key="1879093339" value="Combo Mots de victoire"/>
+<label key="1879093395" value="Volonté"/>
 <label key="1879093699" value="Lumière d'Elendil"/>
 <label key="1879093703" value="Marqué"/>
 <label key="1879093754" value="Vengeance de Wigskold"/>
@@ -1015,7 +1029,9 @@
 <label key="1879093796" value="Fromage pourri"/>
 <label key="1879093798" value="Invocation d'Orque"/>
 <label key="1879093799" value="Invocation d'Orque"/>
+<label key="1879093801" value="Inspiration"/>
 <label key="1879093803" value="Combo Blessure grave"/>
+<label key="1879093804" value="Position agressive"/>
 <label key="1879093822" value="Pourcentage de dégâts à la Puissance de la cible"/>
 <label key="1879093829" value="Guerrier spectral invoqué"/>
 <label key="1879093830" value="Guerrier spectral invoqué"/>
@@ -1186,6 +1202,11 @@
 <label key="1879097495" value="Apparence de corbeau 2"/>
 <label key="1879097496" value="Apparence de corbeau 3"/>
 <label key="1879097590" value="Tromperie par le soufre"/>
+<label key="1879097591" value="Brèche mineure"/>
+<label key="1879097592" value="Petite brèche"/>
+<label key="1879097593" value="Grande brèche"/>
+<label key="1879097594" value="Brèche majeure"/>
+<label key="1879097595" value="Brèche cruelle"/>
 <label key="1879097598" value="Aura de protection"/>
 <label key="1879097599" value="Aura de restauration"/>
 <label key="1879097600" value="Aura de rage"/>
@@ -1212,6 +1233,9 @@
 <label key="1879098187" value="Apparence de lynx 4"/>
 <label key="1879098190" value="Armure fondue"/>
 <label key="1879098211" value="Cesser de flotter"/>
+<label key="1879098321" value="Cp d'exposition combo d'enchaînement"/>
+<label key="1879098322" value="Cp d'exposition combo d'enchaînement"/>
+<label key="1879098323" value="Cp d'exposition combo d'enchaînement"/>
 <label key="1879098324" value="Cp d'exposition base d'enchaînement"/>
 <label key="1879098336" value="Déclencher Hébété"/>
 <label key="1879098376" value="Déclencher Effrayé"/>
@@ -1459,6 +1483,7 @@
 <label key="key:620774933:54354734" value="Les dégâts infligés à la cible marquée ont des vertus régénératrices pour l'attaquant."/>
 <label key="key:620774944:54354734" value="Force la cible à s'agenouiller."/>
 <label key="key:620774953:54354734" value="Votre attaque du héraut vous redonne du Moral."/>
+<label key="key:620774954:54354734" value="Votre attaque du héraut vous redonne du Moral."/>
 <label key="key:620774958:181298206" value="Guérison instantanée de communauté"/>
 <label key="key:620774960:54354734" value="Vos attaques spéciales sont améliorées."/>
 <label key="key:620775021:54354734" value="Les dégâts au Moral sont transformés en dégâts à la Puissance."/>
@@ -1471,6 +1496,7 @@
 <label key="key:620775127:54354734" value="L'utilisation d'Exploitation de déficience a ouvert de nouvelles occasions de combat."/>
 <label key="key:620775131:181298206" value="Etourdit pendant 5 s"/>
 <label key="key:620775133:106251889" value="Double la durée de déclenchement de la cible."/>
+<label key="key:620775136:181298206" value="Etourdit pendant 8s"/>
 <label key="key:620775142:54354734" value="Les attaques infligent 10% de dégâts en plus à la cible."/>
 <label key="key:620775143:54354734" value="Les attaques infligent 8% de dégâts en plus à la cible."/>
 <label key="key:620775151:106251889" value="Pour repérer les trésors"/>
@@ -1686,6 +1712,7 @@
 <label key="key:620792385:106251889" value="Vos compétences à l'arc génèrent moins de menace."/>
 <label key="key:620792385:54354734" value="Un chant antique imprègne votre arc d'un nouveau pouvoir."/>
 <label key="key:620792389:181298206" value="Demi-tour : une partie du Moral est transformée en Puissance."/>
+<label key="key:620792711:54354734" value="Vos attaquents provoquent 25 % de dégâts supplémentaires."/>
 <label key="key:620792779:54354734" value="La communauté se réveille en cas d'étourdissement."/>
 <label key="key:620792862:106251889" value="-${PERCENTVALUE} de dégâts"/>
 <label key="key:620792991:106251890" value="Les dégâts subis n'interrompent pas votre discrétion."/>
@@ -1703,6 +1730,7 @@
 <label key="key:620793476:106251889" value="Vous guérissez de ${PERCENTVALUE} supplémentaires."/>
 <label key="key:620793549:181298206" value="Votre frère de bouclier récupère 5 % de Moral supplémentaire durant la guérison."/>
 <label key="key:620793549:54354734" value="Vous récupérez 5 % de Moral supplémentaire grâce à la guérison."/>
+<label key="key:620793551:54354734" value="+5 % de Moral supplémentaire grâce à la guérison"/>
 <label key="key:620793720:54354734" value="Vous avez la possibilité d'infliger des dégâts légers supplémentaires à votre adversaire."/>
 <label key="key:620793722:54354734" value="Ne peut pas être affecté par le Sacrifice de l'aigle."/>
 <label key="key:620793768:181298206" value="Vengeance de Wigskold : renvoie une partie des dégâts normaux sur l'attaquant sous forme de dégâts de nain d'antan."/>
@@ -1786,6 +1814,16 @@
 <label key="key:620796251:54354734" value="Le soufre soulevé par le Balrog fournit une couverture."/>
 <label key="key:620796252:54354734" value="Il émane du Balrog une aura presque palpable qui augmente sa puissance et celle de ses alliés proches."/>
 <label key="key:620796254:54354734" value="Il émane du Balrog une aura presque palpable qui augmente sa puissance et celle de ses alliés proches."/>
+<label key="key:620796255:106251889" value="Vulnérabilité critique +${PERCENTVALUE}"/>
+<label key="key:620796255:54354734" value="La force de l'attaque du Balrog vous expose modérément aux attaques dévastatrices à suivre."/>
+<label key="key:620796256:106251889" value="Vulnérabilité critique +${PERCENTVALUE}"/>
+<label key="key:620796256:54354734" value="La force de l'attaque du Balrog vous expose davantage aux attaques dévastatrices à suivre."/>
+<label key="key:620796257:106251889" value="Vulnérabilité critique +${PERCENTVALUE}"/>
+<label key="key:620796257:54354734" value="La force de l'attaque du Balrog vous expose aux attaques dévastatrices à suivre."/>
+<label key="key:620796258:106251889" value="Vulnérabilité critique +${PERCENTVALUE}"/>
+<label key="key:620796258:54354734" value="La force de l'attaque du Balrog vous expose grandement aux attaques dévastatrices à suivre."/>
+<label key="key:620796259:106251889" value="Vulnérabilité critique +${PERCENTVALUE}"/>
+<label key="key:620796259:54354734" value="La force de l'attaque du Balrog vous expose énormément aux attaques dévastatrices à suivre."/>
 <label key="key:620796285:181298206" value="5 % de chances de paralyser les cibles qui vous font subir des dégâts."/>
 <label key="key:620796285:54354734" value="5 % de chances de paralyser les cibles qui vous font subir des dégâts."/>
 <label key="key:620796344:181298206" value="Utilisation : inflige de légers dégâts à la cible, tout en vous accordant de la Puissance."/>

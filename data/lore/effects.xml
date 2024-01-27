@@ -126,7 +126,10 @@
 <vitalOverTimeEffect id="1879050060" name="Poison Arrow" iconId="1090523646" duration="3.0" pulseCount="12" stat="Health_MaxLevel" damageType="1">
 <overTimeChange progressionID="1879049487"/>
 </vitalOverTimeEffect>
-<effect id="1879050063" name="Ignite flammable target" probability="0.5"/>
+<comboEffect id="1879050063" name="Ignite flammable target" probability="0.5">
+<present id="1879050064" name="Flammable"/>
+<toAddIfPresent id="1879050065" name="Burning"/>
+</comboEffect>
 <effect id="1879050064" name="Flammable" iconId="1090523647" duration="15.0"/>
 <vitalOverTimeEffect id="1879050065" name="Burning" iconId="1090523648" duration="2.0" pulseCount="10" stat="Health_MaxLevel" damageType="16">
 <initialChange progressionID="1879050066"/>
@@ -231,7 +234,10 @@
 <stat name="MORALE" scaling="1879051295"/>
 </propertyModEffect>
 <induceCombatState id="1879051294" name="Induce Rooted"/>
-<effect id="1879051308" name="Ignite flammable target" probability="0.25"/>
+<comboEffect id="1879051308" name="Ignite flammable target" probability="0.25">
+<present id="1879050064" name="Flammable"/>
+<toAddIfPresent id="1879051309" name="Seared"/>
+</comboEffect>
 <vitalOverTimeEffect id="1879051309" name="Seared" iconId="1090529420" duration="2.0" pulseCount="5" stat="Health_MaxLevel" damageType="16">
 <initialChange progressionID="1879050154"/>
 <overTimeChange progressionID="1879050155"/>
@@ -299,7 +305,9 @@
 <propertyModEffect id="1879052297" name="Survivor" appliedDescription="key:620759298:54354734" iconId="1090531784" duration="600.0">
 <stat name="AI_Hints" constant="524288.0"/>
 </propertyModEffect>
-<effect id="1879052299" name="Fan the Flames"/>
+<comboEffect id="1879052299" name="Fan the Flames">
+<toAddIfPresent id="1879085385" name="Induce Feared"/>
+</comboEffect>
 <propertyModEffect id="1879052300" name="Burning Embers: Slow Burn" appliedDescription="key:620759301:54354734" iconId="1090531786" duration="30.0">
 <stat name="ForwardSource_Movement_SpeedMultiplier" operator="SUBSTRACT" descriptionOverride="key:620759301:106251889" constant="30.0"/>
 <stat name="ForwardSource_Movement_MountSpeedMultiplier" operator="SUBSTRACT" constant="30.0"/>
@@ -568,7 +576,10 @@
 <effect id="1879056878" name="Call to Minions" appliedDescription="key:620762696:54354734"/>
 <induceCombatState id="1879056915" name="Induce Knockeddown" probability="0.5"/>
 <induceCombatState id="1879056916" name="Induce Knockeddown" probability="0.25"/>
-<effect id="1879056917" name="Ignite flammable target" probability="0.5"/>
+<comboEffect id="1879056917" name="Ignite flammable target" probability="0.5">
+<present id="1879050064" name="Flammable"/>
+<toAddIfPresent id="1879056918" name="Immolated"/>
+</comboEffect>
 <vitalOverTimeEffect id="1879056918" name="Immolated" iconId="1090537950" duration="2.0" pulseCount="15" stat="Health_MaxLevel" damageType="16">
 <initialChange progressionID="1879052010"/>
 <overTimeChange progressionID="1879052011"/>
@@ -732,8 +743,15 @@
 <propertyModEffect id="1879060318" name="War-cry" iconId="1090541071" duration="60.0">
 <stat name="ATTACK_DURATION_PERCENTAGE" constant="-10.0"/>
 </propertyModEffect>
-<effect id="1879060329" name="Heroic Strike/Heroic Cry Combo"/>
+<comboEffect id="1879060329" name="Heroic Strike/Heroic Cry Combo">
+<present id="1879060334" name="Heroic Strike"/>
+<toAddIfNotPresent id="1879060336" name="Heroic Cry"/>
+<toAddIfPresent id="1879060335" name="Heroic Strike/Heroic Cry"/>
+</comboEffect>
 <effect id="1879060330" name="Battle-readied" appliedDescription="key:620765422:54354734" iconId="1090541076" duration="10.0"/>
+<effect id="1879060334" name="Heroic Strike" iconId="1090523647" duration="6.0"/>
+<effect id="1879060335" name="Heroic Strike/Heroic Cry" iconId="1090523647" duration="30.0"/>
+<effect id="1879060336" name="Heroic Cry" iconId="1090523647" duration="6.0"/>
 <propertyModEffect id="1879060341" name="Defending" iconId="1090642768" duration="10.0">
 <stat name="Combat_Agent_Armor_Value" scaling="1879060344"/>
 </propertyModEffect>
@@ -799,7 +817,13 @@
 <stat name="Skill_InductionDuration_Trait_Fastpull_2" operator="SUBSTRACT" constant="0.5"/>
 <stat name="ATTACK_DURATION_PERCENTAGE" operator="SUBSTRACT" constant="25.0"/>
 </propertyModEffect>
-<effect id="1879060754" name="Flanked! Improved Staff Strike"/>
+<comboEffect id="1879060754" name="Flanked! Improved Staff Strike">
+<present id="1879052302" name="Flanked!"/>
+<toAddIfPresent id="1879060755" name="Flanked! Improved Staff Strike"/>
+</comboEffect>
+<instantVitalEffect id="1879060755" name="Flanked! Improved Staff Strike" stat="Health_MaxLevel">
+<vitalChange progressionID="1879060756"/>
+</instantVitalEffect>
 <effect id="1879060762" name="Draw Power" appliedDescription="key:620765795:54354734" iconId="1090541206" duration="1.0"/>
 <effect id="1879060763" name="Improved Draw Power" appliedDescription="key:620765792:54354734" iconId="1090541206" duration="1.0"/>
 <instantVitalEffect id="1879060776" name="Hope" stat="Health_MaxLevel">
@@ -1376,11 +1400,23 @@
 <propertyModEffect id="1879073093" name="Herald Strike Healing Boon" iconId="1090553789" duration="20.0">
 <stat name="Mood_Healing_Modifier" constant="10.0"/>
 </propertyModEffect>
-<effect id="1879073097" name="Noble Cause Chain Down Combo"/>
+<comboEffect id="1879073097" name="Noble Cause Chain Down Combo">
+<present id="1879073100" name="Noble Cause (3 left)"/>
+<toAddIfNotPresent id="1879073102" name="Noble Cause Chain Down Combo"/>
+<toAddIfPresent id="1879073101" name="Noble Cause (2 left)"/>
+</comboEffect>
 <fellowshipEffect id="1879073098" name="Herald's Strike Heal" description="key:620774958:181298206" applyToPets="true" applyToTarget="true" range="20.0">
 <effect id="1879073106" name="Noble Cause Combo Herald's Strike"/>
 </fellowshipEffect>
 <effect id="1879073100" name="Noble Cause (3 left)" appliedDescription="key:620774953:54354734" iconId="1090553790" duration="600.0"/>
+<effect id="1879073101" name="Noble Cause (2 left)" appliedDescription="key:620774954:54354734" iconId="1090553791" duration="600.0"/>
+<comboEffect id="1879073102" name="Noble Cause Chain Down Combo">
+<present id="1879073101" name="Noble Cause (2 left)"/>
+<toAddIfNotPresent id="1879073104" name="Dispel Noble Cause"/>
+<toAddIfPresent id="1879073103" name="Dispel Noble Cause"/>
+</comboEffect>
+<effect id="1879073103" name="Dispel Noble Cause"/>
+<effect id="1879073104" name="Dispel Noble Cause"/>
 <propertyModEffect id="1879073105" name="Noble Cause" appliedDescription="key:620774960:54354734" iconId="1090553792" duration="60.0">
 <stat name="ForwardSource_Combat_CurrentCombo" operator="SET" descriptionOverride="-" constant="10.0"/>
 </propertyModEffect>
@@ -1462,11 +1498,17 @@
 <stat name="MELEE_DEFENCE_PERCENTAGE" constant="10.0"/>
 <stat name="RANGED_DEFENCE_PERCENTAGE" constant="10.0"/>
 </propertyModEffect>
-<effect id="1879073228" name="Sign of Power: Istari"/>
+<comboEffect id="1879073228" name="Sign of Power: Istari">
+<present id="1879052302" name="Flanked!"/>
+<toGiveBackIfPresent id="1879073230" name="Sign of Power: Istari Heal"/>
+</comboEffect>
 <vitalOverTimeEffect id="1879073229" name="Sign of Power: Wizardry" iconId="1090553880" duration="5.0" pulseCount="2" stat="Health_MaxLevel" damageType="64">
 <initialChange progressionID="1879073232"/>
 <overTimeChange progressionID="1879073232"/>
 </vitalOverTimeEffect>
+<instantVitalEffect id="1879073230" name="Sign of Power: Istari Heal" stat="Health_MaxLevel">
+<vitalChange progressionID="1879073231"/>
+</instantVitalEffect>
 <propertyModEffect id="1879073233" name="Sign of Power: Command" iconId="1090553881" duration="30.0">
 <stat name="PARRY_PERCENTAGE" operator="SUBSTRACT" scaling="1879085176"/>
 <stat name="ATTACK_DURATION_PERCENTAGE" constant="20.0"/>
@@ -1521,8 +1563,17 @@
 <propertyModEffect id="1879073314" name="Befuddle" iconId="1090553916" duration="30.0">
 <stat name="Skill_InductionDuration_MonsterSkillsMod" descriptionOverride="key:620775133:106251889" constant="0.5"/>
 </propertyModEffect>
-<effect id="1879073316" name="Twist and Tricks"/>
-<effect id="1879073318" name="Mischievous Glee"/>
+<comboEffect id="1879073316" name="Twist and Tricks">
+<toAddIfPresent id="1879073317" name="Induce Startling Twist Stunned"/>
+</comboEffect>
+<induceCombatState id="1879073317" name="Induce Startling Twist Stunned" description="key:620775136:181298206"/>
+<comboEffect id="1879073318" name="Mischievous Glee">
+<toGiveBackIfPresent id="1879073319" name="Mischievous Glee"/>
+</comboEffect>
+<vitalOverTimeEffect id="1879073319" name="Mischievous Glee" iconId="1090553918" duration="3.0" pulseCount="6" stat="Health_MaxLevel">
+<initialChange progressionID="1879060298"/>
+<overTimeChange progressionID="1879060299"/>
+</vitalOverTimeEffect>
 <propertyModEffect id="1879073321" name="Reveal Weakness" appliedDescription="key:620775143:54354734" iconId="1090519172">
 <stat name="MELEE_DEFENCE_PERCENTAGE" constant="8.0"/>
 <stat name="RANGED_DEFENCE_PERCENTAGE" constant="8.0"/>
@@ -1560,7 +1611,12 @@
 <stat name="ForwardSource_Movement_SpeedMultiplier" operator="SUBSTRACT" descriptionOverride="key:620775183:106251889" constant="50.0"/>
 <stat name="ForwardSource_Movement_MountSpeedMultiplier" operator="SUBSTRACT" constant="50.0"/>
 </propertyModEffect>
-<effect id="1879073395" name="Flensing Slash/Barbed Arrow Combo"/>
+<comboEffect id="1879073395" name="Flensing Slash/Barbed Arrow Combo">
+<toAddIfPresent id="1879073396" name="Flensing Slash Damage"/>
+</comboEffect>
+<instantVitalEffect id="1879073396" name="Flensing Slash Damage" stat="Health_MaxLevel">
+<vitalChange progressionID="1879073397"/>
+</instantVitalEffect>
 <effect id="1879073405" name="findthepath" iconId="1090519170"/>
 <propertyModEffect id="1879073407" name="Cleanse Poison Resistance" iconId="1090553945" duration="15.0">
 <stat name="Resist_Additional_Resistance_Poison" scaling="1879073408"/>
@@ -1673,12 +1729,18 @@
 <propertyModEffect id="1879073747" name="Entangled" iconId="1090555727" duration="30.0">
 <stat name="ATTACK_DURATION_PERCENTAGE" constant="30.000002"/>
 </propertyModEffect>
-<effect id="1879073759" name="Pounce on the Wounded" probability="0.5"/>
+<comboEffect id="1879073759" name="Pounce on the Wounded" probability="0.5">
+<present id="1879073760" name="Crippled"/>
+<toAddIfPresent id="1879050245" name="Induce Knockeddown"/>
+</comboEffect>
 <propertyModEffect id="1879073760" name="Crippled" iconId="1090555733" duration="30.0">
 <stat name="ForwardSource_Movement_SpeedMultiplier" operator="SUBSTRACT" descriptionOverride="key:620775431:106251889" constant="25.0"/>
 <stat name="ForwardSource_Movement_MountSpeedMultiplier" operator="SUBSTRACT" constant="25.0"/>
 </propertyModEffect>
-<effect id="1879073761" name="Savage the Wounded"/>
+<comboEffect id="1879073761" name="Savage the Wounded">
+<present id="1879073760" name="Crippled"/>
+<toAddIfPresent id="1879051396" name="Serious Wound"/>
+</comboEffect>
 <propertyModEffect id="1879073762" name="Sprint" iconId="1090555737" duration="20.0">
 <stat name="ForwardSource_Movement_SpeedMultiplier" constant="100.0"/>
 </propertyModEffect>
@@ -2452,7 +2514,10 @@
 <fellowshipEffect id="1879089625" name="Inspire" description="key:620791513:181298206" appliedDescription="key:620791513:54354734" applyToPets="true" applyToTarget="true" range="10.0">
 <effect id="1879089626" name="Heroic Strike/Heroic Cry Combo"/>
 </fellowshipEffect>
-<effect id="1879089626" name="Heroic Strike/Heroic Cry Combo"/>
+<comboEffect id="1879089626" name="Heroic Strike/Heroic Cry Combo">
+<present id="1879089627" name="Shield-brother"/>
+<toAddIfPresent id="1879093801" name="Inspired"/>
+</comboEffect>
 <effect id="1879089627" name="Shield-brother" appliedDescription="key:620791516:54354734" iconId="1091037683"/>
 <effect id="1879089794" name="Exit Torch Carrying" appliedDescription="key:620791663:54354734"/>
 <propertyModEffect id="1879089820" name="Dunedain Mark" iconId="1091116225">
@@ -2553,6 +2618,11 @@
 <effect id="1879091597" name="Remove Oil"/>
 <propertyModEffect id="1879091598" name="Enable Banner Standards" iconId="1090541115"/>
 <effect id="1879091604" name="Withdraw"/>
+<propertyModEffect id="1879092058" name="To Arms" appliedDescription="key:620792711:54354734" iconId="1091037682" duration="10.0">
+<stat name="MELEE_DAMAGE_PERCENTAGE" descriptionOverride="-" constant="25.0"/>
+<stat name="RANGED_DAMAGE_PERCENTAGE" descriptionOverride="-" constant="25.0"/>
+<stat name="TACTICAL_DAMAGE_PERCENTAGE" descriptionOverride="-" constant="25.0"/>
+</propertyModEffect>
 <fellowshipEffect id="1879092192" name="Awaken" appliedDescription="key:620792779:54354734" applyToTarget="true" range="20.0">
 <effect id="1879085778" name="Exit Dazed and Stunned"/>
 </fellowshipEffect>
@@ -2569,7 +2639,10 @@
 <fellowshipEffect id="1879092632" name="To Arms" description="key:620793041:181298206" appliedDescription="key:620793041:54354734" applyToPets="true" applyToTarget="true" range="10.0">
 <effect id="1879092633" name="To Arms Combo"/>
 </fellowshipEffect>
-<effect id="1879092633" name="To Arms Combo"/>
+<comboEffect id="1879092633" name="To Arms Combo">
+<present id="1879089627" name="Shield-brother"/>
+<toAddIfPresent id="1879092058" name="To Arms"/>
+</comboEffect>
 <fellowshipEffect id="1879092635" name="Light of Elendil" description="key:620793045:181298206" applyToPets="true" applyToTarget="true" range="20.0">
 <effect id="1879093699" name="Light of Elendil"/>
 </fellowshipEffect>
@@ -2621,7 +2694,13 @@
 <fellowshipEffect id="1879093337" name="Strength of Will" description="key:620793549:181298206" appliedDescription="key:620793549:54354734" applyToPets="true" applyToTarget="true" range="10.0">
 <effect id="1879093339" name="Words of Victory Combo"/>
 </fellowshipEffect>
-<effect id="1879093339" name="Words of Victory Combo"/>
+<comboEffect id="1879093339" name="Words of Victory Combo">
+<present id="1879089627" name="Shield-brother"/>
+<toAddIfPresent id="1879093395" name="Strength of Will"/>
+</comboEffect>
+<propertyModEffect id="1879093395" name="Strength of Will" appliedDescription="key:620793551:54354734" iconId="1091387469" duration="120.0">
+<stat name="Mood_Healing_Modifier" descriptionOverride="-" constant="5.0"/>
+</propertyModEffect>
 <propertyModEffect id="1879093699" name="Light of Elendil" appliedDescription="key:620793720:54354734" iconId="1091155262" duration="30.0"/>
 <propertyModEffect id="1879093703" name="Marked" appliedDescription="key:620793722:54354734" iconId="1090531784">
 <stat name="AI_Hints" descriptionOverride="-" constant="1.7592186E13"/>
@@ -2662,7 +2741,16 @@
 </vitalOverTimeEffect>
 <effect id="1879093798" name="Summon Orc" description="key:620793797:181298206"/>
 <effect id="1879093799" name="Summon Orc" description="key:620793795:181298206" probability="0.05"/>
-<effect id="1879093803" name="Grave Wound Combo"/>
+<vitalOverTimeEffect id="1879093801" name="Inspired" iconId="1090541083" duration="3.0" pulseCount="5" stat="Health_MaxLevel">
+<initialChange progressionID="1879092141"/>
+<overTimeChange progressionID="1879092141"/>
+</vitalOverTimeEffect>
+<comboEffect id="1879093803" name="Grave Wound Combo">
+<toGiveBackIfPresent id="1879093804" name="Aggressive Stance"/>
+</comboEffect>
+<propertyModEffect id="1879093804" name="Aggressive Stance" iconId="1091037685" duration="30.0">
+<stat name="PERCEIVED_THREAT" constant="10.0"/>
+</propertyModEffect>
 <instantVitalEffect id="1879093822" name="Percent Power Damage To Target" stat="Power_MaxLevel" multiplicative="true"/>
 <effect id="1879093829" name="Summoned Spectral Warrior"/>
 <effect id="1879093830" name="Summoned Spectral Warrior"/>
@@ -3096,6 +3184,31 @@
 <propertyModEffect id="1879097590" name="Sulfur Deception" appliedDescription="key:620796251:54354734" iconId="1091402345" duration="45.0">
 <stat name="Combat_BaseEvadeRate_Ranged" operator="SET" descriptionOverride="key:620796251:106251889" constant="50.0"/>
 </propertyModEffect>
+<propertyModEffect id="1879097591" name="Minor Breach" appliedDescription="key:620796255:54354734" iconId="1091401425" duration="15.0">
+<stat name="Combat_AttackerCriticalHitChanceAddMod" descriptionOverride="key:620796255:106251889" constant="5.0"/>
+<stat name="CRITICAL_RANGED_PERCENTAGE" constant="5.0"/>
+<stat name="CRITICAL_TACTICAL_PERCENTAGE" constant="5.0"/>
+</propertyModEffect>
+<propertyModEffect id="1879097592" name="Small Breach" appliedDescription="key:620796256:54354734" iconId="1091401426" duration="15.0">
+<stat name="Combat_AttackerCriticalHitChanceAddMod" descriptionOverride="key:620796256:106251889" constant="10.0"/>
+<stat name="CRITICAL_RANGED_PERCENTAGE" constant="10.0"/>
+<stat name="CRITICAL_TACTICAL_PERCENTAGE" constant="10.0"/>
+</propertyModEffect>
+<propertyModEffect id="1879097593" name="Large Breach" appliedDescription="key:620796257:54354734" iconId="1091401427" duration="15.0">
+<stat name="Combat_AttackerCriticalHitChanceAddMod" descriptionOverride="key:620796257:106251889" constant="20.0"/>
+<stat name="CRITICAL_RANGED_PERCENTAGE" constant="20.0"/>
+<stat name="CRITICAL_TACTICAL_PERCENTAGE" constant="20.0"/>
+</propertyModEffect>
+<propertyModEffect id="1879097594" name="Major Breach" appliedDescription="key:620796258:54354734" iconId="1091401428" duration="15.0">
+<stat name="Combat_AttackerCriticalHitChanceAddMod" descriptionOverride="key:620796258:106251889" constant="40.0"/>
+<stat name="CRITICAL_RANGED_PERCENTAGE" constant="40.0"/>
+<stat name="CRITICAL_TACTICAL_PERCENTAGE" constant="40.0"/>
+</propertyModEffect>
+<propertyModEffect id="1879097595" name="Grievous Breach" appliedDescription="key:620796259:54354734" iconId="1091401429" duration="15.0">
+<stat name="Combat_AttackerCriticalHitChanceAddMod" descriptionOverride="key:620796259:106251889" constant="80.0"/>
+<stat name="CRITICAL_RANGED_PERCENTAGE" constant="80.0"/>
+<stat name="CRITICAL_TACTICAL_PERCENTAGE" constant="80.0"/>
+</propertyModEffect>
 <effect id="1879097598" name="Aura of Protection" appliedDescription="key:620796252:54354734" iconId="1091401422" duration="60.0"/>
 <effect id="1879097599" name="Aura of Restoration" appliedDescription="key:620796254:54354734" iconId="1091401424" duration="60.0"/>
 <effect id="1879097600" name="Aura of Rage" appliedDescription="key:620796246:54354734" iconId="1091401418" duration="60.0"/>
@@ -3162,7 +3275,25 @@
 <stat name="Combat_Agent_Armor_Value" scaling="1879085473"/>
 </propertyModEffect>
 <effect id="1879098211" name="Stop Hovering"/>
-<effect id="1879098324" name="Exposing Strke Chain Up Base"/>
+<comboEffect id="1879098321" name="Exposing Strke Chain Up Combo">
+<present id="1879097591" name="Minor Breach"/>
+<toAddIfNotPresent id="1879098322" name="Exposing Strke Chain Up Combo"/>
+<toAddIfPresent id="1879097592" name="Small Breach"/>
+</comboEffect>
+<comboEffect id="1879098322" name="Exposing Strke Chain Up Combo">
+<present id="1879097592" name="Small Breach"/>
+<toAddIfNotPresent id="1879098323" name="Exposing Strke Chain Up Combo"/>
+<toAddIfPresent id="1879097593" name="Large Breach"/>
+</comboEffect>
+<comboEffect id="1879098323" name="Exposing Strke Chain Up Combo">
+<present id="1879097593" name="Large Breach"/>
+<toAddIfNotPresent id="1879097595" name="Grievous Breach"/>
+<toAddIfPresent id="1879097594" name="Major Breach"/>
+</comboEffect>
+<comboEffect id="1879098324" name="Exposing Strke Chain Up Base">
+<toAddIfNotPresent id="1879097591" name="Minor Breach"/>
+<toAddIfPresent id="1879098321" name="Exposing Strke Chain Up Combo"/>
+</comboEffect>
 <induceCombatState id="1879098336" name="Induce Dazed" description="key:620796873:181298206" appliedDescription="key:620796873:54354734"/>
 <induceCombatState id="1879098376" name="Induce Feared" description="key:620796892:181298206"/>
 <propertyModEffect id="1879098722" name="Greater Shadow Vulnerability" appliedDescription="key:620797179:54354734" iconId="1090528810" duration="15.0" pulseCount="6">

@@ -271,6 +271,9 @@
 <label key="1879060318" value="Kriegsschrei"/>
 <label key="1879060329" value="Combo Schlag des Helden/Schrei des Helden"/>
 <label key="1879060330" value="Kampfbereit"/>
+<label key="1879060334" value="Heldenhafter Schlag"/>
+<label key="1879060335" value="Heldenhafter Schlag/Schrei des Helden"/>
+<label key="1879060336" value="Schrei des Helden"/>
 <label key="1879060341" value="Verteidigen"/>
 <label key="1879060349" value="Rekrutierung: Verbesserter Kriegsherold"/>
 <label key="1879060364" value="Rekrutierung: Kriegsherold"/>
@@ -301,6 +304,7 @@
 <label key="1879060721" value="Unscheinbar"/>
 <label key="1879060726" value="Nötige Hast"/>
 <label key="1879060754" value="Flankiert! Verbesserter Stabschlag"/>
+<label key="1879060755" value="Flankiert! Verbesserter Stabschlag"/>
 <label key="1879060762" value="Kraft entziehen"/>
 <label key="1879060763" value="Verbessertes Kraftentziehen"/>
 <label key="1879060776" value="Hoffnung"/>
@@ -491,6 +495,10 @@
 <label key="1879073097" value="Combo Edler Beweggrund abwerten"/>
 <label key="1879073098" value="Heilung: Schlag des Herolds"/>
 <label key="1879073100" value="Edler Beweggrund (noch 3)"/>
+<label key="1879073101" value="Edler Beweggrund (noch 2)"/>
+<label key="1879073102" value="Combo Edler Beweggrund abwerten"/>
+<label key="1879073103" value="\qEdler Beweggrund\q neutralisieren"/>
+<label key="1879073104" value="\qEdler Beweggrund\q neutralisieren"/>
 <label key="1879073105" value="Edler Beweggrund"/>
 <label key="1879073106" value="Noble Cause Combo Herald's Strike"/>
 <label key="1879073110" value="Kleine Auferstehung der Seele"/>
@@ -522,6 +530,7 @@
 <label key="1879073222" value="Waffen zerschmettern"/>
 <label key="1879073228" value="Zeichen der Macht: Istari"/>
 <label key="1879073229" value="Zeichen der Macht: Zauberei"/>
+<label key="1879073230" value="Zeichen der Macht: Istari-Heilung"/>
 <label key="1879073233" value="Zeichen der Macht: Befehl"/>
 <label key="1879073235" value="Induce Immune"/>
 <label key="1879073236" value="Stille neutralisieren."/>
@@ -549,7 +558,9 @@
 <label key="1879073312" value="Induce Fellowship Manoeuvre Stunned"/>
 <label key="1879073314" value="Chaos"/>
 <label key="1879073316" value="Irrungen und Wirrungen"/>
+<label key="1879073317" value="Induce Startling Twist Stunned"/>
 <label key="1879073318" value="Bösartige Schadenfreude"/>
+<label key="1879073319" value="Bösartige Schadenfreude"/>
 <label key="1879073321" value="Schwächen aufspüren"/>
 <label key="1879073322" value="Schwächen aufspüren"/>
 <label key="1879073323" value="Bereit und befähigt"/>
@@ -562,6 +573,7 @@
 <label key="1879073370" value="Feuerpfeil"/>
 <label key="1879073391" value="Verlangsamender Schnitt"/>
 <label key="1879073395" value="Combo Enthäutender Schnitt/Stachelpfeil"/>
+<label key="1879073396" value="Schaden durch 'Enthäutender Schnitt'"/>
 <label key="1879073405" value="findthepath"/>
 <label key="1879073407" value="Cleanse Poison Resistance"/>
 <label key="1879073413" value="Lager"/>
@@ -977,6 +989,7 @@
 <label key="1879091597" value="Öl entfernen"/>
 <label key="1879091598" value="Bannerstandarten aktivieren"/>
 <label key="1879091604" value="Zurückziehen"/>
+<label key="1879092058" value="Zu den Waffen"/>
 <label key="1879092192" value="Erwecken"/>
 <label key="1879092291" value="Zurückgezogen"/>
 <label key="1879092466" value="Einfaches Schleichen"/>
@@ -1004,6 +1017,7 @@
 <label key="1879093331" value="Anwachsendes Feuer"/>
 <label key="1879093337" value="Willenskraft"/>
 <label key="1879093339" value="Combo \qSiegesworte\q"/>
+<label key="1879093395" value="Willenskraft"/>
 <label key="1879093699" value="Licht Elendils"/>
 <label key="1879093703" value="Gekennzeichnet"/>
 <label key="1879093754" value="Wigskolds Rache"/>
@@ -1015,7 +1029,9 @@
 <label key="1879093796" value="Verderbter Käse"/>
 <label key="1879093798" value="Ork beschwören"/>
 <label key="1879093799" value="Ork beschwören"/>
+<label key="1879093801" value="Inspiriert"/>
 <label key="1879093803" value="Combo \qErnsthafte Wunde\q"/>
+<label key="1879093804" value="Aggressive Haltung"/>
 <label key="1879093822" value="Verursachter Kraftschaden in Prozent"/>
 <label key="1879093829" value="Beschworener Geisterkrieger"/>
 <label key="1879093830" value="Beschworener Geisterkrieger"/>
@@ -1186,6 +1202,11 @@
 <label key="1879097495" value="Raben-Aussehen 2"/>
 <label key="1879097496" value="Raben-Aussehen 3"/>
 <label key="1879097590" value="Schwefeltäuschung"/>
+<label key="1879097591" value="Geringe Blöße"/>
+<label key="1879097592" value="Kleine Blöße"/>
+<label key="1879097593" value="Ernste Blöße"/>
+<label key="1879097594" value="Bedeutende Blöße"/>
+<label key="1879097595" value="Gefährliche Blöße"/>
 <label key="1879097598" value="Aura des Schutzes"/>
 <label key="1879097599" value="Aura der Wiederherstellung"/>
 <label key="1879097600" value="Aura der Raserei"/>
@@ -1212,6 +1233,9 @@
 <label key="1879098187" value="Luchs-Aussehen 4"/>
 <label key="1879098190" value="Geschmolzene Rüstung"/>
 <label key="1879098211" value="Stop Hovering"/>
+<label key="1879098321" value="Exposing Strke Chain Up Combo"/>
+<label key="1879098322" value="Exposing Strke Chain Up Combo"/>
+<label key="1879098323" value="Exposing Strke Chain Up Combo"/>
 <label key="1879098324" value="Exposing Strke Chain Up Base"/>
 <label key="1879098336" value="Induce Dazed"/>
 <label key="1879098376" value="Induce Feared"/>
@@ -1459,6 +1483,7 @@
 <label key="key:620774933:54354734" value="Der Schaden, der dem markierten Ziel zugefügt wurde, hat eine wiederherstellende Wirkung auf den Angreifer."/>
 <label key="key:620774944:54354734" value="Lässt das Ziel niederknien."/>
 <label key="key:620774953:54354734" value="Euer Schlag des Herolds gibt Euch Moral zurück."/>
+<label key="key:620774954:54354734" value="Euer Schlag des Herolds gibt Euch Moral zurück."/>
 <label key="key:620774958:181298206" value="Sofortige Gefährtenheilung"/>
 <label key="key:620774960:54354734" value="Verbessert Eure Spezialangriffe."/>
 <label key="key:620775021:54354734" value="Erlittener Moralschaden wird in Kraftschaden umgewandelt."/>
@@ -1471,6 +1496,7 @@
 <label key="key:620775127:54354734" value="Die Verwendung von 'Schwäche ausnutzen' hat neue Möglichkeiten für den Kampf eröffnet."/>
 <label key="key:620775131:181298206" value="Betäubt 5 Sek. lang"/>
 <label key="key:620775133:106251889" value="Verdoppelt die Zeit, die das Ziel braucht, um eine Fertigkeit oder eine Fähigkeit anzuwenden."/>
+<label key="key:620775136:181298206" value="Betäubt 8 Sek. lang"/>
 <label key="key:620775142:54354734" value="Ziel erleidet bei einem Angriff einen um 10 % erhöhten Schaden."/>
 <label key="key:620775143:54354734" value="Ziel erleidet bei einem Angriff einen um 8 % erhöhten Schaden."/>
 <label key="key:620775151:106251889" value="Aufspüren von Schätzen"/>
@@ -1686,6 +1712,7 @@
 <label key="key:620792385:106251889" value="Eure Bogenfertigkeiten werden als weniger bedrohlich empfunden."/>
 <label key="key:620792385:54354734" value="Ein uraltes Lied verleiht Eurem Bogen neue Kraft."/>
 <label key="key:620792389:181298206" value="Kehrtwende: Ein Teil der Moral wird in Kraft umgewandelt."/>
+<label key="key:620792711:54354734" value="Euer Angriffe verursachen 25 % mehr Schaden."/>
 <label key="key:620792779:54354734" value="Die Gefährten werden aus der Betäubung erweckt."/>
 <label key="key:620792862:106251889" value="-${PERCENTVALUE} Schaden"/>
 <label key="key:620792991:106251890" value="Euer Schleichen wird nicht unterbrochen, wenn Ihr Schaden erleidet."/>
@@ -1703,6 +1730,7 @@
 <label key="key:620793476:106251889" value="Ihr könnt +${PERCENTVALUE} mehr heilen."/>
 <label key="key:620793549:181298206" value="Euer Schildbruder erlangt bei einer Heilung 5 % mehr Moral zurück."/>
 <label key="key:620793549:54354734" value="Ihr erlangt 5 % mehr Moral durch Heilungen."/>
+<label key="key:620793551:54354734" value="Moral durch Heilung um 5 % erhöht."/>
 <label key="key:620793720:54354734" value="Es besteht eine gewisse Wahrscheinlichkeit, dass Ihr dem Gegner zusätzlich Lichtschaden zufügt."/>
 <label key="key:620793722:54354734" value="Kann von der Aufopferung des Adlers nicht beeinflusst werden."/>
 <label key="key:620793768:181298206" value="Wigskolds Rache: Leitet einen Teil des allgemeinen Schadens in Form von Schaden nach alter Zwergenart auf den Angreifer zurück."/>
@@ -1786,6 +1814,16 @@
 <label key="key:620796251:54354734" value="Der vom Balrog aufgewirbelte Schwefel bietet jetzt Deckung."/>
 <label key="key:620796252:54354734" value="Der Balrog strahlt eine spürbare Aura aus, die ihn selbst und seine nahen Verbündeten stärkt."/>
 <label key="key:620796254:54354734" value="Der Balrog strahlt eine spürbare Aura aus, die ihn selbst und seine nahen Verbündeten stärkt."/>
+<label key="key:620796255:106251889" value="+${PERCENTVALUE} kritische Verwundbarkeit"/>
+<label key="key:620796255:54354734" value="Die Wucht des Angriffs des Balrogs bewirkt, dass Ihr nachfolgenden verheerenden Schlägen in durchschnittlichem Maße ausgesetzt seid."/>
+<label key="key:620796256:106251889" value="+${PERCENTVALUE} kritische Verwundbarkeit"/>
+<label key="key:620796256:54354734" value="Die Wucht des Angriffs des Balrogs bewirkt, dass Ihr nachfolgenden verheerenden Schlägen in größerem Maße ausgesetzt seid."/>
+<label key="key:620796257:106251889" value="+${PERCENTVALUE} kritische Verwundbarkeit"/>
+<label key="key:620796257:54354734" value="Die Wucht des Angriffs des Balrogs bewirkt, dass Ihr nachfolgenden verheerenden Schlägen in hohem Maße ausgesetzt seid."/>
+<label key="key:620796258:106251889" value="+${PERCENTVALUE} kritische Verwundbarkeit"/>
+<label key="key:620796258:54354734" value="Die Wucht des Angriffs des Balrogs bewirkt, dass Ihr nachfolgenden verheerenden Schlägen in wesentlichem Maße ausgesetzt seid."/>
+<label key="key:620796259:106251889" value="+${PERCENTVALUE} kritische Verwundbarkeit"/>
+<label key="key:620796259:54354734" value="Die Wucht des Angriffs des Balrogs bewirkt, dass Ihr nachfolgenden verheerenden Schlägen in außerordentlich hohem Maße ausgesetzt seid."/>
 <label key="key:620796285:181298206" value="5%ige Chance, Ziele zu betäuben, die Euch derzeit Schaden zufügen."/>
 <label key="key:620796285:54354734" value="5%ige Chance, Ziele zu betäuben, die Euch derzeit Schaden zufügen."/>
 <label key="key:620796344:181298206" value="Verwendung: Fügt dem Ziel leichten Schaden zu und verleiht Euch Kraft."/>
