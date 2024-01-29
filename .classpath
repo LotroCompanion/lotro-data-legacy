@@ -6,9 +6,7 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry exported="true" kind="lib" path="lib/titleIcons.zip"/>
 	<classpathentry exported="true" kind="lib" path="lib/effectIcons.zip"/>
 	<classpathentry kind="lib" path="/delta-lotro-icons-legacy"/>
-	<classpathentry exported="true" kind="lib" path="lib/areaIcons.zip"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
