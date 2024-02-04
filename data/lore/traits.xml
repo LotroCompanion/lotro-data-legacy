@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><traits>
 <trait identifier="1879049557" name="Novice" iconId="1090522632" category="29" nature="1" cosmetic="true" tooltip="key:620757613:191029568" description="key:620757613:54354734"/>
-<trait identifier="1879051500" name="Riding" iconId="1090530243" category="29" nature="1" tooltip="key:620758784:191029568" description="key:620758784:54354734"/>
+<trait identifier="1879051500" name="Riding" iconId="1090530243" category="29" nature="1" tooltip="key:620758784:191029568" description="key:620758784:54354734">
+<effectGenerator id="1879051501" name="Basic Riding" spellcraft="0.0"/>
+</trait>
 <trait identifier="1879052047" name="Appraising Eye" iconId="1090531549" nature="3" tooltip="key:620759125:191029568" description="key:620759125:54354734">
 <stat name="AGILITY" descriptionOverride="key:620759125:106251890" constant="10.0"/>
+<effectGenerator id="1879052048" name="Eye for Weakness" spellcraft="0.0"/>
 </trait>
 <trait identifier="1879052057" name="Ambidextrous" iconId="1090531550" nature="3" tooltip="key:620759129:191029568" description="key:620759129:54354734">
 <stat name="Skill_DamageMultiplier_Offhand_Trait_Ambidextrous" constant="15.000001"/>
@@ -48,7 +51,9 @@
 <stat name="Skill_InductionDuration_Trait_Fastpull" operator="SUBSTRACT" descriptionOverride="key:620759384:106251891" constant="0.1"/>
 <stat name="Skill_InductionDuration_Trait_Fastpull_2" operator="SUBSTRACT" descriptionOverride="key:620759384:106251892" constant="0.2"/>
 </trait>
-<trait identifier="1879052474" name="Bow of the Righteous" iconId="1090532129" minLevel="39" nature="2" tooltip="key:620759397:191029568" description="key:620759397:54354734"/>
+<trait identifier="1879052474" name="Bow of the Righteous" iconId="1090532129" minLevel="39" nature="2" tooltip="key:620759397:191029568" description="key:620759397:54354734">
+<effectGenerator id="1879052475" name="Bow of the Righteous" spellcraft="0.0"/>
+</trait>
 <trait identifier="1879052498" name="Bard's Arrow" iconId="1090532132" minLevel="39" category="8" nature="2" tooltip="key:620759410:191029568" description="key:620759410:54354734">
 <skill id="1879052499" name="Bard's Arrow"/>
 </trait>
@@ -91,11 +96,14 @@
 <trait identifier="1879053115" name="Defiance" iconId="1090533223" nature="3" tooltip="key:620759813:191029568" description="key:620759813:54354734">
 <stat name="Skill_Duration_Trait_Captain_Defiant" constant="10.0"/>
 <stat name="Resist_Additional_Resistance_Fear" descriptionOverride="key:620759813:106251890" constant="2.0"/>
+<effectGenerator id="1879053116" name="Defiant" spellcraft="0.0"/>
 </trait>
 <trait identifier="1879053127" name="Loyalty" iconId="1090533224" nature="3" tooltip="key:620759817:191029568" description="key:620759817:54354734">
 <stat name="Resist_Additional_Resistance_Fear" descriptionOverride="key:620759817:106251890" constant="2.0"/>
 </trait>
-<trait identifier="1879054124" name="Conqueror of the Watching-stones" iconId="1090535587" minLevel="39" category="29" nature="1" tooltip="key:620760756:191029568" description="key:620760756:54354734"/>
+<trait identifier="1879054124" name="Conqueror of the Watching-stones" iconId="1090535587" minLevel="39" category="29" nature="1" tooltip="key:620760756:191029568" description="key:620760756:54354734">
+<effectGenerator id="1879054125" name="Braver of the Watching Stones" spellcraft="0.0"/>
+</trait>
 <trait identifier="1879054956" name="Craft Scholar Complete Proficiency Tier 1" iconId="1090535587" category="31" nature="1" tooltip="key:620761145:191029568" description="key:620761145:54354734">
 <stat name="Craft_Scholar_CompletedProficiencyLevel" operator="SET" constant="1.0"/>
 </trait>
@@ -321,6 +329,7 @@
 <trait identifier="1879060251" name="Captain's Victory" iconId="1090540987" nature="3" tooltip="key:620765352:191029568" description="key:620765352:54354734">
 <stat name="ForwardSource_Combat_TraitCombo3" operator="SET" constant="44.0"/>
 <stat name="Skill_Duration_Trait_Captain_BuffLineBonus" descriptionOverride="key:620765352:106251890" constant="-2.0"/>
+<effectGenerator id="1879093389" name="Improved Standard of Victory" spellcraft="0.0"/>
 </trait>
 <trait identifier="1879060257" name="Journeyman" iconId="1090540989" minLevel="10" category="29" nature="1" cosmetic="true" tooltip="key:620765358:191029568" description="key:620765358:54354734"/>
 <trait identifier="1879060258" name="Adept" iconId="1090540990" minLevel="20" category="29" nature="1" cosmetic="true" tooltip="key:620765359:191029568" description="key:620765359:54354734"/>
@@ -328,16 +337,20 @@
 <stat name="EffectMod_ModType_RevivePowerMultModifier" operator="SET" constant="70.0"/>
 <stat name="POWER" descriptionOverride="key:620765392:106251890" constant="30.0"/>
 <stat name="EffectMod_ModType_ReviveHealthMultModifier" operator="SET" constant="100.0"/>
+<effectGenerator id="1879060295" name="Empowering Triumph" spellcraft="0.0"/>
 </trait>
 <trait identifier="1879060304" name="Now for Wrath" iconId="1090541068" nature="3" tooltip="key:620765399:191029568" description="key:620765399:54354734">
 <stat name="POWER" descriptionOverride="key:620765399:106251890" constant="30.0"/>
+<effectGenerator id="1879060305" name="Improved Rallying Cry" spellcraft="0.0"/>
 </trait>
 <trait identifier="1879060313" name="Captain of War" iconId="1090541070" nature="3" tooltip="key:620765406:191029568" description="key:620765406:54354734">
 <stat name="Skill_Duration_Trait_Captain_BuffLineBonus" descriptionOverride="key:620765406:106251890" constant="-2.0"/>
+<effectGenerator id="1879060314" name="Improved Warcry" spellcraft="0.0"/>
 </trait>
 <trait identifier="1879060322" name="Turn of the Tide" iconId="1090541072" nature="3" tooltip="key:620765412:191029568" description="key:620765412:54354734">
 <stat name="Skill_DamageMultiplier_Trait_ImprovedRoutingCry" constant="3.0"/>
 <stat name="MIGHT" descriptionOverride="key:620765412:106251890" constant="10.0"/>
+<effectGenerator id="1879060323" name="Improved Routing Cry" spellcraft="0.0"/>
 </trait>
 <trait identifier="1879060328" name="Renewed Voice" iconId="1090541074" nature="3" tooltip="key:620765416:191029568" description="key:620765416:54354734">
 <stat name="Skill_RecoveryTime_Trait_WarCaller" operator="SUBSTRACT" descriptionOverride="key:620765416:106251889" constant="5.0"/>
@@ -350,9 +363,11 @@
 <trait identifier="1879060347" name="Captain's Valour" iconId="1090541079" nature="3" tooltip="key:620765429:191029568" description="key:620765429:54354734">
 <stat name="ForwardSource_Combat_TraitCombo2" operator="SET" constant="42.0"/>
 <stat name="Skill_Duration_Trait_Captain_BuffLineBonus" descriptionOverride="key:620765429:106251890" constant="-2.0"/>
+<effectGenerator id="1879093391" name="Improved Standard of War" spellcraft="0.0"/>
 </trait>
 <trait identifier="1879060378" name="Fear no Darkness" iconId="1090541082" nature="3" tooltip="key:620765459:191029568" description="key:620765459:54354734">
 <stat name="POWER" descriptionOverride="key:620765459:106251890" constant="30.0"/>
+<effectGenerator id="1879060379" name="Improved Words of Courage" spellcraft="0.0"/>
 </trait>
 <trait identifier="1879060386" name="Strong Voice" iconId="1090541085" nature="3" tooltip="key:620765465:191029568" description="key:620765465:54354734">
 <stat name="Skill_VitalCost_Power_Trait_VoiceofDetermination" constant="-8.0"/>
@@ -361,6 +376,7 @@
 <trait identifier="1879060400" name="Captain's Hope" iconId="1090541114" nature="3" tooltip="key:620765476:191029568" description="key:620765476:54354734">
 <stat name="Skill_Duration_Trait_Captain_BuffLineBonus" descriptionOverride="key:620765476:106251890" constant="-2.0"/>
 <specialEffect label=""/>
+<effectGenerator id="1879093390" name="Improved Standard of Hope" spellcraft="0.0"/>
 </trait>
 <trait identifier="1879060432" name="Expert Attacks" iconId="1090541117" nature="3" tooltip="key:620765507:191029568" description="key:620765507:54354734">
 <stat name="Skill_ChanceCriticalHit_Trait_ImprovedAttacks" constant="5.0"/>
@@ -373,12 +389,15 @@
 <trait identifier="1879060444" name="Subtle Command" iconId="1090541121" nature="3" tooltip="key:620765515:191029568" description="key:620765515:54354734">
 <stat name="Skill_AdditionalThreat_subtlecommand" constant="-50.0"/>
 <stat name="Resist_Additional_Resistance_Fear" descriptionOverride="key:620765515:106251890" constant="2.0"/>
+<effectGenerator id="1879060295" name="Empowering Triumph" spellcraft="0.0"/>
 </trait>
 <trait identifier="1879060491" name="Flurry of Blows" iconId="1090541122" nature="3" tooltip="key:620765562:191029568" description="key:620765562:54354734">
 <stat name="MIGHT" descriptionOverride="key:620765562:106251890" constant="10.0"/>
+<effectGenerator id="1879060492" name="Improved Branching Attack" spellcraft="0.0"/>
 </trait>
 <trait identifier="1879060496" name="Swift to Anger" iconId="1090541124" nature="3" tooltip="key:620765566:191029568" description="key:620765566:54354734">
 <stat name="MIGHT" descriptionOverride="key:620765566:106251890" constant="10.0"/>
+<effectGenerator id="1879060497" name="Improved Swift Strike" spellcraft="0.0"/>
 </trait>
 <trait identifier="1879060502" name="Deadly Strikes" iconId="1090541126" nature="3" tooltip="key:620765571:191029568" description="key:620765571:54354734">
 <stat name="Skill_CriticalDamageMultiplier_ChampionStrikesMod" constant="25.0"/>
@@ -390,9 +409,11 @@
 </trait>
 <trait identifier="1879060519" name="Braced Against Defeat" iconId="1090541128" nature="3" tooltip="key:620765588:191029568" description="key:620765588:54354734">
 <stat name="Skill_DamageMultiplier_ChampionAoeMod" descriptionOverride="key:620765588:106251890" constant="2.0"/>
+<effectGenerator id="1879060520" name="Improved Branching Attack" spellcraft="0.0"/>
 </trait>
 <trait identifier="1879060524" name="Blood-lust" iconId="1090541129" nature="3" tooltip="key:620765592:191029568" description="key:620765592:54354734">
 <stat name="Skill_DamageMultiplier_Champion_Trait_LineBonus_FervourDamageBonusMod" descriptionOverride="key:620765592:106251890" constant="1.0"/>
+<effectGenerator id="1879060525" name="Improved Wild Attack" spellcraft="0.0"/>
 </trait>
 <trait identifier="1879060527" name="Call of the Wild" iconId="1090541130" nature="3" tooltip="key:620765595:191029568" description="key:620765595:54354734">
 <stat name="Skill_AdditionalThreat_ChampionWildAttackMod" constant="50.0"/>
@@ -400,9 +421,11 @@
 </trait>
 <trait identifier="1879060534" name="Stalwart Blade" iconId="1090541131" nature="3" tooltip="key:620765602:191029568" description="key:620765602:54354734">
 <stat name="Skill_DamageMultiplier_ChampionAoeMod" descriptionOverride="key:620765602:106251890" constant="2.0"/>
+<effectGenerator id="1879060535" name="Improved Blade Wall" spellcraft="0.0"/>
 </trait>
 <trait identifier="1879060538" name="Deep Strikes" iconId="1090541132" nature="3" tooltip="key:620765606:191029568" description="key:620765606:54354734">
 <stat name="Skill_DamageMultiplier_Champion_Trait_LineBonus_FervourDamageBonusMod" descriptionOverride="key:620765606:106251890" constant="1.0"/>
+<effectGenerator id="1879060539" name="Deep Strikes" spellcraft="0.0"/>
 </trait>
 <trait identifier="1879060543" name="At the Ready" iconId="1090541134" nature="3" tooltip="key:620765610:191029568" description="key:620765610:54354734">
 <stat name="BLOCK_PERCENTAGE" constant="2.0"/>
@@ -425,6 +448,7 @@
 <trait identifier="1879060556" name="Patience" iconId="1090541140" nature="3" tooltip="key:620765621:191029568" description="key:620765621:54354734">
 <stat name="Skill_AdditionalThreat_Champion_Trait_Patience" constant="10.0"/>
 <stat name="VITALITY" descriptionOverride="key:620765621:106251890" constant="10.0"/>
+<effectGenerator id="1879060557" name="Patience" spellcraft="0.0"/>
 </trait>
 <trait identifier="1879060569" name="Stinging Blow" iconId="1090541159" nature="3" tooltip="key:620765632:191029568" description="key:620765632:54354734">
 <stat name="Skill_RecoveryTime_GuardianStingMod" operator="SUBSTRACT" descriptionOverride="key:620765632:106251889" constant="3.0"/>
@@ -436,6 +460,7 @@
 </trait>
 <trait identifier="1879060583" name="Guardian's Ward" iconId="1090541164" nature="3" tooltip="key:620765640:191029568" description="key:620765640:54354734">
 <stat name="Skill_AdditionalThreat_AllSkillsMod" descriptionOverride="key:620765640:106251890" constant="10.0"/>
+<effectGenerator id="1879060584" name="Guardian's Ward" spellcraft="0.0"/>
 </trait>
 <trait identifier="1879060592" name="Defensive Expertise" iconId="1090541165" nature="3" tooltip="key:620765645:191029568" description="key:620765645:54354734">
 <stat name="BLOCK_PERCENTAGE" constant="3.0"/>
@@ -444,6 +469,7 @@
 </trait>
 <trait identifier="1879060606" name="Controlled Breathing" iconId="1090541167" nature="3" tooltip="key:620765657:191029568" description="key:620765657:54354734">
 <stat name="VITALITY" descriptionOverride="key:620765657:106251890" constant="10.0"/>
+<effectGenerator id="1879060607" name="Improved Branching Attack" spellcraft="0.0"/>
 </trait>
 <trait identifier="1879060619" name="Harasser" iconId="1090541170" nature="3" tooltip="key:620765666:191029568" description="key:620765666:54354734">
 <stat name="ForwardSource_Combat_TraitCombo3" operator="SET" constant="36.0"/>
@@ -477,13 +503,16 @@
 <trait identifier="1879060653" name="Brave Heart" iconId="1090541181" nature="3" tooltip="key:620765694:191029568" description="key:620765694:54354734">
 <stat name="Skill_RecoveryTime_Trait_Guardian_ImprovedHeart" constant="-90.0"/>
 <stat name="ForwardSource_Skill_Duration_Trait_Guardian_ImprovedShieldSwipeResponse" descriptionOverride="key:620765694:106251890" constant="3.0"/>
+<effectGenerator id="1879060654" name="Improved Branching Attack" spellcraft="0.0"/>
 </trait>
 <trait identifier="1879060661" name="Heat of Battle" iconId="1090541183" nature="3" tooltip="key:620765700:191029568" description="key:620765700:54354734">
 <stat name="ForwardSource_Combat_TraitCombo4" operator="SET" constant="37.0"/>
 <stat name="ForwardSource_Skill_Duration_Trait_Guardian_ImprovedRetaliateResponse" descriptionOverride="key:620765700:106251890" constant="3.0"/>
+<effectGenerator id="1879060662" name="Improved Branching Attack" spellcraft="0.0"/>
 </trait>
 <trait identifier="1879060668" name="Sturdy Traps" iconId="1090541185" nature="3" tooltip="key:620765706:191029568" description="key:620765706:54354734">
 <stat name="CRITICAL_RANGED_PERCENTAGE" descriptionOverride="key:620765706:106251890" constant="1.0"/>
+<effectGenerator id="1879060669" name="Sturdy Trap" spellcraft="0.0"/>
 </trait>
 <trait identifier="1879060680" name="Rapid Recovery" iconId="1090541186" nature="3" tooltip="key:620765717:191029568" description="key:620765717:54354734">
 <stat name="Skill_RecoveryTime_Trait_Warshot" constant="-2.0"/>
@@ -504,6 +533,9 @@
 </trait>
 <trait identifier="1879060688" name="Heightened Senses" iconId="1090541190" nature="3" tooltip="key:620765725:191029568" description="key:620765725:54354734">
 <stat name="CRITICAL_RANGED_PERCENTAGE" descriptionOverride="key:620765725:106251890" constant="1.0"/>
+<effectGenerator id="1879060689" name="Improved Shadow Tracking" spellcraft="0.0"/>
+<effectGenerator id="1879060690" name="Improved Nature Tracking" spellcraft="0.0"/>
+<effectGenerator id="1879060691" name="Improved Foe Tracking" spellcraft="0.0"/>
 </trait>
 <trait identifier="1879060696" name="Hail of Arrows" iconId="1090541191" nature="3" tooltip="key:620765733:191029568" description="key:620765733:54354734">
 <stat name="Skill_ChanceCriticalHit_Trait_Hunter_HailofArrows" constant="25.0"/>
@@ -517,10 +549,12 @@
 </trait>
 <trait identifier="1879060703" name="Deep Concentration" iconId="1090541194" nature="3" tooltip="key:620765739:191029568" description="key:620765739:54354734">
 <stat name="ICPR" descriptionOverride="key:620765739:106251891" constant="15.0"/>
+<effectGenerator id="1879060704" name="Centreing Self" spellcraft="0.0"/>
 </trait>
 <trait identifier="1879060708" name="Deadly Precision" iconId="1090541196" nature="3" tooltip="key:620765744:191029568" description="key:620765744:54354734">
 <stat name="Skill_InductionDuration_Trait_Fastpull" operator="SUBSTRACT" descriptionOverride="key:620765744:106251891" constant="0.05"/>
 <stat name="Skill_InductionDuration_Trait_Fastpull_2" operator="SUBSTRACT" descriptionOverride="key:620765744:106251892" constant="0.1"/>
+<effectGenerator id="1879060709" name="Deadly Precision" spellcraft="0.0"/>
 </trait>
 <trait identifier="1879060712" name="True Shot" iconId="1090541197" nature="3" tooltip="key:620765748:191029568" description="key:620765748:54354734">
 <stat name="Skill_DamageMitigation_Trait_TrueShot" constant="-8.0"/>
@@ -532,6 +566,7 @@
 </trait>
 <trait identifier="1879060717" name="Stealthy Shot" iconId="1090541199" nature="3" tooltip="key:620765752:191029568" description="key:620765752:54354734">
 <stat name="CRITICAL_RANGED_PERCENTAGE" descriptionOverride="key:620765752:106251890" constant="1.0"/>
+<effectGenerator id="1879060718" name="Stealthy Shot" spellcraft="0.0"/>
 </trait>
 <trait identifier="1879060724" name="Swift Recovery" iconId="1090541201" nature="3" tooltip="key:620765758:191029568" description="key:620765758:54354734">
 <stat name="Skill_RecoveryTime_Trait_HastyRecovery" operator="SUBSTRACT" descriptionOverride="key:620765758:106251889" constant="60.0"/>
@@ -598,6 +633,7 @@
 </trait>
 <trait identifier="1879060832" name="Knowledge of the Past" iconId="1090541225" nature="3" tooltip="key:620765846:191029568" description="key:620765846:54354734">
 <stat name="ICMR" descriptionOverride="key:620765846:106251890" constant="15.0"/>
+<effectGenerator id="1879060833" name="Knowledge of the Past" spellcraft="0.0"/>
 </trait>
 <trait identifier="1879060844" name="Magic Adept" iconId="1090541227" nature="3" tooltip="key:620765855:191029568" description="key:620765855:54354734">
 <stat name="Skill_VitalCost_MagicMod" constant="-3.0"/>
@@ -670,6 +706,8 @@
 </trait>
 <trait identifier="1879060939" name="Cunning Wound" iconId="1090541252" nature="3" tooltip="key:620765941:191029568" description="key:620765941:54354734">
 <stat name="Skill_ChanceCriticalHit_AimMod" descriptionOverride="key:620765941:106251890" constant="1.0"/>
+<effectGenerator id="1879060940" name="Cunning Bleed" spellcraft="0.0"/>
+<effectGenerator id="1879060941" name="Cunning Bleed" spellcraft="0.0"/>
 </trait>
 <trait identifier="1879060948" name="Swift and Subtle" iconId="1090541254" nature="3" tooltip="key:620765947:191029568" description="key:620765947:54354734">
 <stat name="Skill_DamageMultiplier_Trait_FastKnife" constant="10.0"/>
@@ -677,6 +715,7 @@
 </trait>
 <trait identifier="1879060953" name="Perplexing Riddle" iconId="1090541256" nature="3" tooltip="key:620765950:191029568" description="key:620765950:54354734">
 <stat name="AGILITY" descriptionOverride="key:620765950:106251890" constant="10.0"/>
+<effectGenerator id="1879060954" name="ComplexRiddle" spellcraft="0.0"/>
 </trait>
 <trait identifier="1879060959" name="Hidden Dagger" iconId="1090541258" nature="3" tooltip="key:620765956:191029568" description="key:620765956:54354734">
 <stat name="Skill_ChanceDefense_AllDefenseMod_Trait_LineuptheSights" constant="-5.0"/>
@@ -695,6 +734,7 @@
 <stat name="ForwardSource_Combat_TraitCombo2" operator="SET" descriptionOverride="key:620765963:106251889" constant="27.0"/>
 <stat name="EffectMod_VOT_PerIntervalChangeMult_AddMod1_Trait_Tricks" descriptionOverride="key:620765963:106251890" constant="2.0"/>
 <stat name="Skill_AdditivePulseCountModifierModifier_BurglarGleeMod" constant="1.0"/>
+<effectGenerator id="1879060969" name="Bow Bane" spellcraft="0.0"/>
 </trait>
 <trait identifier="1879060979" name="Strike from Shadows" iconId="1090541264" nature="3" tooltip="key:620765974:191029568" description="key:620765974:54354734">
 <stat name="Skill_ChanceCriticalHit_Trait_EarlyEnd" constant="5.0"/>
@@ -707,10 +747,14 @@
 <trait identifier="1879060987" name="Disabling Attack" iconId="1090541268" nature="3" tooltip="key:620765980:191029568" description="key:620765980:54354734">
 <stat name="EffectMod_VOT_PerIntervalChangeMult_AddMod1_Trait_Tricks" descriptionOverride="key:620765980:106251890" constant="2.0"/>
 <stat name="Skill_AdditivePulseCountModifierModifier_BurglarGleeMod" constant="1.0"/>
+<effectGenerator id="1879060988" name="Disabled Attack" spellcraft="0.0"/>
+<effectGenerator id="1879060969" name="Bow Bane" spellcraft="0.0"/>
 </trait>
 <trait identifier="1879060993" name="Opportunist" iconId="1090541270" nature="3" tooltip="key:620765986:191029568" description="key:620765986:54354734">
 <stat name="EffectMod_VOT_PerIntervalChangeMult_AddMod1_Trait_Tricks" descriptionOverride="key:620765986:106251890" constant="2.0"/>
 <stat name="Skill_AdditivePulseCountModifierModifier_BurglarGleeMod" constant="1.0"/>
+<effectGenerator id="1879060994" name="Opportunist" spellcraft="0.0"/>
+<effectGenerator id="1879060969" name="Bow Bane" spellcraft="0.0"/>
 </trait>
 <trait identifier="1879060999" name="Overwhelming Odds" iconId="1090541272" nature="3" tooltip="key:620765992:191029568" description="key:620765992:54354734">
 <stat name="AGILITY" descriptionOverride="key:620765992:106251890" constant="10.0"/>
@@ -722,6 +766,8 @@
 <trait identifier="1879061017" name="Blind Fury" iconId="1090541276" nature="3" tooltip="key:620766007:191029568" description="key:620766007:54354734">
 <stat name="EffectMod_VOT_PerIntervalChangeMult_AddMod1_Trait_Tricks" descriptionOverride="key:620766007:106251890" constant="2.0"/>
 <stat name="Skill_AdditivePulseCountModifierModifier_BurglarGleeMod" constant="1.0"/>
+<effectGenerator id="1879061018" name="Bowbane" spellcraft="0.0"/>
+<effectGenerator id="1879060969" name="Bow Bane" spellcraft="0.0"/>
 </trait>
 <trait identifier="1879061263" name="Craft Cook Complete Proficiency Tier 1" iconId="1090535587" category="31" nature="1" tooltip="key:620766329:191029568" description="key:620766329:54354734">
 <stat name="Craft_Cook_CompletedProficiencyLevel" operator="SET" constant="1.0"/>
@@ -1006,7 +1052,9 @@
 <trait identifier="1879064172" name="Parry: Rank 4" iconId="1090552303" category="21" nature="1">
 <stat name="PARRY_PERCENTAGE" constant="1.0"/>
 </trait>
-<trait identifier="1879064173" name="Summoning Horn Use" iconId="1090561670" category="29" nature="1" tooltip="key:620768724:191029568" description="key:620768724:54354734"/>
+<trait identifier="1879064173" name="Summoning Horn Use" iconId="1090561670" category="29" nature="1" tooltip="key:620768724:191029568" description="key:620768724:54354734">
+<effectGenerator id="1879064181" name="Summoning Horn Use" spellcraft="0.0"/>
+</trait>
 <trait identifier="1879064210" name="Lute Use" iconId="1090641993" category="32" nature="1" cosmetic="true" tooltip="key:620768727:191029568" description="key:620768727:54354734"/>
 <trait identifier="1879064211" name="Clarinet Use" iconId="1090641991" category="32" nature="1" cosmetic="true" tooltip="key:620768734:191029568" description="key:620768734:54354734"/>
 <trait identifier="1879064212" name="Flute Use" iconId="1090641994" category="32" nature="1" cosmetic="true" tooltip="key:620768735:191029568" description="key:620768735:54354734"/>
@@ -1275,8 +1323,12 @@
 <trait identifier="1879072427" name="Quick Strikes" iconId="1090553259" category="43" nature="3">
 <stat name="ATTACK_DURATION_PERCENTAGE" operator="SUBSTRACT" constant="10.0"/>
 </trait>
-<trait identifier="1879072428" name="Burning Blades" iconId="1090553260" category="43" nature="3"/>
-<trait identifier="1879072429" name="Enhanced Skill: Jagged Cut" iconId="1090553261" category="43" nature="3" tooltip="key:620774671:191029568" description="key:620774671:54354734"/>
+<trait identifier="1879072428" name="Burning Blades" iconId="1090553260" category="43" nature="3">
+<effectGenerator id="1879093488" name="Burning Blades" spellcraft="0.0"/>
+</trait>
+<trait identifier="1879072429" name="Enhanced Skill: Jagged Cut" iconId="1090553261" category="43" nature="3" tooltip="key:620774671:191029568" description="key:620774671:54354734">
+<effectGenerator id="1879072523" name="Jagged Cut Bleed" spellcraft="0.0"/>
+</trait>
 <trait identifier="1879072430" name="Enhanced Skill: Glory in Victory" iconId="1090553262" category="43" nature="3" tooltip="key:620774673:191029568" description="key:620774673:54354734">
 <stat name="EffectMod_PropertyMod_Trait_MP_GloryInVictory" operator="SUBSTRACT" constant="10.0"/>
 </trait>
@@ -1363,7 +1415,9 @@
 <trait identifier="1879072460" name="Uncanny Reactions" iconId="1090553293" category="43" nature="3">
 <stat name="Combat_BaseEvadeRate_Ranged" constant="25.0"/>
 </trait>
-<trait identifier="1879072461" name="Enhanced Skill: Hindering Shot" iconId="1090553294" category="43" nature="3" tooltip="key:620774715:191029568" description="key:620774715:54354734"/>
+<trait identifier="1879072461" name="Enhanced Skill: Hindering Shot" iconId="1090553294" category="43" nature="3" tooltip="key:620774715:191029568" description="key:620774715:54354734">
+<effectGenerator id="1879072541" name="Hindering Shot Root" spellcraft="0.0"/>
+</trait>
 <trait identifier="1879072462" name="Penetrating Arrows" iconId="1090553295" category="43" nature="3">
 <stat name="Skill_TargetChanceBlock_Trait_MP_PenetratingArrow" operator="SUBSTRACT" constant="10.0"/>
 </trait>
@@ -1830,7 +1884,9 @@
 <skill id="1879076075" name="Fellowship's Heart"/>
 </trait>
 <trait identifier="1879076104" name="Armament Use" iconId="1090552310" category="29" nature="1" cosmetic="true" tooltip="key:620777577:191029568" description="key:620777577:54354734"/>
-<trait identifier="1879076155" name="Horns of Valour" iconId="1090561669" category="29" nature="1" tooltip="key:620777591:191029568" description="key:620777591:54354734"/>
+<trait identifier="1879076155" name="Horns of Valour" iconId="1090561669" category="29" nature="1" tooltip="key:620777591:191029568" description="key:620777591:54354734">
+<effectGenerator id="1879064181" name="Summoning Horn Use" spellcraft="0.0"/>
+</trait>
 <trait identifier="1879076358" key="SHIELD_BRAWLER" name="Shield Brawler" iconId="1090562065" category="45" nature="4" tooltip="key:620777690:191029568" description="key:620777690:54354734">
 <stat name="BLOCK_PERCENTAGE" constant="2.0"/>
 </trait>
@@ -1944,23 +2000,49 @@
 <trait identifier="1879097468" name="Basic Cowbell Use" iconId="1091401282" category="32" nature="1" cosmetic="true" tooltip="key:620796148:191029568" description="key:620796148:54354734"/>
 <trait identifier="1879097470" name="Moor Cowbell Use" iconId="1091401286" category="32" nature="1" cosmetic="true" tooltip="key:620796151:191029568" description="key:620796151:54354734"/>
 <trait identifier="1879101492" name="Friend of the Wild" iconId="1091404130" category="29" nature="1" cosmetic="true" tooltip="key:620799379:191029568" description="key:620799379:54354734"/>
-<trait identifier="1879101513" name="Bree-land Home" iconId="1091404800" category="60" nature="1" tooltip="key:620799396:191029568" description="key:620799396:54354734"/>
-<trait identifier="1879101514" name="Bree-land Home" iconId="1091404801" category="60" nature="1" tooltip="key:620799401:191029568" description="key:620799401:54354734"/>
-<trait identifier="1879101515" name="Bree-land Kinship Hall" iconId="1091404802" category="60" nature="1" tooltip="key:620799402:191029568" description="key:620799402:54354734"/>
-<trait identifier="1879101516" name="Falathlorn Home" iconId="1091404800" category="60" nature="1" tooltip="key:620799403:191029568" description="key:620799403:54354734"/>
-<trait identifier="1879101517" name="Falathlorn Home" iconId="1091404801" category="60" nature="1" tooltip="key:620799404:191029568" description="key:620799404:54354734"/>
-<trait identifier="1879101518" name="Falathlorn Kinship Hall" iconId="1091404802" category="60" nature="1" tooltip="key:620799405:191029568" description="key:620799405:54354734"/>
-<trait identifier="1879101519" name="Shire Home" iconId="1091404800" category="60" nature="1" tooltip="key:620799406:191029568" description="key:620799406:54354734"/>
-<trait identifier="1879101520" name="Shire Home" iconId="1091404801" category="60" nature="1" tooltip="key:620799407:191029568" description="key:620799407:54354734"/>
-<trait identifier="1879101521" name="Shire Kinship Hall" iconId="1091404802" category="60" nature="1" tooltip="key:620799397:191029568" description="key:620799397:54354734"/>
-<trait identifier="1879101522" name="Thorin’s Halls Home" iconId="1091404800" category="60" nature="1" tooltip="key:620799398:191029568" description="key:620799398:54354734"/>
-<trait identifier="1879101523" name="Thorin’s Halls Home" iconId="1091404801" category="60" nature="1" tooltip="key:620799399:191029568" description="key:620799399:54354734"/>
-<trait identifier="1879101524" name="Thorin’s Halls Kinship Hall" iconId="1091404802" category="60" nature="1" tooltip="key:620799400:191029568" description="key:620799400:54354734"/>
+<trait identifier="1879101513" name="Bree-land Home" iconId="1091404800" category="60" nature="1" tooltip="key:620799396:191029568" description="key:620799396:54354734">
+<effectGenerator id="1879101901" name="Bree-land Homestead"/>
+</trait>
+<trait identifier="1879101514" name="Bree-land Home" iconId="1091404801" category="60" nature="1" tooltip="key:620799401:191029568" description="key:620799401:54354734">
+<effectGenerator id="1879101902" name="Bree-land Homestead"/>
+</trait>
+<trait identifier="1879101515" name="Bree-land Kinship Hall" iconId="1091404802" category="60" nature="1" tooltip="key:620799402:191029568" description="key:620799402:54354734">
+<effectGenerator id="1879101903" name="Bree-land Kinship Hall"/>
+</trait>
+<trait identifier="1879101516" name="Falathlorn Home" iconId="1091404800" category="60" nature="1" tooltip="key:620799403:191029568" description="key:620799403:54354734">
+<effectGenerator id="1879101904" name="Falathlorn Homestead"/>
+</trait>
+<trait identifier="1879101517" name="Falathlorn Home" iconId="1091404801" category="60" nature="1" tooltip="key:620799404:191029568" description="key:620799404:54354734">
+<effectGenerator id="1879101905" name="Falathlorn Homestead"/>
+</trait>
+<trait identifier="1879101518" name="Falathlorn Kinship Hall" iconId="1091404802" category="60" nature="1" tooltip="key:620799405:191029568" description="key:620799405:54354734">
+<effectGenerator id="1879101906" name="Falathlorn Kinship Hall"/>
+</trait>
+<trait identifier="1879101519" name="Shire Home" iconId="1091404800" category="60" nature="1" tooltip="key:620799406:191029568" description="key:620799406:54354734">
+<effectGenerator id="1879101907" name="Shire Homestead"/>
+</trait>
+<trait identifier="1879101520" name="Shire Home" iconId="1091404801" category="60" nature="1" tooltip="key:620799407:191029568" description="key:620799407:54354734">
+<effectGenerator id="1879101908" name="Shire Homestead"/>
+</trait>
+<trait identifier="1879101521" name="Shire Kinship Hall" iconId="1091404802" category="60" nature="1" tooltip="key:620799397:191029568" description="key:620799397:54354734">
+<effectGenerator id="1879101909" name="Shire Kinship Hall"/>
+</trait>
+<trait identifier="1879101522" name="Thorin’s Halls Home" iconId="1091404800" category="60" nature="1" tooltip="key:620799398:191029568" description="key:620799398:54354734">
+<effectGenerator id="1879101910" name="Thorin’s Halls Homestead"/>
+</trait>
+<trait identifier="1879101523" name="Thorin’s Halls Home" iconId="1091404801" category="60" nature="1" tooltip="key:620799399:191029568" description="key:620799399:54354734">
+<effectGenerator id="1879101911" name="Thorin’s Halls Homestead"/>
+</trait>
+<trait identifier="1879101524" name="Thorin’s Halls Kinship Hall" iconId="1091404802" category="60" nature="1" tooltip="key:620799400:191029568" description="key:620799400:54354734">
+<effectGenerator id="1879101912" name="Thorin’s Halls Kinship Hall"/>
+</trait>
 <trait identifier="1879101614" name="Travel to Kinship House" iconId="1091404799" category="60" nature="1" tooltip="key:620799498:191029568" description="key:620799498:54354734">
 <skill id="1879101511" name="Travel to Kinship House"/>
 </trait>
 <trait identifier="1879101615" name="Travel to Personal House" iconId="1091404797" category="60" nature="1" tooltip="key:620799497:191029568" description="key:620799497:54354734">
 <skill id="1879101510" name="Travel to Personal House"/>
 </trait>
-<trait identifier="1879101895" name="Novice Riding" iconId="1090530243" category="29" nature="1" tooltip="key:620799689:191029568" description="key:620799689:54354734"/>
+<trait identifier="1879101895" name="Novice Riding" iconId="1090530243" category="29" nature="1" tooltip="key:620799689:191029568" description="key:620799689:54354734">
+<effectGenerator id="1879101894" name="Novice Riding" spellcraft="0.0"/>
+</trait>
 </traits>

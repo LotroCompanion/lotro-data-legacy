@@ -99,6 +99,7 @@
 <label key="1879051749" value="Well Fed"/>
 <label key="1879051778" value="Induce Stunned"/>
 <label key="1879052009" value="Deep Wound"/>
+<label key="1879052048" value="Eye for Weakness"/>
 <label key="1879052066" value="Burglar Tools"/>
 <label key="1879052099" value="Increased Morale"/>
 <label key="1879052106" value="Breached Armour"/>
@@ -121,6 +122,7 @@
 <label key="1879052338" value="Sigil - Dúnedain"/>
 <label key="1879052433" value="Fire Oil"/>
 <label key="1879052436" value="Create Bear Trap"/>
+<label key="1879052475" value="Bow of the Righteous"/>
 <label key="1879052519" value="On the Move Morale Heal"/>
 <label key="1879052520" value="On the Move Power Heal"/>
 <label key="1879052535" value="Rain of Thorns Root"/>
@@ -152,11 +154,13 @@
 <label key="1879053032" value="In Defence of Middle-Earth"/>
 <label key="1879053050" value="Shield of the Dunedain"/>
 <label key="1879053063" value="Oathbreaker Mark"/>
+<label key="1879053116" value="Defiant"/>
 <label key="1879053117" value="Last Stand"/>
 <label key="1879053138" value="Lightly Reinforced Armour"/>
 <label key="1879053143" value="Increased Morale"/>
 <label key="1879053192" value="Power Damage Med"/>
 <label key="1879053969" value="Damage Reflection"/>
+<label key="1879054125" value="Braver of the Watching Stones"/>
 <label key="1879054316" value="Full"/>
 <label key="1879054405" value="Healing"/>
 <label key="1879054547" value="Charge"/>
@@ -264,11 +268,15 @@
 <label key="1879060282" value="Call to Arms: Herald of Victory"/>
 <label key="1879060284" value="Call to Arms: Herald of Victory"/>
 <label key="1879060286" value="Call to Arms: Herald of Victory"/>
+<label key="1879060295" value="Empowering Triumph"/>
 <label key="1879060296" value="Cry of Victory: Morale"/>
 <label key="1879060301" value="Escape From Darkness"/>
+<label key="1879060305" value="Improved Rallying Cry"/>
 <label key="1879060308" value="Dispel Enemy Defeat"/>
 <label key="1879060310" value="Enemy Defeat Response"/>
+<label key="1879060314" value="Improved Warcry"/>
 <label key="1879060318" value="War-cry"/>
+<label key="1879060323" value="Improved Routing Cry"/>
 <label key="1879060329" value="Heroic Strike/Heroic Cry Combo"/>
 <label key="1879060330" value="Battle-readied"/>
 <label key="1879060334" value="Heroic Strike"/>
@@ -280,6 +288,7 @@
 <label key="1879060366" value="Call to Arms: Herald of War"/>
 <label key="1879060368" value="Call to Arms: Herald of War"/>
 <label key="1879060370" value="Call to Arms: Herald of War"/>
+<label key="1879060379" value="Improved Words of Courage"/>
 <label key="1879060384" value="Courage"/>
 <label key="1879060402" value="Call to Arms: Improved Herald of Hope"/>
 <label key="1879060418" value="Call to Arms: Herald of Hope"/>
@@ -287,20 +296,38 @@
 <label key="1879060422" value="Call to Arms: Herald of Hope"/>
 <label key="1879060424" value="Call to Arms: Herald of Hope"/>
 <label key="1879060433" value="Dispel Readied."/>
+<label key="1879060492" value="Improved Branching Attack"/>
+<label key="1879060497" value="Improved Swift Strike"/>
+<label key="1879060520" value="Improved Branching Attack"/>
+<label key="1879060525" value="Improved Wild Attack"/>
+<label key="1879060535" value="Improved Blade Wall"/>
+<label key="1879060539" value="Deep Strikes"/>
 <label key="1879060554" value="Dire Need"/>
+<label key="1879060557" value="Patience"/>
 <label key="1879060575" value="Dispel Block"/>
 <label key="1879060576" value="Shield Swipe"/>
+<label key="1879060584" value="Guardian's Ward"/>
+<label key="1879060607" value="Improved Branching Attack"/>
 <label key="1879060612" value="Dispel Evade"/>
 <label key="1879060614" value="Catch a Breath Morale Heal"/>
 <label key="1879060637" value="Protection"/>
 <label key="1879060639" value="Protection"/>
 <label key="1879060646" value="Guardian's Pledge"/>
 <label key="1879060650" value="Deep Breath"/>
+<label key="1879060654" value="Improved Branching Attack"/>
 <label key="1879060655" value="Warrior's Heart"/>
 <label key="1879060656" value="warriorsheart Temporary Hitpoints"/>
+<label key="1879060662" value="Improved Branching Attack"/>
 <label key="1879060664" value="Thrill of Danger"/>
+<label key="1879060669" value="Sturdy Trap"/>
 <label key="1879060673" value="Trap Damage"/>
 <label key="1879060677" value="Create Trap"/>
+<label key="1879060689" value="Improved Shadow Tracking"/>
+<label key="1879060690" value="Improved Nature Tracking"/>
+<label key="1879060691" value="Improved Foe Tracking"/>
+<label key="1879060704" value="Centreing Self"/>
+<label key="1879060709" value="Deadly Precision"/>
+<label key="1879060718" value="Stealthy Shot"/>
 <label key="1879060721" value="Beneath Notice"/>
 <label key="1879060726" value="Needful Haste"/>
 <label key="1879060754" value="Flanked! Improved Staff Strike"/>
@@ -316,6 +343,7 @@
 <label key="1879060814" value="Wisdom of the Council"/>
 <label key="1879060822" value="Induce Dazed"/>
 <label key="1879060828" value="Tend the Sick"/>
+<label key="1879060833" value="Knowledge of the Past"/>
 <label key="1879060838" value="Ancient Wisdom"/>
 <label key="1879060840" value="Improved Ancient Wisdom"/>
 <label key="1879060847" value="Lend Power"/>
@@ -327,14 +355,21 @@
 <label key="1879060912" value="Enlivening Grace"/>
 <label key="1879060917" value="Dispel Silence"/>
 <label key="1879060924" value="Soothing Song"/>
+<label key="1879060940" value="Cunning Bleed"/>
+<label key="1879060941" value="Cunning Bleed"/>
+<label key="1879060954" value="ComplexRiddle"/>
 <label key="1879060957" value="Induce Dazed"/>
+<label key="1879060969" value="Bow Bane"/>
 <label key="1879060973" value="Trick: Dust in the Eyes"/>
 <label key="1879060974" value="Exit Dazed"/>
 <label key="1879060984" value="Distraction"/>
+<label key="1879060988" value="Disabled Attack"/>
 <label key="1879060990" value="Trick: Disable"/>
+<label key="1879060994" value="Opportunist"/>
 <label key="1879060997" value="Trick: Counter Defence"/>
 <label key="1879061009" value="Improved Stealth"/>
 <label key="1879061013" value="Simple Stealth"/>
+<label key="1879061018" value="Bowbane"/>
 <label key="1879061019" value="Trick: Enraged (Trick)"/>
 <label key="1879061081" value="Elf-stone"/>
 <label key="1879061324" value="Campfire"/>
@@ -356,6 +391,7 @@
 <label key="1879062998" value="Smoking Pipe-weed"/>
 <label key="1879063015" value="Smoking Pipe-weed"/>
 <label key="1879063044" value="Track Crops"/>
+<label key="1879064181" value="Summoning Horn Use"/>
 <label key="1879064498" value="Wound"/>
 <label key="1879064501" value="Flesh Wound"/>
 <label key="1879064503" value="Wound"/>
@@ -460,11 +496,13 @@
 <label key="1879070532" value="Call - Nature"/>
 <label key="1879070536" value="Sigil - Dúnedain"/>
 <label key="1879070537" value="Sigil - Dúnedain"/>
+<label key="1879072523" value="Jagged Cut Bleed"/>
 <label key="1879072527" value="Exit All Harmful States"/>
 <label key="1879072532" value="Hamstrung"/>
 <label key="1879072535" value="Webbed"/>
 <label key="1879072539" value="Trapdoor Sanctuary"/>
 <label key="1879072540" value="Burrowed Stealth"/>
+<label key="1879072541" value="Hindering Shot Root"/>
 <label key="1879072564" value="Improved Stealth"/>
 <label key="1879072566" value="Simple Stealth"/>
 <label key="1879072994" value="Induce Cowering"/>
@@ -1017,7 +1055,11 @@
 <label key="1879093331" value="Growing Fire"/>
 <label key="1879093337" value="Strength of Will"/>
 <label key="1879093339" value="Words of Victory Combo"/>
+<label key="1879093389" value="Improved Standard of Victory"/>
+<label key="1879093390" value="Improved Standard of Hope"/>
+<label key="1879093391" value="Improved Standard of War"/>
 <label key="1879093395" value="Strength of Will"/>
+<label key="1879093488" value="Burning Blades"/>
 <label key="1879093699" value="Light of Elendil"/>
 <label key="1879093703" value="Marked"/>
 <label key="1879093754" value="Wigskold's Revenge"/>
@@ -1287,6 +1329,18 @@
 <label key="1879101734" value="Command Post"/>
 <label key="1879101801" value="Nature's Bounty"/>
 <label key="1879101894" value="Novice Riding"/>
+<label key="1879101901" value="Bree-land Homestead"/>
+<label key="1879101902" value="Bree-land Homestead"/>
+<label key="1879101903" value="Bree-land Kinship Hall"/>
+<label key="1879101904" value="Falathlorn Homestead"/>
+<label key="1879101905" value="Falathlorn Homestead"/>
+<label key="1879101906" value="Falathlorn Kinship Hall"/>
+<label key="1879101907" value="Shire Homestead"/>
+<label key="1879101908" value="Shire Homestead"/>
+<label key="1879101909" value="Shire Kinship Hall"/>
+<label key="1879101910" value="Thorin’s Halls Homestead"/>
+<label key="1879101911" value="Thorin’s Halls Homestead"/>
+<label key="1879101912" value="Thorin’s Halls Kinship Hall"/>
 <label key="1879101996" value="Recalling Root"/>
 <label key="1879102249" value="Chicken Travel - Angmar"/>
 <label key="1879102250" value="Chicken Travel - Breeland"/>
@@ -1385,6 +1439,7 @@
 <label key="key:620759821:54354734" value="You cannot be defeated."/>
 <label key="key:620760554:181298206" value="Chance of reflecting a portion of damage back to the attacker."/>
 <label key="key:620760554:54354734" value="Chance of reflecting a portion of damage back to the attacker."/>
+<label key="key:620760757:54354734" value="Allows execution of recipes requiring a Superior Vegetable Farmland."/>
 <label key="key:620760980:54354734" value="A burst of increased movement speed."/>
 <label key="key:620761029:106251889" value="Rooted"/>
 <label key="key:620761029:54354734" value="You are being grabbed by the Watcher."/>

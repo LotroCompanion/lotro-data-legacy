@@ -99,6 +99,7 @@
 <label key="1879051749" value="${PLAYERNAME:Bien nourri[m]|Bien nourrie[f]}"/>
 <label key="1879051778" value="Déclencher Etourdi"/>
 <label key="1879052009" value="Blessure profonde"/>
+<label key="1879052048" value="Détection de faiblesse"/>
 <label key="1879052066" value="Outils de cambrioleur"/>
 <label key="1879052099" value="Moral augmenté"/>
 <label key="1879052106" value="Armure fissurée"/>
@@ -121,6 +122,7 @@
 <label key="1879052338" value="Sceau - Dunedain"/>
 <label key="1879052433" value="Huile inflammable"/>
 <label key="1879052436" value="Création de piège à ours"/>
+<label key="1879052475" value="Arc du Juste"/>
 <label key="1879052519" value="Hausse de Moral lors des déplacements"/>
 <label key="1879052520" value="Hausse de Puissance lors des déplacements"/>
 <label key="1879052535" value="Pluie de racines épineuses"/>
@@ -152,11 +154,13 @@
 <label key="1879053032" value="A la défense de la Terre du Milieu"/>
 <label key="1879053050" value="Bouclier des Dunedain"/>
 <label key="1879053063" value="Marque du parjure"/>
+<label key="1879053116" value="Provocant"/>
 <label key="1879053117" value="Dernier combat"/>
 <label key="1879053138" value="Armure légèrement renforcée"/>
 <label key="1879053143" value="Moral augmenté"/>
 <label key="1879053192" value="Dégâts de Puissance moyens"/>
 <label key="1879053969" value="Renvoi des dégâts"/>
+<label key="1879054125" value="Contre les pierres-sentinelles"/>
 <label key="1879054316" value="${PLAYERNAME:Rassasié[m]|Rassasiée[f]}"/>
 <label key="1879054405" value="Guérison"/>
 <label key="1879054547" value="Charge"/>
@@ -264,11 +268,15 @@
 <label key="1879060282" value="Appel aux armes :&#10;Héraut de victoire"/>
 <label key="1879060284" value="Appel aux armes :&#10;Héraut de victoire"/>
 <label key="1879060286" value="Appel aux armes :&#10;Héraut de victoire"/>
+<label key="1879060295" value="Triomphe fortifiant"/>
 <label key="1879060296" value="Cri de victoire : Moral"/>
 <label key="1879060301" value="Fuite des ténèbres"/>
+<label key="1879060305" value="Cri de ralliement amélioré"/>
 <label key="1879060308" value="Dispel Enemy Defeat"/>
 <label key="1879060310" value="Enemy Defeat Response"/>
+<label key="1879060314" value="Cri de guerre amélioré"/>
 <label key="1879060318" value="Cri de guerre"/>
+<label key="1879060323" value="Cri de déroute amélioré"/>
 <label key="1879060329" value="Combo attaque héroïque/cri héroïque"/>
 <label key="1879060330" value="Battle Readied"/>
 <label key="1879060334" value="Attaque héroïque"/>
@@ -280,6 +288,7 @@
 <label key="1879060366" value="Appel aux armes :&#10;Héraut de guerre"/>
 <label key="1879060368" value="Appel aux armes :&#10;Héraut de guerre"/>
 <label key="1879060370" value="Appel aux armes :&#10;Héraut de guerre"/>
+<label key="1879060379" value="Mots de courage améliorés"/>
 <label key="1879060384" value="Courage"/>
 <label key="1879060402" value="Appel aux armes :&#10;Héraut d'espoir amélioré"/>
 <label key="1879060418" value="Appel aux armes :&#10;Héraut d'espoir"/>
@@ -287,20 +296,38 @@
 <label key="1879060422" value="Appel aux armes :&#10;Héraut d'espoir"/>
 <label key="1879060424" value="Appel aux armes :&#10;Héraut d'espoir"/>
 <label key="1879060433" value="Dispel Readied."/>
+<label key="1879060492" value="Attaque de branche améliorée"/>
+<label key="1879060497" value="Attaque rapide améliorée"/>
+<label key="1879060520" value="Attaque de branche améliorée"/>
+<label key="1879060525" value="Attaque sauvage améliorée"/>
+<label key="1879060535" value="Mur de lames amélioré"/>
+<label key="1879060539" value="Coups intenses"/>
 <label key="1879060554" value="Besoin impérieux"/>
+<label key="1879060557" value="Patience"/>
 <label key="1879060575" value="Dissipation d'arrêt"/>
 <label key="1879060576" value="Balayage au bouclier"/>
+<label key="1879060584" value="Défense de gardien"/>
+<label key="1879060607" value="Attaque de branche améliorée"/>
 <label key="1879060612" value="Dispel Evade"/>
 <label key="1879060614" value="Guérison de Moral sur reprise de souffle"/>
 <label key="1879060637" value="Protection"/>
 <label key="1879060639" value="Protection"/>
 <label key="1879060646" value="Serment de gardien"/>
 <label key="1879060650" value="Inspiration profonde"/>
+<label key="1879060654" value="Attaque de branche améliorée"/>
 <label key="1879060655" value="Coeur de guerrier"/>
 <label key="1879060656" value="Points de vie temporaires coeur de guerrier"/>
+<label key="1879060662" value="Attaque de branche améliorée"/>
 <label key="1879060664" value="Goût du danger"/>
+<label key="1879060669" value="Piège solide"/>
 <label key="1879060673" value="Dégâts de piège"/>
 <label key="1879060677" value="Création de piège"/>
+<label key="1879060689" value="Traque des ombres améliorée"/>
+<label key="1879060690" value="Traque d'animal améliorée"/>
+<label key="1879060691" value="Pistage d'ennemi améliorée"/>
+<label key="1879060704" value="Egocentrique"/>
+<label key="1879060709" value="Précision mortelle"/>
+<label key="1879060718" value="Tir discret"/>
 <label key="1879060721" value="Insignifiance"/>
 <label key="1879060726" value="Hâte nécessaire"/>
 <label key="1879060754" value="Contournement Coup de bâton amélioré"/>
@@ -316,6 +343,7 @@
 <label key="1879060814" value="Sagesse du Conseil"/>
 <label key="1879060822" value="Déclencher Hébété"/>
 <label key="1879060828" value="Aide aux malades"/>
+<label key="1879060833" value="Connaissance du passé"/>
 <label key="1879060838" value="Sagesse antique"/>
 <label key="1879060840" value="Sagesse antique améliorée"/>
 <label key="1879060847" value="Prêt de Puissance"/>
@@ -327,14 +355,21 @@
 <label key="1879060912" value="Grâce vivifiante"/>
 <label key="1879060917" value="Dissipation de silence"/>
 <label key="1879060924" value="Chant apaisant"/>
+<label key="1879060940" value="Saignement sournois"/>
+<label key="1879060941" value="Saignement sournois"/>
+<label key="1879060954" value="Enigme complexe"/>
 <label key="1879060957" value="Déclencher Hébété"/>
+<label key="1879060969" value="Fléau d'arc"/>
 <label key="1879060973" value="Truc :&#10;poussière dans les yeux"/>
 <label key="1879060974" value="Quitter Hébété"/>
 <label key="1879060984" value="Distraction"/>
+<label key="1879060988" value="Attaque désactivée"/>
 <label key="1879060990" value="Truc : incapacité"/>
+<label key="1879060994" value="Opportuniste"/>
 <label key="1879060997" value="Truc : Contre-défense"/>
 <label key="1879061009" value="Discrétion améliorée"/>
 <label key="1879061013" value="Discrétion simple"/>
+<label key="1879061018" value="Fléau d'arc"/>
 <label key="1879061019" value="Truc : fureur (Truc)"/>
 <label key="1879061081" value="Pierre elfique"/>
 <label key="1879061324" value="Feu de camp"/>
@@ -356,6 +391,7 @@
 <label key="1879062998" value="Quelques bouffées d'herbe à pipe"/>
 <label key="1879063015" value="Quelques bouffées d'herbe à pipe"/>
 <label key="1879063044" value="Détection de récolte"/>
+<label key="1879064181" value="Utilisation du Cor d'appel"/>
 <label key="1879064498" value="Blessure"/>
 <label key="1879064501" value="Blessure superficielle"/>
 <label key="1879064503" value="Blessure"/>
@@ -460,11 +496,13 @@
 <label key="1879070532" value="Appel - Nature"/>
 <label key="1879070536" value="Sceau - Dunedain"/>
 <label key="1879070537" value="Sceau - Dunedain"/>
+<label key="1879072523" value="Saignement de plaie béante"/>
 <label key="1879072527" value="Quitte tous les états nocifs"/>
 <label key="1879072532" value="Tendon tranché"/>
 <label key="1879072535" value="Entoilement"/>
 <label key="1879072539" value="Sanctuaire"/>
 <label key="1879072540" value="Discrétion enfouie"/>
+<label key="1879072541" value="Racine de tir retardateur"/>
 <label key="1879072564" value="Discrétion améliorée"/>
 <label key="1879072566" value="Discrétion simple"/>
 <label key="1879072994" value="Déclencher Peur panique"/>
@@ -1017,7 +1055,11 @@
 <label key="1879093331" value="Flammes montantes"/>
 <label key="1879093337" value="Volonté"/>
 <label key="1879093339" value="Combo Mots de victoire"/>
+<label key="1879093389" value="Etendard de victoire amélioré"/>
+<label key="1879093390" value="Etendard d'espoir amélioré"/>
+<label key="1879093391" value="Etendard de guerre amélioré"/>
 <label key="1879093395" value="Volonté"/>
+<label key="1879093488" value="Lames brûlantes"/>
 <label key="1879093699" value="Lumière d'Elendil"/>
 <label key="1879093703" value="Marqué"/>
 <label key="1879093754" value="Vengeance de Wigskold"/>
@@ -1287,6 +1329,18 @@
 <label key="1879101734" value="Poste de commandement"/>
 <label key="1879101801" value="Don de la nature"/>
 <label key="1879101894" value="Novice en équitation"/>
+<label key="1879101901" value="Résidence dans le Pays de Bree"/>
+<label key="1879101902" value="Résidence dans le Pays de Bree"/>
+<label key="1879101903" value="Maison de confrérie dans le Pays de Bree"/>
+<label key="1879101904" value="Résidence à Falathlorn"/>
+<label key="1879101905" value="Résidence à Falathlorn"/>
+<label key="1879101906" value="Maison de confrérie à Falathlorn"/>
+<label key="1879101907" value="Résidence dans la Comté"/>
+<label key="1879101908" value="Résidence dans la Comté"/>
+<label key="1879101909" value="Maison de confrérie dans la Comté"/>
+<label key="1879101910" value="Résidence au Palais de Thorin"/>
+<label key="1879101911" value="Résidence au Palais de Thorin"/>
+<label key="1879101912" value="Maison de confrérie au Palais de Thorin"/>
 <label key="1879101996" value="Racine de rappel"/>
 <label key="1879102249" value="Voyage de poulet - Angmar"/>
 <label key="1879102250" value="Voyage de poulet - Pays de Bree"/>
@@ -1385,6 +1439,7 @@
 <label key="key:620759821:54354734" value="Invincible."/>
 <label key="key:620760554:181298206" value="Chance de renvoyer une partie des dégâts à l'attaquant."/>
 <label key="key:620760554:54354734" value="Chance de renvoyer une partie des dégâts à l'attaquant."/>
+<label key="key:620760757:54354734" value="Permet de réaliser les méthodes de préparation nécessitant une terre à légumes de qualité supérieure."/>
 <label key="key:620760980:54354734" value="Une augmentation de la vitesse des mouvements."/>
 <label key="key:620761029:106251889" value="Enraciné"/>
 <label key="key:620761029:54354734" value=": Vous êtes #-1{empoigné[m]|empoignée[f]} par le veilleur."/>
