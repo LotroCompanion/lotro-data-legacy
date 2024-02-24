@@ -690,7 +690,28 @@
 <label key="1879076741" value="Quelques bouffées d'herbe à pipe"/>
 <label key="1879076754" value="Quelques bouffées d'herbe à pipe"/>
 <label key="1879076767" value="Quelques bouffées d'herbe à pipe"/>
+<label key="1879077054" value="Regain d'aptitude"/>
+<label key="1879077056" value="Regain de vitesse"/>
+<label key="1879077057" value="Vitesse poussée"/>
 <label key="1879077058" value="Vitesse continue"/>
+<label key="1879077059" value="Regain de récupération"/>
+<label key="1879077060" value="Récupération poussée"/>
+<label key="1879077061" value="Récupération continue"/>
+<label key="1879077062" value="Regain d'espoir"/>
+<label key="1879077063" value="Espoir poussé"/>
+<label key="1879077064" value="Espoir continu"/>
+<label key="1879077065" value="Détermination de l'initié"/>
+<label key="1879077066" value="Détermination de l'accompli"/>
+<label key="1879077067" value="Détermination de l'expérimenté"/>
+<label key="1879077068" value="Détermination du vétéran"/>
+<label key="1879077069" value="Vigueur de l'initié"/>
+<label key="1879077070" value="Vigueur de l'accompli"/>
+<label key="1879077071" value="Vigueur de l'expérimenté"/>
+<label key="1879077072" value="Vigueur du vétéran"/>
+<label key="1879077242" value="Force d'âme de l'initié"/>
+<label key="1879077243" value="Force d'âme de l'accompli"/>
+<label key="1879077244" value="Force d'âme de l'expérimenté"/>
+<label key="1879077245" value="Force d'âme du vétéran"/>
 <label key="1879077346" value="Guérison"/>
 <label key="1879077598" value="Invocation de rampant"/>
 <label key="1879077599" value="Pourcentage de dégâts au Moral sur soi"/>
@@ -1592,7 +1613,28 @@
 <label key="key:620775766:54354734" value=":La morsure infectieuse du sanglier vous a #-1{contaminé[m]|contaminée[f]}."/>
 <label key="key:620777549:54354734" value="La présence encourageante du bien."/>
 <label key="key:620777561:54354734" value="Immunité contre les effets de peur."/>
+<label key="key:620778067:54354734" value="L'expérience supplémentaire gagnée en éliminant des ennemis est augmentée."/>
+<label key="key:620778069:54354734" value="Votre vitesse de mouvement est améliorée."/>
+<label key="key:620778071:54354734" value="Votre vitesse de mouvement est améliorée."/>
 <label key="key:620778073:54354734" value="Votre vitesse de mouvement est améliorée."/>
+<label key="key:620778075:54354734" value="Votre récupération de moral et de puissance hors combat est améliorée."/>
+<label key="key:620778077:54354734" value="Votre récupération de moral et de puissance hors combat est améliorée."/>
+<label key="key:620778079:54354734" value="Votre récupération de moral et de puissance hors combat est améliorée."/>
+<label key="key:620778081:54354734" value="Votre espoir est renforcé."/>
+<label key="key:620778083:54354734" value="Votre espoir est renforcé."/>
+<label key="key:620778085:54354734" value="Votre espoir est renforcé."/>
+<label key="key:620778087:54354734" value="Votre moral maximum est augmenté."/>
+<label key="key:620778089:54354734" value="Votre moral maximum est augmenté."/>
+<label key="key:620778091:54354734" value="Votre moral maximum est augmenté."/>
+<label key="key:620778093:54354734" value="Votre moral maximum est augmenté."/>
+<label key="key:620778095:54354734" value="Votre puissance maximum est augmentée."/>
+<label key="key:620778097:54354734" value="Votre puissance maximum est augmentée."/>
+<label key="key:620778099:54354734" value="Votre puissance maximum est augmentée."/>
+<label key="key:620778101:54354734" value="Votre puissance maximum est augmentée."/>
+<label key="key:620778209:54354734" value="L'efficacité de votre armure est améliorée."/>
+<label key="key:620778211:54354734" value="L'efficacité de votre armure est améliorée."/>
+<label key="key:620778213:54354734" value="L'efficacité de votre armure est améliorée."/>
+<label key="key:620778215:54354734" value="L'efficacité de votre armure est améliorée."/>
 <label key="key:620778383:181298206" value="Invoque un rampant qui sort de l'être spectral"/>
 <label key="key:620778930:54354734" value="Le rat était porteur d'une horrible maladie."/>
 <label key="key:620779038:106251889" value="Enraciné"/>

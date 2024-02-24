@@ -1833,8 +1833,72 @@
 <effect id="1879076741" name="Smoking Pipe-weed"/>
 <effect id="1879076754" name="Smoking Pipe-weed"/>
 <effect id="1879076767" name="Smoking Pipe-weed"/>
+<effect id="1879077054" name="Burst of Competence" appliedDescription="key:620778067:54354734"/>
+<propertyModEffect id="1879077056" name="Burst of Swiftness" appliedDescription="key:620778069:54354734" iconId="1090563481" duration="300.0">
+<stat name="ForwardSource_Movement_SpeedMultiplier" constant="5.0"/>
+</propertyModEffect>
+<propertyModEffect id="1879077057" name="Sustained Swiftness" appliedDescription="key:620778071:54354734" iconId="1090563482" duration="900.0">
+<stat name="ForwardSource_Movement_SpeedMultiplier" constant="5.0"/>
+</propertyModEffect>
 <propertyModEffect id="1879077058" name="Continuing Swiftness" appliedDescription="key:620778073:54354734" iconId="1090563483" duration="1800.0">
 <stat name="ForwardSource_Movement_SpeedMultiplier" constant="5.0"/>
+</propertyModEffect>
+<propertyModEffect id="1879077059" name="Burst of Recovery" appliedDescription="key:620778075:54354734" iconId="1090563484" duration="300.0">
+<stat name="OCPR" scaling="1879049660"/>
+<stat name="OCMR" scaling="1879049659"/>
+</propertyModEffect>
+<propertyModEffect id="1879077060" name="Sustained Recovery" appliedDescription="key:620778077:54354734" iconId="1090563485" duration="900.0">
+<stat name="OCPR" scaling="1879049660"/>
+<stat name="OCMR" scaling="1879049659"/>
+</propertyModEffect>
+<propertyModEffect id="1879077061" name="Continuing Recovery" appliedDescription="key:620778079:54354734" iconId="1090563486" duration="1800.0">
+<stat name="OCPR" scaling="1879049660"/>
+<stat name="OCMR" scaling="1879049659"/>
+</propertyModEffect>
+<propertyModEffect id="1879077062" name="Burst of Hope" appliedDescription="key:620778081:54354734" iconId="1090563487" duration="300.0">
+<stat name="HOPE" constant="1.0"/>
+</propertyModEffect>
+<propertyModEffect id="1879077063" name="Sustained Hope" appliedDescription="key:620778083:54354734" iconId="1090563488" duration="900.0">
+<stat name="HOPE" constant="1.0"/>
+</propertyModEffect>
+<propertyModEffect id="1879077064" name="Continuing Hope" appliedDescription="key:620778085:54354734" iconId="1090563489" duration="1800.0">
+<stat name="HOPE" constant="1.0"/>
+</propertyModEffect>
+<propertyModEffect id="1879077065" name="Initiate Resolve" appliedDescription="key:620778087:54354734" iconId="1090563490" duration="300.0">
+<stat name="MORALE" constant="149.0"/>
+</propertyModEffect>
+<propertyModEffect id="1879077066" name="Accomplished Resolve" appliedDescription="key:620778089:54354734" iconId="1090563491" duration="900.0">
+<stat name="MORALE" constant="215.0"/>
+</propertyModEffect>
+<propertyModEffect id="1879077067" name="Experienced Resolve" appliedDescription="key:620778091:54354734" iconId="1090563492" duration="1800.0">
+<stat name="MORALE" constant="246.0"/>
+</propertyModEffect>
+<propertyModEffect id="1879077068" name="Veteran Resolve" appliedDescription="key:620778093:54354734" iconId="1090563493" duration="2700.0">
+<stat name="MORALE" constant="262.0"/>
+</propertyModEffect>
+<propertyModEffect id="1879077069" name="Initiate Vigour" appliedDescription="key:620778095:54354734" iconId="1090563494" duration="300.0">
+<stat name="POWER" constant="95.0"/>
+</propertyModEffect>
+<propertyModEffect id="1879077070" name="Accomplished Vigour" appliedDescription="key:620778097:54354734" iconId="1090563495" duration="900.0">
+<stat name="POWER" constant="131.0"/>
+</propertyModEffect>
+<propertyModEffect id="1879077071" name="Experienced Vigour" appliedDescription="key:620778099:54354734" iconId="1090563496" duration="1800.0">
+<stat name="POWER" constant="146.0"/>
+</propertyModEffect>
+<propertyModEffect id="1879077072" name="Veteran Vigour" appliedDescription="key:620778101:54354734" iconId="1090563497" duration="2700.0">
+<stat name="POWER" constant="153.0"/>
+</propertyModEffect>
+<propertyModEffect id="1879077242" name="Initiate Fortitude" appliedDescription="key:620778209:54354734" iconId="1090563511" duration="300.0">
+<stat name="Combat_Agent_Armor_Value" constant="83.0"/>
+</propertyModEffect>
+<propertyModEffect id="1879077243" name="Accomplished Fortitude" appliedDescription="key:620778211:54354734" iconId="1090563512" duration="900.0">
+<stat name="Combat_Agent_Armor_Value" constant="96.0"/>
+</propertyModEffect>
+<propertyModEffect id="1879077244" name="Experienced Fortitude" appliedDescription="key:620778213:54354734" iconId="1090563513" duration="1800.0">
+<stat name="Combat_Agent_Armor_Value" constant="105.0"/>
+</propertyModEffect>
+<propertyModEffect id="1879077245" name="Veteran Fortitude" appliedDescription="key:620778215:54354734" iconId="1090563514" duration="2700.0">
+<stat name="Combat_Agent_Armor_Value" constant="113.0"/>
 </propertyModEffect>
 <instantVitalEffect id="1879077346" name="Healing" stat="Health_MaxLevel" multiplicative="true"/>
 <effect id="1879077598" name="Summon Crawler Pet" description="key:620778383:181298206"/>

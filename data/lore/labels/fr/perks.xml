@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><labels locale="fr">
+<label key="1879076126" value="Expérience accélérée"/>
+<label key="1879076127" value="Regain de vitesse"/>
+<label key="1879076128" value="Vitesse poussée"/>
+<label key="1879076129" value="Vitesse continue"/>
+<label key="1879076130" value="Regain de récupération"/>
+<label key="1879076131" value="Récupération poussée"/>
+<label key="1879076132" value="Récupération continue"/>
+<label key="1879076133" value="Regain d'espoir"/>
+<label key="1879076134" value="Espoir poussé"/>
+<label key="1879076135" value="Espoir continu"/>
+<label key="1879076136" value="Détermination de l'initié"/>
+<label key="1879076137" value="Détermination de l'accompli"/>
+<label key="1879076138" value="Détermination de l'expérimenté"/>
+<label key="1879076139" value="Détermination du vétéran"/>
+<label key="1879076140" value="Vigueur de l'initié"/>
+<label key="1879076141" value="Vigueur de l'accompli"/>
+<label key="1879076142" value="Vigueur de l'expérimenté"/>
+<label key="1879076143" value="Vigueur du vétéran"/>
+<label key="1879076144" value="Force d'âme de l'initié"/>
+<label key="1879076145" value="Force d'âme de l'accompli"/>
+<label key="1879076146" value="Force d'âme de l'expérimenté"/>
+<label key="1879076147" value="Force d'âme du vétéran"/>
+<label key="key:620778066:214042867" value="Vos points d'expérience augmentent temporairement : vous gagnez de l'expérience supplémentaire lorsque vous éliminez vos ennemis. Lorsque vous les achetez, vos XP augmentés sont représentés par la zone bleue de votre barre d'XP."/>
+<label key="key:620778068:214042867" value="Votre vitesse de mouvement augmente temporairement."/>
+<label key="key:620778070:214042867" value="Votre vitesse de mouvement augmente temporairement."/>
+<label key="key:620778072:214042867" value="Votre vitesse de mouvement augmente temporairement."/>
+<label key="key:620778074:214042867" value="Votre récupération de moral et de puissance hors combat est temporairement améliorée."/>
+<label key="key:620778076:214042867" value="Votre récupération de moral et de puissance hors combat est temporairement améliorée."/>
+<label key="key:620778078:214042867" value="Votre récupération de moral et de puissance hors combat est temporairement améliorée."/>
+<label key="key:620778080:214042867" value="Votre espoir augmente temporairement."/>
+<label key="key:620778082:214042867" value="Votre espoir augmente temporairement."/>
+<label key="key:620778084:214042867" value="Votre espoir augmente temporairement."/>
+<label key="key:620778086:214042867" value="Votre moral maximum augmente temporairement."/>
+<label key="key:620778088:214042867" value="Votre moral maximum augmente temporairement."/>
+<label key="key:620778090:214042867" value="Votre moral maximum augmente temporairement."/>
+<label key="key:620778092:214042867" value="Votre moral maximum augmente temporairement."/>
+<label key="key:620778094:214042867" value="Votre Puissance maximale augmente temporairement."/>
+<label key="key:620778096:214042867" value="Votre Puissance maximale augmente temporairement."/>
+<label key="key:620778098:214042867" value="Votre Puissance maximale augmente temporairement."/>
+<label key="key:620778100:214042867" value="Votre Puissance maximale augmente temporairement."/>
+<label key="key:620778208:214042867" value="L'efficacité de votre armure augmente temporairement."/>
+<label key="key:620778210:214042867" value="L'efficacité de votre armure augmente temporairement."/>
+<label key="key:620778212:214042867" value="L'efficacité de votre armure augmente temporairement."/>
+<label key="key:620778214:214042867" value="L'efficacité de votre armure augmente temporairement."/>
+</labels>

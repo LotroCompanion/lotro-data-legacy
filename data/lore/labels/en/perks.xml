@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><labels locale="en">
+<label key="1879076126" value="Accelerated Experience"/>
+<label key="1879076127" value="Burst of Swiftness"/>
+<label key="1879076128" value="Sustained Swiftness"/>
+<label key="1879076129" value="Continuing Swiftness"/>
+<label key="1879076130" value="Burst of Recovery"/>
+<label key="1879076131" value="Sustained Recovery"/>
+<label key="1879076132" value="Continuing Recovery"/>
+<label key="1879076133" value="Burst of Hope"/>
+<label key="1879076134" value="Sustained Hope"/>
+<label key="1879076135" value="Continuing Hope"/>
+<label key="1879076136" value="Initiate Resolve"/>
+<label key="1879076137" value="Accomplished Resolve"/>
+<label key="1879076138" value="Experienced Resolve"/>
+<label key="1879076139" value="Veteran Resolve"/>
+<label key="1879076140" value="Initiate Vigour"/>
+<label key="1879076141" value="Accomplished Vigour"/>
+<label key="1879076142" value="Experienced Vigour"/>
+<label key="1879076143" value="Veteran Vigour"/>
+<label key="1879076144" value="Initiate Fortitude"/>
+<label key="1879076145" value="Accomplished Fortitude"/>
+<label key="1879076146" value="Experienced Fortitude"/>
+<label key="1879076147" value="Veteran Fortitude"/>
+<label key="key:620778066:214042867" value="Grants you Enhanced XP, temporarily increasing the experience you gain for defeating enemies.  When purchased this enhanced XP is represented by the blue area on your XP bar."/>
+<label key="key:620778068:214042867" value="Provides a temporary increase to your movement speed."/>
+<label key="key:620778070:214042867" value="Provides a temporary increase to your movement speed."/>
+<label key="key:620778072:214042867" value="Provides a temporary increase to your movement speed."/>
+<label key="key:620778074:214042867" value="Provides a temporary increase to your recovery of morale and power out of combat."/>
+<label key="key:620778076:214042867" value="Provides a temporary increase to your recovery of morale and power out of combat."/>
+<label key="key:620778078:214042867" value="Provides a temporary increase to your recovery of morale and power out of combat."/>
+<label key="key:620778080:214042867" value="Provides a temporary increase to your hope."/>
+<label key="key:620778082:214042867" value="Provides a temporary increase to your hope."/>
+<label key="key:620778084:214042867" value="Provides a temporary increase to your hope."/>
+<label key="key:620778086:214042867" value="Provides a temporary increase to your maximum morale."/>
+<label key="key:620778088:214042867" value="Provides a temporary increase to your maximum morale."/>
+<label key="key:620778090:214042867" value="Provides a temporary increase to your maximum morale."/>
+<label key="key:620778092:214042867" value="Provides a temporary increase to your maximum morale."/>
+<label key="key:620778094:214042867" value="Provides a temporary increase to your maximum power."/>
+<label key="key:620778096:214042867" value="Provides a temporary increase to your maximum power."/>
+<label key="key:620778098:214042867" value="Provides a temporary increase to your maximum power."/>
+<label key="key:620778100:214042867" value="Provides a temporary increase to your maximum power."/>
+<label key="key:620778208:214042867" value="Provides a temporary increase to the effectiveness of your armour."/>
+<label key="key:620778210:214042867" value="Provides a temporary increase to the effectiveness of your armour."/>
+<label key="key:620778212:214042867" value="Provides a temporary increase to the effectiveness of your armour."/>
+<label key="key:620778214:214042867" value="Provides a temporary increase to the effectiveness of your armour."/>
+</labels>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><perks>
+<perk identifier="1879076126" name="Accelerated Experience" description="key:620778066:214042867" iconId="1090563480" effectId="1879077054" uiCategory="1" minLevel="10" pointsCost="250"/>
+<perk identifier="1879076127" name="Burst of Swiftness" description="key:620778068:214042867" iconId="1090563481" effectId="1879077056" uiCategory="2" minLevel="10" pointsCost="50"/>
+<perk identifier="1879076128" name="Sustained Swiftness" description="key:620778070:214042867" iconId="1090563482" effectId="1879077057" uiCategory="2" minLevel="10" pointsCost="125"/>
+<perk identifier="1879076129" name="Continuing Swiftness" description="key:620778072:214042867" iconId="1090563483" effectId="1879077058" uiCategory="2" minLevel="10" pointsCost="200"/>
+<perk identifier="1879076130" name="Burst of Recovery" description="key:620778074:214042867" iconId="1090563484" effectId="1879077059" uiCategory="3" minLevel="10" pointsCost="50"/>
+<perk identifier="1879076131" name="Sustained Recovery" description="key:620778076:214042867" iconId="1090563485" effectId="1879077060" uiCategory="3" minLevel="10" pointsCost="250"/>
+<perk identifier="1879076132" name="Continuing Recovery" description="key:620778078:214042867" iconId="1090563486" effectId="1879077061" uiCategory="3" minLevel="10" pointsCost="1000"/>
+<perk identifier="1879076133" name="Burst of Hope" description="key:620778080:214042867" iconId="1090563487" effectId="1879077062" uiCategory="4" minLevel="10" pointsCost="50"/>
+<perk identifier="1879076134" name="Sustained Hope" description="key:620778082:214042867" iconId="1090563488" effectId="1879077063" uiCategory="4" minLevel="10" pointsCost="250"/>
+<perk identifier="1879076135" name="Continuing Hope" description="key:620778084:214042867" iconId="1090563489" effectId="1879077064" uiCategory="4" minLevel="10" pointsCost="1000"/>
+<perk identifier="1879076136" name="Initiate Resolve" description="key:620778086:214042867" iconId="1090563490" effectId="1879077065" uiCategory="5" minLevel="10" pointsCost="125"/>
+<perk identifier="1879076137" name="Accomplished Resolve" description="key:620778088:214042867" iconId="1090563491" effectId="1879077066" uiCategory="5" minLevel="20" pointsCost="500"/>
+<perk identifier="1879076138" name="Experienced Resolve" description="key:620778090:214042867" iconId="1090563492" effectId="1879077067" uiCategory="5" minLevel="30" pointsCost="1500"/>
+<perk identifier="1879076139" name="Veteran Resolve" description="key:620778092:214042867" iconId="1090563493" effectId="1879077068" uiCategory="5" minLevel="40" pointsCost="3000"/>
+<perk identifier="1879076140" name="Initiate Vigour" description="key:620778094:214042867" iconId="1090563494" effectId="1879077069" uiCategory="6" minLevel="10" pointsCost="125"/>
+<perk identifier="1879076141" name="Accomplished Vigour" description="key:620778096:214042867" iconId="1090563495" effectId="1879077070" uiCategory="6" minLevel="20" pointsCost="500"/>
+<perk identifier="1879076142" name="Experienced Vigour" description="key:620778098:214042867" iconId="1090563496" effectId="1879077071" uiCategory="6" minLevel="30" pointsCost="1500"/>
+<perk identifier="1879076143" name="Veteran Vigour" description="key:620778100:214042867" iconId="1090563497" effectId="1879077072" uiCategory="6" minLevel="40" pointsCost="3000"/>
+<perk identifier="1879076144" name="Initiate Fortitude" description="key:620778208:214042867" iconId="1090563511" effectId="1879077242" uiCategory="7" minLevel="10" pointsCost="125"/>
+<perk identifier="1879076145" name="Accomplished Fortitude" description="key:620778210:214042867" iconId="1090563512" effectId="1879077243" uiCategory="7" minLevel="20" pointsCost="500"/>
+<perk identifier="1879076146" name="Experienced Fortitude" description="key:620778212:214042867" iconId="1090563513" effectId="1879077244" uiCategory="7" minLevel="30" pointsCost="1500"/>
+<perk identifier="1879076147" name="Veteran Fortitude" description="key:620778214:214042867" iconId="1090563514" effectId="1879077245" uiCategory="7" minLevel="40" pointsCost="3000"/>
+</perks>

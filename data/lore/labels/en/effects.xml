@@ -690,7 +690,28 @@
 <label key="1879076741" value="Smoking Pipe-weed"/>
 <label key="1879076754" value="Smoking Pipe-weed"/>
 <label key="1879076767" value="Smoking Pipe-weed"/>
+<label key="1879077054" value="Burst of Competence"/>
+<label key="1879077056" value="Burst of Swiftness"/>
+<label key="1879077057" value="Sustained Swiftness"/>
 <label key="1879077058" value="Continuing Swiftness"/>
+<label key="1879077059" value="Burst of Recovery"/>
+<label key="1879077060" value="Sustained Recovery"/>
+<label key="1879077061" value="Continuing Recovery"/>
+<label key="1879077062" value="Burst of Hope"/>
+<label key="1879077063" value="Sustained Hope"/>
+<label key="1879077064" value="Continuing Hope"/>
+<label key="1879077065" value="Initiate Resolve"/>
+<label key="1879077066" value="Accomplished Resolve"/>
+<label key="1879077067" value="Experienced Resolve"/>
+<label key="1879077068" value="Veteran Resolve"/>
+<label key="1879077069" value="Initiate Vigour"/>
+<label key="1879077070" value="Accomplished Vigour"/>
+<label key="1879077071" value="Experienced Vigour"/>
+<label key="1879077072" value="Veteran Vigour"/>
+<label key="1879077242" value="Initiate Fortitude"/>
+<label key="1879077243" value="Accomplished Fortitude"/>
+<label key="1879077244" value="Experienced Fortitude"/>
+<label key="1879077245" value="Veteran Fortitude"/>
 <label key="1879077346" value="Healing"/>
 <label key="1879077598" value="Summon Crawler Pet"/>
 <label key="1879077599" value="Percent Morale Damage To Self"/>
@@ -1592,7 +1613,28 @@
 <label key="key:620775766:54354734" value="The boar's diseased bite has infected you."/>
 <label key="key:620777549:54354734" value="The uplifting presence of good."/>
 <label key="key:620777561:54354734" value="Immunity to fear effects."/>
+<label key="key:620778067:54354734" value="Experience gained from defeating enemies is increased."/>
+<label key="key:620778069:54354734" value="Movement speed is increased."/>
+<label key="key:620778071:54354734" value="Movement speed is increased."/>
 <label key="key:620778073:54354734" value="Movement speed is increased."/>
+<label key="key:620778075:54354734" value="Recovery of morale and power out of combat is increased."/>
+<label key="key:620778077:54354734" value="Recovery of morale and power out of combat is increased."/>
+<label key="key:620778079:54354734" value="Recovery of morale and power out of combat is increased."/>
+<label key="key:620778081:54354734" value="Hope is increased."/>
+<label key="key:620778083:54354734" value="Hope is increased."/>
+<label key="key:620778085:54354734" value="Hope is increased."/>
+<label key="key:620778087:54354734" value="Maximum morale is increased."/>
+<label key="key:620778089:54354734" value="Maximum morale is increased."/>
+<label key="key:620778091:54354734" value="Maximum morale is increased."/>
+<label key="key:620778093:54354734" value="Maximum morale is increased."/>
+<label key="key:620778095:54354734" value="Maximum power is increased."/>
+<label key="key:620778097:54354734" value="Maximum power is increased."/>
+<label key="key:620778099:54354734" value="Maximum power is increased."/>
+<label key="key:620778101:54354734" value="Maximum power is increased."/>
+<label key="key:620778209:54354734" value="Armour effectiveness is increased."/>
+<label key="key:620778211:54354734" value="Armour effectiveness is increased."/>
+<label key="key:620778213:54354734" value="Armour effectiveness is increased."/>
+<label key="key:620778215:54354734" value="Armour effectiveness is increased."/>
 <label key="key:620778383:181298206" value="Summons a crawler that bursts forth from the wight"/>
 <label key="key:620778930:54354734" value="The rat carried some loathsome disease."/>
 <label key="key:620779038:106251889" value="Rooted"/>

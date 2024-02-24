@@ -690,7 +690,28 @@
 <label key="1879076741" value="Pfeifenkraut rauchen"/>
 <label key="1879076754" value="Pfeifenkraut rauchen"/>
 <label key="1879076767" value="Pfeifenkraut rauchen"/>
+<label key="1879077054" value="Kompetenzschub"/>
+<label key="1879077056" value="Schnelligkeitsschub"/>
+<label key="1879077057" value="Anhaltende Schnelligkeit"/>
 <label key="1879077058" value="Fortwährende Schnelligkeit"/>
+<label key="1879077059" value="Erholungsschub"/>
+<label key="1879077060" value="Anhaltende Erholung"/>
+<label key="1879077061" value="Fortwährende Erholung"/>
+<label key="1879077062" value="Hoffnungsschimmer"/>
+<label key="1879077063" value="Anhaltende Hoffnung"/>
+<label key="1879077064" value="Fortwährende Hoffnung"/>
+<label key="1879077065" value="Entschlossenheit einleiten"/>
+<label key="1879077066" value="Erlangte Entschlossenheit"/>
+<label key="1879077067" value="Erfahrene Entschlossenheit"/>
+<label key="1879077068" value="Veteranen-Entschlossenheit"/>
+<label key="1879077069" value="Lebenskraft einleiten"/>
+<label key="1879077070" value="Erlangte Lebenskraft"/>
+<label key="1879077071" value="Erfahrene Lebenskraft"/>
+<label key="1879077072" value="Veteranen-Lebenskraft"/>
+<label key="1879077242" value="Standhaftigkeit einleiten."/>
+<label key="1879077243" value="Erlangte Standhaftigkeit"/>
+<label key="1879077244" value="Erfahrene Standhaftigkeit"/>
+<label key="1879077245" value="Veteranen-Standhaftigkeit"/>
 <label key="1879077346" value="Heilung"/>
 <label key="1879077598" value="Kriecher-Begleiter beschwören"/>
 <label key="1879077599" value="Percent Morale Damage To Self"/>
@@ -1592,7 +1613,28 @@
 <label key="key:620775766:54354734" value="Der Biss des kranken Keilers hat Euch infiziert."/>
 <label key="key:620777549:54354734" value="Die erhebende Anwesenheit des Guten."/>
 <label key="key:620777561:54354734" value="Verleiht Immunität gegen Furcht-Effekte."/>
+<label key="key:620778067:54354734" value="Mehr Erfahrungspunkte für besiegte Gegner"/>
+<label key="key:620778069:54354734" value="Bewegungsgeschwindigkeit wird erhöht."/>
+<label key="key:620778071:54354734" value="Bewegungsgeschwindigkeit wird erhöht."/>
 <label key="key:620778073:54354734" value="Bewegungsgeschwindigkeit wird erhöht."/>
+<label key="key:620778075:54354734" value="Moral- und Kraft-Erholung nach Kampf wird gesteigert."/>
+<label key="key:620778077:54354734" value="Moral- und Kraft-Erholung nach Kampf wird gesteigert."/>
+<label key="key:620778079:54354734" value="Moral- und Kraft-Erholung nach Kampf wird gesteigert."/>
+<label key="key:620778081:54354734" value="Hoffnung wird gestärkt."/>
+<label key="key:620778083:54354734" value="Hoffnung wird gestärkt."/>
+<label key="key:620778085:54354734" value="Hoffnung wird gestärkt."/>
+<label key="key:620778087:54354734" value="Maximale Moral wird erhöht."/>
+<label key="key:620778089:54354734" value="Maximale Moral wird erhöht."/>
+<label key="key:620778091:54354734" value="Maximale Moral wird erhöht."/>
+<label key="key:620778093:54354734" value="Maximale Moral wird erhöht."/>
+<label key="key:620778095:54354734" value="Maximale Kraft wird erhöht."/>
+<label key="key:620778097:54354734" value="Maximale Kraft wird erhöht."/>
+<label key="key:620778099:54354734" value="Maximale Kraft wird erhöht."/>
+<label key="key:620778101:54354734" value="Maximale Kraft wird erhöht."/>
+<label key="key:620778209:54354734" value="Rüstungswirksamkeit wird gesteigert."/>
+<label key="key:620778211:54354734" value="Rüstungswirksamkeit wird gesteigert."/>
+<label key="key:620778213:54354734" value="Rüstungswirksamkeit wird gesteigert."/>
+<label key="key:620778215:54354734" value="Rüstungswirksamkeit wird gesteigert."/>
 <label key="key:620778383:181298206" value="Beschwört einen Kriecher, der aus dem Unhold herausbricht."/>
 <label key="key:620778930:54354734" value="Die Ratte trug abscheuliche Krankheitserreger in sich."/>
 <label key="key:620779038:106251889" value="Angewurzelt"/>
