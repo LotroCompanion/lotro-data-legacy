@@ -38075,7 +38075,7 @@
 <XP quantity="4042"/>
 </rewards>
 </quest>
-<quest id="1879092387" name="Of Mysteries Most Profound -- Introduction" rawName="key:620792945:228870261" category="6" level="49" repeatable="-1" requiredFaction="1879091346;4" requiredProfession="1879054946;4" description="key:620792945:54354734">
+<quest id="1879092387" name="Of Mysteries Most Profound" rawName="key:620792945:228870261" category="6" level="49" repeatable="-1" requiredFaction="1879091346;4" requiredProfession="1879054946;4" description="key:620792945:54354734">
 <bestower npcId="1879092316" npcName="Cachúnir" text="key:620792945:218649169"/>
 <objectives>
 <objective index="1" text="key:620792945:94621393">

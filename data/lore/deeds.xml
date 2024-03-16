@@ -3212,7 +3212,8 @@
 <objectives>
 <objective index="1">
 <monsterDied loreInfo="key:620774389:118018273" progressOverride="key:620774389:22075073" showBillboardText="false" count="120">
-<monsterSelection landId="1879072154" landName="The North Downs" species="70"/>
+<monsterSelection mobDivision="NorthDowns_Keep_Public" species="70"/>
+<monsterSelection mobDivision="NorthDowns_Nan_Amlug_East" species="70"/>
 </monsterDied>
 </objective>
 </objectives>
@@ -3228,7 +3229,8 @@
 </objective>
 <objective index="2">
 <monsterDied loreInfo="key:620774391:118018273" progressOverride="key:620774391:22075073" showBillboardText="false" count="240">
-<monsterSelection landId="1879072154" landName="The North Downs" species="70"/>
+<monsterSelection mobDivision="NorthDowns_Keep_Public" species="70"/>
+<monsterSelection mobDivision="NorthDowns_Nan_Amlug_East" species="70"/>
 </monsterDied>
 </objective>
 </objectives>
@@ -3734,7 +3736,10 @@
 <objectives>
 <objective index="1">
 <monsterDied loreInfo="key:620774443:118018273" progressOverride="key:620774443:22075073" showBillboardText="false" count="150">
-<monsterSelection landId="1879063884" landName="Angmar" species="70"/>
+<monsterSelection mobDivision="EastAngmar_Giant_Hills" species="70"/>
+<monsterSelection mobDivision="EastAngmar_VOD_East" species="70"/>
+<monsterSelection mobDivision="Rift_City" species="70"/>
+<monsterSelection mobDivision="WestAngmar_Sulfur_Swamp_West" species="70"/>
 </monsterDied>
 </objective>
 </objectives>
@@ -3750,7 +3755,10 @@
 </objective>
 <objective index="2">
 <monsterDied loreInfo="key:620774445:118018273" progressOverride="key:620774445:22075073" showBillboardText="false" count="300">
-<monsterSelection landId="1879063884" landName="Angmar" species="70"/>
+<monsterSelection mobDivision="EastAngmar_Giant_Hills" species="70"/>
+<monsterSelection mobDivision="EastAngmar_VOD_East" species="70"/>
+<monsterSelection mobDivision="Rift_City" species="70"/>
+<monsterSelection mobDivision="WestAngmar_Sulfur_Swamp_West" species="70"/>
 </monsterDied>
 </objective>
 </objectives>
