@@ -262,6 +262,7 @@
 <label key="1879060167" value="Réaction de Coup violent ou de Provocation au bouclier"/>
 <label key="1879060181" value="Position de menace du gardien"/>
 <label key="1879060192" value="Défense de gardien"/>
+<label key="1879060237" value="Critical Response"/>
 <label key="1879060238" value="${PLAYERNAME:Bien nourri[m]|Bien nourrie[f]}"/>
 <label key="1879060253" value="Appel aux armes :&#10;Héraut de victoire amélioré"/>
 <label key="1879060280" value="Appel aux armes :&#10;Héraut de victoire"/>
@@ -408,6 +409,7 @@
 <label key="1879064557" value="Cri noble"/>
 <label key="1879064560" value="Conviction héroïque"/>
 <label key="1879064569" value="Conviction légendaire"/>
+<label key="1879064672" value="Immobilité"/>
 <label key="1879067226" value="Verre d'étoile"/>
 <label key="1879067227" value="Don d'espoir[n]"/>
 <label key="1879067229" value="Verre d'étoile"/>
@@ -525,6 +527,7 @@
 <label key="1879073075" value="Attaque incessante"/>
 <label key="1879073076" value="Attaque coordonnée"/>
 <label key="1879073077" value="Dispel Fellow Defeat"/>
+<label key="1879073079" value="Fellow Defeat Response"/>
 <label key="1879073080" value="Cri de vengeance"/>
 <label key="1879073088" value="Exposition au danger"/>
 <label key="1879073090" value="Concentration"/>
@@ -1058,6 +1061,7 @@
 <label key="1879092635" value="Lumière d'Elendil"/>
 <label key="1879092636" value="Dissipation d'endurcissement"/>
 <label key="1879092638" value="Endurci par le combat"/>
+<label key="1879092643" value="Frère de bouclier"/>
 <label key="1879092722" value="Lumière de Dunachar"/>
 <label key="1879092723" value="Présence imposante"/>
 <label key="1879092724" value="Dissipation de présence imposante"/>
@@ -1499,6 +1503,7 @@
 <label key="key:620765203:54354734" value="L'utilisation de Tremblement ou Déferlement a ouvert de nouvelles occasions de combat."/>
 <label key="key:620765240:54354734" value="L'utilisation de Coup violent ou de Provocation au bouclier a ouvert de nouvelles occasions de combat."/>
 <label key="key:620765327:54354734" value="L'utilisation de Double tranchant a ouvert de nouvelles occasions de combat."/>
+<label key="key:620765331:54354734" value="Toutes les compétences basées sur une réaction critique réussie peuvent désormais être utilisées."/>
 <label key="key:620765404:54354734" value="Toutes les compétences basées sur une réaction de défaite de l'ennemi peuvent désormais être utilisées."/>
 <label key="key:620765422:54354734" value="L'utilisation du Cri de bataille a lancé l'état Prêt à la bataille."/>
 <label key="key:620765638:54354734" value="L'utilisation de Balayage au bouclier a ouvert de nouvelles occasions de combat."/>
@@ -1530,6 +1535,8 @@
 <label key="key:620767779:106251889" value="Pour repérer le bois"/>
 <label key="key:620767854:106251889" value="Pour repérer les récoltes"/>
 <label key="key:620768920:54354734" value="Une blessure qui infligera de nouveaux dégâts si on ne la soigne pas."/>
+<label key="key:620768962:106251890" value="Enraciné"/>
+<label key="key:620768962:54354734" value="Plonge la cible dans un certain nombre d'états d'immobilisation : inconscience, étourdissement, enracinement et hébètement"/>
 <label key="key:620770185:106251889" value="Ralentit la vitesse de déplacement de 25%"/>
 <label key="key:620770190:181298206" value="Renverse pendant 4 s"/>
 <label key="key:620770443:181298206" value="Chance de renvoyer une partie des dégâts à l'attaquant."/>
@@ -1557,6 +1564,7 @@
 <label key="key:620774916:54354734" value="Augmente tous les dégâts portés à la cible marquée."/>
 <label key="key:620774926:106251889" value="Moral maximum +5 %"/>
 <label key="key:620774933:54354734" value="Les dégâts infligés à la cible marquée ont des vertus régénératrices pour l'attaquant."/>
+<label key="key:620774937:54354734" value="Toutes les compétences basées sur une défaite d'un membre de la communauté peuvent désormais être utilisées."/>
 <label key="key:620774944:54354734" value="Force la cible à s'agenouiller."/>
 <label key="key:620774953:54354734" value="Votre attaque du héraut vous redonne du Moral."/>
 <label key="key:620774954:54354734" value="Votre attaque du héraut vous redonne du Moral."/>
@@ -1818,6 +1826,7 @@
 <label key="key:620793041:54354734" value="Vos attaques provoquent 25 % de dégâts supplémentaires."/>
 <label key="key:620793045:181298206" value="Votre attaque donne l'opportunité à votre communauté d'invoquer la Lumière d'Elendil."/>
 <label key="key:620793047:54354734" value="Coup dévastateur ou Attaque pressante a déclenché votre état Endurci par le combat."/>
+<label key="key:620793058:54354734" value="Vous êtes un frère de bouclier du capitaine, ce qui lui permet de vous prendre pour cible pour ses aptitudes spéciales."/>
 <label key="key:620793115:54354734" value="La lumière de Dunachar a temporairement affaibli Mordirith."/>
 <label key="key:620793116:54354734" value="Le fait de se trouver dans la salle du trône de Carn Dûm donne à Mordirith un pouvoir important."/>
 <label key="key:620793365:106251889" value="Permet de détecter les artefacts"/>

@@ -245,16 +245,16 @@
 <effect id="1879051311" name="Knockaway"/>
 <induceCombatState id="1879051312" name="Induce Stunned" description="key:620758650:181298206"/>
 <propertyModEffect id="1879051392" name="Snaring Net" appliedDescription="key:620758697:54354734" iconId="1090529649" duration="10.0">
-<stat name="AI_Hints" constant="1.34217728E8"/>
 <specialEffect label="key:620758697:106251889"/>
+<stat name="AI_Hints" constant="1.34217728E8"/>
 </propertyModEffect>
 <vitalOverTimeEffect id="1879051396" name="Serious Wound" iconId="1090529658" duration="2.0" pulseCount="10" stat="Health_MaxLevel" damageType="1">
 <initialChange progressionID="1879050066"/>
 <overTimeChange progressionID="1879050067"/>
 </vitalOverTimeEffect>
 <propertyModEffect id="1879051425" name="Snaring Webs" appliedDescription="key:620758716:54354734" iconId="1090529649" duration="8.0">
-<stat name="AI_Hints" constant="1.34217728E8"/>
 <specialEffect label="key:620758716:106251889"/>
+<stat name="AI_Hints" constant="1.34217728E8"/>
 </propertyModEffect>
 <effect id="1879051427" name="Draining Bite" iconId="1090519170"/>
 <propertyModEffect id="1879051431" name="Susceptibility to Poison" appliedDescription="key:620758728:54354734" iconId="1090522397" duration="15.0" pulseCount="3">
@@ -455,8 +455,8 @@
 <overTimeChange progressionID="1879050067"/>
 </vitalOverTimeEffect>
 <propertyModEffect id="1879054595" name="Grabbed" appliedDescription="key:620761029:54354734" iconId="1090536145" duration="10.0">
-<stat name="AI_Hints" constant="1.34217728E8"/>
 <specialEffect label="key:620761029:106251889"/>
+<stat name="AI_Hints" constant="1.34217728E8"/>
 </propertyModEffect>
 <effect id="1879054945" name="GrantRecipeEffect" appliedDescription="This effect grants a crafting recipe to the target player."/>
 <propertyModEffect id="1879055004" name="Metalworking Lore[E]" iconId="1090642308" duration="60.0">
@@ -673,8 +673,8 @@
 <overTimeChange progressionID="1879058883"/>
 </vitalOverTimeEffect>
 <propertyModEffect id="1879059706" name="Impaled" appliedDescription="key:620764763:54354734" iconId="1090539334">
-<stat name="AI_Hints" constant="1.34217728E8"/>
 <specialEffect label="key:620764763:106251889"/>
+<stat name="AI_Hints" constant="1.34217728E8"/>
 </propertyModEffect>
 <effect id="1879059707" name="Drain Life" iconId="1090519170"/>
 <propertyModEffect id="1879059813" name="Improved Stealth" iconId="1090519170">
@@ -731,6 +731,7 @@
 <stat name="PARRY_PERCENTAGE" scaling="1879060194"/>
 <stat name="BLOCK_PERCENTAGE" scaling="1879060195"/>
 </propertyModEffect>
+<effect id="1879060237" name="Critical Response" appliedDescription="key:620765331:54354734" iconId="1090540968" duration="6.0"/>
 <propertyModEffect id="1879060238" name="Well Fed" iconId="1090640715" duration="1200.0">
 <stat name="AGILITY" scaling="1879060239"/>
 </propertyModEffect>
@@ -1051,6 +1052,9 @@
 <initialChange progressionID="1879064546"/>
 <overTimeChange progressionID="1879064546"/>
 </vitalOverTimeEffect>
+<propertyModEffect id="1879064672" name="Immobilize" appliedDescription="key:620768962:54354734" iconId="1090552381">
+<specialEffect label="key:620768962:106251890"/>
+</propertyModEffect>
 <fellowshipEffect id="1879067226" name="Star Glass" applyToTarget="true" range="20.0">
 <effect id="1879067227" name="Give Hope[e]"/>
 </fellowshipEffect>
@@ -1353,6 +1357,16 @@
 <stat name="ForwardSource_Movement_SpeedMultiplier" operator="SUBSTRACT" descriptionOverride="key:620774799:106251889" constant="50.0"/>
 <stat name="ForwardSource_Combat_CurrentCombo" operator="SET" constant="34.0"/>
 </propertyModEffect>
+<effect id="1879072970" name="Hope FX  10" iconId="1090523647"/>
+<effect id="1879072971" name="Hope FX  9" iconId="1090523647"/>
+<effect id="1879072972" name="Hope FX  8" iconId="1090523647"/>
+<effect id="1879072973" name="Hope FX  7" iconId="1090523647"/>
+<effect id="1879072974" name="Hope FX  6" iconId="1090523647"/>
+<effect id="1879072975" name="Hope FX  5" iconId="1090523647"/>
+<effect id="1879072976" name="Hope FX  4" iconId="1090523647"/>
+<effect id="1879072977" name="Hope FX  3" iconId="1090523647"/>
+<effect id="1879072978" name="Hope FX  2" iconId="1090523647"/>
+<effect id="1879072979" name="Hope FX 1" iconId="1090523647"/>
 <induceCombatState id="1879072994" name="Induce Cowering"/>
 <propertyModEffect id="1879073001" name="Full" iconId="1090640715" duration="30.0">
 <stat name="OCMR" scaling="1879049659"/>
@@ -1423,6 +1437,7 @@
 </attacker>
 </reactiveVitalEffect>
 <effect id="1879073077" name="Dispel Fellow Defeat"/>
+<effect id="1879073079" name="Fellow Defeat Response" appliedDescription="key:620774937:54354734" iconId="1090553785" duration="6.0"/>
 <propertyModEffect id="1879073080" name="Cry of Vengeance" iconId="1090541066" duration="20.0">
 <stat name="MIGHT" scaling="1879073081"/>
 <stat name="AGILITY" scaling="1879073082"/>
@@ -1913,19 +1928,19 @@
 <overTimeChange progressionID="1879058883"/>
 </vitalOverTimeEffect>
 <propertyModEffect id="1879078541" name="Grappled" appliedDescription="key:620779038:54354734" iconId="1090576546">
-<stat name="AI_Hints" constant="1.34217728E8"/>
 <specialEffect label="key:620779038:106251889"/>
+<stat name="AI_Hints" constant="1.34217728E8"/>
 </propertyModEffect>
 <effect id="1879078721" name="Summoned Neeker Broodling" description="key:620779149:181298206"/>
 <effect id="1879079637" name="Smite Player" appliedDescription="Smites a player"/>
 <effect id="1879079859" name="Summon Root" description="key:620779954:181298206"/>
 <propertyModEffect id="1879079961" name="Choking Vines" appliedDescription="key:620779995:54354734" iconId="1090536144" duration="15.0">
-<stat name="AI_Hints" constant="1.34217728E8"/>
 <specialEffect label="key:620779995:106251889"/>
+<stat name="AI_Hints" constant="1.34217728E8"/>
 </propertyModEffect>
 <propertyModEffect id="1879079962" name="Snaring Roots" appliedDescription="key:620779997:54354734" iconId="1090536145" duration="10.0">
-<stat name="AI_Hints" constant="1.34217728E8"/>
 <specialEffect label="key:620779997:106251889"/>
+<stat name="AI_Hints" constant="1.34217728E8"/>
 </propertyModEffect>
 <effect id="1879079963" name="Summon Root" description="key:620779999:181298206"/>
 <propertyModEffect id="1879080113" name="Disregarded" appliedDescription="key:620780078:54354734" iconId="1090586730" duration="10.0"/>
@@ -1933,8 +1948,8 @@
 <effect id="1879080115" name="Impulse Straight Up" appliedDescription="Sends the target straight up."/>
 <effect id="1879080116" name="Knockback"/>
 <propertyModEffect id="1879080117" name="Watery Prison" appliedDescription="key:620780084:54354734" iconId="1090586731" duration="20.0">
-<stat name="AI_Hints" descriptionOverride="-" constant="1.34217728E8"/>
 <specialEffect label="key:620780084:106251889"/>
+<stat name="AI_Hints" descriptionOverride="-" constant="1.34217728E8"/>
 </propertyModEffect>
 <effect id="1879080118" name="Steal from the Dead" iconId="1090519170"/>
 <propertyModEffect id="1879080292" name="Eye Rake" appliedDescription="key:620780184:54354734" iconId="1090588660" duration="60.0">
@@ -2183,8 +2198,8 @@
 <stat name="BLOCK_PERCENTAGE" constant="10.0"/>
 </propertyModEffect>
 <propertyModEffect id="1879085537" name="Crushing Root" appliedDescription="key:620789249:54354734" iconId="1090536145">
-<stat name="AI_Hints" constant="1.34217728E8"/>
 <specialEffect label="key:620789249:106251889"/>
+<stat name="AI_Hints" constant="1.34217728E8"/>
 </propertyModEffect>
 <vitalOverTimeEffect id="1879085538" name="Constricting Root" iconId="1090536144" duration="2.0" stat="Health_MaxLevel" damageType="1">
 <initialChange progressionID="1879052010"/>
@@ -2547,9 +2562,9 @@
 <stat name="PARRY_PERCENTAGE" constant="3.0"/>
 </propertyModEffect>
 <propertyModEffect id="1879088808" name="Root Prison" appliedDescription="key:620790944:54354734" iconId="1090586730" duration="10.0">
-<stat name="AI_Hints" constant="1.34217728E8"/>
 <specialEffect label="key:620790944:106251889"/>
 <specialEffect label="key:620790944:106251890"/>
+<stat name="AI_Hints" constant="1.34217728E8"/>
 </propertyModEffect>
 <propertyModEffect id="1879088963" name="Fire Vulnerability" appliedDescription="key:620791060:54354734" iconId="1090522394" duration="15.0" pulseCount="3">
 <stat name="FIRE_MITIGATION_PERCENTAGE" operator="SUBSTRACT" constant="10.0"/>
@@ -2752,6 +2767,7 @@
 </fellowshipEffect>
 <effect id="1879092636" name="Dispel Battle-hardened"/>
 <effect id="1879092638" name="Battle-hardened" appliedDescription="key:620793047:54354734" iconId="1091232037" duration="10.0"/>
+<effect id="1879092643" name="Shield-brother" appliedDescription="key:620793058:54354734" iconId="1091037683"/>
 <propertyModEffect id="1879092722" name="Light of Dúnachar" appliedDescription="key:620793115:54354734" iconId="1090537016" duration="15.0">
 <stat name="MELEE_DEFENCE_PERCENTAGE" operator="SET" constant="190.0"/>
 <stat name="RANGED_DEFENCE_PERCENTAGE" operator="SET" constant="190.0"/>
@@ -2841,9 +2857,9 @@
 <stat name="PARRY_PERCENTAGE" operator="SUBSTRACT" scaling="1879093772"/>
 </propertyModEffect>
 <propertyModEffect id="1879093787" name="Into the Shadows" iconId="1090648225" duration="15.0">
+<specialEffect label="key:620793788:106251889"/>
 <stat name="STEALTH_LEVEL" descriptionOverride="-" scaling="1879052068"/>
 <stat name="RANGED_DAMAGE_PERCENTAGE" descriptionOverride="-" constant="10.0"/>
-<specialEffect label="key:620793788:106251889"/>
 </propertyModEffect>
 <vitalOverTimeEffect id="1879093796" name="Corrupt Cheese" iconId="1090541681" duration="2.0" pulseCount="600" stat="Health_MaxLevel" damageType="32">
 <initialChange progressionID="1879081263"/>
@@ -2865,8 +2881,8 @@
 <effect id="1879093829" name="Summoned Spectral Warrior"/>
 <effect id="1879093830" name="Summoned Spectral Warrior"/>
 <propertyModEffect id="1879093858" name="Grasping Shade" appliedDescription="key:620793852:54354734" iconId="1090623592" duration="15.0">
-<stat name="AI_Hints" descriptionOverride="-" constant="1.34217728E8"/>
 <specialEffect label="key:620793852:106251889"/>
+<stat name="AI_Hints" descriptionOverride="-" constant="1.34217728E8"/>
 </propertyModEffect>
 <propertyModEffect id="1879093859" name="Harrying Shade" appliedDescription="key:620793853:54354734" iconId="1090538246" duration="10.0" pulseCount="3">
 <stat name="Combat_BaseMissRate" constant="50.0"/>

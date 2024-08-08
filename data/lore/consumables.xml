@@ -485,9 +485,9 @@
 <stat name="OCPR" constant="2673.0"/>
 </consumable>
 <consumable identifier="1879074276" name="Gwatham">
+<specialEffect label="key:620793788:106251889"/>
 <stat name="STEALTH_LEVEL" descriptionOverride="-" constant="2.0"/>
 <stat name="RANGED_DAMAGE_PERCENTAGE" descriptionOverride="-" constant="10.0"/>
-<specialEffect label="key:620793788:106251889"/>
 </consumable>
 <consumable identifier="1879075434" name="Flaming Pinecone">
 <stat name="ForwardSource_Movement_SpeedMultiplier" operator="SUBSTRACT" descriptionOverride="key:620759301:106251889" constant="30.0"/>

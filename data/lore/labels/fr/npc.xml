@@ -1998,7 +1998,7 @@
 <label key="key:620768390:229802005" value="Clerc de confréries"/>
 <label key="key:620768393:229802005" value="Approvisionneuse"/>
 <label key="key:620768399:229802005" value="Fournisseur"/>
-<label key="key:620768413:229802005" value="${PLAYERNAME:Arctier[m]|Arctière"/>
+<label key="key:620768413:229802005" value="${PLAYERNAME:Arctier[m]|Arctière[f]}"/>
 <label key="key:620768431:229802005" value="Vendeur"/>
 <label key="key:620768445:229802005" value="Fournisseur"/>
 <label key="key:620768450:229802005" value="Approvisionneur"/>
@@ -2007,7 +2007,7 @@
 <label key="key:620768453:229802005" value="Guérisseur"/>
 <label key="key:620768496:229802005" value="Guérisseur"/>
 <label key="key:620768552:229802005" value="Fournisseur"/>
-<label key="key:620768563:229802005" value="${PLAYERNAME:Approvisionneur[m,v]|Approvisionneuse"/>
+<label key="key:620768563:229802005" value="${PLAYERNAME:Approvisionneur[m,v]|Approvisionneuse[f,v]}"/>
 <label key="key:620768574:229802005" value="Approvisionneur"/>
 <label key="key:620768586:229802005" value="Fournisseur"/>
 <label key="key:620768590:229802005" value="Clerc de confréries"/>
@@ -2072,7 +2072,7 @@
 <label key="key:620781835:229802005" value="Entraîneur de joueurs monstres"/>
 <label key="key:620781836:229802005" value="Corrupteur de Dâr-gazag"/>
 <label key="key:620781843:229802005" value="Maître-fouet Ongbûrz"/>
-<label key="key:620781889:229802005" value="${PLAYERNAME:Corrupteur[m]|Corruptrice"/>
+<label key="key:620781889:229802005" value="${PLAYERNAME:Corrupteur[m]|Corruptrice[f]} du Pied de Gram"/>
 <label key="key:620781890:229802005" value="Entraîneur de joueurs monstres"/>
 <label key="key:620782134:229802005" value="Maître des écuries"/>
 <label key="key:620782267:229802005" value="Gardien des coffres"/>

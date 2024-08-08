@@ -262,6 +262,7 @@
 <label key="1879060167" value="Bash or Shield Taunt Response"/>
 <label key="1879060181" value="Guardian's Threat Stance"/>
 <label key="1879060192" value="Guardian's Ward"/>
+<label key="1879060237" value="Critical Response"/>
 <label key="1879060238" value="Well Fed"/>
 <label key="1879060253" value="Call to Arms: Improved Herald of Victory"/>
 <label key="1879060280" value="Call to Arms: Herald of Victory"/>
@@ -408,6 +409,7 @@
 <label key="1879064557" value="Noble Cry"/>
 <label key="1879064560" value="Heroic Conviction"/>
 <label key="1879064569" value="Legendary Conviction"/>
+<label key="1879064672" value="Immobilize"/>
 <label key="1879067226" value="Star Glass"/>
 <label key="1879067227" value="Give Hope[e]"/>
 <label key="1879067229" value="Star Glass"/>
@@ -525,6 +527,7 @@
 <label key="1879073075" value="Relentless Attack"/>
 <label key="1879073076" value="Coordinate Attack"/>
 <label key="1879073077" value="Dispel Fellow Defeat"/>
+<label key="1879073079" value="Fellow Defeat Response"/>
 <label key="1879073080" value="Cry of Vengeance"/>
 <label key="1879073088" value="In Harm's Way"/>
 <label key="1879073090" value="Focus"/>
@@ -1058,6 +1061,7 @@
 <label key="1879092635" value="Light of Elendil"/>
 <label key="1879092636" value="Dispel Battle-hardened"/>
 <label key="1879092638" value="Battle-hardened"/>
+<label key="1879092643" value="Shield-brother"/>
 <label key="1879092722" value="Light of Dúnachar"/>
 <label key="1879092723" value="Imposing Presence"/>
 <label key="1879092724" value="Dispel Imposing Presence"/>
@@ -1499,6 +1503,7 @@
 <label key="key:620765203:54354734" value="Shiv or Overwhelm's use have opened new combat opportunities."/>
 <label key="key:620765240:54354734" value="Bash or Shield Taunt's use have opened new combat opportunities."/>
 <label key="key:620765327:54354734" value="Double Edged's use has opened new combat opportunities."/>
+<label key="key:620765331:54354734" value="Any Skills that are based on a successful critical response may now be played."/>
 <label key="key:620765404:54354734" value="Any Skills that are based on a successful enemy defeat response may now be played."/>
 <label key="key:620765422:54354734" value="Battle Cry's use has initiated the Battle-readied State."/>
 <label key="key:620765638:54354734" value="Shield Swipe's use has opened new combat opportunities."/>
@@ -1530,6 +1535,8 @@
 <label key="key:620767779:106251889" value="Wood Tracking"/>
 <label key="key:620767854:106251889" value="Crop Tracking"/>
 <label key="key:620768920:54354734" value="A wound which will lead to further injury if not treated."/>
+<label key="key:620768962:106251890" value="Rooted"/>
+<label key="key:620768962:54354734" value="Immobilizes the target for a number of combat states (Knocked Down, Stunned, Rooted, and Dazed)."/>
 <label key="key:620770185:106251889" value="Slows movement speed by 25%"/>
 <label key="key:620770190:181298206" value="Knocks down for 4s"/>
 <label key="key:620770443:181298206" value="Chance of reflecting a portion of damage back to the attacker."/>
@@ -1557,6 +1564,7 @@
 <label key="key:620774916:54354734" value="Increases all damage done to this Marked target."/>
 <label key="key:620774926:106251889" value="+5% Maximum Morale"/>
 <label key="key:620774933:54354734" value="Damage dealt to the marked target has a restoring effect on the attacker."/>
+<label key="key:620774937:54354734" value="Any Skills that are based on a fellowship member being defeated may now be played."/>
 <label key="key:620774944:54354734" value="Causes the target to kneel."/>
 <label key="key:620774953:54354734" value="Your Herald Strike attacks give you back morale."/>
 <label key="key:620774954:54354734" value="Your Herald Strike attacks give you back morale."/>
@@ -1818,6 +1826,7 @@
 <label key="key:620793041:54354734" value="Your attacks deal 25% more damage."/>
 <label key="key:620793045:181298206" value="Your attack applies a buff to your fellowship that has a chance of invoking the Light of Elendil."/>
 <label key="key:620793047:54354734" value="Devasting Blow or Pressing Attack has initiated your Battle-hardened State."/>
+<label key="key:620793058:54354734" value="You are a Captain's Shield-brother, allowing them to target you with specific abilities."/>
 <label key="key:620793115:54354734" value="The Light of Dúnachar has temporarily weakened Mordirith."/>
 <label key="key:620793116:54354734" value="Merely standing in the Throne-room of Carn Dûm gives Mordirith great power."/>
 <label key="key:620793365:106251889" value="Artifact Tracking"/>

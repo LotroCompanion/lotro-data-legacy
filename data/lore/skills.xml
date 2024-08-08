@@ -264,18 +264,24 @@
 <effect id="1879052009" name="Deep Wound"/>
 </skill>
 <skill identifier="1879052125" name="Flashing Blades" category="49" iconId="1090531736" description="key:620759186:228830419">
+<requiredTrait id="1879052124" name="Flashing Blades"/>
+<requiredEffect id="1879052129" name="Double Edged"/>
 <effect id="1879052126" name="Dispel Double Edged." type="USER"/>
 <effect id="1879052127" name="Dispel Aim." type="USER"/>
 </skill>
 <skill identifier="1879052160" name="Exposed Throat" category="49" iconId="1090531743" description="key:620759211:228830419">
+<requiredTrait id="1879052159" name="Exposed Throat"/>
+<requiredEffect id="1879052129" name="Double Edged"/>
 <effect id="1879052163" name="Induce Fellowship Manoeuvre Stunned"/>
 <effect id="1879052126" name="Dispel Double Edged." type="USER"/>
 <effect id="1879052127" name="Dispel Aim." type="USER"/>
 </skill>
 <skill identifier="1879052199" name="Ents go to War" category="41" iconId="1090531750" description="key:620759243:228830419">
+<requiredTrait id="1879052198" name="March of the Ents"/>
 <effect id="1879052204" name="Induce Stunned"/>
 </skill>
 <skill identifier="1879052210" name="Eagle-Friend" category="1" iconId="1090531754" description="key:620759256:228830419">
+<requiredTrait id="1879052209" name="Eagle-friend"/>
 <effect id="1879052213" name="Lesser Giant Eagle"/>
 </skill>
 <skill identifier="1879052284" name="Melee Fast Common Med" iconId="1090531779" description="key:620759291:228830419"/>
@@ -296,13 +302,16 @@
 <effect id="1879052436" name="Create Bear Trap"/>
 </skill>
 <skill identifier="1879052499" name="Bard's Arrow" category="34" iconId="1090532133" description="key:620759411:228830419">
+<requiredTrait id="1879052498" name="Bard's Arrow"/>
 <effect id="1879085385" name="Induce Feared"/>
 </skill>
 <skill identifier="1879052517" name="Press Onward" category="18" iconId="1090532135" description="key:620759426:228830419">
+<requiredTrait id="1879052516" name="Press Onward"/>
 <effect id="1879052519" name="On the Move Morale Heal"/>
 <effect id="1879052520" name="On the Move Power Heal" spellcraft="1.0"/>
 </skill>
 <skill identifier="1879052532" name="Rain of Thorns" category="28" iconId="1090532137" description="key:620759440:228830419">
+<requiredTrait id="1879052531" name="Rain of Thorns"/>
 <effect id="1879052535" name="Rain of Thorns Root"/>
 </skill>
 <skill identifier="1879052653" name="Shadow Grip" iconId="1090522259">
@@ -361,12 +370,16 @@
 <skill identifier="1879052860" name="Ranged Splash" iconId="1090522259"/>
 <skill identifier="1879052861" name="Induction Ranged Double" iconId="1090522259"/>
 <skill identifier="1879052881" name="Rally!" category="23" iconId="1090532784" description="key:620759617:228830419">
+<requiredTrait id="1879052880" name="Rally!"/>
 <effect id="1879052883" name="Eldar's Grace"/>
 </skill>
 <skill identifier="1879052895" name="Song of the Hopeful Heart" category="40" iconId="1090532786" description="key:620759630:228830419">
+<requiredTrait id="1879052894" name="Song of the Hopeful Heart"/>
 <effect id="1879052899" name="Area of Hope"/>
 </skill>
 <skill identifier="1879052912" name="Anthem of the Wizards" category="52" iconId="1090532788" description="key:620759643:228830419">
+<requiredTrait id="1879052911" name="Anthem of the Wizards"/>
+<requiredEffect id="1879052915" name="Ballad Tier 3"/>
 <effect id="1879052917" name="Anthem of the Wizards: Slowed"/>
 <effect id="1879052913" name="Dispel Serenade" type="USER"/>
 </skill>
@@ -377,16 +390,20 @@
 <effect id="1879052986" name="Entangled"/>
 </skill>
 <skill identifier="1879053027" name="Escape from Corruption" category="25" iconId="1090533150" description="key:620759751:228830419">
+<requiredTrait id="1879053026" name="Defy Corruption"/>
 <effect id="1879053030" name="Escape From Corruption" spellcraft="37.0"/>
 <effect id="1879053031" name="Proof Against Corruption"/>
 </skill>
 <skill identifier="1879053049" name="Shield of the Dúnedain" category="25" iconId="1090533153" description="key:620759766:228830419">
+<requiredTrait id="1879053048" name="Shield of the Dúnedain"/>
 <effect id="1879053050" name="Shield of the Dunedain"/>
 </skill>
 <skill identifier="1879053062" name="Oathbreaker's Shame" category="51" iconId="1090533155" description="key:620759779:228830419">
+<requiredTrait id="1879053061" name="Oathbreaker's Shame"/>
 <effect id="1879053063" name="Oathbreaker Mark"/>
 </skill>
 <skill identifier="1879053069" name="In Defence of Middle-earth" category="14" iconId="1090533157" description="key:620759792:228830419">
+<requiredTrait id="1879053068" name="In Defence of Middle-earth"/>
 <effect id="1879053032" name="In Defence of Middle-Earth"/>
 </skill>
 <skill identifier="1879053108" name="Bleeding Axe" iconId="1090522259">
@@ -607,18 +624,26 @@
 <effect id="1879049538" name="Diseased Frailty"/>
 <effect id="1879059058" name="Knockback"/>
 </skill>
-<skill identifier="1879059853" name="Ferocious Strikes" category="38" iconId="1090539697" description="key:620764879:228830419"/>
-<skill identifier="1879059855" name="Ferocious Strikes" category="38" iconId="1090539697" description="key:620764880:228830419"/>
+<skill identifier="1879059853" name="Ferocious Strikes" category="38" iconId="1090539697" description="key:620764879:228830419">
+<requiredTrait id="1879059852" name="Ferocious Strikes"/>
+</skill>
+<skill identifier="1879059855" name="Ferocious Strikes" category="38" iconId="1090539697" description="key:620764880:228830419">
+<requiredTrait id="1879059852" name="Ferocious Strikes"/>
+</skill>
 <skill identifier="1879059869" name="Fight On" category="36" iconId="1090539699" description="key:620764891:228830419">
+<requiredTrait id="1879059868" name="Fight On!"/>
 <effect id="1879059870" name="Fight on"/>
 </skill>
 <skill identifier="1879059881" name="Raging Blade" category="33" iconId="1090539701" description="key:620764903:228830419">
+<requiredTrait id="1879059880" name="Explosion of Blades"/>
 <effect id="1879059882" name="Dispel Fighting Dirty" type="USER"/>
 </skill>
 <skill identifier="1879059884" name="Raging Blade" category="33" iconId="1090539701" description="key:620764905:228830419">
+<requiredTrait id="1879059880" name="Explosion of Blades"/>
 <effect id="1879059882" name="Dispel Fighting Dirty" type="USER"/>
 </skill>
 <skill identifier="1879059893" name="Controlled Burn" category="24" iconId="1090539703" description="key:620764915:228830419">
+<requiredTrait id="1879059892" name="Controlled Burn"/>
 <effect id="1879059894" name="Controlled Burn" type="TOGGLE"/>
 <effect id="1879059894" name="Controlled Burn" type="USER_TOGGLE"/>
 </skill>
@@ -656,6 +681,8 @@
 <effect id="1879056878" name="Call to Minions"/>
 </skill>
 <skill identifier="1879060133" name="To the King" category="17" iconId="1090540523" description="key:620765187:228830419">
+<requiredTrait id="1879060132" name="To the King"/>
+<requiredEffect id="1879060137" name="Shiv or Overwhelm Response"/>
 <effect id="1879060134" name="Dispel Shield Taunt or Bash" type="USER"/>
 <effect id="1879060135" name="To the King!" type="USER"/>
 </skill>
@@ -664,14 +691,18 @@
 <effect id="1879050245" name="Induce Knockeddown"/>
 </skill>
 <skill identifier="1879060164" name="Shield-smash" category="46" iconId="1090540658" description="key:620765207:228830419">
+<requiredTrait id="1879060163" name="Shield-smash"/>
+<requiredEffect id="1879060167" name="Bash or Shield Taunt Response"/>
 <effect id="1879051312" name="Induce Stunned"/>
 <effect id="1879060165" name="Dispel Shield Taunt or Bash" type="USER"/>
 </skill>
 <skill identifier="1879060180" name="Guardian's Threat" category="22" iconId="1090540660" description="key:620765219:228830419">
+<requiredTrait id="1879060179" name="Guardian's Threat"/>
 <effect id="1879060181" name="Guardian's Threat Stance" type="TOGGLE"/>
 <effect id="1879060181" name="Guardian's Threat Stance" type="USER_TOGGLE"/>
 </skill>
 <skill identifier="1879060191" name="Challenge the Darkness" category="22" iconId="1090540662" description="key:620765231:228830419">
+<requiredTrait id="1879060190" name="Challenge the Darkness"/>
 <effect id="1879049427" name="Force Attack" duration="10.0"/>
 <effect id="1879060192" name="Guardian's Ward" type="USER"/>
 </skill>
@@ -701,14 +732,17 @@
 <effect id="1879060301" name="Escape From Darkness" spellcraft="37.0"/>
 </skill>
 <skill identifier="1879060303" name="Rallying Cry" category="51" iconId="1090541065" description="key:620765402:228830419">
+<requiredEffect id="1879060310" name="Enemy Defeat Response"/>
 <effect id="1879060296" name="Cry of Victory: Morale"/>
 <effect id="1879060308" name="Dispel Enemy Defeat" type="USER"/>
 </skill>
 <skill identifier="1879060312" name="War-cry" category="51" iconId="1090541071" description="key:620765409:228830419">
+<requiredEffect id="1879060310" name="Enemy Defeat Response"/>
 <effect id="1879060318" name="War-cry"/>
 <effect id="1879060308" name="Dispel Enemy Defeat" type="USER"/>
 </skill>
 <skill identifier="1879060321" name="Routing Cry" category="51" iconId="1090541073" description="key:620765414:228830419">
+<requiredEffect id="1879060310" name="Enemy Defeat Response"/>
 <effect id="1879060308" name="Dispel Enemy Defeat" type="USER"/>
 </skill>
 <skill identifier="1879060327" name="Battle-shout" category="47" iconId="1090541075" description="key:620765417:228830419">
@@ -750,6 +784,7 @@
 <effect id="1879060422" name="Call to Arms: Herald of Hope"/>
 </skill>
 <skill identifier="1879060431" name="Devastating Blow" category="47" iconId="1090541118" description="key:620765508:228830419">
+<requiredEffect id="1879060330" name="Battle-readied"/>
 <effect id="1879060433" name="Dispel Readied." type="USER"/>
 <effect id="1879092638" name="Battle-hardened" type="USER"/>
 </skill>
@@ -762,6 +797,7 @@
 </skill>
 <skill identifier="1879060568" name="Sting" category="3" iconId="1090541160" description="key:620765633:228830419"/>
 <skill identifier="1879060573" name="Shield-swipe" category="46" iconId="1090541162" description="key:620765636:228830419">
+<requiredEffect id="1879049269" name="Block Response"/>
 <effect id="1879060575" name="Dispel Block" type="USER"/>
 <effect id="1879060576" name="Shield Swipe" type="USER"/>
 </skill>
@@ -770,6 +806,7 @@
 </skill>
 <skill identifier="1879060591" name="Shield-blow" category="22" iconId="1090541166" description="key:620765646:228830419"/>
 <skill identifier="1879060605" name="Catch a Breath" category="46" iconId="1090541168" description="key:620765661:228830419">
+<requiredEffect id="1879049269" name="Block Response"/>
 <effect id="1879060614" name="Catch a Breath Morale Heal"/>
 <effect id="1879060612" name="Dispel Evade" type="USER"/>
 </skill>
@@ -871,13 +908,16 @@
 <effect id="1879060847" name="Lend Power"/>
 </skill>
 <skill identifier="1879060863" name="Ballad of War" category="53" iconId="1090541230" description="key:620765875:228830419">
+<requiredEffect id="1879052919" name="Ballad Tier 2"/>
 <effect id="1879060866" name="Ballad of War"/>
 <effect id="1879052915" name="Ballad Tier 3" type="USER"/>
 </skill>
 <skill identifier="1879060868" name="Anthem of the Valar" category="52" iconId="1090541232" description="key:620765879:228830419">
+<requiredEffect id="1879052915" name="Ballad Tier 3"/>
 <effect id="1879052913" name="Dispel Serenade" type="USER"/>
 </skill>
 <skill identifier="1879060871" name="Anthem of the Valar" category="52" iconId="1090541232" description="key:620765880:228830419">
+<requiredEffect id="1879052915" name="Ballad Tier 3"/>
 <effect id="1879089200" name="Anthem of the Valar: Healing" type="USER"/>
 <effect id="1879052913" name="Dispel Serenade" type="USER"/>
 </skill>
@@ -965,14 +1005,17 @@
 <skill identifier="1879062572" name="Surprise Attack" iconId="1090522259"/>
 <skill identifier="1879062573" name="Melee Common High" iconId="1090522259"/>
 <skill identifier="1879062867" name="Track Mines" category="57" iconId="1090543115" description="key:620767743:228830419">
+<requiredTrait id="1879062819" name="Track Mines"/>
 <effect id="1879062868" name="Track Mines" type="TOGGLE"/>
 <effect id="1879062868" name="Track Mines" type="USER_TOGGLE"/>
 </skill>
 <skill identifier="1879062906" name="Track Wood" category="57" iconId="1090543117" description="key:620767778:228830419">
+<requiredTrait id="1879062870" name="Track Wood"/>
 <effect id="1879062907" name="Track Wood" type="TOGGLE"/>
 <effect id="1879062907" name="Track Wood" type="USER_TOGGLE"/>
 </skill>
 <skill identifier="1879063043" name="Track Crops" category="57" iconId="1091388642" description="key:620767853:228830419">
+<requiredTrait id="1879062909" name="Track Crops"/>
 <effect id="1879063044" name="Track Crops" type="TOGGLE"/>
 <effect id="1879063044" name="Track Crops" type="USER_TOGGLE"/>
 </skill>
@@ -1061,6 +1104,7 @@
 <effect id="1879093703" name="Marked" type="USER_TOGGLE"/>
 </skill>
 <skill identifier="1879064144" name="Pressing Attack" category="47" iconId="1090553778" description="key:620774921:228830419">
+<requiredEffect id="1879060330" name="Battle-readied"/>
 <effect id="1879060433" name="Dispel Readied." type="USER"/>
 <effect id="1879092638" name="Battle-hardened" type="USER"/>
 </skill>
@@ -1086,6 +1130,7 @@
 <effect id="1879093703" name="Marked" type="USER_TOGGLE"/>
 </skill>
 <skill identifier="1879064151" name="Cry of Vengeance" category="51" iconId="1090541066" description="key:620774934:228830419">
+<requiredEffect id="1879073079" name="Fellow Defeat Response"/>
 <effect id="1879093942" name="Cry of Vengeance"/>
 <effect id="1879073077" name="Dispel Fellow Defeat" type="USER"/>
 <effect id="1879093944" name="Cry of Vengeance" type="USER"/>
@@ -1115,10 +1160,12 @@
 <effect id="1879052918" name="Ballad Tier 1" type="USER"/>
 </skill>
 <skill identifier="1879064191" name="Ballad of Swiftness" category="53" iconId="1090553797" description="key:620774972:228830419">
+<requiredEffect id="1879052918" name="Ballad Tier 1"/>
 <effect id="1879073120" name="Ballad of Swiftness" type="USER"/>
 <effect id="1879052919" name="Ballad Tier 2" type="USER"/>
 </skill>
 <skill identifier="1879064192" name="Ballad of Unshakeable Will" category="53" iconId="1090553798" description="key:620774974:228830419">
+<requiredEffect id="1879052919" name="Ballad Tier 2"/>
 <effect id="1879073122" name="Ballad of Unshakeable Will"/>
 <effect id="1879052915" name="Ballad Tier 3" type="USER"/>
 </skill>
@@ -1130,6 +1177,7 @@
 <effect id="1879085385" name="Induce Feared"/>
 </skill>
 <skill identifier="1879064195" name="Ballad of Balance" category="53" iconId="1090553800" description="key:620774981:228830419">
+<requiredEffect id="1879052918" name="Ballad Tier 1"/>
 <effect id="1879073133" name="Ballad of Balance" type="USER"/>
 <effect id="1879052919" name="Ballad Tier 2" type="USER"/>
 </skill>
@@ -1148,6 +1196,7 @@
 <effect id="1879060957" name="Induce Dazed"/>
 </skill>
 <skill identifier="1879064200" name="Anthem of the Free Peoples" category="52" iconId="1090553809" description="key:620775000:228830419">
+<requiredEffect id="1879052915" name="Ballad Tier 3"/>
 <effect id="1879060873" name="Anthem of the Free People"/>
 <effect id="1879085848" name="Anthem of the Free Peoples Threat" type="USER"/>
 <effect id="1879052913" name="Dispel Serenade" type="USER"/>
@@ -1157,6 +1206,7 @@
 <effect id="1879094874" name="Tale of Heroism" type="USER_TOGGLE"/>
 </skill>
 <skill identifier="1879064202" name="Anthem of Compassion" category="52" iconId="1090553811" description="key:620775005:228830419">
+<requiredEffect id="1879052915" name="Ballad Tier 3"/>
 <effect id="1879073157" name="Anthem of Compassion" type="USER"/>
 <effect id="1879052913" name="Dispel Serenade" type="USER"/>
 </skill>
@@ -1167,6 +1217,7 @@
 <effect id="1879073162" name="Triumphant Spirit"/>
 </skill>
 <skill identifier="1879064205" name="Ballad of Flame" category="53" iconId="1090553815" description="key:620775010:228830419">
+<requiredEffect id="1879052919" name="Ballad Tier 2"/>
 <effect id="1879073164" name="Ballad of Flame"/>
 <effect id="1879052915" name="Ballad Tier 3" type="USER"/>
 </skill>
@@ -1176,6 +1227,7 @@
 <effect id="1879073167" name="Song of Distraction" type="USER_TOGGLE"/>
 </skill>
 <skill identifier="1879064207" name="Ballad of the Stout" category="53" iconId="1090553817" description="key:620775015:228830419">
+<requiredEffect id="1879052918" name="Ballad Tier 1"/>
 <effect id="1879073168" name="Ballad of the Stout" type="USER"/>
 <effect id="1879052919" name="Ballad Tier 2" type="USER"/>
 </skill>
@@ -1242,15 +1294,18 @@
 <effect id="1879073261" name="Guardian's Block Stance" type="USER_TOGGLE"/>
 </skill>
 <skill identifier="1879064288" name="Retaliation" category="17" iconId="1090553896" description="key:620775097:228830419">
+<requiredEffect id="1879049270" name="Parry Response"/>
 <effect id="1879073263" name="Dispel Parry" type="USER"/>
 <effect id="1879073264" name="Retaliation" type="USER"/>
 </skill>
 <skill identifier="1879064289" name="Bash" category="46" iconId="1090553898" description="key:620775100:228830419">
+<requiredEffect id="1879060576" name="Shield Swipe"/>
 <effect id="1879051312" name="Induce Stunned"/>
 <effect id="1879073267" name="Dispel Shield Swipe" type="USER"/>
 <effect id="1879060167" name="Bash or Shield Taunt Response" type="USER"/>
 </skill>
 <skill identifier="1879064290" name="Overwhelm" category="17" iconId="1090553899" description="key:620775102:228830419">
+<requiredEffect id="1879073264" name="Retaliation"/>
 <effect id="1879073271" name="Dispel Retaliate" type="USER"/>
 <effect id="1879060137" name="Shiv or Overwhelm Response" type="USER"/>
 </skill>
@@ -1259,14 +1314,17 @@
 <effect id="1879073273" name="Guardian's Parry Stance" type="USER_TOGGLE"/>
 </skill>
 <skill identifier="1879064292" name="Whirling Retaliation" category="17" iconId="1090553902" description="key:620775106:228830419">
+<requiredEffect id="1879073264" name="Retaliation"/>
 <effect id="1879073271" name="Dispel Retaliate" type="USER"/>
 </skill>
 <skill identifier="1879064293" name="Thrust" category="17" iconId="1090553903" description="key:620775107:228830419">
+<requiredEffect id="1879073264" name="Retaliation"/>
 <effect id="1879073276" name="Deep Wound"/>
 <effect id="1879073271" name="Dispel Retaliate" type="USER"/>
 <effect id="1879060137" name="Shiv or Overwhelm Response" type="USER"/>
 </skill>
 <skill identifier="1879064294" name="Shield-taunt" category="46" iconId="1090553905" description="key:620775109:228830419">
+<requiredEffect id="1879060576" name="Shield Swipe"/>
 <effect id="1879085070" name="Taunt"/>
 <effect id="1879073267" name="Dispel Shield Swipe" type="USER"/>
 <effect id="1879060167" name="Bash or Shield Taunt Response" type="USER"/>
@@ -1275,6 +1333,7 @@
 <effect id="1879054551" name="Interrupt Induction"/>
 </skill>
 <skill identifier="1879064296" name="Turn the Tables" category="13" iconId="1090553907" description="key:620775111:228830419">
+<requiredEffect id="1879064672" name="Immobilize"/>
 <effect id="1879057760" name="Induce Knockeddown"/>
 <effect id="1879085988" name="Exit All Harmful States Except Dread" type="USER"/>
 </skill>
@@ -1295,11 +1354,13 @@
 <effect id="1879052127" name="Dispel Aim." type="USER"/>
 </skill>
 <skill identifier="1879064331" name="Burglar's Advantage" category="49" iconId="1090553912" description="key:620775125:228830419">
+<requiredEffect id="1879060237" name="Critical Response"/>
 <effect id="1879073303" name="Dispel Critical" type="USER"/>
 <effect id="1879073304" name="Exploit Weakness" type="USER"/>
 <effect id="1879052127" name="Dispel Aim." type="USER"/>
 </skill>
 <skill identifier="1879064332" name="Double-edged Strike" category="49" iconId="1090553914" description="key:620775128:228830419">
+<requiredEffect id="1879073304" name="Exploit Weakness"/>
 <effect id="1879073307" name="Dispel Burglar's Advantage." type="USER"/>
 <effect id="1879052129" name="Double Edged" type="USER"/>
 <effect id="1879052127" name="Dispel Aim." type="USER"/>
@@ -1362,6 +1423,7 @@
 </skill>
 <skill identifier="1879064379" name="Blindside" category="30" iconId="1090553942" description="key:620775189:228830419"/>
 <skill identifier="1879064380" name="Agile Rejoinder" category="30" iconId="1090553943" description="key:620775190:228830419">
+<requiredEffect id="1879049270" name="Parry Response"/>
 <effect id="1879073263" name="Dispel Parry" type="USER"/>
 </skill>
 <skill identifier="1879064381" name="Find the Path" category="48" iconId="1090553944" description="key:620775192:228830419">
@@ -1604,6 +1666,7 @@
 <effect id="1879059058" name="Knockback"/>
 </skill>
 <skill identifier="1879072525" name="Resilience" category="11" iconId="1090553265" description="key:620774676:228830419">
+<requiredTrait id="1879072432" name="Advanced Skill: Resilience"/>
 <effect id="1879072527" name="Exit All Harmful States"/>
 </skill>
 <skill identifier="1879072528" name="Disarm" category="42" iconId="1090553266" description="key:620774679:228830419">
@@ -1613,6 +1676,7 @@
 <effect id="1879072532" name="Hamstrung"/>
 </skill>
 <skill identifier="1879072533" name="Clinging Webs" category="42" iconId="1090553282" description="key:620774697:228830419">
+<requiredTrait id="1879072448" name="Advanced Skill: Clinging Webs"/>
 <effect id="1879072535" name="Webbed"/>
 </skill>
 <skill identifier="1879072536" name="Lie In Wait" category="11" iconId="1090553283" description="key:620774700:228830419">
@@ -1622,6 +1686,7 @@
 <effect id="1879072540" name="Burrowed Stealth" type="USER_TOGGLE"/>
 </skill>
 <skill identifier="1879072543" name="Set Trap" category="11" iconId="1090553298" description="key:620774720:228830419">
+<requiredTrait id="1879072464" name="Advanced Skill: Set Trap"/>
 <effect id="1879060677" name="Create Trap"/>
 </skill>
 <skill identifier="1879072545" name="Death Blossom" category="15" iconId="1090553299" description="key:620774722:228830419"/>
@@ -1629,6 +1694,7 @@
 <effect id="1879050065" name="Burning"/>
 </skill>
 <skill identifier="1879072549" name="Snap Out of It!" category="7" iconId="1090553314" description="key:620774739:228830419">
+<requiredTrait id="1879072480" name="Advanced Skill: Snap Out of It!"/>
 <effect id="1879072527" name="Exit All Harmful States"/>
 </skill>
 <skill identifier="1879072550" name="Mobilize" category="7" iconId="1090553315" description="key:620774741:228830419">
@@ -1639,6 +1705,8 @@
 <effect id="1879050134" name="Healing"/>
 </skill>
 <skill identifier="1879072557" name="Rallying Howl" category="7" iconId="1090553329" description="key:620774760:228830419">
+<requiredTrait id="1879072496" name="Advanced Skill: Rallying Howl"/>
+<requiredEffect id="1879060310" name="Enemy Defeat Response"/>
 <effect id="1879059591" name="Renewal"/>
 <effect id="1879060308" name="Dispel Enemy Defeat" type="USER"/>
 </skill>
@@ -1673,6 +1741,7 @@
 </skill>
 <skill identifier="1879073116" name="Piercing Cry" category="39" iconId="1090553795" description="key:620774969:228830419"/>
 <skill identifier="1879073131" name="Song of Balance" category="40" iconId="1090553800" description="key:620774982:228830419">
+<requiredEffect id="1879052918" name="Ballad Tier 1"/>
 <effect id="1879073133" name="Ballad of Balance" duration="30.0"/>
 <effect id="1879052919" name="Ballad Tier 2" type="USER"/>
 </skill>
@@ -1754,58 +1823,79 @@
 <effect id="1879073395" name="Flensing Slash/Barbed Arrow Combo"/>
 </skill>
 <skill identifier="1879073402" name="Agile Rejoinder" category="30" iconId="1090553943" description="key:620775191:228830419">
+<requiredEffect id="1879049270" name="Parry Response"/>
 <effect id="1879073263" name="Dispel Parry" type="USER"/>
 </skill>
 <skill identifier="1879073437" name="Stance: Endurance" category="34" iconId="1090553960" description="key:620775233:228830419">
 <effect id="1879073439" name="Stance: Endurance" type="TOGGLE"/>
 <effect id="1879073439" name="Stance: Endurance" type="USER_TOGGLE"/>
 </skill>
-<skill identifier="1879073470" name="Throw Stone" category="56" iconId="1090553966" description="key:620775240:228830419"/>
+<skill identifier="1879073470" name="Throw Stone" category="56" iconId="1090553966" description="key:620775240:228830419">
+<requiredTrait id="1879073469" name="Stoop for a Stone"/>
+</skill>
 <skill identifier="1879073480" name="Return to the Shire" category="56" iconId="1090553971" description="key:620775249:228830419">
+<requiredTrait id="1879073479" name="Return to Michel Delving"/>
 <effect id="1879073482" name="Hobbit Travel to The Shire"/>
 </skill>
 <skill identifier="1879073486" name="Hobbit-resilience" category="56" iconId="1090553973" description="key:620775253:228830419">
+<requiredTrait id="1879073485" name="Hobbit-resilience"/>
 <effect id="1879073487" name="Hobbit's Hope."/>
 </skill>
 <skill identifier="1879073491" name="Hobbit-stealth" category="56" iconId="1090553975" description="key:620775258:228830419">
+<requiredTrait id="1879073490" name="Hobbit-stealth"/>
 <effect id="1879073492" name="Hobbit Stealth" type="TOGGLE"/>
 <effect id="1879073492" name="Hobbit Stealth" type="USER_TOGGLE"/>
 </skill>
 <skill identifier="1879073495" name="Hobbit-silence" category="56" iconId="1090553977" description="key:620775262:228830419">
+<requiredTrait id="1879073494" name="Hobbit-silence"/>
 <effect id="1879073174" name="Still As Death" type="TOGGLE"/>
 <effect id="1879073174" name="Still As Death" type="USER_TOGGLE"/>
 </skill>
-<skill identifier="1879073516" name="Upper-cut" category="56" iconId="1090553989" description="key:620775272:228830419"/>
+<skill identifier="1879073516" name="Upper-cut" category="56" iconId="1090553989" description="key:620775272:228830419">
+<requiredTrait id="1879073515" name="Upper-cut"/>
+</skill>
 <skill identifier="1879073526" name="Return to Bree" category="56" iconId="1090553994" description="key:620775281:228830419">
+<requiredTrait id="1879073525" name="Return to Bree"/>
 <effect id="1879073527" name="Race of Man Travel to Bree"/>
 </skill>
 <skill identifier="1879073530" name="Duty-bound" category="56" iconId="1090553996" description="key:620775285:228830419">
+<requiredTrait id="1879073529" name="Duty-bound"/>
 <effect id="1879084540" name="Duty Bound"/>
 </skill>
 <skill identifier="1879073537" name="Strength of Morale" category="56" iconId="1090554000" description="key:620775292:228830419">
+<requiredTrait id="1879073536" name="Strength of Morale"/>
 <effect id="1879073538" name="Strength of Morale"/>
 </skill>
 <skill identifier="1879073559" name="Sylvan Shadows" category="56" iconId="1090554008" description="key:620775301:228830419">
+<requiredTrait id="1879073558" name="Sylvan Shadows"/>
 <effect id="1879073492" name="Hobbit Stealth" type="TOGGLE"/>
 <effect id="1879073492" name="Hobbit Stealth" type="USER_TOGGLE"/>
 </skill>
 <skill identifier="1879073567" name="Return to Rivendell" category="56" iconId="1090554013" description="key:620775310:228830419">
+<requiredTrait id="1879073483" name="Return to Rivendell"/>
 <effect id="1879073568" name="Elf Travel to Rivendell"/>
 </skill>
 <skill identifier="1879073571" name="Eldar's Grace" category="56" iconId="1090532784" description="key:620775314:228830419">
+<requiredTrait id="1879073570" name="Eldar's Grace"/>
 <effect id="1879073572" name="Eldar's Grace"/>
 </skill>
 <skill identifier="1879073577" name="Power of the Eldar" category="56" iconId="1090553997" description="key:620775320:228830419">
+<requiredTrait id="1879073576" name="Power of the Eldar"/>
 <effect id="1879073531" name="Power of the Eldar"/>
 </skill>
-<skill identifier="1879073596" name="Head-butt" category="56" iconId="1090554024" description="key:620775328:228830419"/>
+<skill identifier="1879073596" name="Head-butt" category="56" iconId="1090554024" description="key:620775328:228830419">
+<requiredTrait id="1879073595" name="Head-butt"/>
+</skill>
 <skill identifier="1879073606" name="Return to Thorin's Gate" category="56" iconId="1090554029" description="key:620775337:228830419">
+<requiredTrait id="1879073605" name="Return to Thorin's Gate"/>
 <effect id="1879073607" name="Dwarf Travel to Thorin's Hall"/>
 </skill>
 <skill identifier="1879073610" name="Endurance of Stone" category="56" iconId="1090554031" description="key:620775341:228830419">
+<requiredTrait id="1879073609" name="Endurance of Stone"/>
 <effect id="1879073611" name="Hunker Down"/>
 </skill>
 <skill identifier="1879073614" name="Dwarf-endurance" category="56" iconId="1090554033" description="key:620775345:228830419">
+<requiredTrait id="1879073613" name="Dwarf-endurance"/>
 <effect id="1879073615" name="Dwarf Endurance"/>
 </skill>
 <skill identifier="1879073674" name="Sudden Strikes" category="8" iconId="1090555704" description="key:620775380:228830419"/>
@@ -1818,6 +1908,7 @@
 <effect id="1879073688" name="Blinding Dust"/>
 </skill>
 <skill identifier="1879073679" name="Glory in Victory" category="7" iconId="1090555708" description="key:620775386:228830419">
+<requiredEffect id="1879060310" name="Enemy Defeat Response"/>
 <effect id="1879073689" name="Glory in Victory"/>
 <effect id="1879073690" name="Minor Renewal"/>
 <effect id="1879060308" name="Dispel Enemy Defeat" type="USER"/>
@@ -1904,6 +1995,7 @@
 <skill identifier="1879075407" name="Thrown Weapon" iconId="1090524209"/>
 <skill identifier="1879076051" name="Melee Common Max" iconId="1090522259"/>
 <skill identifier="1879076075" name="Fellowship's Heart" category="26" iconId="1090561250" description="key:620777560:228830419">
+<requiredTrait id="1879076074" name="Fellowship's Heart"/>
 <effect id="1879076078" name="courage"/>
 <effect id="1879050501" name="Remove Fear"/>
 <effect id="1879076079" name="Fellowship's Heart"/>
@@ -2290,10 +2382,12 @@
 <effect id="1879051308" name="Ignite flammable target"/>
 </skill>
 <skill identifier="1879086712" name="Heroics" category="55" iconId="1090644838" description="key:620789554:228830419">
+<requiredEffect id="1879060310" name="Enemy Defeat Response"/>
 <effect id="1879087130" name="Heroics"/>
 <effect id="1879060308" name="Dispel Enemy Defeat" type="USER"/>
 </skill>
 <skill identifier="1879086713" name="Blocking Blades" category="55" iconId="1090644839" description="key:620789555:228830419">
+<requiredEffect id="1879060310" name="Enemy Defeat Response"/>
 <effect id="1879087397" name="Blocking Blades"/>
 <effect id="1879060308" name="Dispel Enemy Defeat" type="USER"/>
 </skill>
@@ -2302,6 +2396,7 @@
 <effect id="1879086995" name="Glory" type="USER_TOGGLE"/>
 </skill>
 <skill identifier="1879086717" name="Red Haze" category="55" iconId="1090644843" description="key:620789559:228830419">
+<requiredEffect id="1879060310" name="Enemy Defeat Response"/>
 <effect id="1879087698" name="Red Haze"/>
 <effect id="1879060308" name="Dispel Enemy Defeat" type="USER"/>
 </skill>
@@ -2632,6 +2727,7 @@
 <effect id="1879089620" name="Lesser Persistence"/>
 </skill>
 <skill identifier="1879089623" name="Inspire" category="25" iconId="1091037681" description="key:620791512:228830419">
+<requiredEffect id="1879092643" name="Shield-brother"/>
 <effect id="1879089625" name="Inspire" type="USER"/>
 </skill>
 <skill identifier="1879089624" name="Shield-brother" category="14" iconId="1091037683" description="key:620791515:228830419">
@@ -2743,6 +2839,7 @@
 <effect id="1879091319" name="About-face"/>
 </skill>
 <skill identifier="1879091725" name="To Arms" category="14" iconId="1091037682" description="key:620792674:228830419">
+<requiredEffect id="1879092643" name="Shield-brother"/>
 <effect id="1879092632" name="To Arms" type="USER"/>
 </skill>
 <skill identifier="1879091726" name="Kick" category="47" iconId="1091037684" description="key:620792675:228830419">
@@ -2763,6 +2860,7 @@
 <effect id="1879092192" name="Awaken"/>
 </skill>
 <skill identifier="1879092634" name="Blade of Elendil" category="47" iconId="1091155262" description="key:620793044:228830419">
+<requiredEffect id="1879092638" name="Battle-hardened"/>
 <effect id="1879092635" name="Light of Elendil" type="USER"/>
 <effect id="1879092636" name="Dispel Battle-hardened" type="USER"/>
 </skill>
@@ -2813,6 +2911,7 @@
 <effect id="1879092776" name="Mordirith Advanced Hint"/>
 </skill>
 <skill identifier="1879093044" name="Track Artifacts" category="57" iconId="1091388639" description="key:620793375:228830419">
+<requiredTrait id="1879093046" name="Track Artifacts"/>
 <effect id="1879093045" name="Track Artifacts" type="TOGGLE"/>
 <effect id="1879093045" name="Track Artifacts" type="USER_TOGGLE"/>
 </skill>
@@ -2839,6 +2938,7 @@
 <effect id="1879093331" name="Growing Fire" type="USER_TOGGLE"/>
 </skill>
 <skill identifier="1879093336" name="Strength of Will" category="14" iconId="1091387386" description="key:620793501:228830419">
+<requiredEffect id="1879092643" name="Shield-brother"/>
 <effect id="1879093337" name="Strength of Will" type="USER"/>
 </skill>
 <skill identifier="1879093367" name="Seeking Flame" iconId="1090522259"/>
@@ -2965,6 +3065,7 @@
 <effect id="1879095699" name="Ire of the Oathbreaker" type="USER_TOGGLE"/>
 </skill>
 <skill identifier="1879094936" name="Chorus of the Oathbreakers" category="59" iconId="1091400694" description="key:620794716:228830419">
+<requiredEffect id="1879095617" name="War-speech"/>
 <effect id="1879096323" name="Wrath of the Oathbreakers" type="TOGGLE"/>
 <effect id="1879096324" name="Wrath of the Oathbreakers" type="TOGGLE"/>
 <effect id="1879096323" name="Wrath of the Oathbreakers" type="USER_TOGGLE"/>
@@ -2975,9 +3076,11 @@
 <effect id="1879095617" name="War-speech" type="USER_TOGGLE"/>
 </skill>
 <skill identifier="1879094938" name="Call to the Elder King" category="59" iconId="1091400033" description="key:620794638:228830419">
+<requiredEffect id="1879095617" name="War-speech"/>
 <effect id="1879095021" name="The Call of Arda"/>
 </skill>
 <skill identifier="1879094939" name="Call of the Second Age" category="59" iconId="1091400179" description="key:620794641:228830419">
+<requiredEffect id="1879095617" name="War-speech"/>
 <effect id="1879095089" name="Call of the Second Age" type="USER"/>
 </skill>
 <skill identifier="1879094940" name="Call to Greatness" category="39" iconId="1091400696" description="key:620794639:228830419">
@@ -3887,9 +3990,11 @@
 <effect id="1879099379" name="Raised Minion"/>
 </skill>
 <skill identifier="1879101510" name="Travel to Personal House" category="60" iconId="1091404796" description="key:620799391:228830419">
+<requiredTrait id="1879049557" name="Novice"/>
 <effect id="1879101509" name="Travel to House"/>
 </skill>
 <skill identifier="1879101511" name="Travel to Kinship House" category="60" iconId="1091404798" description="key:620799393:228830419">
+<requiredTrait id="1879049557" name="Novice"/>
 <effect id="1879101508" name="Travel to Kinship House"/>
 </skill>
 <skill identifier="1879101638" name="Protective Flame" iconId="1090522259">

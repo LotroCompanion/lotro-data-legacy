@@ -27,10 +27,10 @@
 <stat id="268439859" index="52" name="Common Mitigation" key="Combat_MitigationPercentage_Common" legacyKey="PHYSICAL_MITIGATION_PERCENTAGE" legacyName="Physical Mitigation (%)" isPercentage="true"/>
 <stat id="268439395" index="58" name="Fire Mitigation" key="Combat_MitigationPercentage_Fire" legacyKey="FIRE_MITIGATION_PERCENTAGE" legacyName="Fire Mitigation (%)" isPercentage="true"/>
 <stat id="268436582" index="65" name="Shadow Mitigation" key="Combat_MitigationPercentage_Shadow" legacyKey="SHADOW_MITIGATION_PERCENTAGE" legacyName="Shadow Mitigation (%)" isPercentage="true"/>
-<stat id="268437934" index="66" name="non-Combat Morale Regen" key="Vital_HealthPeaceRegenAddMod" legacyKey="OCMR"/>
-<stat id="268438584" index="67" name="in-Combat Morale Regen" key="Vital_HealthCombatRegenAddMod" legacyKey="ICMR"/>
-<stat id="268435577" index="68" name="non-Combat Power Regen" key="Vital_PowerPeaceRegenAddMod" legacyKey="OCPR"/>
-<stat id="268435801" index="69" name="in-Combat Power Regen" key="Vital_PowerCombatRegenAddMod" legacyKey="ICPR"/>
+<stat id="268437934" index="66" name="non-Combat Morale Regen" key="Vital_HealthPeaceRegenAddMod" legacyKey="OCMR" maxDigitsBelow1="1" maxDigitsAbove1="1"/>
+<stat id="268438584" index="67" name="in-Combat Morale Regen" key="Vital_HealthCombatRegenAddMod" legacyKey="ICMR" maxDigitsBelow1="1" maxDigitsAbove1="1"/>
+<stat id="268435577" index="68" name="non-Combat Power Regen" key="Vital_PowerPeaceRegenAddMod" legacyKey="OCPR" maxDigitsBelow1="1" maxDigitsAbove1="1"/>
+<stat id="268435801" index="69" name="in-Combat Power Regen" key="Vital_PowerCombatRegenAddMod" legacyKey="ICPR" maxDigitsBelow1="1" maxDigitsAbove1="1"/>
 <stat id="268439562" index="72" name="Hope" key="Mood_Hope_Level" legacyKey="HOPE" type="INTEGER"/>
 <stat id="268438757" index="74" name="Stealth Level" key="Stealth_StealthLevelModifier" legacyKey="STEALTH_LEVEL" type="INTEGER"/>
 <stat id="268436095" index="75" name="Melee Vulnerability" key="Combat_DamageQualifier_Melee_Defense" legacyKey="MELEE_DEFENCE_PERCENTAGE" isPercentage="true"/>

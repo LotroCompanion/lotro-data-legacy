@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><races>
-<race id="1879073442" code="23" key="man" legacyLabel="Race of Man" name="key:620756996:171812238" tag="U" tall="true" description="key:620775269:133532190">
+<race id="1879073442" code="23" key="man" legacyLabel="Race of Man" name="key:620756996:171812238" tag="U" tall="false" description="key:620775269:133532190">
 <gender name="key:620775269:250657493" largeIconId="0" iconId="1090553984" smallIconId="0" avatarId="1879073498"/>
 <gender name="key:620775269:256297669" largeIconId="0" iconId="1090553985" smallIconId="0" avatarId="1879073500"/>
 <nationality id="17" name="Bree-land"/>
@@ -13,12 +13,12 @@
 <allowedClass id="Hunter"/>
 <allowedClass id="Lore-master"/>
 <allowedClass id="Minstrel"/>
-<raceTrait minLevel="1" traitId="1879073502"/>
-<raceTrait minLevel="1" traitId="1879073503"/>
-<raceTrait minLevel="1" traitId="1879073504"/>
-<raceTrait minLevel="1" traitId="1879073505"/>
+<raceTrait minLevel="1" traitId="1879073502" traitName="Gift of Men"/>
+<raceTrait minLevel="1" traitId="1879073503" traitName="Diminishing of Mankind"/>
+<raceTrait minLevel="1" traitId="1879073504" traitName="Easily Inspired"/>
+<raceTrait minLevel="1" traitId="1879073505" traitName="Strong Men"/>
 </race>
-<race id="1879073443" code="65" key="elf" legacyLabel="Elf" name="key:620756996:81410566" tag="L" tall="true" description="key:620775298:133532190">
+<race id="1879073443" code="65" key="elf" legacyLabel="Elf" name="key:620756996:81410566" tag="L" tall="false" description="key:620775298:133532190">
 <gender name="key:620775298:250657493" largeIconId="0" iconId="1090554005" smallIconId="0" avatarId="1879073541"/>
 <gender name="key:620775298:256297669" largeIconId="0" iconId="1090554006" smallIconId="0" avatarId="1879073543"/>
 <nationality id="15" name="Lindon"/>
@@ -31,12 +31,12 @@
 <allowedClass id="Hunter"/>
 <allowedClass id="Lore-master"/>
 <allowedClass id="Minstrel"/>
-<raceTrait minLevel="1" traitId="1879073545"/>
-<raceTrait minLevel="1" traitId="1879073546"/>
-<raceTrait minLevel="1" traitId="1879073547"/>
-<raceTrait minLevel="1" traitId="1879073548"/>
+<raceTrait minLevel="1" traitId="1879073545" traitName="Sorrow of the Firstborn"/>
+<raceTrait minLevel="1" traitId="1879073546" traitName="Agility of the Woods"/>
+<raceTrait minLevel="1" traitId="1879073547" traitName="Fading of the Firstborn"/>
+<raceTrait minLevel="1" traitId="1879073548" traitName="Suffer no Illness"/>
 </race>
-<race id="1879073444" code="73" key="dwarf" legacyLabel="Dwarf" name="key:620756996:171553462" tag="D" tall="true" description="key:620775325:133532190">
+<race id="1879073444" code="73" key="dwarf" legacyLabel="Dwarf" name="key:620756996:171553462" tag="D" tall="false" description="key:620775325:133532190">
 <gender name="key:620775325:250657493" largeIconId="0" iconId="1090554021" smallIconId="0" avatarId="1879073580"/>
 <nationality id="4" name="Blue Mountains"/>
 <nationality id="3" name="Iron Hills"/>
@@ -47,13 +47,13 @@
 <allowedClass id="Guardian"/>
 <allowedClass id="Hunter"/>
 <allowedClass id="Minstrel"/>
-<raceTrait minLevel="1" traitId="1879073582"/>
-<raceTrait minLevel="1" traitId="1879073583"/>
-<raceTrait minLevel="1" traitId="1879073584"/>
-<raceTrait minLevel="1" traitId="1879073585"/>
-<raceTrait minLevel="1" traitId="1879064086"/>
+<raceTrait minLevel="1" traitId="1879073582" traitName="Sturdiness"/>
+<raceTrait minLevel="1" traitId="1879073583" traitName="Stocky"/>
+<raceTrait minLevel="1" traitId="1879073584" traitName="Lost Dwarf-kingdoms"/>
+<raceTrait minLevel="1" traitId="1879073585" traitName="Unwearying in Battle"/>
+<raceTrait minLevel="1" traitId="1879064086" traitName="One-Handed Axes"/>
 </race>
-<race id="1879073441" code="81" key="hobbit" legacyLabel="Hobbit" name="key:620756996:64170820" tag="O" tall="true" description="key:620775236:133532190">
+<race id="1879073441" code="81" key="hobbit" legacyLabel="Hobbit" name="key:620756996:64170820" tag="O" tall="false" description="key:620775236:133532190">
 <gender name="key:620775236:250657493" largeIconId="0" iconId="1090553961" smallIconId="0" avatarId="1879073447"/>
 <gender name="key:620775236:256297669" largeIconId="0" iconId="1090553962" smallIconId="0" avatarId="1879073449"/>
 <nationality id="18" name="Fallohide"/>
@@ -63,10 +63,10 @@
 <allowedClass id="Guardian"/>
 <allowedClass id="Hunter"/>
 <allowedClass id="Minstrel"/>
-<raceTrait minLevel="1" traitId="1879073451"/>
-<raceTrait minLevel="1" traitId="1879073452"/>
-<raceTrait minLevel="1" traitId="1879073453"/>
-<raceTrait minLevel="1" traitId="1879073454"/>
-<raceTrait minLevel="1" traitId="1879073455"/>
+<raceTrait minLevel="1" traitId="1879073451" traitName="Small Size"/>
+<raceTrait minLevel="1" traitId="1879073452" traitName="Hobbit-toughness"/>
+<raceTrait minLevel="1" traitId="1879073453" traitName="Rapid Recovery"/>
+<raceTrait minLevel="1" traitId="1879073454" traitName="Hobbit-courage"/>
+<raceTrait minLevel="1" traitId="1879073455" traitName="Resist Corruption"/>
 </race>
 </races>

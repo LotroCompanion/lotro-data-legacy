@@ -221,7 +221,7 @@
 <questComplete showBillboardText="false" achievableId="1879051519"/>
 </objective>
 <objective index="2">
-<questComplete loreInfo="key:620758795:118018273" progressOverride="key:620758795:22075073" showBillboardText="false" questCategory="Shire" count="75"/>
+<questComplete loreInfo="key:620758795:118018273" progressOverride="key:620758795:22075073" showBillboardText="false" questCategory="22" count="75"/>
 </objective>
 </objectives>
 <rewards>
@@ -235,7 +235,7 @@
 <questComplete showBillboardText="false" achievableId="1879051521"/>
 </objective>
 <objective index="2">
-<questComplete loreInfo="key:620758796:118018273" progressOverride="key:620758796:22075073" showBillboardText="false" questCategory="Shire" count="40"/>
+<questComplete loreInfo="key:620758796:118018273" progressOverride="key:620758796:22075073" showBillboardText="false" questCategory="22" count="40"/>
 </objective>
 </objectives>
 <rewards>
@@ -246,7 +246,7 @@
 <deed id="1879051521" key="The_Life_of_a_Bounder" name="The Life of a Bounder" rawName="key:620758797:228870261" type="REPUTATION" minLevel="1" category="5" level="5" description="key:620758797:54354734">
 <objectives>
 <objective index="1">
-<questComplete loreInfo="key:620758797:118018273" progressOverride="key:620758797:22075073" showBillboardText="false" questCategory="Shire" count="15"/>
+<questComplete loreInfo="key:620758797:118018273" progressOverride="key:620758797:22075073" showBillboardText="false" questCategory="22" count="15"/>
 </objective>
 </objectives>
 <rewards>
@@ -2361,7 +2361,7 @@
 <deed id="1879071676" key="Bree-land_Adventurer" name="Bree-land Adventurer" rawName="key:620774285:228870261" type="REPUTATION" minLevel="1" category="7" level="5" description="key:620774285:54354734">
 <objectives>
 <objective index="1" text="key:620774285:94621393">
-<questComplete progressOverride="key:620774285:22075073" showBillboardText="false" questCategory="Bree-land" count="15"/>
+<questComplete progressOverride="key:620774285:22075073" showBillboardText="false" questCategory="28" count="15"/>
 </objective>
 </objectives>
 <rewards>
@@ -2375,7 +2375,7 @@
 <questComplete showBillboardText="false" achievableId="1879071676"/>
 </objective>
 <objective index="2">
-<questComplete progressOverride="key:620774286:22075073" showBillboardText="false" questCategory="Bree-land" count="30"/>
+<questComplete progressOverride="key:620774286:22075073" showBillboardText="false" questCategory="28" count="30"/>
 </objective>
 </objectives>
 <rewards>
@@ -2389,7 +2389,7 @@
 <questComplete showBillboardText="false" achievableId="1879071677"/>
 </objective>
 <objective index="2" text="key:620774287:94621394">
-<questComplete progressOverride="key:620774287:22075073" showBillboardText="false" questCategory="Bree-land" count="45"/>
+<questComplete progressOverride="key:620774287:22075073" showBillboardText="false" questCategory="28" count="45"/>
 </objective>
 </objectives>
 <rewards>
@@ -2400,7 +2400,7 @@
 <deed id="1879071679" key="Tales_of_the_Lonely_Road" name="Tales of the Lonely Road" rawName="key:620774288:228870261" type="REPUTATION" minLevel="1" category="8" level="12" description="key:620774288:54354734">
 <objectives>
 <objective index="1">
-<questComplete loreInfo="key:620774288:118018273" progressOverride="key:620774288:22075073" showBillboardText="false" questCategory="Lone-lands" count="15"/>
+<questComplete loreInfo="key:620774288:118018273" progressOverride="key:620774288:22075073" showBillboardText="false" questCategory="34" count="15"/>
 </objective>
 </objectives>
 <rewards>
@@ -2414,7 +2414,7 @@
 <questComplete showBillboardText="false" achievableId="1879071679"/>
 </objective>
 <objective index="2">
-<questComplete loreInfo="key:620774289:118018273" progressOverride="key:620774289:22075073" showBillboardText="false" questCategory="Lone-lands" count="30"/>
+<questComplete loreInfo="key:620774289:118018273" progressOverride="key:620774289:22075073" showBillboardText="false" questCategory="34" count="30"/>
 </objective>
 </objectives>
 <rewards>
@@ -2428,7 +2428,7 @@
 <questComplete showBillboardText="false" achievableId="1879071680"/>
 </objective>
 <objective index="2">
-<questComplete loreInfo="key:620774290:118018273" progressOverride="key:620774290:22075073" showBillboardText="false" questCategory="Lone-lands" count="45"/>
+<questComplete loreInfo="key:620774290:118018273" progressOverride="key:620774290:22075073" showBillboardText="false" questCategory="34" count="45"/>
 </objective>
 </objectives>
 <rewards>
@@ -2439,7 +2439,7 @@
 <deed id="1879071682" key="Of_Glories_Long_Past" name="Of Glories Long Past" rawName="key:620774291:228870261" type="REPUTATION" minLevel="1" category="2" level="25" description="key:620774291:54354734">
 <objectives>
 <objective index="1">
-<questComplete progressOverride="key:620774291:22075073" showBillboardText="false" questCategory="North Downs" count="15"/>
+<questComplete progressOverride="key:620774291:22075073" showBillboardText="false" questCategory="13" count="15"/>
 </objective>
 </objectives>
 <rewards>
@@ -2453,7 +2453,7 @@
 <questComplete showBillboardText="false" achievableId="1879071682"/>
 </objective>
 <objective index="2">
-<questComplete progressOverride="key:620774292:22075073" showBillboardText="false" questCategory="North Downs" count="30"/>
+<questComplete progressOverride="key:620774292:22075073" showBillboardText="false" questCategory="13" count="30"/>
 </objective>
 </objectives>
 <rewards>
@@ -2467,7 +2467,7 @@
 <questComplete showBillboardText="false" achievableId="1879071683"/>
 </objective>
 <objective index="2" text="key:620774293:94621394">
-<questComplete progressOverride="key:620774293:22075073" showBillboardText="false" questCategory="North Downs" count="45"/>
+<questComplete progressOverride="key:620774293:22075073" showBillboardText="false" questCategory="13" count="45"/>
 </objective>
 </objectives>
 <rewards>
@@ -2504,7 +2504,7 @@
 <deed id="1879071686" key="Ally_of_Ered_Luin" name="Ally of Ered Luin" rawName="key:620774320:228870261" type="REPUTATION" minLevel="1" category="3" level="5" description="key:620774320:54354734">
 <objectives>
 <objective index="1" text="key:620774320:94621393">
-<questComplete loreInfo="key:620774320:118018273" progressOverride="key:620774320:22075073" showBillboardText="false" questCategory="Ered Luin" count="10"/>
+<questComplete loreInfo="key:620774320:118018273" progressOverride="key:620774320:22075073" showBillboardText="false" questCategory="14" count="10"/>
 </objective>
 </objectives>
 <rewards>
@@ -2518,7 +2518,7 @@
 <questComplete showBillboardText="false" achievableId="1879071686"/>
 </objective>
 <objective index="2" text="key:620774321:94621394">
-<questComplete loreInfo="key:620774321:118018273" progressOverride="key:620774321:22075073" showBillboardText="false" questCategory="Ered Luin" count="20"/>
+<questComplete loreInfo="key:620774321:118018273" progressOverride="key:620774321:22075073" showBillboardText="false" questCategory="14" count="20"/>
 </objective>
 </objectives>
 <rewards>
@@ -2532,7 +2532,7 @@
 <questComplete showBillboardText="false" achievableId="1879071687"/>
 </objective>
 <objective index="2" text="key:620774322:94621394">
-<questComplete loreInfo="key:620774322:118018273" progressOverride="key:620774322:22075073" showBillboardText="false" questCategory="Ered Luin" count="30"/>
+<questComplete loreInfo="key:620774322:118018273" progressOverride="key:620774322:22075073" showBillboardText="false" questCategory="14" count="30"/>
 </objective>
 </objectives>
 <rewards>
@@ -2543,7 +2543,7 @@
 <deed id="1879071689" key="Marching_into_Shadow" name="Marching into Shadow" rawName="key:620774323:228870261" type="REPUTATION" minLevel="1" category="11" level="42" description="key:620774323:54354734">
 <objectives>
 <objective index="1">
-<questComplete progressOverride="key:620774323:22075073" showBillboardText="false" questCategory="Angmar" count="10"/>
+<questComplete progressOverride="key:620774323:22075073" showBillboardText="false" questCategory="47" count="10"/>
 </objective>
 </objectives>
 <rewards>
@@ -2557,7 +2557,7 @@
 <questComplete showBillboardText="false" achievableId="1879071689"/>
 </objective>
 <objective index="2">
-<questComplete progressOverride="key:620774324:22075073" showBillboardText="false" questCategory="Angmar" count="20"/>
+<questComplete progressOverride="key:620774324:22075073" showBillboardText="false" questCategory="47" count="20"/>
 </objective>
 </objectives>
 <rewards>
@@ -2571,7 +2571,7 @@
 <questComplete showBillboardText="false" achievableId="1879071690"/>
 </objective>
 <objective index="2" text="key:620774325:94621394">
-<questComplete progressOverride="key:620774325:22075073" showBillboardText="false" questCategory="Angmar" count="30"/>
+<questComplete progressOverride="key:620774325:22075073" showBillboardText="false" questCategory="47" count="30"/>
 </objective>
 </objectives>
 <rewards>
@@ -2582,7 +2582,7 @@
 <deed id="1879071692" key="Deeds_in_the_Wilderness" name="Deeds in the Wilderness" rawName="key:620774326:228870261" type="REPUTATION" minLevel="1" category="1" level="40" description="key:620774326:54354734">
 <objectives>
 <objective index="1">
-<questComplete loreInfo="key:620774326:118018273" progressOverride="key:620774326:22075073" showBillboardText="false" questCategory="Trollshaws" count="10"/>
+<questComplete loreInfo="key:620774326:118018273" progressOverride="key:620774326:22075073" showBillboardText="false" questCategory="6" count="10"/>
 </objective>
 </objectives>
 <rewards>
@@ -2596,7 +2596,7 @@
 <questComplete showBillboardText="false" achievableId="1879071692"/>
 </objective>
 <objective index="2">
-<questComplete loreInfo="key:620774327:118018273" progressOverride="key:620774327:22075073" showBillboardText="false" questCategory="Trollshaws" count="20"/>
+<questComplete loreInfo="key:620774327:118018273" progressOverride="key:620774327:22075073" showBillboardText="false" questCategory="6" count="20"/>
 </objective>
 </objectives>
 <rewards>
@@ -2610,7 +2610,7 @@
 <questComplete showBillboardText="false" achievableId="1879071693"/>
 </objective>
 <objective index="2" text="key:620774328:94621394">
-<questComplete loreInfo="key:620774328:118018273" progressOverride="key:620774328:22075073" showBillboardText="false" questCategory="Trollshaws" count="30"/>
+<questComplete loreInfo="key:620774328:118018273" progressOverride="key:620774328:22075073" showBillboardText="false" questCategory="6" count="30"/>
 </objective>
 </objectives>
 <rewards>
@@ -2621,7 +2621,7 @@
 <deed id="1879071695" key="Peril_of_the_Mountains" name="Peril of the Mountains" rawName="key:620774329:228870261" type="REPUTATION" minLevel="1" category="4" level="40" description="key:620774329:54354734">
 <objectives>
 <objective index="1">
-<questComplete loreInfo="key:620774329:118018273" progressOverride="key:620774329:22075073" showBillboardText="false" questCategory="Misty Mountains" count="10"/>
+<questComplete loreInfo="key:620774329:118018273" progressOverride="key:620774329:22075073" showBillboardText="false" questCategory="18" count="10"/>
 </objective>
 </objectives>
 <rewards>
@@ -2635,7 +2635,7 @@
 <questComplete showBillboardText="false" achievableId="1879071695"/>
 </objective>
 <objective index="2">
-<questComplete loreInfo="key:620774330:118018273" progressOverride="key:620774330:22075073" showBillboardText="false" questCategory="Misty Mountains" count="20"/>
+<questComplete loreInfo="key:620774330:118018273" progressOverride="key:620774330:22075073" showBillboardText="false" questCategory="18" count="20"/>
 </objective>
 </objectives>
 <rewards>
@@ -2649,7 +2649,7 @@
 <questComplete showBillboardText="false" achievableId="1879071696"/>
 </objective>
 <objective index="2" text="key:620774331:94621394">
-<questComplete loreInfo="key:620774331:118018273" progressOverride="key:620774331:22075073" showBillboardText="false" questCategory="Misty Mountains" count="30"/>
+<questComplete loreInfo="key:620774331:118018273" progressOverride="key:620774331:22075073" showBillboardText="false" questCategory="18" count="30"/>
 </objective>
 </objectives>
 <rewards>
@@ -3212,8 +3212,8 @@
 <objectives>
 <objective index="1">
 <monsterDied loreInfo="key:620774389:118018273" progressOverride="key:620774389:22075073" showBillboardText="false" count="120">
-<monsterSelection mobDivision="NorthDowns_Keep_Public" species="70"/>
-<monsterSelection mobDivision="NorthDowns_Nan_Amlug_East" species="70"/>
+<monsterSelection mobDivision="40" species="70"/>
+<monsterSelection mobDivision="114" species="70"/>
 </monsterDied>
 </objective>
 </objectives>
@@ -3229,8 +3229,8 @@
 </objective>
 <objective index="2">
 <monsterDied loreInfo="key:620774391:118018273" progressOverride="key:620774391:22075073" showBillboardText="false" count="240">
-<monsterSelection mobDivision="NorthDowns_Keep_Public" species="70"/>
-<monsterSelection mobDivision="NorthDowns_Nan_Amlug_East" species="70"/>
+<monsterSelection mobDivision="40" species="70"/>
+<monsterSelection mobDivision="114" species="70"/>
 </monsterDied>
 </objective>
 </objectives>
@@ -3736,10 +3736,10 @@
 <objectives>
 <objective index="1">
 <monsterDied loreInfo="key:620774443:118018273" progressOverride="key:620774443:22075073" showBillboardText="false" count="150">
-<monsterSelection mobDivision="EastAngmar_Giant_Hills" species="70"/>
-<monsterSelection mobDivision="EastAngmar_VOD_East" species="70"/>
-<monsterSelection mobDivision="Rift_City" species="70"/>
-<monsterSelection mobDivision="WestAngmar_Sulfur_Swamp_West" species="70"/>
+<monsterSelection mobDivision="88" species="70"/>
+<monsterSelection mobDivision="110" species="70"/>
+<monsterSelection mobDivision="171" species="70"/>
+<monsterSelection mobDivision="89" species="70"/>
 </monsterDied>
 </objective>
 </objectives>
@@ -3755,10 +3755,10 @@
 </objective>
 <objective index="2">
 <monsterDied loreInfo="key:620774445:118018273" progressOverride="key:620774445:22075073" showBillboardText="false" count="300">
-<monsterSelection mobDivision="EastAngmar_Giant_Hills" species="70"/>
-<monsterSelection mobDivision="EastAngmar_VOD_East" species="70"/>
-<monsterSelection mobDivision="Rift_City" species="70"/>
-<monsterSelection mobDivision="WestAngmar_Sulfur_Swamp_West" species="70"/>
+<monsterSelection mobDivision="88" species="70"/>
+<monsterSelection mobDivision="110" species="70"/>
+<monsterSelection mobDivision="171" species="70"/>
+<monsterSelection mobDivision="89" species="70"/>
 </monsterDied>
 </objective>
 </objectives>
@@ -5659,7 +5659,7 @@
 <deed id="1879082919" key="Grimwood_Travel_Tier_1" name="Grimwood Travel Tier 1" rawName="key:620781892:228870261" type="REPUTATION" minLevel="50" category="6" level="50" description="key:620781892:54354734">
 <objectives>
 <objective index="1">
-<questComplete loreInfo="key:620781892:118018273" progressOverride="key:620781892:22075073" showBillboardText="false" questCategory="Grimwood" count="10"/>
+<questComplete loreInfo="key:620781892:118018273" progressOverride="key:620781892:22075073" showBillboardText="false" questCategory="42" count="10"/>
 </objective>
 <objective index="2" text="key:620781892:94621394">
 <npcTalk loreInfo="key:620781892:118018274" progressOverride="key:620781892:22075074" showBillboardText="false" npcId="1879080651" npcName="War-tyrant Akúlhun"/>
@@ -5676,7 +5676,7 @@
 <questComplete showBillboardText="false" achievableId="1879082919"/>
 </objective>
 <objective index="2">
-<questComplete loreInfo="key:620781894:118018273" progressOverride="key:620781894:22075073" showBillboardText="false" questCategory="Grimwood" count="25"/>
+<questComplete loreInfo="key:620781894:118018273" progressOverride="key:620781894:22075073" showBillboardText="false" questCategory="42" count="25"/>
 </objective>
 <objective index="3" text="key:620781894:94621395">
 <npcTalk loreInfo="key:620781894:118018274" progressOverride="key:620781894:22075074" showBillboardText="false" npcId="1879080651" npcName="War-tyrant Akúlhun"/>
@@ -5693,7 +5693,7 @@
 <questComplete showBillboardText="false" achievableId="1879082920"/>
 </objective>
 <objective index="2">
-<questComplete loreInfo="key:620781896:118018273" progressOverride="key:620781896:22075073" showBillboardText="false" questCategory="Grimwood" count="50"/>
+<questComplete loreInfo="key:620781896:118018273" progressOverride="key:620781896:22075073" showBillboardText="false" questCategory="42" count="50"/>
 </objective>
 <objective index="3" text="key:620781896:94621395">
 <npcTalk loreInfo="key:620781896:118018274" progressOverride="key:620781896:22075074" showBillboardText="false" npcId="1879080651" npcName="War-tyrant Akúlhun"/>
@@ -5707,7 +5707,7 @@
 <deed id="1879082922" key="Isendeep_Travel_Tier_1" name="Isendeep Travel Tier 1" rawName="key:620781898:228870261" type="REPUTATION" minLevel="50" category="6" level="50" description="key:620781898:54354734">
 <objectives>
 <objective index="1">
-<questComplete loreInfo="key:620781898:118018273" progressOverride="key:620781898:22075073" showBillboardText="false" questCategory="Isendeep Mine" count="10"/>
+<questComplete loreInfo="key:620781898:118018273" progressOverride="key:620781898:22075073" showBillboardText="false" questCategory="20" count="10"/>
 </objective>
 <objective index="2" text="key:620781898:94621394">
 <npcTalk loreInfo="key:620781898:118018274" progressOverride="key:620781898:22075074" showBillboardText="false" npcId="1879080651" npcName="War-tyrant Akúlhun"/>
@@ -5724,7 +5724,7 @@
 <questComplete showBillboardText="false" achievableId="1879082922"/>
 </objective>
 <objective index="2">
-<questComplete loreInfo="key:620781900:118018273" progressOverride="key:620781900:22075073" showBillboardText="false" questCategory="Isendeep Mine" count="25"/>
+<questComplete loreInfo="key:620781900:118018273" progressOverride="key:620781900:22075073" showBillboardText="false" questCategory="20" count="25"/>
 </objective>
 <objective index="3" text="key:620781900:94621395">
 <npcTalk loreInfo="key:620781900:118018274" progressOverride="key:620781900:22075074" showBillboardText="false" npcId="1879080651" npcName="War-tyrant Akúlhun"/>
@@ -5741,7 +5741,7 @@
 <questComplete showBillboardText="false" achievableId="1879082923"/>
 </objective>
 <objective index="2">
-<questComplete loreInfo="key:620781902:118018273" progressOverride="key:620781902:22075073" showBillboardText="false" questCategory="Isendeep Mine" count="50"/>
+<questComplete loreInfo="key:620781902:118018273" progressOverride="key:620781902:22075073" showBillboardText="false" questCategory="20" count="50"/>
 </objective>
 <objective index="3" text="key:620781902:94621395">
 <npcTalk loreInfo="key:620781902:118018274" progressOverride="key:620781902:22075074" showBillboardText="false" npcId="1879080651" npcName="War-tyrant Akúlhun"/>
@@ -5755,7 +5755,7 @@
 <deed id="1879082925" key="Lugazag_Tower_Travel_Tier_1" name="Lugazag Tower Travel Tier 1" rawName="key:620781904:228870261" type="REPUTATION" minLevel="50" category="6" level="50" description="key:620781904:54354734">
 <objectives>
 <objective index="1">
-<questComplete loreInfo="key:620781904:118018273" progressOverride="key:620781904:22075073" showBillboardText="false" questCategory="Lugazag" count="10"/>
+<questComplete loreInfo="key:620781904:118018273" progressOverride="key:620781904:22075073" showBillboardText="false" questCategory="10" count="10"/>
 </objective>
 <objective index="2" text="key:620781904:94621394">
 <npcTalk loreInfo="key:620781904:118018274" progressOverride="key:620781904:22075074" showBillboardText="false" npcId="1879080651" npcName="War-tyrant Akúlhun"/>
@@ -5772,7 +5772,7 @@
 <questComplete showBillboardText="false" achievableId="1879082925"/>
 </objective>
 <objective index="2">
-<questComplete loreInfo="key:620781906:118018273" progressOverride="key:620781906:22075073" showBillboardText="false" questCategory="Lugazag" count="25"/>
+<questComplete loreInfo="key:620781906:118018273" progressOverride="key:620781906:22075073" showBillboardText="false" questCategory="10" count="25"/>
 </objective>
 <objective index="3" text="key:620781906:94621395">
 <npcTalk loreInfo="key:620781906:118018274" progressOverride="key:620781906:22075074" showBillboardText="false" npcId="1879080651" npcName="War-tyrant Akúlhun"/>
@@ -5789,7 +5789,7 @@
 <questComplete showBillboardText="false" achievableId="1879082926"/>
 </objective>
 <objective index="2">
-<questComplete loreInfo="key:620781908:118018273" progressOverride="key:620781908:22075073" showBillboardText="false" questCategory="Lugazag" count="50"/>
+<questComplete loreInfo="key:620781908:118018273" progressOverride="key:620781908:22075073" showBillboardText="false" questCategory="10" count="50"/>
 </objective>
 <objective index="3" text="key:620781908:94621395">
 <npcTalk loreInfo="key:620781908:118018274" progressOverride="key:620781908:22075074" showBillboardText="false" npcId="1879080651" npcName="War-tyrant Akúlhun"/>
@@ -5803,7 +5803,7 @@
 <deed id="1879082928" key="Tirith_Rhaw_Travel_Tier_1" name="Tirith Rhaw Travel Tier 1" rawName="key:620781910:228870261" type="REPUTATION" minLevel="50" category="6" level="50" description="key:620781910:54354734">
 <objectives>
 <objective index="1">
-<questComplete loreInfo="key:620781910:118018273" progressOverride="key:620781910:22075073" showBillboardText="false" questCategory="Tirith Rhaw" count="10"/>
+<questComplete loreInfo="key:620781910:118018273" progressOverride="key:620781910:22075073" showBillboardText="false" questCategory="23" count="10"/>
 </objective>
 <objective index="2" text="key:620781910:94621394">
 <npcTalk loreInfo="key:620781910:118018274" progressOverride="key:620781910:22075074" showBillboardText="false" npcId="1879080651" npcName="War-tyrant Akúlhun"/>
@@ -5820,7 +5820,7 @@
 <questComplete showBillboardText="false" achievableId="1879082928"/>
 </objective>
 <objective index="2">
-<questComplete loreInfo="key:620781912:118018273" progressOverride="key:620781912:22075073" showBillboardText="false" questCategory="Tirith Rhaw" count="25"/>
+<questComplete loreInfo="key:620781912:118018273" progressOverride="key:620781912:22075073" showBillboardText="false" questCategory="23" count="25"/>
 </objective>
 <objective index="3" text="key:620781912:94621395">
 <npcTalk loreInfo="key:620781912:118018274" progressOverride="key:620781912:22075074" showBillboardText="false" npcId="1879080651" npcName="War-tyrant Akúlhun"/>
@@ -5837,7 +5837,7 @@
 <questComplete showBillboardText="false" achievableId="1879082929"/>
 </objective>
 <objective index="2">
-<questComplete loreInfo="key:620781914:118018273" progressOverride="key:620781914:22075073" showBillboardText="false" questCategory="Tirith Rhaw" count="50"/>
+<questComplete loreInfo="key:620781914:118018273" progressOverride="key:620781914:22075073" showBillboardText="false" questCategory="23" count="50"/>
 </objective>
 <objective index="3" text="key:620781914:94621395">
 <npcTalk loreInfo="key:620781914:118018274" progressOverride="key:620781914:22075074" showBillboardText="false" npcId="1879080651" npcName="War-tyrant Akúlhun"/>
@@ -5851,7 +5851,7 @@
 <deed id="1879082931" key="Tol_Ascarnen_Travel_Tier_1" name="Tol Ascarnen Travel Tier 1" rawName="key:620781916:228870261" type="REPUTATION" minLevel="50" category="6" level="50" description="key:620781916:54354734">
 <objectives>
 <objective index="1">
-<questComplete loreInfo="key:620781916:118018273" progressOverride="key:620781916:22075073" showBillboardText="false" questCategory="Tol Ascarnen" count="10"/>
+<questComplete loreInfo="key:620781916:118018273" progressOverride="key:620781916:22075073" showBillboardText="false" questCategory="27" count="10"/>
 </objective>
 <objective index="2" text="key:620781916:94621394">
 <npcTalk loreInfo="key:620781916:118018274" progressOverride="key:620781916:22075074" showBillboardText="false" npcId="1879080651" npcName="War-tyrant Akúlhun"/>
@@ -5868,7 +5868,7 @@
 <questComplete showBillboardText="false" achievableId="1879082931"/>
 </objective>
 <objective index="2">
-<questComplete loreInfo="key:620781918:118018273" progressOverride="key:620781918:22075073" showBillboardText="false" questCategory="Tol Ascarnen" count="25"/>
+<questComplete loreInfo="key:620781918:118018273" progressOverride="key:620781918:22075073" showBillboardText="false" questCategory="27" count="25"/>
 </objective>
 <objective index="3" text="key:620781918:94621395">
 <npcTalk loreInfo="key:620781918:118018274" progressOverride="key:620781918:22075074" showBillboardText="false" npcId="1879080651" npcName="War-tyrant Akúlhun"/>
@@ -5885,7 +5885,7 @@
 <questComplete showBillboardText="false" achievableId="1879082932"/>
 </objective>
 <objective index="2">
-<questComplete loreInfo="key:620781920:118018273" progressOverride="key:620781920:22075073" showBillboardText="false" questCategory="Tol Ascarnen" count="50"/>
+<questComplete loreInfo="key:620781920:118018273" progressOverride="key:620781920:22075073" showBillboardText="false" questCategory="27" count="50"/>
 </objective>
 <objective index="3" text="key:620781920:94621395">
 <npcTalk loreInfo="key:620781920:118018274" progressOverride="key:620781920:22075074" showBillboardText="false" npcId="1879080651" npcName="War-tyrant Akúlhun"/>
@@ -6321,7 +6321,7 @@
 <deed id="1879086561" key="Wanderer_of_Evendim" name="Wanderer of Evendim" rawName="key:620789510:228870261" type="REPUTATION" minLevel="1" category="12" level="30" description="key:620789510:54354734">
 <objectives>
 <objective index="1" text="key:620789510:94621393">
-<questComplete loreInfo="key:620789510:118018273" progressOverride="key:620789510:22075073" showBillboardText="false" questCategory="Evendim" count="10"/>
+<questComplete loreInfo="key:620789510:118018273" progressOverride="key:620789510:22075073" showBillboardText="false" questCategory="19" count="10"/>
 </objective>
 </objectives>
 <rewards>
@@ -6335,7 +6335,7 @@
 <questComplete showBillboardText="false" achievableId="1879086561"/>
 </objective>
 <objective index="2" text="key:620789511:94621394">
-<questComplete loreInfo="key:620789511:118018273" progressOverride="key:620789511:22075073" showBillboardText="false" questCategory="Evendim" count="20"/>
+<questComplete loreInfo="key:620789511:118018273" progressOverride="key:620789511:22075073" showBillboardText="false" questCategory="19" count="20"/>
 </objective>
 </objectives>
 <rewards>
@@ -6349,7 +6349,7 @@
 <questComplete showBillboardText="false" achievableId="1879086562"/>
 </objective>
 <objective index="2" text="key:620789512:94621394">
-<questComplete loreInfo="key:620789512:118018273" progressOverride="key:620789512:22075073" showBillboardText="false" questCategory="Evendim" count="30"/>
+<questComplete loreInfo="key:620789512:118018273" progressOverride="key:620789512:22075073" showBillboardText="false" questCategory="19" count="30"/>
 </objective>
 </objectives>
 <rewards>
@@ -6962,7 +6962,7 @@
 <objectives>
 <objective index="1">
 <monsterDied loreInfo="key:620793941:118018273" progressOverride="key:620793941:22075073" showBillboardText="false" count="100">
-<monsterSelection mobDivision="Breeland_rep_dungeon" species="53"/>
+<monsterSelection mobDivision="169" species="53"/>
 </monsterDied>
 </objective>
 </objectives>
@@ -6979,7 +6979,7 @@
 </objective>
 <objective index="2">
 <monsterDied loreInfo="key:620793944:118018273" progressOverride="key:620793944:22075073" showBillboardText="false" count="200">
-<monsterSelection mobDivision="Breeland_rep_dungeon" species="53"/>
+<monsterSelection mobDivision="169" species="53"/>
 </monsterDied>
 </objective>
 </objectives>
@@ -6993,7 +6993,7 @@
 <objectives>
 <objective index="1">
 <monsterDied loreInfo="key:620793947:118018273" progressOverride="key:620793947:22075073" showBillboardText="false" count="150">
-<monsterSelection mobDivision="Breeland_rep_dungeon" species="12"/>
+<monsterSelection mobDivision="169" species="12"/>
 </monsterDied>
 </objective>
 </objectives>
@@ -7010,7 +7010,7 @@
 </objective>
 <objective index="2">
 <monsterDied loreInfo="key:620793948:118018273" progressOverride="key:620793948:22075073" showBillboardText="false" count="300">
-<monsterSelection mobDivision="Breeland_rep_dungeon" species="12"/>
+<monsterSelection mobDivision="169" species="12"/>
 </monsterDied>
 </objective>
 </objectives>
@@ -7024,7 +7024,7 @@
 <objectives>
 <objective index="1">
 <monsterDied loreInfo="key:620793950:118018273" progressOverride="key:620793950:22075073" showBillboardText="false" count="150">
-<monsterSelection mobDivision="Breeland_rep_dungeon" species="41"/>
+<monsterSelection mobDivision="169" species="41"/>
 </monsterDied>
 </objective>
 </objectives>
@@ -7041,7 +7041,7 @@
 </objective>
 <objective index="2">
 <monsterDied loreInfo="key:620793949:118018273" progressOverride="key:620793949:22075073" showBillboardText="false" count="300">
-<monsterSelection mobDivision="Breeland_rep_dungeon" species="41"/>
+<monsterSelection mobDivision="169" species="41"/>
 </monsterDied>
 </objective>
 </objectives>
@@ -7055,7 +7055,7 @@
 <objectives>
 <objective index="1">
 <monsterDied loreInfo="key:620793951:118018273" progressOverride="key:620793951:22075073" showBillboardText="false" count="150">
-<monsterSelection mobDivision="EredLuin_rep_dungeon" genus="14"/>
+<monsterSelection mobDivision="168" genus="14"/>
 </monsterDied>
 </objective>
 </objectives>
@@ -7072,7 +7072,7 @@
 </objective>
 <objective index="2">
 <monsterDied loreInfo="key:620793952:118018273" progressOverride="key:620793952:22075073" showBillboardText="false" count="300">
-<monsterSelection mobDivision="EredLuin_rep_dungeon" genus="14"/>
+<monsterSelection mobDivision="168" genus="14"/>
 </monsterDied>
 </objective>
 </objectives>
@@ -7086,7 +7086,7 @@
 <objectives>
 <objective index="1">
 <monsterDied loreInfo="key:620793953:118018273" progressOverride="key:620793953:22075073" showBillboardText="false" count="150">
-<monsterSelection mobDivision="EredLuin_rep_dungeon" species="33"/>
+<monsterSelection mobDivision="168" species="33"/>
 </monsterDied>
 </objective>
 </objectives>
@@ -7103,7 +7103,7 @@
 </objective>
 <objective index="2">
 <monsterDied loreInfo="key:620793954:118018273" progressOverride="key:620793954:22075073" showBillboardText="false" count="300">
-<monsterSelection mobDivision="EredLuin_rep_dungeon" species="33"/>
+<monsterSelection mobDivision="168" species="33"/>
 </monsterDied>
 </objective>
 </objectives>
@@ -7134,7 +7134,7 @@
 <objectives>
 <objective index="1">
 <monsterDied loreInfo="key:620793955:118018273" progressOverride="key:620793955:22075073" showBillboardText="false" count="100">
-<monsterSelection mobDivision="EredLuin_rep_dungeon" species="47"/>
+<monsterSelection mobDivision="168" species="47"/>
 </monsterDied>
 </objective>
 </objectives>
@@ -7151,7 +7151,7 @@
 </objective>
 <objective index="2">
 <monsterDied loreInfo="key:620793956:118018273" progressOverride="key:620793956:22075073" showBillboardText="false" count="200">
-<monsterSelection mobDivision="EredLuin_rep_dungeon" species="47"/>
+<monsterSelection mobDivision="168" species="47"/>
 </monsterDied>
 </objective>
 </objectives>

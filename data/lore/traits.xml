@@ -374,8 +374,8 @@
 <stat name="POWER" descriptionOverride="key:620765465:106251890" constant="30.0"/>
 </trait>
 <trait identifier="1879060400" name="Captain's Hope" iconId="1090541114" nature="3" tooltip="key:620765476:191029568" description="key:620765476:54354734">
-<stat name="Skill_Duration_Trait_Captain_BuffLineBonus" descriptionOverride="key:620765476:106251890" constant="-2.0"/>
 <specialEffect label=""/>
+<stat name="Skill_Duration_Trait_Captain_BuffLineBonus" descriptionOverride="key:620765476:106251890" constant="-2.0"/>
 <effectGenerator id="1879093390" name="Improved Standard of Hope" spellcraft="0.0"/>
 </trait>
 <trait identifier="1879060432" name="Expert Attacks" iconId="1090541117" nature="3" tooltip="key:620765507:191029568" description="key:620765507:54354734">
@@ -383,8 +383,8 @@
 <stat name="MIGHT" descriptionOverride="key:620765507:106251890" constant="10.0"/>
 </trait>
 <trait identifier="1879060438" name="Intimidating Shout" iconId="1090541119" nature="3" tooltip="key:620765511:191029568" description="key:620765511:54354734">
-<stat name="MIGHT" descriptionOverride="key:620765511:106251890" constant="10.0"/>
 <specialEffect label=""/>
+<stat name="MIGHT" descriptionOverride="key:620765511:106251890" constant="10.0"/>
 </trait>
 <trait identifier="1879060444" name="Subtle Command" iconId="1090541121" nature="3" tooltip="key:620765515:191029568" description="key:620765515:54354734">
 <stat name="Skill_AdditionalThreat_subtlecommand" constant="-50.0"/>
@@ -561,8 +561,8 @@
 <stat name="RANGED_DAMAGE_PERCENTAGE" descriptionOverride="key:620765748:106251891" constant="2.0"/>
 </trait>
 <trait identifier="1879060714" name="Graceful Draw" iconId="1090541198" nature="3" tooltip="key:620765750:191029568" description="key:620765750:54354734">
-<stat name="ICPR" descriptionOverride="key:620765750:106251891" constant="15.0"/>
 <specialEffect label=""/>
+<stat name="ICPR" descriptionOverride="key:620765750:106251891" constant="15.0"/>
 </trait>
 <trait identifier="1879060717" name="Stealthy Shot" iconId="1090541199" nature="3" tooltip="key:620765752:191029568" description="key:620765752:54354734">
 <stat name="CRITICAL_RANGED_PERCENTAGE" descriptionOverride="key:620765752:106251890" constant="1.0"/>
@@ -574,9 +574,9 @@
 <stat name="Skill_InductionDuration_Trait_Fastpull_2" operator="SUBSTRACT" descriptionOverride="key:620765758:106251892" constant="0.1"/>
 </trait>
 <trait identifier="1879060750" name="Master of the Staff" iconId="1090541203" nature="3" tooltip="key:620765783:191029568" description="key:620765783:54354734">
+<specialEffect label=""/>
 <stat name="MORALE" operator="MULTIPLY" descriptionOverride="key:620765783:106251890" constant="1.05"/>
 <stat name="FIRE_MITIGATION_PERCENTAGE" descriptionOverride="key:620765783:106251891" constant="2.0"/>
-<specialEffect label=""/>
 </trait>
 <trait identifier="1879060759" name="Power and Wisdom" iconId="1090541205" nature="3" tooltip="key:620765789:191029568" description="key:620765789:54354734">
 <stat name="ForwardSource_Combat_TraitCombo3" operator="SET" constant="33.0"/>
@@ -606,8 +606,8 @@
 <stat name="Resist_Additional_Resistance_Wound" descriptionOverride="key:620765809:106251893" constant="1.0"/>
 </trait>
 <trait identifier="1879060794" name="Beast-lore" iconId="1090541214" nature="3" tooltip="key:620765815:191029568" description="key:620765815:54354734">
-<stat name="Skill_VitalCost_Trait_SignPowerCostReduction" descriptionOverride="key:620765815:106251890" constant="-3.0"/>
 <specialEffect label="key:620765815:106251889"/>
+<stat name="Skill_VitalCost_Trait_SignPowerCostReduction" descriptionOverride="key:620765815:106251890" constant="-3.0"/>
 </trait>
 <trait identifier="1879060801" name="Dúnadan-learning" iconId="1090541216" nature="3" tooltip="key:620765822:191029568" description="key:620765822:54354734">
 <stat name="ForwardSource_Combat_TraitCombo2" operator="SET" constant="3.0"/>
@@ -804,11 +804,11 @@
 <trait identifier="1879062411" name="Superior Study Access" iconId="1090535587" category="31" nature="1" cosmetic="true" tooltip="key:620767346:191029568" description="key:620767346:54354734"/>
 <trait identifier="1879062506" name="Sword and Staff" iconId="1090542870" minLevel="39" nature="2" tooltip="key:620767447:191029568" description="key:620767447:54354734">
 <stat name="Inventory_AllowedEquipmentCategories" descriptionOverride="key:620767447:106251889" constant="1.34217728E8"/>
+<specialEffect label="key:620767447:106251890"/>
 <stat name="MORALE" constant="300.0"/>
 <stat name="PARRY_PERCENTAGE" constant="2.0"/>
 <stat name="EVADE_PERCENTAGE" constant="2.0"/>
 <stat name="MELEE_DAMAGE_PERCENTAGE" constant="15.000001"/>
-<specialEffect label="key:620767447:106251890"/>
 </trait>
 <trait identifier="1879062692" name="Superior Workbench Access" iconId="1090535587" category="31" nature="1" cosmetic="true" tooltip="key:620767613:191029568" description="key:620767613:54354734"/>
 <trait identifier="1879062819" name="Track Mines" iconId="1090543114" category="31" nature="1" tooltip="key:620767742:191029568" description="key:620767742:54354734">

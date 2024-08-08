@@ -262,6 +262,7 @@
 <label key="1879060167" value="Erwiderung \qHeftiger Schlag\q oder \qSchildspott\q"/>
 <label key="1879060181" value="Haltung: Bedrohung des Wächters"/>
 <label key="1879060192" value="Wächterschild"/>
+<label key="1879060237" value="Kritische Erwiderung"/>
 <label key="1879060238" value="Gut genährt"/>
 <label key="1879060253" value="Rekrutierung: Verbesserter Siegesherold"/>
 <label key="1879060280" value="Rekrutierung: Siegesherold"/>
@@ -408,6 +409,7 @@
 <label key="1879064557" value="Edler Schrei"/>
 <label key="1879064560" value="Heldenhafte Überzeugung"/>
 <label key="1879064569" value="Legendäre Überzeugung"/>
+<label key="1879064672" value="Lähmen"/>
 <label key="1879067226" value="Sternenglas"/>
 <label key="1879067227" value="Hoffnung geben"/>
 <label key="1879067229" value="Sternenglas[i]"/>
@@ -525,6 +527,7 @@
 <label key="1879073075" value="Gnadenloser Angriff"/>
 <label key="1879073076" value="Angriff koordinieren"/>
 <label key="1879073077" value="\qVernichtung eines Gefährten\q neutralisieren"/>
+<label key="1879073079" value="Erwiderung \qVernichtung eines Gefährten\q"/>
 <label key="1879073080" value="Racheschrei"/>
 <label key="1879073088" value="In den Weg werfen"/>
 <label key="1879073090" value="Fokus"/>
@@ -1058,6 +1061,7 @@
 <label key="1879092635" value="Licht Elendils"/>
 <label key="1879092636" value="\qKampfgestählt\q neutralisieren"/>
 <label key="1879092638" value="Kampfgestählt"/>
+<label key="1879092643" value="Schildbruder"/>
 <label key="1879092722" value="Licht Dúnachars"/>
 <label key="1879092723" value="Eindrucksvolle Gegenwart"/>
 <label key="1879092724" value="\qEindrucksvolle Gegenwart\q neutralisieren"/>
@@ -1499,6 +1503,7 @@
 <label key="key:620765203:54354734" value="Die Verwendung von \qStoß\q oder \qÜbermannen\q hat neue Möglichkeiten für den Kampf eröffnet."/>
 <label key="key:620765240:54354734" value="Die Verwendung von 'Heftiger Schlag' oder 'Schildspott' hat neue Möglichkeiten für den Kampf eröffnet."/>
 <label key="key:620765327:54354734" value="Die Verwendung von 'Zweischneidiger Schlag' hat neue Möglichkeiten für den Kampf eröffnet."/>
+<label key="key:620765331:54354734" value="Jede Fertigkeit, die eine erfolgreiche kritische Erwiderung voraussetzt, kann nun eingesetzt werden."/>
 <label key="key:620765404:54354734" value="Jede Fertigkeit, die eine erfolgreiche Erwiderung \qVernichtung des Gegners\q voraussetzt, kann nun eingesetzt werden."/>
 <label key="key:620765422:54354734" value="Verwendung des Kampfschreis hat den kampfbereiten Zustand herbeigeführt."/>
 <label key="key:620765638:54354734" value="Die Verwendung von 'Schildstreich' hat neue Möglichkeiten für den Kampf eröffnet."/>
@@ -1530,6 +1535,8 @@
 <label key="key:620767779:106251889" value="Holz aufspüren"/>
 <label key="key:620767854:106251889" value="Feldfrüchte aufspüren"/>
 <label key="key:620768920:54354734" value="Eine Wunde, die behandelt werden muss, wenn sie keine schlimmeren Folgen nach sich ziehen soll ."/>
+<label key="key:620768962:106251890" value="Angewurzelt"/>
+<label key="key:620768962:54354734" value="Macht das Ziel für eine Reihe von Kampfzuständen bewegungslos ('Zu Boden geschlagen', 'Betäubung', 'Angewurzelt' und 'Benommenheit')"/>
 <label key="key:620770185:106251889" value="Vermindert die Bewegungsgeschwindigkeit um 25 %."/>
 <label key="key:620770190:181298206" value="Setzt 4 Sek. lang außer Gefecht"/>
 <label key="key:620770443:181298206" value="Erhöht die Wahrscheinlichkeit, einen Teil des Schadens zurück auf den Angreifer zurückzuwerfen."/>
@@ -1557,6 +1564,7 @@
 <label key="key:620774916:54354734" value="Erhöht allen Schaden gegen das gekennzeichnete Ziel."/>
 <label key="key:620774926:106251889" value="Moral-Höchstwert +5 %"/>
 <label key="key:620774933:54354734" value="Der Schaden, der dem markierten Ziel zugefügt wurde, hat eine wiederherstellende Wirkung auf den Angreifer."/>
+<label key="key:620774937:54354734" value="Jede Fertigkeit, die die Niederlage eines Gefährten voraussetzt, kann nun eingesetzt werden."/>
 <label key="key:620774944:54354734" value="Lässt das Ziel niederknien."/>
 <label key="key:620774953:54354734" value="Euer Schlag des Herolds gibt Euch Moral zurück."/>
 <label key="key:620774954:54354734" value="Euer Schlag des Herolds gibt Euch Moral zurück."/>
@@ -1818,6 +1826,7 @@
 <label key="key:620793041:54354734" value="Euer Angriffe verursachen 25 % mehr Schaden."/>
 <label key="key:620793045:181298206" value="Euer Angriff schenkt Eurer Gefährten-Gruppe eine Stärkung, die mit einer gewissen Wahrscheinlichkeit das Licht Elendils herbeiruft."/>
 <label key="key:620793047:54354734" value="\qZerstörerischer Schlag\q oder \qDoppelschlag\q haben einen \qKampfgestählten Zustand\q herbeigeführt."/>
+<label key="key:620793058:54354734" value="Ihr seid der Schildbruder eines Hauptmanns, der ihm ermöglicht, spezielle Fähigkeiten auf Euch zu lenken."/>
 <label key="key:620793115:54354734" value="Das Licht Dúnachars hat Mordirith eine Zeitlang geschwächt."/>
 <label key="key:620793116:54354734" value="Sich allein schon im Thronsaal von Carn Dûm aufzuhalten, gibt Mordirith große Macht."/>
 <label key="key:620793365:106251889" value="Aufspüren von Artefakten"/>
