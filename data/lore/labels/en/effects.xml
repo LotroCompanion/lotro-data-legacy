@@ -25,12 +25,14 @@
 <label key="1879049490" value="Poison"/>
 <label key="1879049493" value="Crippling Poison"/>
 <label key="1879049495" value="Latent Poison"/>
+<label key="1879049496" value="Induce Stunned"/>
 <label key="1879049499" value="RunAwaySelf"/>
 <label key="1879049532" value="Minor Disease"/>
 <label key="1879049534" value="Minor Diseased Frailty"/>
 <label key="1879049536" value="Disease"/>
 <label key="1879049538" value="Diseased Frailty"/>
 <label key="1879049540" value="Festering Disease"/>
+<label key="1879049541" value="Induce Knockeddown"/>
 <label key="1879049583" value="Travel Home"/>
 <label key="1879049655" value="Increased Power"/>
 <label key="1879049658" value="Full"/>
@@ -59,9 +61,11 @@
 <label key="1879050240" value="Summon Splitwight"/>
 <label key="1879050245" value="Induce Knockeddown"/>
 <label key="1879050246" value="Steal from the Dead"/>
+<label key="1879050247" value="Steal from the Dead"/>
 <label key="1879050253" value="Major Disease"/>
 <label key="1879050255" value="Greater Diseased Frailty"/>
 <label key="1879050257" value="Lurking Sickness"/>
+<label key="1879050258" value="Power Damage"/>
 <label key="1879050262" value="Major Sprain"/>
 <label key="1879050263" value="Major Dislocation"/>
 <label key="1879050264" value="Major Injury"/>
@@ -111,6 +115,7 @@
 <label key="1879052163" value="Induce Fellowship Manoeuvre Stunned"/>
 <label key="1879052204" value="Induce Stunned"/>
 <label key="1879052213" value="Lesser Giant Eagle"/>
+<label key="1879052290" value="Harried!"/>
 <label key="1879052293" value="Drain Morale"/>
 <label key="1879052296" value="Sacrifice"/>
 <label key="1879052297" value="Survivor"/>
@@ -127,6 +132,7 @@
 <label key="1879052520" value="On the Move Power Heal"/>
 <label key="1879052535" value="Rain of Thorns Root"/>
 <label key="1879052657" value="Shadow Grip"/>
+<label key="1879052658" value="Shadow Grip"/>
 <label key="1879052660" value="Terrible Retribution"/>
 <label key="1879052662" value="Aura of Dread"/>
 <label key="1879052671" value="Shadow Vulnerability"/>
@@ -335,11 +341,14 @@
 <label key="1879060755" value="Flanked! Improved Staff Strike"/>
 <label key="1879060762" value="Draw Power"/>
 <label key="1879060763" value="Improved Draw Power"/>
+<label key="1879060764" value="Steal Power: Improved (Drain)"/>
+<label key="1879060767" value="Steal Power (Drain)"/>
 <label key="1879060776" value="Hope"/>
 <label key="1879060782" value="Sign of the Wild: Protection"/>
 <label key="1879060790" value="Leechcraft"/>
 <label key="1879060796" value="Sign of the Wild: Rage"/>
 <label key="1879060808" value="The Shaking of Arda"/>
+<label key="1879060809" value="Induce Rooted"/>
 <label key="1879060813" value="Wisdom of the Council"/>
 <label key="1879060814" value="Wisdom of the Council"/>
 <label key="1879060822" value="Induce Dazed"/>
@@ -562,6 +571,7 @@
 <label key="1879073176" value="Lay of the Hammerhand"/>
 <label key="1879073180" value="Burning Embers"/>
 <label key="1879073183" value="Raven"/>
+<label key="1879073194" value="Dizzy"/>
 <label key="1879073195" value="Benediction of the Raven"/>
 <label key="1879073199" value="Evasion"/>
 <label key="1879073202" value="Inner Focus"/>
@@ -611,6 +621,7 @@
 <label key="1879073328" value="Pickpocket"/>
 <label key="1879073366" value="Barbed Arrow"/>
 <label key="1879073368" value="Glowing Arrow"/>
+<label key="1879073369" value="Searing Heat"/>
 <label key="1879073370" value="Burning Arrow"/>
 <label key="1879073391" value="Slowing Cut"/>
 <label key="1879073395" value="Flensing Slash/Barbed Arrow Combo"/>
@@ -737,6 +748,7 @@
 <label key="1879080292" value="Eye Rake"/>
 <label key="1879081145" value="Aid Archer"/>
 <label key="1879081261" value="Exit Torch Carrying"/>
+<label key="1879081320" value="Continual Major Renewal"/>
 <label key="1879082061" value="Summon Orc"/>
 <label key="1879082062" value="Summon Orc"/>
 <label key="1879082063" value="Summon Orc"/>
@@ -805,6 +817,7 @@
 <label key="1879084346" value="Full"/>
 <label key="1879084347" value="Full"/>
 <label key="1879084348" value="Full"/>
+<label key="1879084349" value="Vile Theft"/>
 <label key="1879084353" value="Vile Theft"/>
 <label key="1879084410" value="Deadly Poison"/>
 <label key="1879084487" value="Full"/>
@@ -839,6 +852,7 @@
 <label key="1879085384" value="Horn"/>
 <label key="1879085385" value="Induce Feared"/>
 <label key="1879085397" value="Horn"/>
+<label key="1879085467" value="Susceptibility to Wounds"/>
 <label key="1879085490" value="Secret Paths: Gramsfoot"/>
 <label key="1879085510" value="Mortal Terror"/>
 <label key="1879085522" value="Roaring Inferno"/>
@@ -860,6 +874,7 @@
 <label key="1879085778" value="Exit Dazed and Stunned"/>
 <label key="1879085804" value="Painful Price"/>
 <label key="1879085805" value="Shadow Grip"/>
+<label key="1879085806" value="Shadow Grip"/>
 <label key="1879085807" value="Noble Mark"/>
 <label key="1879085848" value="Anthem of the Free Peoples Threat"/>
 <label key="1879085950" value="Piercing Wound"/>
@@ -882,6 +897,7 @@
 <label key="1879087247" value="Lesser Will"/>
 <label key="1879087249" value="Lesser Fate"/>
 <label key="1879087250" value="Greater Fate"/>
+<label key="1879087291" value="Red Haze Pip Gain"/>
 <label key="1879087328" value="Summoned Angmarim Spider"/>
 <label key="1879087329" value="Summoned Angmarim Spider"/>
 <label key="1879087332" value="Lesser Morale"/>
@@ -891,7 +907,9 @@
 <label key="1879087382" value="Summoned Angmarim Spider"/>
 <label key="1879087397" value="Blocking Blades"/>
 <label key="1879087438" value="Foul Ichor"/>
+<label key="1879087439" value="Foul Ichor"/>
 <label key="1879087458" value="Stinking Filth"/>
+<label key="1879087462" value="Summoned Caveclaw"/>
 <label key="1879087464" value="Summoned Caveclaw"/>
 <label key="1879087465" value="Summoned Caveclaw"/>
 <label key="1879087504" value="Steady Morale"/>
@@ -1085,6 +1103,7 @@
 <label key="1879093391" value="Improved Standard of War"/>
 <label key="1879093395" value="Strength of Will"/>
 <label key="1879093488" value="Burning Blades"/>
+<label key="1879093696" value="Blinded by the Light"/>
 <label key="1879093699" value="Light of Elendil"/>
 <label key="1879093703" value="Marked"/>
 <label key="1879093754" value="Wigskold's Revenge"/>
@@ -1191,6 +1210,7 @@
 <label key="1879095609" value="Weakening Wheeze"/>
 <label key="1879095610" value="Weakening Wheeze"/>
 <label key="1879095615" value="Creeping Disease"/>
+<label key="1879095616" value="Foul Ichor"/>
 <label key="1879095617" value="War-speech"/>
 <label key="1879095622" value="Gift of the hammerhand effect"/>
 <label key="1879095623" value=".."/>
@@ -1247,6 +1267,7 @@
 <label key="1879096865" value="Learn the theorbo"/>
 <label key="1879096879" value="Great Protection"/>
 <label key="1879096899" value="Dispel Half Mitigation"/>
+<label key="1879097098" value="Savage Bleed"/>
 <label key="1879097165" value="Fire Oil"/>
 <label key="1879097191" value="Final Act"/>
 <label key="1879097219" value="Cheer"/>
@@ -1289,6 +1310,7 @@
 <label key="1879097882" value="Charge!"/>
 <label key="1879097886" value="I See You!"/>
 <label key="1879097897" value=".."/>
+<label key="1879097901" value="Hatchlings"/>
 <label key="1879097902" value="Heavy Webbing"/>
 <label key="1879098038" value="Disperse Shadow"/>
 <label key="1879098101" value="Fire Lash"/>
@@ -1306,8 +1328,13 @@
 <label key="1879098324" value="Exposing Strke Chain Up Base"/>
 <label key="1879098336" value="Induce Dazed"/>
 <label key="1879098376" value="Induce Feared"/>
+<label key="1879098720" value="Induce Dazed"/>
 <label key="1879098722" value="Greater Shadow Vulnerability"/>
 <label key="1879098723" value="Greater Susceptibility to Fear"/>
+<label key="1879098725" value="Nearly Removed Thorn"/>
+<label key="1879098726" value="Partially Extracted Thorn"/>
+<label key="1879098727" value="Deeply Penetrating Thorn"/>
+<label key="1879098808" value="Percent Morale Damage"/>
 <label key="1879098828" value="Summoned Fire-wisp"/>
 <label key="1879098830" value="Improved Gift of the Hammerhand"/>
 <label key="1879098854" value="Tempered by Flame"/>
@@ -1366,6 +1393,7 @@
 <label key="1879101910" value="Thorin’s Halls Homestead"/>
 <label key="1879101911" value="Thorin’s Halls Homestead"/>
 <label key="1879101912" value="Thorin’s Halls Kinship Hall"/>
+<label key="1879101913" value="Fire Club"/>
 <label key="1879101996" value="Recalling Root"/>
 <label key="1879102249" value="Chicken Travel - Angmar"/>
 <label key="1879102250" value="Chicken Travel - Breeland"/>
@@ -1510,6 +1538,7 @@
 <label key="key:620765792:54354734" value="Power is being drained."/>
 <label key="key:620765795:54354734" value="Power is being drained."/>
 <label key="key:620765826:54354734" value="The ground heaves and buckles around the foes of Middle-Earth.  When this countdown is over, the target will be rooted."/>
+<label key="key:620765827:181298206" value="Roots for up to 30s"/>
 <label key="key:620765833:54354734" value="Damages attackers for one minute."/>
 <label key="key:620765837:181298206" value="Dazes for up to 30s"/>
 <label key="key:620765954:181298206" value="Dazes for up to 30s"/>
@@ -1689,6 +1718,7 @@
 <label key="key:620782699:181298206" value="You place a Banner of Victory on the field of battle."/>
 <label key="key:620782702:181298206" value="You place a Banner of War on the field of battle."/>
 <label key="key:620783932:181298206" value="Shake off Dazes or Stuns"/>
+<label key="key:620783939:181298206" value="Dazes for up to 15s"/>
 <label key="key:620783940:181298206" value="Fears for up to 15s"/>
 <label key="key:620783959:181298206" value="Stuns for 3s"/>
 <label key="key:620783960:181298206" value="Stuns for 3s"/>
@@ -1699,6 +1729,7 @@
 <label key="key:620784436:106251889" value="Increases your total morale by ${PERCENTVALUE}."/>
 <label key="key:620784436:54354734" value="The honor of men increases morale."/>
 <label key="key:620784437:106251890" value="Increased chance to miss"/>
+<label key="key:620784470:54354734" value="Lowers resistance to wounds."/>
 <label key="key:620784471:181298206" value="Summons an orc archer to follow its leader."/>
 <label key="key:620784537:54354734" value="Using secret paths allows for swifter travel to Gramsfoot."/>
 <label key="key:620788978:54354734" value="Attempts to make the target consider you their most dangerous threat."/>
@@ -1957,6 +1988,9 @@
 <label key="key:620796892:181298206" value="Fears for up to 10s"/>
 <label key="key:620797179:54354734" value="Lowers shadow damage mitigation."/>
 <label key="key:620797180:54354734" value="Lowers resistance to fear."/>
+<label key="key:620797184:54354734" value="The nettled thorn is nearly out, but it could still be dangerous if not removed before it bursts."/>
+<label key="key:620797186:54354734" value="The thorn is still caught in flesh, though now closer to the surface. It still threatens to burst and should be removed."/>
+<label key="key:620797187:54354734" value="A twisted and barbed thorn is burrowed deeply. It appears to be swelling and may burst. If it is not removed it will inflict great damage."/>
 <label key="key:620797275:209988549" value="Gift of the Hammerhand absorbs all damage."/>
 <label key="key:620797275:54354734" value="All incoming Morale damage is transformed into Power damage."/>
 <label key="key:620797287:106251889" value="Negates nearly all incoming damage"/>

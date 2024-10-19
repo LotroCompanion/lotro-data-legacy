@@ -1368,6 +1368,8 @@
 <label key="key:620774689:106251889" value="Increases your total Health by ${PERCENTVALUE}."/>
 <label key="key:620774692:191029568" value="Shortens the induction time of your web attacks by .25 seconds."/>
 <label key="key:620774692:54354734" value="Shortens the induction time of your web attacks by .25 seconds."/>
+<label key="key:620774695:191029568" value=""/>
+<label key="key:620774695:54354734" value=""/>
 <label key="key:620774696:191029568" value="You spray your target with clinging, sticky webs, reducing their chance to Parry or Evade."/>
 <label key="key:620774696:54354734" value="You spray your target with clinging, sticky webs, reducing their chance to Parry or Evade."/>
 <label key="key:620774705:191029568" value="A different visual appearance for your Spider Weaver"/>

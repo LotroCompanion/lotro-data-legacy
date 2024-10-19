@@ -25,12 +25,14 @@
 <label key="1879049490" value="Poison"/>
 <label key="1879049493" value="Poison invalidant"/>
 <label key="1879049495" value="Poison latent"/>
+<label key="1879049496" value="Déclencher Etourdi"/>
 <label key="1879049499" value="Fuite personnelle"/>
 <label key="1879049532" value="Maladie mineure"/>
 <label key="1879049534" value="Fragilité maladive mineure"/>
 <label key="1879049536" value="Maladie"/>
 <label key="1879049538" value="Fragilité maladive"/>
 <label key="1879049540" value="Maladie purulente"/>
+<label key="1879049541" value="Déclencher Renversé"/>
 <label key="1879049583" value="Rentrer à la maison"/>
 <label key="1879049655" value="Puissance augmentée"/>
 <label key="1879049658" value="${PLAYERNAME:Rassasié[m]|Rassasiée[f]}"/>
@@ -59,9 +61,11 @@
 <label key="1879050240" value="Invocation de semi-être spectral"/>
 <label key="1879050245" value="Induire Renversé"/>
 <label key="1879050246" value="Vol aux morts"/>
+<label key="1879050247" value="Vol aux morts"/>
 <label key="1879050253" value="Maladie majeure"/>
 <label key="1879050255" value="Fragilité maladive supérieure"/>
 <label key="1879050257" value="Maladie sournoise"/>
+<label key="1879050258" value="Dégâts à la Puissance"/>
 <label key="1879050262" value="Foulure majeure"/>
 <label key="1879050263" value="Dislocation majeure"/>
 <label key="1879050264" value="Lésion majeure"/>
@@ -111,6 +115,7 @@
 <label key="1879052163" value="Déclencher manoeuvre de communauté Etourdi"/>
 <label key="1879052204" value="Déclencher Etourdi"/>
 <label key="1879052213" value="Aigle géant mineur"/>
+<label key="1879052290" value="Harcèlement !"/>
 <label key="1879052293" value="Absorption de Moral"/>
 <label key="1879052296" value="Sacrifice"/>
 <label key="1879052297" value="Survivant"/>
@@ -127,6 +132,7 @@
 <label key="1879052520" value="Hausse de Puissance lors des déplacements"/>
 <label key="1879052535" value="Pluie de racines épineuses"/>
 <label key="1879052657" value="Etreinte de l'ombre"/>
+<label key="1879052658" value="Emprise de l'ombre"/>
 <label key="1879052660" value="Châtiment cruel"/>
 <label key="1879052662" value="Aura d'effroi"/>
 <label key="1879052671" value="Vulnérabilité aux ombres"/>
@@ -335,11 +341,14 @@
 <label key="1879060755" value="Contournement Coup de bâton amélioré"/>
 <label key="1879060762" value="Absorption de pouvoir"/>
 <label key="1879060763" value="Aspiration de puissance améliorée"/>
+<label key="1879060764" value="Vol de Puissance : amélioré (Aspiration)"/>
+<label key="1879060767" value="Vol de Puissance (Aspiration)"/>
 <label key="1879060776" value="Espoir"/>
 <label key="1879060782" value="Signe sauvage : protection"/>
 <label key="1879060790" value="Absorption des blessures"/>
 <label key="1879060796" value="Signe sauvage : rage"/>
 <label key="1879060808" value="Tremblements d'Arda"/>
+<label key="1879060809" value="Déclencher Enraciné"/>
 <label key="1879060813" value="Sagesse du Conseil"/>
 <label key="1879060814" value="Sagesse du Conseil"/>
 <label key="1879060822" value="Déclencher Hébété"/>
@@ -562,6 +571,7 @@
 <label key="1879073176" value="Lai de Poing de Marteau"/>
 <label key="1879073180" value="Braises ardentes"/>
 <label key="1879073183" value="Corbeau"/>
+<label key="1879073194" value="Etourdi"/>
 <label key="1879073195" value="Bénédiction du corbeau"/>
 <label key="1879073199" value="Esquive"/>
 <label key="1879073202" value="Concentration intérieure"/>
@@ -611,6 +621,7 @@
 <label key="1879073328" value="Pickpocket"/>
 <label key="1879073366" value="Flèche barbelée"/>
 <label key="1879073368" value="Flèche rougeoyante"/>
+<label key="1879073369" value="Chaleur torride"/>
 <label key="1879073370" value="Flèche brûlante"/>
 <label key="1879073391" value="Coupure ralentissante"/>
 <label key="1879073395" value="Combo botte d'escrime/Flèche barbelée"/>
@@ -737,6 +748,7 @@
 <label key="1879080292" value="Vision altérée"/>
 <label key="1879081145" value="Aide à l'archer"/>
 <label key="1879081261" value="Sortie de 'transport de torche'"/>
+<label key="1879081320" value="Renouveau majeur continuel"/>
 <label key="1879082061" value="Invocation d'Orque"/>
 <label key="1879082062" value="Invocation d'Orque"/>
 <label key="1879082063" value="Invocation d'Orque"/>
@@ -805,6 +817,7 @@
 <label key="1879084346" value="${PLAYERNAME:Rassasié[m]|Rassasiée[f]}"/>
 <label key="1879084347" value="${PLAYERNAME:Rassasié[m]|Rassasiée[f]}"/>
 <label key="1879084348" value="${PLAYERNAME:Rassasié[m]|Rassasiée[f]}"/>
+<label key="1879084349" value="Vol odieux"/>
 <label key="1879084353" value="Vol horrible"/>
 <label key="1879084410" value="Poison mortel"/>
 <label key="1879084487" value="${PLAYERNAME:Rassasié[m]|Rassasiée[f]}"/>
@@ -839,6 +852,7 @@
 <label key="1879085384" value="Cor"/>
 <label key="1879085385" value="Déclencher Effrayé"/>
 <label key="1879085397" value="Cor"/>
+<label key="1879085467" value="Vulnérabilité aux blessures"/>
 <label key="1879085490" value="Passages secrets : Pied de Gram"/>
 <label key="1879085510" value="Terreur mortelle"/>
 <label key="1879085522" value="Enfer brûlant"/>
@@ -860,6 +874,7 @@
 <label key="1879085778" value="Quitter Etourdi et Hébété"/>
 <label key="1879085804" value="Prix douloureux"/>
 <label key="1879085805" value="Etreinte de l'ombre"/>
+<label key="1879085806" value="Etreinte de l'ombre"/>
 <label key="1879085807" value="Noble marque"/>
 <label key="1879085848" value="Menace d'Hymne des Peuples Libres"/>
 <label key="1879085950" value="Blessure perforante"/>
@@ -882,6 +897,7 @@
 <label key="1879087247" value="Volonté réduite"/>
 <label key="1879087249" value="Destinée réduite"/>
 <label key="1879087250" value="Destinée renforcée"/>
+<label key="1879087291" value="Gain de points de Brume rouge"/>
 <label key="1879087328" value="Araignée angmarim invoquée"/>
 <label key="1879087329" value="Araignée angmarim invoquée"/>
 <label key="1879087332" value="Moral réduit"/>
@@ -891,7 +907,9 @@
 <label key="1879087382" value="Araignée angmarim invoquée"/>
 <label key="1879087397" value="Lames bloquantes"/>
 <label key="1879087438" value="Ichor immonde"/>
+<label key="1879087439" value="Ichor immonde"/>
 <label key="1879087458" value="Crasse puante"/>
+<label key="1879087462" value="Grifferoche invoquée"/>
 <label key="1879087464" value="Grifferoche invoquée"/>
 <label key="1879087465" value="Grifferoche invoquée"/>
 <label key="1879087504" value="Régulation de Moral"/>
@@ -1085,6 +1103,7 @@
 <label key="1879093391" value="Etendard de guerre amélioré"/>
 <label key="1879093395" value="Volonté"/>
 <label key="1879093488" value="Lames brûlantes"/>
+<label key="1879093696" value="Eblouissement"/>
 <label key="1879093699" value="Lumière d'Elendil"/>
 <label key="1879093703" value="Marqué"/>
 <label key="1879093754" value="Vengeance de Wigskold"/>
@@ -1191,6 +1210,7 @@
 <label key="1879095609" value="Ruse d'affaiblissement"/>
 <label key="1879095610" value="Ruse d'affaiblissement"/>
 <label key="1879095615" value="Mal rampant"/>
+<label key="1879095616" value="Ichor immonde"/>
 <label key="1879095617" value="Discours de guerre"/>
 <label key="1879095622" value="Effet de Don du Poing de Marteau"/>
 <label key="1879095623" value=".."/>
@@ -1247,6 +1267,7 @@
 <label key="1879096865" value="Apprendre à jouer du théorbe"/>
 <label key="1879096879" value="Grande protection"/>
 <label key="1879096899" value="Dissipation de semi-limitation"/>
+<label key="1879097098" value="Hémorragie sauvage"/>
 <label key="1879097165" value="Huile inflammable"/>
 <label key="1879097191" value="Acte final"/>
 <label key="1879097219" value="Encouragement"/>
@@ -1289,6 +1310,7 @@
 <label key="1879097882" value="A l'attaque !"/>
 <label key="1879097886" value="Je te vois !"/>
 <label key="1879097897" value=".."/>
+<label key="1879097901" value="Couvée"/>
 <label key="1879097902" value="Toiles importantes"/>
 <label key="1879098038" value="Dispersion de l'ombre"/>
 <label key="1879098101" value="Fouet de feu"/>
@@ -1306,8 +1328,13 @@
 <label key="1879098324" value="Cp d'exposition base d'enchaînement"/>
 <label key="1879098336" value="Déclencher Hébété"/>
 <label key="1879098376" value="Déclencher Effrayé"/>
+<label key="1879098720" value="Déclencher Hébété"/>
 <label key="1879098722" value="Plus grande vulnérabilité aux ombres"/>
 <label key="1879098723" value="Plus grande vulnérabilité à la peur"/>
+<label key="1879098725" value="Epine presque retirée"/>
+<label key="1879098726" value="Epine partiellement extraite"/>
+<label key="1879098727" value="Epine profondément enfoncée"/>
+<label key="1879098808" value="Pourcentage de dégâts au Moral"/>
 <label key="1879098828" value="Flammèche invoquée"/>
 <label key="1879098830" value="Don du Poing de Marteau amélioré"/>
 <label key="1879098854" value="Trempé par la flamme"/>
@@ -1366,6 +1393,7 @@
 <label key="1879101910" value="Résidence au Palais de Thorin"/>
 <label key="1879101911" value="Résidence au Palais de Thorin"/>
 <label key="1879101912" value="Maison de confrérie au Palais de Thorin"/>
+<label key="1879101913" value="Club du feu"/>
 <label key="1879101996" value="Racine de rappel"/>
 <label key="1879102249" value="Voyage de poulet - Angmar"/>
 <label key="1879102250" value="Voyage de poulet - Pays de Bree"/>
@@ -1510,6 +1538,7 @@
 <label key="key:620765792:54354734" value="La Puissance est absorbée."/>
 <label key="key:620765795:54354734" value="La Puissance est absorbée."/>
 <label key="key:620765826:54354734" value="Le sol se soulève sous les pieds des ennemis de la Terre du Milieu. Quand le compte à rebours s'achève, la cible se retrouve enracinée."/>
+<label key="key:620765827:181298206" value="Enracine pendant 30 s max."/>
 <label key="key:620765833:54354734" value="Inflige des dégâts aux assaillants pendant une minute."/>
 <label key="key:620765837:181298206" value="Hébète pendant 30 s max."/>
 <label key="key:620765954:181298206" value="Hébète pendant 30 s max."/>
@@ -1689,6 +1718,7 @@
 <label key="key:620782699:181298206" value="Vous placez une bannière de victoire sur le champ de bataille."/>
 <label key="key:620782702:181298206" value="Vous placez une bannière de guerre sur le champ de bataille."/>
 <label key="key:620783932:181298206" value="Fait disparaître l'étourdissement et l'hébétement"/>
+<label key="key:620783939:181298206" value="Hébète pendant 15 s max."/>
 <label key="key:620783940:181298206" value="Effraye pendant 15 s max."/>
 <label key="key:620783959:181298206" value="Etourdit pendant 3 s"/>
 <label key="key:620783960:181298206" value="Etourdit pendant 3 s"/>
@@ -1699,6 +1729,7 @@
 <label key="key:620784436:106251889" value="Augmente votre Moral total de ${PERCENTVALUE}."/>
 <label key="key:620784436:54354734" value="L'honneur des Hommes augmente le Moral."/>
 <label key="key:620784437:106251890" value="Chances de rater augmentées"/>
+<label key="key:620784470:54354734" value="Réduit la résistance aux blessures."/>
 <label key="key:620784471:181298206" value="Invoque un Orque pour qu'il suive son chef."/>
 <label key="key:620784537:54354734" value="L'utilisation des passages secrets permet de se rendre plus rapidement au Pied de Gram."/>
 <label key="key:620788978:54354734" value="Tente de faire en sorte que la cible vous considère comme son ennemi le plus dangereux."/>
@@ -1957,6 +1988,9 @@
 <label key="key:620796892:181298206" value="Effraye pendant 10 s max."/>
 <label key="key:620797179:54354734" value="Réduit la limitation des dégâts des ombres"/>
 <label key="key:620797180:54354734" value="Réduit la résistance à la peur."/>
+<label key="key:620797184:54354734" value="L’épine est presque ressortie, mais il vaut tout de même mieux l’extraire complètement avant qu’elle n’éclate."/>
+<label key="key:620797186:54354734" value="L’épine est encore profondément enfoncée, bien que plus proche de l’épiderme. Il vaudrait mieux l’extraire au plus vite, car elle risque d’éclater à tout moment."/>
+<label key="key:620797187:54354734" value="Une épine tordue et barbelée est profondément enfoncée sous la peau. Elle a l’air de gonfler et risque d’éclater à tout moment, ce qui pourrait infliger d’importants dégâts si elle n’est pas extraite avant."/>
 <label key="key:620797275:209988549" value="Don du Poing de Marteau absorbe tous les dégâts."/>
 <label key="key:620797275:54354734" value="Tous les dégâts au Moral que vous recevez sont transformés en dégâts à la puissance."/>
 <label key="key:620797287:106251889" value="Annule tous les dégâts reçus"/>

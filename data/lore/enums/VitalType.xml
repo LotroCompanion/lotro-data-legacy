@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><enum id="587202563" name="VitalType">
+<entry code="1" name="Health"/>
+<entry code="2" name="Power"/>
+<entry code="3" name="NumElements"/>
+</enum>

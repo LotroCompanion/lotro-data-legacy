@@ -16,7 +16,7 @@
 <skill id="1879052125" name="Flashing Blades"/>
 </trait>
 <trait identifier="1879052147" name="Sweep the Leg" iconId="1090531741" minLevel="39" nature="2" tooltip="key:620759199:191029568" description="key:620759199:54354734">
-<stat name="ForwardSource_Combat_TraitCombo5" operator="SET" constant="31.0"/>
+<stat name="ForwardSource_Combat_TraitCombo5" operator="SET" descriptionOverride="-" constant="31.0"/>
 <stat name="Skill_RecoveryTime_BurglarSweepTheKnee" operator="SUBSTRACT" descriptionOverride="key:620759199:106251890" constant="40.0"/>
 </trait>
 <trait identifier="1879052159" name="Exposed Throat" iconId="1090531742" minLevel="39" category="8" nature="2" tooltip="key:620759210:191029568" description="key:620759210:54354734">
@@ -37,13 +37,13 @@
 <stat name="Resist_Additional_Resistance_Wound" descriptionOverride="key:620759328:106251891" constant="1.0"/>
 </trait>
 <trait identifier="1879052362" name="Hardy Bear" iconId="1090531845" nature="3" tooltip="key:620759337:191029568" description="key:620759337:54354734">
-<stat name="ForwardSource_Combat_TraitCombo4" operator="SET" constant="7.0"/>
+<stat name="ForwardSource_Combat_TraitCombo4" operator="SET" descriptionOverride="-" constant="7.0"/>
 <stat name="Skill_VitalCost_Trait_SignPowerCostReduction" descriptionOverride="key:620759337:106251890" constant="-3.0"/>
 </trait>
 <trait identifier="1879052432" name="Use of Fire" iconId="1090561241" category="29" nature="1" cosmetic="true" tooltip="key:620761954:191029568" description="key:620761954:54354734"/>
 <trait identifier="1879052451" name="Enduring Precision" iconId="1090532012" nature="3" tooltip="key:620759381:191029568" description="key:620759381:54354734">
-<stat name="Skill_Pips_Mod_Trait_EnduringPrecision" constant="1.0"/>
-<stat name="Skill_Pips_Mod_Trait_EnduringPrecision_Seconds" constant="10.0"/>
+<stat name="Skill_Pips_Mod_Trait_EnduringPrecision" descriptionOverride="-" constant="1.0"/>
+<stat name="Skill_Pips_Mod_Trait_EnduringPrecision_Seconds" descriptionOverride="-" constant="10.0"/>
 <stat name="Skill_InductionDuration_Trait_Fastpull" operator="SUBSTRACT" descriptionOverride="key:620759381:106251891" constant="0.05"/>
 <stat name="Skill_InductionDuration_Trait_Fastpull_2" operator="SUBSTRACT" descriptionOverride="key:620759381:106251892" constant="0.1"/>
 </trait>
@@ -77,7 +77,7 @@
 <stat name="ICMR" descriptionOverride="key:620759684:106251890" constant="15.0"/>
 </trait>
 <trait identifier="1879052966" name="Medium Armour-use" iconId="1090532813" nature="3" tooltip="key:620759687:191029568" description="key:620759687:54354734">
-<stat name="Inventory_AllowedEquipmentCategories" constant="256.0"/>
+<stat name="Inventory_AllowedEquipmentCategories" descriptionOverride="-" constant="256.0"/>
 <stat name="POWER" descriptionOverride="key:620759687:106251890" constant="65.0"/>
 </trait>
 <trait identifier="1879053026" name="Defy Corruption" iconId="1090533149" minLevel="39" category="11" nature="2" tooltip="key:620759750:191029568" description="key:620759750:54354734">
@@ -327,16 +327,16 @@
 </trait>
 <trait identifier="1879060248" name="Master" iconId="1090540988" minLevel="30" category="29" nature="1" cosmetic="true" tooltip="key:620765357:191029568" description="key:620765357:54354734"/>
 <trait identifier="1879060251" name="Captain's Victory" iconId="1090540987" nature="3" tooltip="key:620765352:191029568" description="key:620765352:54354734">
-<stat name="ForwardSource_Combat_TraitCombo3" operator="SET" constant="44.0"/>
+<stat name="ForwardSource_Combat_TraitCombo3" operator="SET" descriptionOverride="-" constant="44.0"/>
 <stat name="Skill_Duration_Trait_Captain_BuffLineBonus" descriptionOverride="key:620765352:106251890" constant="-2.0"/>
 <effectGenerator id="1879093389" name="Improved Standard of Victory" spellcraft="0.0"/>
 </trait>
 <trait identifier="1879060257" name="Journeyman" iconId="1090540989" minLevel="10" category="29" nature="1" cosmetic="true" tooltip="key:620765358:191029568" description="key:620765358:54354734"/>
 <trait identifier="1879060258" name="Adept" iconId="1090540990" minLevel="20" category="29" nature="1" cosmetic="true" tooltip="key:620765359:191029568" description="key:620765359:54354734"/>
 <trait identifier="1879060294" name="Blood of Númenor" iconId="1090541064" nature="3" tooltip="key:620765392:191029568" description="key:620765392:54354734">
-<stat name="EffectMod_ModType_RevivePowerMultModifier" operator="SET" constant="70.0"/>
+<stat name="EffectMod_ModType_RevivePowerMultModifier" operator="SET" descriptionOverride="-" constant="70.0"/>
 <stat name="POWER" descriptionOverride="key:620765392:106251890" constant="30.0"/>
-<stat name="EffectMod_ModType_ReviveHealthMultModifier" operator="SET" constant="100.0"/>
+<stat name="EffectMod_ModType_ReviveHealthMultModifier" operator="SET" descriptionOverride="-" constant="100.0"/>
 <effectGenerator id="1879060295" name="Empowering Triumph" spellcraft="0.0"/>
 </trait>
 <trait identifier="1879060304" name="Now for Wrath" iconId="1090541068" nature="3" tooltip="key:620765399:191029568" description="key:620765399:54354734">
@@ -357,11 +357,11 @@
 <stat name="MIGHT" descriptionOverride="key:620765416:106251890" constant="10.0"/>
 </trait>
 <trait identifier="1879060340" name="Focused Strikes" iconId="1090541077" nature="3" tooltip="key:620765425:191029568" description="key:620765425:54354734">
-<stat name="Combat_MissChanceModifier" constant="-2.0"/>
+<stat name="Combat_MissChanceModifier" descriptionOverride="-" constant="-2.0"/>
 <stat name="Resist_Additional_Resistance_Fear" descriptionOverride="key:620765425:106251890" constant="2.0"/>
 </trait>
 <trait identifier="1879060347" name="Captain's Valour" iconId="1090541079" nature="3" tooltip="key:620765429:191029568" description="key:620765429:54354734">
-<stat name="ForwardSource_Combat_TraitCombo2" operator="SET" constant="42.0"/>
+<stat name="ForwardSource_Combat_TraitCombo2" operator="SET" descriptionOverride="-" constant="42.0"/>
 <stat name="Skill_Duration_Trait_Captain_BuffLineBonus" descriptionOverride="key:620765429:106251890" constant="-2.0"/>
 <effectGenerator id="1879093391" name="Improved Standard of War" spellcraft="0.0"/>
 </trait>
@@ -374,7 +374,6 @@
 <stat name="POWER" descriptionOverride="key:620765465:106251890" constant="30.0"/>
 </trait>
 <trait identifier="1879060400" name="Captain's Hope" iconId="1090541114" nature="3" tooltip="key:620765476:191029568" description="key:620765476:54354734">
-<specialEffect label=""/>
 <stat name="Skill_Duration_Trait_Captain_BuffLineBonus" descriptionOverride="key:620765476:106251890" constant="-2.0"/>
 <effectGenerator id="1879093390" name="Improved Standard of Hope" spellcraft="0.0"/>
 </trait>
@@ -383,11 +382,10 @@
 <stat name="MIGHT" descriptionOverride="key:620765507:106251890" constant="10.0"/>
 </trait>
 <trait identifier="1879060438" name="Intimidating Shout" iconId="1090541119" nature="3" tooltip="key:620765511:191029568" description="key:620765511:54354734">
-<specialEffect label=""/>
 <stat name="MIGHT" descriptionOverride="key:620765511:106251890" constant="10.0"/>
 </trait>
 <trait identifier="1879060444" name="Subtle Command" iconId="1090541121" nature="3" tooltip="key:620765515:191029568" description="key:620765515:54354734">
-<stat name="Skill_AdditionalThreat_subtlecommand" constant="-50.0"/>
+<stat name="Skill_AdditionalThreat_subtlecommand" descriptionOverride="-" constant="-50.0"/>
 <stat name="Resist_Additional_Resistance_Fear" descriptionOverride="key:620765515:106251890" constant="2.0"/>
 <effectGenerator id="1879060295" name="Empowering Triumph" spellcraft="0.0"/>
 </trait>
@@ -416,7 +414,7 @@
 <effectGenerator id="1879060525" name="Improved Wild Attack" spellcraft="0.0"/>
 </trait>
 <trait identifier="1879060527" name="Call of the Wild" iconId="1090541130" nature="3" tooltip="key:620765595:191029568" description="key:620765595:54354734">
-<stat name="Skill_AdditionalThreat_ChampionWildAttackMod" constant="50.0"/>
+<stat name="Skill_AdditionalThreat_ChampionWildAttackMod" descriptionOverride="-" constant="50.0"/>
 <stat name="VITALITY" descriptionOverride="key:620765595:106251890" constant="10.0"/>
 </trait>
 <trait identifier="1879060534" name="Stalwart Blade" iconId="1090541131" nature="3" tooltip="key:620765602:191029568" description="key:620765602:54354734">
@@ -446,7 +444,7 @@
 <stat name="Skill_RecoveryTime_ChampionImprovedDireNeed" operator="SUBSTRACT" descriptionOverride="-" constant="300.0"/>
 </trait>
 <trait identifier="1879060556" name="Patience" iconId="1090541140" nature="3" tooltip="key:620765621:191029568" description="key:620765621:54354734">
-<stat name="Skill_AdditionalThreat_Champion_Trait_Patience" constant="10.0"/>
+<stat name="Skill_AdditionalThreat_Champion_Trait_Patience" descriptionOverride="-" constant="10.0"/>
 <stat name="VITALITY" descriptionOverride="key:620765621:106251890" constant="10.0"/>
 <effectGenerator id="1879060557" name="Patience" spellcraft="0.0"/>
 </trait>
@@ -472,7 +470,7 @@
 <effectGenerator id="1879060607" name="Improved Branching Attack" spellcraft="0.0"/>
 </trait>
 <trait identifier="1879060619" name="Harasser" iconId="1090541170" nature="3" tooltip="key:620765666:191029568" description="key:620765666:54354734">
-<stat name="ForwardSource_Combat_TraitCombo3" operator="SET" constant="36.0"/>
+<stat name="ForwardSource_Combat_TraitCombo3" operator="SET" descriptionOverride="-" constant="36.0"/>
 <stat name="VITALITY" descriptionOverride="key:620765666:106251890" constant="10.0"/>
 </trait>
 <trait identifier="1879060625" name="To the Rescue" iconId="1090541172" nature="3" tooltip="key:620765670:191029568" description="key:620765670:54354734">
@@ -484,11 +482,11 @@
 <stat name="MIGHT" descriptionOverride="key:620765674:106251890" constant="10.0"/>
 </trait>
 <trait identifier="1879060632" name="Grim Challenge" iconId="1090541174" nature="3" tooltip="key:620765676:191029568" description="key:620765676:54354734">
-<stat name="Skill_RecoveryTime_GuardianChallengeMod" operator="SUBSTRACT" constant="15.0"/>
+<stat name="Skill_RecoveryTime_GuardianChallengeMod" operator="SUBSTRACT" descriptionOverride="-" constant="15.0"/>
 <stat name="VITALITY" descriptionOverride="key:620765676:106251890" constant="10.0"/>
 </trait>
 <trait identifier="1879060635" name="Selfless Defence" iconId="1090541175" nature="3" tooltip="key:620765679:191029568" description="key:620765679:54354734">
-<stat name="ForwardSource_Combat_TraitCombo2" operator="SET" constant="30.0"/>
+<stat name="ForwardSource_Combat_TraitCombo2" operator="SET" descriptionOverride="-" constant="30.0"/>
 <stat name="Skill_AdditionalThreat_AllSkillsMod" descriptionOverride="key:620765679:106251890" constant="10.0"/>
 </trait>
 <trait identifier="1879060645" name="Stoic" iconId="1090541177" nature="3" tooltip="key:620765686:191029568" description="key:620765686:54354734">
@@ -501,12 +499,12 @@
 <stat name="MIGHT" descriptionOverride="key:620765690:106251890" constant="10.0"/>
 </trait>
 <trait identifier="1879060653" name="Brave Heart" iconId="1090541181" nature="3" tooltip="key:620765694:191029568" description="key:620765694:54354734">
-<stat name="Skill_RecoveryTime_Trait_Guardian_ImprovedHeart" constant="-90.0"/>
+<stat name="Skill_RecoveryTime_Trait_Guardian_ImprovedHeart" descriptionOverride="-" constant="-90.0"/>
 <stat name="ForwardSource_Skill_Duration_Trait_Guardian_ImprovedShieldSwipeResponse" descriptionOverride="key:620765694:106251890" constant="3.0"/>
 <effectGenerator id="1879060654" name="Improved Branching Attack" spellcraft="0.0"/>
 </trait>
 <trait identifier="1879060661" name="Heat of Battle" iconId="1090541183" nature="3" tooltip="key:620765700:191029568" description="key:620765700:54354734">
-<stat name="ForwardSource_Combat_TraitCombo4" operator="SET" constant="37.0"/>
+<stat name="ForwardSource_Combat_TraitCombo4" operator="SET" descriptionOverride="-" constant="37.0"/>
 <stat name="ForwardSource_Skill_Duration_Trait_Guardian_ImprovedRetaliateResponse" descriptionOverride="key:620765700:106251890" constant="3.0"/>
 <effectGenerator id="1879060662" name="Improved Branching Attack" spellcraft="0.0"/>
 </trait>
@@ -519,7 +517,7 @@
 <stat name="CRITICAL_RANGED_PERCENTAGE" descriptionOverride="key:620765717:106251890" constant="1.0"/>
 </trait>
 <trait identifier="1879060682" name="Barbed Fury" iconId="1090541187" nature="3" tooltip="key:620765719:191029568" description="key:620765719:54354734">
-<stat name="Skill_AdditivePulseCountModifierModifier_CuttingArrow" constant="500.0"/>
+<stat name="Skill_AdditivePulseCountModifierModifier_CuttingArrow" descriptionOverride="-" constant="500.0"/>
 <stat name="RANGED_DAMAGE_PERCENTAGE" descriptionOverride="key:620765719:106251891" constant="2.0"/>
 </trait>
 <trait identifier="1879060684" name="Swift and True" iconId="1090541188" nature="3" tooltip="key:620765721:191029568" description="key:620765721:54354734">
@@ -527,8 +525,8 @@
 <stat name="RANGED_DAMAGE_PERCENTAGE" descriptionOverride="key:620765721:106251891" constant="2.0"/>
 </trait>
 <trait identifier="1879060686" name="Strong Draw" iconId="1090541189" nature="3" tooltip="key:620765723:191029568" description="key:620765723:54354734">
-<stat name="Skill_Pips_CostMod_Trait_LongPull" constant="1.0"/>
-<stat name="Skill_Pips_PipMinMod_Trait_LongPull" operator="SUBSTRACT" constant="1.0"/>
+<stat name="Skill_Pips_CostMod_Trait_LongPull" descriptionOverride="-" constant="1.0"/>
+<stat name="Skill_Pips_PipMinMod_Trait_LongPull" operator="SUBSTRACT" descriptionOverride="-" constant="1.0"/>
 <stat name="ICPR" descriptionOverride="key:620765723:106251891" constant="15.0"/>
 </trait>
 <trait identifier="1879060688" name="Heightened Senses" iconId="1090541190" nature="3" tooltip="key:620765725:191029568" description="key:620765725:54354734">
@@ -543,8 +541,8 @@
 <stat name="RANGED_DAMAGE_PERCENTAGE" descriptionOverride="key:620765733:106251891" constant="2.0"/>
 </trait>
 <trait identifier="1879060700" name="Arrow Storm" iconId="1090541193" nature="3" tooltip="key:620765737:191029568" description="key:620765737:54354734">
-<stat name="Skill_Pips_CostMod_Trait_ArrowStorm" constant="1.0"/>
-<stat name="Skill_Pips_PipMinMod_Trait_ArrowStorm" operator="SUBSTRACT" constant="1.0"/>
+<stat name="Skill_Pips_CostMod_Trait_ArrowStorm" descriptionOverride="-" constant="1.0"/>
+<stat name="Skill_Pips_PipMinMod_Trait_ArrowStorm" operator="SUBSTRACT" descriptionOverride="-" constant="1.0"/>
 <stat name="ICPR" descriptionOverride="key:620765737:106251891" constant="15.0"/>
 </trait>
 <trait identifier="1879060703" name="Deep Concentration" iconId="1090541194" nature="3" tooltip="key:620765739:191029568" description="key:620765739:54354734">
@@ -561,7 +559,6 @@
 <stat name="RANGED_DAMAGE_PERCENTAGE" descriptionOverride="key:620765748:106251891" constant="2.0"/>
 </trait>
 <trait identifier="1879060714" name="Graceful Draw" iconId="1090541198" nature="3" tooltip="key:620765750:191029568" description="key:620765750:54354734">
-<specialEffect label=""/>
 <stat name="ICPR" descriptionOverride="key:620765750:106251891" constant="15.0"/>
 </trait>
 <trait identifier="1879060717" name="Stealthy Shot" iconId="1090541199" nature="3" tooltip="key:620765752:191029568" description="key:620765752:54354734">
@@ -574,12 +571,11 @@
 <stat name="Skill_InductionDuration_Trait_Fastpull_2" operator="SUBSTRACT" descriptionOverride="key:620765758:106251892" constant="0.1"/>
 </trait>
 <trait identifier="1879060750" name="Master of the Staff" iconId="1090541203" nature="3" tooltip="key:620765783:191029568" description="key:620765783:54354734">
-<specialEffect label=""/>
 <stat name="MORALE" operator="MULTIPLY" descriptionOverride="key:620765783:106251890" constant="1.05"/>
 <stat name="FIRE_MITIGATION_PERCENTAGE" descriptionOverride="key:620765783:106251891" constant="2.0"/>
 </trait>
 <trait identifier="1879060759" name="Power and Wisdom" iconId="1090541205" nature="3" tooltip="key:620765789:191029568" description="key:620765789:54354734">
-<stat name="ForwardSource_Combat_TraitCombo3" operator="SET" constant="33.0"/>
+<stat name="ForwardSource_Combat_TraitCombo3" operator="SET" descriptionOverride="-" constant="33.0"/>
 <stat name="Resist_Additional_Resistance_Disease" descriptionOverride="key:620765789:106251890" constant="1.0"/>
 <stat name="Resist_Additional_Resistance_Wound" descriptionOverride="key:620765789:106251891" constant="1.0"/>
 </trait>
@@ -610,11 +606,11 @@
 <stat name="Skill_VitalCost_Trait_SignPowerCostReduction" descriptionOverride="key:620765815:106251890" constant="-3.0"/>
 </trait>
 <trait identifier="1879060801" name="Dúnadan-learning" iconId="1090541216" nature="3" tooltip="key:620765822:191029568" description="key:620765822:54354734">
-<stat name="ForwardSource_Combat_TraitCombo2" operator="SET" constant="3.0"/>
+<stat name="ForwardSource_Combat_TraitCombo2" operator="SET" descriptionOverride="-" constant="3.0"/>
 <stat name="Skill_VitalCost_Trait_SignPowerCostReduction" descriptionOverride="key:620765822:106251890" constant="-3.0"/>
 </trait>
 <trait identifier="1879060804" name="Harmony with Nature" iconId="1090541217" nature="3" tooltip="key:620765824:191029568" description="key:620765824:54354734">
-<stat name="Skill_VitalCost_Trait_VulgarMagicPowerCostReduction" constant="-15.000001"/>
+<stat name="Skill_VitalCost_Trait_VulgarMagicPowerCostReduction" descriptionOverride="-" constant="-15.000001"/>
 <stat name="Skill_InductionDuration_Loremaster_Trait_HarmonyofNature" operator="SUBSTRACT" descriptionOverride="key:620765824:106251890" constant="25.0"/>
 <stat name="FIRE_MITIGATION_PERCENTAGE" descriptionOverride="key:620765824:106251891" constant="2.0"/>
 </trait>
@@ -627,7 +623,7 @@
 <stat name="FIRE_MITIGATION_PERCENTAGE" descriptionOverride="key:620765835:106251890" constant="2.0"/>
 </trait>
 <trait identifier="1879060825" name="Proof against All Ills" iconId="1090541223" nature="3" tooltip="key:620765840:191029568" description="key:620765840:54354734">
-<stat name="ForwardSource_Combat_TraitCombo5" operator="SET" constant="29.0"/>
+<stat name="ForwardSource_Combat_TraitCombo5" operator="SET" descriptionOverride="-" constant="29.0"/>
 <stat name="Resist_Additional_Resistance_Disease" descriptionOverride="key:620765840:106251890" constant="1.0"/>
 <stat name="Resist_Additional_Resistance_Wound" descriptionOverride="key:620765840:106251891" constant="1.0"/>
 </trait>
@@ -644,11 +640,11 @@
 <stat name="ICMR" descriptionOverride="key:620765874:106251890" constant="15.0"/>
 </trait>
 <trait identifier="1879060869" name="Battle-hymn" iconId="1090541231" nature="3" tooltip="key:620765878:191029568" description="key:620765878:54354734">
-<stat name="ForwardSource_Combat_TraitCombo2" operator="SET" constant="24.0"/>
+<stat name="ForwardSource_Combat_TraitCombo2" operator="SET" descriptionOverride="-" constant="24.0"/>
 <stat name="POWER" descriptionOverride="key:620765878:106251890" constant="65.0"/>
 </trait>
 <trait identifier="1879060877" name="Heralded Saviour" iconId="1090541233" nature="3" tooltip="key:620765883:191029568" description="key:620765883:54354734">
-<stat name="ForwardSource_Combat_TraitCombo4" operator="SET" constant="6.0"/>
+<stat name="ForwardSource_Combat_TraitCombo4" operator="SET" descriptionOverride="-" constant="6.0"/>
 <stat name="Resist_Additional_Resistance_Fear" descriptionOverride="key:620765883:106251890" constant="2.0"/>
 </trait>
 <trait identifier="1879060889" name="Harmonious Melody" iconId="1090541237" nature="3" tooltip="key:620765895:191029568" description="key:620765895:54354734">
@@ -672,9 +668,9 @@
 <stat name="ICMR" descriptionOverride="key:620765903:106251890" constant="15.0"/>
 </trait>
 <trait identifier="1879060899" name="Unrelenting" iconId="1090541242" nature="3" tooltip="key:620765905:191029568" description="key:620765905:54354734">
-<stat name="ForwardSource_Combat_TraitCombo3" operator="SET" constant="17.0"/>
+<stat name="ForwardSource_Combat_TraitCombo3" operator="SET" descriptionOverride="-" constant="17.0"/>
 <stat name="MORALE" descriptionOverride="key:620765905:106251890" constant="50.0"/>
-<stat name="Skill_RecoveryTime_SmoothVoiceDurationRecharge" operator="SUBSTRACT" constant="3.0"/>
+<stat name="Skill_RecoveryTime_SmoothVoiceDurationRecharge" operator="SUBSTRACT" descriptionOverride="-" constant="3.0"/>
 </trait>
 <trait identifier="1879060901" name="Focused Performance" iconId="1090541243" nature="3" tooltip="key:620765907:191029568" description="key:620765907:54354734">
 <stat name="ALL_SKILL_INDUCTION" descriptionOverride="-" constant="-10.0"/>
@@ -733,7 +729,7 @@
 <trait identifier="1879060968" name="Trickster" iconId="1090541261" nature="3" tooltip="key:620765963:191029568" description="key:620765963:54354734">
 <stat name="ForwardSource_Combat_TraitCombo2" operator="SET" descriptionOverride="key:620765963:106251889" constant="27.0"/>
 <stat name="EffectMod_VOT_PerIntervalChangeMult_AddMod1_Trait_Tricks" descriptionOverride="key:620765963:106251890" constant="2.0"/>
-<stat name="Skill_AdditivePulseCountModifierModifier_BurglarGleeMod" constant="1.0"/>
+<stat name="Skill_AdditivePulseCountModifierModifier_BurglarGleeMod" descriptionOverride="-" constant="1.0"/>
 <effectGenerator id="1879060969" name="Bow Bane" spellcraft="0.0"/>
 </trait>
 <trait identifier="1879060979" name="Strike from Shadows" iconId="1090541264" nature="3" tooltip="key:620765974:191029568" description="key:620765974:54354734">
@@ -746,13 +742,13 @@
 </trait>
 <trait identifier="1879060987" name="Disabling Attack" iconId="1090541268" nature="3" tooltip="key:620765980:191029568" description="key:620765980:54354734">
 <stat name="EffectMod_VOT_PerIntervalChangeMult_AddMod1_Trait_Tricks" descriptionOverride="key:620765980:106251890" constant="2.0"/>
-<stat name="Skill_AdditivePulseCountModifierModifier_BurglarGleeMod" constant="1.0"/>
+<stat name="Skill_AdditivePulseCountModifierModifier_BurglarGleeMod" descriptionOverride="-" constant="1.0"/>
 <effectGenerator id="1879060988" name="Disabled Attack" spellcraft="0.0"/>
 <effectGenerator id="1879060969" name="Bow Bane" spellcraft="0.0"/>
 </trait>
 <trait identifier="1879060993" name="Opportunist" iconId="1090541270" nature="3" tooltip="key:620765986:191029568" description="key:620765986:54354734">
 <stat name="EffectMod_VOT_PerIntervalChangeMult_AddMod1_Trait_Tricks" descriptionOverride="key:620765986:106251890" constant="2.0"/>
-<stat name="Skill_AdditivePulseCountModifierModifier_BurglarGleeMod" constant="1.0"/>
+<stat name="Skill_AdditivePulseCountModifierModifier_BurglarGleeMod" descriptionOverride="-" constant="1.0"/>
 <effectGenerator id="1879060994" name="Opportunist" spellcraft="0.0"/>
 <effectGenerator id="1879060969" name="Bow Bane" spellcraft="0.0"/>
 </trait>
@@ -765,7 +761,7 @@
 </trait>
 <trait identifier="1879061017" name="Blind Fury" iconId="1090541276" nature="3" tooltip="key:620766007:191029568" description="key:620766007:54354734">
 <stat name="EffectMod_VOT_PerIntervalChangeMult_AddMod1_Trait_Tricks" descriptionOverride="key:620766007:106251890" constant="2.0"/>
-<stat name="Skill_AdditivePulseCountModifierModifier_BurglarGleeMod" constant="1.0"/>
+<stat name="Skill_AdditivePulseCountModifierModifier_BurglarGleeMod" descriptionOverride="-" constant="1.0"/>
 <effectGenerator id="1879061018" name="Bowbane" spellcraft="0.0"/>
 <effectGenerator id="1879060969" name="Bow Bane" spellcraft="0.0"/>
 </trait>
@@ -914,7 +910,7 @@
 <stat name="MELEE_DAMAGE_PERCENTAGE" scaling="1879063899"/>
 <stat name="RANGED_DAMAGE_PERCENTAGE" scaling="1879063900"/>
 <stat name="TACTICAL_DAMAGE_PERCENTAGE" scaling="1879063901"/>
-<stat name="EffectMod_DamageMultiplier_Characteristic_MP_Damage" scaling="1879086283"/>
+<stat name="EffectMod_DamageMultiplier_Characteristic_MP_Damage" descriptionOverride="-" scaling="1879086283"/>
 </trait>
 <trait identifier="1879063893" name="Health" iconId="0" tiers="5" tierProperty="Trait_MP_Virtue_Core_Rank_Health" category="44" nature="1" tooltip="key:620768650:191029568" description="key:620768650:54354734">
 <stat name="MORALE" operator="MULTIPLY" descriptionOverride="key:620768650:106251889" scaling="1879063903"/>
@@ -1339,22 +1335,22 @@
 <skill id="1879072525" name="Resilience"/>
 </trait>
 <trait identifier="1879072435" name="Appearance 1" iconId="1090553268" category="54" nature="4" tooltip="key:620774683:191029568" description="key:620774683:54354734">
-<stat name="ForwardSource_MP_Texture_Body" operator="SET" constant="1.0"/>
+<stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="1.0"/>
 </trait>
 <trait identifier="1879072436" name="Appearance 2" iconId="1090553269" category="54" nature="4" tooltip="key:620774684:191029568" description="key:620774684:54354734">
-<stat name="ForwardSource_MP_Texture_Body" operator="SET" constant="2.0"/>
+<stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="2.0"/>
 </trait>
 <trait identifier="1879072437" name="Appearance 3" iconId="1090553270" category="54" nature="4" tooltip="key:620774685:191029568" description="key:620774685:54354734">
-<stat name="ForwardSource_MP_Texture_Body" operator="SET" constant="3.0"/>
+<stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="3.0"/>
 </trait>
 <trait identifier="1879072438" name="Appearance 4" iconId="1090553271" category="54" nature="4" tooltip="key:620774686:191029568" description="key:620774686:54354734">
-<stat name="ForwardSource_MP_Texture_Body" operator="SET" constant="4.0"/>
+<stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="4.0"/>
 </trait>
 <trait identifier="1879072439" name="Appearance 5" iconId="1090553272" category="54" nature="4" tooltip="key:620774687:191029568" description="key:620774687:54354734">
-<stat name="ForwardSource_MP_Texture_Body" operator="SET" constant="5.0"/>
+<stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="5.0"/>
 </trait>
 <trait identifier="1879072440" name="Appearance 6" iconId="1090553273" category="54" nature="4" tooltip="key:620774688:191029568" description="key:620774688:54354734">
-<stat name="ForwardSource_MP_Texture_Body" operator="SET" constant="6.0"/>
+<stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="6.0"/>
 </trait>
 <trait identifier="1879072441" name="Health Boost" iconId="1090553274" category="43" nature="3">
 <stat name="MORALE" operator="MULTIPLY" descriptionOverride="key:620774689:106251889" constant="1.1"/>
@@ -1366,7 +1362,7 @@
 <stat name="ICMR" constant="120.0"/>
 </trait>
 <trait identifier="1879072444" name="Swift Weave" iconId="1090553277" category="43" nature="3" tooltip="key:620774692:191029568" description="key:620774692:54354734">
-<stat name="Skill_InductionDuration_Trait_MP_FastBow" operator="SUBSTRACT" constant="0.25"/>
+<stat name="Skill_InductionDuration_Trait_MP_FastBow" operator="SUBSTRACT" descriptionOverride="-" constant="0.25"/>
 </trait>
 <trait identifier="1879072445" name="Enhanced Skill: Piercing Attack" iconId="1090553278" category="43" nature="3">
 <stat name="Skill_DamageMultiplier_Trait_MP_PiercingAttack" constant="20.0"/>
@@ -1374,29 +1370,29 @@
 <trait identifier="1879072446" name="Enhanced Skill: Tainted Kiss" iconId="1090553279" category="43" nature="3">
 <stat name="EffectMod_DamageMultiplier_Trait_MP_StrongPoison" constant="30.000002"/>
 </trait>
-<trait identifier="1879072447" name="Steelweave Webs" iconId="1090553280" category="43" nature="3">
+<trait identifier="1879072447" name="Steelweave Webs" iconId="1090553280" category="43" nature="3" tooltip="key:620774695:191029568" description="key:620774695:54354734">
 <stat name="EffectMod_Duration_Trait_MP_SnaringWeb" constant="8.0"/>
 </trait>
 <trait identifier="1879072448" name="Advanced Skill: Clinging Webs" iconId="1090553281" category="11" nature="3" tooltip="key:620774696:191029568" description="key:620774696:54354734">
 <skill id="1879072533" name="Clinging Webs"/>
 </trait>
 <trait identifier="1879072451" name="Appearance 1" iconId="1090553285" category="54" nature="4" tooltip="key:620774705:191029568" description="key:620774705:54354734">
-<stat name="ForwardSource_MP_Texture_Body" operator="SET" constant="1.0"/>
+<stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="1.0"/>
 </trait>
 <trait identifier="1879072452" name="Appearance 2" iconId="1090553286" category="54" nature="4" tooltip="key:620774706:191029568" description="key:620774706:54354734">
-<stat name="ForwardSource_MP_Texture_Body" operator="SET" constant="2.0"/>
+<stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="2.0"/>
 </trait>
 <trait identifier="1879072453" name="Appearance 3" iconId="1090553287" category="54" nature="4" tooltip="key:620774707:191029568" description="key:620774707:54354734">
-<stat name="ForwardSource_MP_Texture_Body" operator="SET" constant="3.0"/>
+<stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="3.0"/>
 </trait>
 <trait identifier="1879072454" name="Appearance 4" iconId="1090553288" category="54" nature="4" tooltip="key:620774708:191029568" description="key:620774708:54354734">
-<stat name="ForwardSource_MP_Texture_Body" operator="SET" constant="4.0"/>
+<stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="4.0"/>
 </trait>
 <trait identifier="1879072455" name="Appearance 5" iconId="1090553289" category="54" nature="4" tooltip="key:620774709:191029568" description="key:620774709:54354734">
-<stat name="ForwardSource_MP_Texture_Body" operator="SET" constant="5.0"/>
+<stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="5.0"/>
 </trait>
 <trait identifier="1879072456" name="Appearance 6" iconId="1090553290" category="54" nature="4" tooltip="key:620774710:191029568" description="key:620774710:54354734">
-<stat name="ForwardSource_MP_Texture_Body" operator="SET" constant="6.0"/>
+<stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="6.0"/>
 </trait>
 <trait identifier="1879072457" name="Avoidance Boost" iconId="1090553291" category="43" nature="3">
 <stat name="PARRY_PERCENTAGE" constant="2.0"/>
@@ -1428,22 +1424,22 @@
 <skill id="1879072543" name="Set Trap"/>
 </trait>
 <trait identifier="1879072467" name="Appearance 1" iconId="1090553301" category="54" nature="4" tooltip="key:620774725:191029568" description="key:620774725:54354734">
-<stat name="ForwardSource_MP_Texture_Body" operator="SET" constant="1.0"/>
+<stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="1.0"/>
 </trait>
 <trait identifier="1879072468" name="Appearance 2" iconId="1090553302" category="54" nature="4" tooltip="key:620774726:191029568" description="key:620774726:54354734">
-<stat name="ForwardSource_MP_Texture_Body" operator="SET" constant="2.0"/>
+<stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="2.0"/>
 </trait>
 <trait identifier="1879072469" name="Appearance 3" iconId="1090553303" category="54" nature="4" tooltip="key:620774727:191029568" description="key:620774727:54354734">
-<stat name="ForwardSource_MP_Texture_Body" operator="SET" constant="3.0"/>
+<stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="3.0"/>
 </trait>
 <trait identifier="1879072470" name="Appearance 4" iconId="1090553304" category="54" nature="4" tooltip="key:620774728:191029568" description="key:620774728:54354734">
-<stat name="ForwardSource_MP_Texture_Body" operator="SET" constant="4.0"/>
+<stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="4.0"/>
 </trait>
 <trait identifier="1879072471" name="Appearance 5" iconId="1090553305" category="54" nature="4" tooltip="key:620774729:191029568" description="key:620774729:54354734">
-<stat name="ForwardSource_MP_Texture_Body" operator="SET" constant="5.0"/>
+<stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="5.0"/>
 </trait>
 <trait identifier="1879072472" name="Appearance 6" iconId="1090553306" category="54" nature="4" tooltip="key:620774730:191029568" description="key:620774730:54354734">
-<stat name="ForwardSource_MP_Texture_Body" operator="SET" constant="6.0"/>
+<stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="6.0"/>
 </trait>
 <trait identifier="1879072473" name="Damage Boost" iconId="1090553307" category="43" nature="3">
 <stat name="MELEE_DAMAGE_PERCENTAGE" constant="3.0"/>
@@ -1476,22 +1472,22 @@
 <skill id="1879072549" name="Snap Out of It!"/>
 </trait>
 <trait identifier="1879072483" name="Appearance 1" iconId="1090553317" category="54" nature="4" tooltip="key:620774746:191029568" description="key:620774746:54354734">
-<stat name="ForwardSource_MP_Texture_Body" operator="SET" constant="1.0"/>
+<stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="1.0"/>
 </trait>
 <trait identifier="1879072484" name="Appearance 2" iconId="1090553318" category="54" nature="4" tooltip="key:620774747:191029568" description="key:620774747:54354734">
-<stat name="ForwardSource_MP_Texture_Body" operator="SET" constant="2.0"/>
+<stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="2.0"/>
 </trait>
 <trait identifier="1879072485" name="Appearance 3" iconId="1090553319" category="54" nature="4" tooltip="key:620774748:191029568" description="key:620774748:54354734">
-<stat name="ForwardSource_MP_Texture_Body" operator="SET" constant="3.0"/>
+<stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="3.0"/>
 </trait>
 <trait identifier="1879072486" name="Appearance 4" iconId="1090553320" category="54" nature="4" tooltip="key:620774749:191029568" description="key:620774749:54354734">
-<stat name="ForwardSource_MP_Texture_Body" operator="SET" constant="4.0"/>
+<stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="4.0"/>
 </trait>
 <trait identifier="1879072487" name="Appearance 5" iconId="1090553321" category="54" nature="4" tooltip="key:620774750:191029568" description="key:620774750:54354734">
-<stat name="ForwardSource_MP_Texture_Body" operator="SET" constant="5.0"/>
+<stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="5.0"/>
 </trait>
 <trait identifier="1879072488" name="Appearance 6" iconId="1090553322" category="54" nature="4" tooltip="key:620774751:191029568" description="key:620774751:54354734">
-<stat name="ForwardSource_MP_Texture_Body" operator="SET" constant="6.0"/>
+<stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="6.0"/>
 </trait>
 <trait identifier="1879072489" name="Armour Boost" iconId="1090553275" category="43" nature="3">
 <stat name="Combat_Agent_Armor_Value" constant="210.0"/>
@@ -1522,19 +1518,19 @@
 <skill id="1879072557" name="Rallying Howl"/>
 </trait>
 <trait identifier="1879072499" name="Appearance 1" iconId="1090553332" category="54" nature="4" tooltip="key:620774766:191029568" description="key:620774766:54354734">
-<stat name="ForwardSource_MP_Texture_Body" operator="SET" constant="1.0"/>
+<stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="1.0"/>
 </trait>
 <trait identifier="1879072500" name="Appearance 2" iconId="1090553333" category="54" nature="4" tooltip="key:620774767:191029568" description="key:620774767:54354734">
-<stat name="ForwardSource_MP_Texture_Body" operator="SET" constant="2.0"/>
+<stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="2.0"/>
 </trait>
 <trait identifier="1879072501" name="Appearance 3" iconId="1090553334" category="54" nature="4" tooltip="key:620774768:191029568" description="key:620774768:54354734">
-<stat name="ForwardSource_MP_Texture_Body" operator="SET" constant="3.0"/>
+<stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="3.0"/>
 </trait>
 <trait identifier="1879072502" name="Appearance 4" iconId="1090553335" category="54" nature="4" tooltip="key:620774769:191029568" description="key:620774769:54354734">
-<stat name="ForwardSource_MP_Texture_Body" operator="SET" constant="4.0"/>
+<stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="4.0"/>
 </trait>
 <trait identifier="1879072503" name="Appearance 5" iconId="1090553336" category="54" nature="4" tooltip="key:620774770:191029568" description="key:620774770:54354734">
-<stat name="ForwardSource_MP_Texture_Body" operator="SET" constant="5.0"/>
+<stat name="ForwardSource_MP_Texture_Body" operator="SET" descriptionOverride="-" constant="5.0"/>
 </trait>
 <trait identifier="1879072505" name="Damage for Health (Rank 1)" iconId="1090553338" category="20" nature="5" tooltip="key:620774772:191029568" description="key:620774772:54354734">
 <stat name="MELEE_DAMAGE_PERCENTAGE" constant="2.5"/>

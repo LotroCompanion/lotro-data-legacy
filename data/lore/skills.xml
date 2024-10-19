@@ -553,12 +553,10 @@
 <skill identifier="1879057896" name="Ranged Shadow Med" iconId="1090522259"/>
 <skill identifier="1879058404" name="Cleansing Fire" iconId="1090522259">
 <effect id="1879058407" name="Cleansing Fire" type="TOGGLE"/>
-<effect id="1879058407" name="Cleansing Fire" type="USER_TOGGLE"/>
 </skill>
 <skill identifier="1879058405" name="Swirling Fire" iconId="1090522259"/>
 <skill identifier="1879058879" name="Rumbling Above" iconId="1090522259">
 <effect id="1879058882" name="Falling Rocks" type="TOGGLE"/>
-<effect id="1879058882" name="Falling Rocks" type="USER_TOGGLE"/>
 </skill>
 <skill identifier="1879058880" name="Collapsing Ceiling" iconId="1090522259">
 <effect id="1879056916" name="Induce Knockeddown"/>
@@ -587,7 +585,6 @@
 </skill>
 <skill identifier="1879059644" name="Blood Gift" iconId="1090522259">
 <effect id="1879059646" name="Blood Gift" type="TOGGLE"/>
-<effect id="1879059646" name="Blood Gift" type="USER_TOGGLE"/>
 </skill>
 <skill identifier="1879059657" name="Melee Interruption" iconId="1090522259">
 <effect id="1879054551" name="Interrupt Induction"/>
@@ -602,8 +599,6 @@
 <skill identifier="1879059701" name="Impale" iconId="1090522259">
 <effect id="1879059705" name="Impale" type="TOGGLE"/>
 <effect id="1879059706" name="Impaled" type="TOGGLE"/>
-<effect id="1879059705" name="Impale" type="USER_TOGGLE"/>
-<effect id="1879059706" name="Impaled" type="USER_TOGGLE"/>
 </skill>
 <skill identifier="1879059702" name="Melee 360 Drain Life" iconId="1090522259">
 <effect id="1879059707" name="Drain Life"/>
@@ -645,7 +640,6 @@
 <skill identifier="1879059893" name="Controlled Burn" category="24" iconId="1090539703" description="key:620764915:228830419">
 <requiredTrait id="1879059892" name="Controlled Burn"/>
 <effect id="1879059894" name="Controlled Burn" type="TOGGLE"/>
-<effect id="1879059894" name="Controlled Burn" type="USER_TOGGLE"/>
 </skill>
 <skill identifier="1879059946" name="Haymaker Uppercut" iconId="1090522259">
 <effect id="1879050245" name="Induce Knockeddown"/>
@@ -699,7 +693,6 @@
 <skill identifier="1879060180" name="Guardian's Threat" category="22" iconId="1090540660" description="key:620765219:228830419">
 <requiredTrait id="1879060179" name="Guardian's Threat"/>
 <effect id="1879060181" name="Guardian's Threat Stance" type="TOGGLE"/>
-<effect id="1879060181" name="Guardian's Threat Stance" type="USER_TOGGLE"/>
 </skill>
 <skill identifier="1879060191" name="Challenge the Darkness" category="22" iconId="1090540662" description="key:620765231:228830419">
 <requiredTrait id="1879060190" name="Challenge the Darkness"/>
@@ -817,11 +810,9 @@
 </skill>
 <skill identifier="1879060634" name="Protection" category="13" iconId="1090541176" description="key:620765680:228830419">
 <effect id="1879060637" name="Protection" type="TOGGLE"/>
-<effect id="1879060637" name="Protection" type="USER_TOGGLE"/>
 </skill>
 <skill identifier="1879060636" name="Protection" category="13" iconId="1090541176" description="key:620765681:228830419">
 <effect id="1879060639" name="Protection" type="TOGGLE"/>
-<effect id="1879060639" name="Protection" type="USER_TOGGLE"/>
 </skill>
 <skill identifier="1879060644" name="Guardian's Pledge" category="13" iconId="1090541178" description="key:620765687:228830419">
 <effect id="1879060646" name="Guardian's Pledge" type="USER"/>
@@ -857,11 +848,9 @@
 </skill>
 <skill identifier="1879060758" name="Power of Knowledge" category="19" iconId="1090541206" description="key:620765790:228830419">
 <effect id="1879060762" name="Draw Power" type="TOGGLE"/>
-<effect id="1879060762" name="Draw Power" type="USER_TOGGLE"/>
 </skill>
 <skill identifier="1879060760" name="Power of Knowledge" category="19" iconId="1090541206" description="key:620765791:228830419">
 <effect id="1879060763" name="Improved Draw Power" type="TOGGLE"/>
-<effect id="1879060763" name="Improved Draw Power" type="USER_TOGGLE"/>
 </skill>
 <skill identifier="1879060771" name="Beacon of Hope" category="23" iconId="1090541208" description="key:620765799:228830419">
 <effect id="1879060776" name="Hope"/>
@@ -923,11 +912,9 @@
 </skill>
 <skill identifier="1879060876" name="Song of Aid" category="40" iconId="1090541234" description="key:620765884:228830419">
 <effect id="1879060881" name="Song of Aid" type="TOGGLE"/>
-<effect id="1879060881" name="Song of Aid" type="USER_TOGGLE"/>
 </skill>
 <skill identifier="1879060878" name="Song of Aid" category="40" iconId="1090541235" description="key:620765885:228830419">
 <effect id="1879060883" name="Song of Aid Improved" type="TOGGLE"/>
-<effect id="1879060883" name="Song of Aid Improved" type="USER_TOGGLE"/>
 </skill>
 <skill identifier="1879060904" name="Ballad of Resonance" category="53" iconId="1090541245" description="key:620765911:228830419">
 <effect id="1879060906" name="Ballad of Resonance" type="USER"/>
@@ -976,11 +963,9 @@
 </skill>
 <skill identifier="1879061010" name="Sneak" category="37" iconId="1090541275" description="key:620766002:228830419">
 <effect id="1879061013" name="Simple Stealth" type="TOGGLE"/>
-<effect id="1879061013" name="Simple Stealth" type="USER_TOGGLE"/>
 </skill>
 <skill identifier="1879061012" name="Stalk" category="37" iconId="1090541275" description="key:620766003:228830419">
 <effect id="1879061013" name="Simple Stealth" type="TOGGLE"/>
-<effect id="1879061013" name="Simple Stealth" type="USER_TOGGLE"/>
 </skill>
 <skill identifier="1879061016" name="Trick: Enrage" category="10" iconId="1090522262" description="key:620766009:228830419">
 <effect id="1879061019" name="Trick: Enraged (Trick)"/>
@@ -1007,17 +992,14 @@
 <skill identifier="1879062867" name="Track Mines" category="57" iconId="1090543115" description="key:620767743:228830419">
 <requiredTrait id="1879062819" name="Track Mines"/>
 <effect id="1879062868" name="Track Mines" type="TOGGLE"/>
-<effect id="1879062868" name="Track Mines" type="USER_TOGGLE"/>
 </skill>
 <skill identifier="1879062906" name="Track Wood" category="57" iconId="1090543117" description="key:620767778:228830419">
 <requiredTrait id="1879062870" name="Track Wood"/>
 <effect id="1879062907" name="Track Wood" type="TOGGLE"/>
-<effect id="1879062907" name="Track Wood" type="USER_TOGGLE"/>
 </skill>
 <skill identifier="1879063043" name="Track Crops" category="57" iconId="1091388642" description="key:620767853:228830419">
 <requiredTrait id="1879062909" name="Track Crops"/>
 <effect id="1879063044" name="Track Crops" type="TOGGLE"/>
-<effect id="1879063044" name="Track Crops" type="USER_TOGGLE"/>
 </skill>
 <skill identifier="1879064060" name="Wild Attack" category="24" iconId="1090553751" description="key:620774869:228830419"/>
 <skill identifier="1879064061" name="Blade-wall" category="33" iconId="1090553752" description="key:620774871:228830419">
@@ -1026,7 +1008,6 @@
 <skill identifier="1879064062" name="Savage Strikes" category="38" iconId="1090553753" description="key:620774873:228830419"/>
 <skill identifier="1879064063" name="Fervour" category="24" iconId="1090539704" description="key:620774875:228830419">
 <effect id="1879073012" name="Champion's Fervour" type="TOGGLE"/>
-<effect id="1879073012" name="Champion's Fervour" type="USER_TOGGLE"/>
 </skill>
 <skill identifier="1879064064" name="Flurry" category="36" iconId="1090541123" description="key:620774877:228830419">
 <effect id="1879073017" name="Flurry"/>
@@ -1091,8 +1072,6 @@
 <skill identifier="1879064141" name="Telling Mark" category="51" iconId="1090553776" description="key:620774915:228830419">
 <effect id="1879073061" name="Telling Mark" type="TOGGLE"/>
 <effect id="1879093703" name="Marked" type="TOGGLE"/>
-<effect id="1879073061" name="Telling Mark" type="USER_TOGGLE"/>
-<effect id="1879093703" name="Marked" type="USER_TOGGLE"/>
 </skill>
 <skill identifier="1879064142" name="Make Haste" category="51" iconId="1090533151" description="key:620774917:228830419">
 <effect id="1879073063" name="Make Haste"/>
@@ -1100,8 +1079,6 @@
 <skill identifier="1879064143" name="Noble Mark" category="51" iconId="1090644695" description="key:620774919:228830419">
 <effect id="1879085807" name="Noble Mark" type="TOGGLE"/>
 <effect id="1879093703" name="Marked" type="TOGGLE"/>
-<effect id="1879085807" name="Noble Mark" type="USER_TOGGLE"/>
-<effect id="1879093703" name="Marked" type="USER_TOGGLE"/>
 </skill>
 <skill identifier="1879064144" name="Pressing Attack" category="47" iconId="1090553778" description="key:620774921:228830419">
 <requiredEffect id="1879060330" name="Battle-readied"/>
@@ -1126,8 +1103,6 @@
 <skill identifier="1879064150" name="Revealing Mark" category="51" iconId="1090553777" description="key:620774932:228830419">
 <effect id="1879073076" name="Coordinate Attack" type="TOGGLE"/>
 <effect id="1879093703" name="Marked" type="TOGGLE"/>
-<effect id="1879073076" name="Coordinate Attack" type="USER_TOGGLE"/>
-<effect id="1879093703" name="Marked" type="USER_TOGGLE"/>
 </skill>
 <skill identifier="1879064151" name="Cry of Vengeance" category="51" iconId="1090541066" description="key:620774934:228830419">
 <requiredEffect id="1879073079" name="Fellow Defeat Response"/>
@@ -1203,7 +1178,6 @@
 </skill>
 <skill identifier="1879064201" name="Tale of Heroism" category="26" iconId="1090553810" description="key:620775001:228830419">
 <effect id="1879094874" name="Tale of Heroism" type="TOGGLE"/>
-<effect id="1879094874" name="Tale of Heroism" type="USER_TOGGLE"/>
 </skill>
 <skill identifier="1879064202" name="Anthem of Compassion" category="52" iconId="1090553811" description="key:620775005:228830419">
 <requiredEffect id="1879052915" name="Ballad Tier 3"/>
@@ -1224,7 +1198,6 @@
 <skill identifier="1879064206" name="Song of Distraction" category="40" iconId="1090553816" description="key:620775012:228830419">
 <effect id="1879073167" name="Song of Distraction"/>
 <effect id="1879073167" name="Song of Distraction" type="TOGGLE"/>
-<effect id="1879073167" name="Song of Distraction" type="USER_TOGGLE"/>
 </skill>
 <skill identifier="1879064207" name="Ballad of the Stout" category="53" iconId="1090553817" description="key:620775015:228830419">
 <requiredEffect id="1879052918" name="Ballad Tier 1"/>
@@ -1233,11 +1206,9 @@
 </skill>
 <skill identifier="1879064208" name="Still As Death" category="26" iconId="1090553818" description="key:620775017:228830419">
 <effect id="1879073174" name="Still As Death" type="TOGGLE"/>
-<effect id="1879073174" name="Still As Death" type="USER_TOGGLE"/>
 </skill>
 <skill identifier="1879064209" name="Lay of the Hammerhand" category="26" iconId="1090553819" description="key:620775020:228830419">
 <effect id="1879073176" name="Lay of the Hammerhand" type="TOGGLE"/>
-<effect id="1879073176" name="Lay of the Hammerhand" type="USER_TOGGLE"/>
 </skill>
 <skill identifier="1879064244" name="Burning Embers" category="41" iconId="1090553820" description="key:620775024:228830419">
 <effect id="1879073180" name="Burning Embers"/>
@@ -1291,7 +1262,6 @@
 <skill identifier="1879064286" name="Sweeping Cut" category="3" iconId="1090553893" description="key:620775094:228830419"/>
 <skill identifier="1879064287" name="Guardian's Defence" category="13" iconId="1090553894" description="key:620775095:228830419">
 <effect id="1879073261" name="Guardian's Block Stance" type="TOGGLE"/>
-<effect id="1879073261" name="Guardian's Block Stance" type="USER_TOGGLE"/>
 </skill>
 <skill identifier="1879064288" name="Retaliation" category="17" iconId="1090553896" description="key:620775097:228830419">
 <requiredEffect id="1879049270" name="Parry Response"/>
@@ -1311,7 +1281,6 @@
 </skill>
 <skill identifier="1879064291" name="Guardian's Parry" category="13" iconId="1090553900" description="key:620775104:228830419">
 <effect id="1879073273" name="Guardian's Parry Stance" type="TOGGLE"/>
-<effect id="1879073273" name="Guardian's Parry Stance" type="USER_TOGGLE"/>
 </skill>
 <skill identifier="1879064292" name="Whirling Retaliation" category="17" iconId="1090553902" description="key:620775106:228830419">
 <requiredEffect id="1879073264" name="Retaliation"/>
@@ -1382,7 +1351,6 @@
 </skill>
 <skill identifier="1879064337" name="Reveal Weakness" category="49" iconId="1090519172" description="key:620775140:228830419">
 <effect id="1879073321" name="Reveal Weakness" type="TOGGLE"/>
-<effect id="1879073321" name="Reveal Weakness" type="USER_TOGGLE"/>
 </skill>
 <skill identifier="1879064338" name="Ready and Able" category="5" iconId="1090553919" description="key:620775144:228830419">
 <effect id="1879073323" name="Ready and Able"/>
@@ -1397,7 +1365,6 @@
 </skill>
 <skill identifier="1879064341" name="Track Treasure" category="5" iconId="1090553922" description="key:620775150:228830419">
 <effect id="1879073327" name="Track Treasure" type="TOGGLE"/>
-<effect id="1879073327" name="Track Treasure" type="USER_TOGGLE"/>
 </skill>
 <skill identifier="1879064342" name="Burgle" category="5" iconId="1090553923" description="key:620775152:228830419">
 <effect id="1879073328" name="Pickpocket"/>
@@ -1428,7 +1395,6 @@
 </skill>
 <skill identifier="1879064381" name="Find the Path" category="48" iconId="1090553944" description="key:620775192:228830419">
 <effect id="1879073405" name="findthepath" type="TOGGLE"/>
-<effect id="1879073405" name="findthepath" type="USER_TOGGLE"/>
 </skill>
 <skill identifier="1879064382" name="Purge Poison" category="18" iconId="1090553945" description="key:620775195:228830419">
 <effect id="1879050499" name="Remove Poison"/>
@@ -1463,7 +1429,6 @@
 </skill>
 <skill identifier="1879064392" name="Camouflage" category="18" iconId="1090553955" description="key:620775221:228830419">
 <effect id="1879073429" name="Camouflage" type="TOGGLE"/>
-<effect id="1879073429" name="Camouflage" type="USER_TOGGLE"/>
 </skill>
 <skill identifier="1879064393" name="Cry of the Predator" category="18" iconId="1090553956" description="key:620775223:228830419">
 <effect id="1879098376" name="Induce Feared"/>
@@ -1475,17 +1440,13 @@
 <skill identifier="1879064396" name="Focus" category="28" iconId="1090553957" description="key:620775224:228830419"/>
 <skill identifier="1879064397" name="Stance: Precision" category="34" iconId="1090553958" description="key:620775226:228830419">
 <effect id="1879073433" name="Stance: Precision" type="TOGGLE"/>
-<effect id="1879073433" name="Stance: Precision" type="USER_TOGGLE"/>
 </skill>
 <skill identifier="1879064398" name="Stance: Strength" category="34" iconId="1090553959" description="key:620775228:228830419">
 <effect id="1879073434" name="Stance: Strength" type="TOGGLE"/>
 <effect id="1879073435" name="Strength Stance Upgrade: Crippling Shot" type="TOGGLE"/>
-<effect id="1879073434" name="Stance: Strength" type="USER_TOGGLE"/>
-<effect id="1879073435" name="Strength Stance Upgrade: Crippling Shot" type="USER_TOGGLE"/>
 </skill>
 <skill identifier="1879064399" name="Stance: Endurance" category="34" iconId="1090553960" description="key:620775232:228830419">
 <effect id="1879073438" name="Stance: Endurance" type="TOGGLE"/>
-<effect id="1879073438" name="Stance: Endurance" type="USER_TOGGLE"/>
 </skill>
 <skill identifier="1879064493" name="Guile Melee Pair" category="11" iconId="1090552327" description="key:620768832:228830419">
 <effect id="1879064501" name="Flesh Wound"/>
@@ -1682,8 +1643,6 @@
 <skill identifier="1879072536" name="Lie In Wait" category="11" iconId="1090553283" description="key:620774700:228830419">
 <effect id="1879072539" name="Trapdoor Sanctuary" type="TOGGLE"/>
 <effect id="1879072540" name="Burrowed Stealth" type="TOGGLE"/>
-<effect id="1879072539" name="Trapdoor Sanctuary" type="USER_TOGGLE"/>
-<effect id="1879072540" name="Burrowed Stealth" type="USER_TOGGLE"/>
 </skill>
 <skill identifier="1879072543" name="Set Trap" category="11" iconId="1090553298" description="key:620774720:228830419">
 <requiredTrait id="1879072464" name="Advanced Skill: Set Trap"/>
@@ -1699,7 +1658,6 @@
 </skill>
 <skill identifier="1879072550" name="Mobilize" category="7" iconId="1090553315" description="key:620774741:228830419">
 <effect id="1879072552" type="TOGGLE"/>
-<effect id="1879072552" type="USER_TOGGLE"/>
 </skill>
 <skill identifier="1879072554" name="Quit Whining and Fight!" category="7" iconId="1090553316" description="key:620774745:228830419">
 <effect id="1879050134" name="Healing"/>
@@ -1715,7 +1673,6 @@
 </skill>
 <skill identifier="1879072565" name="Stealth" category="7" iconId="1091116228" description="key:620774798:228830419">
 <effect id="1879072566" name="Simple Stealth" type="TOGGLE"/>
-<effect id="1879072566" name="Simple Stealth" type="USER_TOGGLE"/>
 </skill>
 <skill identifier="1879073004" name="Wild Attack" category="24" iconId="1090553751" description="key:620774870:228830419"/>
 <skill identifier="1879073007" name="Blade-wall" category="33" iconId="1090553752" description="key:620774872:228830419">
@@ -1752,8 +1709,6 @@
 <skill identifier="1879073196" name="Distraction" iconId="1090522261" description="key:620775036:228830419">
 <effect id="1879049334" name="Distraction" type="TOGGLE"/>
 <effect id="1879101639" name="Distraction" type="TOGGLE"/>
-<effect id="1879049334" name="Distraction" type="USER_TOGGLE"/>
-<effect id="1879101639" name="Distraction" type="USER_TOGGLE"/>
 </skill>
 <skill identifier="1879073198" name="Evasion" iconId="1090553825" description="key:620775038:228830419">
 <effect id="1879073199" name="Evasion"/>
@@ -1797,7 +1752,6 @@
 </skill>
 <skill identifier="1879073320" name="Reveal Weakness" category="49" iconId="1090519172" description="key:620775141:228830419">
 <effect id="1879073322" name="Reveal Weakness" type="TOGGLE"/>
-<effect id="1879073322" name="Reveal Weakness" type="USER_TOGGLE"/>
 </skill>
 <skill identifier="1879073358" name="Quick Shot: Flaming Arrow" category="34" iconId="1090553927" description="key:620775160:228830419"/>
 <skill identifier="1879073359" name="Quick Shot: Elvish Arrow" category="34" iconId="1090553926" description="key:620775159:228830419"/>
@@ -1828,7 +1782,6 @@
 </skill>
 <skill identifier="1879073437" name="Stance: Endurance" category="34" iconId="1090553960" description="key:620775233:228830419">
 <effect id="1879073439" name="Stance: Endurance" type="TOGGLE"/>
-<effect id="1879073439" name="Stance: Endurance" type="USER_TOGGLE"/>
 </skill>
 <skill identifier="1879073470" name="Throw Stone" category="56" iconId="1090553966" description="key:620775240:228830419">
 <requiredTrait id="1879073469" name="Stoop for a Stone"/>
@@ -1844,12 +1797,10 @@
 <skill identifier="1879073491" name="Hobbit-stealth" category="56" iconId="1090553975" description="key:620775258:228830419">
 <requiredTrait id="1879073490" name="Hobbit-stealth"/>
 <effect id="1879073492" name="Hobbit Stealth" type="TOGGLE"/>
-<effect id="1879073492" name="Hobbit Stealth" type="USER_TOGGLE"/>
 </skill>
 <skill identifier="1879073495" name="Hobbit-silence" category="56" iconId="1090553977" description="key:620775262:228830419">
 <requiredTrait id="1879073494" name="Hobbit-silence"/>
 <effect id="1879073174" name="Still As Death" type="TOGGLE"/>
-<effect id="1879073174" name="Still As Death" type="USER_TOGGLE"/>
 </skill>
 <skill identifier="1879073516" name="Upper-cut" category="56" iconId="1090553989" description="key:620775272:228830419">
 <requiredTrait id="1879073515" name="Upper-cut"/>
@@ -1869,7 +1820,6 @@
 <skill identifier="1879073559" name="Sylvan Shadows" category="56" iconId="1090554008" description="key:620775301:228830419">
 <requiredTrait id="1879073558" name="Sylvan Shadows"/>
 <effect id="1879073492" name="Hobbit Stealth" type="TOGGLE"/>
-<effect id="1879073492" name="Hobbit Stealth" type="USER_TOGGLE"/>
 </skill>
 <skill identifier="1879073567" name="Return to Rivendell" category="56" iconId="1090554013" description="key:620775310:228830419">
 <requiredTrait id="1879073483" name="Return to Rivendell"/>
@@ -1938,7 +1888,6 @@
 </skill>
 <skill identifier="1879073715" name="Aura of Command" category="7" iconId="1090555721" description="key:620775413:228830419">
 <effect id="1879073734" type="TOGGLE"/>
-<effect id="1879073734" type="USER_TOGGLE"/>
 </skill>
 <skill identifier="1879073716" name="1H Weapon/Shield Attack" iconId="1090519170" description="key:620775415:228830419"/>
 <skill identifier="1879073737" name="Piercing Attack" category="8" iconId="1090555723" description="key:620775417:228830419">
@@ -1961,7 +1910,6 @@
 </skill>
 <skill identifier="1879073743" name="Trapdoor Sanctuary" category="11" iconId="1090553284" description="key:620775425:228830419">
 <effect id="1879072539" name="Trapdoor Sanctuary" type="TOGGLE"/>
-<effect id="1879072539" name="Trapdoor Sanctuary" type="USER_TOGGLE"/>
 </skill>
 <skill identifier="1879073750" name="Claws" category="8" iconId="1090555730" description="key:620775427:228830419"/>
 <skill identifier="1879073751" name="Pounce" category="8" iconId="1090555732" description="key:620775429:228830419">
@@ -2052,8 +2000,6 @@
 <skill identifier="1879078538" name="Grappling Bite" iconId="1090522259">
 <effect id="1879078540" name="Vicious Bite" type="TOGGLE"/>
 <effect id="1879078541" name="Grappled" type="TOGGLE"/>
-<effect id="1879078540" name="Vicious Bite" type="USER_TOGGLE"/>
-<effect id="1879078541" name="Grappled" type="USER_TOGGLE"/>
 </skill>
 <skill identifier="1879078719" name="Sonic Blast" iconId="1090522259"/>
 <skill identifier="1879078720" name="Summon Broodling" iconId="1090522259">
@@ -2313,8 +2259,6 @@
 <skill identifier="1879085097" name="Unleash the Roots" iconId="1090522259">
 <effect id="1879085537" name="Crushing Root" type="TOGGLE"/>
 <effect id="1879085538" name="Constricting Root" type="TOGGLE"/>
-<effect id="1879085537" name="Crushing Root" type="USER_TOGGLE"/>
-<effect id="1879085538" name="Constricting Root" type="USER_TOGGLE"/>
 </skill>
 <skill identifier="1879085103" name="Hardening Root" iconId="1090522259">
 <effect id="1879085535" name="Hardened Bark"/>
@@ -2393,7 +2337,6 @@
 </skill>
 <skill identifier="1879086716" name="Glory" category="24" iconId="1090644842" description="key:620789558:228830419">
 <effect id="1879086995" name="Glory" type="TOGGLE"/>
-<effect id="1879086995" name="Glory" type="USER_TOGGLE"/>
 </skill>
 <skill identifier="1879086717" name="Red Haze" category="55" iconId="1090644843" description="key:620789559:228830419">
 <requiredEffect id="1879060310" name="Enemy Defeat Response"/>
@@ -2474,7 +2417,7 @@
 </skill>
 <skill identifier="1879087471" name="Despoil the Dead" iconId="1090522259">
 <effect id="1879083704" name="Protected" type="TOGGLE"/>
-<effect id="1879083704" name="Protected" type="USER_TOGGLE"/>
+<effect id="1879081320" name="Continual Major Renewal" type="USER_TOGGLE"/>
 </skill>
 <skill identifier="1879087473" name="Pestilent Filth" iconId="1090522259">
 <effect id="1879049534" name="Minor Diseased Frailty"/>
@@ -2529,7 +2472,7 @@
 </skill>
 <skill identifier="1879087548" name="Despoil the Dead" iconId="1090522259">
 <effect id="1879087549" name="Protected" type="TOGGLE"/>
-<effect id="1879087549" name="Protected" type="USER_TOGGLE"/>
+<effect id="1879081320" name="Continual Major Renewal" type="USER_TOGGLE"/>
 </skill>
 <skill identifier="1879087615" name="Hand of Fear" iconId="1090522259">
 <effect id="1879087641" name="Call to Pack"/>
@@ -2723,7 +2666,7 @@
 <skill identifier="1879089498" name="Fire Within" iconId="1090522259">
 <effect id="1879077346" name="Healing" spellcraft="0.33"/>
 </skill>
-<skill identifier="1879089621" name="Lesser Persistence" iconId="1090524209">
+<skill identifier="1879089621" name="Lesser Persistence" iconId="1090524209" description="key:620791509:228830419">
 <effect id="1879089620" name="Lesser Persistence"/>
 </skill>
 <skill identifier="1879089623" name="Inspire" category="25" iconId="1091037681" description="key:620791512:228830419">
@@ -2732,7 +2675,7 @@
 </skill>
 <skill identifier="1879089624" name="Shield-brother" category="14" iconId="1091037683" description="key:620791515:228830419">
 <effect id="1879089627" name="Shield-brother" type="TOGGLE"/>
-<effect id="1879089627" name="Shield-brother" type="USER_TOGGLE"/>
+<effect id="1879092643" name="Shield-brother" type="USER_TOGGLE"/>
 </skill>
 <skill identifier="1879089656" name="Gift of the Risen" iconId="1090522259">
 <effect id="1879087648" name="Gift of the Risen"/>
@@ -2741,7 +2684,6 @@
 <skill identifier="1879089742" name="Bow Attack" iconId="1090519170" description="key:620791619:228830419"/>
 <skill identifier="1879089788" name="Stealth" category="7" iconId="1091386857" description="key:620791657:228830419">
 <effect id="1879092466" name="Simple Stealth" type="TOGGLE"/>
-<effect id="1879092466" name="Simple Stealth" type="USER_TOGGLE"/>
 </skill>
 <skill identifier="1879089789" name="Misdirection" category="7" iconId="1091116229" description="key:620791658:228830419">
 <effect id="1879091316" name="Misdirection"/>
@@ -2754,7 +2696,6 @@
 </skill>
 <skill identifier="1879089818" name="Dúnedain Mark" category="42" iconId="1091116225" description="key:620791672:228830419">
 <effect id="1879089820" name="Dunedain Mark" type="TOGGLE"/>
-<effect id="1879089820" name="Dunedain Mark" type="USER_TOGGLE"/>
 </skill>
 <skill identifier="1879089819" name="Fly True" category="15" iconId="1091116227" description="key:620791673:228830419"/>
 <travelSkill identifier="1879089857" name="Return to Camp" category="48" iconId="1091388857" travelType="12" description="key:620791707:228830419">
@@ -2784,7 +2725,6 @@
 <skill identifier="1879089875" name="Heart Seeker" category="34" iconId="1091388859" description="key:620791718:228830419"/>
 <skill identifier="1879089876" name="Strength of the Earth" category="18" iconId="1091388956" description="key:620791719:228830419">
 <effect id="1879089879" name="Strength of the Earth" type="TOGGLE"/>
-<effect id="1879089879" name="Strength of the Earth" type="USER_TOGGLE"/>
 </skill>
 <skill identifier="1879090218" name="Crush" category="8" iconId="1091388969" description="key:620791968:228830419">
 <effect id="1879059825" name="Induce Stunned"/>
@@ -2811,7 +2751,6 @@
 </skill>
 <skill identifier="1879090228" name="Rampage" category="7" iconId="1091388975" description="key:620791978:228830419">
 <effect id="1879090229" name="Rampage" type="TOGGLE"/>
-<effect id="1879090229" name="Rampage" type="USER_TOGGLE"/>
 </skill>
 <skill identifier="1879090245" name="Roar" category="7" iconId="1091388974" description="key:620791995:228830419">
 <effect id="1879090247" name="Roar"/>
@@ -2866,7 +2805,6 @@
 </skill>
 <skill identifier="1879092681" name="Prized Pie" iconId="1090524209">
 <effect id="1879094072" name="Cosmetic" type="TOGGLE"/>
-<effect id="1879094072" name="Cosmetic" type="USER_TOGGLE"/>
 </skill>
 <skill identifier="1879092788" name="Escape from Darkness" category="25" iconId="1090533150" description="key:620793162:228830419">
 <effect id="1879053030" name="Escape From Corruption" spellcraft="37.0"/>
@@ -2913,7 +2851,6 @@
 <skill identifier="1879093044" name="Track Artifacts" category="57" iconId="1091388639" description="key:620793375:228830419">
 <requiredTrait id="1879093046" name="Track Artifacts"/>
 <effect id="1879093045" name="Track Artifacts" type="TOGGLE"/>
-<effect id="1879093045" name="Track Artifacts" type="USER_TOGGLE"/>
 </skill>
 <skill identifier="1879093057" name="1H Unarmed Attack" iconId="1090519170" description="key:620793379:228830419"/>
 <skill identifier="1879093058" name="Bob and Weave" category="7" iconId="1091388978" description="key:620793377:228830419">
@@ -2927,7 +2864,6 @@
 </skill>
 <skill identifier="1879093082" name="Prized Mailbag" iconId="1090524209">
 <effect id="1879094071" name="Cosmetic" type="TOGGLE"/>
-<effect id="1879094071" name="Cosmetic" type="USER_TOGGLE"/>
 </skill>
 <skill identifier="1879093313" name="Responsibility" iconId="1090524209">
 <effect id="1879093312" name="Responsibility"/>
@@ -2935,7 +2871,6 @@
 <skill identifier="1879093328" name="Fire From The Sky" iconId="1090522259"/>
 <skill identifier="1879093329" name="Growing Fire" iconId="1090522259">
 <effect id="1879093331" name="Growing Fire" type="TOGGLE"/>
-<effect id="1879093331" name="Growing Fire" type="USER_TOGGLE"/>
 </skill>
 <skill identifier="1879093336" name="Strength of Will" category="14" iconId="1091387386" description="key:620793501:228830419">
 <requiredEffect id="1879092643" name="Shield-brother"/>
@@ -2967,13 +2902,11 @@
 </skill>
 <skill identifier="1879093813" name="Nosey Hobbit Replicant" iconId="1090524209">
 <effect id="1879092783" name="Cosmetic" type="TOGGLE"/>
-<effect id="1879092783" name="Cosmetic" type="USER_TOGGLE"/>
 </skill>
 <skill identifier="1879093814" name="Specimen Jar: Fireflies" iconId="1090524209"/>
 <skill identifier="1879093815" name="Begging Cup" iconId="1090524209"/>
 <skill identifier="1879093816" name="Hungy Hobbit Replicant" iconId="1090524209">
 <effect id="1879092783" name="Cosmetic" type="TOGGLE"/>
-<effect id="1879092783" name="Cosmetic" type="USER_TOGGLE"/>
 </skill>
 <skill identifier="1879093817" name="Specimen Jar: Butterflies" iconId="1090524209"/>
 <skill identifier="1879093818" name="Specimen Jar: Flies" iconId="1090524209"/>
@@ -3004,7 +2937,6 @@
 </skill>
 <skill identifier="1879093928" name="Possum Impersonation" category="11" iconId="1091388979" description="key:620793907:228830419">
 <effect id="1879094298" name="Possum Impersonation" type="TOGGLE"/>
-<effect id="1879094298" name="Possum Impersonation" type="USER_TOGGLE"/>
 </skill>
 <skill identifier="1879094291" name="Whistle" iconId="1090524209"/>
 <skill identifier="1879094292" name="Whistle" iconId="1090524209"/>
@@ -3052,28 +2984,21 @@
 </skill>
 <skill identifier="1879094880" name="Tale of Warding" category="26" iconId="1091400032" description="key:620794645:228830419">
 <effect id="1879094883" name="Tale of Warding" type="TOGGLE"/>
-<effect id="1879094883" name="Tale of Warding" type="USER_TOGGLE"/>
 </skill>
 <skill identifier="1879094881" name="Tale of Battle" category="26" iconId="1091400031" description="key:620794644:228830419">
 <effect id="1879094887" name="Tale of Battle" type="TOGGLE"/>
-<effect id="1879094887" name="Tale of Battle" type="USER_TOGGLE"/>
 </skill>
 <skill identifier="1879094935" name="Chant of the Oathbreaker" category="59" iconId="1091400693" description="key:620794643:228830419">
 <effect id="1879095698" name="Ire of the Oathbreaker" type="TOGGLE"/>
 <effect id="1879095699" name="Ire of the Oathbreaker" type="TOGGLE"/>
-<effect id="1879095698" name="Ire of the Oathbreaker" type="USER_TOGGLE"/>
-<effect id="1879095699" name="Ire of the Oathbreaker" type="USER_TOGGLE"/>
 </skill>
 <skill identifier="1879094936" name="Chorus of the Oathbreakers" category="59" iconId="1091400694" description="key:620794716:228830419">
 <requiredEffect id="1879095617" name="War-speech"/>
 <effect id="1879096323" name="Wrath of the Oathbreakers" type="TOGGLE"/>
 <effect id="1879096324" name="Wrath of the Oathbreakers" type="TOGGLE"/>
-<effect id="1879096323" name="Wrath of the Oathbreakers" type="USER_TOGGLE"/>
-<effect id="1879096324" name="Wrath of the Oathbreakers" type="USER_TOGGLE"/>
 </skill>
 <skill identifier="1879094937" name="War-speech" category="59" iconId="1091400695" description="key:620794646:228830419">
 <effect id="1879095617" name="War-speech" type="TOGGLE"/>
-<effect id="1879095617" name="War-speech" type="USER_TOGGLE"/>
 </skill>
 <skill identifier="1879094938" name="Call to the Elder King" category="59" iconId="1091400033" description="key:620794638:228830419">
 <requiredEffect id="1879095617" name="War-speech"/>
@@ -3535,7 +3460,6 @@
 </skill>
 <skill identifier="1879095844" name="Channelling The Void" iconId="1090522259">
 <effect id="1879095831" name="Channelling The Void" type="TOGGLE"/>
-<effect id="1879095831" name="Channelling The Void" type="USER_TOGGLE"/>
 </skill>
 <skill identifier="1879095845" name="Beyond This World" iconId="1090522259">
 <effect id="1879095833" name="Summoned Minion"/>
@@ -3577,8 +3501,6 @@
 <skill identifier="1879096584" name="Heart Rend" iconId="1090522259">
 <effect id="1879059705" name="Impale" type="TOGGLE"/>
 <effect id="1879059706" name="Impaled" type="TOGGLE"/>
-<effect id="1879059705" name="Impale" type="USER_TOGGLE"/>
-<effect id="1879059706" name="Impaled" type="USER_TOGGLE"/>
 </skill>
 <skill identifier="1879096585" name="Terrifying Screech" iconId="1090522259">
 <effect id="1879050149" name="Induce Knocked Out"/>
@@ -3607,7 +3529,6 @@
 </skill>
 <skill identifier="1879096837" name="Scribe Stance" category="58" iconId="1091403997" description="key:620795820:228830419">
 <effect id="1879099078" name="Scribe Stance" type="TOGGLE"/>
-<effect id="1879099078" name="Scribe Stance" type="USER_TOGGLE"/>
 </skill>
 <skill identifier="1879096866" name="Scribe Manual : Bagpipes" category="58" iconId="1091404001" description="key:620795854:228830419">
 <effect id="1879099261" type="USER"/>
@@ -3644,11 +3565,9 @@
 </skill>
 <skill identifier="1879097091" name="Blood Gift" iconId="1090522259">
 <effect id="1879097782" name="Blood Gift" type="TOGGLE"/>
-<effect id="1879097782" name="Blood Gift" type="USER_TOGGLE"/>
 </skill>
 <skill identifier="1879097092" name="Bone Grind" iconId="1090522259">
 <effect id="1879097792" name="Bone Grind" type="TOGGLE"/>
-<effect id="1879097792" name="Bone Grind" type="USER_TOGGLE"/>
 <effect id="1879095105" name="Threatening Gaze" type="USER"/>
 </skill>
 <skill identifier="1879097096" name="Melee Fast Common Min" iconId="1090531787" description="key:620795893:228830419"/>

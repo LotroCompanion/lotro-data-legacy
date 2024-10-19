@@ -1799,6 +1799,7 @@
 <label key="key:620790668:228830419" value="Auto-attack when attacking with single unarmed attacks."/>
 <label key="key:620790894:228830419" value="This skill takes threat away from the Champion and gives it to a fellowship member."/>
 <label key="key:620790895:228830419" value="This skill takes threat away from a fellowship member and gives it to the Champion."/>
+<label key="key:620791509:228830419" value=""/>
 <label key="key:620791512:228830419" value="This melee attack raises the Morale of your Shield-brother."/>
 <label key="key:620791515:228830419" value="This toggle marks one of your fellows as your Shield-brother, making them the target of some of your abilities."/>
 <label key="key:620791618:228830419" value="Auto-attack when wielding only a single one-handed weapon."/>

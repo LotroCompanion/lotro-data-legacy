@@ -25,12 +25,14 @@
 <label key="1879049490" value="Gift"/>
 <label key="1879049493" value="Lähmendes Gift"/>
 <label key="1879049495" value="Verborgenes Gift"/>
+<label key="1879049496" value="Induce Stunned"/>
 <label key="1879049499" value="RunAwaySelf"/>
 <label key="1879049532" value="Leichte Krankheit"/>
 <label key="1879049534" value="Leichte Gebrechlichkeit durch Krankheit"/>
 <label key="1879049536" value="Krankheit"/>
 <label key="1879049538" value="Gebrechlichkeit durch Krankheit"/>
 <label key="1879049540" value="Schwärende Krankheit"/>
+<label key="1879049541" value="Induce Knockeddown"/>
 <label key="1879049583" value="Nach Hause reisen"/>
 <label key="1879049655" value="Verbesserte Kraft"/>
 <label key="1879049658" value="Voll"/>
@@ -59,9 +61,11 @@
 <label key="1879050240" value="Spalt-Unhold beschwören"/>
 <label key="1879050245" value="Induce Knockeddown"/>
 <label key="1879050246" value="Die Toten bestehlen"/>
+<label key="1879050247" value="Die Toten bestehlen"/>
 <label key="1879050253" value="Schwere Krankheit"/>
 <label key="1879050255" value="Große krankhafte Gebrechlichkeit"/>
 <label key="1879050257" value="Nagende Krankheit"/>
+<label key="1879050258" value="Kraftschaden"/>
 <label key="1879050262" value="Schwere Verstauchung"/>
 <label key="1879050263" value="Starke Verrenkung"/>
 <label key="1879050264" value="Schwere Verletzung"/>
@@ -111,6 +115,7 @@
 <label key="1879052163" value="Induce Fellowship Manoeuvre Stunned"/>
 <label key="1879052204" value="Induce Stunned"/>
 <label key="1879052213" value="Niederer Riesenadler"/>
+<label key="1879052290" value="Angeschlagen!"/>
 <label key="1879052293" value="Moral entziehen"/>
 <label key="1879052296" value="Aufopferung"/>
 <label key="1879052297" value="Überlebender"/>
@@ -127,6 +132,7 @@
 <label key="1879052520" value="Unterwegs (Heilung der Kraft)"/>
 <label key="1879052535" value="Angewurzelt (Dornenregen)"/>
 <label key="1879052657" value="Schattengriff"/>
+<label key="1879052658" value="Schattengriff"/>
 <label key="1879052660" value="Fürchterliche Vergeltung"/>
 <label key="1879052662" value="Aura des Schreckens"/>
 <label key="1879052671" value="Verletzbarkeit gegenüber Schatten"/>
@@ -335,11 +341,14 @@
 <label key="1879060755" value="Flankiert! Verbesserter Stabschlag"/>
 <label key="1879060762" value="Kraft entziehen"/>
 <label key="1879060763" value="Verbessertes Kraftentziehen"/>
+<label key="1879060764" value="Kraft stehlen: Verbessert (Entzug)"/>
+<label key="1879060767" value="Kraft stehlen (Entzug)"/>
 <label key="1879060776" value="Hoffnung"/>
 <label key="1879060782" value="Zeichen der Wildnis: Schutz"/>
 <label key="1879060790" value="Heilkunde"/>
 <label key="1879060796" value="Zeichen der Wildnis: Wut"/>
 <label key="1879060808" value="Das Erbeben von Arda"/>
+<label key="1879060809" value="Induce Rooted"/>
 <label key="1879060813" value="Weisheit des Rates"/>
 <label key="1879060814" value="Weisheit des Rats"/>
 <label key="1879060822" value="Induce Dazed"/>
@@ -562,6 +571,7 @@
 <label key="1879073176" value="Hammerhand-Lied"/>
 <label key="1879073180" value="Glühende Asche"/>
 <label key="1879073183" value="Rabe"/>
+<label key="1879073194" value="Benommen"/>
 <label key="1879073195" value="Segnung des Raben"/>
 <label key="1879073199" value="Ausweichen"/>
 <label key="1879073202" value="Innerer Fokus"/>
@@ -611,6 +621,7 @@
 <label key="1879073328" value="Taschendieb"/>
 <label key="1879073366" value="Stachelpfeil"/>
 <label key="1879073368" value="Glühender Pfeil"/>
+<label key="1879073369" value="Sengende Hitze"/>
 <label key="1879073370" value="Feuerpfeil"/>
 <label key="1879073391" value="Verlangsamender Schnitt"/>
 <label key="1879073395" value="Combo Enthäutender Schnitt/Stachelpfeil"/>
@@ -737,6 +748,7 @@
 <label key="1879080292" value="Augen auskratzen"/>
 <label key="1879081145" value="Hilfe für Bogenschützen"/>
 <label key="1879081261" value="Fackeltragen beenden"/>
+<label key="1879081320" value="Fortwährende große Erneuerung"/>
 <label key="1879082061" value="Ork beschwören"/>
 <label key="1879082062" value="Ork beschwören"/>
 <label key="1879082063" value="Ork beschwören"/>
@@ -805,6 +817,7 @@
 <label key="1879084346" value="Voll"/>
 <label key="1879084347" value="Voll"/>
 <label key="1879084348" value="Voll"/>
+<label key="1879084349" value="Schändlicher Diebstahl"/>
 <label key="1879084353" value="Schändlicher Diebstahl"/>
 <label key="1879084410" value="Tödliches Gift"/>
 <label key="1879084487" value="Voll"/>
@@ -839,6 +852,7 @@
 <label key="1879085384" value="Horn"/>
 <label key="1879085385" value="Induce Feared"/>
 <label key="1879085397" value="Horn"/>
+<label key="1879085467" value="Anfälligkeit gegen Wunden"/>
 <label key="1879085490" value="Geheime Pfade: Gramfuß"/>
 <label key="1879085510" value="Tödlicher Schrecken"/>
 <label key="1879085522" value="Stürmisches Inferno"/>
@@ -860,6 +874,7 @@
 <label key="1879085778" value="'Benommenheit' und 'Betäubung' beenden"/>
 <label key="1879085804" value="Schmerzhafter Preis"/>
 <label key="1879085805" value="Schattengriff"/>
+<label key="1879085806" value="Schattengriff"/>
 <label key="1879085807" value="Edles Zeichen"/>
 <label key="1879085848" value="Anthem of the Free Peoples"/>
 <label key="1879085950" value="Durchbohrende Wunde"/>
@@ -882,6 +897,7 @@
 <label key="1879087247" value="Verringerter Wille"/>
 <label key="1879087249" value="Verringertes Schicksal"/>
 <label key="1879087250" value="Erhöhtes Schicksal"/>
+<label key="1879087291" value="Red Haze Pip Gain"/>
 <label key="1879087328" value="Herbeigerufene Angmarim-Spinne."/>
 <label key="1879087329" value="Herbeigerufene Angmarim-Spinne."/>
 <label key="1879087332" value="Verringerte Moral"/>
@@ -891,7 +907,9 @@
 <label key="1879087382" value="Herbeigerufene Angmarim-Spinne."/>
 <label key="1879087397" value="Blockende Klingen"/>
 <label key="1879087438" value="Widerliches Sekret"/>
+<label key="1879087439" value="Widerliches Sekret"/>
 <label key="1879087458" value="Stinkender Unflat"/>
+<label key="1879087462" value="Beschworene Höhlenklaue"/>
 <label key="1879087464" value="Beschworene Höhlenklaue"/>
 <label key="1879087465" value="Beschworene Höhlenklaue"/>
 <label key="1879087504" value="Beständige Moral"/>
@@ -1085,6 +1103,7 @@
 <label key="1879093391" value="Verbesserte Standarte des Krieges"/>
 <label key="1879093395" value="Willenskraft"/>
 <label key="1879093488" value="Brennende Klingen"/>
+<label key="1879093696" value="Vom Licht geblendet"/>
 <label key="1879093699" value="Licht Elendils"/>
 <label key="1879093703" value="Gekennzeichnet"/>
 <label key="1879093754" value="Wigskolds Rache"/>
@@ -1191,6 +1210,7 @@
 <label key="1879095609" value="Schwächender Hauch"/>
 <label key="1879095610" value="Schwächender Hauch"/>
 <label key="1879095615" value="Schleichende Krankheit"/>
+<label key="1879095616" value="Widerliches Sekret"/>
 <label key="1879095617" value="Kriegsrede"/>
 <label key="1879095622" value="Effekt 'Gabe der Hammerhand'"/>
 <label key="1879095623" value=".."/>
@@ -1247,6 +1267,7 @@
 <label key="1879096865" value="Lernt Theorbe spielen."/>
 <label key="1879096879" value="Gut geschützt"/>
 <label key="1879096899" value="Dispel Half Mitigation"/>
+<label key="1879097098" value="Grausame Blutung"/>
 <label key="1879097165" value="Feueröl"/>
 <label key="1879097191" value="Letzte Tat"/>
 <label key="1879097219" value="Jubeln"/>
@@ -1289,6 +1310,7 @@
 <label key="1879097882" value="Angriff!"/>
 <label key="1879097886" value="Ich sehe Euch!"/>
 <label key="1879097897" value=".."/>
+<label key="1879097901" value="Brutlinge"/>
 <label key="1879097902" value="Starke Spinnweben"/>
 <label key="1879098038" value="Schatten zerstreuen"/>
 <label key="1879098101" value="Feuerzunge"/>
@@ -1306,8 +1328,13 @@
 <label key="1879098324" value="Exposing Strke Chain Up Base"/>
 <label key="1879098336" value="Induce Dazed"/>
 <label key="1879098376" value="Induce Feared"/>
+<label key="1879098720" value="Induce Dazed"/>
 <label key="1879098722" value="Größere Verletzbarkeit gegenüber Schatten"/>
 <label key="1879098723" value="Größere Anfälligkeit gegen Furcht"/>
+<label key="1879098725" value="Fast ganz entfernter Dorn"/>
+<label key="1879098726" value="Teilweise herausgezogener Dorn"/>
+<label key="1879098727" value="Tief eindringender Dorn"/>
+<label key="1879098808" value="Prozent Moralschaden"/>
 <label key="1879098828" value="Beschworener Feuerhauch"/>
 <label key="1879098830" value="Verbesserte Gabe der Hammerhand"/>
 <label key="1879098854" value="Flammengestählt"/>
@@ -1366,6 +1393,7 @@
 <label key="1879101910" value="Heim in Thorins Halle"/>
 <label key="1879101911" value="Heim in Thorins Halle"/>
 <label key="1879101912" value="Thorins Halle, Sippenhalle"/>
+<label key="1879101913" value="Flammenkeule"/>
 <label key="1879101996" value="Wurzel zurückrufen"/>
 <label key="1879102249" value="Huhn auf Reisen - Angmar"/>
 <label key="1879102250" value="Huhn auf Reisen - Breeland"/>
@@ -1510,6 +1538,7 @@
 <label key="key:620765792:54354734" value="Kraft wird entzogen."/>
 <label key="key:620765795:54354734" value="Kraft wird entzogen."/>
 <label key="key:620765826:54354734" value="Wo die Feinde Mittelerdes stehen, erhebt sich die Erde und bebt. Nach diesem Countdown ist das Ziel angewurzelt."/>
+<label key="key:620765827:181298206" value="Wurzelt bis zu 30 Sek. lang am Boden fest"/>
 <label key="key:620765833:54354734" value="Dieser Effekt fügt Angreifern eine Minute lang Schaden zu."/>
 <label key="key:620765837:181298206" value="Macht bis zu 30 Sek. benommen"/>
 <label key="key:620765954:181298206" value="Macht bis zu 30 Sek. benommen"/>
@@ -1689,6 +1718,7 @@
 <label key="key:620782699:181298206" value="Ihr platziert ein Banner des Sieges auf dem Schlachtfeld."/>
 <label key="key:620782702:181298206" value="Ihr platziert ein Kriegsbanner auf dem Schlachtfeld."/>
 <label key="key:620783932:181298206" value="'Benommenheit' oder 'Betäubung' abschütteln."/>
+<label key="key:620783939:181298206" value="Macht bis zu 15 Sek. benommen"/>
 <label key="key:620783940:181298206" value="Versetzt für bis zu 15 Sek. in Furcht"/>
 <label key="key:620783959:181298206" value="Betäubt 3 Sek. lang"/>
 <label key="key:620783960:181298206" value="Betäubt 3 Sek. lang"/>
@@ -1699,6 +1729,7 @@
 <label key="key:620784436:106251889" value="Erhöht Eure Gesamtmoral um ${PERCENTVALUE}."/>
 <label key="key:620784436:54354734" value="Die Ehre der Menschen erhöht die Moral."/>
 <label key="key:620784437:106251890" value="Erhöhte Chance auf einen Fehlschlag"/>
+<label key="key:620784470:54354734" value="Verringert Widerstandskraft gegen Wunden"/>
 <label key="key:620784471:181298206" value="Beschwört einen Ork-Bogenschützen, der seinem Herren folgt."/>
 <label key="key:620784537:54354734" value="Das Benutzen von geheimen Pfaden ermöglicht die schnelle Reise nach Gramfuß."/>
 <label key="key:620788978:54354734" value="Will das Ziel dazu bringen, Euch als die größte Bedrohung anzusehen."/>
@@ -1957,6 +1988,9 @@
 <label key="key:620796892:181298206" value="Versetzt für bis zu 10 Sek. in Furcht"/>
 <label key="key:620797179:54354734" value="Verringert Schadensminderung durch Schatten."/>
 <label key="key:620797180:54354734" value="Verringert die Widerstandskraft gegen Furcht."/>
+<label key="key:620797184:54354734" value="Der Nesseldorn ist fast draußen, kann aber immer noch gefährlich sein, wenn er aufplatzt, ehe er ganz herausgezogen ist."/>
+<label key="key:620797186:54354734" value="Der Dorn sitzt immer noch im Fleisch, wenn auch nicht mehr so tief. Er kann immer noch aufplatzen und sollte entfernt werden."/>
+<label key="key:620797187:54354734" value="Ein gewundener, spitzer Dorn sitzt tief im Fleisch. Er scheint anzuschwellen und könnte aufplatzen. Wenn er nicht entfernt wird, richtet er großen Schaden an."/>
 <label key="key:620797275:209988549" value="Die Gabe der Hammerhand absorbiert den gesamten Schaden."/>
 <label key="key:620797275:54354734" value="Aller erlittener Moralschaden wird in Kraftschaden umgewandelt."/>
 <label key="key:620797287:106251889" value="Annulliert fast den gesamten erlittenen Schaden."/>

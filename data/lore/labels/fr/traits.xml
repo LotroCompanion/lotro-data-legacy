@@ -1368,6 +1368,8 @@
 <label key="key:620774689:106251889" value="Augmente votre santé totale de ${PERCENTVALUE}."/>
 <label key="key:620774692:191029568" value="Réduit d'un quart de seconde le temps de déclenchement de vos attaques de toile."/>
 <label key="key:620774692:54354734" value="Réduit d'un quart de seconde le temps de déclenchement de vos attaques de toile."/>
+<label key="key:620774695:191029568" value=""/>
+<label key="key:620774695:54354734" value=""/>
 <label key="key:620774696:191029568" value="Vous recouvrez votre cible d'une toile collante qui réduit ses chances de parade et d'esquive."/>
 <label key="key:620774696:54354734" value="Vous recouvrez votre cible d'une toile collante qui réduit ses chances de parade et d'esquive."/>
 <label key="key:620774705:191029568" value="Autre apparence visuelle pour votre araignée tisseuse"/>

@@ -1,4 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?><labels locale="ru">
+<label key="-1000" value="Devastate chance (melee)"/>
+<label key="-1001" value="Devastate chance (ranged)"/>
+<label key="-1002" value="Devastate chance (tactical)"/>
+<label key="-1003" value="Critical/Devastate Magnitude (melee)"/>
+<label key="-1004" value="Critical/Devastate Magnitude (ranged)"/>
+<label key="-1005" value="Critical/Devastate Magnitude (tactical)"/>
+<label key="-1006" value="Finesse (%)"/>
+<label key="-1007" value="Resistance (%)"/>
+<label key="-1008" value="Armour"/>
+<label key="-1009" value="DPS"/>
+<label key="-1010" value="Shield Use Rank"/>
 <label key="268435463" value="ед."/>
 <label key="268435464" value="Минимальное количество"/>
 <label key="268435465" value="ко времени применения лечащих умений"/>
